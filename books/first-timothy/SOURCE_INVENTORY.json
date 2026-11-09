@@ -1,0 +1,16 @@
+{
+  "edition_id": "KJV1769",
+  "book_code": "1TI",
+  "original_archive": "eng-kjv2006_usfm.zip",
+  "archive_sha256": "ce1f526c64c2376f407308c2c23cb2d2fb58efaf5296327d2d8e408c3700650d",
+  "usfm_filename": "84-1TIeng-kjv2006.usfm",
+  "usfm_sha256": "6daaf7b26db5f91b873e19dd46f2d6ecb1f7efc28f16ba92a55fbac3d67ea163",
+  "acquisition": "owner-uploaded vetted archive, 2026-11-09",
+  "original_source_page": "https://ebible.org/Scriptures/details.php?id=eng-kjv2006",
+  "source_edition": "King James Version, standardized text of 1769; eBible eng-kjv2006 USFM source",
+  "source_archive_preserved_outside_public_repository": true,
+  "source_usfm_contains_strongs_annotations": true,
+  "published_chapter_json_contains_strongs": false,
+  "historical_scans_included": false,
+  "uk_printing_rights_notice": "UK Crown rights noted by source; no claim that UK printing rights are waived."
+}
