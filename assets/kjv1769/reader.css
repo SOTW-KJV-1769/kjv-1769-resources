@@ -1,0 +1,30 @@
+
+:root{font-family:Georgia,'Times New Roman',serif;color:#192b32;background:#f7f5ef}
+*{box-sizing:border-box}body{margin:0}header{background:#132f37;color:#fcf8ec;padding:20px max(20px,calc((100vw - 1080px)/2))}
+header small{color:#c8d7d1;letter-spacing:.11em;font:600 11px Arial,sans-serif}
+header h1{font-weight:normal;font-size:clamp(25px,4vw,38px);margin:6px 0}
+main{max-width:1080px;margin:24px auto;padding:0 16px}
+.panel{background:#fff;border:1px solid #d4d9d6;box-shadow:0 2px 16px #0b28350a;border-radius:12px;min-width:0;overflow:hidden}
+.toolbar{padding:15px;border-bottom:1px solid #e4e6e2;display:flex;gap:9px;align-items:center;flex-wrap:wrap}
+.toolbar label{font:600 13px Arial,sans-serif;color:#304f58}
+select,button{font:14px Arial,sans-serif;border:1px solid #a8b4b6;border-radius:6px;padding:9px;background:#fff;color:#173943;max-width:100%}
+button{background:#1c515a;color:#fff;border-color:#1c515a;cursor:pointer}
+button:disabled{opacity:.4;cursor:default}
+button:focus-visible,select:focus-visible,a:focus-visible,.verse:focus-visible{outline:3px solid #b48f47;outline-offset:2px}
+#title{margin:0 0 12px;font-size:clamp(24px,4vw,32px);font-weight:normal}
+#text{padding:18px clamp(14px,4vw,34px) 26px;font-size:clamp(18px,2vw,21px);line-height:1.8}
+.verse{display:inline;cursor:pointer;border-radius:4px;padding:2px 1px;outline-offset:0}
+.verse:focus{outline:2px solid #b48f47}
+.verse.selected{background:#eff4ed;box-shadow:0 0 0 2px #96b2a3}
+.vnum{font:600 12px Arial,sans-serif;color:#51767c;vertical-align:super;margin-right:3px}
+.verse.paragraph::before{content:'';display:block;height:.9em}
+.supplied{font-style:italic}
+.superscription{font:italic 15px/1.65 Georgia,serif;color:#557078;margin:8px 0 16px}
+#selection{padding:16px;background:#f7faf7;border-top:1px solid #dce6df;font:14px/1.6 Arial,sans-serif}
+#selection strong{color:#1d414a}
+#error{color:#9c3933;padding:0 16px;font:14px Arial,sans-serif}
+.tools-note{font:13px/1.6 Arial,sans-serif;color:#60777b;margin:4px 0 0}
+.about{margin:24px 0;font:14px/1.65 Arial,sans-serif;color:#2c5058}
+.about summary{cursor:pointer;font-weight:700}.about a,a{color:#1a5562}footer{max-width:1080px;margin:0 auto 32px;padding:0 16px;font:12px/1.6 Arial,sans-serif;color:#577078}
+.navrow{display:flex;gap:8px;flex-wrap:wrap;align-items:center;justify-content:space-between}
+@media(max-width:620px){.toolbar{align-items:flex-end}.toolbar select{min-width:100px}header{padding:18px 16px}#text{line-height:1.75}}
