@@ -1,0 +1,16 @@
+{
+  "status": "PASS_SOURCE_PROJECTION_CHECKS",
+  "source_archive_sha256": "ce1f526c64c2376f407308c2c23cb2d2fb58efaf5296327d2d8e408c3700650d",
+  "edition_id": "KJV1769",
+  "book_code": "NUM",
+  "book_name": "Numbers",
+  "chapter_count": 36,
+  "verse_count": 1288,
+  "source_verse_markers": 1288,
+  "word_markup_removed": 12501,
+  "footnote_markup_removed": 174,
+  "source_supplied_word_runs": 868,
+  "superscriptions_preserved": 0,
+  "data_schema": "ASV-style v1.0.0 KJV identity variant",
+  "limitations": "No independently digitized print-edition collation or browser deployment verification is claimed."
+}
