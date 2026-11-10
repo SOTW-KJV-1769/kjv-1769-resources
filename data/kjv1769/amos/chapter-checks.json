@@ -1,0 +1,53 @@
+{
+  "edition_id": "KJV1769",
+  "book_code": "AMO",
+  "chapter_count": 9,
+  "verse_count": 146,
+  "chapters": [
+    {
+      "chapter": 1,
+      "verse_count": 15,
+      "sha256": "4cc804de0951594a630acd01982e4f05315711d8bc5f0bd994d05ca78a271845"
+    },
+    {
+      "chapter": 2,
+      "verse_count": 16,
+      "sha256": "2973e7eb544549db2cb2bd663ec733c979d525806dd75a60359695898592ccb5"
+    },
+    {
+      "chapter": 3,
+      "verse_count": 15,
+      "sha256": "b26801aff6e9a574bfe6d5a76040e905288ef107d0413dbc941ec53676b858f2"
+    },
+    {
+      "chapter": 4,
+      "verse_count": 13,
+      "sha256": "94c1a8522d0172755afaab37a0af59181a69d7cc99ecf9c539d86e95bca93aa5"
+    },
+    {
+      "chapter": 5,
+      "verse_count": 27,
+      "sha256": "a61979499aec89ebae6cf3f4c3756a718645c68e10eeaa6929ed6113c279c1b3"
+    },
+    {
+      "chapter": 6,
+      "verse_count": 14,
+      "sha256": "28dbfd11568aaacb0f1843485a2527f29b05cdd36d4fc6b20355cf991de969f1"
+    },
+    {
+      "chapter": 7,
+      "verse_count": 17,
+      "sha256": "1e6ce5418abf9956c83ec7a10f96b0b2a9efb408e3328b07dd3785a9b9b98c7b"
+    },
+    {
+      "chapter": 8,
+      "verse_count": 14,
+      "sha256": "f065dbdf6c7b9820f4afb418ba311e61d13b601ea6e1affa8a1747897e69ae96"
+    },
+    {
+      "chapter": 9,
+      "verse_count": 15,
+      "sha256": "0fd5e9ba2c310bcf2738c9dd17ce2158001207dedda2b51c9a530a9739d0651f"
+    }
+  ]
+}

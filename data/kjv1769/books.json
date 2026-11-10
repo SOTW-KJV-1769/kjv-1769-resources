@@ -1,0 +1,670 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "KJV1769",
+  "title": "King James Version (1769 standardized text)",
+  "book_count": 66,
+  "chapter_count": 1189,
+  "verse_count": 31102,
+  "books": [
+    {
+      "code": "GEN",
+      "name": "Genesis",
+      "slug": "genesis",
+      "order": 1,
+      "chapter_count": 50,
+      "verse_count": 1533,
+      "verse_id_pattern": "GEN.{chapter}.{verse}",
+      "edition_verse_id_pattern": "KJV1769:GEN.{chapter}.{verse}"
+    },
+    {
+      "code": "EXO",
+      "name": "Exodus",
+      "slug": "exodus",
+      "order": 2,
+      "chapter_count": 40,
+      "verse_count": 1213,
+      "verse_id_pattern": "EXO.{chapter}.{verse}",
+      "edition_verse_id_pattern": "KJV1769:EXO.{chapter}.{verse}"
+    },
+    {
+      "code": "LEV",
+      "name": "Leviticus",
+      "slug": "leviticus",
+      "order": 3,
+      "chapter_count": 27,
+      "verse_count": 859,
+      "verse_id_pattern": "LEV.{chapter}.{verse}",
+      "edition_verse_id_pattern": "KJV1769:LEV.{chapter}.{verse}"
+    },
+    {
+      "code": "NUM",
+      "name": "Numbers",
+      "slug": "numbers",
+      "order": 4,
+      "chapter_count": 36,
+      "verse_count": 1288,
+      "verse_id_pattern": "NUM.{chapter}.{verse}",
+      "edition_verse_id_pattern": "KJV1769:NUM.{chapter}.{verse}"
+    },
+    {
+      "code": "DEU",
+      "name": "Deuteronomy",
+      "slug": "deuteronomy",
+      "order": 5,
+      "chapter_count": 34,
+      "verse_count": 959,
+      "verse_id_pattern": "DEU.{chapter}.{verse}",
+      "edition_verse_id_pattern": "KJV1769:DEU.{chapter}.{verse}"
+    },
+    {
+      "code": "JOS",
+      "name": "Joshua",
+      "slug": "joshua",
+      "order": 6,
+      "chapter_count": 24,
+      "verse_count": 658,
+      "verse_id_pattern": "JOS.{chapter}.{verse}",
+      "edition_verse_id_pattern": "KJV1769:JOS.{chapter}.{verse}"
+    },
+    {
+      "code": "JDG",
+      "name": "Judges",
+      "slug": "judges",
+      "order": 7,
+      "chapter_count": 21,
+      "verse_count": 618,
+      "verse_id_pattern": "JDG.{chapter}.{verse}",
+      "edition_verse_id_pattern": "KJV1769:JDG.{chapter}.{verse}"
+    },
+    {
+      "code": "RUT",
+      "name": "Ruth",
+      "slug": "ruth",
+      "order": 8,
+      "chapter_count": 4,
+      "verse_count": 85,
+      "verse_id_pattern": "RUT.{chapter}.{verse}",
+      "edition_verse_id_pattern": "KJV1769:RUT.{chapter}.{verse}"
+    },
+    {
+      "code": "1SA",
+      "name": "1 Samuel",
+      "slug": "first-samuel",
+      "order": 9,
+      "chapter_count": 31,
+      "verse_count": 810,
+      "verse_id_pattern": "1SA.{chapter}.{verse}",
+      "edition_verse_id_pattern": "KJV1769:1SA.{chapter}.{verse}"
+    },
+    {
+      "code": "2SA",
+      "name": "2 Samuel",
+      "slug": "second-samuel",
+      "order": 10,
+      "chapter_count": 24,
+      "verse_count": 695,
+      "verse_id_pattern": "2SA.{chapter}.{verse}",
+      "edition_verse_id_pattern": "KJV1769:2SA.{chapter}.{verse}"
+    },
+    {
+      "code": "1KI",
+      "name": "1 Kings",
+      "slug": "first-kings",
+      "order": 11,
+      "chapter_count": 22,
+      "verse_count": 816,
+      "verse_id_pattern": "1KI.{chapter}.{verse}",
+      "edition_verse_id_pattern": "KJV1769:1KI.{chapter}.{verse}"
+    },
+    {
+      "code": "2KI",
+      "name": "2 Kings",
+      "slug": "second-kings",
+      "order": 12,
+      "chapter_count": 25,
+      "verse_count": 719,
+      "verse_id_pattern": "2KI.{chapter}.{verse}",
+      "edition_verse_id_pattern": "KJV1769:2KI.{chapter}.{verse}"
+    },
+    {
+      "code": "1CH",
+      "name": "1 Chronicles",
+      "slug": "first-chronicles",
+      "order": 13,
+      "chapter_count": 29,
+      "verse_count": 942,
+      "verse_id_pattern": "1CH.{chapter}.{verse}",
+      "edition_verse_id_pattern": "KJV1769:1CH.{chapter}.{verse}"
+    },
+    {
+      "code": "2CH",
+      "name": "2 Chronicles",
+      "slug": "second-chronicles",
+      "order": 14,
+      "chapter_count": 36,
+      "verse_count": 822,
+      "verse_id_pattern": "2CH.{chapter}.{verse}",
+      "edition_verse_id_pattern": "KJV1769:2CH.{chapter}.{verse}"
+    },
+    {
+      "code": "EZR",
+      "name": "Ezra",
+      "slug": "ezra",
+      "order": 15,
+      "chapter_count": 10,
+      "verse_count": 280,
+      "verse_id_pattern": "EZR.{chapter}.{verse}",
+      "edition_verse_id_pattern": "KJV1769:EZR.{chapter}.{verse}"
+    },
+    {
+      "code": "NEH",
+      "name": "Nehemiah",
+      "slug": "nehemiah",
+      "order": 16,
+      "chapter_count": 13,
+      "verse_count": 406,
+      "verse_id_pattern": "NEH.{chapter}.{verse}",
+      "edition_verse_id_pattern": "KJV1769:NEH.{chapter}.{verse}"
+    },
+    {
+      "code": "EST",
+      "name": "Esther",
+      "slug": "esther",
+      "order": 17,
+      "chapter_count": 10,
+      "verse_count": 167,
+      "verse_id_pattern": "EST.{chapter}.{verse}",
+      "edition_verse_id_pattern": "KJV1769:EST.{chapter}.{verse}"
+    },
+    {
+      "code": "JOB",
+      "name": "Job",
+      "slug": "job",
+      "order": 18,
+      "chapter_count": 42,
+      "verse_count": 1070,
+      "verse_id_pattern": "JOB.{chapter}.{verse}",
+      "edition_verse_id_pattern": "KJV1769:JOB.{chapter}.{verse}"
+    },
+    {
+      "code": "PSA",
+      "name": "Psalms",
+      "slug": "psalms",
+      "order": 19,
+      "chapter_count": 150,
+      "verse_count": 2461,
+      "verse_id_pattern": "PSA.{chapter}.{verse}",
+      "edition_verse_id_pattern": "KJV1769:PSA.{chapter}.{verse}"
+    },
+    {
+      "code": "PRO",
+      "name": "Proverbs",
+      "slug": "proverbs",
+      "order": 20,
+      "chapter_count": 31,
+      "verse_count": 915,
+      "verse_id_pattern": "PRO.{chapter}.{verse}",
+      "edition_verse_id_pattern": "KJV1769:PRO.{chapter}.{verse}"
+    },
+    {
+      "code": "ECC",
+      "name": "Ecclesiastes",
+      "slug": "ecclesiastes",
+      "order": 21,
+      "chapter_count": 12,
+      "verse_count": 222,
+      "verse_id_pattern": "ECC.{chapter}.{verse}",
+      "edition_verse_id_pattern": "KJV1769:ECC.{chapter}.{verse}"
+    },
+    {
+      "code": "SNG",
+      "name": "Song of Solomon",
+      "slug": "song-of-solomon",
+      "order": 22,
+      "chapter_count": 8,
+      "verse_count": 117,
+      "verse_id_pattern": "SNG.{chapter}.{verse}",
+      "edition_verse_id_pattern": "KJV1769:SNG.{chapter}.{verse}"
+    },
+    {
+      "code": "ISA",
+      "name": "Isaiah",
+      "slug": "isaiah",
+      "order": 23,
+      "chapter_count": 66,
+      "verse_count": 1292,
+      "verse_id_pattern": "ISA.{chapter}.{verse}",
+      "edition_verse_id_pattern": "KJV1769:ISA.{chapter}.{verse}"
+    },
+    {
+      "code": "JER",
+      "name": "Jeremiah",
+      "slug": "jeremiah",
+      "order": 24,
+      "chapter_count": 52,
+      "verse_count": 1364,
+      "verse_id_pattern": "JER.{chapter}.{verse}",
+      "edition_verse_id_pattern": "KJV1769:JER.{chapter}.{verse}"
+    },
+    {
+      "code": "LAM",
+      "name": "Lamentations",
+      "slug": "lamentations",
+      "order": 25,
+      "chapter_count": 5,
+      "verse_count": 154,
+      "verse_id_pattern": "LAM.{chapter}.{verse}",
+      "edition_verse_id_pattern": "KJV1769:LAM.{chapter}.{verse}"
+    },
+    {
+      "code": "EZK",
+      "name": "Ezekiel",
+      "slug": "ezekiel",
+      "order": 26,
+      "chapter_count": 48,
+      "verse_count": 1273,
+      "verse_id_pattern": "EZK.{chapter}.{verse}",
+      "edition_verse_id_pattern": "KJV1769:EZK.{chapter}.{verse}"
+    },
+    {
+      "code": "DAN",
+      "name": "Daniel",
+      "slug": "daniel",
+      "order": 27,
+      "chapter_count": 12,
+      "verse_count": 357,
+      "verse_id_pattern": "DAN.{chapter}.{verse}",
+      "edition_verse_id_pattern": "KJV1769:DAN.{chapter}.{verse}"
+    },
+    {
+      "code": "HOS",
+      "name": "Hosea",
+      "slug": "hosea",
+      "order": 28,
+      "chapter_count": 14,
+      "verse_count": 197,
+      "verse_id_pattern": "HOS.{chapter}.{verse}",
+      "edition_verse_id_pattern": "KJV1769:HOS.{chapter}.{verse}"
+    },
+    {
+      "code": "JOL",
+      "name": "Joel",
+      "slug": "joel",
+      "order": 29,
+      "chapter_count": 3,
+      "verse_count": 73,
+      "verse_id_pattern": "JOL.{chapter}.{verse}",
+      "edition_verse_id_pattern": "KJV1769:JOL.{chapter}.{verse}"
+    },
+    {
+      "code": "AMO",
+      "name": "Amos",
+      "slug": "amos",
+      "order": 30,
+      "chapter_count": 9,
+      "verse_count": 146,
+      "verse_id_pattern": "AMO.{chapter}.{verse}",
+      "edition_verse_id_pattern": "KJV1769:AMO.{chapter}.{verse}"
+    },
+    {
+      "code": "OBA",
+      "name": "Obadiah",
+      "slug": "obadiah",
+      "order": 31,
+      "chapter_count": 1,
+      "verse_count": 21,
+      "verse_id_pattern": "OBA.{chapter}.{verse}",
+      "edition_verse_id_pattern": "KJV1769:OBA.{chapter}.{verse}"
+    },
+    {
+      "code": "JON",
+      "name": "Jonah",
+      "slug": "jonah",
+      "order": 32,
+      "chapter_count": 4,
+      "verse_count": 48,
+      "verse_id_pattern": "JON.{chapter}.{verse}",
+      "edition_verse_id_pattern": "KJV1769:JON.{chapter}.{verse}"
+    },
+    {
+      "code": "MIC",
+      "name": "Micah",
+      "slug": "micah",
+      "order": 33,
+      "chapter_count": 7,
+      "verse_count": 105,
+      "verse_id_pattern": "MIC.{chapter}.{verse}",
+      "edition_verse_id_pattern": "KJV1769:MIC.{chapter}.{verse}"
+    },
+    {
+      "code": "NAM",
+      "name": "Nahum",
+      "slug": "nahum",
+      "order": 34,
+      "chapter_count": 3,
+      "verse_count": 47,
+      "verse_id_pattern": "NAM.{chapter}.{verse}",
+      "edition_verse_id_pattern": "KJV1769:NAM.{chapter}.{verse}"
+    },
+    {
+      "code": "HAB",
+      "name": "Habakkuk",
+      "slug": "habakkuk",
+      "order": 35,
+      "chapter_count": 3,
+      "verse_count": 56,
+      "verse_id_pattern": "HAB.{chapter}.{verse}",
+      "edition_verse_id_pattern": "KJV1769:HAB.{chapter}.{verse}"
+    },
+    {
+      "code": "ZEP",
+      "name": "Zephaniah",
+      "slug": "zephaniah",
+      "order": 36,
+      "chapter_count": 3,
+      "verse_count": 53,
+      "verse_id_pattern": "ZEP.{chapter}.{verse}",
+      "edition_verse_id_pattern": "KJV1769:ZEP.{chapter}.{verse}"
+    },
+    {
+      "code": "HAG",
+      "name": "Haggai",
+      "slug": "haggai",
+      "order": 37,
+      "chapter_count": 2,
+      "verse_count": 38,
+      "verse_id_pattern": "HAG.{chapter}.{verse}",
+      "edition_verse_id_pattern": "KJV1769:HAG.{chapter}.{verse}"
+    },
+    {
+      "code": "ZEC",
+      "name": "Zechariah",
+      "slug": "zechariah",
+      "order": 38,
+      "chapter_count": 14,
+      "verse_count": 211,
+      "verse_id_pattern": "ZEC.{chapter}.{verse}",
+      "edition_verse_id_pattern": "KJV1769:ZEC.{chapter}.{verse}"
+    },
+    {
+      "code": "MAL",
+      "name": "Malachi",
+      "slug": "malachi",
+      "order": 39,
+      "chapter_count": 4,
+      "verse_count": 55,
+      "verse_id_pattern": "MAL.{chapter}.{verse}",
+      "edition_verse_id_pattern": "KJV1769:MAL.{chapter}.{verse}"
+    },
+    {
+      "code": "MAT",
+      "name": "Matthew",
+      "slug": "matthew",
+      "order": 40,
+      "chapter_count": 28,
+      "verse_count": 1071,
+      "verse_id_pattern": "MAT.{chapter}.{verse}",
+      "edition_verse_id_pattern": "KJV1769:MAT.{chapter}.{verse}"
+    },
+    {
+      "code": "MRK",
+      "name": "Mark",
+      "slug": "mark",
+      "order": 41,
+      "chapter_count": 16,
+      "verse_count": 678,
+      "verse_id_pattern": "MRK.{chapter}.{verse}",
+      "edition_verse_id_pattern": "KJV1769:MRK.{chapter}.{verse}"
+    },
+    {
+      "code": "LUK",
+      "name": "Luke",
+      "slug": "luke",
+      "order": 42,
+      "chapter_count": 24,
+      "verse_count": 1151,
+      "verse_id_pattern": "LUK.{chapter}.{verse}",
+      "edition_verse_id_pattern": "KJV1769:LUK.{chapter}.{verse}"
+    },
+    {
+      "code": "JHN",
+      "name": "John",
+      "slug": "john",
+      "order": 43,
+      "chapter_count": 21,
+      "verse_count": 879,
+      "verse_id_pattern": "JHN.{chapter}.{verse}",
+      "edition_verse_id_pattern": "KJV1769:JHN.{chapter}.{verse}"
+    },
+    {
+      "code": "ACT",
+      "name": "Acts",
+      "slug": "acts",
+      "order": 44,
+      "chapter_count": 28,
+      "verse_count": 1007,
+      "verse_id_pattern": "ACT.{chapter}.{verse}",
+      "edition_verse_id_pattern": "KJV1769:ACT.{chapter}.{verse}"
+    },
+    {
+      "code": "ROM",
+      "name": "Romans",
+      "slug": "romans",
+      "order": 45,
+      "chapter_count": 16,
+      "verse_count": 433,
+      "verse_id_pattern": "ROM.{chapter}.{verse}",
+      "edition_verse_id_pattern": "KJV1769:ROM.{chapter}.{verse}"
+    },
+    {
+      "code": "1CO",
+      "name": "1 Corinthians",
+      "slug": "first-corinthians",
+      "order": 46,
+      "chapter_count": 16,
+      "verse_count": 437,
+      "verse_id_pattern": "1CO.{chapter}.{verse}",
+      "edition_verse_id_pattern": "KJV1769:1CO.{chapter}.{verse}"
+    },
+    {
+      "code": "2CO",
+      "name": "2 Corinthians",
+      "slug": "second-corinthians",
+      "order": 47,
+      "chapter_count": 13,
+      "verse_count": 257,
+      "verse_id_pattern": "2CO.{chapter}.{verse}",
+      "edition_verse_id_pattern": "KJV1769:2CO.{chapter}.{verse}"
+    },
+    {
+      "code": "GAL",
+      "name": "Galatians",
+      "slug": "galatians",
+      "order": 48,
+      "chapter_count": 6,
+      "verse_count": 149,
+      "verse_id_pattern": "GAL.{chapter}.{verse}",
+      "edition_verse_id_pattern": "KJV1769:GAL.{chapter}.{verse}"
+    },
+    {
+      "code": "EPH",
+      "name": "Ephesians",
+      "slug": "ephesians",
+      "order": 49,
+      "chapter_count": 6,
+      "verse_count": 155,
+      "verse_id_pattern": "EPH.{chapter}.{verse}",
+      "edition_verse_id_pattern": "KJV1769:EPH.{chapter}.{verse}"
+    },
+    {
+      "code": "PHP",
+      "name": "Philippians",
+      "slug": "philippians",
+      "order": 50,
+      "chapter_count": 4,
+      "verse_count": 104,
+      "verse_id_pattern": "PHP.{chapter}.{verse}",
+      "edition_verse_id_pattern": "KJV1769:PHP.{chapter}.{verse}"
+    },
+    {
+      "code": "COL",
+      "name": "Colossians",
+      "slug": "colossians",
+      "order": 51,
+      "chapter_count": 4,
+      "verse_count": 95,
+      "verse_id_pattern": "COL.{chapter}.{verse}",
+      "edition_verse_id_pattern": "KJV1769:COL.{chapter}.{verse}"
+    },
+    {
+      "code": "1TH",
+      "name": "1 Thessalonians",
+      "slug": "first-thessalonians",
+      "order": 52,
+      "chapter_count": 5,
+      "verse_count": 89,
+      "verse_id_pattern": "1TH.{chapter}.{verse}",
+      "edition_verse_id_pattern": "KJV1769:1TH.{chapter}.{verse}"
+    },
+    {
+      "code": "2TH",
+      "name": "2 Thessalonians",
+      "slug": "second-thessalonians",
+      "order": 53,
+      "chapter_count": 3,
+      "verse_count": 47,
+      "verse_id_pattern": "2TH.{chapter}.{verse}",
+      "edition_verse_id_pattern": "KJV1769:2TH.{chapter}.{verse}"
+    },
+    {
+      "code": "1TI",
+      "name": "1 Timothy",
+      "slug": "first-timothy",
+      "order": 54,
+      "chapter_count": 6,
+      "verse_count": 113,
+      "verse_id_pattern": "1TI.{chapter}.{verse}",
+      "edition_verse_id_pattern": "KJV1769:1TI.{chapter}.{verse}"
+    },
+    {
+      "code": "2TI",
+      "name": "2 Timothy",
+      "slug": "second-timothy",
+      "order": 55,
+      "chapter_count": 4,
+      "verse_count": 83,
+      "verse_id_pattern": "2TI.{chapter}.{verse}",
+      "edition_verse_id_pattern": "KJV1769:2TI.{chapter}.{verse}"
+    },
+    {
+      "code": "TIT",
+      "name": "Titus",
+      "slug": "titus",
+      "order": 56,
+      "chapter_count": 3,
+      "verse_count": 46,
+      "verse_id_pattern": "TIT.{chapter}.{verse}",
+      "edition_verse_id_pattern": "KJV1769:TIT.{chapter}.{verse}"
+    },
+    {
+      "code": "PHM",
+      "name": "Philemon",
+      "slug": "philemon",
+      "order": 57,
+      "chapter_count": 1,
+      "verse_count": 25,
+      "verse_id_pattern": "PHM.{chapter}.{verse}",
+      "edition_verse_id_pattern": "KJV1769:PHM.{chapter}.{verse}"
+    },
+    {
+      "code": "HEB",
+      "name": "Hebrews",
+      "slug": "hebrews",
+      "order": 58,
+      "chapter_count": 13,
+      "verse_count": 303,
+      "verse_id_pattern": "HEB.{chapter}.{verse}",
+      "edition_verse_id_pattern": "KJV1769:HEB.{chapter}.{verse}"
+    },
+    {
+      "code": "JAS",
+      "name": "James",
+      "slug": "james",
+      "order": 59,
+      "chapter_count": 5,
+      "verse_count": 108,
+      "verse_id_pattern": "JAS.{chapter}.{verse}",
+      "edition_verse_id_pattern": "KJV1769:JAS.{chapter}.{verse}"
+    },
+    {
+      "code": "1PE",
+      "name": "1 Peter",
+      "slug": "first-peter",
+      "order": 60,
+      "chapter_count": 5,
+      "verse_count": 105,
+      "verse_id_pattern": "1PE.{chapter}.{verse}",
+      "edition_verse_id_pattern": "KJV1769:1PE.{chapter}.{verse}"
+    },
+    {
+      "code": "2PE",
+      "name": "2 Peter",
+      "slug": "second-peter",
+      "order": 61,
+      "chapter_count": 3,
+      "verse_count": 61,
+      "verse_id_pattern": "2PE.{chapter}.{verse}",
+      "edition_verse_id_pattern": "KJV1769:2PE.{chapter}.{verse}"
+    },
+    {
+      "code": "1JN",
+      "name": "1 John",
+      "slug": "first-john",
+      "order": 62,
+      "chapter_count": 5,
+      "verse_count": 105,
+      "verse_id_pattern": "1JN.{chapter}.{verse}",
+      "edition_verse_id_pattern": "KJV1769:1JN.{chapter}.{verse}"
+    },
+    {
+      "code": "2JN",
+      "name": "2 John",
+      "slug": "second-john",
+      "order": 63,
+      "chapter_count": 1,
+      "verse_count": 13,
+      "verse_id_pattern": "2JN.{chapter}.{verse}",
+      "edition_verse_id_pattern": "KJV1769:2JN.{chapter}.{verse}"
+    },
+    {
+      "code": "3JN",
+      "name": "3 John",
+      "slug": "third-john",
+      "order": 64,
+      "chapter_count": 1,
+      "verse_count": 14,
+      "verse_id_pattern": "3JN.{chapter}.{verse}",
+      "edition_verse_id_pattern": "KJV1769:3JN.{chapter}.{verse}"
+    },
+    {
+      "code": "JUD",
+      "name": "Jude",
+      "slug": "jude",
+      "order": 65,
+      "chapter_count": 1,
+      "verse_count": 25,
+      "verse_id_pattern": "JUD.{chapter}.{verse}",
+      "edition_verse_id_pattern": "KJV1769:JUD.{chapter}.{verse}"
+    },
+    {
+      "code": "REV",
+      "name": "Revelation",
+      "slug": "revelation",
+      "order": 66,
+      "chapter_count": 22,
+      "verse_count": 404,
+      "verse_id_pattern": "REV.{chapter}.{verse}",
+      "edition_verse_id_pattern": "KJV1769:REV.{chapter}.{verse}"
+    }
+  ]
+}

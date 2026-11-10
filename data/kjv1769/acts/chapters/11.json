@@ -1,0 +1,400 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "KJV1769",
+  "book_code": "ACT",
+  "chapter": 11,
+  "verses": [
+    {
+      "id": "ACT.11.1",
+      "edition_verse_id": "KJV1769:ACT.11.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "And the apostles and brethren that were in Judæa heard that the Gentiles had also received the word of God.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ACT.11.2",
+      "edition_verse_id": "KJV1769:ACT.11.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "And when Peter was come up to Jerusalem, they that were of the circumcision contended with him,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.11.3",
+      "edition_verse_id": "KJV1769:ACT.11.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "Saying, Thou wentest in to men uncircumcised, and didst eat with them.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.11.4",
+      "edition_verse_id": "KJV1769:ACT.11.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "But Peter rehearsed ",
+          "kind": "text"
+        },
+        {
+          "text": "the matter",
+          "kind": "supplied"
+        },
+        {
+          "text": " from the beginning, and expounded ",
+          "kind": "text"
+        },
+        {
+          "text": "it",
+          "kind": "supplied"
+        },
+        {
+          "text": " by order unto them, saying,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.11.5",
+      "edition_verse_id": "KJV1769:ACT.11.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "I was in the city of Joppa praying: and in a trance I saw a vision, A certain vessel descend, as it had been a great sheet, let down from heaven by four corners; and it came even to me:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.11.6",
+      "edition_verse_id": "KJV1769:ACT.11.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "Upon the which when I had fastened mine eyes, I considered, and saw fourfooted beasts of the earth, and wild beasts, and creeping things, and fowls of the air.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.11.7",
+      "edition_verse_id": "KJV1769:ACT.11.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "And I heard a voice saying unto me, Arise, Peter; slay and eat.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.11.8",
+      "edition_verse_id": "KJV1769:ACT.11.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "But I said, Not so, Lord: for nothing common or unclean hath at any time entered into my mouth.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.11.9",
+      "edition_verse_id": "KJV1769:ACT.11.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "But the voice answered me again from heaven, What God hath cleansed, ",
+          "kind": "text"
+        },
+        {
+          "text": "that",
+          "kind": "supplied"
+        },
+        {
+          "text": " call not thou common.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.11.10",
+      "edition_verse_id": "KJV1769:ACT.11.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "And this was done three times: and all were drawn up again into heaven.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.11.11",
+      "edition_verse_id": "KJV1769:ACT.11.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "And, behold, immediately there were three men already come unto the house where I was, sent from Cæsarea unto me.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.11.12",
+      "edition_verse_id": "KJV1769:ACT.11.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "And the Spirit bade me go with them, nothing doubting. Moreover these six brethren accompanied me, and we entered into the man’s house:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.11.13",
+      "edition_verse_id": "KJV1769:ACT.11.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "And he shewed us how he had seen an angel in his house, which stood and said unto him, Send men to Joppa, and call for Simon, whose surname is Peter;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.11.14",
+      "edition_verse_id": "KJV1769:ACT.11.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "Who shall tell thee words, whereby thou and all thy house shall be saved.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.11.15",
+      "edition_verse_id": "KJV1769:ACT.11.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "And as I began to speak, the Holy Ghost fell on them, as on us at the beginning.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.11.16",
+      "edition_verse_id": "KJV1769:ACT.11.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "Then remembered I the word of the Lord, how that he said, John indeed baptized with water; but ye shall be baptized with the Holy Ghost.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.11.17",
+      "edition_verse_id": "KJV1769:ACT.11.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "Forasmuch then as God gave them the like gift as ",
+          "kind": "text"
+        },
+        {
+          "text": "he did",
+          "kind": "supplied"
+        },
+        {
+          "text": " unto us, who believed on the Lord Jesus Christ; what was I, that I could withstand God?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.11.18",
+      "edition_verse_id": "KJV1769:ACT.11.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "When they heard these things, they held their peace, and glorified God, saying, Then hath God also to the Gentiles granted repentance unto life.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.11.19",
+      "edition_verse_id": "KJV1769:ACT.11.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "¶ Now they which were scattered abroad upon the persecution that arose about Stephen travelled as far as Phenice, and Cyprus, and Antioch, preaching the word to none but unto the Jews only.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ACT.11.20",
+      "edition_verse_id": "KJV1769:ACT.11.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "And some of them were men of Cyprus and Cyrene, which, when they were come to Antioch, spake unto the Grecians, preaching the Lord Jesus.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.11.21",
+      "edition_verse_id": "KJV1769:ACT.11.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "And the hand of the Lord was with them: and a great number believed, and turned unto the Lord.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.11.22",
+      "edition_verse_id": "KJV1769:ACT.11.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "¶ Then tidings of these things came unto the ears of the church which was in Jerusalem: and they sent forth Barnabas, that he should go as far as Antioch.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ACT.11.23",
+      "edition_verse_id": "KJV1769:ACT.11.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "Who, when he came, and had seen the grace of God, was glad, and exhorted them all, that with purpose of heart they would cleave unto the Lord.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.11.24",
+      "edition_verse_id": "KJV1769:ACT.11.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "For he was a good man, and full of the Holy Ghost and of faith: and much people was added unto the Lord.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.11.25",
+      "edition_verse_id": "KJV1769:ACT.11.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "Then departed Barnabas to Tarsus, for to seek Saul:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.11.26",
+      "edition_verse_id": "KJV1769:ACT.11.26",
+      "verse": 26,
+      "spans": [
+        {
+          "text": "And when he had found him, he brought him unto Antioch. And it came to pass, that a whole year they assembled themselves with the church, and taught much people. And the disciples were called Christians first in Antioch.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.11.27",
+      "edition_verse_id": "KJV1769:ACT.11.27",
+      "verse": 27,
+      "spans": [
+        {
+          "text": "¶ And in these days came prophets from Jerusalem unto Antioch.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ACT.11.28",
+      "edition_verse_id": "KJV1769:ACT.11.28",
+      "verse": 28,
+      "spans": [
+        {
+          "text": "And there stood up one of them named Agabus, and signified by the Spirit that there should be great dearth throughout all the world: which came to pass in the days of Claudius Cæsar.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.11.29",
+      "edition_verse_id": "KJV1769:ACT.11.29",
+      "verse": 29,
+      "spans": [
+        {
+          "text": "Then the disciples, every man according to his ability, determined to send relief unto the brethren which dwelt in Judæa:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.11.30",
+      "edition_verse_id": "KJV1769:ACT.11.30",
+      "verse": 30,
+      "spans": [
+        {
+          "text": "Which also they did, and sent it to the elders by the hands of Barnabas and Saul.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

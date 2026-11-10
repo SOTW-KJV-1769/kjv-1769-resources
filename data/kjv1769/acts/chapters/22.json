@@ -1,0 +1,456 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "KJV1769",
+  "book_code": "ACT",
+  "chapter": 22,
+  "verses": [
+    {
+      "id": "ACT.22.1",
+      "edition_verse_id": "KJV1769:ACT.22.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "Men, brethren, and fathers, hear ye my defence ",
+          "kind": "text"
+        },
+        {
+          "text": "which I make",
+          "kind": "supplied"
+        },
+        {
+          "text": " now unto you.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ACT.22.2",
+      "edition_verse_id": "KJV1769:ACT.22.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "(And when they heard that he spake in the Hebrew tongue to them, they kept the more silence: and he saith,)",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.22.3",
+      "edition_verse_id": "KJV1769:ACT.22.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "I am verily a man ",
+          "kind": "text"
+        },
+        {
+          "text": "which am",
+          "kind": "supplied"
+        },
+        {
+          "text": " a Jew, born in Tarsus, ",
+          "kind": "text"
+        },
+        {
+          "text": "a city",
+          "kind": "supplied"
+        },
+        {
+          "text": " in Cilicia, yet brought up in this city at the feet of Gamaliel, ",
+          "kind": "text"
+        },
+        {
+          "text": "and",
+          "kind": "supplied"
+        },
+        {
+          "text": " taught according to the perfect manner of the law of the fathers, and was zealous toward God, as ye all are this day.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.22.4",
+      "edition_verse_id": "KJV1769:ACT.22.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "And I persecuted this way unto the death, binding and delivering into prisons both men and women.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.22.5",
+      "edition_verse_id": "KJV1769:ACT.22.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "As also the high priest doth bear me witness, and all the estate of the elders: from whom also I received letters unto the brethren, and went to Damascus, to bring them which were there bound unto Jerusalem, for to be punished.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.22.6",
+      "edition_verse_id": "KJV1769:ACT.22.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "And it came to pass, that, as I made my journey, and was come nigh unto Damascus about noon, suddenly there shone from heaven a great light round about me.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.22.7",
+      "edition_verse_id": "KJV1769:ACT.22.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "And I fell unto the ground, and heard a voice saying unto me, Saul, Saul, why persecutest thou me?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.22.8",
+      "edition_verse_id": "KJV1769:ACT.22.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "And I answered, Who art thou, Lord? And he said unto me, I am Jesus of Nazareth, whom thou persecutest.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.22.9",
+      "edition_verse_id": "KJV1769:ACT.22.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "And they that were with me saw indeed the light, and were afraid; but they heard not the voice of him that spake to me.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.22.10",
+      "edition_verse_id": "KJV1769:ACT.22.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "And I said, What shall I do, Lord? And the Lord said unto me, Arise, and go into Damascus; and there it shall be told thee of all things which are appointed for thee to do.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.22.11",
+      "edition_verse_id": "KJV1769:ACT.22.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "And when I could not see for the glory of that light, being led by the hand of them that were with me, I came into Damascus.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.22.12",
+      "edition_verse_id": "KJV1769:ACT.22.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "And one Ananias, a devout man according to the law, having a good report of all the Jews which dwelt ",
+          "kind": "text"
+        },
+        {
+          "text": "there",
+          "kind": "supplied"
+        },
+        {
+          "text": ",",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.22.13",
+      "edition_verse_id": "KJV1769:ACT.22.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "Came unto me, and stood, and said unto me, Brother Saul, receive thy sight. And the same hour I looked up upon him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.22.14",
+      "edition_verse_id": "KJV1769:ACT.22.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "And he said, The God of our fathers hath chosen thee, that thou shouldest know his will, and see that Just One, and shouldest hear the voice of his mouth.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.22.15",
+      "edition_verse_id": "KJV1769:ACT.22.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "For thou shalt be his witness unto all men of what thou hast seen and heard.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.22.16",
+      "edition_verse_id": "KJV1769:ACT.22.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "And now why tarriest thou? arise, and be baptized, and wash away thy sins, calling on the name of the Lord.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.22.17",
+      "edition_verse_id": "KJV1769:ACT.22.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "And it came to pass, that, when I was come again to Jerusalem, even while I prayed in the temple, I was in a trance;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.22.18",
+      "edition_verse_id": "KJV1769:ACT.22.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "And saw him saying unto me, Make haste, and get thee quickly out of Jerusalem: for they will not receive thy testimony concerning me.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.22.19",
+      "edition_verse_id": "KJV1769:ACT.22.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "And I said, Lord, they know that I imprisoned and beat in every synagogue them that believed on thee:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.22.20",
+      "edition_verse_id": "KJV1769:ACT.22.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "And when the blood of thy martyr Stephen was shed, I also was standing by, and consenting unto his death, and kept the raiment of them that slew him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.22.21",
+      "edition_verse_id": "KJV1769:ACT.22.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "And he said unto me, Depart: for I will send thee far hence unto the Gentiles.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.22.22",
+      "edition_verse_id": "KJV1769:ACT.22.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "And they gave him audience unto this word, and ",
+          "kind": "text"
+        },
+        {
+          "text": "then",
+          "kind": "supplied"
+        },
+        {
+          "text": " lifted up their voices, and said, Away with such a ",
+          "kind": "text"
+        },
+        {
+          "text": "fellow",
+          "kind": "supplied"
+        },
+        {
+          "text": " from the earth: for it is not fit that he should live.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.22.23",
+      "edition_verse_id": "KJV1769:ACT.22.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "And as they cried out, and cast off ",
+          "kind": "text"
+        },
+        {
+          "text": "their",
+          "kind": "supplied"
+        },
+        {
+          "text": " clothes, and threw dust into the air,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.22.24",
+      "edition_verse_id": "KJV1769:ACT.22.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "The chief captain commanded him to be brought into the castle, and bade that he should be examined by scourging; that he might know wherefore they cried so against him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.22.25",
+      "edition_verse_id": "KJV1769:ACT.22.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "And as they bound him with thongs, Paul said unto the centurion that stood by, Is it lawful for you to scourge a man that is a Roman, and uncondemned?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.22.26",
+      "edition_verse_id": "KJV1769:ACT.22.26",
+      "verse": 26,
+      "spans": [
+        {
+          "text": "When the centurion heard ",
+          "kind": "text"
+        },
+        {
+          "text": "that",
+          "kind": "supplied"
+        },
+        {
+          "text": ", he went and told the chief captain, saying, Take heed what thou doest: for this man is a Roman.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.22.27",
+      "edition_verse_id": "KJV1769:ACT.22.27",
+      "verse": 27,
+      "spans": [
+        {
+          "text": "Then the chief captain came, and said unto him, Tell me, art thou a Roman? He said, Yea.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.22.28",
+      "edition_verse_id": "KJV1769:ACT.22.28",
+      "verse": 28,
+      "spans": [
+        {
+          "text": "And the chief captain answered, With a great sum obtained I this freedom. And Paul said, But I was ",
+          "kind": "text"
+        },
+        {
+          "text": "free",
+          "kind": "supplied"
+        },
+        {
+          "text": " born.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.22.29",
+      "edition_verse_id": "KJV1769:ACT.22.29",
+      "verse": 29,
+      "spans": [
+        {
+          "text": "Then straightway they departed from him which should have examined him: and the chief captain also was afraid, after he knew that he was a Roman, and because he had bound him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.22.30",
+      "edition_verse_id": "KJV1769:ACT.22.30",
+      "verse": 30,
+      "spans": [
+        {
+          "text": "On the morrow, because he would have known the certainty wherefore he was accused of the Jews, he loosed him from ",
+          "kind": "text"
+        },
+        {
+          "text": "his",
+          "kind": "supplied"
+        },
+        {
+          "text": " bands, and commanded the chief priests and all their council to appear, and brought Paul down, and set him before them.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

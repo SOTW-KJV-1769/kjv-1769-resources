@@ -1,0 +1,16 @@
+{
+  "status": "PASS_SOURCE_PROJECTION_CHECKS",
+  "source_archive_sha256": "ce1f526c64c2376f407308c2c23cb2d2fb58efaf5296327d2d8e408c3700650d",
+  "edition_id": "KJV1769",
+  "book_code": "SNG",
+  "book_name": "Song of Solomon",
+  "chapter_count": 8,
+  "verse_count": 117,
+  "source_verse_markers": 117,
+  "word_markup_removed": 987,
+  "footnote_markup_removed": 44,
+  "source_supplied_word_runs": 171,
+  "superscriptions_preserved": 0,
+  "data_schema": "ASV-style v1.0.0 KJV identity variant",
+  "limitations": "No independently digitized print-edition collation or browser deployment verification is claimed."
+}

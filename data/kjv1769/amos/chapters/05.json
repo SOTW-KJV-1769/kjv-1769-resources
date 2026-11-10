@@ -1,0 +1,484 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "KJV1769",
+  "book_code": "AMO",
+  "chapter": 5,
+  "verses": [
+    {
+      "id": "AMO.5.1",
+      "edition_verse_id": "KJV1769:AMO.5.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "Hear ye this word which I take up against you, ",
+          "kind": "text"
+        },
+        {
+          "text": "even",
+          "kind": "supplied"
+        },
+        {
+          "text": " a lamentation, O house of Israel.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "AMO.5.2",
+      "edition_verse_id": "KJV1769:AMO.5.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "The virgin of Israel is fallen; she shall no more rise: she is forsaken upon her land; ",
+          "kind": "text"
+        },
+        {
+          "text": "there is",
+          "kind": "supplied"
+        },
+        {
+          "text": " none to raise her up.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "AMO.5.3",
+      "edition_verse_id": "KJV1769:AMO.5.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "For thus saith the Lord GOD; The city that went out ",
+          "kind": "text"
+        },
+        {
+          "text": "by",
+          "kind": "supplied"
+        },
+        {
+          "text": " a thousand shall leave an hundred, and that which went forth ",
+          "kind": "text"
+        },
+        {
+          "text": "by",
+          "kind": "supplied"
+        },
+        {
+          "text": " an hundred shall leave ten, to the house of Israel.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "AMO.5.4",
+      "edition_verse_id": "KJV1769:AMO.5.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "¶ For thus saith the LORD unto the house of Israel, Seek ye me, and ye shall live:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "AMO.5.5",
+      "edition_verse_id": "KJV1769:AMO.5.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "But seek not Beth-el, nor enter into Gilgal, and pass not to Beer-sheba: for Gilgal shall surely go into captivity, and Beth-el shall come to nought.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "AMO.5.6",
+      "edition_verse_id": "KJV1769:AMO.5.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "Seek the LORD, and ye shall live; lest he break out like fire in the house of Joseph, and devour ",
+          "kind": "text"
+        },
+        {
+          "text": "it",
+          "kind": "supplied"
+        },
+        {
+          "text": ", and ",
+          "kind": "text"
+        },
+        {
+          "text": "there be",
+          "kind": "supplied"
+        },
+        {
+          "text": " none to quench ",
+          "kind": "text"
+        },
+        {
+          "text": "it",
+          "kind": "supplied"
+        },
+        {
+          "text": " in Beth-el.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "AMO.5.7",
+      "edition_verse_id": "KJV1769:AMO.5.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "Ye who turn judgment to wormwood, and leave off righteousness in the earth,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "AMO.5.8",
+      "edition_verse_id": "KJV1769:AMO.5.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "Seek him",
+          "kind": "supplied"
+        },
+        {
+          "text": " that maketh the seven stars and Orion, and turneth the shadow of death into the morning, and maketh the day dark with night: that calleth for the waters of the sea, and poureth them out upon the face of the earth: The LORD ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " his name:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "AMO.5.9",
+      "edition_verse_id": "KJV1769:AMO.5.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "That strengtheneth the spoiled against the strong, so that the spoiled shall come against the fortress.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "AMO.5.10",
+      "edition_verse_id": "KJV1769:AMO.5.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "They hate him that rebuketh in the gate, and they abhor him that speaketh uprightly.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "AMO.5.11",
+      "edition_verse_id": "KJV1769:AMO.5.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "Forasmuch therefore as your treading ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " upon the poor, and ye take from him burdens of wheat: ye have built houses of hewn stone, but ye shall not dwell in them; ye have planted pleasant vineyards, but ye shall not drink wine of them.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "AMO.5.12",
+      "edition_verse_id": "KJV1769:AMO.5.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "For I know your manifold transgressions and your mighty sins: they afflict the just, they take a bribe, and they turn aside the poor in the gate ",
+          "kind": "text"
+        },
+        {
+          "text": "from their right",
+          "kind": "supplied"
+        },
+        {
+          "text": ".",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "AMO.5.13",
+      "edition_verse_id": "KJV1769:AMO.5.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "Therefore the prudent shall keep silence in that time; for it ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " an evil time.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "AMO.5.14",
+      "edition_verse_id": "KJV1769:AMO.5.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "Seek good, and not evil, that ye may live: and so the LORD, the God of hosts, shall be with you, as ye have spoken.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "AMO.5.15",
+      "edition_verse_id": "KJV1769:AMO.5.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "Hate the evil, and love the good, and establish judgment in the gate: it may be that the LORD God of hosts will be gracious unto the remnant of Joseph.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "AMO.5.16",
+      "edition_verse_id": "KJV1769:AMO.5.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "Therefore the LORD, the God of hosts, the Lord, saith thus; Wailing ",
+          "kind": "text"
+        },
+        {
+          "text": "shall be",
+          "kind": "supplied"
+        },
+        {
+          "text": " in all streets; and they shall say in all the highways, Alas! alas! and they shall call the husbandman to mourning, and such as are skilful of lamentation to wailing.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "AMO.5.17",
+      "edition_verse_id": "KJV1769:AMO.5.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "And in all vineyards ",
+          "kind": "text"
+        },
+        {
+          "text": "shall be",
+          "kind": "supplied"
+        },
+        {
+          "text": " wailing: for I will pass through thee, saith the LORD.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "AMO.5.18",
+      "edition_verse_id": "KJV1769:AMO.5.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "Woe unto you that desire the day of the LORD! to what end ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " it for you? the day of the LORD ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " darkness, and not light.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "AMO.5.19",
+      "edition_verse_id": "KJV1769:AMO.5.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "As if a man did flee from a lion, and a bear met him; or went into the house, and leaned his hand on the wall, and a serpent bit him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "AMO.5.20",
+      "edition_verse_id": "KJV1769:AMO.5.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "Shall",
+          "kind": "supplied"
+        },
+        {
+          "text": " not the day of the LORD ",
+          "kind": "text"
+        },
+        {
+          "text": "be",
+          "kind": "supplied"
+        },
+        {
+          "text": " darkness, and not light? even very dark, and no brightness in it?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "AMO.5.21",
+      "edition_verse_id": "KJV1769:AMO.5.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "¶ I hate, I despise your feast days, and I will not smell in your solemn assemblies.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "AMO.5.22",
+      "edition_verse_id": "KJV1769:AMO.5.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "Though ye offer me burnt offerings and your meat offerings, I will not accept ",
+          "kind": "text"
+        },
+        {
+          "text": "them:",
+          "kind": "supplied"
+        },
+        {
+          "text": " neither will I regard the peace offerings of your fat beasts.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "AMO.5.23",
+      "edition_verse_id": "KJV1769:AMO.5.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "Take thou away from me the noise of thy songs; for I will not hear the melody of thy viols.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "AMO.5.24",
+      "edition_verse_id": "KJV1769:AMO.5.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "But let judgment run down as waters, and righteousness as a mighty stream.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "AMO.5.25",
+      "edition_verse_id": "KJV1769:AMO.5.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "Have ye offered unto me sacrifices and offerings in the wilderness forty years, O house of Israel?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "AMO.5.26",
+      "edition_verse_id": "KJV1769:AMO.5.26",
+      "verse": 26,
+      "spans": [
+        {
+          "text": "But ye have borne the tabernacle of your Moloch and Chiun your images, the star of your god, which ye made to yourselves.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "AMO.5.27",
+      "edition_verse_id": "KJV1769:AMO.5.27",
+      "verse": 27,
+      "spans": [
+        {
+          "text": "Therefore will I cause you to go into captivity beyond Damascus, saith the LORD, whose name ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " The God of hosts.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

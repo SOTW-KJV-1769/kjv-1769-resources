@@ -1,0 +1,504 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "KJV1769",
+  "book_code": "ACT",
+  "chapter": 26,
+  "verses": [
+    {
+      "id": "ACT.26.1",
+      "edition_verse_id": "KJV1769:ACT.26.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "Then Agrippa said unto Paul, Thou art permitted to speak for thyself. Then Paul stretched forth the hand, and answered for himself:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ACT.26.2",
+      "edition_verse_id": "KJV1769:ACT.26.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "I think myself happy, king Agrippa, because I shall answer for myself this day before thee touching all the things whereof I am accused of the Jews:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.26.3",
+      "edition_verse_id": "KJV1769:ACT.26.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "Especially ",
+          "kind": "text"
+        },
+        {
+          "text": "because I know",
+          "kind": "supplied"
+        },
+        {
+          "text": " thee to be expert in all customs and questions which are among the Jews: wherefore I beseech thee to hear me patiently.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.26.4",
+      "edition_verse_id": "KJV1769:ACT.26.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "My manner of life from my youth, which was at the first among mine own nation at Jerusalem, know all the Jews;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.26.5",
+      "edition_verse_id": "KJV1769:ACT.26.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "Which knew me from the beginning, if they would testify, that after the most straitest sect of our religion I lived a Pharisee.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.26.6",
+      "edition_verse_id": "KJV1769:ACT.26.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "And now I stand and am judged for the hope of the promise made of God unto our fathers:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.26.7",
+      "edition_verse_id": "KJV1769:ACT.26.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "Unto which ",
+          "kind": "text"
+        },
+        {
+          "text": "promise",
+          "kind": "supplied"
+        },
+        {
+          "text": " our twelve tribes, instantly serving ",
+          "kind": "text"
+        },
+        {
+          "text": "God",
+          "kind": "supplied"
+        },
+        {
+          "text": " day and night, hope to come. For which hope’s sake, king Agrippa, I am accused of the Jews.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.26.8",
+      "edition_verse_id": "KJV1769:ACT.26.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "Why should it be thought a thing incredible with you, that God should raise the dead?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.26.9",
+      "edition_verse_id": "KJV1769:ACT.26.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "I verily thought with myself, that I ought to do many things contrary to the name of Jesus of Nazareth.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.26.10",
+      "edition_verse_id": "KJV1769:ACT.26.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "Which thing I also did in Jerusalem: and many of the saints did I shut up in prison, having received authority from the chief priests; and when they were put to death, I gave my voice against ",
+          "kind": "text"
+        },
+        {
+          "text": "them",
+          "kind": "supplied"
+        },
+        {
+          "text": ".",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.26.11",
+      "edition_verse_id": "KJV1769:ACT.26.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "And I punished them oft in every synagogue, and compelled ",
+          "kind": "text"
+        },
+        {
+          "text": "them",
+          "kind": "supplied"
+        },
+        {
+          "text": " to blaspheme; and being exceedingly mad against them, I persecuted ",
+          "kind": "text"
+        },
+        {
+          "text": "them",
+          "kind": "supplied"
+        },
+        {
+          "text": " even unto strange cities.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.26.12",
+      "edition_verse_id": "KJV1769:ACT.26.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "Whereupon as I went to Damascus with authority and commission from the chief priests,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.26.13",
+      "edition_verse_id": "KJV1769:ACT.26.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "At midday, O king, I saw in the way a light from heaven, above the brightness of the sun, shining round about me and them which journeyed with me.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.26.14",
+      "edition_verse_id": "KJV1769:ACT.26.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "And when we were all fallen to the earth, I heard a voice speaking unto me, and saying in the Hebrew tongue, Saul, Saul, why persecutest thou me? ",
+          "kind": "text"
+        },
+        {
+          "text": "it is",
+          "kind": "supplied"
+        },
+        {
+          "text": " hard for thee to kick against the pricks.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.26.15",
+      "edition_verse_id": "KJV1769:ACT.26.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "And I said, Who art thou, Lord? And he said, I am Jesus whom thou persecutest.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.26.16",
+      "edition_verse_id": "KJV1769:ACT.26.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "But rise, and stand upon thy feet: for I have appeared unto thee for this purpose, to make thee a minister and a witness both of these things which thou hast seen, and of those things in the which I will appear unto thee;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.26.17",
+      "edition_verse_id": "KJV1769:ACT.26.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "Delivering thee from the people, and ",
+          "kind": "text"
+        },
+        {
+          "text": "from",
+          "kind": "supplied"
+        },
+        {
+          "text": " the Gentiles, unto whom now I send thee,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.26.18",
+      "edition_verse_id": "KJV1769:ACT.26.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "To open their eyes, ",
+          "kind": "text"
+        },
+        {
+          "text": "and",
+          "kind": "supplied"
+        },
+        {
+          "text": " to turn ",
+          "kind": "text"
+        },
+        {
+          "text": "them",
+          "kind": "supplied"
+        },
+        {
+          "text": " from darkness to light, and ",
+          "kind": "text"
+        },
+        {
+          "text": "from",
+          "kind": "supplied"
+        },
+        {
+          "text": " the power of Satan unto God, that they may receive forgiveness of sins, and inheritance among them which are sanctified by faith that is in me.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.26.19",
+      "edition_verse_id": "KJV1769:ACT.26.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "Whereupon, O king Agrippa, I was not disobedient unto the heavenly vision:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.26.20",
+      "edition_verse_id": "KJV1769:ACT.26.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "But shewed first unto them of Damascus, and at Jerusalem, and throughout all the coasts of Judæa, and ",
+          "kind": "text"
+        },
+        {
+          "text": "then",
+          "kind": "supplied"
+        },
+        {
+          "text": " to the Gentiles, that they should repent and turn to God, and do works meet for repentance.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.26.21",
+      "edition_verse_id": "KJV1769:ACT.26.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "For these causes the Jews caught me in the temple, and went about to kill ",
+          "kind": "text"
+        },
+        {
+          "text": "me",
+          "kind": "supplied"
+        },
+        {
+          "text": ".",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.26.22",
+      "edition_verse_id": "KJV1769:ACT.26.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "Having therefore obtained help of God, I continue unto this day, witnessing both to small and great, saying none other things than those which the prophets and Moses did say should come:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.26.23",
+      "edition_verse_id": "KJV1769:ACT.26.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "That Christ should suffer, ",
+          "kind": "text"
+        },
+        {
+          "text": "and",
+          "kind": "supplied"
+        },
+        {
+          "text": " that he should be the first that should rise from the dead, and should shew light unto the people, and to the Gentiles.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.26.24",
+      "edition_verse_id": "KJV1769:ACT.26.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "And as he thus spake for himself, Festus said with a loud voice, Paul, thou art beside thyself; much learning doth make thee mad.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ACT.26.25",
+      "edition_verse_id": "KJV1769:ACT.26.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "But he said, I am not mad, most noble Festus; but speak forth the words of truth and soberness.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.26.26",
+      "edition_verse_id": "KJV1769:ACT.26.26",
+      "verse": 26,
+      "spans": [
+        {
+          "text": "For the king knoweth of these things, before whom also I speak freely: for I am persuaded that none of these things are hidden from him; for this thing was not done in a corner.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.26.27",
+      "edition_verse_id": "KJV1769:ACT.26.27",
+      "verse": 27,
+      "spans": [
+        {
+          "text": "King Agrippa, believest thou the prophets? I know that thou believest.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.26.28",
+      "edition_verse_id": "KJV1769:ACT.26.28",
+      "verse": 28,
+      "spans": [
+        {
+          "text": "Then Agrippa said unto Paul, Almost thou persuadest me to be a Christian.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.26.29",
+      "edition_verse_id": "KJV1769:ACT.26.29",
+      "verse": 29,
+      "spans": [
+        {
+          "text": "And Paul said, I would to God, that not only thou, but also all that hear me this day, were both almost, and altogether such as I am, except these bonds.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.26.30",
+      "edition_verse_id": "KJV1769:ACT.26.30",
+      "verse": 30,
+      "spans": [
+        {
+          "text": "And when he had thus spoken, the king rose up, and the governor, and Bernice, and they that sat with them:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.26.31",
+      "edition_verse_id": "KJV1769:ACT.26.31",
+      "verse": 31,
+      "spans": [
+        {
+          "text": "And when they were gone aside, they talked between themselves, saying, This man doeth nothing worthy of death or of bonds.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.26.32",
+      "edition_verse_id": "KJV1769:ACT.26.32",
+      "verse": 32,
+      "spans": [
+        {
+          "text": "Then said Agrippa unto Festus, This man might have been set at liberty, if he had not appealed unto Cæsar.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

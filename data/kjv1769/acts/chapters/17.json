@@ -1,0 +1,488 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "KJV1769",
+  "book_code": "ACT",
+  "chapter": 17,
+  "verses": [
+    {
+      "id": "ACT.17.1",
+      "edition_verse_id": "KJV1769:ACT.17.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "Now when they had passed through Amphipolis and Apollonia, they came to Thessalonica, where was a synagogue of the Jews:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ACT.17.2",
+      "edition_verse_id": "KJV1769:ACT.17.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "And Paul, as his manner was, went in unto them, and three sabbath days reasoned with them out of the scriptures,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.17.3",
+      "edition_verse_id": "KJV1769:ACT.17.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "Opening and alleging, that Christ must needs have suffered, and risen again from the dead; and that this Jesus, whom I preach unto you, is Christ.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.17.4",
+      "edition_verse_id": "KJV1769:ACT.17.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "And some of them believed, and consorted with Paul and Silas; and of the devout Greeks a great multitude, and of the chief women not a few.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.17.5",
+      "edition_verse_id": "KJV1769:ACT.17.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "¶ But the Jews which believed not, moved with envy, took unto them certain lewd fellows of the baser sort, and gathered a company, and set all the city on an uproar, and assaulted the house of Jason, and sought to bring them out to the people.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ACT.17.6",
+      "edition_verse_id": "KJV1769:ACT.17.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "And when they found them not, they drew Jason and certain brethren unto the rulers of the city, crying, These that have turned the world upside down are come hither also;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.17.7",
+      "edition_verse_id": "KJV1769:ACT.17.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "Whom Jason hath received: and these all do contrary to the decrees of Cæsar, saying that there is another king, ",
+          "kind": "text"
+        },
+        {
+          "text": "one",
+          "kind": "supplied"
+        },
+        {
+          "text": " Jesus.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.17.8",
+      "edition_verse_id": "KJV1769:ACT.17.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "And they troubled the people and the rulers of the city, when they heard these things.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.17.9",
+      "edition_verse_id": "KJV1769:ACT.17.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "And when they had taken security of Jason, and of the other, they let them go.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.17.10",
+      "edition_verse_id": "KJV1769:ACT.17.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "¶ And the brethren immediately sent away Paul and Silas by night unto Berea: who coming ",
+          "kind": "text"
+        },
+        {
+          "text": "thither",
+          "kind": "supplied"
+        },
+        {
+          "text": " went into the synagogue of the Jews.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ACT.17.11",
+      "edition_verse_id": "KJV1769:ACT.17.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "These were more noble than those in Thessalonica, in that they received the word with all readiness of mind, and searched the scriptures daily, whether those things were so.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.17.12",
+      "edition_verse_id": "KJV1769:ACT.17.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "Therefore many of them believed; also of honourable women which were Greeks, and of men, not a few.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.17.13",
+      "edition_verse_id": "KJV1769:ACT.17.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "But when the Jews of Thessalonica had knowledge that the word of God was preached of Paul at Berea, they came thither also, and stirred up the people.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.17.14",
+      "edition_verse_id": "KJV1769:ACT.17.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "And then immediately the brethren sent away Paul to go as it were to the sea: but Silas and Timotheus abode there still.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.17.15",
+      "edition_verse_id": "KJV1769:ACT.17.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "And they that conducted Paul brought him unto Athens: and receiving a commandment unto Silas and Timotheus for to come to him with all speed, they departed.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.17.16",
+      "edition_verse_id": "KJV1769:ACT.17.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "¶ Now while Paul waited for them at Athens, his spirit was stirred in him, when he saw the city wholly given to idolatry.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ACT.17.17",
+      "edition_verse_id": "KJV1769:ACT.17.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "Therefore disputed he in the synagogue with the Jews, and with the devout persons, and in the market daily with them that met with him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.17.18",
+      "edition_verse_id": "KJV1769:ACT.17.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "Then certain philosophers of the Epicureans, and of the Stoicks, encountered him. And some said, What will this babbler say? other some, He seemeth to be a setter forth of strange gods: because he preached unto them Jesus, and the resurrection.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.17.19",
+      "edition_verse_id": "KJV1769:ACT.17.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "And they took him, and brought him unto Areopagus, saying, May we know what this new doctrine, whereof thou speakest, ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": "?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.17.20",
+      "edition_verse_id": "KJV1769:ACT.17.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "For thou bringest certain strange things to our ears: we would know therefore what these things mean.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.17.21",
+      "edition_verse_id": "KJV1769:ACT.17.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "(For all the Athenians and strangers which were there spent their time in nothing else, but either to tell, or to hear some new thing.)",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.17.22",
+      "edition_verse_id": "KJV1769:ACT.17.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "¶ Then Paul stood in the midst of Mars’ hill, and said, ",
+          "kind": "text"
+        },
+        {
+          "text": "Ye",
+          "kind": "supplied"
+        },
+        {
+          "text": " men of Athens, I perceive that in all things ye are too superstitious.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ACT.17.23",
+      "edition_verse_id": "KJV1769:ACT.17.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "For as I passed by, and beheld your devotions, I found an altar with this inscription, TO THE UNKNOWN GOD. Whom therefore ye ignorantly worship, him declare I unto you.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.17.24",
+      "edition_verse_id": "KJV1769:ACT.17.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "God that made the world and all things therein, seeing that he is Lord of heaven and earth, dwelleth not in temples made with hands;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.17.25",
+      "edition_verse_id": "KJV1769:ACT.17.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "Neither is worshipped with men’s hands, as though he needed any thing, seeing he giveth to all life, and breath, and all things;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.17.26",
+      "edition_verse_id": "KJV1769:ACT.17.26",
+      "verse": 26,
+      "spans": [
+        {
+          "text": "And hath made of one blood all nations of men for to dwell on all the face of the earth, and hath determined the times before appointed, and the bounds of their habitation;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.17.27",
+      "edition_verse_id": "KJV1769:ACT.17.27",
+      "verse": 27,
+      "spans": [
+        {
+          "text": "That they should seek the Lord, if haply they might feel after him, and find him, though he be not far from every one of us:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.17.28",
+      "edition_verse_id": "KJV1769:ACT.17.28",
+      "verse": 28,
+      "spans": [
+        {
+          "text": "For in him we live, and move, and have our being; as certain also of your own poets have said, For we are also his offspring.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.17.29",
+      "edition_verse_id": "KJV1769:ACT.17.29",
+      "verse": 29,
+      "spans": [
+        {
+          "text": "Forasmuch then as we are the offspring of God, we ought not to think that the Godhead is like unto gold, or silver, or stone, graven by art and man’s device.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.17.30",
+      "edition_verse_id": "KJV1769:ACT.17.30",
+      "verse": 30,
+      "spans": [
+        {
+          "text": "And the times of this ignorance God winked at; but now commandeth all men every where to repent:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.17.31",
+      "edition_verse_id": "KJV1769:ACT.17.31",
+      "verse": 31,
+      "spans": [
+        {
+          "text": "Because he hath appointed a day, in the which he will judge the world in righteousness by ",
+          "kind": "text"
+        },
+        {
+          "text": "that",
+          "kind": "supplied"
+        },
+        {
+          "text": " man whom he hath ordained; ",
+          "kind": "text"
+        },
+        {
+          "text": "whereof",
+          "kind": "supplied"
+        },
+        {
+          "text": " he hath given assurance unto all ",
+          "kind": "text"
+        },
+        {
+          "text": "men",
+          "kind": "supplied"
+        },
+        {
+          "text": ", in that he hath raised him from the dead.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.17.32",
+      "edition_verse_id": "KJV1769:ACT.17.32",
+      "verse": 32,
+      "spans": [
+        {
+          "text": "¶ And when they heard of the resurrection of the dead, some mocked: and others said, We will hear thee again of this ",
+          "kind": "text"
+        },
+        {
+          "text": "matter",
+          "kind": "supplied"
+        },
+        {
+          "text": ".",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ACT.17.33",
+      "edition_verse_id": "KJV1769:ACT.17.33",
+      "verse": 33,
+      "spans": [
+        {
+          "text": "So Paul departed from among them.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.17.34",
+      "edition_verse_id": "KJV1769:ACT.17.34",
+      "verse": 34,
+      "spans": [
+        {
+          "text": "Howbeit certain men clave unto him, and believed: among the which ",
+          "kind": "text"
+        },
+        {
+          "text": "was",
+          "kind": "supplied"
+        },
+        {
+          "text": " Dionysius the Areopagite, and a woman named Damaris, and others with them.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

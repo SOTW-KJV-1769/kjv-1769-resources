@@ -1,0 +1,840 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "KJV1769",
+  "book_code": "ACT",
+  "chapter": 13,
+  "verses": [
+    {
+      "id": "ACT.13.1",
+      "edition_verse_id": "KJV1769:ACT.13.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "Now there were in the church that was at Antioch certain prophets and teachers; as Barnabas, and Simeon that was called Niger, and Lucius of Cyrene, and Manaen, which had been brought up with Herod the tetrarch, and Saul.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ACT.13.2",
+      "edition_verse_id": "KJV1769:ACT.13.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "As they ministered to the Lord, and fasted, the Holy Ghost said, Separate me Barnabas and Saul for the work whereunto I have called them.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.13.3",
+      "edition_verse_id": "KJV1769:ACT.13.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "And when they had fasted and prayed, and laid ",
+          "kind": "text"
+        },
+        {
+          "text": "their",
+          "kind": "supplied"
+        },
+        {
+          "text": " hands on them, they sent ",
+          "kind": "text"
+        },
+        {
+          "text": "them",
+          "kind": "supplied"
+        },
+        {
+          "text": " away.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.13.4",
+      "edition_verse_id": "KJV1769:ACT.13.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "¶ So they, being sent forth by the Holy Ghost, departed unto Seleucia; and from thence they sailed to Cyprus.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ACT.13.5",
+      "edition_verse_id": "KJV1769:ACT.13.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "And when they were at Salamis, they preached the word of God in the synagogues of the Jews: and they had also John to ",
+          "kind": "text"
+        },
+        {
+          "text": "their",
+          "kind": "supplied"
+        },
+        {
+          "text": " minister.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.13.6",
+      "edition_verse_id": "KJV1769:ACT.13.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "And when they had gone through the isle unto Paphos, they found a certain sorcerer, a false prophet, a Jew, whose name ",
+          "kind": "text"
+        },
+        {
+          "text": "was",
+          "kind": "supplied"
+        },
+        {
+          "text": " Bar-jesus:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.13.7",
+      "edition_verse_id": "KJV1769:ACT.13.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "Which was with the deputy of the country, Sergius Paulus, a prudent man; who called for Barnabas and Saul, and desired to hear the word of God.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.13.8",
+      "edition_verse_id": "KJV1769:ACT.13.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "But Elymas the sorcerer (for so is his name by interpretation) withstood them, seeking to turn away the deputy from the faith.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.13.9",
+      "edition_verse_id": "KJV1769:ACT.13.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "Then Saul, (who also ",
+          "kind": "text"
+        },
+        {
+          "text": "is called",
+          "kind": "supplied"
+        },
+        {
+          "text": " Paul,) filled with the Holy Ghost, set his eyes on him,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.13.10",
+      "edition_verse_id": "KJV1769:ACT.13.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "And said, O full of all subtilty and all mischief, ",
+          "kind": "text"
+        },
+        {
+          "text": "thou",
+          "kind": "supplied"
+        },
+        {
+          "text": " child of the devil, ",
+          "kind": "text"
+        },
+        {
+          "text": "thou",
+          "kind": "supplied"
+        },
+        {
+          "text": " enemy of all righteousness, wilt thou not cease to pervert the right ways of the Lord?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.13.11",
+      "edition_verse_id": "KJV1769:ACT.13.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "And now, behold, the hand of the Lord ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " upon thee, and thou shalt be blind, not seeing the sun for a season. And immediately there fell on him a mist and a darkness; and he went about seeking some to lead him by the hand.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.13.12",
+      "edition_verse_id": "KJV1769:ACT.13.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "Then the deputy, when he saw what was done, believed, being astonished at the doctrine of the Lord.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.13.13",
+      "edition_verse_id": "KJV1769:ACT.13.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "Now when Paul and his company loosed from Paphos, they came to Perga in Pamphylia: and John departing from them returned to Jerusalem.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.13.14",
+      "edition_verse_id": "KJV1769:ACT.13.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "¶ But when they departed from Perga, they came to Antioch in Pisidia, and went into the synagogue on the sabbath day, and sat down.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ACT.13.15",
+      "edition_verse_id": "KJV1769:ACT.13.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "And after the reading of the law and the prophets the rulers of the synagogue sent unto them, saying, ",
+          "kind": "text"
+        },
+        {
+          "text": "Ye",
+          "kind": "supplied"
+        },
+        {
+          "text": " men ",
+          "kind": "text"
+        },
+        {
+          "text": "and",
+          "kind": "supplied"
+        },
+        {
+          "text": " brethren, if ye have any word of exhortation for the people, say on.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.13.16",
+      "edition_verse_id": "KJV1769:ACT.13.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "Then Paul stood up, and beckoning with ",
+          "kind": "text"
+        },
+        {
+          "text": "his",
+          "kind": "supplied"
+        },
+        {
+          "text": " hand said, Men of Israel, and ye that fear God, give audience.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.13.17",
+      "edition_verse_id": "KJV1769:ACT.13.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "The God of this people of Israel chose our fathers, and exalted the people when they dwelt as strangers in the land of Egypt, and with an high arm brought he them out of it.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.13.18",
+      "edition_verse_id": "KJV1769:ACT.13.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "And about the time of forty years suffered he their manners in the wilderness.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.13.19",
+      "edition_verse_id": "KJV1769:ACT.13.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "And when he had destroyed seven nations in the land of Chanaan, he divided their land to them by lot.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.13.20",
+      "edition_verse_id": "KJV1769:ACT.13.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "And after that he gave ",
+          "kind": "text"
+        },
+        {
+          "text": "unto them",
+          "kind": "supplied"
+        },
+        {
+          "text": " judges about the space of four hundred and fifty years, until Samuel the prophet.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.13.21",
+      "edition_verse_id": "KJV1769:ACT.13.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "And afterward they desired a king: and God gave unto them Saul the son of Cis, a man of the tribe of Benjamin, by the space of forty years.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.13.22",
+      "edition_verse_id": "KJV1769:ACT.13.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "And when he had removed him, he raised up unto them David to be their king; to whom also he gave testimony, and said, I have found David the ",
+          "kind": "text"
+        },
+        {
+          "text": "son",
+          "kind": "supplied"
+        },
+        {
+          "text": " of Jesse, a man after mine own heart, which shall fulfil all my will.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.13.23",
+      "edition_verse_id": "KJV1769:ACT.13.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "Of this man’s seed hath God according to ",
+          "kind": "text"
+        },
+        {
+          "text": "his",
+          "kind": "supplied"
+        },
+        {
+          "text": " promise raised unto Israel a Saviour, Jesus:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.13.24",
+      "edition_verse_id": "KJV1769:ACT.13.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "When John had first preached before his coming the baptism of repentance to all the people of Israel.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.13.25",
+      "edition_verse_id": "KJV1769:ACT.13.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "And as John fulfilled his course, he said, Whom think ye that I am? I am not ",
+          "kind": "text"
+        },
+        {
+          "text": "he",
+          "kind": "supplied"
+        },
+        {
+          "text": ". But, behold, there cometh one after me, whose shoes of ",
+          "kind": "text"
+        },
+        {
+          "text": "his",
+          "kind": "supplied"
+        },
+        {
+          "text": " feet I am not worthy to loose.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.13.26",
+      "edition_verse_id": "KJV1769:ACT.13.26",
+      "verse": 26,
+      "spans": [
+        {
+          "text": "Men ",
+          "kind": "text"
+        },
+        {
+          "text": "and",
+          "kind": "supplied"
+        },
+        {
+          "text": " brethren, children of the stock of Abraham, and whosoever among you feareth God, to you is the word of this salvation sent.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.13.27",
+      "edition_verse_id": "KJV1769:ACT.13.27",
+      "verse": 27,
+      "spans": [
+        {
+          "text": "For they that dwell at Jerusalem, and their rulers, because they knew him not, nor yet the voices of the prophets which are read every sabbath day, they have fulfilled ",
+          "kind": "text"
+        },
+        {
+          "text": "them",
+          "kind": "supplied"
+        },
+        {
+          "text": " in condemning ",
+          "kind": "text"
+        },
+        {
+          "text": "him",
+          "kind": "supplied"
+        },
+        {
+          "text": ".",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.13.28",
+      "edition_verse_id": "KJV1769:ACT.13.28",
+      "verse": 28,
+      "spans": [
+        {
+          "text": "And though they found no cause of death ",
+          "kind": "text"
+        },
+        {
+          "text": "in him",
+          "kind": "supplied"
+        },
+        {
+          "text": ", yet desired they Pilate that he should be slain.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.13.29",
+      "edition_verse_id": "KJV1769:ACT.13.29",
+      "verse": 29,
+      "spans": [
+        {
+          "text": "And when they had fulfilled all that was written of him, they took ",
+          "kind": "text"
+        },
+        {
+          "text": "him",
+          "kind": "supplied"
+        },
+        {
+          "text": " down from the tree, and laid ",
+          "kind": "text"
+        },
+        {
+          "text": "him",
+          "kind": "supplied"
+        },
+        {
+          "text": " in a sepulchre.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.13.30",
+      "edition_verse_id": "KJV1769:ACT.13.30",
+      "verse": 30,
+      "spans": [
+        {
+          "text": "But God raised him from the dead:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.13.31",
+      "edition_verse_id": "KJV1769:ACT.13.31",
+      "verse": 31,
+      "spans": [
+        {
+          "text": "And he was seen many days of them which came up with him from Galilee to Jerusalem, who are his witnesses unto the people.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.13.32",
+      "edition_verse_id": "KJV1769:ACT.13.32",
+      "verse": 32,
+      "spans": [
+        {
+          "text": "And we declare unto you glad tidings, how that the promise which was made unto the fathers,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.13.33",
+      "edition_verse_id": "KJV1769:ACT.13.33",
+      "verse": 33,
+      "spans": [
+        {
+          "text": "God hath fulfilled the same unto us their children, in that he hath raised up Jesus again; as it is also written in the second psalm, Thou art my Son, this day have I begotten thee.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.13.34",
+      "edition_verse_id": "KJV1769:ACT.13.34",
+      "verse": 34,
+      "spans": [
+        {
+          "text": "And as concerning that he raised him up from the dead, ",
+          "kind": "text"
+        },
+        {
+          "text": "now",
+          "kind": "supplied"
+        },
+        {
+          "text": " no more to return to corruption, he said on this wise, I will give you the sure mercies of David.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.13.35",
+      "edition_verse_id": "KJV1769:ACT.13.35",
+      "verse": 35,
+      "spans": [
+        {
+          "text": "Wherefore he saith also in another ",
+          "kind": "text"
+        },
+        {
+          "text": "psalm",
+          "kind": "supplied"
+        },
+        {
+          "text": ", Thou shalt not suffer thine Holy One to see corruption.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.13.36",
+      "edition_verse_id": "KJV1769:ACT.13.36",
+      "verse": 36,
+      "spans": [
+        {
+          "text": "For David, after he had served his own generation by the will of God, fell on sleep, and was laid unto his fathers, and saw corruption:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.13.37",
+      "edition_verse_id": "KJV1769:ACT.13.37",
+      "verse": 37,
+      "spans": [
+        {
+          "text": "But he, whom God raised again, saw no corruption.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.13.38",
+      "edition_verse_id": "KJV1769:ACT.13.38",
+      "verse": 38,
+      "spans": [
+        {
+          "text": "¶ Be it known unto you therefore, men ",
+          "kind": "text"
+        },
+        {
+          "text": "and",
+          "kind": "supplied"
+        },
+        {
+          "text": " brethren, that through this man is preached unto you the forgiveness of sins:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ACT.13.39",
+      "edition_verse_id": "KJV1769:ACT.13.39",
+      "verse": 39,
+      "spans": [
+        {
+          "text": "And by him all that believe are justified from all things, from which ye could not be justified by the law of Moses.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.13.40",
+      "edition_verse_id": "KJV1769:ACT.13.40",
+      "verse": 40,
+      "spans": [
+        {
+          "text": "Beware therefore, lest that come upon you, which is spoken of in the prophets;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.13.41",
+      "edition_verse_id": "KJV1769:ACT.13.41",
+      "verse": 41,
+      "spans": [
+        {
+          "text": "Behold, ye despisers, and wonder, and perish: for I work a work in your days, a work which ye shall in no wise believe, though a man declare it unto you.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.13.42",
+      "edition_verse_id": "KJV1769:ACT.13.42",
+      "verse": 42,
+      "spans": [
+        {
+          "text": "And when the Jews were gone out of the synagogue, the Gentiles besought that these words might be preached to them the next sabbath.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.13.43",
+      "edition_verse_id": "KJV1769:ACT.13.43",
+      "verse": 43,
+      "spans": [
+        {
+          "text": "Now when the congregation was broken up, many of the Jews and religious proselytes followed Paul and Barnabas: who, speaking to them, persuaded them to continue in the grace of God.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.13.44",
+      "edition_verse_id": "KJV1769:ACT.13.44",
+      "verse": 44,
+      "spans": [
+        {
+          "text": "¶ And the next sabbath day came almost the whole city together to hear the word of God.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ACT.13.45",
+      "edition_verse_id": "KJV1769:ACT.13.45",
+      "verse": 45,
+      "spans": [
+        {
+          "text": "But when the Jews saw the multitudes, they were filled with envy, and spake against those things which were spoken by Paul, contradicting and blaspheming.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.13.46",
+      "edition_verse_id": "KJV1769:ACT.13.46",
+      "verse": 46,
+      "spans": [
+        {
+          "text": "Then Paul and Barnabas waxed bold, and said, It was necessary that the word of God should first have been spoken to you: but seeing ye put it from you, and judge yourselves unworthy of everlasting life, lo, we turn to the Gentiles.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.13.47",
+      "edition_verse_id": "KJV1769:ACT.13.47",
+      "verse": 47,
+      "spans": [
+        {
+          "text": "For so hath the Lord commanded us, ",
+          "kind": "text"
+        },
+        {
+          "text": "saying",
+          "kind": "supplied"
+        },
+        {
+          "text": ", I have set thee to be a light of the Gentiles, that thou shouldest be for salvation unto the ends of the earth.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.13.48",
+      "edition_verse_id": "KJV1769:ACT.13.48",
+      "verse": 48,
+      "spans": [
+        {
+          "text": "And when the Gentiles heard this, they were glad, and glorified the word of the Lord: and as many as were ordained to eternal life believed.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.13.49",
+      "edition_verse_id": "KJV1769:ACT.13.49",
+      "verse": 49,
+      "spans": [
+        {
+          "text": "And the word of the Lord was published throughout all the region.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.13.50",
+      "edition_verse_id": "KJV1769:ACT.13.50",
+      "verse": 50,
+      "spans": [
+        {
+          "text": "But the Jews stirred up the devout and honourable women, and the chief men of the city, and raised persecution against Paul and Barnabas, and expelled them out of their coasts.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.13.51",
+      "edition_verse_id": "KJV1769:ACT.13.51",
+      "verse": 51,
+      "spans": [
+        {
+          "text": "But they shook off the dust of their feet against them, and came unto Iconium.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.13.52",
+      "edition_verse_id": "KJV1769:ACT.13.52",
+      "verse": 52,
+      "spans": [
+        {
+          "text": "And the disciples were filled with joy, and with the Holy Ghost.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

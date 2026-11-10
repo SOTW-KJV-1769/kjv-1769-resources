@@ -1,0 +1,19 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "KJV1769",
+  "book_code": "AMO",
+  "book_name": "Amos",
+  "book_order": 30,
+  "canonical_ids": "AMO.{chapter}.{verse}",
+  "edition_ids": "KJV1769:AMO.{chapter}.{verse}",
+  "chapter_count": 9,
+  "verse_count": 146,
+  "traditional_verse_positions": 146,
+  "omitted_from_main_text": [],
+  "chapter_path_template": "amos/chapters/{chapter:02d}.json",
+  "predecessor_book_code": "JOL",
+  "successor_book_code": "OBA",
+  "source_provenance": "books/amos/SOURCE_INVENTORY.json",
+  "reader": "books/amos/site/index.html",
+  "note": "Text-only KJV1769 projection of the pinned eBible eng-kjv2006 source. No scanned pages, embedded Strong’s, or lexical claims."
+}

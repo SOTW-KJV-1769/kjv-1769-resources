@@ -1,0 +1,500 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "KJV1769",
+  "book_code": "ACT",
+  "chapter": 28,
+  "verses": [
+    {
+      "id": "ACT.28.1",
+      "edition_verse_id": "KJV1769:ACT.28.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "And when they were escaped, then they knew that the island was called Melita.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ACT.28.2",
+      "edition_verse_id": "KJV1769:ACT.28.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "And the barbarous people shewed us no little kindness: for they kindled a fire, and received us every one, because of the present rain, and because of the cold.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.28.3",
+      "edition_verse_id": "KJV1769:ACT.28.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "And when Paul had gathered a bundle of sticks, and laid ",
+          "kind": "text"
+        },
+        {
+          "text": "them",
+          "kind": "supplied"
+        },
+        {
+          "text": " on the fire, there came a viper out of the heat, and fastened on his hand.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.28.4",
+      "edition_verse_id": "KJV1769:ACT.28.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "And when the barbarians saw the ",
+          "kind": "text"
+        },
+        {
+          "text": "venomous",
+          "kind": "supplied"
+        },
+        {
+          "text": " beast hang on his hand, they said among themselves, No doubt this man is a murderer, whom, though he hath escaped the sea, yet vengeance suffereth not to live.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.28.5",
+      "edition_verse_id": "KJV1769:ACT.28.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "And he shook off the beast into the fire, and felt no harm.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.28.6",
+      "edition_verse_id": "KJV1769:ACT.28.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "Howbeit they looked when he should have swollen, or fallen down dead suddenly: but after they had looked a great while, and saw no harm come to him, they changed their minds, and said that he was a god.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.28.7",
+      "edition_verse_id": "KJV1769:ACT.28.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "In the same quarters were possessions of the chief man of the island, whose name was Publius; who received us, and lodged us three days courteously.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ACT.28.8",
+      "edition_verse_id": "KJV1769:ACT.28.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "And it came to pass, that the father of Publius lay sick of a fever and of a bloody flux: to whom Paul entered in, and prayed, and laid his hands on him, and healed him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.28.9",
+      "edition_verse_id": "KJV1769:ACT.28.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "So when this was done, others also, which had diseases in the island, came, and were healed:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.28.10",
+      "edition_verse_id": "KJV1769:ACT.28.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "Who also honoured us with many honours; and when we departed, they laded ",
+          "kind": "text"
+        },
+        {
+          "text": "us",
+          "kind": "supplied"
+        },
+        {
+          "text": " with such things as were necessary.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.28.11",
+      "edition_verse_id": "KJV1769:ACT.28.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "And after three months we departed in a ship of Alexandria, which had wintered in the isle, whose sign was Castor and Pollux.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ACT.28.12",
+      "edition_verse_id": "KJV1769:ACT.28.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "And landing at Syracuse, we tarried ",
+          "kind": "text"
+        },
+        {
+          "text": "there",
+          "kind": "supplied"
+        },
+        {
+          "text": " three days.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.28.13",
+      "edition_verse_id": "KJV1769:ACT.28.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "And from thence we fetched a compass, and came to Rhegium: and after one day the south wind blew, and we came the next day to Puteoli:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.28.14",
+      "edition_verse_id": "KJV1769:ACT.28.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "Where we found brethren, and were desired to tarry with them seven days: and so we went toward Rome.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.28.15",
+      "edition_verse_id": "KJV1769:ACT.28.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "And from thence, when the brethren heard of us, they came to meet us as far as Appii forum, and The three taverns: whom when Paul saw, he thanked God, and took courage.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.28.16",
+      "edition_verse_id": "KJV1769:ACT.28.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "And when we came to Rome, the centurion delivered the prisoners to the captain of the guard: but Paul was suffered to dwell by himself with a soldier that kept him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.28.17",
+      "edition_verse_id": "KJV1769:ACT.28.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "And it came to pass, that after three days Paul called the chief of the Jews together: and when they were come together, he said unto them, Men ",
+          "kind": "text"
+        },
+        {
+          "text": "and",
+          "kind": "supplied"
+        },
+        {
+          "text": " brethren, though I have committed nothing against the people, or customs of our fathers, yet was I delivered prisoner from Jerusalem into the hands of the Romans.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ACT.28.18",
+      "edition_verse_id": "KJV1769:ACT.28.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "Who, when they had examined me, would have let ",
+          "kind": "text"
+        },
+        {
+          "text": "me",
+          "kind": "supplied"
+        },
+        {
+          "text": " go, because there was no cause of death in me.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.28.19",
+      "edition_verse_id": "KJV1769:ACT.28.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "But when the Jews spake against ",
+          "kind": "text"
+        },
+        {
+          "text": "it",
+          "kind": "supplied"
+        },
+        {
+          "text": ", I was constrained to appeal unto Cæsar; not that I had ought to accuse my nation of.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.28.20",
+      "edition_verse_id": "KJV1769:ACT.28.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "For this cause therefore have I called for you, to see ",
+          "kind": "text"
+        },
+        {
+          "text": "you",
+          "kind": "supplied"
+        },
+        {
+          "text": ", and to speak with ",
+          "kind": "text"
+        },
+        {
+          "text": "you",
+          "kind": "supplied"
+        },
+        {
+          "text": ": because that for the hope of Israel I am bound with this chain.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.28.21",
+      "edition_verse_id": "KJV1769:ACT.28.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "And they said unto him, We neither received letters out of Judæa concerning thee, neither any of the brethren that came shewed or spake any harm of thee.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.28.22",
+      "edition_verse_id": "KJV1769:ACT.28.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "But we desire to hear of thee what thou thinkest: for as concerning this sect, we know that every where it is spoken against.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.28.23",
+      "edition_verse_id": "KJV1769:ACT.28.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "And when they had appointed him a day, there came many to him into ",
+          "kind": "text"
+        },
+        {
+          "text": "his",
+          "kind": "supplied"
+        },
+        {
+          "text": " lodging; to whom he expounded and testified the kingdom of God, persuading them concerning Jesus, both out of the law of Moses, and ",
+          "kind": "text"
+        },
+        {
+          "text": "out of",
+          "kind": "supplied"
+        },
+        {
+          "text": " the prophets, from morning till evening.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.28.24",
+      "edition_verse_id": "KJV1769:ACT.28.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "And some believed the things which were spoken, and some believed not.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.28.25",
+      "edition_verse_id": "KJV1769:ACT.28.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "And when they agreed not among themselves, they departed, after that Paul had spoken one word, Well spake the Holy Ghost by Esaias the prophet unto our fathers,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.28.26",
+      "edition_verse_id": "KJV1769:ACT.28.26",
+      "verse": 26,
+      "spans": [
+        {
+          "text": "Saying, Go unto this people, and say, Hearing ye shall hear, and shall not understand; and seeing ye shall see, and not perceive:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.28.27",
+      "edition_verse_id": "KJV1769:ACT.28.27",
+      "verse": 27,
+      "spans": [
+        {
+          "text": "For the heart of this people is waxed gross, and their ears are dull of hearing, and their eyes have they closed; lest they should see with ",
+          "kind": "text"
+        },
+        {
+          "text": "their",
+          "kind": "supplied"
+        },
+        {
+          "text": " eyes, and hear with ",
+          "kind": "text"
+        },
+        {
+          "text": "their",
+          "kind": "supplied"
+        },
+        {
+          "text": " ears, and understand with ",
+          "kind": "text"
+        },
+        {
+          "text": "their",
+          "kind": "supplied"
+        },
+        {
+          "text": " heart, and should be converted, and I should heal them.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.28.28",
+      "edition_verse_id": "KJV1769:ACT.28.28",
+      "verse": 28,
+      "spans": [
+        {
+          "text": "Be it known therefore unto you, that the salvation of God is sent unto the Gentiles, and ",
+          "kind": "text"
+        },
+        {
+          "text": "that",
+          "kind": "supplied"
+        },
+        {
+          "text": " they will hear it.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.28.29",
+      "edition_verse_id": "KJV1769:ACT.28.29",
+      "verse": 29,
+      "spans": [
+        {
+          "text": "And when he had said these words, the Jews departed, and had great reasoning among themselves.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.28.30",
+      "edition_verse_id": "KJV1769:ACT.28.30",
+      "verse": 30,
+      "spans": [
+        {
+          "text": "And Paul dwelt two whole years in his own hired house, and received all that came in unto him,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ACT.28.31",
+      "edition_verse_id": "KJV1769:ACT.28.31",
+      "verse": 31,
+      "spans": [
+        {
+          "text": "Preaching the kingdom of God, and teaching those things which concern the Lord Jesus Christ, with all confidence, no man forbidding him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

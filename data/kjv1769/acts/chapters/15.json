@@ -1,0 +1,648 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "KJV1769",
+  "book_code": "ACT",
+  "chapter": 15,
+  "verses": [
+    {
+      "id": "ACT.15.1",
+      "edition_verse_id": "KJV1769:ACT.15.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "And certain men which came down from Judæa taught the brethren, ",
+          "kind": "text"
+        },
+        {
+          "text": "and said",
+          "kind": "supplied"
+        },
+        {
+          "text": ", Except ye be circumcised after the manner of Moses, ye cannot be saved.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ACT.15.2",
+      "edition_verse_id": "KJV1769:ACT.15.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "When therefore Paul and Barnabas had no small dissension and disputation with them, they determined that Paul and Barnabas, and certain other of them, should go up to Jerusalem unto the apostles and elders about this question.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.15.3",
+      "edition_verse_id": "KJV1769:ACT.15.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "And being brought on their way by the church, they passed through Phenice and Samaria, declaring the conversion of the Gentiles: and they caused great joy unto all the brethren.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.15.4",
+      "edition_verse_id": "KJV1769:ACT.15.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "And when they were come to Jerusalem, they were received of the church, and ",
+          "kind": "text"
+        },
+        {
+          "text": "of",
+          "kind": "supplied"
+        },
+        {
+          "text": " the apostles and elders, and they declared all things that God had done with them.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.15.5",
+      "edition_verse_id": "KJV1769:ACT.15.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "But there rose up certain of the sect of the Pharisees which believed, saying, That it was needful to circumcise them, and to command ",
+          "kind": "text"
+        },
+        {
+          "text": "them",
+          "kind": "supplied"
+        },
+        {
+          "text": " to keep the law of Moses.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.15.6",
+      "edition_verse_id": "KJV1769:ACT.15.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "¶ And the apostles and elders came together for to consider of this matter.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ACT.15.7",
+      "edition_verse_id": "KJV1769:ACT.15.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "And when there had been much disputing, Peter rose up, and said unto them, Men ",
+          "kind": "text"
+        },
+        {
+          "text": "and",
+          "kind": "supplied"
+        },
+        {
+          "text": " brethren, ye know how that a good while ago God made choice among us, that the Gentiles by my mouth should hear the word of the gospel, and believe.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.15.8",
+      "edition_verse_id": "KJV1769:ACT.15.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "And God, which knoweth the hearts, bare them witness, giving them the Holy Ghost, even as ",
+          "kind": "text"
+        },
+        {
+          "text": "he did",
+          "kind": "supplied"
+        },
+        {
+          "text": " unto us;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.15.9",
+      "edition_verse_id": "KJV1769:ACT.15.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "And put no difference between us and them, purifying their hearts by faith.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.15.10",
+      "edition_verse_id": "KJV1769:ACT.15.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "Now therefore why tempt ye God, to put a yoke upon the neck of the disciples, which neither our fathers nor we were able to bear?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.15.11",
+      "edition_verse_id": "KJV1769:ACT.15.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "But we believe that through the grace of the Lord Jesus Christ we shall be saved, even as they.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.15.12",
+      "edition_verse_id": "KJV1769:ACT.15.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "¶ Then all the multitude kept silence, and gave audience to Barnabas and Paul, declaring what miracles and wonders God had wrought among the Gentiles by them.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ACT.15.13",
+      "edition_verse_id": "KJV1769:ACT.15.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "¶ And after they had held their peace, James answered, saying, Men ",
+          "kind": "text"
+        },
+        {
+          "text": "and",
+          "kind": "supplied"
+        },
+        {
+          "text": " brethren, hearken unto me:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ACT.15.14",
+      "edition_verse_id": "KJV1769:ACT.15.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "Simeon hath declared how God at the first did visit the Gentiles, to take out of them a people for his name.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.15.15",
+      "edition_verse_id": "KJV1769:ACT.15.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "And to this agree the words of the prophets; as it is written,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.15.16",
+      "edition_verse_id": "KJV1769:ACT.15.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "After this I will return, and will build again the tabernacle of David, which is fallen down; and I will build again the ruins thereof, and I will set it up:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.15.17",
+      "edition_verse_id": "KJV1769:ACT.15.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "That the residue of men might seek after the Lord, and all the Gentiles, upon whom my name is called, saith the Lord, who doeth all these things.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.15.18",
+      "edition_verse_id": "KJV1769:ACT.15.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "Known unto God are all his works from the beginning of the world.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.15.19",
+      "edition_verse_id": "KJV1769:ACT.15.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "Wherefore my sentence is, that we trouble not them, which from among the Gentiles are turned to God:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.15.20",
+      "edition_verse_id": "KJV1769:ACT.15.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "But that we write unto them, that they abstain from pollutions of idols, and ",
+          "kind": "text"
+        },
+        {
+          "text": "from",
+          "kind": "supplied"
+        },
+        {
+          "text": " fornication, and ",
+          "kind": "text"
+        },
+        {
+          "text": "from",
+          "kind": "supplied"
+        },
+        {
+          "text": " things strangled, and ",
+          "kind": "text"
+        },
+        {
+          "text": "from",
+          "kind": "supplied"
+        },
+        {
+          "text": " blood.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.15.21",
+      "edition_verse_id": "KJV1769:ACT.15.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "For Moses of old time hath in every city them that preach him, being read in the synagogues every sabbath day.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.15.22",
+      "edition_verse_id": "KJV1769:ACT.15.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "Then pleased it the apostles and elders, with the whole church, to send chosen men of their own company to Antioch with Paul and Barnabas; ",
+          "kind": "text"
+        },
+        {
+          "text": "namely",
+          "kind": "supplied"
+        },
+        {
+          "text": ", Judas surnamed Barsabas, and Silas, chief men among the brethren:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.15.23",
+      "edition_verse_id": "KJV1769:ACT.15.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "And they wrote ",
+          "kind": "text"
+        },
+        {
+          "text": "letters",
+          "kind": "supplied"
+        },
+        {
+          "text": " by them after this manner; The apostles and elders and brethren ",
+          "kind": "text"
+        },
+        {
+          "text": "send",
+          "kind": "supplied"
+        },
+        {
+          "text": " greeting unto the brethren which are of the Gentiles in Antioch and Syria and Cilicia:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.15.24",
+      "edition_verse_id": "KJV1769:ACT.15.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "Forasmuch as we have heard, that certain which went out from us have troubled you with words, subverting your souls, saying, ",
+          "kind": "text"
+        },
+        {
+          "text": "Ye must",
+          "kind": "supplied"
+        },
+        {
+          "text": " be circumcised, and keep the law: to whom we gave no ",
+          "kind": "text"
+        },
+        {
+          "text": "such",
+          "kind": "supplied"
+        },
+        {
+          "text": " commandment:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.15.25",
+      "edition_verse_id": "KJV1769:ACT.15.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "It seemed good unto us, being assembled with one accord, to send chosen men unto you with our beloved Barnabas and Paul,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.15.26",
+      "edition_verse_id": "KJV1769:ACT.15.26",
+      "verse": 26,
+      "spans": [
+        {
+          "text": "Men that have hazarded their lives for the name of our Lord Jesus Christ.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.15.27",
+      "edition_verse_id": "KJV1769:ACT.15.27",
+      "verse": 27,
+      "spans": [
+        {
+          "text": "We have sent therefore Judas and Silas, who shall also tell ",
+          "kind": "text"
+        },
+        {
+          "text": "you",
+          "kind": "supplied"
+        },
+        {
+          "text": " the same things by mouth.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.15.28",
+      "edition_verse_id": "KJV1769:ACT.15.28",
+      "verse": 28,
+      "spans": [
+        {
+          "text": "For it seemed good to the Holy Ghost, and to us, to lay upon you no greater burden than these necessary things;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.15.29",
+      "edition_verse_id": "KJV1769:ACT.15.29",
+      "verse": 29,
+      "spans": [
+        {
+          "text": "That ye abstain from meats offered to idols, and from blood, and from things strangled, and from fornication: from which if ye keep yourselves, ye shall do well. Fare ye well.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.15.30",
+      "edition_verse_id": "KJV1769:ACT.15.30",
+      "verse": 30,
+      "spans": [
+        {
+          "text": "So when they were dismissed, they came to Antioch: and when they had gathered the multitude together, they delivered the epistle:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.15.31",
+      "edition_verse_id": "KJV1769:ACT.15.31",
+      "verse": 31,
+      "spans": [
+        {
+          "text": "Which",
+          "kind": "supplied"
+        },
+        {
+          "text": " when they had read, they rejoiced for the consolation.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.15.32",
+      "edition_verse_id": "KJV1769:ACT.15.32",
+      "verse": 32,
+      "spans": [
+        {
+          "text": "And Judas and Silas, being prophets also themselves, exhorted the brethren with many words, and confirmed ",
+          "kind": "text"
+        },
+        {
+          "text": "them",
+          "kind": "supplied"
+        },
+        {
+          "text": ".",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.15.33",
+      "edition_verse_id": "KJV1769:ACT.15.33",
+      "verse": 33,
+      "spans": [
+        {
+          "text": "And after they had tarried ",
+          "kind": "text"
+        },
+        {
+          "text": "there",
+          "kind": "supplied"
+        },
+        {
+          "text": " a space, they were let go in peace from the brethren unto the apostles.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.15.34",
+      "edition_verse_id": "KJV1769:ACT.15.34",
+      "verse": 34,
+      "spans": [
+        {
+          "text": "Notwithstanding it pleased Silas to abide there still.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.15.35",
+      "edition_verse_id": "KJV1769:ACT.15.35",
+      "verse": 35,
+      "spans": [
+        {
+          "text": "Paul also and Barnabas continued in Antioch, teaching and preaching the word of the Lord, with many others also.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.15.36",
+      "edition_verse_id": "KJV1769:ACT.15.36",
+      "verse": 36,
+      "spans": [
+        {
+          "text": "¶ And some days after Paul said unto Barnabas, Let us go again and visit our brethren in every city where we have preached the word of the Lord, ",
+          "kind": "text"
+        },
+        {
+          "text": "and see",
+          "kind": "supplied"
+        },
+        {
+          "text": " how they do.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ACT.15.37",
+      "edition_verse_id": "KJV1769:ACT.15.37",
+      "verse": 37,
+      "spans": [
+        {
+          "text": "And Barnabas determined to take with them John, whose surname was Mark.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.15.38",
+      "edition_verse_id": "KJV1769:ACT.15.38",
+      "verse": 38,
+      "spans": [
+        {
+          "text": "But Paul thought not good to take him with them, who departed from them from Pamphylia, and went not with them to the work.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.15.39",
+      "edition_verse_id": "KJV1769:ACT.15.39",
+      "verse": 39,
+      "spans": [
+        {
+          "text": "And the contention was so sharp between them, that they departed asunder one from the other: and so Barnabas took Mark, and sailed unto Cyprus;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.15.40",
+      "edition_verse_id": "KJV1769:ACT.15.40",
+      "verse": 40,
+      "spans": [
+        {
+          "text": "And Paul chose Silas, and departed, being recommended by the brethren unto the grace of God.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.15.41",
+      "edition_verse_id": "KJV1769:ACT.15.41",
+      "verse": 41,
+      "spans": [
+        {
+          "text": "And he went through Syria and Cilicia, confirming the churches.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

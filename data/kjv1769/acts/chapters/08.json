@@ -1,0 +1,552 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "KJV1769",
+  "book_code": "ACT",
+  "chapter": 8,
+  "verses": [
+    {
+      "id": "ACT.8.1",
+      "edition_verse_id": "KJV1769:ACT.8.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "And Saul was consenting unto his death. And at that time there was a great persecution against the church which was at Jerusalem; and they were all scattered abroad throughout the regions of Judæa and Samaria, except the apostles.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ACT.8.2",
+      "edition_verse_id": "KJV1769:ACT.8.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "And devout men carried Stephen ",
+          "kind": "text"
+        },
+        {
+          "text": "to his burial",
+          "kind": "supplied"
+        },
+        {
+          "text": ", and made great lamentation over him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.8.3",
+      "edition_verse_id": "KJV1769:ACT.8.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "As for Saul, he made havock of the church, entering into every house, and haling men and women committed ",
+          "kind": "text"
+        },
+        {
+          "text": "them",
+          "kind": "supplied"
+        },
+        {
+          "text": " to prison.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.8.4",
+      "edition_verse_id": "KJV1769:ACT.8.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "Therefore they that were scattered abroad went every where preaching the word.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.8.5",
+      "edition_verse_id": "KJV1769:ACT.8.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "Then Philip went down to the city of Samaria, and preached Christ unto them.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.8.6",
+      "edition_verse_id": "KJV1769:ACT.8.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "And the people with one accord gave heed unto those things which Philip spake, hearing and seeing the miracles which he did.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.8.7",
+      "edition_verse_id": "KJV1769:ACT.8.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "For unclean spirits, crying with loud voice, came out of many that were possessed ",
+          "kind": "text"
+        },
+        {
+          "text": "with them",
+          "kind": "supplied"
+        },
+        {
+          "text": ": and many taken with palsies, and that were lame, were healed.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.8.8",
+      "edition_verse_id": "KJV1769:ACT.8.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "And there was great joy in that city.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.8.9",
+      "edition_verse_id": "KJV1769:ACT.8.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "But there was a certain man, called Simon, which beforetime in the same city used sorcery, and bewitched the people of Samaria, giving out that himself was some great one:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.8.10",
+      "edition_verse_id": "KJV1769:ACT.8.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "To whom they all gave heed, from the least to the greatest, saying, This man is the great power of God.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.8.11",
+      "edition_verse_id": "KJV1769:ACT.8.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "And to him they had regard, because that of long time he had bewitched them with sorceries.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.8.12",
+      "edition_verse_id": "KJV1769:ACT.8.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "But when they believed Philip preaching the things concerning the kingdom of God, and the name of Jesus Christ, they were baptized, both men and women.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.8.13",
+      "edition_verse_id": "KJV1769:ACT.8.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "Then Simon himself believed also: and when he was baptized, he continued with Philip, and wondered, beholding the miracles and signs which were done.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.8.14",
+      "edition_verse_id": "KJV1769:ACT.8.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "Now when the apostles which were at Jerusalem heard that Samaria had received the word of God, they sent unto them Peter and John:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.8.15",
+      "edition_verse_id": "KJV1769:ACT.8.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "Who, when they were come down, prayed for them, that they might receive the Holy Ghost:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.8.16",
+      "edition_verse_id": "KJV1769:ACT.8.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "(For as yet he was fallen upon none of them: only they were baptized in the name of the Lord Jesus.)",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.8.17",
+      "edition_verse_id": "KJV1769:ACT.8.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "Then laid they ",
+          "kind": "text"
+        },
+        {
+          "text": "their",
+          "kind": "supplied"
+        },
+        {
+          "text": " hands on them, and they received the Holy Ghost.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.8.18",
+      "edition_verse_id": "KJV1769:ACT.8.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "And when Simon saw that through laying on of the apostles’ hands the Holy Ghost was given, he offered them money,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.8.19",
+      "edition_verse_id": "KJV1769:ACT.8.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "Saying, Give me also this power, that on whomsoever I lay hands, he may receive the Holy Ghost.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.8.20",
+      "edition_verse_id": "KJV1769:ACT.8.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "But Peter said unto him, Thy money perish with thee, because thou hast thought that the gift of God may be purchased with money.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.8.21",
+      "edition_verse_id": "KJV1769:ACT.8.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "Thou hast neither part nor lot in this matter: for thy heart is not right in the sight of God.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.8.22",
+      "edition_verse_id": "KJV1769:ACT.8.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "Repent therefore of this thy wickedness, and pray God, if perhaps the thought of thine heart may be forgiven thee.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.8.23",
+      "edition_verse_id": "KJV1769:ACT.8.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "For I perceive that thou art in the gall of bitterness, and ",
+          "kind": "text"
+        },
+        {
+          "text": "in",
+          "kind": "supplied"
+        },
+        {
+          "text": " the bond of iniquity.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.8.24",
+      "edition_verse_id": "KJV1769:ACT.8.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "Then answered Simon, and said, Pray ye to the Lord for me, that none of these things which ye have spoken come upon me.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.8.25",
+      "edition_verse_id": "KJV1769:ACT.8.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "And they, when they had testified and preached the word of the Lord, returned to Jerusalem, and preached the gospel in many villages of the Samaritans.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.8.26",
+      "edition_verse_id": "KJV1769:ACT.8.26",
+      "verse": 26,
+      "spans": [
+        {
+          "text": "And the angel of the Lord spake unto Philip, saying, Arise, and go toward the south unto the way that goeth down from Jerusalem unto Gaza, which is desert.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.8.27",
+      "edition_verse_id": "KJV1769:ACT.8.27",
+      "verse": 27,
+      "spans": [
+        {
+          "text": "And he arose and went: and, behold, a man of Ethiopia, an eunuch of great authority under Candace queen of the Ethiopians, who had the charge of all her treasure, and had come to Jerusalem for to worship,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.8.28",
+      "edition_verse_id": "KJV1769:ACT.8.28",
+      "verse": 28,
+      "spans": [
+        {
+          "text": "Was returning, and sitting in his chariot read Esaias the prophet.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.8.29",
+      "edition_verse_id": "KJV1769:ACT.8.29",
+      "verse": 29,
+      "spans": [
+        {
+          "text": "Then the Spirit said unto Philip, Go near, and join thyself to this chariot.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.8.30",
+      "edition_verse_id": "KJV1769:ACT.8.30",
+      "verse": 30,
+      "spans": [
+        {
+          "text": "And Philip ran thither to ",
+          "kind": "text"
+        },
+        {
+          "text": "him",
+          "kind": "supplied"
+        },
+        {
+          "text": ", and heard him read the prophet Esaias, and said, Understandest thou what thou readest?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.8.31",
+      "edition_verse_id": "KJV1769:ACT.8.31",
+      "verse": 31,
+      "spans": [
+        {
+          "text": "And he said, How can I, except some man should guide me? And he desired Philip that he would come up and sit with him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.8.32",
+      "edition_verse_id": "KJV1769:ACT.8.32",
+      "verse": 32,
+      "spans": [
+        {
+          "text": "The place of the scripture which he read was this, He was led as a sheep to the slaughter; and like a lamb dumb before his shearer, so opened he not his mouth:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.8.33",
+      "edition_verse_id": "KJV1769:ACT.8.33",
+      "verse": 33,
+      "spans": [
+        {
+          "text": "In his humiliation his judgment was taken away: and who shall declare his generation? for his life is taken from the earth.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.8.34",
+      "edition_verse_id": "KJV1769:ACT.8.34",
+      "verse": 34,
+      "spans": [
+        {
+          "text": "And the eunuch answered Philip, and said, I pray thee, of whom speaketh the prophet this? of himself, or of some other man?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.8.35",
+      "edition_verse_id": "KJV1769:ACT.8.35",
+      "verse": 35,
+      "spans": [
+        {
+          "text": "Then Philip opened his mouth, and began at the same scripture, and preached unto him Jesus.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.8.36",
+      "edition_verse_id": "KJV1769:ACT.8.36",
+      "verse": 36,
+      "spans": [
+        {
+          "text": "And as they went on ",
+          "kind": "text"
+        },
+        {
+          "text": "their",
+          "kind": "supplied"
+        },
+        {
+          "text": " way, they came unto a certain water: and the eunuch said, See, ",
+          "kind": "text"
+        },
+        {
+          "text": "here is",
+          "kind": "supplied"
+        },
+        {
+          "text": " water; what doth hinder me to be baptized?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.8.37",
+      "edition_verse_id": "KJV1769:ACT.8.37",
+      "verse": 37,
+      "spans": [
+        {
+          "text": "And Philip said, If thou believest with all thine heart, thou mayest. And he answered and said, I believe that Jesus Christ is the Son of God.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.8.38",
+      "edition_verse_id": "KJV1769:ACT.8.38",
+      "verse": 38,
+      "spans": [
+        {
+          "text": "And he commanded the chariot to stand still: and they went down both into the water, both Philip and the eunuch; and he baptized him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.8.39",
+      "edition_verse_id": "KJV1769:ACT.8.39",
+      "verse": 39,
+      "spans": [
+        {
+          "text": "And when they were come up out of the water, the Spirit of the Lord caught away Philip, that the eunuch saw him no more: and he went on his way rejoicing.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.8.40",
+      "edition_verse_id": "KJV1769:ACT.8.40",
+      "verse": 40,
+      "spans": [
+        {
+          "text": "But Philip was found at Azotus: and passing through he preached in all the cities, till he came to Cæsarea.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}
