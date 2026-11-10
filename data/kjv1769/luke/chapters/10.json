@@ -1,0 +1,632 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "KJV1769",
+  "book_code": "LUK",
+  "chapter": 10,
+  "verses": [
+    {
+      "id": "LUK.10.1",
+      "edition_verse_id": "KJV1769:LUK.10.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "After these things the Lord appointed other seventy also, and sent them two and two before his face into every city and place, whither he himself would come.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LUK.10.2",
+      "edition_verse_id": "KJV1769:LUK.10.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "Therefore said he unto them, The harvest truly ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " great, but the labourers ",
+          "kind": "text"
+        },
+        {
+          "text": "are",
+          "kind": "supplied"
+        },
+        {
+          "text": " few: pray ye therefore the Lord of the harvest, that he would send forth labourers into his harvest.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.10.3",
+      "edition_verse_id": "KJV1769:LUK.10.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "Go your ways: behold, I send you forth as lambs among wolves.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.10.4",
+      "edition_verse_id": "KJV1769:LUK.10.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "Carry neither purse, nor scrip, nor shoes: and salute no man by the way.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.10.5",
+      "edition_verse_id": "KJV1769:LUK.10.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "And into whatsoever house ye enter, first say, Peace ",
+          "kind": "text"
+        },
+        {
+          "text": "be",
+          "kind": "supplied"
+        },
+        {
+          "text": " to this house.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.10.6",
+      "edition_verse_id": "KJV1769:LUK.10.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "And if the son of peace be there, your peace shall rest upon it: if not, it shall turn to you again.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.10.7",
+      "edition_verse_id": "KJV1769:LUK.10.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "And in the same house remain, eating and drinking such things as they give: for the labourer is worthy of his hire. Go not from house to house.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.10.8",
+      "edition_verse_id": "KJV1769:LUK.10.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "And into whatsoever city ye enter, and they receive you, eat such things as are set before you:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.10.9",
+      "edition_verse_id": "KJV1769:LUK.10.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "And heal the sick that are therein, and say unto them, The kingdom of God is come nigh unto you.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.10.10",
+      "edition_verse_id": "KJV1769:LUK.10.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "But into whatsoever city ye enter, and they receive you not, go your ways out into the streets of the same, and say,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.10.11",
+      "edition_verse_id": "KJV1769:LUK.10.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "Even the very dust of your city, which cleaveth on us, we do wipe off against you: notwithstanding be ye sure of this, that the kingdom of God is come nigh unto you.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.10.12",
+      "edition_verse_id": "KJV1769:LUK.10.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "But I say unto you, that it shall be more tolerable in that day for Sodom, than for that city.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.10.13",
+      "edition_verse_id": "KJV1769:LUK.10.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "Woe unto thee, Chorazin! woe unto thee, Bethsaida! for if the mighty works had been done in Tyre and Sidon, which have been done in you, they had a great while ago repented, sitting in sackcloth and ashes.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.10.14",
+      "edition_verse_id": "KJV1769:LUK.10.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "But it shall be more tolerable for Tyre and Sidon at the judgment, than for you.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.10.15",
+      "edition_verse_id": "KJV1769:LUK.10.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "And thou, Capernaum, which art exalted to heaven, shalt be thrust down to hell.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.10.16",
+      "edition_verse_id": "KJV1769:LUK.10.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "He that heareth you heareth me; and he that despiseth you despiseth me; and he that despiseth me despiseth him that sent me.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.10.17",
+      "edition_verse_id": "KJV1769:LUK.10.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "¶ And the seventy returned again with joy, saying, Lord, even the devils are subject unto us through thy name.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LUK.10.18",
+      "edition_verse_id": "KJV1769:LUK.10.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "And he said unto them, I beheld Satan as lightning fall from heaven.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.10.19",
+      "edition_verse_id": "KJV1769:LUK.10.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "Behold, I give unto you power to tread on serpents and scorpions, and over all the power of the enemy: and nothing shall by any means hurt you.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.10.20",
+      "edition_verse_id": "KJV1769:LUK.10.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "Notwithstanding in this rejoice not, that the spirits are subject unto you; but rather rejoice, because your names are written in heaven.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.10.21",
+      "edition_verse_id": "KJV1769:LUK.10.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "¶ In that hour Jesus rejoiced in spirit, and said, I thank thee, O Father, Lord of heaven and earth, that thou hast hid these things from the wise and prudent, and hast revealed them unto babes: even so, Father; for so it seemed good in thy sight.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LUK.10.22",
+      "edition_verse_id": "KJV1769:LUK.10.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "All things are delivered to me of my Father: and no man knoweth who the Son is, but the Father; and who the Father is, but the Son, and ",
+          "kind": "text"
+        },
+        {
+          "text": "he",
+          "kind": "supplied"
+        },
+        {
+          "text": " to whom the Son will reveal ",
+          "kind": "text"
+        },
+        {
+          "text": "him.",
+          "kind": "supplied"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.10.23",
+      "edition_verse_id": "KJV1769:LUK.10.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "¶ And he turned him unto ",
+          "kind": "text"
+        },
+        {
+          "text": "his",
+          "kind": "supplied"
+        },
+        {
+          "text": " disciples, and said privately, Blessed ",
+          "kind": "text"
+        },
+        {
+          "text": "are",
+          "kind": "supplied"
+        },
+        {
+          "text": " the eyes which see the things that ye see:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LUK.10.24",
+      "edition_verse_id": "KJV1769:LUK.10.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "For I tell you, that many prophets and kings have desired to see those things which ye see, and have not seen ",
+          "kind": "text"
+        },
+        {
+          "text": "them",
+          "kind": "supplied"
+        },
+        {
+          "text": "; and to hear those things which ye hear, and have not heard ",
+          "kind": "text"
+        },
+        {
+          "text": "them.",
+          "kind": "supplied"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.10.25",
+      "edition_verse_id": "KJV1769:LUK.10.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "¶ And, behold, a certain lawyer stood up, and tempted him, saying, Master, what shall I do to inherit eternal life?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LUK.10.26",
+      "edition_verse_id": "KJV1769:LUK.10.26",
+      "verse": 26,
+      "spans": [
+        {
+          "text": "He said unto him, What is written in the law? how readest thou?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.10.27",
+      "edition_verse_id": "KJV1769:LUK.10.27",
+      "verse": 27,
+      "spans": [
+        {
+          "text": "And he answering said, Thou shalt love the Lord thy God with all thy heart, and with all thy soul, and with all thy strength, and with all thy mind; and thy neighbour as thyself.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.10.28",
+      "edition_verse_id": "KJV1769:LUK.10.28",
+      "verse": 28,
+      "spans": [
+        {
+          "text": "And he said unto him, Thou hast answered right: this do, and thou shalt live.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.10.29",
+      "edition_verse_id": "KJV1769:LUK.10.29",
+      "verse": 29,
+      "spans": [
+        {
+          "text": "But he, willing to justify himself, said unto Jesus, And who is my neighbour?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.10.30",
+      "edition_verse_id": "KJV1769:LUK.10.30",
+      "verse": 30,
+      "spans": [
+        {
+          "text": "And Jesus answering said, A certain ",
+          "kind": "text"
+        },
+        {
+          "text": "man",
+          "kind": "supplied"
+        },
+        {
+          "text": " went down from Jerusalem to Jericho, and fell among thieves, which stripped him of his raiment, and wounded ",
+          "kind": "text"
+        },
+        {
+          "text": "him",
+          "kind": "supplied"
+        },
+        {
+          "text": ", and departed, leaving ",
+          "kind": "text"
+        },
+        {
+          "text": "him",
+          "kind": "supplied"
+        },
+        {
+          "text": " half dead.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.10.31",
+      "edition_verse_id": "KJV1769:LUK.10.31",
+      "verse": 31,
+      "spans": [
+        {
+          "text": "And by chance there came down a certain priest that way: and when he saw him, he passed by on the other side.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.10.32",
+      "edition_verse_id": "KJV1769:LUK.10.32",
+      "verse": 32,
+      "spans": [
+        {
+          "text": "And likewise a Levite, when he was at the place, came and looked ",
+          "kind": "text"
+        },
+        {
+          "text": "on him",
+          "kind": "supplied"
+        },
+        {
+          "text": ", and passed by on the other side.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.10.33",
+      "edition_verse_id": "KJV1769:LUK.10.33",
+      "verse": 33,
+      "spans": [
+        {
+          "text": "But a certain Samaritan, as he journeyed, came where he was: and when he saw him, he had compassion ",
+          "kind": "text"
+        },
+        {
+          "text": "on him",
+          "kind": "supplied"
+        },
+        {
+          "text": ",",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.10.34",
+      "edition_verse_id": "KJV1769:LUK.10.34",
+      "verse": 34,
+      "spans": [
+        {
+          "text": "And went to ",
+          "kind": "text"
+        },
+        {
+          "text": "him",
+          "kind": "supplied"
+        },
+        {
+          "text": ", and bound up his wounds, pouring in oil and wine, and set him on his own beast, and brought him to an inn, and took care of him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.10.35",
+      "edition_verse_id": "KJV1769:LUK.10.35",
+      "verse": 35,
+      "spans": [
+        {
+          "text": "And on the morrow when he departed, he took out two pence, and gave ",
+          "kind": "text"
+        },
+        {
+          "text": "them",
+          "kind": "supplied"
+        },
+        {
+          "text": " to the host, and said unto him, Take care of him; and whatsoever thou spendest more, when I come again, I will repay thee.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.10.36",
+      "edition_verse_id": "KJV1769:LUK.10.36",
+      "verse": 36,
+      "spans": [
+        {
+          "text": "Which now of these three, thinkest thou, was neighbour unto him that fell among the thieves?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.10.37",
+      "edition_verse_id": "KJV1769:LUK.10.37",
+      "verse": 37,
+      "spans": [
+        {
+          "text": "And he said, He that shewed mercy on him. Then said Jesus unto him, Go, and do thou likewise.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.10.38",
+      "edition_verse_id": "KJV1769:LUK.10.38",
+      "verse": 38,
+      "spans": [
+        {
+          "text": "¶ Now it came to pass, as they went, that he entered into a certain village: and a certain woman named Martha received him into her house.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LUK.10.39",
+      "edition_verse_id": "KJV1769:LUK.10.39",
+      "verse": 39,
+      "spans": [
+        {
+          "text": "And she had a sister called Mary, which also sat at Jesus’ feet, and heard his word.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.10.40",
+      "edition_verse_id": "KJV1769:LUK.10.40",
+      "verse": 40,
+      "spans": [
+        {
+          "text": "But Martha was cumbered about much serving, and came to him, and said, Lord, dost thou not care that my sister hath left me to serve alone? bid her therefore that she help me.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.10.41",
+      "edition_verse_id": "KJV1769:LUK.10.41",
+      "verse": 41,
+      "spans": [
+        {
+          "text": "And Jesus answered and said unto her, Martha, Martha, thou art careful and troubled about many things:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.10.42",
+      "edition_verse_id": "KJV1769:LUK.10.42",
+      "verse": 42,
+      "spans": [
+        {
+          "text": "But one thing is needful: and Mary hath chosen that good part, which shall not be taken away from her.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

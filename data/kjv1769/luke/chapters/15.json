@@ -1,0 +1,504 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "KJV1769",
+  "book_code": "LUK",
+  "chapter": 15,
+  "verses": [
+    {
+      "id": "LUK.15.1",
+      "edition_verse_id": "KJV1769:LUK.15.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "Then drew near unto him all the publicans and sinners for to hear him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LUK.15.2",
+      "edition_verse_id": "KJV1769:LUK.15.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "And the Pharisees and scribes murmured, saying, This man receiveth sinners, and eateth with them.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.15.3",
+      "edition_verse_id": "KJV1769:LUK.15.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "¶ And he spake this parable unto them, saying,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LUK.15.4",
+      "edition_verse_id": "KJV1769:LUK.15.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "What man of you, having an hundred sheep, if he lose one of them, doth not leave the ninety and nine in the wilderness, and go after that which is lost, until he find it?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.15.5",
+      "edition_verse_id": "KJV1769:LUK.15.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "And when he hath found ",
+          "kind": "text"
+        },
+        {
+          "text": "it",
+          "kind": "supplied"
+        },
+        {
+          "text": ", he layeth ",
+          "kind": "text"
+        },
+        {
+          "text": "it",
+          "kind": "supplied"
+        },
+        {
+          "text": " on his shoulders, rejoicing.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.15.6",
+      "edition_verse_id": "KJV1769:LUK.15.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "And when he cometh home, he calleth together ",
+          "kind": "text"
+        },
+        {
+          "text": "his",
+          "kind": "supplied"
+        },
+        {
+          "text": " friends and neighbours, saying unto them, Rejoice with me; for I have found my sheep which was lost.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.15.7",
+      "edition_verse_id": "KJV1769:LUK.15.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "I say unto you, that likewise joy shall be in heaven over one sinner that repenteth, more than over ninety and nine just persons, which need no repentance.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.15.8",
+      "edition_verse_id": "KJV1769:LUK.15.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "¶ Either what woman having ten pieces of silver, if she lose one piece, doth not light a candle, and sweep the house, and seek diligently till she find ",
+          "kind": "text"
+        },
+        {
+          "text": "it",
+          "kind": "supplied"
+        },
+        {
+          "text": "?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LUK.15.9",
+      "edition_verse_id": "KJV1769:LUK.15.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "And when she hath found ",
+          "kind": "text"
+        },
+        {
+          "text": "it",
+          "kind": "supplied"
+        },
+        {
+          "text": ", she calleth ",
+          "kind": "text"
+        },
+        {
+          "text": "her",
+          "kind": "supplied"
+        },
+        {
+          "text": " friends and ",
+          "kind": "text"
+        },
+        {
+          "text": "her",
+          "kind": "supplied"
+        },
+        {
+          "text": " neighbours together, saying, Rejoice with me; for I have found the piece which I had lost.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.15.10",
+      "edition_verse_id": "KJV1769:LUK.15.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "Likewise, I say unto you, there is joy in the presence of the angels of God over one sinner that repenteth.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.15.11",
+      "edition_verse_id": "KJV1769:LUK.15.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "¶ And he said, A certain man had two sons:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LUK.15.12",
+      "edition_verse_id": "KJV1769:LUK.15.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "And the younger of them said to ",
+          "kind": "text"
+        },
+        {
+          "text": "his",
+          "kind": "supplied"
+        },
+        {
+          "text": " father, Father, give me the portion of goods that falleth ",
+          "kind": "text"
+        },
+        {
+          "text": "to me",
+          "kind": "supplied"
+        },
+        {
+          "text": ". And he divided unto them ",
+          "kind": "text"
+        },
+        {
+          "text": "his",
+          "kind": "supplied"
+        },
+        {
+          "text": " living.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.15.13",
+      "edition_verse_id": "KJV1769:LUK.15.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "And not many days after the younger son gathered all together, and took his journey into a far country, and there wasted his substance with riotous living.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.15.14",
+      "edition_verse_id": "KJV1769:LUK.15.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "And when he had spent all, there arose a mighty famine in that land; and he began to be in want.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.15.15",
+      "edition_verse_id": "KJV1769:LUK.15.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "And he went and joined himself to a citizen of that country; and he sent him into his fields to feed swine.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.15.16",
+      "edition_verse_id": "KJV1769:LUK.15.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "And he would fain have filled his belly with the husks that the swine did eat: and no man gave unto him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.15.17",
+      "edition_verse_id": "KJV1769:LUK.15.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "And when he came to himself, he said, How many hired servants of my father’s have bread enough and to spare, and I perish with hunger!",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.15.18",
+      "edition_verse_id": "KJV1769:LUK.15.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "I will arise and go to my father, and will say unto him, Father, I have sinned against heaven, and before thee,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.15.19",
+      "edition_verse_id": "KJV1769:LUK.15.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "And am no more worthy to be called thy son: make me as one of thy hired servants.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.15.20",
+      "edition_verse_id": "KJV1769:LUK.15.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "And he arose, and came to his father. But when he was yet a great way off, his father saw him, and had compassion, and ran, and fell on his neck, and kissed him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.15.21",
+      "edition_verse_id": "KJV1769:LUK.15.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "And the son said unto him, Father, I have sinned against heaven, and in thy sight, and am no more worthy to be called thy son.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.15.22",
+      "edition_verse_id": "KJV1769:LUK.15.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "But the father said to his servants, Bring forth the best robe, and put ",
+          "kind": "text"
+        },
+        {
+          "text": "it",
+          "kind": "supplied"
+        },
+        {
+          "text": " on him; and put a ring on his hand, and shoes on ",
+          "kind": "text"
+        },
+        {
+          "text": "his",
+          "kind": "supplied"
+        },
+        {
+          "text": " feet:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.15.23",
+      "edition_verse_id": "KJV1769:LUK.15.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "And bring hither the fatted calf, and kill ",
+          "kind": "text"
+        },
+        {
+          "text": "it",
+          "kind": "supplied"
+        },
+        {
+          "text": "; and let us eat, and be merry:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.15.24",
+      "edition_verse_id": "KJV1769:LUK.15.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "For this my son was dead, and is alive again; he was lost, and is found. And they began to be merry.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.15.25",
+      "edition_verse_id": "KJV1769:LUK.15.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "Now his elder son was in the field: and as he came and drew nigh to the house, he heard musick and dancing.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.15.26",
+      "edition_verse_id": "KJV1769:LUK.15.26",
+      "verse": 26,
+      "spans": [
+        {
+          "text": "And he called one of the servants, and asked what these things meant.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.15.27",
+      "edition_verse_id": "KJV1769:LUK.15.27",
+      "verse": 27,
+      "spans": [
+        {
+          "text": "And he said unto him, Thy brother is come; and thy father hath killed the fatted calf, because he hath received him safe and sound.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.15.28",
+      "edition_verse_id": "KJV1769:LUK.15.28",
+      "verse": 28,
+      "spans": [
+        {
+          "text": "And he was angry, and would not go in: therefore came his father out, and intreated him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.15.29",
+      "edition_verse_id": "KJV1769:LUK.15.29",
+      "verse": 29,
+      "spans": [
+        {
+          "text": "And he answering said to ",
+          "kind": "text"
+        },
+        {
+          "text": "his",
+          "kind": "supplied"
+        },
+        {
+          "text": " father, Lo, these many years do I serve thee, neither transgressed I at any time thy commandment: and yet thou never gavest me a kid, that I might make merry with my friends:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.15.30",
+      "edition_verse_id": "KJV1769:LUK.15.30",
+      "verse": 30,
+      "spans": [
+        {
+          "text": "But as soon as this thy son was come, which hath devoured thy living with harlots, thou hast killed for him the fatted calf.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.15.31",
+      "edition_verse_id": "KJV1769:LUK.15.31",
+      "verse": 31,
+      "spans": [
+        {
+          "text": "And he said unto him, Son, thou art ever with me, and all that I have is thine.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.15.32",
+      "edition_verse_id": "KJV1769:LUK.15.32",
+      "verse": 32,
+      "spans": [
+        {
+          "text": "It was meet that we should make merry, and be glad: for this thy brother was dead, and is alive again; and was lost, and is found.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "edition_id": "KJV1769",
+  "book_code": "LAM",
+  "chapter_count": 5,
+  "verse_count": 154,
+  "chapters": [
+    {
+      "chapter": 1,
+      "verse_count": 22,
+      "sha256": "fdd86bb0a44be1a57e91237262a96c41f6b6123d9b81dc11db5ff8cb597dbe28"
+    },
+    {
+      "chapter": 2,
+      "verse_count": 22,
+      "sha256": "442b958658a9f2aa04302b49c89906d12db69efc1ca7740a4b57744102626765"
+    },
+    {
+      "chapter": 3,
+      "verse_count": 66,
+      "sha256": "9bc18d493e462cc248ad5ff5d97945eaf98074204928379ca4435f8599e1dbdc"
+    },
+    {
+      "chapter": 4,
+      "verse_count": 22,
+      "sha256": "53f1ad5e346465e3e38aaa147c69c4c73c54973f74a86f7f4c6b973f4649b9d6"
+    },
+    {
+      "chapter": 5,
+      "verse_count": 22,
+      "sha256": "942357e6b043579049f859b5eb9b60e5c82a85bab7192856bbc265ded004bd70"
+    }
+  ]
+}

@@ -1,0 +1,112 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "KJV1769",
+  "book_code": "LEV",
+  "chapter": 12,
+  "verses": [
+    {
+      "id": "LEV.12.1",
+      "edition_verse_id": "KJV1769:LEV.12.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "And the LORD spake unto Moses, saying,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LEV.12.2",
+      "edition_verse_id": "KJV1769:LEV.12.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "Speak unto the children of Israel, saying, If a woman have conceived seed, and born a man child: then she shall be unclean seven days; according to the days of the separation for her infirmity shall she be unclean.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.12.3",
+      "edition_verse_id": "KJV1769:LEV.12.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "And in the eighth day the flesh of his foreskin shall be circumcised.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.12.4",
+      "edition_verse_id": "KJV1769:LEV.12.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "And she shall then continue in the blood of her purifying three and thirty days; she shall touch no hallowed thing, nor come into the sanctuary, until the days of her purifying be fulfilled.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.12.5",
+      "edition_verse_id": "KJV1769:LEV.12.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "But if she bear a maid child, then she shall be unclean two weeks, as in her separation: and she shall continue in the blood of her purifying threescore and six days.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.12.6",
+      "edition_verse_id": "KJV1769:LEV.12.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "And when the days of her purifying are fulfilled, for a son, or for a daughter, she shall bring a lamb of the first year for a burnt offering, and a young pigeon, or a turtledove, for a sin offering, unto the door of the tabernacle of the congregation, unto the priest:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LEV.12.7",
+      "edition_verse_id": "KJV1769:LEV.12.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "Who shall offer it before the LORD, and make an atonement for her; and she shall be cleansed from the issue of her blood. This ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " the law for her that hath born a male or a female.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.12.8",
+      "edition_verse_id": "KJV1769:LEV.12.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "And if she be not able to bring a lamb, then she shall bring two turtles, or two young pigeons; the one for the burnt offering, and the other for a sin offering: and the priest shall make an atonement for her, and she shall be clean.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

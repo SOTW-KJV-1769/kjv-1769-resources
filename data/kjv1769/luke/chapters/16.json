@@ -1,0 +1,420 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "KJV1769",
+  "book_code": "LUK",
+  "chapter": 16,
+  "verses": [
+    {
+      "id": "LUK.16.1",
+      "edition_verse_id": "KJV1769:LUK.16.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "And he said also unto his disciples, There was a certain rich man, which had a steward; and the same was accused unto him that he had wasted his goods.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LUK.16.2",
+      "edition_verse_id": "KJV1769:LUK.16.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "And he called him, and said unto him, How is it that I hear this of thee? give an account of thy stewardship; for thou mayest be no longer steward.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.16.3",
+      "edition_verse_id": "KJV1769:LUK.16.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "Then the steward said within himself, What shall I do? for my lord taketh away from me the stewardship: I cannot dig; to beg I am ashamed.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.16.4",
+      "edition_verse_id": "KJV1769:LUK.16.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "I am resolved what to do, that, when I am put out of the stewardship, they may receive me into their houses.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.16.5",
+      "edition_verse_id": "KJV1769:LUK.16.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "So he called every one of his lord’s debtors ",
+          "kind": "text"
+        },
+        {
+          "text": "unto him",
+          "kind": "supplied"
+        },
+        {
+          "text": ", and said unto the first, How much owest thou unto my lord?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.16.6",
+      "edition_verse_id": "KJV1769:LUK.16.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "And he said, An hundred measures of oil. And he said unto him, Take thy bill, and sit down quickly, and write fifty.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.16.7",
+      "edition_verse_id": "KJV1769:LUK.16.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "Then said he to another, And how much owest thou? And he said, An hundred measures of wheat. And he said unto him, Take thy bill, and write fourscore.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.16.8",
+      "edition_verse_id": "KJV1769:LUK.16.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "And the lord commended the unjust steward, because he had done wisely: for the children of this world are in their generation wiser than the children of light.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.16.9",
+      "edition_verse_id": "KJV1769:LUK.16.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "And I say unto you, Make to yourselves friends of the mammon of unrighteousness; that, when ye fail, they may receive you into everlasting habitations.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.16.10",
+      "edition_verse_id": "KJV1769:LUK.16.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "He that is faithful in that which is least is faithful also in much: and he that is unjust in the least is unjust also in much.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.16.11",
+      "edition_verse_id": "KJV1769:LUK.16.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "If therefore ye have not been faithful in the unrighteous mammon, who will commit to your trust the true ",
+          "kind": "text"
+        },
+        {
+          "text": "riches",
+          "kind": "supplied"
+        },
+        {
+          "text": "?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.16.12",
+      "edition_verse_id": "KJV1769:LUK.16.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "And if ye have not been faithful in that which is another man’s, who shall give you that which is your own?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.16.13",
+      "edition_verse_id": "KJV1769:LUK.16.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "¶ No servant can serve two masters: for either he will hate the one, and love the other; or else he will hold to the one, and despise the other. Ye cannot serve God and mammon.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LUK.16.14",
+      "edition_verse_id": "KJV1769:LUK.16.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "And the Pharisees also, who were covetous, heard all these things: and they derided him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.16.15",
+      "edition_verse_id": "KJV1769:LUK.16.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "And he said unto them, Ye are they which justify yourselves before men; but God knoweth your hearts: for that which is highly esteemed among men is abomination in the sight of God.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.16.16",
+      "edition_verse_id": "KJV1769:LUK.16.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "The law and the prophets ",
+          "kind": "text"
+        },
+        {
+          "text": "were",
+          "kind": "supplied"
+        },
+        {
+          "text": " until John: since that time the kingdom of God is preached, and every man presseth into it.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.16.17",
+      "edition_verse_id": "KJV1769:LUK.16.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "And it is easier for heaven and earth to pass, than one tittle of the law to fail.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.16.18",
+      "edition_verse_id": "KJV1769:LUK.16.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "Whosoever putteth away his wife, and marrieth another, committeth adultery: and whosoever marrieth her that is put away from ",
+          "kind": "text"
+        },
+        {
+          "text": "her",
+          "kind": "supplied"
+        },
+        {
+          "text": " husband committeth adultery.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.16.19",
+      "edition_verse_id": "KJV1769:LUK.16.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "¶ There was a certain rich man, which was clothed in purple and fine linen, and fared sumptuously every day:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LUK.16.20",
+      "edition_verse_id": "KJV1769:LUK.16.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "And there was a certain beggar named Lazarus, which was laid at his gate, full of sores,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.16.21",
+      "edition_verse_id": "KJV1769:LUK.16.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "And desiring to be fed with the crumbs which fell from the rich man’s table: moreover the dogs came and licked his sores.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.16.22",
+      "edition_verse_id": "KJV1769:LUK.16.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "And it came to pass, that the beggar died, and was carried by the angels into Abraham’s bosom: the rich man also died, and was buried;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.16.23",
+      "edition_verse_id": "KJV1769:LUK.16.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "And in hell he lift up his eyes, being in torments, and seeth Abraham afar off, and Lazarus in his bosom.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.16.24",
+      "edition_verse_id": "KJV1769:LUK.16.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "And he cried and said, Father Abraham, have mercy on me, and send Lazarus, that he may dip the tip of his finger in water, and cool my tongue; for I am tormented in this flame.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.16.25",
+      "edition_verse_id": "KJV1769:LUK.16.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "But Abraham said, Son, remember that thou in thy lifetime receivedst thy good things, and likewise Lazarus evil things: but now he is comforted, and thou art tormented.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.16.26",
+      "edition_verse_id": "KJV1769:LUK.16.26",
+      "verse": 26,
+      "spans": [
+        {
+          "text": "And beside all this, between us and you there is a great gulf fixed: so that they which would pass from hence to you cannot; neither can they pass to us, that ",
+          "kind": "text"
+        },
+        {
+          "text": "would come",
+          "kind": "supplied"
+        },
+        {
+          "text": " from thence.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.16.27",
+      "edition_verse_id": "KJV1769:LUK.16.27",
+      "verse": 27,
+      "spans": [
+        {
+          "text": "Then he said, I pray thee therefore, father, that thou wouldest send him to my father’s house:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.16.28",
+      "edition_verse_id": "KJV1769:LUK.16.28",
+      "verse": 28,
+      "spans": [
+        {
+          "text": "For I have five brethren; that he may testify unto them, lest they also come into this place of torment.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.16.29",
+      "edition_verse_id": "KJV1769:LUK.16.29",
+      "verse": 29,
+      "spans": [
+        {
+          "text": "Abraham saith unto him, They have Moses and the prophets; let them hear them.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.16.30",
+      "edition_verse_id": "KJV1769:LUK.16.30",
+      "verse": 30,
+      "spans": [
+        {
+          "text": "And he said, Nay, father Abraham: but if one went unto them from the dead, they will repent.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.16.31",
+      "edition_verse_id": "KJV1769:LUK.16.31",
+      "verse": 31,
+      "spans": [
+        {
+          "text": "And he said unto him, If they hear not Moses and the prophets, neither will they be persuaded, though one rose from the dead.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

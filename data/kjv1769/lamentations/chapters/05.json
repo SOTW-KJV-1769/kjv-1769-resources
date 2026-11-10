@@ -1,0 +1,376 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "KJV1769",
+  "book_code": "LAM",
+  "chapter": 5,
+  "verses": [
+    {
+      "id": "LAM.5.1",
+      "edition_verse_id": "KJV1769:LAM.5.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "Remember, O LORD, what is come upon us: consider, and behold our reproach.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LAM.5.2",
+      "edition_verse_id": "KJV1769:LAM.5.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "Our inheritance is turned to strangers, our houses to aliens.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LAM.5.3",
+      "edition_verse_id": "KJV1769:LAM.5.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "We are orphans and fatherless, our mothers ",
+          "kind": "text"
+        },
+        {
+          "text": "are",
+          "kind": "supplied"
+        },
+        {
+          "text": " as widows.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LAM.5.4",
+      "edition_verse_id": "KJV1769:LAM.5.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "We have drunken our water for money; our wood is sold unto us.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LAM.5.5",
+      "edition_verse_id": "KJV1769:LAM.5.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "Our necks ",
+          "kind": "text"
+        },
+        {
+          "text": "are",
+          "kind": "supplied"
+        },
+        {
+          "text": " under persecution: we labour, ",
+          "kind": "text"
+        },
+        {
+          "text": "and",
+          "kind": "supplied"
+        },
+        {
+          "text": " have no rest.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LAM.5.6",
+      "edition_verse_id": "KJV1769:LAM.5.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "We have given the hand ",
+          "kind": "text"
+        },
+        {
+          "text": "to",
+          "kind": "supplied"
+        },
+        {
+          "text": " the Egyptians, ",
+          "kind": "text"
+        },
+        {
+          "text": "and to",
+          "kind": "supplied"
+        },
+        {
+          "text": " the Assyrians, to be satisfied with bread.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LAM.5.7",
+      "edition_verse_id": "KJV1769:LAM.5.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "Our fathers have sinned, ",
+          "kind": "text"
+        },
+        {
+          "text": "and are",
+          "kind": "supplied"
+        },
+        {
+          "text": " not; and we have borne their iniquities.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LAM.5.8",
+      "edition_verse_id": "KJV1769:LAM.5.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "Servants have ruled over us: ",
+          "kind": "text"
+        },
+        {
+          "text": "there is",
+          "kind": "supplied"
+        },
+        {
+          "text": " none that doth deliver ",
+          "kind": "text"
+        },
+        {
+          "text": "us",
+          "kind": "supplied"
+        },
+        {
+          "text": " out of their hand.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LAM.5.9",
+      "edition_verse_id": "KJV1769:LAM.5.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "We gat our bread with ",
+          "kind": "text"
+        },
+        {
+          "text": "the peril of",
+          "kind": "supplied"
+        },
+        {
+          "text": " our lives because of the sword of the wilderness.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LAM.5.10",
+      "edition_verse_id": "KJV1769:LAM.5.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "Our skin was black like an oven because of the terrible famine.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LAM.5.11",
+      "edition_verse_id": "KJV1769:LAM.5.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "They ravished the women in Zion, ",
+          "kind": "text"
+        },
+        {
+          "text": "and",
+          "kind": "supplied"
+        },
+        {
+          "text": " the maids in the cities of Judah.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LAM.5.12",
+      "edition_verse_id": "KJV1769:LAM.5.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "Princes are hanged up by their hand: the faces of elders were not honoured.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LAM.5.13",
+      "edition_verse_id": "KJV1769:LAM.5.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "They took the young men to grind, and the children fell under the wood.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LAM.5.14",
+      "edition_verse_id": "KJV1769:LAM.5.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "The elders have ceased from the gate, the young men from their musick.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LAM.5.15",
+      "edition_verse_id": "KJV1769:LAM.5.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "The joy of our heart is ceased; our dance is turned into mourning.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LAM.5.16",
+      "edition_verse_id": "KJV1769:LAM.5.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "The crown is fallen ",
+          "kind": "text"
+        },
+        {
+          "text": "from",
+          "kind": "supplied"
+        },
+        {
+          "text": " our head: woe unto us, that we have sinned!",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LAM.5.17",
+      "edition_verse_id": "KJV1769:LAM.5.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "For this our heart is faint; for these ",
+          "kind": "text"
+        },
+        {
+          "text": "things",
+          "kind": "supplied"
+        },
+        {
+          "text": " our eyes are dim.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LAM.5.18",
+      "edition_verse_id": "KJV1769:LAM.5.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "Because of the mountain of Zion, which is desolate, the foxes walk upon it.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LAM.5.19",
+      "edition_verse_id": "KJV1769:LAM.5.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "Thou, O LORD, remainest for ever; thy throne from generation to generation.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LAM.5.20",
+      "edition_verse_id": "KJV1769:LAM.5.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "Wherefore dost thou forget us for ever, ",
+          "kind": "text"
+        },
+        {
+          "text": "and",
+          "kind": "supplied"
+        },
+        {
+          "text": " forsake us so long time?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LAM.5.21",
+      "edition_verse_id": "KJV1769:LAM.5.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "Turn thou us unto thee, O LORD, and we shall be turned; renew our days as of old.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LAM.5.22",
+      "edition_verse_id": "KJV1769:LAM.5.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "But thou hast utterly rejected us; thou art very wroth against us.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

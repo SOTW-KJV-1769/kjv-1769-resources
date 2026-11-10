@@ -1,0 +1,352 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "KJV1769",
+  "book_code": "MAL",
+  "chapter": 3,
+  "verses": [
+    {
+      "id": "MAL.3.1",
+      "edition_verse_id": "KJV1769:MAL.3.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "Behold, I will send my messenger, and he shall prepare the way before me: and the Lord, whom ye seek, shall suddenly come to his temple, even the messenger of the covenant, whom ye delight in: behold, he shall come, saith the LORD of hosts.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MAL.3.2",
+      "edition_verse_id": "KJV1769:MAL.3.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "But who may abide the day of his coming? and who shall stand when he appeareth? for he ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " like a refiner’s fire, and like fullers’ soap:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAL.3.3",
+      "edition_verse_id": "KJV1769:MAL.3.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "And he shall sit ",
+          "kind": "text"
+        },
+        {
+          "text": "as",
+          "kind": "supplied"
+        },
+        {
+          "text": " a refiner and purifier of silver: and he shall purify the sons of Levi, and purge them as gold and silver, that they may offer unto the LORD an offering in righteousness.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAL.3.4",
+      "edition_verse_id": "KJV1769:MAL.3.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "Then shall the offering of Judah and Jerusalem be pleasant unto the LORD, as in the days of old, and as in former years.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAL.3.5",
+      "edition_verse_id": "KJV1769:MAL.3.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "And I will come near to you to judgment; and I will be a swift witness against the sorcerers, and against the adulterers, and against false swearers, and against those that oppress the hireling in ",
+          "kind": "text"
+        },
+        {
+          "text": "his",
+          "kind": "supplied"
+        },
+        {
+          "text": " wages, the widow, and the fatherless, and that turn aside the stranger ",
+          "kind": "text"
+        },
+        {
+          "text": "from his right",
+          "kind": "supplied"
+        },
+        {
+          "text": ", and fear not me, saith the LORD of hosts.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAL.3.6",
+      "edition_verse_id": "KJV1769:MAL.3.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "For I ",
+          "kind": "text"
+        },
+        {
+          "text": "am",
+          "kind": "supplied"
+        },
+        {
+          "text": " the LORD, I change not; therefore ye sons of Jacob are not consumed.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAL.3.7",
+      "edition_verse_id": "KJV1769:MAL.3.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "¶ Even from the days of your fathers ye are gone away from mine ordinances, and have not kept ",
+          "kind": "text"
+        },
+        {
+          "text": "them",
+          "kind": "supplied"
+        },
+        {
+          "text": ". Return unto me, and I will return unto you, saith the LORD of hosts. But ye said, Wherein shall we return?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MAL.3.8",
+      "edition_verse_id": "KJV1769:MAL.3.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "¶ Will a man rob God? Yet ye have robbed me. But ye say, Wherein have we robbed thee? In tithes and offerings.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MAL.3.9",
+      "edition_verse_id": "KJV1769:MAL.3.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "Ye ",
+          "kind": "text"
+        },
+        {
+          "text": "are",
+          "kind": "supplied"
+        },
+        {
+          "text": " cursed with a curse: for ye have robbed me, ",
+          "kind": "text"
+        },
+        {
+          "text": "even",
+          "kind": "supplied"
+        },
+        {
+          "text": " this whole nation.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAL.3.10",
+      "edition_verse_id": "KJV1769:MAL.3.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "Bring ye all the tithes into the storehouse, that there may be meat in mine house, and prove me now herewith, saith the LORD of hosts, if I will not open you the windows of heaven, and pour you out a blessing, that ",
+          "kind": "text"
+        },
+        {
+          "text": "there shall",
+          "kind": "supplied"
+        },
+        {
+          "text": " not ",
+          "kind": "text"
+        },
+        {
+          "text": "be room",
+          "kind": "supplied"
+        },
+        {
+          "text": " enough ",
+          "kind": "text"
+        },
+        {
+          "text": "to receive it",
+          "kind": "supplied"
+        },
+        {
+          "text": ".",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAL.3.11",
+      "edition_verse_id": "KJV1769:MAL.3.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "And I will rebuke the devourer for your sakes, and he shall not destroy the fruits of your ground; neither shall your vine cast her fruit before the time in the field, saith the LORD of hosts.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAL.3.12",
+      "edition_verse_id": "KJV1769:MAL.3.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "And all nations shall call you blessed: for ye shall be a delightsome land, saith the LORD of hosts.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAL.3.13",
+      "edition_verse_id": "KJV1769:MAL.3.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "¶ Your words have been stout against me, saith the LORD. Yet ye say, What have we spoken ",
+          "kind": "text"
+        },
+        {
+          "text": "so much",
+          "kind": "supplied"
+        },
+        {
+          "text": " against thee?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MAL.3.14",
+      "edition_verse_id": "KJV1769:MAL.3.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "Ye have said, It ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " vain to serve God: and what profit ",
+          "kind": "text"
+        },
+        {
+          "text": "is it",
+          "kind": "supplied"
+        },
+        {
+          "text": " that we have kept his ordinance, and that we have walked mournfully before the LORD of hosts?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAL.3.15",
+      "edition_verse_id": "KJV1769:MAL.3.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "And now we call the proud happy; yea, they that work wickedness are set up; yea, ",
+          "kind": "text"
+        },
+        {
+          "text": "they that",
+          "kind": "supplied"
+        },
+        {
+          "text": " tempt God are even delivered.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAL.3.16",
+      "edition_verse_id": "KJV1769:MAL.3.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "¶ Then they that feared the LORD spake often one to another: and the LORD hearkened, and heard ",
+          "kind": "text"
+        },
+        {
+          "text": "it",
+          "kind": "supplied"
+        },
+        {
+          "text": ", and a book of remembrance was written before him for them that feared the LORD, and that thought upon his name.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MAL.3.17",
+      "edition_verse_id": "KJV1769:MAL.3.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "And they shall be mine, saith the LORD of hosts, in that day when I make up my jewels; and I will spare them, as a man spareth his own son that serveth him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAL.3.18",
+      "edition_verse_id": "KJV1769:MAL.3.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "Then shall ye return, and discern between the righteous and the wicked, between him that serveth God and him that serveth him not.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

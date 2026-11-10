@@ -1,0 +1,552 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "KJV1769",
+  "book_code": "LEV",
+  "chapter": 6,
+  "verses": [
+    {
+      "id": "LEV.6.1",
+      "edition_verse_id": "KJV1769:LEV.6.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "And the LORD spake unto Moses, saying,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LEV.6.2",
+      "edition_verse_id": "KJV1769:LEV.6.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "If a soul sin, and commit a trespass against the LORD, and lie unto his neighbour in that which was delivered him to keep, or in fellowship, or in a thing taken away by violence, or hath deceived his neighbour;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.6.3",
+      "edition_verse_id": "KJV1769:LEV.6.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "Or have found that which was lost, and lieth concerning it, and sweareth falsely; in any of all these that a man doeth, sinning therein:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.6.4",
+      "edition_verse_id": "KJV1769:LEV.6.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "Then it shall be, because he hath sinned, and is guilty, that he shall restore that which he took violently away, or the thing which he hath deceitfully gotten, or that which was delivered him to keep, or the lost thing which he found,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.6.5",
+      "edition_verse_id": "KJV1769:LEV.6.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "Or all that about which he hath sworn falsely; he shall even restore it in the principal, and shall add the fifth part more thereto, ",
+          "kind": "text"
+        },
+        {
+          "text": "and",
+          "kind": "supplied"
+        },
+        {
+          "text": " give it unto him to whom it appertaineth, in the day of his trespass offering.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.6.6",
+      "edition_verse_id": "KJV1769:LEV.6.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "And he shall bring his trespass offering unto the LORD, a ram without blemish out of the flock, with thy estimation, for a trespass offering, unto the priest:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.6.7",
+      "edition_verse_id": "KJV1769:LEV.6.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "And the priest shall make an atonement for him before the LORD: and it shall be forgiven him for any thing of all that he hath done in trespassing therein.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.6.8",
+      "edition_verse_id": "KJV1769:LEV.6.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "¶ And the LORD spake unto Moses, saying,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LEV.6.9",
+      "edition_verse_id": "KJV1769:LEV.6.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "Command Aaron and his sons, saying, This ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " the law of the burnt offering: It ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " the burnt offering, because of the burning upon the altar all night unto the morning, and the fire of the altar shall be burning in it.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.6.10",
+      "edition_verse_id": "KJV1769:LEV.6.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "And the priest shall put on his linen garment, and his linen breeches shall he put upon his flesh, and take up the ashes which the fire hath consumed with the burnt offering on the altar, and he shall put them beside the altar.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.6.11",
+      "edition_verse_id": "KJV1769:LEV.6.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "And he shall put off his garments, and put on other garments, and carry forth the ashes without the camp unto a clean place.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.6.12",
+      "edition_verse_id": "KJV1769:LEV.6.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "And the fire upon the altar shall be burning in it; it shall not be put out: and the priest shall burn wood on it every morning, and lay the burnt offering in order upon it; and he shall burn thereon the fat of the peace offerings.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.6.13",
+      "edition_verse_id": "KJV1769:LEV.6.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "The fire shall ever be burning upon the altar; it shall never go out.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.6.14",
+      "edition_verse_id": "KJV1769:LEV.6.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "¶ And this ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " the law of the meat offering: the sons of Aaron shall offer it before the LORD, before the altar.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LEV.6.15",
+      "edition_verse_id": "KJV1769:LEV.6.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "And he shall take of it his handful, of the flour of the meat offering, and of the oil thereof, and all the frankincense which ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " upon the meat offering, and shall burn ",
+          "kind": "text"
+        },
+        {
+          "text": "it",
+          "kind": "supplied"
+        },
+        {
+          "text": " upon the altar ",
+          "kind": "text"
+        },
+        {
+          "text": "for",
+          "kind": "supplied"
+        },
+        {
+          "text": " a sweet savour, ",
+          "kind": "text"
+        },
+        {
+          "text": "even",
+          "kind": "supplied"
+        },
+        {
+          "text": " the memorial of it, unto the LORD.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.6.16",
+      "edition_verse_id": "KJV1769:LEV.6.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "And the remainder thereof shall Aaron and his sons eat: with unleavened bread shall it be eaten in the holy place; in the court of the tabernacle of the congregation they shall eat it.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.6.17",
+      "edition_verse_id": "KJV1769:LEV.6.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "It shall not be baken with leaven. I have given it ",
+          "kind": "text"
+        },
+        {
+          "text": "unto them for",
+          "kind": "supplied"
+        },
+        {
+          "text": " their portion of my offerings made by fire; it ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " most holy, as ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " the sin offering, and as the trespass offering.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.6.18",
+      "edition_verse_id": "KJV1769:LEV.6.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "All the males among the children of Aaron shall eat of it. ",
+          "kind": "text"
+        },
+        {
+          "text": "It shall be",
+          "kind": "supplied"
+        },
+        {
+          "text": " a statute for ever in your generations concerning the offerings of the LORD made by fire: every one that toucheth them shall be holy.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.6.19",
+      "edition_verse_id": "KJV1769:LEV.6.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "¶ And the LORD spake unto Moses, saying,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LEV.6.20",
+      "edition_verse_id": "KJV1769:LEV.6.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "This ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " the offering of Aaron and of his sons, which they shall offer unto the LORD in the day when he is anointed; the tenth part of an ephah of fine flour for a meat offering perpetual, half of it in the morning, and half thereof at night.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.6.21",
+      "edition_verse_id": "KJV1769:LEV.6.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "In a pan it shall be made with oil; ",
+          "kind": "text"
+        },
+        {
+          "text": "and when it is",
+          "kind": "supplied"
+        },
+        {
+          "text": " baken, thou shalt bring it in: ",
+          "kind": "text"
+        },
+        {
+          "text": "and",
+          "kind": "supplied"
+        },
+        {
+          "text": " the baken pieces of the meat offering shalt thou offer ",
+          "kind": "text"
+        },
+        {
+          "text": "for",
+          "kind": "supplied"
+        },
+        {
+          "text": " a sweet savour unto the LORD.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.6.22",
+      "edition_verse_id": "KJV1769:LEV.6.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "And the priest of his sons that is anointed in his stead shall offer it: ",
+          "kind": "text"
+        },
+        {
+          "text": "it is",
+          "kind": "supplied"
+        },
+        {
+          "text": " a statute for ever unto the LORD; it shall be wholly burnt.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.6.23",
+      "edition_verse_id": "KJV1769:LEV.6.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "For every meat offering for the priest shall be wholly burnt: it shall not be eaten.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.6.24",
+      "edition_verse_id": "KJV1769:LEV.6.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "¶ And the LORD spake unto Moses, saying,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LEV.6.25",
+      "edition_verse_id": "KJV1769:LEV.6.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "Speak unto Aaron and to his sons, saying, This ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " the law of the sin offering: In the place where the burnt offering is killed shall the sin offering be killed before the LORD: it ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " most holy.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.6.26",
+      "edition_verse_id": "KJV1769:LEV.6.26",
+      "verse": 26,
+      "spans": [
+        {
+          "text": "The priest that offereth it for sin shall eat it: in the holy place shall it be eaten, in the court of the tabernacle of the congregation.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.6.27",
+      "edition_verse_id": "KJV1769:LEV.6.27",
+      "verse": 27,
+      "spans": [
+        {
+          "text": "Whatsoever shall touch the flesh thereof shall be holy: and when there is sprinkled of the blood thereof upon any garment, thou shalt wash that whereon it was sprinkled in the holy place.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.6.28",
+      "edition_verse_id": "KJV1769:LEV.6.28",
+      "verse": 28,
+      "spans": [
+        {
+          "text": "But the earthen vessel wherein it is sodden shall be broken: and if it be sodden in a brasen pot, it shall be both scoured, and rinsed in water.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.6.29",
+      "edition_verse_id": "KJV1769:LEV.6.29",
+      "verse": 29,
+      "spans": [
+        {
+          "text": "All the males among the priests shall eat thereof: it ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " most holy.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.6.30",
+      "edition_verse_id": "KJV1769:LEV.6.30",
+      "verse": 30,
+      "spans": [
+        {
+          "text": "And no sin offering, whereof ",
+          "kind": "text"
+        },
+        {
+          "text": "any",
+          "kind": "supplied"
+        },
+        {
+          "text": " of the blood is brought into the tabernacle of the congregation to reconcile ",
+          "kind": "text"
+        },
+        {
+          "text": "withal",
+          "kind": "supplied"
+        },
+        {
+          "text": " in the holy ",
+          "kind": "text"
+        },
+        {
+          "text": "place",
+          "kind": "supplied"
+        },
+        {
+          "text": ", shall be eaten: it shall be burnt in the fire.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

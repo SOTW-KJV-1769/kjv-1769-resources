@@ -1,0 +1,692 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "KJV1769",
+  "book_code": "LEV",
+  "chapter": 26,
+  "verses": [
+    {
+      "id": "LEV.26.1",
+      "edition_verse_id": "KJV1769:LEV.26.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "Ye shall make you no idols nor graven image, neither rear you up a standing image, neither shall ye set up ",
+          "kind": "text"
+        },
+        {
+          "text": "any",
+          "kind": "supplied"
+        },
+        {
+          "text": " image of stone in your land, to bow down unto it: for I ",
+          "kind": "text"
+        },
+        {
+          "text": "am",
+          "kind": "supplied"
+        },
+        {
+          "text": " the LORD your God.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LEV.26.2",
+      "edition_verse_id": "KJV1769:LEV.26.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "¶ Ye shall keep my sabbaths, and reverence my sanctuary: I ",
+          "kind": "text"
+        },
+        {
+          "text": "am",
+          "kind": "supplied"
+        },
+        {
+          "text": " the LORD.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LEV.26.3",
+      "edition_verse_id": "KJV1769:LEV.26.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "¶ If ye walk in my statutes, and keep my commandments, and do them;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LEV.26.4",
+      "edition_verse_id": "KJV1769:LEV.26.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "Then I will give you rain in due season, and the land shall yield her increase, and the trees of the field shall yield their fruit.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.26.5",
+      "edition_verse_id": "KJV1769:LEV.26.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "And your threshing shall reach unto the vintage, and the vintage shall reach unto the sowing time: and ye shall eat your bread to the full, and dwell in your land safely.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.26.6",
+      "edition_verse_id": "KJV1769:LEV.26.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "And I will give peace in the land, and ye shall lie down, and none shall make ",
+          "kind": "text"
+        },
+        {
+          "text": "you",
+          "kind": "supplied"
+        },
+        {
+          "text": " afraid: and I will rid evil beasts out of the land, neither shall the sword go through your land.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.26.7",
+      "edition_verse_id": "KJV1769:LEV.26.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "And ye shall chase your enemies, and they shall fall before you by the sword.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.26.8",
+      "edition_verse_id": "KJV1769:LEV.26.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "And five of you shall chase an hundred, and an hundred of you shall put ten thousand to flight: and your enemies shall fall before you by the sword.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.26.9",
+      "edition_verse_id": "KJV1769:LEV.26.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "For I will have respect unto you, and make you fruitful, and multiply you, and establish my covenant with you.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.26.10",
+      "edition_verse_id": "KJV1769:LEV.26.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "And ye shall eat old store, and bring forth the old because of the new.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.26.11",
+      "edition_verse_id": "KJV1769:LEV.26.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "And I will set my tabernacle among you: and my soul shall not abhor you.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.26.12",
+      "edition_verse_id": "KJV1769:LEV.26.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "And I will walk among you, and will be your God, and ye shall be my people.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.26.13",
+      "edition_verse_id": "KJV1769:LEV.26.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "I ",
+          "kind": "text"
+        },
+        {
+          "text": "am",
+          "kind": "supplied"
+        },
+        {
+          "text": " the LORD your God, which brought you forth out of the land of Egypt, that ye should not be their bondmen; and I have broken the bands of your yoke, and made you go upright.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.26.14",
+      "edition_verse_id": "KJV1769:LEV.26.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "¶ But if ye will not hearken unto me, and will not do all these commandments;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LEV.26.15",
+      "edition_verse_id": "KJV1769:LEV.26.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "And if ye shall despise my statutes, or if your soul abhor my judgments, so that ye will not do all my commandments, ",
+          "kind": "text"
+        },
+        {
+          "text": "but",
+          "kind": "supplied"
+        },
+        {
+          "text": " that ye break my covenant:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.26.16",
+      "edition_verse_id": "KJV1769:LEV.26.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "I also will do this unto you; I will even appoint over you terror, consumption, and the burning ague, that shall consume the eyes, and cause sorrow of heart: and ye shall sow your seed in vain, for your enemies shall eat it.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.26.17",
+      "edition_verse_id": "KJV1769:LEV.26.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "And I will set my face against you, and ye shall be slain before your enemies: they that hate you shall reign over you; and ye shall flee when none pursueth you.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.26.18",
+      "edition_verse_id": "KJV1769:LEV.26.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "And if ye will not yet for all this hearken unto me, then I will punish you seven times more for your sins.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.26.19",
+      "edition_verse_id": "KJV1769:LEV.26.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "And I will break the pride of your power; and I will make your heaven as iron, and your earth as brass:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.26.20",
+      "edition_verse_id": "KJV1769:LEV.26.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "And your strength shall be spent in vain: for your land shall not yield her increase, neither shall the trees of the land yield their fruits.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.26.21",
+      "edition_verse_id": "KJV1769:LEV.26.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "¶ And if ye walk contrary unto me, and will not hearken unto me; I will bring seven times more plagues upon you according to your sins.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LEV.26.22",
+      "edition_verse_id": "KJV1769:LEV.26.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "I will also send wild beasts among you, which shall rob you of your children, and destroy your cattle, and make you few in number; and your ",
+          "kind": "text"
+        },
+        {
+          "text": "high",
+          "kind": "supplied"
+        },
+        {
+          "text": " ways shall be desolate.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.26.23",
+      "edition_verse_id": "KJV1769:LEV.26.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "And if ye will not be reformed by me by these things, but will walk contrary unto me;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.26.24",
+      "edition_verse_id": "KJV1769:LEV.26.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "Then will I also walk contrary unto you, and will punish you yet seven times for your sins.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.26.25",
+      "edition_verse_id": "KJV1769:LEV.26.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "And I will bring a sword upon you, that shall avenge the quarrel of ",
+          "kind": "text"
+        },
+        {
+          "text": "my",
+          "kind": "supplied"
+        },
+        {
+          "text": " covenant: and when ye are gathered together within your cities, I will send the pestilence among you; and ye shall be delivered into the hand of the enemy.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.26.26",
+      "edition_verse_id": "KJV1769:LEV.26.26",
+      "verse": 26,
+      "spans": [
+        {
+          "text": "And",
+          "kind": "supplied"
+        },
+        {
+          "text": " when I have broken the staff of your bread, ten women shall bake your bread in one oven, and they shall deliver ",
+          "kind": "text"
+        },
+        {
+          "text": "you",
+          "kind": "supplied"
+        },
+        {
+          "text": " your bread again by weight: and ye shall eat, and not be satisfied.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.26.27",
+      "edition_verse_id": "KJV1769:LEV.26.27",
+      "verse": 27,
+      "spans": [
+        {
+          "text": "And if ye will not for all this hearken unto me, but walk contrary unto me;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.26.28",
+      "edition_verse_id": "KJV1769:LEV.26.28",
+      "verse": 28,
+      "spans": [
+        {
+          "text": "Then I will walk contrary unto you also in fury; and I, even I, will chastise you seven times for your sins.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.26.29",
+      "edition_verse_id": "KJV1769:LEV.26.29",
+      "verse": 29,
+      "spans": [
+        {
+          "text": "And ye shall eat the flesh of your sons, and the flesh of your daughters shall ye eat.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.26.30",
+      "edition_verse_id": "KJV1769:LEV.26.30",
+      "verse": 30,
+      "spans": [
+        {
+          "text": "And I will destroy your high places, and cut down your images, and cast your carcases upon the carcases of your idols, and my soul shall abhor you.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.26.31",
+      "edition_verse_id": "KJV1769:LEV.26.31",
+      "verse": 31,
+      "spans": [
+        {
+          "text": "And I will make your cities waste, and bring your sanctuaries unto desolation, and I will not smell the savour of your sweet odours.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.26.32",
+      "edition_verse_id": "KJV1769:LEV.26.32",
+      "verse": 32,
+      "spans": [
+        {
+          "text": "And I will bring the land into desolation: and your enemies which dwell therein shall be astonished at it.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.26.33",
+      "edition_verse_id": "KJV1769:LEV.26.33",
+      "verse": 33,
+      "spans": [
+        {
+          "text": "And I will scatter you among the heathen, and will draw out a sword after you: and your land shall be desolate, and your cities waste.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.26.34",
+      "edition_verse_id": "KJV1769:LEV.26.34",
+      "verse": 34,
+      "spans": [
+        {
+          "text": "Then shall the land enjoy her sabbaths, as long as it lieth desolate, and ye ",
+          "kind": "text"
+        },
+        {
+          "text": "be",
+          "kind": "supplied"
+        },
+        {
+          "text": " in your enemies’ land; ",
+          "kind": "text"
+        },
+        {
+          "text": "even",
+          "kind": "supplied"
+        },
+        {
+          "text": " then shall the land rest, and enjoy her sabbaths.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.26.35",
+      "edition_verse_id": "KJV1769:LEV.26.35",
+      "verse": 35,
+      "spans": [
+        {
+          "text": "As long as it lieth desolate it shall rest; because it did not rest in your sabbaths, when ye dwelt upon it.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.26.36",
+      "edition_verse_id": "KJV1769:LEV.26.36",
+      "verse": 36,
+      "spans": [
+        {
+          "text": "And upon them that are left ",
+          "kind": "text"
+        },
+        {
+          "text": "alive",
+          "kind": "supplied"
+        },
+        {
+          "text": " of you I will send a faintness into their hearts in the lands of their enemies; and the sound of a shaken leaf shall chase them; and they shall flee, as fleeing from a sword; and they shall fall when none pursueth.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.26.37",
+      "edition_verse_id": "KJV1769:LEV.26.37",
+      "verse": 37,
+      "spans": [
+        {
+          "text": "And they shall fall one upon another, as it were before a sword, when none pursueth: and ye shall have no power to stand before your enemies.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.26.38",
+      "edition_verse_id": "KJV1769:LEV.26.38",
+      "verse": 38,
+      "spans": [
+        {
+          "text": "And ye shall perish among the heathen, and the land of your enemies shall eat you up.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.26.39",
+      "edition_verse_id": "KJV1769:LEV.26.39",
+      "verse": 39,
+      "spans": [
+        {
+          "text": "And they that are left of you shall pine away in their iniquity in your enemies’ lands; and also in the iniquities of their fathers shall they pine away with them.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.26.40",
+      "edition_verse_id": "KJV1769:LEV.26.40",
+      "verse": 40,
+      "spans": [
+        {
+          "text": "If they shall confess their iniquity, and the iniquity of their fathers, with their trespass which they trespassed against me, and that also they have walked contrary unto me;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LEV.26.41",
+      "edition_verse_id": "KJV1769:LEV.26.41",
+      "verse": 41,
+      "spans": [
+        {
+          "text": "And ",
+          "kind": "text"
+        },
+        {
+          "text": "that",
+          "kind": "supplied"
+        },
+        {
+          "text": " I also have walked contrary unto them, and have brought them into the land of their enemies; if then their uncircumcised hearts be humbled, and they then accept of the punishment of their iniquity:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.26.42",
+      "edition_verse_id": "KJV1769:LEV.26.42",
+      "verse": 42,
+      "spans": [
+        {
+          "text": "Then will I remember my covenant with Jacob, and also my covenant with Isaac, and also my covenant with Abraham will I remember; and I will remember the land.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.26.43",
+      "edition_verse_id": "KJV1769:LEV.26.43",
+      "verse": 43,
+      "spans": [
+        {
+          "text": "The land also shall be left of them, and shall enjoy her sabbaths, while she lieth desolate without them: and they shall accept of the punishment of their iniquity: because, even because they despised my judgments, and because their soul abhorred my statutes.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.26.44",
+      "edition_verse_id": "KJV1769:LEV.26.44",
+      "verse": 44,
+      "spans": [
+        {
+          "text": "And yet for all that, when they be in the land of their enemies, I will not cast them away, neither will I abhor them, to destroy them utterly, and to break my covenant with them: for I ",
+          "kind": "text"
+        },
+        {
+          "text": "am",
+          "kind": "supplied"
+        },
+        {
+          "text": " the LORD their God.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.26.45",
+      "edition_verse_id": "KJV1769:LEV.26.45",
+      "verse": 45,
+      "spans": [
+        {
+          "text": "But I will for their sakes remember the covenant of their ancestors, whom I brought forth out of the land of Egypt in the sight of the heathen, that I might be their God: I ",
+          "kind": "text"
+        },
+        {
+          "text": "am",
+          "kind": "supplied"
+        },
+        {
+          "text": " the LORD.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.26.46",
+      "edition_verse_id": "KJV1769:LEV.26.46",
+      "verse": 46,
+      "spans": [
+        {
+          "text": "These ",
+          "kind": "text"
+        },
+        {
+          "text": "are",
+          "kind": "supplied"
+        },
+        {
+          "text": " the statutes and judgments and laws, which the LORD made between him and the children of Israel in mount Sinai by the hand of Moses.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

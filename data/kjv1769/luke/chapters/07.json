@@ -1,0 +1,752 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "KJV1769",
+  "book_code": "LUK",
+  "chapter": 7,
+  "verses": [
+    {
+      "id": "LUK.7.1",
+      "edition_verse_id": "KJV1769:LUK.7.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "Now when he had ended all his sayings in the audience of the people, he entered into Capernaum.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LUK.7.2",
+      "edition_verse_id": "KJV1769:LUK.7.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "And a certain centurion’s servant, who was dear unto him, was sick, and ready to die.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.7.3",
+      "edition_verse_id": "KJV1769:LUK.7.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "And when he heard of Jesus, he sent unto him the elders of the Jews, beseeching him that he would come and heal his servant.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.7.4",
+      "edition_verse_id": "KJV1769:LUK.7.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "And when they came to Jesus, they besought him instantly, saying, That he was worthy for whom he should do this:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.7.5",
+      "edition_verse_id": "KJV1769:LUK.7.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "For he loveth our nation, and he hath built us a synagogue.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.7.6",
+      "edition_verse_id": "KJV1769:LUK.7.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "Then Jesus went with them. And when he was now not far from the house, the centurion sent friends to him, saying unto him, Lord, trouble not thyself: for I am not worthy that thou shouldest enter under my roof:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.7.7",
+      "edition_verse_id": "KJV1769:LUK.7.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "Wherefore neither thought I myself worthy to come unto thee: but say in a word, and my servant shall be healed.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.7.8",
+      "edition_verse_id": "KJV1769:LUK.7.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "For I also am a man set under authority, having under me soldiers, and I say unto one, Go, and he goeth; and to another, Come, and he cometh; and to my servant, Do this, and he doeth ",
+          "kind": "text"
+        },
+        {
+          "text": "it",
+          "kind": "supplied"
+        },
+        {
+          "text": ".",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.7.9",
+      "edition_verse_id": "KJV1769:LUK.7.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "When Jesus heard these things, he marvelled at him, and turned him about, and said unto the people that followed him, I say unto you, I have not found so great faith, no, not in Israel.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.7.10",
+      "edition_verse_id": "KJV1769:LUK.7.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "And they that were sent, returning to the house, found the servant whole that had been sick.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.7.11",
+      "edition_verse_id": "KJV1769:LUK.7.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "¶ And it came to pass the day after, that he went into a city called Nain; and many of his disciples went with him, and much people.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LUK.7.12",
+      "edition_verse_id": "KJV1769:LUK.7.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "Now when he came nigh to the gate of the city, behold, there was a dead man carried out, the only son of his mother, and she was a widow: and much people of the city was with her.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.7.13",
+      "edition_verse_id": "KJV1769:LUK.7.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "And when the Lord saw her, he had compassion on her, and said unto her, Weep not.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.7.14",
+      "edition_verse_id": "KJV1769:LUK.7.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "And he came and touched the bier: and they that bare ",
+          "kind": "text"
+        },
+        {
+          "text": "him",
+          "kind": "supplied"
+        },
+        {
+          "text": " stood still. And he said, Young man, I say unto thee, Arise.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.7.15",
+      "edition_verse_id": "KJV1769:LUK.7.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "And he that was dead sat up, and began to speak. And he delivered him to his mother.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.7.16",
+      "edition_verse_id": "KJV1769:LUK.7.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "And there came a fear on all: and they glorified God, saying, That a great prophet is risen up among us; and, That God hath visited his people.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.7.17",
+      "edition_verse_id": "KJV1769:LUK.7.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "And this rumour of him went forth throughout all Judæa, and throughout all the region round about.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.7.18",
+      "edition_verse_id": "KJV1769:LUK.7.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "And the disciples of John shewed him of all these things.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.7.19",
+      "edition_verse_id": "KJV1769:LUK.7.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "¶ And John calling ",
+          "kind": "text"
+        },
+        {
+          "text": "unto him",
+          "kind": "supplied"
+        },
+        {
+          "text": " two of his disciples sent ",
+          "kind": "text"
+        },
+        {
+          "text": "them",
+          "kind": "supplied"
+        },
+        {
+          "text": " to Jesus, saying, Art thou he that should come? or look we for another?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LUK.7.20",
+      "edition_verse_id": "KJV1769:LUK.7.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "When the men were come unto him, they said, John Baptist hath sent us unto thee, saying, Art thou he that should come? or look we for another?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.7.21",
+      "edition_verse_id": "KJV1769:LUK.7.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "And in that same hour he cured many of ",
+          "kind": "text"
+        },
+        {
+          "text": "their",
+          "kind": "supplied"
+        },
+        {
+          "text": " infirmities and plagues, and of evil spirits; and unto many ",
+          "kind": "text"
+        },
+        {
+          "text": "that were",
+          "kind": "supplied"
+        },
+        {
+          "text": " blind he gave sight.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.7.22",
+      "edition_verse_id": "KJV1769:LUK.7.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "Then Jesus answering said unto them, Go your way, and tell John what things ye have seen and heard; how that the blind see, the lame walk, the lepers are cleansed, the deaf hear, the dead are raised, to the poor the gospel is preached.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.7.23",
+      "edition_verse_id": "KJV1769:LUK.7.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "And blessed is ",
+          "kind": "text"
+        },
+        {
+          "text": "he",
+          "kind": "supplied"
+        },
+        {
+          "text": ", whosoever shall not be offended in me.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.7.24",
+      "edition_verse_id": "KJV1769:LUK.7.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "¶ And when the messengers of John were departed, he began to speak unto the people concerning John, What went ye out into the wilderness for to see? A reed shaken with the wind?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LUK.7.25",
+      "edition_verse_id": "KJV1769:LUK.7.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "But what went ye out for to see? A man clothed in soft raiment? Behold, they which are gorgeously apparelled, and live delicately, are in kings’ courts.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.7.26",
+      "edition_verse_id": "KJV1769:LUK.7.26",
+      "verse": 26,
+      "spans": [
+        {
+          "text": "But what went ye out for to see? A prophet? Yea, I say unto you, and much more than a prophet.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.7.27",
+      "edition_verse_id": "KJV1769:LUK.7.27",
+      "verse": 27,
+      "spans": [
+        {
+          "text": "This is ",
+          "kind": "text"
+        },
+        {
+          "text": "he",
+          "kind": "supplied"
+        },
+        {
+          "text": ", of whom it is written, Behold, I send my messenger before thy face, which shall prepare thy way before thee.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.7.28",
+      "edition_verse_id": "KJV1769:LUK.7.28",
+      "verse": 28,
+      "spans": [
+        {
+          "text": "For I say unto you, Among those that are born of women there is not a greater prophet than John the Baptist: but he that is least in the kingdom of God is greater than he.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.7.29",
+      "edition_verse_id": "KJV1769:LUK.7.29",
+      "verse": 29,
+      "spans": [
+        {
+          "text": "And all the people that heard ",
+          "kind": "text"
+        },
+        {
+          "text": "him",
+          "kind": "supplied"
+        },
+        {
+          "text": ", and the publicans, justified God, being baptized with the baptism of John.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.7.30",
+      "edition_verse_id": "KJV1769:LUK.7.30",
+      "verse": 30,
+      "spans": [
+        {
+          "text": "But the Pharisees and lawyers rejected the counsel of God against themselves, being not baptized of him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.7.31",
+      "edition_verse_id": "KJV1769:LUK.7.31",
+      "verse": 31,
+      "spans": [
+        {
+          "text": "¶ And the Lord said, Whereunto then shall I liken the men of this generation? and to what are they like?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LUK.7.32",
+      "edition_verse_id": "KJV1769:LUK.7.32",
+      "verse": 32,
+      "spans": [
+        {
+          "text": "They are like unto children sitting in the marketplace, and calling one to another, and saying, We have piped unto you, and ye have not danced; we have mourned to you, and ye have not wept.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.7.33",
+      "edition_verse_id": "KJV1769:LUK.7.33",
+      "verse": 33,
+      "spans": [
+        {
+          "text": "For John the Baptist came neither eating bread nor drinking wine; and ye say, He hath a devil.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.7.34",
+      "edition_verse_id": "KJV1769:LUK.7.34",
+      "verse": 34,
+      "spans": [
+        {
+          "text": "The Son of man is come eating and drinking; and ye say, Behold a gluttonous man, and a winebibber, a friend of publicans and sinners!",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.7.35",
+      "edition_verse_id": "KJV1769:LUK.7.35",
+      "verse": 35,
+      "spans": [
+        {
+          "text": "But wisdom is justified of all her children.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.7.36",
+      "edition_verse_id": "KJV1769:LUK.7.36",
+      "verse": 36,
+      "spans": [
+        {
+          "text": "¶ And one of the Pharisees desired him that he would eat with him. And he went into the Pharisee’s house, and sat down to meat.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LUK.7.37",
+      "edition_verse_id": "KJV1769:LUK.7.37",
+      "verse": 37,
+      "spans": [
+        {
+          "text": "And, behold, a woman in the city, which was a sinner, when she knew that ",
+          "kind": "text"
+        },
+        {
+          "text": "Jesus",
+          "kind": "supplied"
+        },
+        {
+          "text": " sat at meat in the Pharisee’s house, brought an alabaster box of ointment,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.7.38",
+      "edition_verse_id": "KJV1769:LUK.7.38",
+      "verse": 38,
+      "spans": [
+        {
+          "text": "And stood at his feet behind ",
+          "kind": "text"
+        },
+        {
+          "text": "him",
+          "kind": "supplied"
+        },
+        {
+          "text": " weeping, and began to wash his feet with tears, and did wipe ",
+          "kind": "text"
+        },
+        {
+          "text": "them",
+          "kind": "supplied"
+        },
+        {
+          "text": " with the hairs of her head, and kissed his feet, and anointed ",
+          "kind": "text"
+        },
+        {
+          "text": "them",
+          "kind": "supplied"
+        },
+        {
+          "text": " with the ointment.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.7.39",
+      "edition_verse_id": "KJV1769:LUK.7.39",
+      "verse": 39,
+      "spans": [
+        {
+          "text": "Now when the Pharisee which had bidden him saw ",
+          "kind": "text"
+        },
+        {
+          "text": "it",
+          "kind": "supplied"
+        },
+        {
+          "text": ", he spake within himself, saying, This man, if he were a prophet, would have known who and what manner of woman ",
+          "kind": "text"
+        },
+        {
+          "text": "this is",
+          "kind": "supplied"
+        },
+        {
+          "text": " that toucheth him: for she is a sinner.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.7.40",
+      "edition_verse_id": "KJV1769:LUK.7.40",
+      "verse": 40,
+      "spans": [
+        {
+          "text": "And Jesus answering said unto him, Simon, I have somewhat to say unto thee. And he saith, Master, say on.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.7.41",
+      "edition_verse_id": "KJV1769:LUK.7.41",
+      "verse": 41,
+      "spans": [
+        {
+          "text": "There was a certain creditor which had two debtors: the one owed five hundred pence, and the other fifty.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.7.42",
+      "edition_verse_id": "KJV1769:LUK.7.42",
+      "verse": 42,
+      "spans": [
+        {
+          "text": "And when they had nothing to pay, he frankly forgave them both. Tell me therefore, which of them will love him most?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.7.43",
+      "edition_verse_id": "KJV1769:LUK.7.43",
+      "verse": 43,
+      "spans": [
+        {
+          "text": "Simon answered and said, I suppose that ",
+          "kind": "text"
+        },
+        {
+          "text": "he",
+          "kind": "supplied"
+        },
+        {
+          "text": ", to whom he forgave most. And he said unto him, Thou hast rightly judged.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.7.44",
+      "edition_verse_id": "KJV1769:LUK.7.44",
+      "verse": 44,
+      "spans": [
+        {
+          "text": "And he turned to the woman, and said unto Simon, Seest thou this woman? I entered into thine house, thou gavest me no water for my feet: but she hath washed my feet with tears, and wiped ",
+          "kind": "text"
+        },
+        {
+          "text": "them",
+          "kind": "supplied"
+        },
+        {
+          "text": " with the hairs of her head.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.7.45",
+      "edition_verse_id": "KJV1769:LUK.7.45",
+      "verse": 45,
+      "spans": [
+        {
+          "text": "Thou gavest me no kiss: but this woman since the time I came in hath not ceased to kiss my feet.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.7.46",
+      "edition_verse_id": "KJV1769:LUK.7.46",
+      "verse": 46,
+      "spans": [
+        {
+          "text": "My head with oil thou didst not anoint: but this woman hath anointed my feet with ointment.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.7.47",
+      "edition_verse_id": "KJV1769:LUK.7.47",
+      "verse": 47,
+      "spans": [
+        {
+          "text": "Wherefore I say unto thee, Her sins, which are many, are forgiven; for she loved much: but to whom little is forgiven, ",
+          "kind": "text"
+        },
+        {
+          "text": "the same",
+          "kind": "supplied"
+        },
+        {
+          "text": " loveth little.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.7.48",
+      "edition_verse_id": "KJV1769:LUK.7.48",
+      "verse": 48,
+      "spans": [
+        {
+          "text": "And he said unto her, Thy sins are forgiven.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.7.49",
+      "edition_verse_id": "KJV1769:LUK.7.49",
+      "verse": 49,
+      "spans": [
+        {
+          "text": "And they that sat at meat with him began to say within themselves, Who is this that forgiveth sins also?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.7.50",
+      "edition_verse_id": "KJV1769:LUK.7.50",
+      "verse": 50,
+      "spans": [
+        {
+          "text": "And he said to the woman, Thy faith hath saved thee; go in peace.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

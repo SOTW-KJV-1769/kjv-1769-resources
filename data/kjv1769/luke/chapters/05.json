@@ -1,0 +1,588 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "KJV1769",
+  "book_code": "LUK",
+  "chapter": 5,
+  "verses": [
+    {
+      "id": "LUK.5.1",
+      "edition_verse_id": "KJV1769:LUK.5.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "And it came to pass, that, as the people pressed upon him to hear the word of God, he stood by the lake of Gennesaret,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LUK.5.2",
+      "edition_verse_id": "KJV1769:LUK.5.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "And saw two ships standing by the lake: but the fishermen were gone out of them, and were washing ",
+          "kind": "text"
+        },
+        {
+          "text": "their",
+          "kind": "supplied"
+        },
+        {
+          "text": " nets.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.5.3",
+      "edition_verse_id": "KJV1769:LUK.5.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "And he entered into one of the ships, which was Simon’s, and prayed him that he would thrust out a little from the land. And he sat down, and taught the people out of the ship.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.5.4",
+      "edition_verse_id": "KJV1769:LUK.5.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "Now when he had left speaking, he said unto Simon, Launch out into the deep, and let down your nets for a draught.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.5.5",
+      "edition_verse_id": "KJV1769:LUK.5.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "And Simon answering said unto him, Master, we have toiled all the night, and have taken nothing: nevertheless at thy word I will let down the net.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.5.6",
+      "edition_verse_id": "KJV1769:LUK.5.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "And when they had this done, they inclosed a great multitude of fishes: and their net brake.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.5.7",
+      "edition_verse_id": "KJV1769:LUK.5.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "And they beckoned unto ",
+          "kind": "text"
+        },
+        {
+          "text": "their",
+          "kind": "supplied"
+        },
+        {
+          "text": " partners, which were in the other ship, that they should come and help them. And they came, and filled both the ships, so that they began to sink.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.5.8",
+      "edition_verse_id": "KJV1769:LUK.5.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "When Simon Peter saw ",
+          "kind": "text"
+        },
+        {
+          "text": "it",
+          "kind": "supplied"
+        },
+        {
+          "text": ", he fell down at Jesus’ knees, saying, Depart from me; for I am a sinful man, O Lord.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.5.9",
+      "edition_verse_id": "KJV1769:LUK.5.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "For he was astonished, and all that were with him, at the draught of the fishes which they had taken:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.5.10",
+      "edition_verse_id": "KJV1769:LUK.5.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "And so ",
+          "kind": "text"
+        },
+        {
+          "text": "was",
+          "kind": "supplied"
+        },
+        {
+          "text": " also James, and John, the sons of Zebedee, which were partners with Simon. And Jesus said unto Simon, Fear not; from henceforth thou shalt catch men.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.5.11",
+      "edition_verse_id": "KJV1769:LUK.5.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "And when they had brought their ships to land, they forsook all, and followed him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.5.12",
+      "edition_verse_id": "KJV1769:LUK.5.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "¶ And it came to pass, when he was in a certain city, behold a man full of leprosy: who seeing Jesus fell on ",
+          "kind": "text"
+        },
+        {
+          "text": "his",
+          "kind": "supplied"
+        },
+        {
+          "text": " face, and besought him, saying, Lord, if thou wilt, thou canst make me clean.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LUK.5.13",
+      "edition_verse_id": "KJV1769:LUK.5.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "And he put forth ",
+          "kind": "text"
+        },
+        {
+          "text": "his",
+          "kind": "supplied"
+        },
+        {
+          "text": " hand, and touched him, saying, I will: be thou clean. And immediately the leprosy departed from him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.5.14",
+      "edition_verse_id": "KJV1769:LUK.5.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "And he charged him to tell no man: but go, and shew thyself to the priest, and offer for thy cleansing, according as Moses commanded, for a testimony unto them.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.5.15",
+      "edition_verse_id": "KJV1769:LUK.5.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "But so much the more went there a fame abroad of him: and great multitudes came together to hear, and to be healed by him of their infirmities.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.5.16",
+      "edition_verse_id": "KJV1769:LUK.5.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "¶ And he withdrew himself into the wilderness, and prayed.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LUK.5.17",
+      "edition_verse_id": "KJV1769:LUK.5.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "And it came to pass on a certain day, as he was teaching, that there were Pharisees and doctors of the law sitting by, which were come out of every town of Galilee, and Judæa, and Jerusalem: and the power of the Lord was ",
+          "kind": "text"
+        },
+        {
+          "text": "present",
+          "kind": "supplied"
+        },
+        {
+          "text": " to heal them.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.5.18",
+      "edition_verse_id": "KJV1769:LUK.5.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "¶ And, behold, men brought in a bed a man which was taken with a palsy: and they sought ",
+          "kind": "text"
+        },
+        {
+          "text": "means",
+          "kind": "supplied"
+        },
+        {
+          "text": " to bring him in, and to lay ",
+          "kind": "text"
+        },
+        {
+          "text": "him",
+          "kind": "supplied"
+        },
+        {
+          "text": " before him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LUK.5.19",
+      "edition_verse_id": "KJV1769:LUK.5.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "And when they could not find by what ",
+          "kind": "text"
+        },
+        {
+          "text": "way",
+          "kind": "supplied"
+        },
+        {
+          "text": " they might bring him in because of the multitude, they went upon the housetop, and let him down through the tiling with ",
+          "kind": "text"
+        },
+        {
+          "text": "his",
+          "kind": "supplied"
+        },
+        {
+          "text": " couch into the midst before Jesus.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.5.20",
+      "edition_verse_id": "KJV1769:LUK.5.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "And when he saw their faith, he said unto him, Man, thy sins are forgiven thee.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.5.21",
+      "edition_verse_id": "KJV1769:LUK.5.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "And the scribes and the Pharisees began to reason, saying, Who is this which speaketh blasphemies? Who can forgive sins, but God alone?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.5.22",
+      "edition_verse_id": "KJV1769:LUK.5.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "But when Jesus perceived their thoughts, he answering said unto them, What reason ye in your hearts?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.5.23",
+      "edition_verse_id": "KJV1769:LUK.5.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "Whether is easier, to say, Thy sins be forgiven thee; or to say, Rise up and walk?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.5.24",
+      "edition_verse_id": "KJV1769:LUK.5.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "But that ye may know that the Son of man hath power upon earth to forgive sins, (he said unto the sick of the palsy,) I say unto thee, Arise, and take up thy couch, and go into thine house.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.5.25",
+      "edition_verse_id": "KJV1769:LUK.5.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "And immediately he rose up before them, and took up that whereon he lay, and departed to his own house, glorifying God.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.5.26",
+      "edition_verse_id": "KJV1769:LUK.5.26",
+      "verse": 26,
+      "spans": [
+        {
+          "text": "And they were all amazed, and they glorified God, and were filled with fear, saying, We have seen strange things to day.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.5.27",
+      "edition_verse_id": "KJV1769:LUK.5.27",
+      "verse": 27,
+      "spans": [
+        {
+          "text": "¶ And after these things he went forth, and saw a publican, named Levi, sitting at the receipt of custom: and he said unto him, Follow me.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LUK.5.28",
+      "edition_verse_id": "KJV1769:LUK.5.28",
+      "verse": 28,
+      "spans": [
+        {
+          "text": "And he left all, rose up, and followed him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.5.29",
+      "edition_verse_id": "KJV1769:LUK.5.29",
+      "verse": 29,
+      "spans": [
+        {
+          "text": "And Levi made him a great feast in his own house: and there was a great company of publicans and of others that sat down with them.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.5.30",
+      "edition_verse_id": "KJV1769:LUK.5.30",
+      "verse": 30,
+      "spans": [
+        {
+          "text": "But their scribes and Pharisees murmured against his disciples, saying, Why do ye eat and drink with publicans and sinners?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.5.31",
+      "edition_verse_id": "KJV1769:LUK.5.31",
+      "verse": 31,
+      "spans": [
+        {
+          "text": "And Jesus answering said unto them, They that are whole need not a physician; but they that are sick.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.5.32",
+      "edition_verse_id": "KJV1769:LUK.5.32",
+      "verse": 32,
+      "spans": [
+        {
+          "text": "I came not to call the righteous, but sinners to repentance.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.5.33",
+      "edition_verse_id": "KJV1769:LUK.5.33",
+      "verse": 33,
+      "spans": [
+        {
+          "text": "¶ And they said unto him, Why do the disciples of John fast often, and make prayers, and likewise ",
+          "kind": "text"
+        },
+        {
+          "text": "the disciples",
+          "kind": "supplied"
+        },
+        {
+          "text": " of the Pharisees; but thine eat and drink?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LUK.5.34",
+      "edition_verse_id": "KJV1769:LUK.5.34",
+      "verse": 34,
+      "spans": [
+        {
+          "text": "And he said unto them, Can ye make the children of the bridechamber fast, while the bridegroom is with them?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.5.35",
+      "edition_verse_id": "KJV1769:LUK.5.35",
+      "verse": 35,
+      "spans": [
+        {
+          "text": "But the days will come, when the bridegroom shall be taken away from them, and then shall they fast in those days.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.5.36",
+      "edition_verse_id": "KJV1769:LUK.5.36",
+      "verse": 36,
+      "spans": [
+        {
+          "text": "¶ And he spake also a parable unto them; No man putteth a piece of a new garment upon an old; if otherwise, then both the new maketh a rent, and the piece that was ",
+          "kind": "text"
+        },
+        {
+          "text": "taken",
+          "kind": "supplied"
+        },
+        {
+          "text": " out of the new agreeth not with the old.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LUK.5.37",
+      "edition_verse_id": "KJV1769:LUK.5.37",
+      "verse": 37,
+      "spans": [
+        {
+          "text": "And no man putteth new wine into old bottles; else the new wine will burst the bottles, and be spilled, and the bottles shall perish.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.5.38",
+      "edition_verse_id": "KJV1769:LUK.5.38",
+      "verse": 38,
+      "spans": [
+        {
+          "text": "But new wine must be put into new bottles; and both are preserved.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.5.39",
+      "edition_verse_id": "KJV1769:LUK.5.39",
+      "verse": 39,
+      "spans": [
+        {
+          "text": "No man also having drunk old ",
+          "kind": "text"
+        },
+        {
+          "text": "wine",
+          "kind": "supplied"
+        },
+        {
+          "text": " straightway desireth new: for he saith, The old is better.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

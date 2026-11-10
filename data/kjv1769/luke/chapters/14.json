@@ -1,0 +1,532 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "KJV1769",
+  "book_code": "LUK",
+  "chapter": 14,
+  "verses": [
+    {
+      "id": "LUK.14.1",
+      "edition_verse_id": "KJV1769:LUK.14.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "And it came to pass, as he went into the house of one of the chief Pharisees to eat bread on the sabbath day, that they watched him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LUK.14.2",
+      "edition_verse_id": "KJV1769:LUK.14.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "And, behold, there was a certain man before him which had the dropsy.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.14.3",
+      "edition_verse_id": "KJV1769:LUK.14.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "And Jesus answering spake unto the lawyers and Pharisees, saying, Is it lawful to heal on the sabbath day?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.14.4",
+      "edition_verse_id": "KJV1769:LUK.14.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "And they held their peace. And he took ",
+          "kind": "text"
+        },
+        {
+          "text": "him",
+          "kind": "supplied"
+        },
+        {
+          "text": ", and healed him, and let him go;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.14.5",
+      "edition_verse_id": "KJV1769:LUK.14.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "And answered them, saying, Which of you shall have an ass or an ox fallen into a pit, and will not straightway pull him out on the sabbath day?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.14.6",
+      "edition_verse_id": "KJV1769:LUK.14.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "And they could not answer him again to these things.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.14.7",
+      "edition_verse_id": "KJV1769:LUK.14.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "¶ And he put forth a parable to those which were bidden, when he marked how they chose out the chief rooms; saying unto them,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LUK.14.8",
+      "edition_verse_id": "KJV1769:LUK.14.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "When thou art bidden of any ",
+          "kind": "text"
+        },
+        {
+          "text": "man",
+          "kind": "supplied"
+        },
+        {
+          "text": " to a wedding, sit not down in the highest room; lest a more honourable man than thou be bidden of him;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.14.9",
+      "edition_verse_id": "KJV1769:LUK.14.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "And he that bade thee and him come and say to thee, Give this man place; and thou begin with shame to take the lowest room.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.14.10",
+      "edition_verse_id": "KJV1769:LUK.14.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "But when thou art bidden, go and sit down in the lowest room; that when he that bade thee cometh, he may say unto thee, Friend, go up higher: then shalt thou have worship in the presence of them that sit at meat with thee.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.14.11",
+      "edition_verse_id": "KJV1769:LUK.14.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "For whosoever exalteth himself shall be abased; and he that humbleth himself shall be exalted.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.14.12",
+      "edition_verse_id": "KJV1769:LUK.14.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "¶ Then said he also to him that bade him, When thou makest a dinner or a supper, call not thy friends, nor thy brethren, neither thy kinsmen, nor ",
+          "kind": "text"
+        },
+        {
+          "text": "thy",
+          "kind": "supplied"
+        },
+        {
+          "text": " rich neighbours; lest they also bid thee again, and a recompence be made thee.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LUK.14.13",
+      "edition_verse_id": "KJV1769:LUK.14.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "But when thou makest a feast, call the poor, the maimed, the lame, the blind:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.14.14",
+      "edition_verse_id": "KJV1769:LUK.14.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "And thou shalt be blessed; for they cannot recompense thee: for thou shalt be recompensed at the resurrection of the just.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.14.15",
+      "edition_verse_id": "KJV1769:LUK.14.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "¶ And when one of them that sat at meat with him heard these things, he said unto him, Blessed ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " he that shall eat bread in the kingdom of God.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LUK.14.16",
+      "edition_verse_id": "KJV1769:LUK.14.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "Then said he unto him, A certain man made a great supper, and bade many:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.14.17",
+      "edition_verse_id": "KJV1769:LUK.14.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "And sent his servant at supper time to say to them that were bidden, Come; for all things are now ready.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.14.18",
+      "edition_verse_id": "KJV1769:LUK.14.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "And they all with one ",
+          "kind": "text"
+        },
+        {
+          "text": "consent",
+          "kind": "supplied"
+        },
+        {
+          "text": " began to make excuse. The first said unto him, I have bought a piece of ground, and I must needs go and see it: I pray thee have me excused.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.14.19",
+      "edition_verse_id": "KJV1769:LUK.14.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "And another said, I have bought five yoke of oxen, and I go to prove them: I pray thee have me excused.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.14.20",
+      "edition_verse_id": "KJV1769:LUK.14.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "And another said, I have married a wife, and therefore I cannot come.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.14.21",
+      "edition_verse_id": "KJV1769:LUK.14.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "So that servant came, and shewed his lord these things. Then the master of the house being angry said to his servant, Go out quickly into the streets and lanes of the city, and bring in hither the poor, and the maimed, and the halt, and the blind.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.14.22",
+      "edition_verse_id": "KJV1769:LUK.14.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "And the servant said, Lord, it is done as thou hast commanded, and yet there is room.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.14.23",
+      "edition_verse_id": "KJV1769:LUK.14.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "And the lord said unto the servant, Go out into the highways and hedges, and compel ",
+          "kind": "text"
+        },
+        {
+          "text": "them",
+          "kind": "supplied"
+        },
+        {
+          "text": " to come in, that my house may be filled.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.14.24",
+      "edition_verse_id": "KJV1769:LUK.14.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "For I say unto you, That none of those men which were bidden shall taste of my supper.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.14.25",
+      "edition_verse_id": "KJV1769:LUK.14.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "¶ And there went great multitudes with him: and he turned, and said unto them,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LUK.14.26",
+      "edition_verse_id": "KJV1769:LUK.14.26",
+      "verse": 26,
+      "spans": [
+        {
+          "text": "If any ",
+          "kind": "text"
+        },
+        {
+          "text": "man",
+          "kind": "supplied"
+        },
+        {
+          "text": " come to me, and hate not his father, and mother, and wife, and children, and brethren, and sisters, yea, and his own life also, he cannot be my disciple.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.14.27",
+      "edition_verse_id": "KJV1769:LUK.14.27",
+      "verse": 27,
+      "spans": [
+        {
+          "text": "And whosoever doth not bear his cross, and come after me, cannot be my disciple.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.14.28",
+      "edition_verse_id": "KJV1769:LUK.14.28",
+      "verse": 28,
+      "spans": [
+        {
+          "text": "For which of you, intending to build a tower, sitteth not down first, and counteth the cost, whether he have ",
+          "kind": "text"
+        },
+        {
+          "text": "sufficient",
+          "kind": "supplied"
+        },
+        {
+          "text": " to finish ",
+          "kind": "text"
+        },
+        {
+          "text": "it",
+          "kind": "supplied"
+        },
+        {
+          "text": "?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.14.29",
+      "edition_verse_id": "KJV1769:LUK.14.29",
+      "verse": 29,
+      "spans": [
+        {
+          "text": "Lest haply, after he hath laid the foundation, and is not able to finish ",
+          "kind": "text"
+        },
+        {
+          "text": "it",
+          "kind": "supplied"
+        },
+        {
+          "text": ", all that behold ",
+          "kind": "text"
+        },
+        {
+          "text": "it",
+          "kind": "supplied"
+        },
+        {
+          "text": " begin to mock him,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.14.30",
+      "edition_verse_id": "KJV1769:LUK.14.30",
+      "verse": 30,
+      "spans": [
+        {
+          "text": "Saying, This man began to build, and was not able to finish.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.14.31",
+      "edition_verse_id": "KJV1769:LUK.14.31",
+      "verse": 31,
+      "spans": [
+        {
+          "text": "Or what king, going to make war against another king, sitteth not down first, and consulteth whether he be able with ten thousand to meet him that cometh against him with twenty thousand?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.14.32",
+      "edition_verse_id": "KJV1769:LUK.14.32",
+      "verse": 32,
+      "spans": [
+        {
+          "text": "Or else, while the other is yet a great way off, he sendeth an ambassage, and desireth conditions of peace.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.14.33",
+      "edition_verse_id": "KJV1769:LUK.14.33",
+      "verse": 33,
+      "spans": [
+        {
+          "text": "So likewise, whosoever he be of you that forsaketh not all that he hath, he cannot be my disciple.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.14.34",
+      "edition_verse_id": "KJV1769:LUK.14.34",
+      "verse": 34,
+      "spans": [
+        {
+          "text": "¶ Salt ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " good: but if the salt have lost his savour, wherewith shall it be seasoned?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LUK.14.35",
+      "edition_verse_id": "KJV1769:LUK.14.35",
+      "verse": 35,
+      "spans": [
+        {
+          "text": "It is neither fit for the land, nor yet for the dunghill; ",
+          "kind": "text"
+        },
+        {
+          "text": "but",
+          "kind": "supplied"
+        },
+        {
+          "text": " men cast it out. He that hath ears to hear, let him hear.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

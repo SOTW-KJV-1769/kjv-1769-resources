@@ -1,0 +1,28 @@
+{
+  "edition_id": "KJV1769",
+  "book_code": "MAL",
+  "chapter_count": 4,
+  "verse_count": 55,
+  "chapters": [
+    {
+      "chapter": 1,
+      "verse_count": 14,
+      "sha256": "aef60255fa795f907df52199169e408a2cd495bd9ddffd3ed58c130b2792499b"
+    },
+    {
+      "chapter": 2,
+      "verse_count": 17,
+      "sha256": "4dfdc10fe07d2c1412d562b281ee32fef6125a69202e2623d3f9a442bb038c35"
+    },
+    {
+      "chapter": 3,
+      "verse_count": 18,
+      "sha256": "c277899d11f21f771845f3a6ae776d1863b6eae591cfa7d0c8962c358745d624"
+    },
+    {
+      "chapter": 4,
+      "verse_count": 6,
+      "sha256": "aa6fbfc6f8206189f8e98d4aac8b9df7dbd271b467332df76bec2a2330757b98"
+    }
+  ]
+}

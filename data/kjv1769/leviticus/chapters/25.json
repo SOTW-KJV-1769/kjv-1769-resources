@@ -1,0 +1,1060 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "KJV1769",
+  "book_code": "LEV",
+  "chapter": 25,
+  "verses": [
+    {
+      "id": "LEV.25.1",
+      "edition_verse_id": "KJV1769:LEV.25.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "And the LORD spake unto Moses in mount Sinai, saying,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LEV.25.2",
+      "edition_verse_id": "KJV1769:LEV.25.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "Speak unto the children of Israel, and say unto them, When ye come into the land which I give you, then shall the land keep a sabbath unto the LORD.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.25.3",
+      "edition_verse_id": "KJV1769:LEV.25.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "Six years thou shalt sow thy field, and six years thou shalt prune thy vineyard, and gather in the fruit thereof;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.25.4",
+      "edition_verse_id": "KJV1769:LEV.25.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "But in the seventh year shall be a sabbath of rest unto the land, a sabbath for the LORD: thou shalt neither sow thy field, nor prune thy vineyard.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.25.5",
+      "edition_verse_id": "KJV1769:LEV.25.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "That which groweth of its own accord of thy harvest thou shalt not reap, neither gather the grapes of thy vine undressed: ",
+          "kind": "text"
+        },
+        {
+          "text": "for",
+          "kind": "supplied"
+        },
+        {
+          "text": " it is a year of rest unto the land.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.25.6",
+      "edition_verse_id": "KJV1769:LEV.25.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "And the sabbath of the land shall be meat for you; for thee, and for thy servant, and for thy maid, and for thy hired servant, and for thy stranger that sojourneth with thee,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.25.7",
+      "edition_verse_id": "KJV1769:LEV.25.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "And for thy cattle, and for the beast that ",
+          "kind": "text"
+        },
+        {
+          "text": "are",
+          "kind": "supplied"
+        },
+        {
+          "text": " in thy land, shall all the increase thereof be meat.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.25.8",
+      "edition_verse_id": "KJV1769:LEV.25.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "¶ And thou shalt number seven sabbaths of years unto thee, seven times seven years; and the space of the seven sabbaths of years shall be unto thee forty and nine years.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LEV.25.9",
+      "edition_verse_id": "KJV1769:LEV.25.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "Then shalt thou cause the trumpet of the jubile to sound on the tenth ",
+          "kind": "text"
+        },
+        {
+          "text": "day",
+          "kind": "supplied"
+        },
+        {
+          "text": " of the seventh month, in the day of atonement shall ye make the trumpet sound throughout all your land.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.25.10",
+      "edition_verse_id": "KJV1769:LEV.25.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "And ye shall hallow the fiftieth year, and proclaim liberty throughout ",
+          "kind": "text"
+        },
+        {
+          "text": "all",
+          "kind": "supplied"
+        },
+        {
+          "text": " the land unto all the inhabitants thereof: it shall be a jubile unto you; and ye shall return every man unto his possession, and ye shall return every man unto his family.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.25.11",
+      "edition_verse_id": "KJV1769:LEV.25.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "A jubile shall that fiftieth year be unto you: ye shall not sow, neither reap that which groweth of itself in it, nor gather ",
+          "kind": "text"
+        },
+        {
+          "text": "the grapes",
+          "kind": "supplied"
+        },
+        {
+          "text": " in it of thy vine undressed.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.25.12",
+      "edition_verse_id": "KJV1769:LEV.25.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "For it ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " the jubile; it shall be holy unto you: ye shall eat the increase thereof out of the field.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.25.13",
+      "edition_verse_id": "KJV1769:LEV.25.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "In the year of this jubile ye shall return every man unto his possession.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.25.14",
+      "edition_verse_id": "KJV1769:LEV.25.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "And if thou sell ought unto thy neighbour, or buyest ",
+          "kind": "text"
+        },
+        {
+          "text": "ought",
+          "kind": "supplied"
+        },
+        {
+          "text": " of thy neighbour’s hand, ye shall not oppress one another:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.25.15",
+      "edition_verse_id": "KJV1769:LEV.25.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "According to the number of years after the jubile thou shalt buy of thy neighbour, ",
+          "kind": "text"
+        },
+        {
+          "text": "and",
+          "kind": "supplied"
+        },
+        {
+          "text": " according unto the number of years of the fruits he shall sell unto thee:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.25.16",
+      "edition_verse_id": "KJV1769:LEV.25.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "According to the multitude of years thou shalt increase the price thereof, and according to the fewness of years thou shalt diminish the price of it: for ",
+          "kind": "text"
+        },
+        {
+          "text": "according",
+          "kind": "supplied"
+        },
+        {
+          "text": " to the number ",
+          "kind": "text"
+        },
+        {
+          "text": "of the years",
+          "kind": "supplied"
+        },
+        {
+          "text": " of the fruits doth he sell unto thee.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.25.17",
+      "edition_verse_id": "KJV1769:LEV.25.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "Ye shall not therefore oppress one another; but thou shalt fear thy God: for I ",
+          "kind": "text"
+        },
+        {
+          "text": "am",
+          "kind": "supplied"
+        },
+        {
+          "text": " the LORD your God.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.25.18",
+      "edition_verse_id": "KJV1769:LEV.25.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "¶ Wherefore ye shall do my statutes, and keep my judgments, and do them; and ye shall dwell in the land in safety.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LEV.25.19",
+      "edition_verse_id": "KJV1769:LEV.25.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "And the land shall yield her fruit, and ye shall eat your fill, and dwell therein in safety.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.25.20",
+      "edition_verse_id": "KJV1769:LEV.25.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "And if ye shall say, What shall we eat the seventh year? behold, we shall not sow, nor gather in our increase:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.25.21",
+      "edition_verse_id": "KJV1769:LEV.25.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "Then I will command my blessing upon you in the sixth year, and it shall bring forth fruit for three years.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.25.22",
+      "edition_verse_id": "KJV1769:LEV.25.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "And ye shall sow the eighth year, and eat ",
+          "kind": "text"
+        },
+        {
+          "text": "yet",
+          "kind": "supplied"
+        },
+        {
+          "text": " of old fruit until the ninth year; until her fruits come in ye shall eat ",
+          "kind": "text"
+        },
+        {
+          "text": "of",
+          "kind": "supplied"
+        },
+        {
+          "text": " the old ",
+          "kind": "text"
+        },
+        {
+          "text": "store",
+          "kind": "supplied"
+        },
+        {
+          "text": ".",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.25.23",
+      "edition_verse_id": "KJV1769:LEV.25.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "¶ The land shall not be sold for ever: for the land ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " mine; for ye ",
+          "kind": "text"
+        },
+        {
+          "text": "are",
+          "kind": "supplied"
+        },
+        {
+          "text": " strangers and sojourners with me.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LEV.25.24",
+      "edition_verse_id": "KJV1769:LEV.25.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "And in all the land of your possession ye shall grant a redemption for the land.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.25.25",
+      "edition_verse_id": "KJV1769:LEV.25.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "¶ If thy brother be waxen poor, and hath sold away ",
+          "kind": "text"
+        },
+        {
+          "text": "some",
+          "kind": "supplied"
+        },
+        {
+          "text": " of his possession, and if any of his kin come to redeem it, then shall he redeem that which his brother sold.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LEV.25.26",
+      "edition_verse_id": "KJV1769:LEV.25.26",
+      "verse": 26,
+      "spans": [
+        {
+          "text": "And if the man have none to redeem it, and himself be able to redeem it;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.25.27",
+      "edition_verse_id": "KJV1769:LEV.25.27",
+      "verse": 27,
+      "spans": [
+        {
+          "text": "Then let him count the years of the sale thereof, and restore the overplus unto the man to whom he sold it; that he may return unto his possession.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.25.28",
+      "edition_verse_id": "KJV1769:LEV.25.28",
+      "verse": 28,
+      "spans": [
+        {
+          "text": "But if he be not able to restore ",
+          "kind": "text"
+        },
+        {
+          "text": "it",
+          "kind": "supplied"
+        },
+        {
+          "text": " to him, then that which is sold shall remain in the hand of him that hath bought it until the year of jubile: and in the jubile it shall go out, and he shall return unto his possession.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.25.29",
+      "edition_verse_id": "KJV1769:LEV.25.29",
+      "verse": 29,
+      "spans": [
+        {
+          "text": "And if a man sell a dwelling house in a walled city, then he may redeem it within a whole year after it is sold; ",
+          "kind": "text"
+        },
+        {
+          "text": "within",
+          "kind": "supplied"
+        },
+        {
+          "text": " a full year may he redeem it.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.25.30",
+      "edition_verse_id": "KJV1769:LEV.25.30",
+      "verse": 30,
+      "spans": [
+        {
+          "text": "And if it be not redeemed within the space of a full year, then the house that ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " in the walled city shall be established for ever to him that bought it throughout his generations: it shall not go out in the jubile.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.25.31",
+      "edition_verse_id": "KJV1769:LEV.25.31",
+      "verse": 31,
+      "spans": [
+        {
+          "text": "But the houses of the villages which have no wall round about them shall be counted as the fields of the country: they may be redeemed, and they shall go out in the jubile.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.25.32",
+      "edition_verse_id": "KJV1769:LEV.25.32",
+      "verse": 32,
+      "spans": [
+        {
+          "text": "Notwithstanding the cities of the Levites, ",
+          "kind": "text"
+        },
+        {
+          "text": "and",
+          "kind": "supplied"
+        },
+        {
+          "text": " the houses of the cities of their possession, may the Levites redeem at any time.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.25.33",
+      "edition_verse_id": "KJV1769:LEV.25.33",
+      "verse": 33,
+      "spans": [
+        {
+          "text": "And if a man purchase of the Levites, then the house that was sold, and the city of his possession, shall go out in ",
+          "kind": "text"
+        },
+        {
+          "text": "the year of",
+          "kind": "supplied"
+        },
+        {
+          "text": " jubile: for the houses of the cities of the Levites ",
+          "kind": "text"
+        },
+        {
+          "text": "are",
+          "kind": "supplied"
+        },
+        {
+          "text": " their possession among the children of Israel.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.25.34",
+      "edition_verse_id": "KJV1769:LEV.25.34",
+      "verse": 34,
+      "spans": [
+        {
+          "text": "But the field of the suburbs of their cities may not be sold; for it ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " their perpetual possession.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.25.35",
+      "edition_verse_id": "KJV1769:LEV.25.35",
+      "verse": 35,
+      "spans": [
+        {
+          "text": "¶ And if thy brother be waxen poor, and fallen in decay with thee; then thou shalt relieve him: ",
+          "kind": "text"
+        },
+        {
+          "text": "yea, though he be",
+          "kind": "supplied"
+        },
+        {
+          "text": " a stranger, or a sojourner; that he may live with thee.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LEV.25.36",
+      "edition_verse_id": "KJV1769:LEV.25.36",
+      "verse": 36,
+      "spans": [
+        {
+          "text": "Take thou no usury of him, or increase: but fear thy God; that thy brother may live with thee.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.25.37",
+      "edition_verse_id": "KJV1769:LEV.25.37",
+      "verse": 37,
+      "spans": [
+        {
+          "text": "Thou shalt not give him thy money upon usury, nor lend him thy victuals for increase.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.25.38",
+      "edition_verse_id": "KJV1769:LEV.25.38",
+      "verse": 38,
+      "spans": [
+        {
+          "text": "I ",
+          "kind": "text"
+        },
+        {
+          "text": "am",
+          "kind": "supplied"
+        },
+        {
+          "text": " the LORD your God, which brought you forth out of the land of Egypt, to give you the land of Canaan, ",
+          "kind": "text"
+        },
+        {
+          "text": "and",
+          "kind": "supplied"
+        },
+        {
+          "text": " to be your God.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.25.39",
+      "edition_verse_id": "KJV1769:LEV.25.39",
+      "verse": 39,
+      "spans": [
+        {
+          "text": "¶ And if thy brother ",
+          "kind": "text"
+        },
+        {
+          "text": "that dwelleth",
+          "kind": "supplied"
+        },
+        {
+          "text": " by thee be waxen poor, and be sold unto thee; thou shalt not compel him to serve as a bondservant:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LEV.25.40",
+      "edition_verse_id": "KJV1769:LEV.25.40",
+      "verse": 40,
+      "spans": [
+        {
+          "text": "But",
+          "kind": "supplied"
+        },
+        {
+          "text": " as an hired servant, ",
+          "kind": "text"
+        },
+        {
+          "text": "and",
+          "kind": "supplied"
+        },
+        {
+          "text": " as a sojourner, he shall be with thee, ",
+          "kind": "text"
+        },
+        {
+          "text": "and",
+          "kind": "supplied"
+        },
+        {
+          "text": " shall serve thee unto the year of jubile:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.25.41",
+      "edition_verse_id": "KJV1769:LEV.25.41",
+      "verse": 41,
+      "spans": [
+        {
+          "text": "And ",
+          "kind": "text"
+        },
+        {
+          "text": "then",
+          "kind": "supplied"
+        },
+        {
+          "text": " shall he depart from thee, ",
+          "kind": "text"
+        },
+        {
+          "text": "both",
+          "kind": "supplied"
+        },
+        {
+          "text": " he and his children with him, and shall return unto his own family, and unto the possession of his fathers shall he return.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.25.42",
+      "edition_verse_id": "KJV1769:LEV.25.42",
+      "verse": 42,
+      "spans": [
+        {
+          "text": "For they ",
+          "kind": "text"
+        },
+        {
+          "text": "are",
+          "kind": "supplied"
+        },
+        {
+          "text": " my servants, which I brought forth out of the land of Egypt: they shall not be sold as bondmen.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.25.43",
+      "edition_verse_id": "KJV1769:LEV.25.43",
+      "verse": 43,
+      "spans": [
+        {
+          "text": "Thou shalt not rule over him with rigour; but shalt fear thy God.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.25.44",
+      "edition_verse_id": "KJV1769:LEV.25.44",
+      "verse": 44,
+      "spans": [
+        {
+          "text": "Both thy bondmen, and thy bondmaids, which thou shalt have, ",
+          "kind": "text"
+        },
+        {
+          "text": "shall be",
+          "kind": "supplied"
+        },
+        {
+          "text": " of the heathen that are round about you; of them shall ye buy bondmen and bondmaids.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.25.45",
+      "edition_verse_id": "KJV1769:LEV.25.45",
+      "verse": 45,
+      "spans": [
+        {
+          "text": "Moreover of the children of the strangers that do sojourn among you, of them shall ye buy, and of their families that ",
+          "kind": "text"
+        },
+        {
+          "text": "are",
+          "kind": "supplied"
+        },
+        {
+          "text": " with you, which they begat in your land: and they shall be your possession.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.25.46",
+      "edition_verse_id": "KJV1769:LEV.25.46",
+      "verse": 46,
+      "spans": [
+        {
+          "text": "And ye shall take them as an inheritance for your children after you, to inherit ",
+          "kind": "text"
+        },
+        {
+          "text": "them for",
+          "kind": "supplied"
+        },
+        {
+          "text": " a possession; they shall be your bondmen for ever: but over your brethren the children of Israel, ye shall not rule one over another with rigour.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.25.47",
+      "edition_verse_id": "KJV1769:LEV.25.47",
+      "verse": 47,
+      "spans": [
+        {
+          "text": "¶ And if a sojourner or stranger wax rich by thee, and thy brother ",
+          "kind": "text"
+        },
+        {
+          "text": "that dwelleth",
+          "kind": "supplied"
+        },
+        {
+          "text": " by him wax poor, and sell himself unto the stranger ",
+          "kind": "text"
+        },
+        {
+          "text": "or",
+          "kind": "supplied"
+        },
+        {
+          "text": " sojourner by thee, or to the stock of the stranger’s family:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LEV.25.48",
+      "edition_verse_id": "KJV1769:LEV.25.48",
+      "verse": 48,
+      "spans": [
+        {
+          "text": "After that he is sold he may be redeemed again; one of his brethren may redeem him:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.25.49",
+      "edition_verse_id": "KJV1769:LEV.25.49",
+      "verse": 49,
+      "spans": [
+        {
+          "text": "Either his uncle, or his uncle’s son, may redeem him, or ",
+          "kind": "text"
+        },
+        {
+          "text": "any",
+          "kind": "supplied"
+        },
+        {
+          "text": " that is nigh of kin unto him of his family may redeem him; or if he be able, he may redeem himself.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.25.50",
+      "edition_verse_id": "KJV1769:LEV.25.50",
+      "verse": 50,
+      "spans": [
+        {
+          "text": "And he shall reckon with him that bought him from the year that he was sold to him unto the year of jubile: and the price of his sale shall be according unto the number of years, according to the time of an hired servant shall it be with him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.25.51",
+      "edition_verse_id": "KJV1769:LEV.25.51",
+      "verse": 51,
+      "spans": [
+        {
+          "text": "If ",
+          "kind": "text"
+        },
+        {
+          "text": "there be",
+          "kind": "supplied"
+        },
+        {
+          "text": " yet many years ",
+          "kind": "text"
+        },
+        {
+          "text": "behind",
+          "kind": "supplied"
+        },
+        {
+          "text": ", according unto them he shall give again the price of his redemption out of the money that he was bought for.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.25.52",
+      "edition_verse_id": "KJV1769:LEV.25.52",
+      "verse": 52,
+      "spans": [
+        {
+          "text": "And if there remain but few years unto the year of jubile, then he shall count with him, ",
+          "kind": "text"
+        },
+        {
+          "text": "and",
+          "kind": "supplied"
+        },
+        {
+          "text": " according unto his years shall he give him again the price of his redemption.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.25.53",
+      "edition_verse_id": "KJV1769:LEV.25.53",
+      "verse": 53,
+      "spans": [
+        {
+          "text": "And",
+          "kind": "supplied"
+        },
+        {
+          "text": " as a yearly hired servant shall he be with him: ",
+          "kind": "text"
+        },
+        {
+          "text": "and the other",
+          "kind": "supplied"
+        },
+        {
+          "text": " shall not rule with rigour over him in thy sight.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.25.54",
+      "edition_verse_id": "KJV1769:LEV.25.54",
+      "verse": 54,
+      "spans": [
+        {
+          "text": "And if he be not redeemed in these ",
+          "kind": "text"
+        },
+        {
+          "text": "years",
+          "kind": "supplied"
+        },
+        {
+          "text": ", then he shall go out in the year of jubile, ",
+          "kind": "text"
+        },
+        {
+          "text": "both",
+          "kind": "supplied"
+        },
+        {
+          "text": " he, and his children with him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.25.55",
+      "edition_verse_id": "KJV1769:LEV.25.55",
+      "verse": 55,
+      "spans": [
+        {
+          "text": "For unto me the children of Israel ",
+          "kind": "text"
+        },
+        {
+          "text": "are",
+          "kind": "supplied"
+        },
+        {
+          "text": " servants; they ",
+          "kind": "text"
+        },
+        {
+          "text": "are",
+          "kind": "supplied"
+        },
+        {
+          "text": " my servants whom I brought forth out of the land of Egypt: I ",
+          "kind": "text"
+        },
+        {
+          "text": "am",
+          "kind": "supplied"
+        },
+        {
+          "text": " the LORD your God.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

@@ -1,0 +1,1644 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "KJV1769",
+  "book_code": "LEV",
+  "chapter": 13,
+  "verses": [
+    {
+      "id": "LEV.13.1",
+      "edition_verse_id": "KJV1769:LEV.13.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "And the LORD spake unto Moses and Aaron, saying,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LEV.13.2",
+      "edition_verse_id": "KJV1769:LEV.13.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "When a man shall have in the skin of his flesh a rising, a scab, or bright spot, and it be in the skin of his flesh ",
+          "kind": "text"
+        },
+        {
+          "text": "like",
+          "kind": "supplied"
+        },
+        {
+          "text": " the plague of leprosy; then he shall be brought unto Aaron the priest, or unto one of his sons the priests:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.13.3",
+      "edition_verse_id": "KJV1769:LEV.13.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "And the priest shall look on the plague in the skin of the flesh: and ",
+          "kind": "text"
+        },
+        {
+          "text": "when",
+          "kind": "supplied"
+        },
+        {
+          "text": " the hair in the plague is turned white, and the plague in sight ",
+          "kind": "text"
+        },
+        {
+          "text": "be",
+          "kind": "supplied"
+        },
+        {
+          "text": " deeper than the skin of his flesh, it ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " a plague of leprosy: and the priest shall look on him, and pronounce him unclean.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.13.4",
+      "edition_verse_id": "KJV1769:LEV.13.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "If the bright spot ",
+          "kind": "text"
+        },
+        {
+          "text": "be",
+          "kind": "supplied"
+        },
+        {
+          "text": " white in the skin of his flesh, and in sight ",
+          "kind": "text"
+        },
+        {
+          "text": "be",
+          "kind": "supplied"
+        },
+        {
+          "text": " not deeper than the skin, and the hair thereof be not turned white; then the priest shall shut up ",
+          "kind": "text"
+        },
+        {
+          "text": "him that hath",
+          "kind": "supplied"
+        },
+        {
+          "text": " the plague seven days:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.13.5",
+      "edition_verse_id": "KJV1769:LEV.13.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "And the priest shall look on him the seventh day: and, behold, ",
+          "kind": "text"
+        },
+        {
+          "text": "if",
+          "kind": "supplied"
+        },
+        {
+          "text": " the plague in his sight be at a stay, ",
+          "kind": "text"
+        },
+        {
+          "text": "and",
+          "kind": "supplied"
+        },
+        {
+          "text": " the plague spread not in the skin; then the priest shall shut him up seven days more:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.13.6",
+      "edition_verse_id": "KJV1769:LEV.13.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "And the priest shall look on him again the seventh day: and, behold, ",
+          "kind": "text"
+        },
+        {
+          "text": "if",
+          "kind": "supplied"
+        },
+        {
+          "text": " the plague ",
+          "kind": "text"
+        },
+        {
+          "text": "be",
+          "kind": "supplied"
+        },
+        {
+          "text": " somewhat dark, ",
+          "kind": "text"
+        },
+        {
+          "text": "and",
+          "kind": "supplied"
+        },
+        {
+          "text": " the plague spread not in the skin, the priest shall pronounce him clean: it ",
+          "kind": "text"
+        },
+        {
+          "text": "is but",
+          "kind": "supplied"
+        },
+        {
+          "text": " a scab: and he shall wash his clothes, and be clean.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.13.7",
+      "edition_verse_id": "KJV1769:LEV.13.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "But if the scab spread much abroad in the skin, after that he hath been seen of the priest for his cleansing, he shall be seen of the priest again:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.13.8",
+      "edition_verse_id": "KJV1769:LEV.13.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "And ",
+          "kind": "text"
+        },
+        {
+          "text": "if",
+          "kind": "supplied"
+        },
+        {
+          "text": " the priest see that, behold, the scab spreadeth in the skin, then the priest shall pronounce him unclean: it ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " a leprosy.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.13.9",
+      "edition_verse_id": "KJV1769:LEV.13.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "¶ When the plague of leprosy is in a man, then he shall be brought unto the priest;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LEV.13.10",
+      "edition_verse_id": "KJV1769:LEV.13.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "And the priest shall see ",
+          "kind": "text"
+        },
+        {
+          "text": "him:",
+          "kind": "supplied"
+        },
+        {
+          "text": " and, behold, ",
+          "kind": "text"
+        },
+        {
+          "text": "if",
+          "kind": "supplied"
+        },
+        {
+          "text": " the rising ",
+          "kind": "text"
+        },
+        {
+          "text": "be",
+          "kind": "supplied"
+        },
+        {
+          "text": " white in the skin, and it have turned the hair white, and ",
+          "kind": "text"
+        },
+        {
+          "text": "there be",
+          "kind": "supplied"
+        },
+        {
+          "text": " quick raw flesh in the rising;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.13.11",
+      "edition_verse_id": "KJV1769:LEV.13.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "It ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " an old leprosy in the skin of his flesh, and the priest shall pronounce him unclean, and shall not shut him up: for he ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " unclean.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.13.12",
+      "edition_verse_id": "KJV1769:LEV.13.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "And if a leprosy break out abroad in the skin, and the leprosy cover all the skin of ",
+          "kind": "text"
+        },
+        {
+          "text": "him that hath",
+          "kind": "supplied"
+        },
+        {
+          "text": " the plague from his head even to his foot, wheresoever the priest looketh;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.13.13",
+      "edition_verse_id": "KJV1769:LEV.13.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "Then the priest shall consider: and, behold, ",
+          "kind": "text"
+        },
+        {
+          "text": "if",
+          "kind": "supplied"
+        },
+        {
+          "text": " the leprosy have covered all his flesh, he shall pronounce ",
+          "kind": "text"
+        },
+        {
+          "text": "him",
+          "kind": "supplied"
+        },
+        {
+          "text": " clean ",
+          "kind": "text"
+        },
+        {
+          "text": "that hath",
+          "kind": "supplied"
+        },
+        {
+          "text": " the plague: it is all turned white: he ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " clean.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.13.14",
+      "edition_verse_id": "KJV1769:LEV.13.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "But when raw flesh appeareth in him, he shall be unclean.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.13.15",
+      "edition_verse_id": "KJV1769:LEV.13.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "And the priest shall see the raw flesh, and pronounce him to be unclean: ",
+          "kind": "text"
+        },
+        {
+          "text": "for",
+          "kind": "supplied"
+        },
+        {
+          "text": " the raw flesh ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " unclean: it ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " a leprosy.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.13.16",
+      "edition_verse_id": "KJV1769:LEV.13.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "Or if the raw flesh turn again, and be changed unto white, he shall come unto the priest;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.13.17",
+      "edition_verse_id": "KJV1769:LEV.13.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "And the priest shall see him: and, behold, ",
+          "kind": "text"
+        },
+        {
+          "text": "if",
+          "kind": "supplied"
+        },
+        {
+          "text": " the plague be turned into white; then the priest shall pronounce ",
+          "kind": "text"
+        },
+        {
+          "text": "him",
+          "kind": "supplied"
+        },
+        {
+          "text": " clean ",
+          "kind": "text"
+        },
+        {
+          "text": "that hath",
+          "kind": "supplied"
+        },
+        {
+          "text": " the plague: he ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " clean.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.13.18",
+      "edition_verse_id": "KJV1769:LEV.13.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "¶ The flesh also, in which, ",
+          "kind": "text"
+        },
+        {
+          "text": "even",
+          "kind": "supplied"
+        },
+        {
+          "text": " in the skin thereof, was a boil, and is healed,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LEV.13.19",
+      "edition_verse_id": "KJV1769:LEV.13.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "And in the place of the boil there be a white rising, or a bright spot, white, and somewhat reddish, and it be shewed to the priest;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.13.20",
+      "edition_verse_id": "KJV1769:LEV.13.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "And if, when the priest seeth it, behold, it ",
+          "kind": "text"
+        },
+        {
+          "text": "be",
+          "kind": "supplied"
+        },
+        {
+          "text": " in sight lower than the skin, and the hair thereof be turned white; the priest shall pronounce him unclean: it ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " a plague of leprosy broken out of the boil.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.13.21",
+      "edition_verse_id": "KJV1769:LEV.13.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "But if the priest look on it, and, behold, ",
+          "kind": "text"
+        },
+        {
+          "text": "there be",
+          "kind": "supplied"
+        },
+        {
+          "text": " no white hairs therein, and ",
+          "kind": "text"
+        },
+        {
+          "text": "if",
+          "kind": "supplied"
+        },
+        {
+          "text": " it ",
+          "kind": "text"
+        },
+        {
+          "text": "be",
+          "kind": "supplied"
+        },
+        {
+          "text": " not lower than the skin, but ",
+          "kind": "text"
+        },
+        {
+          "text": "be",
+          "kind": "supplied"
+        },
+        {
+          "text": " somewhat dark; then the priest shall shut him up seven days:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.13.22",
+      "edition_verse_id": "KJV1769:LEV.13.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "And if it spread much abroad in the skin, then the priest shall pronounce him unclean: it ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " a plague.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.13.23",
+      "edition_verse_id": "KJV1769:LEV.13.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "But if the bright spot stay in his place, ",
+          "kind": "text"
+        },
+        {
+          "text": "and",
+          "kind": "supplied"
+        },
+        {
+          "text": " spread not, it ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " a burning boil; and the priest shall pronounce him clean.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.13.24",
+      "edition_verse_id": "KJV1769:LEV.13.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "¶ Or if there be ",
+          "kind": "text"
+        },
+        {
+          "text": "any",
+          "kind": "supplied"
+        },
+        {
+          "text": " flesh, in the skin whereof ",
+          "kind": "text"
+        },
+        {
+          "text": "there is",
+          "kind": "supplied"
+        },
+        {
+          "text": " a hot burning, and the quick ",
+          "kind": "text"
+        },
+        {
+          "text": "flesh",
+          "kind": "supplied"
+        },
+        {
+          "text": " that burneth have a white bright spot, somewhat reddish, or white;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LEV.13.25",
+      "edition_verse_id": "KJV1769:LEV.13.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "Then the priest shall look upon it: and, behold, ",
+          "kind": "text"
+        },
+        {
+          "text": "if",
+          "kind": "supplied"
+        },
+        {
+          "text": " the hair in the bright spot be turned white, and it ",
+          "kind": "text"
+        },
+        {
+          "text": "be in",
+          "kind": "supplied"
+        },
+        {
+          "text": " sight deeper than the skin; it ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " a leprosy broken out of the burning: wherefore the priest shall pronounce him unclean: it ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " the plague of leprosy.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.13.26",
+      "edition_verse_id": "KJV1769:LEV.13.26",
+      "verse": 26,
+      "spans": [
+        {
+          "text": "But if the priest look on it, and, behold, ",
+          "kind": "text"
+        },
+        {
+          "text": "there be",
+          "kind": "supplied"
+        },
+        {
+          "text": " no white hair in the bright spot, and it ",
+          "kind": "text"
+        },
+        {
+          "text": "be",
+          "kind": "supplied"
+        },
+        {
+          "text": " no lower than the ",
+          "kind": "text"
+        },
+        {
+          "text": "other",
+          "kind": "supplied"
+        },
+        {
+          "text": " skin, but ",
+          "kind": "text"
+        },
+        {
+          "text": "be",
+          "kind": "supplied"
+        },
+        {
+          "text": " somewhat dark; then the priest shall shut him up seven days:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.13.27",
+      "edition_verse_id": "KJV1769:LEV.13.27",
+      "verse": 27,
+      "spans": [
+        {
+          "text": "And the priest shall look upon him the seventh day: ",
+          "kind": "text"
+        },
+        {
+          "text": "and",
+          "kind": "supplied"
+        },
+        {
+          "text": " if it be spread much abroad in the skin, then the priest shall pronounce him unclean: it ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " the plague of leprosy.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.13.28",
+      "edition_verse_id": "KJV1769:LEV.13.28",
+      "verse": 28,
+      "spans": [
+        {
+          "text": "And if the bright spot stay in his place, ",
+          "kind": "text"
+        },
+        {
+          "text": "and",
+          "kind": "supplied"
+        },
+        {
+          "text": " spread not in the skin, but it ",
+          "kind": "text"
+        },
+        {
+          "text": "be",
+          "kind": "supplied"
+        },
+        {
+          "text": " somewhat dark; it ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " a rising of the burning, and the priest shall pronounce him clean: for it ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " an inflammation of the burning.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.13.29",
+      "edition_verse_id": "KJV1769:LEV.13.29",
+      "verse": 29,
+      "spans": [
+        {
+          "text": "¶ If a man or woman have a plague upon the head or the beard;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LEV.13.30",
+      "edition_verse_id": "KJV1769:LEV.13.30",
+      "verse": 30,
+      "spans": [
+        {
+          "text": "Then the priest shall see the plague: and, behold, if it ",
+          "kind": "text"
+        },
+        {
+          "text": "be",
+          "kind": "supplied"
+        },
+        {
+          "text": " in sight deeper than the skin; ",
+          "kind": "text"
+        },
+        {
+          "text": "and there be",
+          "kind": "supplied"
+        },
+        {
+          "text": " in it a yellow thin hair; then the priest shall pronounce him unclean: it ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " a dry scall, ",
+          "kind": "text"
+        },
+        {
+          "text": "even",
+          "kind": "supplied"
+        },
+        {
+          "text": " a leprosy upon the head or beard.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.13.31",
+      "edition_verse_id": "KJV1769:LEV.13.31",
+      "verse": 31,
+      "spans": [
+        {
+          "text": "And if the priest look on the plague of the scall, and, behold, it ",
+          "kind": "text"
+        },
+        {
+          "text": "be",
+          "kind": "supplied"
+        },
+        {
+          "text": " not in sight deeper than the skin, and ",
+          "kind": "text"
+        },
+        {
+          "text": "that there is",
+          "kind": "supplied"
+        },
+        {
+          "text": " no black hair in it; then the priest shall shut up ",
+          "kind": "text"
+        },
+        {
+          "text": "him that hath",
+          "kind": "supplied"
+        },
+        {
+          "text": " the plague of the scall seven days:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.13.32",
+      "edition_verse_id": "KJV1769:LEV.13.32",
+      "verse": 32,
+      "spans": [
+        {
+          "text": "And in the seventh day the priest shall look on the plague: and, behold, ",
+          "kind": "text"
+        },
+        {
+          "text": "if",
+          "kind": "supplied"
+        },
+        {
+          "text": " the scall spread not, and there be in it no yellow hair, and the scall ",
+          "kind": "text"
+        },
+        {
+          "text": "be",
+          "kind": "supplied"
+        },
+        {
+          "text": " not in sight deeper than the skin;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.13.33",
+      "edition_verse_id": "KJV1769:LEV.13.33",
+      "verse": 33,
+      "spans": [
+        {
+          "text": "He shall be shaven, but the scall shall he not shave; and the priest shall shut up ",
+          "kind": "text"
+        },
+        {
+          "text": "him that hath",
+          "kind": "supplied"
+        },
+        {
+          "text": " the scall seven days more:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.13.34",
+      "edition_verse_id": "KJV1769:LEV.13.34",
+      "verse": 34,
+      "spans": [
+        {
+          "text": "And in the seventh day the priest shall look on the scall: and, behold, ",
+          "kind": "text"
+        },
+        {
+          "text": "if",
+          "kind": "supplied"
+        },
+        {
+          "text": " the scall be not spread in the skin, nor ",
+          "kind": "text"
+        },
+        {
+          "text": "be",
+          "kind": "supplied"
+        },
+        {
+          "text": " in sight deeper than the skin; then the priest shall pronounce him clean: and he shall wash his clothes, and be clean.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.13.35",
+      "edition_verse_id": "KJV1769:LEV.13.35",
+      "verse": 35,
+      "spans": [
+        {
+          "text": "But if the scall spread much in the skin after his cleansing;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.13.36",
+      "edition_verse_id": "KJV1769:LEV.13.36",
+      "verse": 36,
+      "spans": [
+        {
+          "text": "Then the priest shall look on him: and, behold, if the scall be spread in the skin, the priest shall not seek for yellow hair; he ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " unclean.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.13.37",
+      "edition_verse_id": "KJV1769:LEV.13.37",
+      "verse": 37,
+      "spans": [
+        {
+          "text": "But if the scall be in his sight at a stay, and ",
+          "kind": "text"
+        },
+        {
+          "text": "that",
+          "kind": "supplied"
+        },
+        {
+          "text": " there is black hair grown up therein; the scall is healed, he ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " clean: and the priest shall pronounce him clean.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.13.38",
+      "edition_verse_id": "KJV1769:LEV.13.38",
+      "verse": 38,
+      "spans": [
+        {
+          "text": "¶ If a man also or a woman have in the skin of their flesh bright spots, ",
+          "kind": "text"
+        },
+        {
+          "text": "even",
+          "kind": "supplied"
+        },
+        {
+          "text": " white bright spots;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LEV.13.39",
+      "edition_verse_id": "KJV1769:LEV.13.39",
+      "verse": 39,
+      "spans": [
+        {
+          "text": "Then the priest shall look: and, behold, ",
+          "kind": "text"
+        },
+        {
+          "text": "if",
+          "kind": "supplied"
+        },
+        {
+          "text": " the bright spots in the skin of their flesh ",
+          "kind": "text"
+        },
+        {
+          "text": "be",
+          "kind": "supplied"
+        },
+        {
+          "text": " darkish white; it ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " a freckled spot ",
+          "kind": "text"
+        },
+        {
+          "text": "that",
+          "kind": "supplied"
+        },
+        {
+          "text": " groweth in the skin; he ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " clean.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.13.40",
+      "edition_verse_id": "KJV1769:LEV.13.40",
+      "verse": 40,
+      "spans": [
+        {
+          "text": "And the man whose hair is fallen off his head, he ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " bald; ",
+          "kind": "text"
+        },
+        {
+          "text": "yet is",
+          "kind": "supplied"
+        },
+        {
+          "text": " he clean.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.13.41",
+      "edition_verse_id": "KJV1769:LEV.13.41",
+      "verse": 41,
+      "spans": [
+        {
+          "text": "And he that hath his hair fallen off from the part of his head toward his face, he ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " forehead bald: ",
+          "kind": "text"
+        },
+        {
+          "text": "yet is",
+          "kind": "supplied"
+        },
+        {
+          "text": " he clean.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.13.42",
+      "edition_verse_id": "KJV1769:LEV.13.42",
+      "verse": 42,
+      "spans": [
+        {
+          "text": "And if there be in the bald head, or bald forehead, a white reddish sore; it ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " a leprosy sprung up in his bald head, or his bald forehead.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.13.43",
+      "edition_verse_id": "KJV1769:LEV.13.43",
+      "verse": 43,
+      "spans": [
+        {
+          "text": "Then the priest shall look upon it: and, behold, ",
+          "kind": "text"
+        },
+        {
+          "text": "if",
+          "kind": "supplied"
+        },
+        {
+          "text": " the rising of the sore ",
+          "kind": "text"
+        },
+        {
+          "text": "be",
+          "kind": "supplied"
+        },
+        {
+          "text": " white reddish in his bald head, or in his bald forehead, as the leprosy appeareth in the skin of the flesh;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.13.44",
+      "edition_verse_id": "KJV1769:LEV.13.44",
+      "verse": 44,
+      "spans": [
+        {
+          "text": "He is a leprous man, he ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " unclean: the priest shall pronounce him utterly unclean; his plague ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " in his head.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.13.45",
+      "edition_verse_id": "KJV1769:LEV.13.45",
+      "verse": 45,
+      "spans": [
+        {
+          "text": "And the leper in whom the plague ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": ", his clothes shall be rent, and his head bare, and he shall put a covering upon his upper lip, and shall cry, Unclean, unclean.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.13.46",
+      "edition_verse_id": "KJV1769:LEV.13.46",
+      "verse": 46,
+      "spans": [
+        {
+          "text": "All the days wherein the plague ",
+          "kind": "text"
+        },
+        {
+          "text": "shall be",
+          "kind": "supplied"
+        },
+        {
+          "text": " in him he shall be defiled; he ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " unclean: he shall dwell alone; without the camp ",
+          "kind": "text"
+        },
+        {
+          "text": "shall",
+          "kind": "supplied"
+        },
+        {
+          "text": " his habitation ",
+          "kind": "text"
+        },
+        {
+          "text": "be",
+          "kind": "supplied"
+        },
+        {
+          "text": ".",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.13.47",
+      "edition_verse_id": "KJV1769:LEV.13.47",
+      "verse": 47,
+      "spans": [
+        {
+          "text": "¶ The garment also that the plague of leprosy is in, ",
+          "kind": "text"
+        },
+        {
+          "text": "whether it be",
+          "kind": "supplied"
+        },
+        {
+          "text": " a woollen garment, or a linen garment;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LEV.13.48",
+      "edition_verse_id": "KJV1769:LEV.13.48",
+      "verse": 48,
+      "spans": [
+        {
+          "text": "Whether ",
+          "kind": "text"
+        },
+        {
+          "text": "it be",
+          "kind": "supplied"
+        },
+        {
+          "text": " in the warp, or woof; of linen, or of woollen; whether in a skin, or in any thing made of skin;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.13.49",
+      "edition_verse_id": "KJV1769:LEV.13.49",
+      "verse": 49,
+      "spans": [
+        {
+          "text": "And if the plague be greenish or reddish in the garment, or in the skin, either in the warp, or in the woof, or in any thing of skin; it ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " a plague of leprosy, and shall be shewed unto the priest:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.13.50",
+      "edition_verse_id": "KJV1769:LEV.13.50",
+      "verse": 50,
+      "spans": [
+        {
+          "text": "And the priest shall look upon the plague, and shut up ",
+          "kind": "text"
+        },
+        {
+          "text": "it that hath",
+          "kind": "supplied"
+        },
+        {
+          "text": " the plague seven days:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.13.51",
+      "edition_verse_id": "KJV1769:LEV.13.51",
+      "verse": 51,
+      "spans": [
+        {
+          "text": "And he shall look on the plague on the seventh day: if the plague be spread in the garment, either in the warp, or in the woof, or in a skin, ",
+          "kind": "text"
+        },
+        {
+          "text": "or",
+          "kind": "supplied"
+        },
+        {
+          "text": " in any work that is made of skin; the plague ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " a fretting leprosy; it ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " unclean.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.13.52",
+      "edition_verse_id": "KJV1769:LEV.13.52",
+      "verse": 52,
+      "spans": [
+        {
+          "text": "He shall therefore burn that garment, whether warp or woof, in woollen or in linen, or any thing of skin, wherein the plague is: for it ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " a fretting leprosy; it shall be burnt in the fire.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.13.53",
+      "edition_verse_id": "KJV1769:LEV.13.53",
+      "verse": 53,
+      "spans": [
+        {
+          "text": "And if the priest shall look, and, behold, the plague be not spread in the garment, either in the warp, or in the woof, or in any thing of skin;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.13.54",
+      "edition_verse_id": "KJV1769:LEV.13.54",
+      "verse": 54,
+      "spans": [
+        {
+          "text": "Then the priest shall command that they wash ",
+          "kind": "text"
+        },
+        {
+          "text": "the thing",
+          "kind": "supplied"
+        },
+        {
+          "text": " wherein the plague ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": ", and he shall shut it up seven days more:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.13.55",
+      "edition_verse_id": "KJV1769:LEV.13.55",
+      "verse": 55,
+      "spans": [
+        {
+          "text": "And the priest shall look on the plague, after that it is washed: and, behold, ",
+          "kind": "text"
+        },
+        {
+          "text": "if",
+          "kind": "supplied"
+        },
+        {
+          "text": " the plague have not changed his colour, and the plague be not spread; it ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " unclean; thou shalt burn it in the fire; it ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " fret inward, ",
+          "kind": "text"
+        },
+        {
+          "text": "whether",
+          "kind": "supplied"
+        },
+        {
+          "text": " it ",
+          "kind": "text"
+        },
+        {
+          "text": "be",
+          "kind": "supplied"
+        },
+        {
+          "text": " bare within or without.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.13.56",
+      "edition_verse_id": "KJV1769:LEV.13.56",
+      "verse": 56,
+      "spans": [
+        {
+          "text": "And if the priest look, and, behold, the plague ",
+          "kind": "text"
+        },
+        {
+          "text": "be",
+          "kind": "supplied"
+        },
+        {
+          "text": " somewhat dark after the washing of it; then he shall rend it out of the garment, or out of the skin, or out of the warp, or out of the woof:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.13.57",
+      "edition_verse_id": "KJV1769:LEV.13.57",
+      "verse": 57,
+      "spans": [
+        {
+          "text": "And if it appear still in the garment, either in the warp, or in the woof, or in any thing of skin; it ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " a spreading ",
+          "kind": "text"
+        },
+        {
+          "text": "plague:",
+          "kind": "supplied"
+        },
+        {
+          "text": " thou shalt burn that wherein the plague ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " with fire.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.13.58",
+      "edition_verse_id": "KJV1769:LEV.13.58",
+      "verse": 58,
+      "spans": [
+        {
+          "text": "And the garment, either warp, or woof, or whatsoever thing of skin ",
+          "kind": "text"
+        },
+        {
+          "text": "it be",
+          "kind": "supplied"
+        },
+        {
+          "text": ", which thou shalt wash, if the plague be departed from them, then it shall be washed the second time, and shall be clean.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.13.59",
+      "edition_verse_id": "KJV1769:LEV.13.59",
+      "verse": 59,
+      "spans": [
+        {
+          "text": "This ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " the law of the plague of leprosy in a garment of woollen or linen, either in the warp, or woof, or any thing of skins, to pronounce it clean, or to pronounce it unclean.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

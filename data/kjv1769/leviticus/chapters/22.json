@@ -1,0 +1,660 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "KJV1769",
+  "book_code": "LEV",
+  "chapter": 22,
+  "verses": [
+    {
+      "id": "LEV.22.1",
+      "edition_verse_id": "KJV1769:LEV.22.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "And the LORD spake unto Moses, saying,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LEV.22.2",
+      "edition_verse_id": "KJV1769:LEV.22.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "Speak unto Aaron and to his sons, that they separate themselves from the holy things of the children of Israel, and that they profane not my holy name ",
+          "kind": "text"
+        },
+        {
+          "text": "in those things",
+          "kind": "supplied"
+        },
+        {
+          "text": " which they hallow unto me: I ",
+          "kind": "text"
+        },
+        {
+          "text": "am",
+          "kind": "supplied"
+        },
+        {
+          "text": " the LORD.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.22.3",
+      "edition_verse_id": "KJV1769:LEV.22.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "Say unto them, Whosoever ",
+          "kind": "text"
+        },
+        {
+          "text": "he be",
+          "kind": "supplied"
+        },
+        {
+          "text": " of all your seed among your generations, that goeth unto the holy things, which the children of Israel hallow unto the LORD, having his uncleanness upon him, that soul shall be cut off from my presence: I ",
+          "kind": "text"
+        },
+        {
+          "text": "am",
+          "kind": "supplied"
+        },
+        {
+          "text": " the LORD.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.22.4",
+      "edition_verse_id": "KJV1769:LEV.22.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "What man soever of the seed of Aaron ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " a leper, or hath a running issue; he shall not eat of the holy things, until he be clean. And whoso toucheth any thing ",
+          "kind": "text"
+        },
+        {
+          "text": "that is",
+          "kind": "supplied"
+        },
+        {
+          "text": " unclean ",
+          "kind": "text"
+        },
+        {
+          "text": "by",
+          "kind": "supplied"
+        },
+        {
+          "text": " the dead, or a man whose seed goeth from him;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.22.5",
+      "edition_verse_id": "KJV1769:LEV.22.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "Or whosoever toucheth any creeping thing, whereby he may be made unclean, or a man of whom he may take uncleanness, whatsoever uncleanness he hath;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.22.6",
+      "edition_verse_id": "KJV1769:LEV.22.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "The soul which hath touched any such shall be unclean until even, and shall not eat of the holy things, unless he wash his flesh with water.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.22.7",
+      "edition_verse_id": "KJV1769:LEV.22.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "And when the sun is down, he shall be clean, and shall afterward eat of the holy things; because it ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " his food.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.22.8",
+      "edition_verse_id": "KJV1769:LEV.22.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "That which dieth of itself, or is torn ",
+          "kind": "text"
+        },
+        {
+          "text": "with beasts",
+          "kind": "supplied"
+        },
+        {
+          "text": ", he shall not eat to defile himself therewith: I ",
+          "kind": "text"
+        },
+        {
+          "text": "am",
+          "kind": "supplied"
+        },
+        {
+          "text": " the LORD.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.22.9",
+      "edition_verse_id": "KJV1769:LEV.22.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "They shall therefore keep mine ordinance, lest they bear sin for it, and die therefore, if they profane it: I the LORD do sanctify them.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.22.10",
+      "edition_verse_id": "KJV1769:LEV.22.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "There shall no stranger eat ",
+          "kind": "text"
+        },
+        {
+          "text": "of",
+          "kind": "supplied"
+        },
+        {
+          "text": " the holy thing: a sojourner of the priest, or an hired servant, shall not eat ",
+          "kind": "text"
+        },
+        {
+          "text": "of",
+          "kind": "supplied"
+        },
+        {
+          "text": " the holy thing.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LEV.22.11",
+      "edition_verse_id": "KJV1769:LEV.22.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "But if the priest buy ",
+          "kind": "text"
+        },
+        {
+          "text": "any",
+          "kind": "supplied"
+        },
+        {
+          "text": " soul with his money, he shall eat of it, and he that is born in his house: they shall eat of his meat.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.22.12",
+      "edition_verse_id": "KJV1769:LEV.22.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "If the priest’s daughter also be ",
+          "kind": "text"
+        },
+        {
+          "text": "married",
+          "kind": "supplied"
+        },
+        {
+          "text": " unto a stranger, she may not eat of an offering of the holy things.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.22.13",
+      "edition_verse_id": "KJV1769:LEV.22.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "But if the priest’s daughter be a widow, or divorced, and have no child, and is returned unto her father’s house, as in her youth, she shall eat of her father’s meat: but there shall no stranger eat thereof.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.22.14",
+      "edition_verse_id": "KJV1769:LEV.22.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "¶ And if a man eat ",
+          "kind": "text"
+        },
+        {
+          "text": "of",
+          "kind": "supplied"
+        },
+        {
+          "text": " the holy thing unwittingly, then he shall put the fifth ",
+          "kind": "text"
+        },
+        {
+          "text": "part",
+          "kind": "supplied"
+        },
+        {
+          "text": " thereof unto it, and shall give ",
+          "kind": "text"
+        },
+        {
+          "text": "it",
+          "kind": "supplied"
+        },
+        {
+          "text": " unto the priest with the holy thing.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LEV.22.15",
+      "edition_verse_id": "KJV1769:LEV.22.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "And they shall not profane the holy things of the children of Israel, which they offer unto the LORD;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.22.16",
+      "edition_verse_id": "KJV1769:LEV.22.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "Or suffer them to bear the iniquity of trespass, when they eat their holy things: for I the LORD do sanctify them.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.22.17",
+      "edition_verse_id": "KJV1769:LEV.22.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "¶ And the LORD spake unto Moses, saying,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LEV.22.18",
+      "edition_verse_id": "KJV1769:LEV.22.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "Speak unto Aaron, and to his sons, and unto all the children of Israel, and say unto them, Whatsoever ",
+          "kind": "text"
+        },
+        {
+          "text": "he be",
+          "kind": "supplied"
+        },
+        {
+          "text": " of the house of Israel, or of the strangers in Israel, that will offer his oblation for all his vows, and for all his freewill offerings, which they will offer unto the LORD for a burnt offering;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.22.19",
+      "edition_verse_id": "KJV1769:LEV.22.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "Ye shall offer",
+          "kind": "supplied"
+        },
+        {
+          "text": " at your own will a male without blemish, of the beeves, of the sheep, or of the goats.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.22.20",
+      "edition_verse_id": "KJV1769:LEV.22.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "But",
+          "kind": "supplied"
+        },
+        {
+          "text": " whatsoever hath a blemish, ",
+          "kind": "text"
+        },
+        {
+          "text": "that",
+          "kind": "supplied"
+        },
+        {
+          "text": " shall ye not offer: for it shall not be acceptable for you.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.22.21",
+      "edition_verse_id": "KJV1769:LEV.22.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "And whosoever offereth a sacrifice of peace offerings unto the LORD to accomplish ",
+          "kind": "text"
+        },
+        {
+          "text": "his",
+          "kind": "supplied"
+        },
+        {
+          "text": " vow, or a freewill offering in beeves or sheep, it shall be perfect to be accepted; there shall be no blemish therein.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.22.22",
+      "edition_verse_id": "KJV1769:LEV.22.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "Blind, or broken, or maimed, or having a wen, or scurvy, or scabbed, ye shall not offer these unto the LORD, nor make an offering by fire of them upon the altar unto the LORD.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.22.23",
+      "edition_verse_id": "KJV1769:LEV.22.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "Either a bullock or a lamb that hath any thing superfluous or lacking in his parts, that mayest thou offer ",
+          "kind": "text"
+        },
+        {
+          "text": "for",
+          "kind": "supplied"
+        },
+        {
+          "text": " a freewill offering; but for a vow it shall not be accepted.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.22.24",
+      "edition_verse_id": "KJV1769:LEV.22.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "Ye shall not offer unto the LORD that which is bruised, or crushed, or broken, or cut; neither shall ye make ",
+          "kind": "text"
+        },
+        {
+          "text": "any offering thereof",
+          "kind": "supplied"
+        },
+        {
+          "text": " in your land.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.22.25",
+      "edition_verse_id": "KJV1769:LEV.22.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "Neither from a stranger’s hand shall ye offer the bread of your God of any of these; because their corruption ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " in them, ",
+          "kind": "text"
+        },
+        {
+          "text": "and",
+          "kind": "supplied"
+        },
+        {
+          "text": " blemishes ",
+          "kind": "text"
+        },
+        {
+          "text": "be",
+          "kind": "supplied"
+        },
+        {
+          "text": " in them: they shall not be accepted for you.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.22.26",
+      "edition_verse_id": "KJV1769:LEV.22.26",
+      "verse": 26,
+      "spans": [
+        {
+          "text": "¶ And the LORD spake unto Moses, saying,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LEV.22.27",
+      "edition_verse_id": "KJV1769:LEV.22.27",
+      "verse": 27,
+      "spans": [
+        {
+          "text": "When a bullock, or a sheep, or a goat, is brought forth, then it shall be seven days under the dam; and from the eighth day and thenceforth it shall be accepted for an offering made by fire unto the LORD.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.22.28",
+      "edition_verse_id": "KJV1769:LEV.22.28",
+      "verse": 28,
+      "spans": [
+        {
+          "text": "And ",
+          "kind": "text"
+        },
+        {
+          "text": "whether it be",
+          "kind": "supplied"
+        },
+        {
+          "text": " cow or ewe, ye shall not kill it and her young both in one day.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.22.29",
+      "edition_verse_id": "KJV1769:LEV.22.29",
+      "verse": 29,
+      "spans": [
+        {
+          "text": "And when ye will offer a sacrifice of thanksgiving unto the LORD, offer ",
+          "kind": "text"
+        },
+        {
+          "text": "it",
+          "kind": "supplied"
+        },
+        {
+          "text": " at your own will.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.22.30",
+      "edition_verse_id": "KJV1769:LEV.22.30",
+      "verse": 30,
+      "spans": [
+        {
+          "text": "On the same day it shall be eaten up; ye shall leave none of it until the morrow: I ",
+          "kind": "text"
+        },
+        {
+          "text": "am",
+          "kind": "supplied"
+        },
+        {
+          "text": " the LORD.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.22.31",
+      "edition_verse_id": "KJV1769:LEV.22.31",
+      "verse": 31,
+      "spans": [
+        {
+          "text": "Therefore shall ye keep my commandments, and do them: I ",
+          "kind": "text"
+        },
+        {
+          "text": "am",
+          "kind": "supplied"
+        },
+        {
+          "text": " the LORD.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.22.32",
+      "edition_verse_id": "KJV1769:LEV.22.32",
+      "verse": 32,
+      "spans": [
+        {
+          "text": "Neither shall ye profane my holy name; but I will be hallowed among the children of Israel: I ",
+          "kind": "text"
+        },
+        {
+          "text": "am",
+          "kind": "supplied"
+        },
+        {
+          "text": " the LORD which hallow you,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.22.33",
+      "edition_verse_id": "KJV1769:LEV.22.33",
+      "verse": 33,
+      "spans": [
+        {
+          "text": "That brought you out of the land of Egypt, to be your God: I ",
+          "kind": "text"
+        },
+        {
+          "text": "am",
+          "kind": "supplied"
+        },
+        {
+          "text": " the LORD.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

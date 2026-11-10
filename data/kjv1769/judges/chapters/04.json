@@ -1,0 +1,416 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "KJV1769",
+  "book_code": "JDG",
+  "chapter": 4,
+  "verses": [
+    {
+      "id": "JDG.4.1",
+      "edition_verse_id": "KJV1769:JDG.4.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "And the children of Israel again did evil in the sight of the LORD, when Ehud was dead.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JDG.4.2",
+      "edition_verse_id": "KJV1769:JDG.4.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "And the LORD sold them into the hand of Jabin king of Canaan, that reigned in Hazor; the captain of whose host ",
+          "kind": "text"
+        },
+        {
+          "text": "was",
+          "kind": "supplied"
+        },
+        {
+          "text": " Sisera, which dwelt in Harosheth of the Gentiles.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JDG.4.3",
+      "edition_verse_id": "KJV1769:JDG.4.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "And the children of Israel cried unto the LORD: for he had nine hundred chariots of iron; and twenty years he mightily oppressed the children of Israel.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JDG.4.4",
+      "edition_verse_id": "KJV1769:JDG.4.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "¶ And Deborah, a prophetess, the wife of Lapidoth, she judged Israel at that time.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JDG.4.5",
+      "edition_verse_id": "KJV1769:JDG.4.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "And she dwelt under the palm tree of Deborah between Ramah and Beth-el in mount Ephraim: and the children of Israel came up to her for judgment.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JDG.4.6",
+      "edition_verse_id": "KJV1769:JDG.4.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "And she sent and called Barak the son of Abinoam out of Kedesh-naphtali, and said unto him, Hath not the LORD God of Israel commanded, ",
+          "kind": "text"
+        },
+        {
+          "text": "saying",
+          "kind": "supplied"
+        },
+        {
+          "text": ", Go and draw toward mount Tabor, and take with thee ten thousand men of the children of Naphtali and of the children of Zebulun?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JDG.4.7",
+      "edition_verse_id": "KJV1769:JDG.4.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "And I will draw unto thee to the river Kishon Sisera, the captain of Jabin’s army, with his chariots and his multitude; and I will deliver him into thine hand.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JDG.4.8",
+      "edition_verse_id": "KJV1769:JDG.4.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "And Barak said unto her, If thou wilt go with me, then I will go: but if thou wilt not go with me, ",
+          "kind": "text"
+        },
+        {
+          "text": "then",
+          "kind": "supplied"
+        },
+        {
+          "text": " I will not go.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JDG.4.9",
+      "edition_verse_id": "KJV1769:JDG.4.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "And she said, I will surely go with thee: notwithstanding the journey that thou takest shall not be for thine honour; for the LORD shall sell Sisera into the hand of a woman. And Deborah arose, and went with Barak to Kedesh.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JDG.4.10",
+      "edition_verse_id": "KJV1769:JDG.4.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "¶ And Barak called Zebulun and Naphtali to Kedesh; and he went up with ten thousand men at his feet: and Deborah went up with him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JDG.4.11",
+      "edition_verse_id": "KJV1769:JDG.4.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "Now Heber the Kenite, ",
+          "kind": "text"
+        },
+        {
+          "text": "which was",
+          "kind": "supplied"
+        },
+        {
+          "text": " of the children of Hobab the father in law of Moses, had severed himself from the Kenites, and pitched his tent unto the plain of Zaanaim, which ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " by Kedesh.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JDG.4.12",
+      "edition_verse_id": "KJV1769:JDG.4.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "And they shewed Sisera that Barak the son of Abinoam was gone up to mount Tabor.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JDG.4.13",
+      "edition_verse_id": "KJV1769:JDG.4.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "And Sisera gathered together all his chariots, ",
+          "kind": "text"
+        },
+        {
+          "text": "even",
+          "kind": "supplied"
+        },
+        {
+          "text": " nine hundred chariots of iron, and all the people that ",
+          "kind": "text"
+        },
+        {
+          "text": "were",
+          "kind": "supplied"
+        },
+        {
+          "text": " with him, from Harosheth of the Gentiles unto the river of Kishon.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JDG.4.14",
+      "edition_verse_id": "KJV1769:JDG.4.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "And Deborah said unto Barak, Up; for this ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " the day in which the LORD hath delivered Sisera into thine hand: is not the LORD gone out before thee? So Barak went down from mount Tabor, and ten thousand men after him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JDG.4.15",
+      "edition_verse_id": "KJV1769:JDG.4.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "And the LORD discomfited Sisera, and all ",
+          "kind": "text"
+        },
+        {
+          "text": "his",
+          "kind": "supplied"
+        },
+        {
+          "text": " chariots, and all ",
+          "kind": "text"
+        },
+        {
+          "text": "his",
+          "kind": "supplied"
+        },
+        {
+          "text": " host, with the edge of the sword before Barak; so that Sisera lighted down off ",
+          "kind": "text"
+        },
+        {
+          "text": "his",
+          "kind": "supplied"
+        },
+        {
+          "text": " chariot, and fled away on his feet.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JDG.4.16",
+      "edition_verse_id": "KJV1769:JDG.4.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "But Barak pursued after the chariots, and after the host, unto Harosheth of the Gentiles: and all the host of Sisera fell upon the edge of the sword; ",
+          "kind": "text"
+        },
+        {
+          "text": "and",
+          "kind": "supplied"
+        },
+        {
+          "text": " there was not a man left.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JDG.4.17",
+      "edition_verse_id": "KJV1769:JDG.4.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "Howbeit Sisera fled away on his feet to the tent of Jael the wife of Heber the Kenite: for ",
+          "kind": "text"
+        },
+        {
+          "text": "there was",
+          "kind": "supplied"
+        },
+        {
+          "text": " peace between Jabin the king of Hazor and the house of Heber the Kenite.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JDG.4.18",
+      "edition_verse_id": "KJV1769:JDG.4.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "¶ And Jael went out to meet Sisera, and said unto him, Turn in, my lord, turn in to me; fear not. And when he had turned in unto her into the tent, she covered him with a mantle.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JDG.4.19",
+      "edition_verse_id": "KJV1769:JDG.4.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "And he said unto her, Give me, I pray thee, a little water to drink; for I am thirsty. And she opened a bottle of milk, and gave him drink, and covered him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JDG.4.20",
+      "edition_verse_id": "KJV1769:JDG.4.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "Again he said unto her, Stand in the door of the tent, and it shall be, when any man doth come and enquire of thee, and say, Is there any man here? that thou shalt say, No.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JDG.4.21",
+      "edition_verse_id": "KJV1769:JDG.4.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "Then Jael Heber’s wife took a nail of the tent, and took an hammer in her hand, and went softly unto him, and smote the nail into his temples, and fastened it into the ground: for he was fast asleep and weary. So he died.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JDG.4.22",
+      "edition_verse_id": "KJV1769:JDG.4.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "And, behold, as Barak pursued Sisera, Jael came out to meet him, and said unto him, Come, and I will shew thee the man whom thou seekest. And when he came into her ",
+          "kind": "text"
+        },
+        {
+          "text": "tent",
+          "kind": "supplied"
+        },
+        {
+          "text": ", behold, Sisera lay dead, and the nail ",
+          "kind": "text"
+        },
+        {
+          "text": "was",
+          "kind": "supplied"
+        },
+        {
+          "text": " in his temples.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JDG.4.23",
+      "edition_verse_id": "KJV1769:JDG.4.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "So God subdued on that day Jabin the king of Canaan before the children of Israel.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JDG.4.24",
+      "edition_verse_id": "KJV1769:JDG.4.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "And the hand of the children of Israel prospered, and prevailed against Jabin the king of Canaan, until they had destroyed Jabin king of Canaan.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

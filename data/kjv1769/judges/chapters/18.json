@@ -1,0 +1,668 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "KJV1769",
+  "book_code": "JDG",
+  "chapter": 18,
+  "verses": [
+    {
+      "id": "JDG.18.1",
+      "edition_verse_id": "KJV1769:JDG.18.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "In those days ",
+          "kind": "text"
+        },
+        {
+          "text": "there was",
+          "kind": "supplied"
+        },
+        {
+          "text": " no king in Israel: and in those days the tribe of the Danites sought them an inheritance to dwell in; for unto that day ",
+          "kind": "text"
+        },
+        {
+          "text": "all their",
+          "kind": "supplied"
+        },
+        {
+          "text": " inheritance had not fallen unto them among the tribes of Israel.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JDG.18.2",
+      "edition_verse_id": "KJV1769:JDG.18.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "And the children of Dan sent of their family five men from their coasts, men of valour, from Zorah, and from Eshtaol, to spy out the land, and to search it; and they said unto them, Go, search the land: who when they came to mount Ephraim, to the house of Micah, they lodged there.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JDG.18.3",
+      "edition_verse_id": "KJV1769:JDG.18.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "When they ",
+          "kind": "text"
+        },
+        {
+          "text": "were",
+          "kind": "supplied"
+        },
+        {
+          "text": " by the house of Micah, they knew the voice of the young man the Levite: and they turned in thither, and said unto him, Who brought thee hither? and what makest thou in this ",
+          "kind": "text"
+        },
+        {
+          "text": "place",
+          "kind": "supplied"
+        },
+        {
+          "text": "? and what hast thou here?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JDG.18.4",
+      "edition_verse_id": "KJV1769:JDG.18.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "And he said unto them, Thus and thus dealeth Micah with me, and hath hired me, and I am his priest.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JDG.18.5",
+      "edition_verse_id": "KJV1769:JDG.18.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "And they said unto him, Ask counsel, we pray thee, of God, that we may know whether our way which we go shall be prosperous.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JDG.18.6",
+      "edition_verse_id": "KJV1769:JDG.18.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "And the priest said unto them, Go in peace: before the LORD ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " your way wherein ye go.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JDG.18.7",
+      "edition_verse_id": "KJV1769:JDG.18.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "¶ Then the five men departed, and came to Laish, and saw the people that ",
+          "kind": "text"
+        },
+        {
+          "text": "were",
+          "kind": "supplied"
+        },
+        {
+          "text": " therein, how they dwelt careless, after the manner of the Zidonians, quiet and secure; and ",
+          "kind": "text"
+        },
+        {
+          "text": "there was",
+          "kind": "supplied"
+        },
+        {
+          "text": " no magistrate in the land, that might put ",
+          "kind": "text"
+        },
+        {
+          "text": "them",
+          "kind": "supplied"
+        },
+        {
+          "text": " to shame in ",
+          "kind": "text"
+        },
+        {
+          "text": "any",
+          "kind": "supplied"
+        },
+        {
+          "text": " thing; and they ",
+          "kind": "text"
+        },
+        {
+          "text": "were",
+          "kind": "supplied"
+        },
+        {
+          "text": " far from the Zidonians, and had no business with ",
+          "kind": "text"
+        },
+        {
+          "text": "any",
+          "kind": "supplied"
+        },
+        {
+          "text": " man.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JDG.18.8",
+      "edition_verse_id": "KJV1769:JDG.18.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "And they came unto their brethren to Zorah and Eshtaol: and their brethren said unto them, What ",
+          "kind": "text"
+        },
+        {
+          "text": "say",
+          "kind": "supplied"
+        },
+        {
+          "text": " ye?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JDG.18.9",
+      "edition_verse_id": "KJV1769:JDG.18.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "And they said, Arise, that we may go up against them: for we have seen the land, and, behold, it ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " very good: and ",
+          "kind": "text"
+        },
+        {
+          "text": "are",
+          "kind": "supplied"
+        },
+        {
+          "text": " ye still? be not slothful to go, ",
+          "kind": "text"
+        },
+        {
+          "text": "and",
+          "kind": "supplied"
+        },
+        {
+          "text": " to enter to possess the land.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JDG.18.10",
+      "edition_verse_id": "KJV1769:JDG.18.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "When ye go, ye shall come unto a people secure, and to a large land: for God hath given it into your hands; a place where ",
+          "kind": "text"
+        },
+        {
+          "text": "there is",
+          "kind": "supplied"
+        },
+        {
+          "text": " no want of any thing that ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " in the earth.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JDG.18.11",
+      "edition_verse_id": "KJV1769:JDG.18.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "¶ And there went from thence of the family of the Danites, out of Zorah and out of Eshtaol, six hundred men appointed with weapons of war.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JDG.18.12",
+      "edition_verse_id": "KJV1769:JDG.18.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "And they went up, and pitched in Kirjath-jearim, in Judah: wherefore they called that place Mahaneh-dan unto this day: behold, ",
+          "kind": "text"
+        },
+        {
+          "text": "it is",
+          "kind": "supplied"
+        },
+        {
+          "text": " behind Kirjath-jearim.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JDG.18.13",
+      "edition_verse_id": "KJV1769:JDG.18.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "And they passed thence unto mount Ephraim, and came unto the house of Micah.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JDG.18.14",
+      "edition_verse_id": "KJV1769:JDG.18.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "¶ Then answered the five men that went to spy out the country of Laish, and said unto their brethren, Do ye know that there is in these houses an ephod, and teraphim, and a graven image, and a molten image? now therefore consider what ye have to do.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JDG.18.15",
+      "edition_verse_id": "KJV1769:JDG.18.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "And they turned thitherward, and came to the house of the young man the Levite, ",
+          "kind": "text"
+        },
+        {
+          "text": "even",
+          "kind": "supplied"
+        },
+        {
+          "text": " unto the house of Micah, and saluted him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JDG.18.16",
+      "edition_verse_id": "KJV1769:JDG.18.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "And the six hundred men appointed with their weapons of war, which ",
+          "kind": "text"
+        },
+        {
+          "text": "were",
+          "kind": "supplied"
+        },
+        {
+          "text": " of the children of Dan, stood by the entering of the gate.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JDG.18.17",
+      "edition_verse_id": "KJV1769:JDG.18.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "And the five men that went to spy out the land went up, ",
+          "kind": "text"
+        },
+        {
+          "text": "and",
+          "kind": "supplied"
+        },
+        {
+          "text": " came in thither, ",
+          "kind": "text"
+        },
+        {
+          "text": "and",
+          "kind": "supplied"
+        },
+        {
+          "text": " took the graven image, and the ephod, and the teraphim, and the molten image: and the priest stood in the entering of the gate with the six hundred men ",
+          "kind": "text"
+        },
+        {
+          "text": "that were",
+          "kind": "supplied"
+        },
+        {
+          "text": " appointed with weapons of war.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JDG.18.18",
+      "edition_verse_id": "KJV1769:JDG.18.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "And these went into Micah’s house, and fetched the carved image, the ephod, and the teraphim, and the molten image. Then said the priest unto them, What do ye?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JDG.18.19",
+      "edition_verse_id": "KJV1769:JDG.18.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "And they said unto him, Hold thy peace, lay thine hand upon thy mouth, and go with us, and be to us a father and a priest: ",
+          "kind": "text"
+        },
+        {
+          "text": "is it",
+          "kind": "supplied"
+        },
+        {
+          "text": " better for thee to be a priest unto the house of one man, or that thou be a priest unto a tribe and a family in Israel?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JDG.18.20",
+      "edition_verse_id": "KJV1769:JDG.18.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "And the priest’s heart was glad, and he took the ephod, and the teraphim, and the graven image, and went in the midst of the people.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JDG.18.21",
+      "edition_verse_id": "KJV1769:JDG.18.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "So they turned and departed, and put the little ones and the cattle and the carriage before them.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JDG.18.22",
+      "edition_verse_id": "KJV1769:JDG.18.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "¶ ",
+          "kind": "text"
+        },
+        {
+          "text": "And",
+          "kind": "supplied"
+        },
+        {
+          "text": " when they were a good way from the house of Micah, the men that ",
+          "kind": "text"
+        },
+        {
+          "text": "were",
+          "kind": "supplied"
+        },
+        {
+          "text": " in the houses near to Micah’s house were gathered together, and overtook the children of Dan.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JDG.18.23",
+      "edition_verse_id": "KJV1769:JDG.18.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "And they cried unto the children of Dan. And they turned their faces, and said unto Micah, What aileth thee, that thou comest with such a company?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JDG.18.24",
+      "edition_verse_id": "KJV1769:JDG.18.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "And he said, Ye have taken away my gods which I made, and the priest, and ye are gone away: and what have I more? and what ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " this ",
+          "kind": "text"
+        },
+        {
+          "text": "that",
+          "kind": "supplied"
+        },
+        {
+          "text": " ye say unto me, What aileth thee?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JDG.18.25",
+      "edition_verse_id": "KJV1769:JDG.18.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "And the children of Dan said unto him, Let not thy voice be heard among us, lest angry fellows run upon thee, and thou lose thy life, with the lives of thy household.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JDG.18.26",
+      "edition_verse_id": "KJV1769:JDG.18.26",
+      "verse": 26,
+      "spans": [
+        {
+          "text": "And the children of Dan went their way: and when Micah saw that they ",
+          "kind": "text"
+        },
+        {
+          "text": "were",
+          "kind": "supplied"
+        },
+        {
+          "text": " too strong for him, he turned and went back unto his house.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JDG.18.27",
+      "edition_verse_id": "KJV1769:JDG.18.27",
+      "verse": 27,
+      "spans": [
+        {
+          "text": "And they took ",
+          "kind": "text"
+        },
+        {
+          "text": "the things",
+          "kind": "supplied"
+        },
+        {
+          "text": " which Micah had made, and the priest which he had, and came unto Laish, unto a people ",
+          "kind": "text"
+        },
+        {
+          "text": "that were",
+          "kind": "supplied"
+        },
+        {
+          "text": " at quiet and secure: and they smote them with the edge of the sword, and burnt the city with fire.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JDG.18.28",
+      "edition_verse_id": "KJV1769:JDG.18.28",
+      "verse": 28,
+      "spans": [
+        {
+          "text": "And ",
+          "kind": "text"
+        },
+        {
+          "text": "there was",
+          "kind": "supplied"
+        },
+        {
+          "text": " no deliverer, because it ",
+          "kind": "text"
+        },
+        {
+          "text": "was",
+          "kind": "supplied"
+        },
+        {
+          "text": " far from Zidon, and they had no business with ",
+          "kind": "text"
+        },
+        {
+          "text": "any",
+          "kind": "supplied"
+        },
+        {
+          "text": " man; and it was in the valley that ",
+          "kind": "text"
+        },
+        {
+          "text": "lieth",
+          "kind": "supplied"
+        },
+        {
+          "text": " by Beth-rehob. And they built a city, and dwelt therein.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JDG.18.29",
+      "edition_verse_id": "KJV1769:JDG.18.29",
+      "verse": 29,
+      "spans": [
+        {
+          "text": "And they called the name of the city Dan, after the name of Dan their father, who was born unto Israel: howbeit the name of the city ",
+          "kind": "text"
+        },
+        {
+          "text": "was",
+          "kind": "supplied"
+        },
+        {
+          "text": " Laish at the first.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JDG.18.30",
+      "edition_verse_id": "KJV1769:JDG.18.30",
+      "verse": 30,
+      "spans": [
+        {
+          "text": "¶ And the children of Dan set up the graven image: and Jonathan, the son of Gershom, the son of Manasseh, he and his sons were priests to the tribe of Dan until the day of the captivity of the land.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JDG.18.31",
+      "edition_verse_id": "KJV1769:JDG.18.31",
+      "verse": 31,
+      "spans": [
+        {
+          "text": "And they set them up Micah’s graven image, which he made, all the time that the house of God was in Shiloh.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

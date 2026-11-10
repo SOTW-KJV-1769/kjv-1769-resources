@@ -1,0 +1,376 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "KJV1769",
+  "book_code": "LEV",
+  "chapter": 10,
+  "verses": [
+    {
+      "id": "LEV.10.1",
+      "edition_verse_id": "KJV1769:LEV.10.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "And Nadab and Abihu, the sons of Aaron, took either of them his censer, and put fire therein, and put incense thereon, and offered strange fire before the LORD, which he commanded them not.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LEV.10.2",
+      "edition_verse_id": "KJV1769:LEV.10.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "And there went out fire from the LORD, and devoured them, and they died before the LORD.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.10.3",
+      "edition_verse_id": "KJV1769:LEV.10.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "Then Moses said unto Aaron, This ",
+          "kind": "text"
+        },
+        {
+          "text": "is it",
+          "kind": "supplied"
+        },
+        {
+          "text": " that the LORD spake, saying, I will be sanctified in them that come nigh me, and before all the people I will be glorified. And Aaron held his peace.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LEV.10.4",
+      "edition_verse_id": "KJV1769:LEV.10.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "And Moses called Mishael and Elzaphan, the sons of Uzziel the uncle of Aaron, and said unto them, Come near, carry your brethren from before the sanctuary out of the camp.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.10.5",
+      "edition_verse_id": "KJV1769:LEV.10.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "So they went near, and carried them in their coats out of the camp; as Moses had said.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.10.6",
+      "edition_verse_id": "KJV1769:LEV.10.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "And Moses said unto Aaron, and unto Eleazar and unto Ithamar, his sons, Uncover not your heads, neither rend your clothes; lest ye die, and lest wrath come upon all the people: but let your brethren, the whole house of Israel, bewail the burning which the LORD hath kindled.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.10.7",
+      "edition_verse_id": "KJV1769:LEV.10.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "And ye shall not go out from the door of the tabernacle of the congregation, lest ye die: for the anointing oil of the LORD ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " upon you. And they did according to the word of Moses.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.10.8",
+      "edition_verse_id": "KJV1769:LEV.10.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "¶ And the LORD spake unto Aaron, saying,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LEV.10.9",
+      "edition_verse_id": "KJV1769:LEV.10.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "Do not drink wine nor strong drink, thou, nor thy sons with thee, when ye go into the tabernacle of the congregation, lest ye die: ",
+          "kind": "text"
+        },
+        {
+          "text": "it shall be",
+          "kind": "supplied"
+        },
+        {
+          "text": " a statute for ever throughout your generations:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.10.10",
+      "edition_verse_id": "KJV1769:LEV.10.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "And that ye may put difference between holy and unholy, and between unclean and clean;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.10.11",
+      "edition_verse_id": "KJV1769:LEV.10.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "And that ye may teach the children of Israel all the statutes which the LORD hath spoken unto them by the hand of Moses.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.10.12",
+      "edition_verse_id": "KJV1769:LEV.10.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "¶ And Moses spake unto Aaron, and unto Eleazar and unto Ithamar, his sons that were left, Take the meat offering that remaineth of the offerings of the LORD made by fire, and eat it without leaven beside the altar: for it ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " most holy:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LEV.10.13",
+      "edition_verse_id": "KJV1769:LEV.10.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "And ye shall eat it in the holy place, because it ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " thy due, and thy sons’ due, of the sacrifices of the LORD made by fire: for so I am commanded.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.10.14",
+      "edition_verse_id": "KJV1769:LEV.10.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "And the wave breast and heave shoulder shall ye eat in a clean place; thou, and thy sons, and thy daughters with thee: for ",
+          "kind": "text"
+        },
+        {
+          "text": "they be",
+          "kind": "supplied"
+        },
+        {
+          "text": " thy due, and thy sons’ due, ",
+          "kind": "text"
+        },
+        {
+          "text": "which",
+          "kind": "supplied"
+        },
+        {
+          "text": " are given out of the sacrifices of peace offerings of the children of Israel.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.10.15",
+      "edition_verse_id": "KJV1769:LEV.10.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "The heave shoulder and the wave breast shall they bring with the offerings made by fire of the fat, to wave ",
+          "kind": "text"
+        },
+        {
+          "text": "it for",
+          "kind": "supplied"
+        },
+        {
+          "text": " a wave offering before the LORD; and it shall be thine, and thy sons’ with thee, by a statute for ever; as the LORD hath commanded.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.10.16",
+      "edition_verse_id": "KJV1769:LEV.10.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "¶ And Moses diligently sought the goat of the sin offering, and, behold, it was burnt: and he was angry with Eleazar and Ithamar, the sons of Aaron ",
+          "kind": "text"
+        },
+        {
+          "text": "which were",
+          "kind": "supplied"
+        },
+        {
+          "text": " left ",
+          "kind": "text"
+        },
+        {
+          "text": "alive",
+          "kind": "supplied"
+        },
+        {
+          "text": ", saying,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LEV.10.17",
+      "edition_verse_id": "KJV1769:LEV.10.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "Wherefore have ye not eaten the sin offering in the holy place, seeing it ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " most holy, and ",
+          "kind": "text"
+        },
+        {
+          "text": "God",
+          "kind": "supplied"
+        },
+        {
+          "text": " hath given it you to bear the iniquity of the congregation, to make atonement for them before the LORD?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.10.18",
+      "edition_verse_id": "KJV1769:LEV.10.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "Behold, the blood of it was not brought in within the holy ",
+          "kind": "text"
+        },
+        {
+          "text": "place:",
+          "kind": "supplied"
+        },
+        {
+          "text": " ye should indeed have eaten it in the holy ",
+          "kind": "text"
+        },
+        {
+          "text": "place",
+          "kind": "supplied"
+        },
+        {
+          "text": ", as I commanded.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.10.19",
+      "edition_verse_id": "KJV1769:LEV.10.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "And Aaron said unto Moses, Behold, this day have they offered their sin offering and their burnt offering before the LORD; and such things have befallen me: and ",
+          "kind": "text"
+        },
+        {
+          "text": "if",
+          "kind": "supplied"
+        },
+        {
+          "text": " I had eaten the sin offering to day, should it have been accepted in the sight of the LORD?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.10.20",
+      "edition_verse_id": "KJV1769:LEV.10.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "And when Moses heard ",
+          "kind": "text"
+        },
+        {
+          "text": "that",
+          "kind": "supplied"
+        },
+        {
+          "text": ", he was content.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

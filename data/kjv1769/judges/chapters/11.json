@@ -1,0 +1,620 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "KJV1769",
+  "book_code": "JDG",
+  "chapter": 11,
+  "verses": [
+    {
+      "id": "JDG.11.1",
+      "edition_verse_id": "KJV1769:JDG.11.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "Now Jephthah the Gileadite was a mighty man of valour, and he ",
+          "kind": "text"
+        },
+        {
+          "text": "was",
+          "kind": "supplied"
+        },
+        {
+          "text": " the son of an harlot: and Gilead begat Jephthah.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JDG.11.2",
+      "edition_verse_id": "KJV1769:JDG.11.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "And Gilead’s wife bare him sons; and his wife’s sons grew up, and they thrust out Jephthah, and said unto him, Thou shalt not inherit in our father’s house; for thou ",
+          "kind": "text"
+        },
+        {
+          "text": "art",
+          "kind": "supplied"
+        },
+        {
+          "text": " the son of a strange woman.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JDG.11.3",
+      "edition_verse_id": "KJV1769:JDG.11.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "Then Jephthah fled from his brethren, and dwelt in the land of Tob: and there were gathered vain men to Jephthah, and went out with him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JDG.11.4",
+      "edition_verse_id": "KJV1769:JDG.11.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "¶ And it came to pass in process of time, that the children of Ammon made war against Israel.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JDG.11.5",
+      "edition_verse_id": "KJV1769:JDG.11.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "And it was so, that when the children of Ammon made war against Israel, the elders of Gilead went to fetch Jephthah out of the land of Tob:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JDG.11.6",
+      "edition_verse_id": "KJV1769:JDG.11.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "And they said unto Jephthah, Come, and be our captain, that we may fight with the children of Ammon.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JDG.11.7",
+      "edition_verse_id": "KJV1769:JDG.11.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "And Jephthah said unto the elders of Gilead, Did not ye hate me, and expel me out of my father’s house? and why are ye come unto me now when ye are in distress?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JDG.11.8",
+      "edition_verse_id": "KJV1769:JDG.11.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "And the elders of Gilead said unto Jephthah, Therefore we turn again to thee now, that thou mayest go with us, and fight against the children of Ammon, and be our head over all the inhabitants of Gilead.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JDG.11.9",
+      "edition_verse_id": "KJV1769:JDG.11.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "And Jephthah said unto the elders of Gilead, If ye bring me home again to fight against the children of Ammon, and the LORD deliver them before me, shall I be your head?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JDG.11.10",
+      "edition_verse_id": "KJV1769:JDG.11.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "And the elders of Gilead said unto Jephthah, The LORD be witness between us, if we do not so according to thy words.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JDG.11.11",
+      "edition_verse_id": "KJV1769:JDG.11.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "Then Jephthah went with the elders of Gilead, and the people made him head and captain over them: and Jephthah uttered all his words before the LORD in Mizpeh.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JDG.11.12",
+      "edition_verse_id": "KJV1769:JDG.11.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "¶ And Jephthah sent messengers unto the king of the children of Ammon, saying, What hast thou to do with me, that thou art come against me to fight in my land?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JDG.11.13",
+      "edition_verse_id": "KJV1769:JDG.11.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "And the king of the children of Ammon answered unto the messengers of Jephthah, Because Israel took away my land, when they came up out of Egypt, from Arnon even unto Jabbok, and unto Jordan: now therefore restore those ",
+          "kind": "text"
+        },
+        {
+          "text": "lands",
+          "kind": "supplied"
+        },
+        {
+          "text": " again peaceably.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JDG.11.14",
+      "edition_verse_id": "KJV1769:JDG.11.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "And Jephthah sent messengers again unto the king of the children of Ammon:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JDG.11.15",
+      "edition_verse_id": "KJV1769:JDG.11.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "And said unto him, Thus saith Jephthah, Israel took not away the land of Moab, nor the land of the children of Ammon:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JDG.11.16",
+      "edition_verse_id": "KJV1769:JDG.11.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "But when Israel came up from Egypt, and walked through the wilderness unto the Red sea, and came to Kadesh;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JDG.11.17",
+      "edition_verse_id": "KJV1769:JDG.11.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "Then Israel sent messengers unto the king of Edom, saying, Let me, I pray thee, pass through thy land: but the king of Edom would not hearken ",
+          "kind": "text"
+        },
+        {
+          "text": "thereto",
+          "kind": "supplied"
+        },
+        {
+          "text": ". And in like manner they sent unto the king of Moab: but he would not ",
+          "kind": "text"
+        },
+        {
+          "text": "consent:",
+          "kind": "supplied"
+        },
+        {
+          "text": " and Israel abode in Kadesh.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JDG.11.18",
+      "edition_verse_id": "KJV1769:JDG.11.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "Then they went along through the wilderness, and compassed the land of Edom, and the land of Moab, and came by the east side of the land of Moab, and pitched on the other side of Arnon, but came not within the border of Moab: for Arnon ",
+          "kind": "text"
+        },
+        {
+          "text": "was",
+          "kind": "supplied"
+        },
+        {
+          "text": " the border of Moab.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JDG.11.19",
+      "edition_verse_id": "KJV1769:JDG.11.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "And Israel sent messengers unto Sihon king of the Amorites, the king of Heshbon; and Israel said unto him, Let us pass, we pray thee, through thy land into my place.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JDG.11.20",
+      "edition_verse_id": "KJV1769:JDG.11.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "But Sihon trusted not Israel to pass through his coast: but Sihon gathered all his people together, and pitched in Jahaz, and fought against Israel.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JDG.11.21",
+      "edition_verse_id": "KJV1769:JDG.11.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "And the LORD God of Israel delivered Sihon and all his people into the hand of Israel, and they smote them: so Israel possessed all the land of the Amorites, the inhabitants of that country.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JDG.11.22",
+      "edition_verse_id": "KJV1769:JDG.11.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "And they possessed all the coasts of the Amorites, from Arnon even unto Jabbok, and from the wilderness even unto Jordan.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JDG.11.23",
+      "edition_verse_id": "KJV1769:JDG.11.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "So now the LORD God of Israel hath dispossessed the Amorites from before his people Israel, and shouldest thou possess it?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JDG.11.24",
+      "edition_verse_id": "KJV1769:JDG.11.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "Wilt not thou possess that which Chemosh thy god giveth thee to possess? So whomsoever the LORD our God shall drive out from before us, them will we possess.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JDG.11.25",
+      "edition_verse_id": "KJV1769:JDG.11.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "And now ",
+          "kind": "text"
+        },
+        {
+          "text": "art",
+          "kind": "supplied"
+        },
+        {
+          "text": " thou any thing better than Balak the son of Zippor, king of Moab? did he ever strive against Israel, or did he ever fight against them,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JDG.11.26",
+      "edition_verse_id": "KJV1769:JDG.11.26",
+      "verse": 26,
+      "spans": [
+        {
+          "text": "While Israel dwelt in Heshbon and her towns, and in Aroer and her towns, and in all the cities that ",
+          "kind": "text"
+        },
+        {
+          "text": "be",
+          "kind": "supplied"
+        },
+        {
+          "text": " along by the coasts of Arnon, three hundred years? why therefore did ye not recover ",
+          "kind": "text"
+        },
+        {
+          "text": "them",
+          "kind": "supplied"
+        },
+        {
+          "text": " within that time?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JDG.11.27",
+      "edition_verse_id": "KJV1769:JDG.11.27",
+      "verse": 27,
+      "spans": [
+        {
+          "text": "Wherefore I have not sinned against thee, but thou doest me wrong to war against me: the LORD the Judge be judge this day between the children of Israel and the children of Ammon.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JDG.11.28",
+      "edition_verse_id": "KJV1769:JDG.11.28",
+      "verse": 28,
+      "spans": [
+        {
+          "text": "Howbeit the king of the children of Ammon hearkened not unto the words of Jephthah which he sent him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JDG.11.29",
+      "edition_verse_id": "KJV1769:JDG.11.29",
+      "verse": 29,
+      "spans": [
+        {
+          "text": "¶ Then the Spirit of the LORD came upon Jephthah, and he passed over Gilead, and Manasseh, and passed over Mizpeh of Gilead, and from Mizpeh of Gilead he passed over ",
+          "kind": "text"
+        },
+        {
+          "text": "unto",
+          "kind": "supplied"
+        },
+        {
+          "text": " the children of Ammon.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JDG.11.30",
+      "edition_verse_id": "KJV1769:JDG.11.30",
+      "verse": 30,
+      "spans": [
+        {
+          "text": "And Jephthah vowed a vow unto the LORD, and said, If thou shalt without fail deliver the children of Ammon into mine hands,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JDG.11.31",
+      "edition_verse_id": "KJV1769:JDG.11.31",
+      "verse": 31,
+      "spans": [
+        {
+          "text": "Then it shall be, that whatsoever cometh forth of the doors of my house to meet me, when I return in peace from the children of Ammon, shall surely be the LORD’s, and I will offer it up for a burnt offering.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JDG.11.32",
+      "edition_verse_id": "KJV1769:JDG.11.32",
+      "verse": 32,
+      "spans": [
+        {
+          "text": "¶ So Jephthah passed over unto the children of Ammon to fight against them; and the LORD delivered them into his hands.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JDG.11.33",
+      "edition_verse_id": "KJV1769:JDG.11.33",
+      "verse": 33,
+      "spans": [
+        {
+          "text": "And he smote them from Aroer, even till thou come to Minnith, ",
+          "kind": "text"
+        },
+        {
+          "text": "even",
+          "kind": "supplied"
+        },
+        {
+          "text": " twenty cities, and unto the plain of the vineyards, with a very great slaughter. Thus the children of Ammon were subdued before the children of Israel.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JDG.11.34",
+      "edition_verse_id": "KJV1769:JDG.11.34",
+      "verse": 34,
+      "spans": [
+        {
+          "text": "¶ And Jephthah came to Mizpeh unto his house, and, behold, his daughter came out to meet him with timbrels and with dances: and she ",
+          "kind": "text"
+        },
+        {
+          "text": "was his",
+          "kind": "supplied"
+        },
+        {
+          "text": " only child; beside her he had neither son nor daughter.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JDG.11.35",
+      "edition_verse_id": "KJV1769:JDG.11.35",
+      "verse": 35,
+      "spans": [
+        {
+          "text": "And it came to pass, when he saw her, that he rent his clothes, and said, Alas, my daughter! thou hast brought me very low, and thou art one of them that trouble me: for I have opened my mouth unto the LORD, and I cannot go back.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JDG.11.36",
+      "edition_verse_id": "KJV1769:JDG.11.36",
+      "verse": 36,
+      "spans": [
+        {
+          "text": "And she said unto him, My father, ",
+          "kind": "text"
+        },
+        {
+          "text": "if",
+          "kind": "supplied"
+        },
+        {
+          "text": " thou hast opened thy mouth unto the LORD, do to me according to that which hath proceeded out of thy mouth; forasmuch as the LORD hath taken vengeance for thee of thine enemies, ",
+          "kind": "text"
+        },
+        {
+          "text": "even",
+          "kind": "supplied"
+        },
+        {
+          "text": " of the children of Ammon.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JDG.11.37",
+      "edition_verse_id": "KJV1769:JDG.11.37",
+      "verse": 37,
+      "spans": [
+        {
+          "text": "And she said unto her father, Let this thing be done for me: let me alone two months, that I may go up and down upon the mountains, and bewail my virginity, I and my fellows.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JDG.11.38",
+      "edition_verse_id": "KJV1769:JDG.11.38",
+      "verse": 38,
+      "spans": [
+        {
+          "text": "And he said, Go. And he sent her away ",
+          "kind": "text"
+        },
+        {
+          "text": "for",
+          "kind": "supplied"
+        },
+        {
+          "text": " two months: and she went with her companions, and bewailed her virginity upon the mountains.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JDG.11.39",
+      "edition_verse_id": "KJV1769:JDG.11.39",
+      "verse": 39,
+      "spans": [
+        {
+          "text": "And it came to pass at the end of two months, that she returned unto her father, who did with her ",
+          "kind": "text"
+        },
+        {
+          "text": "according",
+          "kind": "supplied"
+        },
+        {
+          "text": " to his vow which he had vowed: and she knew no man. And it was a custom in Israel,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JDG.11.40",
+      "edition_verse_id": "KJV1769:JDG.11.40",
+      "verse": 40,
+      "spans": [
+        {
+          "text": "That",
+          "kind": "supplied"
+        },
+        {
+          "text": " the daughters of Israel went yearly to lament the daughter of Jephthah the Gileadite four days in a year.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

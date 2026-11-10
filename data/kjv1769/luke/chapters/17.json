@@ -1,0 +1,572 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "KJV1769",
+  "book_code": "LUK",
+  "chapter": 17,
+  "verses": [
+    {
+      "id": "LUK.17.1",
+      "edition_verse_id": "KJV1769:LUK.17.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "Then said he unto the disciples, It is impossible but that offences will come: but woe ",
+          "kind": "text"
+        },
+        {
+          "text": "unto him",
+          "kind": "supplied"
+        },
+        {
+          "text": ", through whom they come!",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LUK.17.2",
+      "edition_verse_id": "KJV1769:LUK.17.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "It were better for him that a millstone were hanged about his neck, and he cast into the sea, than that he should offend one of these little ones.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.17.3",
+      "edition_verse_id": "KJV1769:LUK.17.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "¶ Take heed to yourselves: If thy brother trespass against thee, rebuke him; and if he repent, forgive him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LUK.17.4",
+      "edition_verse_id": "KJV1769:LUK.17.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "And if he trespass against thee seven times in a day, and seven times in a day turn again to thee, saying, I repent; thou shalt forgive him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.17.5",
+      "edition_verse_id": "KJV1769:LUK.17.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "And the apostles said unto the Lord, Increase our faith.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.17.6",
+      "edition_verse_id": "KJV1769:LUK.17.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "And the Lord said, If ye had faith as a grain of mustard seed, ye might say unto this sycamine tree, Be thou plucked up by the root, and be thou planted in the sea; and it should obey you.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.17.7",
+      "edition_verse_id": "KJV1769:LUK.17.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "But which of you, having a servant plowing or feeding cattle, will say unto him by and by, when he is come from the field, Go and sit down to meat?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.17.8",
+      "edition_verse_id": "KJV1769:LUK.17.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "And will not rather say unto him, Make ready wherewith I may sup, and gird thyself, and serve me, till I have eaten and drunken; and afterward thou shalt eat and drink?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.17.9",
+      "edition_verse_id": "KJV1769:LUK.17.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "Doth he thank that servant because he did the things that were commanded him? I trow not.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.17.10",
+      "edition_verse_id": "KJV1769:LUK.17.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "So likewise ye, when ye shall have done all those things which are commanded you, say, We are unprofitable servants: we have done that which was our duty to do.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.17.11",
+      "edition_verse_id": "KJV1769:LUK.17.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "¶ And it came to pass, as he went to Jerusalem, that he passed through the midst of Samaria and Galilee.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LUK.17.12",
+      "edition_verse_id": "KJV1769:LUK.17.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "And as he entered into a certain village, there met him ten men that were lepers, which stood afar off:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.17.13",
+      "edition_verse_id": "KJV1769:LUK.17.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "And they lifted up ",
+          "kind": "text"
+        },
+        {
+          "text": "their",
+          "kind": "supplied"
+        },
+        {
+          "text": " voices, and said, Jesus, Master, have mercy on us.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.17.14",
+      "edition_verse_id": "KJV1769:LUK.17.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "And when he saw ",
+          "kind": "text"
+        },
+        {
+          "text": "them",
+          "kind": "supplied"
+        },
+        {
+          "text": ", he said unto them, Go shew yourselves unto the priests. And it came to pass, that, as they went, they were cleansed.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.17.15",
+      "edition_verse_id": "KJV1769:LUK.17.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "And one of them, when he saw that he was healed, turned back, and with a loud voice glorified God,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.17.16",
+      "edition_verse_id": "KJV1769:LUK.17.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "And fell down on ",
+          "kind": "text"
+        },
+        {
+          "text": "his",
+          "kind": "supplied"
+        },
+        {
+          "text": " face at his feet, giving him thanks: and he was a Samaritan.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.17.17",
+      "edition_verse_id": "KJV1769:LUK.17.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "And Jesus answering said, Were there not ten cleansed? but where ",
+          "kind": "text"
+        },
+        {
+          "text": "are",
+          "kind": "supplied"
+        },
+        {
+          "text": " the nine?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.17.18",
+      "edition_verse_id": "KJV1769:LUK.17.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "There are not found that returned to give glory to God, save this stranger.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.17.19",
+      "edition_verse_id": "KJV1769:LUK.17.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "And he said unto him, Arise, go thy way: thy faith hath made thee whole.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.17.20",
+      "edition_verse_id": "KJV1769:LUK.17.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "¶ And when he was demanded of the Pharisees, when the kingdom of God should come, he answered them and said, The kingdom of God cometh not with observation:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LUK.17.21",
+      "edition_verse_id": "KJV1769:LUK.17.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "Neither shall they say, Lo here! or, lo there! for, behold, the kingdom of God is within you.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.17.22",
+      "edition_verse_id": "KJV1769:LUK.17.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "And he said unto the disciples, The days will come, when ye shall desire to see one of the days of the Son of man, and ye shall not see ",
+          "kind": "text"
+        },
+        {
+          "text": "it",
+          "kind": "supplied"
+        },
+        {
+          "text": ".",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.17.23",
+      "edition_verse_id": "KJV1769:LUK.17.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "And they shall say to you, See here; or, see there: go not after ",
+          "kind": "text"
+        },
+        {
+          "text": "them",
+          "kind": "supplied"
+        },
+        {
+          "text": ", nor follow ",
+          "kind": "text"
+        },
+        {
+          "text": "them",
+          "kind": "supplied"
+        },
+        {
+          "text": ".",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.17.24",
+      "edition_verse_id": "KJV1769:LUK.17.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "For as the lightning, that lighteneth out of the one ",
+          "kind": "text"
+        },
+        {
+          "text": "part",
+          "kind": "supplied"
+        },
+        {
+          "text": " under heaven, shineth unto the other ",
+          "kind": "text"
+        },
+        {
+          "text": "part",
+          "kind": "supplied"
+        },
+        {
+          "text": " under heaven; so shall also the Son of man be in his day.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.17.25",
+      "edition_verse_id": "KJV1769:LUK.17.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "But first must he suffer many things, and be rejected of this generation.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.17.26",
+      "edition_verse_id": "KJV1769:LUK.17.26",
+      "verse": 26,
+      "spans": [
+        {
+          "text": "And as it was in the days of Noe, so shall it be also in the days of the Son of man.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.17.27",
+      "edition_verse_id": "KJV1769:LUK.17.27",
+      "verse": 27,
+      "spans": [
+        {
+          "text": "They did eat, they drank, they married wives, they were given in marriage, until the day that Noe entered into the ark, and the flood came, and destroyed them all.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.17.28",
+      "edition_verse_id": "KJV1769:LUK.17.28",
+      "verse": 28,
+      "spans": [
+        {
+          "text": "Likewise also as it was in the days of Lot; they did eat, they drank, they bought, they sold, they planted, they builded;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.17.29",
+      "edition_verse_id": "KJV1769:LUK.17.29",
+      "verse": 29,
+      "spans": [
+        {
+          "text": "But the same day that Lot went out of Sodom it rained fire and brimstone from heaven, and destroyed ",
+          "kind": "text"
+        },
+        {
+          "text": "them",
+          "kind": "supplied"
+        },
+        {
+          "text": " all.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.17.30",
+      "edition_verse_id": "KJV1769:LUK.17.30",
+      "verse": 30,
+      "spans": [
+        {
+          "text": "Even thus shall it be in the day when the Son of man is revealed.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.17.31",
+      "edition_verse_id": "KJV1769:LUK.17.31",
+      "verse": 31,
+      "spans": [
+        {
+          "text": "In that day, he which shall be upon the housetop, and his stuff in the house, let him not come down to take it away: and he that is in the field, let him likewise not return back.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.17.32",
+      "edition_verse_id": "KJV1769:LUK.17.32",
+      "verse": 32,
+      "spans": [
+        {
+          "text": "Remember Lot’s wife.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.17.33",
+      "edition_verse_id": "KJV1769:LUK.17.33",
+      "verse": 33,
+      "spans": [
+        {
+          "text": "Whosoever shall seek to save his life shall lose it; and whosoever shall lose his life shall preserve it.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.17.34",
+      "edition_verse_id": "KJV1769:LUK.17.34",
+      "verse": 34,
+      "spans": [
+        {
+          "text": "I tell you, in that night there shall be two ",
+          "kind": "text"
+        },
+        {
+          "text": "men",
+          "kind": "supplied"
+        },
+        {
+          "text": " in one bed; the one shall be taken, and the other shall be left.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.17.35",
+      "edition_verse_id": "KJV1769:LUK.17.35",
+      "verse": 35,
+      "spans": [
+        {
+          "text": "Two ",
+          "kind": "text"
+        },
+        {
+          "text": "women",
+          "kind": "supplied"
+        },
+        {
+          "text": " shall be grinding together; the one shall be taken, and the other left.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.17.36",
+      "edition_verse_id": "KJV1769:LUK.17.36",
+      "verse": 36,
+      "spans": [
+        {
+          "text": "Two ",
+          "kind": "text"
+        },
+        {
+          "text": "men",
+          "kind": "supplied"
+        },
+        {
+          "text": " shall be in the field; the one shall be taken, and the other left.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.17.37",
+      "edition_verse_id": "KJV1769:LUK.17.37",
+      "verse": 37,
+      "spans": [
+        {
+          "text": "And they answered and said unto him, Where, Lord? And he said unto them, Wheresoever the body ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": ", thither will the eagles be gathered together.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

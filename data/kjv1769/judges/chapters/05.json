@@ -1,0 +1,572 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "KJV1769",
+  "book_code": "JDG",
+  "chapter": 5,
+  "verses": [
+    {
+      "id": "JDG.5.1",
+      "edition_verse_id": "KJV1769:JDG.5.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "Then sang Deborah and Barak the son of Abinoam on that day, saying,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JDG.5.2",
+      "edition_verse_id": "KJV1769:JDG.5.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "Praise ye the LORD for the avenging of Israel, when the people willingly offered themselves.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JDG.5.3",
+      "edition_verse_id": "KJV1769:JDG.5.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "Hear, O ye kings; give ear, O ye princes; I, ",
+          "kind": "text"
+        },
+        {
+          "text": "even",
+          "kind": "supplied"
+        },
+        {
+          "text": " I, will sing unto the LORD; I will sing ",
+          "kind": "text"
+        },
+        {
+          "text": "praise",
+          "kind": "supplied"
+        },
+        {
+          "text": " to the LORD God of Israel.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JDG.5.4",
+      "edition_verse_id": "KJV1769:JDG.5.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "LORD, when thou wentest out of Seir, when thou marchedst out of the field of Edom, the earth trembled, and the heavens dropped, the clouds also dropped water.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JDG.5.5",
+      "edition_verse_id": "KJV1769:JDG.5.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "The mountains melted from before the LORD, ",
+          "kind": "text"
+        },
+        {
+          "text": "even",
+          "kind": "supplied"
+        },
+        {
+          "text": " that Sinai from before the LORD God of Israel.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JDG.5.6",
+      "edition_verse_id": "KJV1769:JDG.5.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "In the days of Shamgar the son of Anath, in the days of Jael, the highways were unoccupied, and the travellers walked through byways.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JDG.5.7",
+      "edition_verse_id": "KJV1769:JDG.5.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "The inhabitants of",
+          "kind": "supplied"
+        },
+        {
+          "text": " the villages ceased, they ceased in Israel, until that I Deborah arose, that I arose a mother in Israel.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JDG.5.8",
+      "edition_verse_id": "KJV1769:JDG.5.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "They chose new gods; then ",
+          "kind": "text"
+        },
+        {
+          "text": "was",
+          "kind": "supplied"
+        },
+        {
+          "text": " war in the gates: was there a shield or spear seen among forty thousand in Israel?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JDG.5.9",
+      "edition_verse_id": "KJV1769:JDG.5.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "My heart ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " toward the governors of Israel, that offered themselves willingly among the people. Bless ye the LORD.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JDG.5.10",
+      "edition_verse_id": "KJV1769:JDG.5.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "Speak, ye that ride on white asses, ye that sit in judgment, and walk by the way.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JDG.5.11",
+      "edition_verse_id": "KJV1769:JDG.5.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "They that are delivered",
+          "kind": "supplied"
+        },
+        {
+          "text": " from the noise of archers in the places of drawing water, there shall they rehearse the righteous acts of the LORD, ",
+          "kind": "text"
+        },
+        {
+          "text": "even",
+          "kind": "supplied"
+        },
+        {
+          "text": " the righteous acts ",
+          "kind": "text"
+        },
+        {
+          "text": "toward the inhabitants",
+          "kind": "supplied"
+        },
+        {
+          "text": " of his villages in Israel: then shall the people of the LORD go down to the gates.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JDG.5.12",
+      "edition_verse_id": "KJV1769:JDG.5.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "Awake, awake, Deborah: awake, awake, utter a song: arise, Barak, and lead thy captivity captive, thou son of Abinoam.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JDG.5.13",
+      "edition_verse_id": "KJV1769:JDG.5.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "Then he made him that remaineth have dominion over the nobles among the people: the LORD made me have dominion over the mighty.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JDG.5.14",
+      "edition_verse_id": "KJV1769:JDG.5.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "Out of Ephraim ",
+          "kind": "text"
+        },
+        {
+          "text": "was there",
+          "kind": "supplied"
+        },
+        {
+          "text": " a root of them against Amalek; after thee, Benjamin, among thy people; out of Machir came down governors, and out of Zebulun they that handle the pen of the writer.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JDG.5.15",
+      "edition_verse_id": "KJV1769:JDG.5.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "And the princes of Issachar ",
+          "kind": "text"
+        },
+        {
+          "text": "were",
+          "kind": "supplied"
+        },
+        {
+          "text": " with Deborah; even Issachar, and also Barak: he was sent on foot into the valley. For the divisions of Reuben ",
+          "kind": "text"
+        },
+        {
+          "text": "there were",
+          "kind": "supplied"
+        },
+        {
+          "text": " great thoughts of heart.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JDG.5.16",
+      "edition_verse_id": "KJV1769:JDG.5.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "Why abodest thou among the sheepfolds, to hear the bleatings of the flocks? For the divisions of Reuben ",
+          "kind": "text"
+        },
+        {
+          "text": "there were",
+          "kind": "supplied"
+        },
+        {
+          "text": " great searchings of heart.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JDG.5.17",
+      "edition_verse_id": "KJV1769:JDG.5.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "Gilead abode beyond Jordan: and why did Dan remain in ships? Asher continued on the sea shore, and abode in his breaches.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JDG.5.18",
+      "edition_verse_id": "KJV1769:JDG.5.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "Zebulun and Naphtali ",
+          "kind": "text"
+        },
+        {
+          "text": "were",
+          "kind": "supplied"
+        },
+        {
+          "text": " a people ",
+          "kind": "text"
+        },
+        {
+          "text": "that",
+          "kind": "supplied"
+        },
+        {
+          "text": " jeoparded their lives unto the death in the high places of the field.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JDG.5.19",
+      "edition_verse_id": "KJV1769:JDG.5.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "The kings came ",
+          "kind": "text"
+        },
+        {
+          "text": "and",
+          "kind": "supplied"
+        },
+        {
+          "text": " fought, then fought the kings of Canaan in Taanach by the waters of Megiddo; they took no gain of money.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JDG.5.20",
+      "edition_verse_id": "KJV1769:JDG.5.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "They fought from heaven; the stars in their courses fought against Sisera.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JDG.5.21",
+      "edition_verse_id": "KJV1769:JDG.5.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "The river of Kishon swept them away, that ancient river, the river Kishon. O my soul, thou hast trodden down strength.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JDG.5.22",
+      "edition_verse_id": "KJV1769:JDG.5.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "Then were the horsehoofs broken by the means of the pransings, the pransings of their mighty ones.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JDG.5.23",
+      "edition_verse_id": "KJV1769:JDG.5.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "Curse ye Meroz, said the angel of the LORD, curse ye bitterly the inhabitants thereof; because they came not to the help of the LORD, to the help of the LORD against the mighty.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JDG.5.24",
+      "edition_verse_id": "KJV1769:JDG.5.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "Blessed above women shall Jael the wife of Heber the Kenite be, blessed shall she be above women in the tent.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JDG.5.25",
+      "edition_verse_id": "KJV1769:JDG.5.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "He asked water, ",
+          "kind": "text"
+        },
+        {
+          "text": "and",
+          "kind": "supplied"
+        },
+        {
+          "text": " she gave ",
+          "kind": "text"
+        },
+        {
+          "text": "him",
+          "kind": "supplied"
+        },
+        {
+          "text": " milk; she brought forth butter in a lordly dish.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JDG.5.26",
+      "edition_verse_id": "KJV1769:JDG.5.26",
+      "verse": 26,
+      "spans": [
+        {
+          "text": "She put her hand to the nail, and her right hand to the workmen’s hammer; and with the hammer she smote Sisera, she smote off his head, when she had pierced and stricken through his temples.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JDG.5.27",
+      "edition_verse_id": "KJV1769:JDG.5.27",
+      "verse": 27,
+      "spans": [
+        {
+          "text": "At her feet he bowed, he fell, he lay down: at her feet he bowed, he fell: where he bowed, there he fell down dead.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JDG.5.28",
+      "edition_verse_id": "KJV1769:JDG.5.28",
+      "verse": 28,
+      "spans": [
+        {
+          "text": "The mother of Sisera looked out at a window, and cried through the lattice, Why is his chariot ",
+          "kind": "text"
+        },
+        {
+          "text": "so",
+          "kind": "supplied"
+        },
+        {
+          "text": " long in coming? why tarry the wheels of his chariots?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JDG.5.29",
+      "edition_verse_id": "KJV1769:JDG.5.29",
+      "verse": 29,
+      "spans": [
+        {
+          "text": "Her wise ladies answered her, yea, she returned answer to herself,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JDG.5.30",
+      "edition_verse_id": "KJV1769:JDG.5.30",
+      "verse": 30,
+      "spans": [
+        {
+          "text": "Have they not sped? have they ",
+          "kind": "text"
+        },
+        {
+          "text": "not",
+          "kind": "supplied"
+        },
+        {
+          "text": " divided the prey; to every man a damsel ",
+          "kind": "text"
+        },
+        {
+          "text": "or",
+          "kind": "supplied"
+        },
+        {
+          "text": " two; to Sisera a prey of divers colours, a prey of divers colours of needlework, of divers colours of needlework on both sides, ",
+          "kind": "text"
+        },
+        {
+          "text": "meet",
+          "kind": "supplied"
+        },
+        {
+          "text": " for the necks of ",
+          "kind": "text"
+        },
+        {
+          "text": "them that take",
+          "kind": "supplied"
+        },
+        {
+          "text": " the spoil?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JDG.5.31",
+      "edition_verse_id": "KJV1769:JDG.5.31",
+      "verse": 31,
+      "spans": [
+        {
+          "text": "So let all thine enemies perish, O LORD: but ",
+          "kind": "text"
+        },
+        {
+          "text": "let",
+          "kind": "supplied"
+        },
+        {
+          "text": " them that love him ",
+          "kind": "text"
+        },
+        {
+          "text": "be",
+          "kind": "supplied"
+        },
+        {
+          "text": " as the sun when he goeth forth in his might. And the land had rest forty years.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

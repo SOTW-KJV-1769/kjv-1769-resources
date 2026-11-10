@@ -1,0 +1,760 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "KJV1769",
+  "book_code": "LEV",
+  "chapter": 7,
+  "verses": [
+    {
+      "id": "LEV.7.1",
+      "edition_verse_id": "KJV1769:LEV.7.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "Likewise this ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " the law of the trespass offering: it ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " most holy.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LEV.7.2",
+      "edition_verse_id": "KJV1769:LEV.7.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "In the place where they kill the burnt offering shall they kill the trespass offering: and the blood thereof shall he sprinkle round about upon the altar.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.7.3",
+      "edition_verse_id": "KJV1769:LEV.7.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "And he shall offer of it all the fat thereof; the rump, and the fat that covereth the inwards,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.7.4",
+      "edition_verse_id": "KJV1769:LEV.7.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "And the two kidneys, and the fat that ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " on them, which ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " by the flanks, and the caul ",
+          "kind": "text"
+        },
+        {
+          "text": "that is",
+          "kind": "supplied"
+        },
+        {
+          "text": " above the liver, with the kidneys, it shall he take away:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.7.5",
+      "edition_verse_id": "KJV1769:LEV.7.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "And the priest shall burn them upon the altar ",
+          "kind": "text"
+        },
+        {
+          "text": "for",
+          "kind": "supplied"
+        },
+        {
+          "text": " an offering made by fire unto the LORD: it ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " a trespass offering.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.7.6",
+      "edition_verse_id": "KJV1769:LEV.7.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "Every male among the priests shall eat thereof: it shall be eaten in the holy place: it ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " most holy.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.7.7",
+      "edition_verse_id": "KJV1769:LEV.7.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "As the sin offering ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": ", so ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " the trespass offering: ",
+          "kind": "text"
+        },
+        {
+          "text": "there is",
+          "kind": "supplied"
+        },
+        {
+          "text": " one law for them: the priest that maketh atonement therewith shall have ",
+          "kind": "text"
+        },
+        {
+          "text": "it",
+          "kind": "supplied"
+        },
+        {
+          "text": ".",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.7.8",
+      "edition_verse_id": "KJV1769:LEV.7.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "And the priest that offereth any man’s burnt offering, ",
+          "kind": "text"
+        },
+        {
+          "text": "even",
+          "kind": "supplied"
+        },
+        {
+          "text": " the priest shall have to himself the skin of the burnt offering which he hath offered.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.7.9",
+      "edition_verse_id": "KJV1769:LEV.7.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "And all the meat offering that is baken in the oven, and all that is dressed in the fryingpan, and in the pan, shall be the priest’s that offereth it.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.7.10",
+      "edition_verse_id": "KJV1769:LEV.7.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "And every meat offering, mingled with oil, and dry, shall all the sons of Aaron have, one ",
+          "kind": "text"
+        },
+        {
+          "text": "as much",
+          "kind": "supplied"
+        },
+        {
+          "text": " as another.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.7.11",
+      "edition_verse_id": "KJV1769:LEV.7.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "And this ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " the law of the sacrifice of peace offerings, which he shall offer unto the LORD.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LEV.7.12",
+      "edition_verse_id": "KJV1769:LEV.7.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "If he offer it for a thanksgiving, then he shall offer with the sacrifice of thanksgiving unleavened cakes mingled with oil, and unleavened wafers anointed with oil, and cakes mingled with oil, of fine flour, fried.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.7.13",
+      "edition_verse_id": "KJV1769:LEV.7.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "Besides the cakes, he shall offer ",
+          "kind": "text"
+        },
+        {
+          "text": "for",
+          "kind": "supplied"
+        },
+        {
+          "text": " his offering leavened bread with the sacrifice of thanksgiving of his peace offerings.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.7.14",
+      "edition_verse_id": "KJV1769:LEV.7.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "And of it he shall offer one out of the whole oblation ",
+          "kind": "text"
+        },
+        {
+          "text": "for",
+          "kind": "supplied"
+        },
+        {
+          "text": " an heave offering unto the LORD, ",
+          "kind": "text"
+        },
+        {
+          "text": "and",
+          "kind": "supplied"
+        },
+        {
+          "text": " it shall be the priest’s that sprinkleth the blood of the peace offerings.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.7.15",
+      "edition_verse_id": "KJV1769:LEV.7.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "And the flesh of the sacrifice of his peace offerings for thanksgiving shall be eaten the same day that it is offered; he shall not leave any of it until the morning.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.7.16",
+      "edition_verse_id": "KJV1769:LEV.7.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "But if the sacrifice of his offering ",
+          "kind": "text"
+        },
+        {
+          "text": "be",
+          "kind": "supplied"
+        },
+        {
+          "text": " a vow, or a voluntary offering, it shall be eaten the same day that he offereth his sacrifice: and on the morrow also the remainder of it shall be eaten:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.7.17",
+      "edition_verse_id": "KJV1769:LEV.7.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "But the remainder of the flesh of the sacrifice on the third day shall be burnt with fire.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.7.18",
+      "edition_verse_id": "KJV1769:LEV.7.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "And if ",
+          "kind": "text"
+        },
+        {
+          "text": "any",
+          "kind": "supplied"
+        },
+        {
+          "text": " of the flesh of the sacrifice of his peace offerings be eaten at all on the third day, it shall not be accepted, neither shall it be imputed unto him that offereth it: it shall be an abomination, and the soul that eateth of it shall bear his iniquity.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.7.19",
+      "edition_verse_id": "KJV1769:LEV.7.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "And the flesh that toucheth any unclean ",
+          "kind": "text"
+        },
+        {
+          "text": "thing",
+          "kind": "supplied"
+        },
+        {
+          "text": " shall not be eaten; it shall be burnt with fire: and as for the flesh, all that be clean shall eat thereof.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.7.20",
+      "edition_verse_id": "KJV1769:LEV.7.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "But the soul that eateth ",
+          "kind": "text"
+        },
+        {
+          "text": "of",
+          "kind": "supplied"
+        },
+        {
+          "text": " the flesh of the sacrifice of peace offerings, that ",
+          "kind": "text"
+        },
+        {
+          "text": "pertain",
+          "kind": "supplied"
+        },
+        {
+          "text": " unto the LORD, having his uncleanness upon him, even that soul shall be cut off from his people.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.7.21",
+      "edition_verse_id": "KJV1769:LEV.7.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "Moreover the soul that shall touch any unclean ",
+          "kind": "text"
+        },
+        {
+          "text": "thing, as",
+          "kind": "supplied"
+        },
+        {
+          "text": " the uncleanness of man, or ",
+          "kind": "text"
+        },
+        {
+          "text": "any",
+          "kind": "supplied"
+        },
+        {
+          "text": " unclean beast, or any abominable unclean ",
+          "kind": "text"
+        },
+        {
+          "text": "thing",
+          "kind": "supplied"
+        },
+        {
+          "text": ", and eat of the flesh of the sacrifice of peace offerings, which ",
+          "kind": "text"
+        },
+        {
+          "text": "pertain",
+          "kind": "supplied"
+        },
+        {
+          "text": " unto the LORD, even that soul shall be cut off from his people.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.7.22",
+      "edition_verse_id": "KJV1769:LEV.7.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "¶ And the LORD spake unto Moses, saying,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LEV.7.23",
+      "edition_verse_id": "KJV1769:LEV.7.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "Speak unto the children of Israel, saying, Ye shall eat no manner of fat, of ox, or of sheep, or of goat.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.7.24",
+      "edition_verse_id": "KJV1769:LEV.7.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "And the fat of the beast that dieth of itself, and the fat of that which is torn with beasts, may be used in any other use: but ye shall in no wise eat of it.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.7.25",
+      "edition_verse_id": "KJV1769:LEV.7.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "For whosoever eateth the fat of the beast, of which men offer an offering made by fire unto the LORD, even the soul that eateth ",
+          "kind": "text"
+        },
+        {
+          "text": "it",
+          "kind": "supplied"
+        },
+        {
+          "text": " shall be cut off from his people.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.7.26",
+      "edition_verse_id": "KJV1769:LEV.7.26",
+      "verse": 26,
+      "spans": [
+        {
+          "text": "Moreover ye shall eat no manner of blood, ",
+          "kind": "text"
+        },
+        {
+          "text": "whether it be",
+          "kind": "supplied"
+        },
+        {
+          "text": " of fowl or of beast, in any of your dwellings.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.7.27",
+      "edition_verse_id": "KJV1769:LEV.7.27",
+      "verse": 27,
+      "spans": [
+        {
+          "text": "Whatsoever soul ",
+          "kind": "text"
+        },
+        {
+          "text": "it be",
+          "kind": "supplied"
+        },
+        {
+          "text": " that eateth any manner of blood, even that soul shall be cut off from his people.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.7.28",
+      "edition_verse_id": "KJV1769:LEV.7.28",
+      "verse": 28,
+      "spans": [
+        {
+          "text": "¶ And the LORD spake unto Moses, saying,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LEV.7.29",
+      "edition_verse_id": "KJV1769:LEV.7.29",
+      "verse": 29,
+      "spans": [
+        {
+          "text": "Speak unto the children of Israel, saying, He that offereth the sacrifice of his peace offerings unto the LORD shall bring his oblation unto the LORD of the sacrifice of his peace offerings.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.7.30",
+      "edition_verse_id": "KJV1769:LEV.7.30",
+      "verse": 30,
+      "spans": [
+        {
+          "text": "His own hands shall bring the offerings of the LORD made by fire, the fat with the breast, it shall he bring, that the breast may be waved ",
+          "kind": "text"
+        },
+        {
+          "text": "for",
+          "kind": "supplied"
+        },
+        {
+          "text": " a wave offering before the LORD.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.7.31",
+      "edition_verse_id": "KJV1769:LEV.7.31",
+      "verse": 31,
+      "spans": [
+        {
+          "text": "And the priest shall burn the fat upon the altar: but the breast shall be Aaron’s and his sons’.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.7.32",
+      "edition_verse_id": "KJV1769:LEV.7.32",
+      "verse": 32,
+      "spans": [
+        {
+          "text": "And the right shoulder shall ye give unto the priest ",
+          "kind": "text"
+        },
+        {
+          "text": "for",
+          "kind": "supplied"
+        },
+        {
+          "text": " an heave offering of the sacrifices of your peace offerings.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.7.33",
+      "edition_verse_id": "KJV1769:LEV.7.33",
+      "verse": 33,
+      "spans": [
+        {
+          "text": "He among the sons of Aaron, that offereth the blood of the peace offerings, and the fat, shall have the right shoulder for ",
+          "kind": "text"
+        },
+        {
+          "text": "his",
+          "kind": "supplied"
+        },
+        {
+          "text": " part.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.7.34",
+      "edition_verse_id": "KJV1769:LEV.7.34",
+      "verse": 34,
+      "spans": [
+        {
+          "text": "For the wave breast and the heave shoulder have I taken of the children of Israel from off the sacrifices of their peace offerings, and have given them unto Aaron the priest and unto his sons by a statute for ever from among the children of Israel.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.7.35",
+      "edition_verse_id": "KJV1769:LEV.7.35",
+      "verse": 35,
+      "spans": [
+        {
+          "text": "¶ This ",
+          "kind": "text"
+        },
+        {
+          "text": "is the portion",
+          "kind": "supplied"
+        },
+        {
+          "text": " of the anointing of Aaron, and of the anointing of his sons, out of the offerings of the LORD made by fire, in the day ",
+          "kind": "text"
+        },
+        {
+          "text": "when",
+          "kind": "supplied"
+        },
+        {
+          "text": " he presented them to minister unto the LORD in the priest’s office;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LEV.7.36",
+      "edition_verse_id": "KJV1769:LEV.7.36",
+      "verse": 36,
+      "spans": [
+        {
+          "text": "Which the LORD commanded to be given them of the children of Israel, in the day that he anointed them, ",
+          "kind": "text"
+        },
+        {
+          "text": "by",
+          "kind": "supplied"
+        },
+        {
+          "text": " a statute for ever throughout their generations.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.7.37",
+      "edition_verse_id": "KJV1769:LEV.7.37",
+      "verse": 37,
+      "spans": [
+        {
+          "text": "This ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " the law of the burnt offering, of the meat offering, and of the sin offering, and of the trespass offering, and of the consecrations, and of the sacrifice of the peace offerings;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.7.38",
+      "edition_verse_id": "KJV1769:LEV.7.38",
+      "verse": 38,
+      "spans": [
+        {
+          "text": "Which the LORD commanded Moses in mount Sinai, in the day that he commanded the children of Israel to offer their oblations unto the LORD, in the wilderness of Sinai.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

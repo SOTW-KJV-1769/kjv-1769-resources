@@ -1,0 +1,628 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "KJV1769",
+  "book_code": "LEV",
+  "chapter": 15,
+  "verses": [
+    {
+      "id": "LEV.15.1",
+      "edition_verse_id": "KJV1769:LEV.15.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "And the LORD spake unto Moses and to Aaron, saying,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LEV.15.2",
+      "edition_verse_id": "KJV1769:LEV.15.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "Speak unto the children of Israel, and say unto them, When any man hath a running issue out of his flesh, ",
+          "kind": "text"
+        },
+        {
+          "text": "because of",
+          "kind": "supplied"
+        },
+        {
+          "text": " his issue he ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " unclean.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.15.3",
+      "edition_verse_id": "KJV1769:LEV.15.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "And this shall be his uncleanness in his issue: whether his flesh run with his issue, or his flesh be stopped from his issue, it ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " his uncleanness.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.15.4",
+      "edition_verse_id": "KJV1769:LEV.15.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "Every bed, whereon he lieth that hath the issue, is unclean: and every thing, whereon he sitteth, shall be unclean.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.15.5",
+      "edition_verse_id": "KJV1769:LEV.15.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "And whosoever toucheth his bed shall wash his clothes, and bathe ",
+          "kind": "text"
+        },
+        {
+          "text": "himself",
+          "kind": "supplied"
+        },
+        {
+          "text": " in water, and be unclean until the even.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.15.6",
+      "edition_verse_id": "KJV1769:LEV.15.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "And he that sitteth on ",
+          "kind": "text"
+        },
+        {
+          "text": "any",
+          "kind": "supplied"
+        },
+        {
+          "text": " thing whereon he sat that hath the issue shall wash his clothes, and bathe ",
+          "kind": "text"
+        },
+        {
+          "text": "himself",
+          "kind": "supplied"
+        },
+        {
+          "text": " in water, and be unclean until the even.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.15.7",
+      "edition_verse_id": "KJV1769:LEV.15.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "And he that toucheth the flesh of him that hath the issue shall wash his clothes, and bathe ",
+          "kind": "text"
+        },
+        {
+          "text": "himself",
+          "kind": "supplied"
+        },
+        {
+          "text": " in water, and be unclean until the even.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.15.8",
+      "edition_verse_id": "KJV1769:LEV.15.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "And if he that hath the issue spit upon him that is clean; then he shall wash his clothes, and bathe ",
+          "kind": "text"
+        },
+        {
+          "text": "himself",
+          "kind": "supplied"
+        },
+        {
+          "text": " in water, and be unclean until the even.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.15.9",
+      "edition_verse_id": "KJV1769:LEV.15.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "And what saddle soever he rideth upon that hath the issue shall be unclean.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.15.10",
+      "edition_verse_id": "KJV1769:LEV.15.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "And whosoever toucheth any thing that was under him shall be unclean until the even: and he that beareth ",
+          "kind": "text"
+        },
+        {
+          "text": "any of",
+          "kind": "supplied"
+        },
+        {
+          "text": " those things shall wash his clothes, and bathe ",
+          "kind": "text"
+        },
+        {
+          "text": "himself",
+          "kind": "supplied"
+        },
+        {
+          "text": " in water, and be unclean until the even.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.15.11",
+      "edition_verse_id": "KJV1769:LEV.15.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "And whomsoever he toucheth that hath the issue, and hath not rinsed his hands in water, he shall wash his clothes, and bathe ",
+          "kind": "text"
+        },
+        {
+          "text": "himself",
+          "kind": "supplied"
+        },
+        {
+          "text": " in water, and be unclean until the even.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.15.12",
+      "edition_verse_id": "KJV1769:LEV.15.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "And the vessel of earth, that he toucheth which hath the issue, shall be broken: and every vessel of wood shall be rinsed in water.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.15.13",
+      "edition_verse_id": "KJV1769:LEV.15.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "And when he that hath an issue is cleansed of his issue; then he shall number to himself seven days for his cleansing, and wash his clothes, and bathe his flesh in running water, and shall be clean.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.15.14",
+      "edition_verse_id": "KJV1769:LEV.15.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "And on the eighth day he shall take to him two turtledoves, or two young pigeons, and come before the LORD unto the door of the tabernacle of the congregation, and give them unto the priest:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.15.15",
+      "edition_verse_id": "KJV1769:LEV.15.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "And the priest shall offer them, the one ",
+          "kind": "text"
+        },
+        {
+          "text": "for",
+          "kind": "supplied"
+        },
+        {
+          "text": " a sin offering, and the other ",
+          "kind": "text"
+        },
+        {
+          "text": "for",
+          "kind": "supplied"
+        },
+        {
+          "text": " a burnt offering; and the priest shall make an atonement for him before the LORD for his issue.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.15.16",
+      "edition_verse_id": "KJV1769:LEV.15.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "And if any man’s seed of copulation go out from him, then he shall wash all his flesh in water, and be unclean until the even.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.15.17",
+      "edition_verse_id": "KJV1769:LEV.15.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "And every garment, and every skin, whereon is the seed of copulation, shall be washed with water, and be unclean until the even.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.15.18",
+      "edition_verse_id": "KJV1769:LEV.15.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "The woman also with whom man shall lie ",
+          "kind": "text"
+        },
+        {
+          "text": "with",
+          "kind": "supplied"
+        },
+        {
+          "text": " seed of copulation, they shall ",
+          "kind": "text"
+        },
+        {
+          "text": "both",
+          "kind": "supplied"
+        },
+        {
+          "text": " bathe ",
+          "kind": "text"
+        },
+        {
+          "text": "themselves",
+          "kind": "supplied"
+        },
+        {
+          "text": " in water, and be unclean until the even.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.15.19",
+      "edition_verse_id": "KJV1769:LEV.15.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "¶ And if a woman have an issue, ",
+          "kind": "text"
+        },
+        {
+          "text": "and",
+          "kind": "supplied"
+        },
+        {
+          "text": " her issue in her flesh be blood, she shall be put apart seven days: and whosoever toucheth her shall be unclean until the even.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LEV.15.20",
+      "edition_verse_id": "KJV1769:LEV.15.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "And every thing that she lieth upon in her separation shall be unclean: every thing also that she sitteth upon shall be unclean.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.15.21",
+      "edition_verse_id": "KJV1769:LEV.15.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "And whosoever toucheth her bed shall wash his clothes, and bathe ",
+          "kind": "text"
+        },
+        {
+          "text": "himself",
+          "kind": "supplied"
+        },
+        {
+          "text": " in water, and be unclean until the even.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.15.22",
+      "edition_verse_id": "KJV1769:LEV.15.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "And whosoever toucheth any thing that she sat upon shall wash his clothes, and bathe ",
+          "kind": "text"
+        },
+        {
+          "text": "himself",
+          "kind": "supplied"
+        },
+        {
+          "text": " in water, and be unclean until the even.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.15.23",
+      "edition_verse_id": "KJV1769:LEV.15.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "And if it ",
+          "kind": "text"
+        },
+        {
+          "text": "be",
+          "kind": "supplied"
+        },
+        {
+          "text": " on ",
+          "kind": "text"
+        },
+        {
+          "text": "her",
+          "kind": "supplied"
+        },
+        {
+          "text": " bed, or on any thing whereon she sitteth, when he toucheth it, he shall be unclean until the even.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.15.24",
+      "edition_verse_id": "KJV1769:LEV.15.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "And if any man lie with her at all, and her flowers be upon him, he shall be unclean seven days; and all the bed whereon he lieth shall be unclean.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.15.25",
+      "edition_verse_id": "KJV1769:LEV.15.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "And if a woman have an issue of her blood many days out of the time of her separation, or if it run beyond the time of her separation; all the days of the issue of her uncleanness shall be as the days of her separation: she ",
+          "kind": "text"
+        },
+        {
+          "text": "shall be",
+          "kind": "supplied"
+        },
+        {
+          "text": " unclean.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.15.26",
+      "edition_verse_id": "KJV1769:LEV.15.26",
+      "verse": 26,
+      "spans": [
+        {
+          "text": "Every bed whereon she lieth all the days of her issue shall be unto her as the bed of her separation: and whatsoever she sitteth upon shall be unclean, as the uncleanness of her separation.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.15.27",
+      "edition_verse_id": "KJV1769:LEV.15.27",
+      "verse": 27,
+      "spans": [
+        {
+          "text": "And whosoever toucheth those things shall be unclean, and shall wash his clothes, and bathe ",
+          "kind": "text"
+        },
+        {
+          "text": "himself",
+          "kind": "supplied"
+        },
+        {
+          "text": " in water, and be unclean until the even.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.15.28",
+      "edition_verse_id": "KJV1769:LEV.15.28",
+      "verse": 28,
+      "spans": [
+        {
+          "text": "But if she be cleansed of her issue, then she shall number to herself seven days, and after that she shall be clean.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.15.29",
+      "edition_verse_id": "KJV1769:LEV.15.29",
+      "verse": 29,
+      "spans": [
+        {
+          "text": "And on the eighth day she shall take unto her two turtles, or two young pigeons, and bring them unto the priest, to the door of the tabernacle of the congregation.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.15.30",
+      "edition_verse_id": "KJV1769:LEV.15.30",
+      "verse": 30,
+      "spans": [
+        {
+          "text": "And the priest shall offer the one ",
+          "kind": "text"
+        },
+        {
+          "text": "for",
+          "kind": "supplied"
+        },
+        {
+          "text": " a sin offering, and the other ",
+          "kind": "text"
+        },
+        {
+          "text": "for",
+          "kind": "supplied"
+        },
+        {
+          "text": " a burnt offering; and the priest shall make an atonement for her before the LORD for the issue of her uncleanness.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.15.31",
+      "edition_verse_id": "KJV1769:LEV.15.31",
+      "verse": 31,
+      "spans": [
+        {
+          "text": "Thus shall ye separate the children of Israel from their uncleanness; that they die not in their uncleanness, when they defile my tabernacle that ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " among them.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.15.32",
+      "edition_verse_id": "KJV1769:LEV.15.32",
+      "verse": 32,
+      "spans": [
+        {
+          "text": "This ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " the law of him that hath an issue, and ",
+          "kind": "text"
+        },
+        {
+          "text": "of him",
+          "kind": "supplied"
+        },
+        {
+          "text": " whose seed goeth from him, and is defiled therewith;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.15.33",
+      "edition_verse_id": "KJV1769:LEV.15.33",
+      "verse": 33,
+      "spans": [
+        {
+          "text": "And of her that is sick of her flowers, and of him that hath an issue, of the man, and of the woman, and of him that lieth with her that is unclean.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

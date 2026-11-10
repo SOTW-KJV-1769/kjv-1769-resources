@@ -1,0 +1,548 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "KJV1769",
+  "book_code": "LUK",
+  "chapter": 21,
+  "verses": [
+    {
+      "id": "LUK.21.1",
+      "edition_verse_id": "KJV1769:LUK.21.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "And he looked up, and saw the rich men casting their gifts into the treasury.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LUK.21.2",
+      "edition_verse_id": "KJV1769:LUK.21.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "And he saw also a certain poor widow casting in thither two mites.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.21.3",
+      "edition_verse_id": "KJV1769:LUK.21.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "And he said, Of a truth I say unto you, that this poor widow hath cast in more than they all:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.21.4",
+      "edition_verse_id": "KJV1769:LUK.21.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "For all these have of their abundance cast in unto the offerings of God: but she of her penury hath cast in all the living that she had.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.21.5",
+      "edition_verse_id": "KJV1769:LUK.21.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "¶ And as some spake of the temple, how it was adorned with goodly stones and gifts, he said,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LUK.21.6",
+      "edition_verse_id": "KJV1769:LUK.21.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "As for",
+          "kind": "supplied"
+        },
+        {
+          "text": " these things which ye behold, the days will come, in the which there shall not be left one stone upon another, that shall not be thrown down.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.21.7",
+      "edition_verse_id": "KJV1769:LUK.21.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "And they asked him, saying, Master, but when shall these things be? and what sign ",
+          "kind": "text"
+        },
+        {
+          "text": "will there be",
+          "kind": "supplied"
+        },
+        {
+          "text": " when these things shall come to pass?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.21.8",
+      "edition_verse_id": "KJV1769:LUK.21.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "And he said, Take heed that ye be not deceived: for many shall come in my name, saying, I am ",
+          "kind": "text"
+        },
+        {
+          "text": "Christ",
+          "kind": "supplied"
+        },
+        {
+          "text": "; and the time draweth near: go ye not therefore after them.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.21.9",
+      "edition_verse_id": "KJV1769:LUK.21.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "But when ye shall hear of wars and commotions, be not terrified: for these things must first come to pass; but the end ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " not by and by.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.21.10",
+      "edition_verse_id": "KJV1769:LUK.21.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "Then said he unto them, Nation shall rise against nation, and kingdom against kingdom:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.21.11",
+      "edition_verse_id": "KJV1769:LUK.21.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "And great earthquakes shall be in divers places, and famines, and pestilences; and fearful sights and great signs shall there be from heaven.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.21.12",
+      "edition_verse_id": "KJV1769:LUK.21.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "But before all these, they shall lay their hands on you, and persecute ",
+          "kind": "text"
+        },
+        {
+          "text": "you",
+          "kind": "supplied"
+        },
+        {
+          "text": ", delivering ",
+          "kind": "text"
+        },
+        {
+          "text": "you",
+          "kind": "supplied"
+        },
+        {
+          "text": " up to the synagogues, and into prisons, being brought before kings and rulers for my name’s sake.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.21.13",
+      "edition_verse_id": "KJV1769:LUK.21.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "And it shall turn to you for a testimony.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.21.14",
+      "edition_verse_id": "KJV1769:LUK.21.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "Settle ",
+          "kind": "text"
+        },
+        {
+          "text": "it",
+          "kind": "supplied"
+        },
+        {
+          "text": " therefore in your hearts, not to meditate before what ye shall answer:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.21.15",
+      "edition_verse_id": "KJV1769:LUK.21.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "For I will give you a mouth and wisdom, which all your adversaries shall not be able to gainsay nor resist.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.21.16",
+      "edition_verse_id": "KJV1769:LUK.21.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "And ye shall be betrayed both by parents, and brethren, and kinsfolks, and friends; and ",
+          "kind": "text"
+        },
+        {
+          "text": "some",
+          "kind": "supplied"
+        },
+        {
+          "text": " of you shall they cause to be put to death.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.21.17",
+      "edition_verse_id": "KJV1769:LUK.21.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "And ye shall be hated of all ",
+          "kind": "text"
+        },
+        {
+          "text": "men",
+          "kind": "supplied"
+        },
+        {
+          "text": " for my name’s sake.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.21.18",
+      "edition_verse_id": "KJV1769:LUK.21.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "But there shall not an hair of your head perish.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.21.19",
+      "edition_verse_id": "KJV1769:LUK.21.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "In your patience possess ye your souls.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.21.20",
+      "edition_verse_id": "KJV1769:LUK.21.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "And when ye shall see Jerusalem compassed with armies, then know that the desolation thereof is nigh.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.21.21",
+      "edition_verse_id": "KJV1769:LUK.21.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "Then let them which are in Judæa flee to the mountains; and let them which are in the midst of it depart out; and let not them that are in the countries enter thereinto.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.21.22",
+      "edition_verse_id": "KJV1769:LUK.21.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "For these be the days of vengeance, that all things which are written may be fulfilled.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.21.23",
+      "edition_verse_id": "KJV1769:LUK.21.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "But woe unto them that are with child, and to them that give suck, in those days! for there shall be great distress in the land, and wrath upon this people.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.21.24",
+      "edition_verse_id": "KJV1769:LUK.21.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "And they shall fall by the edge of the sword, and shall be led away captive into all nations: and Jerusalem shall be trodden down of the Gentiles, until the times of the Gentiles be fulfilled.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.21.25",
+      "edition_verse_id": "KJV1769:LUK.21.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "¶ And there shall be signs in the sun, and in the moon, and in the stars; and upon the earth distress of nations, with perplexity; the sea and the waves roaring;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LUK.21.26",
+      "edition_verse_id": "KJV1769:LUK.21.26",
+      "verse": 26,
+      "spans": [
+        {
+          "text": "Men’s hearts failing them for fear, and for looking after those things which are coming on the earth: for the powers of heaven shall be shaken.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.21.27",
+      "edition_verse_id": "KJV1769:LUK.21.27",
+      "verse": 27,
+      "spans": [
+        {
+          "text": "And then shall they see the Son of man coming in a cloud with power and great glory.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.21.28",
+      "edition_verse_id": "KJV1769:LUK.21.28",
+      "verse": 28,
+      "spans": [
+        {
+          "text": "And when these things begin to come to pass, then look up, and lift up your heads; for your redemption draweth nigh.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.21.29",
+      "edition_verse_id": "KJV1769:LUK.21.29",
+      "verse": 29,
+      "spans": [
+        {
+          "text": "And he spake to them a parable; Behold the fig tree, and all the trees;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.21.30",
+      "edition_verse_id": "KJV1769:LUK.21.30",
+      "verse": 30,
+      "spans": [
+        {
+          "text": "When they now shoot forth, ye see and know of your own selves that summer is now nigh at hand.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.21.31",
+      "edition_verse_id": "KJV1769:LUK.21.31",
+      "verse": 31,
+      "spans": [
+        {
+          "text": "So likewise ye, when ye see these things come to pass, know ye that the kingdom of God is nigh at hand.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.21.32",
+      "edition_verse_id": "KJV1769:LUK.21.32",
+      "verse": 32,
+      "spans": [
+        {
+          "text": "Verily I say unto you, This generation shall not pass away, till all be fulfilled.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.21.33",
+      "edition_verse_id": "KJV1769:LUK.21.33",
+      "verse": 33,
+      "spans": [
+        {
+          "text": "Heaven and earth shall pass away: but my words shall not pass away.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.21.34",
+      "edition_verse_id": "KJV1769:LUK.21.34",
+      "verse": 34,
+      "spans": [
+        {
+          "text": "¶ And take heed to yourselves, lest at any time your hearts be overcharged with surfeiting, and drunkenness, and cares of this life, and ",
+          "kind": "text"
+        },
+        {
+          "text": "so",
+          "kind": "supplied"
+        },
+        {
+          "text": " that day come upon you unawares.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LUK.21.35",
+      "edition_verse_id": "KJV1769:LUK.21.35",
+      "verse": 35,
+      "spans": [
+        {
+          "text": "For as a snare shall it come on all them that dwell on the face of the whole earth.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.21.36",
+      "edition_verse_id": "KJV1769:LUK.21.36",
+      "verse": 36,
+      "spans": [
+        {
+          "text": "Watch ye therefore, and pray always, that ye may be accounted worthy to escape all these things that shall come to pass, and to stand before the Son of man.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.21.37",
+      "edition_verse_id": "KJV1769:LUK.21.37",
+      "verse": 37,
+      "spans": [
+        {
+          "text": "And in the day time he was teaching in the temple; and at night he went out, and abode in the mount that is called ",
+          "kind": "text"
+        },
+        {
+          "text": "the mount",
+          "kind": "supplied"
+        },
+        {
+          "text": " of Olives.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.21.38",
+      "edition_verse_id": "KJV1769:LUK.21.38",
+      "verse": 38,
+      "spans": [
+        {
+          "text": "And all the people came early in the morning to him in the temple, for to hear him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

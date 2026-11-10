@@ -1,0 +1,928 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "KJV1769",
+  "book_code": "LEV",
+  "chapter": 23,
+  "verses": [
+    {
+      "id": "LEV.23.1",
+      "edition_verse_id": "KJV1769:LEV.23.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "And the LORD spake unto Moses, saying,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LEV.23.2",
+      "edition_verse_id": "KJV1769:LEV.23.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "Speak unto the children of Israel, and say unto them, ",
+          "kind": "text"
+        },
+        {
+          "text": "Concerning",
+          "kind": "supplied"
+        },
+        {
+          "text": " the feasts of the LORD, which ye shall proclaim ",
+          "kind": "text"
+        },
+        {
+          "text": "to be",
+          "kind": "supplied"
+        },
+        {
+          "text": " holy convocations, ",
+          "kind": "text"
+        },
+        {
+          "text": "even",
+          "kind": "supplied"
+        },
+        {
+          "text": " these ",
+          "kind": "text"
+        },
+        {
+          "text": "are",
+          "kind": "supplied"
+        },
+        {
+          "text": " my feasts.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.23.3",
+      "edition_verse_id": "KJV1769:LEV.23.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "Six days shall work be done: but the seventh day ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " the sabbath of rest, an holy convocation; ye shall do no work ",
+          "kind": "text"
+        },
+        {
+          "text": "therein:",
+          "kind": "supplied"
+        },
+        {
+          "text": " it ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " the sabbath of the LORD in all your dwellings.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.23.4",
+      "edition_verse_id": "KJV1769:LEV.23.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "¶ These ",
+          "kind": "text"
+        },
+        {
+          "text": "are",
+          "kind": "supplied"
+        },
+        {
+          "text": " the feasts of the LORD, ",
+          "kind": "text"
+        },
+        {
+          "text": "even",
+          "kind": "supplied"
+        },
+        {
+          "text": " holy convocations, which ye shall proclaim in their seasons.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LEV.23.5",
+      "edition_verse_id": "KJV1769:LEV.23.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "In the fourteenth ",
+          "kind": "text"
+        },
+        {
+          "text": "day",
+          "kind": "supplied"
+        },
+        {
+          "text": " of the first month at even ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " the LORD’s passover.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.23.6",
+      "edition_verse_id": "KJV1769:LEV.23.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "And on the fifteenth day of the same month ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " the feast of unleavened bread unto the LORD: seven days ye must eat unleavened bread.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.23.7",
+      "edition_verse_id": "KJV1769:LEV.23.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "In the first day ye shall have an holy convocation: ye shall do no servile work therein.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.23.8",
+      "edition_verse_id": "KJV1769:LEV.23.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "But ye shall offer an offering made by fire unto the LORD seven days: in the seventh day ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " an holy convocation: ye shall do no servile work ",
+          "kind": "text"
+        },
+        {
+          "text": "therein",
+          "kind": "supplied"
+        },
+        {
+          "text": ".",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.23.9",
+      "edition_verse_id": "KJV1769:LEV.23.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "¶ And the LORD spake unto Moses, saying,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LEV.23.10",
+      "edition_verse_id": "KJV1769:LEV.23.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "Speak unto the children of Israel, and say unto them, When ye be come into the land which I give unto you, and shall reap the harvest thereof, then ye shall bring a sheaf of the firstfruits of your harvest unto the priest:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.23.11",
+      "edition_verse_id": "KJV1769:LEV.23.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "And he shall wave the sheaf before the LORD, to be accepted for you: on the morrow after the sabbath the priest shall wave it.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.23.12",
+      "edition_verse_id": "KJV1769:LEV.23.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "And ye shall offer that day when ye wave the sheaf an he lamb without blemish of the first year for a burnt offering unto the LORD.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.23.13",
+      "edition_verse_id": "KJV1769:LEV.23.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "And the meat offering thereof ",
+          "kind": "text"
+        },
+        {
+          "text": "shall be",
+          "kind": "supplied"
+        },
+        {
+          "text": " two tenth deals of fine flour mingled with oil, an offering made by fire unto the LORD ",
+          "kind": "text"
+        },
+        {
+          "text": "for",
+          "kind": "supplied"
+        },
+        {
+          "text": " a sweet savour: and the drink offering thereof ",
+          "kind": "text"
+        },
+        {
+          "text": "shall be",
+          "kind": "supplied"
+        },
+        {
+          "text": " of wine, the fourth ",
+          "kind": "text"
+        },
+        {
+          "text": "part",
+          "kind": "supplied"
+        },
+        {
+          "text": " of an hin.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.23.14",
+      "edition_verse_id": "KJV1769:LEV.23.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "And ye shall eat neither bread, nor parched corn, nor green ears, until the selfsame day that ye have brought an offering unto your God: ",
+          "kind": "text"
+        },
+        {
+          "text": "it shall be",
+          "kind": "supplied"
+        },
+        {
+          "text": " a statute for ever throughout your generations in all your dwellings.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.23.15",
+      "edition_verse_id": "KJV1769:LEV.23.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "¶ And ye shall count unto you from the morrow after the sabbath, from the day that ye brought the sheaf of the wave offering; seven sabbaths shall be complete:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LEV.23.16",
+      "edition_verse_id": "KJV1769:LEV.23.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "Even unto the morrow after the seventh sabbath shall ye number fifty days; and ye shall offer a new meat offering unto the LORD.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.23.17",
+      "edition_verse_id": "KJV1769:LEV.23.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "Ye shall bring out of your habitations two wave loaves of two tenth deals: they shall be of fine flour; they shall be baken with leaven; ",
+          "kind": "text"
+        },
+        {
+          "text": "they are",
+          "kind": "supplied"
+        },
+        {
+          "text": " the firstfruits unto the LORD.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.23.18",
+      "edition_verse_id": "KJV1769:LEV.23.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "And ye shall offer with the bread seven lambs without blemish of the first year, and one young bullock, and two rams: they shall be ",
+          "kind": "text"
+        },
+        {
+          "text": "for",
+          "kind": "supplied"
+        },
+        {
+          "text": " a burnt offering unto the LORD, with their meat offering, and their drink offerings, ",
+          "kind": "text"
+        },
+        {
+          "text": "even",
+          "kind": "supplied"
+        },
+        {
+          "text": " an offering made by fire, of sweet savour unto the LORD.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.23.19",
+      "edition_verse_id": "KJV1769:LEV.23.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "Then ye shall sacrifice one kid of the goats for a sin offering, and two lambs of the first year for a sacrifice of peace offerings.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.23.20",
+      "edition_verse_id": "KJV1769:LEV.23.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "And the priest shall wave them with the bread of the firstfruits ",
+          "kind": "text"
+        },
+        {
+          "text": "for",
+          "kind": "supplied"
+        },
+        {
+          "text": " a wave offering before the LORD, with the two lambs: they shall be holy to the LORD for the priest.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.23.21",
+      "edition_verse_id": "KJV1769:LEV.23.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "And ye shall proclaim on the selfsame day, ",
+          "kind": "text"
+        },
+        {
+          "text": "that",
+          "kind": "supplied"
+        },
+        {
+          "text": " it may be an holy convocation unto you: ye shall do no servile work ",
+          "kind": "text"
+        },
+        {
+          "text": "therein: it shall be",
+          "kind": "supplied"
+        },
+        {
+          "text": " a statute for ever in all your dwellings throughout your generations.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.23.22",
+      "edition_verse_id": "KJV1769:LEV.23.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "¶ And when ye reap the harvest of your land, thou shalt not make clean riddance of the corners of thy field when thou reapest, neither shalt thou gather any gleaning of thy harvest: thou shalt leave them unto the poor, and to the stranger: I ",
+          "kind": "text"
+        },
+        {
+          "text": "am",
+          "kind": "supplied"
+        },
+        {
+          "text": " the LORD your God.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LEV.23.23",
+      "edition_verse_id": "KJV1769:LEV.23.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "¶ And the LORD spake unto Moses, saying,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LEV.23.24",
+      "edition_verse_id": "KJV1769:LEV.23.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "Speak unto the children of Israel, saying, In the seventh month, in the first ",
+          "kind": "text"
+        },
+        {
+          "text": "day",
+          "kind": "supplied"
+        },
+        {
+          "text": " of the month, shall ye have a sabbath, a memorial of blowing of trumpets, an holy convocation.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.23.25",
+      "edition_verse_id": "KJV1769:LEV.23.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "Ye shall do no servile work ",
+          "kind": "text"
+        },
+        {
+          "text": "therein:",
+          "kind": "supplied"
+        },
+        {
+          "text": " but ye shall offer an offering made by fire unto the LORD.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.23.26",
+      "edition_verse_id": "KJV1769:LEV.23.26",
+      "verse": 26,
+      "spans": [
+        {
+          "text": "¶ And the LORD spake unto Moses, saying,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LEV.23.27",
+      "edition_verse_id": "KJV1769:LEV.23.27",
+      "verse": 27,
+      "spans": [
+        {
+          "text": "Also on the tenth ",
+          "kind": "text"
+        },
+        {
+          "text": "day",
+          "kind": "supplied"
+        },
+        {
+          "text": " of this seventh month ",
+          "kind": "text"
+        },
+        {
+          "text": "there shall be",
+          "kind": "supplied"
+        },
+        {
+          "text": " a day of atonement: it shall be an holy convocation unto you; and ye shall afflict your souls, and offer an offering made by fire unto the LORD.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.23.28",
+      "edition_verse_id": "KJV1769:LEV.23.28",
+      "verse": 28,
+      "spans": [
+        {
+          "text": "And ye shall do no work in that same day: for it ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " a day of atonement, to make an atonement for you before the LORD your God.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.23.29",
+      "edition_verse_id": "KJV1769:LEV.23.29",
+      "verse": 29,
+      "spans": [
+        {
+          "text": "For whatsoever soul ",
+          "kind": "text"
+        },
+        {
+          "text": "it be",
+          "kind": "supplied"
+        },
+        {
+          "text": " that shall not be afflicted in that same day, he shall be cut off from among his people.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.23.30",
+      "edition_verse_id": "KJV1769:LEV.23.30",
+      "verse": 30,
+      "spans": [
+        {
+          "text": "And whatsoever soul ",
+          "kind": "text"
+        },
+        {
+          "text": "it be",
+          "kind": "supplied"
+        },
+        {
+          "text": " that doeth any work in that same day, the same soul will I destroy from among his people.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.23.31",
+      "edition_verse_id": "KJV1769:LEV.23.31",
+      "verse": 31,
+      "spans": [
+        {
+          "text": "Ye shall do no manner of work: ",
+          "kind": "text"
+        },
+        {
+          "text": "it shall be",
+          "kind": "supplied"
+        },
+        {
+          "text": " a statute for ever throughout your generations in all your dwellings.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.23.32",
+      "edition_verse_id": "KJV1769:LEV.23.32",
+      "verse": 32,
+      "spans": [
+        {
+          "text": "It ",
+          "kind": "text"
+        },
+        {
+          "text": "shall be",
+          "kind": "supplied"
+        },
+        {
+          "text": " unto you a sabbath of rest, and ye shall afflict your souls: in the ninth ",
+          "kind": "text"
+        },
+        {
+          "text": "day",
+          "kind": "supplied"
+        },
+        {
+          "text": " of the month at even, from even unto even, shall ye celebrate your sabbath.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.23.33",
+      "edition_verse_id": "KJV1769:LEV.23.33",
+      "verse": 33,
+      "spans": [
+        {
+          "text": "¶ And the LORD spake unto Moses, saying,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LEV.23.34",
+      "edition_verse_id": "KJV1769:LEV.23.34",
+      "verse": 34,
+      "spans": [
+        {
+          "text": "Speak unto the children of Israel, saying, The fifteenth day of this seventh month ",
+          "kind": "text"
+        },
+        {
+          "text": "shall be",
+          "kind": "supplied"
+        },
+        {
+          "text": " the feast of tabernacles ",
+          "kind": "text"
+        },
+        {
+          "text": "for",
+          "kind": "supplied"
+        },
+        {
+          "text": " seven days unto the LORD.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.23.35",
+      "edition_verse_id": "KJV1769:LEV.23.35",
+      "verse": 35,
+      "spans": [
+        {
+          "text": "On the first day ",
+          "kind": "text"
+        },
+        {
+          "text": "shall be",
+          "kind": "supplied"
+        },
+        {
+          "text": " an holy convocation: ye shall do no servile work ",
+          "kind": "text"
+        },
+        {
+          "text": "therein",
+          "kind": "supplied"
+        },
+        {
+          "text": ".",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.23.36",
+      "edition_verse_id": "KJV1769:LEV.23.36",
+      "verse": 36,
+      "spans": [
+        {
+          "text": "Seven days ye shall offer an offering made by fire unto the LORD: on the eighth day shall be an holy convocation unto you; and ye shall offer an offering made by fire unto the LORD: it ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " a solemn assembly; ",
+          "kind": "text"
+        },
+        {
+          "text": "and",
+          "kind": "supplied"
+        },
+        {
+          "text": " ye shall do no servile work ",
+          "kind": "text"
+        },
+        {
+          "text": "therein",
+          "kind": "supplied"
+        },
+        {
+          "text": ".",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.23.37",
+      "edition_verse_id": "KJV1769:LEV.23.37",
+      "verse": 37,
+      "spans": [
+        {
+          "text": "These ",
+          "kind": "text"
+        },
+        {
+          "text": "are",
+          "kind": "supplied"
+        },
+        {
+          "text": " the feasts of the LORD, which ye shall proclaim ",
+          "kind": "text"
+        },
+        {
+          "text": "to be",
+          "kind": "supplied"
+        },
+        {
+          "text": " holy convocations, to offer an offering made by fire unto the LORD, a burnt offering, and a meat offering, a sacrifice, and drink offerings, every thing upon his day:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.23.38",
+      "edition_verse_id": "KJV1769:LEV.23.38",
+      "verse": 38,
+      "spans": [
+        {
+          "text": "Beside the sabbaths of the LORD, and beside your gifts, and beside all your vows, and beside all your freewill offerings, which ye give unto the LORD.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.23.39",
+      "edition_verse_id": "KJV1769:LEV.23.39",
+      "verse": 39,
+      "spans": [
+        {
+          "text": "Also in the fifteenth day of the seventh month, when ye have gathered in the fruit of the land, ye shall keep a feast unto the LORD seven days: on the first day ",
+          "kind": "text"
+        },
+        {
+          "text": "shall be",
+          "kind": "supplied"
+        },
+        {
+          "text": " a sabbath, and on the eighth day ",
+          "kind": "text"
+        },
+        {
+          "text": "shall be",
+          "kind": "supplied"
+        },
+        {
+          "text": " a sabbath.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.23.40",
+      "edition_verse_id": "KJV1769:LEV.23.40",
+      "verse": 40,
+      "spans": [
+        {
+          "text": "And ye shall take you on the first day the boughs of goodly trees, branches of palm trees, and the boughs of thick trees, and willows of the brook; and ye shall rejoice before the LORD your God seven days.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.23.41",
+      "edition_verse_id": "KJV1769:LEV.23.41",
+      "verse": 41,
+      "spans": [
+        {
+          "text": "And ye shall keep it a feast unto the LORD seven days in the year. ",
+          "kind": "text"
+        },
+        {
+          "text": "It shall be",
+          "kind": "supplied"
+        },
+        {
+          "text": " a statute for ever in your generations: ye shall celebrate it in the seventh month.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.23.42",
+      "edition_verse_id": "KJV1769:LEV.23.42",
+      "verse": 42,
+      "spans": [
+        {
+          "text": "Ye shall dwell in booths seven days; all that are Israelites born shall dwell in booths:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.23.43",
+      "edition_verse_id": "KJV1769:LEV.23.43",
+      "verse": 43,
+      "spans": [
+        {
+          "text": "That your generations may know that I made the children of Israel to dwell in booths, when I brought them out of the land of Egypt: I ",
+          "kind": "text"
+        },
+        {
+          "text": "am",
+          "kind": "supplied"
+        },
+        {
+          "text": " the LORD your God.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.23.44",
+      "edition_verse_id": "KJV1769:LEV.23.44",
+      "verse": 44,
+      "spans": [
+        {
+          "text": "And Moses declared unto the children of Israel the feasts of the LORD.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

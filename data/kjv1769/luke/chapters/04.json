@@ -1,0 +1,608 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "KJV1769",
+  "book_code": "LUK",
+  "chapter": 4,
+  "verses": [
+    {
+      "id": "LUK.4.1",
+      "edition_verse_id": "KJV1769:LUK.4.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "And Jesus being full of the Holy Ghost returned from Jordan, and was led by the Spirit into the wilderness,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LUK.4.2",
+      "edition_verse_id": "KJV1769:LUK.4.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "Being forty days tempted of the devil. And in those days he did eat nothing: and when they were ended, he afterward hungered.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.4.3",
+      "edition_verse_id": "KJV1769:LUK.4.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "And the devil said unto him, If thou be the Son of God, command this stone that it be made bread.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.4.4",
+      "edition_verse_id": "KJV1769:LUK.4.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "And Jesus answered him, saying, It is written, That man shall not live by bread alone, but by every word of God.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.4.5",
+      "edition_verse_id": "KJV1769:LUK.4.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "And the devil, taking him up into an high mountain, shewed unto him all the kingdoms of the world in a moment of time.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.4.6",
+      "edition_verse_id": "KJV1769:LUK.4.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "And the devil said unto him, All this power will I give thee, and the glory of them: for that is delivered unto me; and to whomsoever I will I give it.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.4.7",
+      "edition_verse_id": "KJV1769:LUK.4.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "If thou therefore wilt worship me, all shall be thine.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.4.8",
+      "edition_verse_id": "KJV1769:LUK.4.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "And Jesus answered and said unto him, Get thee behind me, Satan: for it is written, Thou shalt worship the Lord thy God, and him only shalt thou serve.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.4.9",
+      "edition_verse_id": "KJV1769:LUK.4.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "And he brought him to Jerusalem, and set him on a pinnacle of the temple, and said unto him, If thou be the Son of God, cast thyself down from hence:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.4.10",
+      "edition_verse_id": "KJV1769:LUK.4.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "For it is written, He shall give his angels charge over thee, to keep thee:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.4.11",
+      "edition_verse_id": "KJV1769:LUK.4.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "And in ",
+          "kind": "text"
+        },
+        {
+          "text": "their",
+          "kind": "supplied"
+        },
+        {
+          "text": " hands they shall bear thee up, lest at any time thou dash thy foot against a stone.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.4.12",
+      "edition_verse_id": "KJV1769:LUK.4.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "And Jesus answering said unto him, It is said, Thou shalt not tempt the Lord thy God.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.4.13",
+      "edition_verse_id": "KJV1769:LUK.4.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "And when the devil had ended all the temptation, he departed from him for a season.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.4.14",
+      "edition_verse_id": "KJV1769:LUK.4.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "¶ And Jesus returned in the power of the Spirit into Galilee: and there went out a fame of him through all the region round about.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LUK.4.15",
+      "edition_verse_id": "KJV1769:LUK.4.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "And he taught in their synagogues, being glorified of all.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.4.16",
+      "edition_verse_id": "KJV1769:LUK.4.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "¶ And he came to Nazareth, where he had been brought up: and, as his custom was, he went into the synagogue on the sabbath day, and stood up for to read.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LUK.4.17",
+      "edition_verse_id": "KJV1769:LUK.4.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "And there was delivered unto him the book of the prophet Esaias. And when he had opened the book, he found the place where it was written,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.4.18",
+      "edition_verse_id": "KJV1769:LUK.4.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "The Spirit of the Lord ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " upon me, because he hath anointed me to preach the gospel to the poor; he hath sent me to heal the brokenhearted, to preach deliverance to the captives, and recovering of sight to the blind, to set at liberty them that are bruised,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.4.19",
+      "edition_verse_id": "KJV1769:LUK.4.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "To preach the acceptable year of the Lord.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.4.20",
+      "edition_verse_id": "KJV1769:LUK.4.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "And he closed the book, and he gave ",
+          "kind": "text"
+        },
+        {
+          "text": "it",
+          "kind": "supplied"
+        },
+        {
+          "text": " again to the minister, and sat down. And the eyes of all them that were in the synagogue were fastened on him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.4.21",
+      "edition_verse_id": "KJV1769:LUK.4.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "And he began to say unto them, This day is this scripture fulfilled in your ears.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.4.22",
+      "edition_verse_id": "KJV1769:LUK.4.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "And all bare him witness, and wondered at the gracious words which proceeded out of his mouth. And they said, Is not this Joseph’s son?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.4.23",
+      "edition_verse_id": "KJV1769:LUK.4.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "And he said unto them, Ye will surely say unto me this proverb, Physician, heal thyself: whatsoever we have heard done in Capernaum, do also here in thy country.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.4.24",
+      "edition_verse_id": "KJV1769:LUK.4.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "And he said, Verily I say unto you, No prophet is accepted in his own country.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.4.25",
+      "edition_verse_id": "KJV1769:LUK.4.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "But I tell you of a truth, many widows were in Israel in the days of Elias, when the heaven was shut up three years and six months, when great famine was throughout all the land;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.4.26",
+      "edition_verse_id": "KJV1769:LUK.4.26",
+      "verse": 26,
+      "spans": [
+        {
+          "text": "But unto none of them was Elias sent, save unto Sarepta, ",
+          "kind": "text"
+        },
+        {
+          "text": "a city",
+          "kind": "supplied"
+        },
+        {
+          "text": " of Sidon, unto a woman ",
+          "kind": "text"
+        },
+        {
+          "text": "that was",
+          "kind": "supplied"
+        },
+        {
+          "text": " a widow.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.4.27",
+      "edition_verse_id": "KJV1769:LUK.4.27",
+      "verse": 27,
+      "spans": [
+        {
+          "text": "And many lepers were in Israel in the time of Eliseus the prophet; and none of them was cleansed, saving Naaman the Syrian.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.4.28",
+      "edition_verse_id": "KJV1769:LUK.4.28",
+      "verse": 28,
+      "spans": [
+        {
+          "text": "And all they in the synagogue, when they heard these things, were filled with wrath,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.4.29",
+      "edition_verse_id": "KJV1769:LUK.4.29",
+      "verse": 29,
+      "spans": [
+        {
+          "text": "And rose up, and thrust him out of the city, and led him unto the brow of the hill whereon their city was built, that they might cast him down headlong.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.4.30",
+      "edition_verse_id": "KJV1769:LUK.4.30",
+      "verse": 30,
+      "spans": [
+        {
+          "text": "But he passing through the midst of them went his way,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.4.31",
+      "edition_verse_id": "KJV1769:LUK.4.31",
+      "verse": 31,
+      "spans": [
+        {
+          "text": "And came down to Capernaum, a city of Galilee, and taught them on the sabbath days.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.4.32",
+      "edition_verse_id": "KJV1769:LUK.4.32",
+      "verse": 32,
+      "spans": [
+        {
+          "text": "And they were astonished at his doctrine: for his word was with power.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.4.33",
+      "edition_verse_id": "KJV1769:LUK.4.33",
+      "verse": 33,
+      "spans": [
+        {
+          "text": "¶ And in the synagogue there was a man, which had a spirit of an unclean devil, and cried out with a loud voice,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LUK.4.34",
+      "edition_verse_id": "KJV1769:LUK.4.34",
+      "verse": 34,
+      "spans": [
+        {
+          "text": "Saying, Let ",
+          "kind": "text"
+        },
+        {
+          "text": "us",
+          "kind": "supplied"
+        },
+        {
+          "text": " alone; what have we to do with thee, ",
+          "kind": "text"
+        },
+        {
+          "text": "thou",
+          "kind": "supplied"
+        },
+        {
+          "text": " Jesus of Nazareth? art thou come to destroy us? I know thee who thou art; the Holy One of God.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.4.35",
+      "edition_verse_id": "KJV1769:LUK.4.35",
+      "verse": 35,
+      "spans": [
+        {
+          "text": "And Jesus rebuked him, saying, Hold thy peace, and come out of him. And when the devil had thrown him in the midst, he came out of him, and hurt him not.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.4.36",
+      "edition_verse_id": "KJV1769:LUK.4.36",
+      "verse": 36,
+      "spans": [
+        {
+          "text": "And they were all amazed, and spake among themselves, saying, What a word ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " this! for with authority and power he commandeth the unclean spirits, and they come out.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.4.37",
+      "edition_verse_id": "KJV1769:LUK.4.37",
+      "verse": 37,
+      "spans": [
+        {
+          "text": "And the fame of him went out into every place of the country round about.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.4.38",
+      "edition_verse_id": "KJV1769:LUK.4.38",
+      "verse": 38,
+      "spans": [
+        {
+          "text": "¶ And he arose out of the synagogue, and entered into Simon’s house. And Simon’s wife’s mother was taken with a great fever; and they besought him for her.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LUK.4.39",
+      "edition_verse_id": "KJV1769:LUK.4.39",
+      "verse": 39,
+      "spans": [
+        {
+          "text": "And he stood over her, and rebuked the fever; and it left her: and immediately she arose and ministered unto them.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.4.40",
+      "edition_verse_id": "KJV1769:LUK.4.40",
+      "verse": 40,
+      "spans": [
+        {
+          "text": "¶ Now when the sun was setting, all they that had any sick with divers diseases brought them unto him; and he laid his hands on every one of them, and healed them.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LUK.4.41",
+      "edition_verse_id": "KJV1769:LUK.4.41",
+      "verse": 41,
+      "spans": [
+        {
+          "text": "And devils also came out of many, crying out, and saying, Thou art Christ the Son of God. And he rebuking ",
+          "kind": "text"
+        },
+        {
+          "text": "them",
+          "kind": "supplied"
+        },
+        {
+          "text": " suffered them not to speak: for they knew that he was Christ.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.4.42",
+      "edition_verse_id": "KJV1769:LUK.4.42",
+      "verse": 42,
+      "spans": [
+        {
+          "text": "And when it was day, he departed and went into a desert place: and the people sought him, and came unto him, and stayed him, that he should not depart from them.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.4.43",
+      "edition_verse_id": "KJV1769:LUK.4.43",
+      "verse": 43,
+      "spans": [
+        {
+          "text": "And he said unto them, I must preach the kingdom of God to other cities also: for therefore am I sent.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.4.44",
+      "edition_verse_id": "KJV1769:LUK.4.44",
+      "verse": 44,
+      "spans": [
+        {
+          "text": "And he preached in the synagogues of Galilee.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

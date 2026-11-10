@@ -1,0 +1,1004 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "KJV1769",
+  "book_code": "LUK",
+  "chapter": 22,
+  "verses": [
+    {
+      "id": "LUK.22.1",
+      "edition_verse_id": "KJV1769:LUK.22.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "Now the feast of unleavened bread drew nigh, which is called the Passover.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LUK.22.2",
+      "edition_verse_id": "KJV1769:LUK.22.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "And the chief priests and scribes sought how they might kill him; for they feared the people.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.22.3",
+      "edition_verse_id": "KJV1769:LUK.22.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "¶ Then entered Satan into Judas surnamed Iscariot, being of the number of the twelve.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LUK.22.4",
+      "edition_verse_id": "KJV1769:LUK.22.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "And he went his way, and communed with the chief priests and captains, how he might betray him unto them.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.22.5",
+      "edition_verse_id": "KJV1769:LUK.22.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "And they were glad, and covenanted to give him money.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.22.6",
+      "edition_verse_id": "KJV1769:LUK.22.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "And he promised, and sought opportunity to betray him unto them in the absence of the multitude.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.22.7",
+      "edition_verse_id": "KJV1769:LUK.22.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "¶ Then came the day of unleavened bread, when the passover must be killed.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LUK.22.8",
+      "edition_verse_id": "KJV1769:LUK.22.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "And he sent Peter and John, saying, Go and prepare us the passover, that we may eat.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.22.9",
+      "edition_verse_id": "KJV1769:LUK.22.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "And they said unto him, Where wilt thou that we prepare?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.22.10",
+      "edition_verse_id": "KJV1769:LUK.22.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "And he said unto them, Behold, when ye are entered into the city, there shall a man meet you, bearing a pitcher of water; follow him into the house where he entereth in.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.22.11",
+      "edition_verse_id": "KJV1769:LUK.22.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "And ye shall say unto the goodman of the house, The Master saith unto thee, Where is the guestchamber, where I shall eat the passover with my disciples?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.22.12",
+      "edition_verse_id": "KJV1769:LUK.22.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "And he shall shew you a large upper room furnished: there make ready.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.22.13",
+      "edition_verse_id": "KJV1769:LUK.22.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "And they went, and found as he had said unto them: and they made ready the passover.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.22.14",
+      "edition_verse_id": "KJV1769:LUK.22.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "And when the hour was come, he sat down, and the twelve apostles with him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.22.15",
+      "edition_verse_id": "KJV1769:LUK.22.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "And he said unto them, With desire I have desired to eat this passover with you before I suffer:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.22.16",
+      "edition_verse_id": "KJV1769:LUK.22.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "For I say unto you, I will not any more eat thereof, until it be fulfilled in the kingdom of God.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.22.17",
+      "edition_verse_id": "KJV1769:LUK.22.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "And he took the cup, and gave thanks, and said, Take this, and divide ",
+          "kind": "text"
+        },
+        {
+          "text": "it",
+          "kind": "supplied"
+        },
+        {
+          "text": " among yourselves:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.22.18",
+      "edition_verse_id": "KJV1769:LUK.22.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "For I say unto you, I will not drink of the fruit of the vine, until the kingdom of God shall come.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.22.19",
+      "edition_verse_id": "KJV1769:LUK.22.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "¶ And he took bread, and gave thanks, and brake ",
+          "kind": "text"
+        },
+        {
+          "text": "it",
+          "kind": "supplied"
+        },
+        {
+          "text": ", and gave unto them, saying, This is my body which is given for you: this do in remembrance of me.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LUK.22.20",
+      "edition_verse_id": "KJV1769:LUK.22.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "Likewise also the cup after supper, saying, This cup ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " the new testament in my blood, which is shed for you.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.22.21",
+      "edition_verse_id": "KJV1769:LUK.22.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "¶ But, behold, the hand of him that betrayeth me ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " with me on the table.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LUK.22.22",
+      "edition_verse_id": "KJV1769:LUK.22.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "And truly the Son of man goeth, as it was determined: but woe unto that man by whom he is betrayed!",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.22.23",
+      "edition_verse_id": "KJV1769:LUK.22.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "And they began to enquire among themselves, which of them it was that should do this thing.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.22.24",
+      "edition_verse_id": "KJV1769:LUK.22.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "¶ And there was also a strife among them, which of them should be accounted the greatest.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LUK.22.25",
+      "edition_verse_id": "KJV1769:LUK.22.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "And he said unto them, The kings of the Gentiles exercise lordship over them; and they that exercise authority upon them are called benefactors.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.22.26",
+      "edition_verse_id": "KJV1769:LUK.22.26",
+      "verse": 26,
+      "spans": [
+        {
+          "text": "But ye ",
+          "kind": "text"
+        },
+        {
+          "text": "shall",
+          "kind": "supplied"
+        },
+        {
+          "text": " not ",
+          "kind": "text"
+        },
+        {
+          "text": "be",
+          "kind": "supplied"
+        },
+        {
+          "text": " so: but he that is greatest among you, let him be as the younger; and he that is chief, as he that doth serve.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.22.27",
+      "edition_verse_id": "KJV1769:LUK.22.27",
+      "verse": 27,
+      "spans": [
+        {
+          "text": "For whether ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " greater, he that sitteth at meat, or he that serveth? ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " not he that sitteth at meat? but I am among you as he that serveth.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.22.28",
+      "edition_verse_id": "KJV1769:LUK.22.28",
+      "verse": 28,
+      "spans": [
+        {
+          "text": "Ye are they which have continued with me in my temptations.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.22.29",
+      "edition_verse_id": "KJV1769:LUK.22.29",
+      "verse": 29,
+      "spans": [
+        {
+          "text": "And I appoint unto you a kingdom, as my Father hath appointed unto me;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.22.30",
+      "edition_verse_id": "KJV1769:LUK.22.30",
+      "verse": 30,
+      "spans": [
+        {
+          "text": "That ye may eat and drink at my table in my kingdom, and sit on thrones judging the twelve tribes of Israel.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.22.31",
+      "edition_verse_id": "KJV1769:LUK.22.31",
+      "verse": 31,
+      "spans": [
+        {
+          "text": "¶ And the Lord said, Simon, Simon, behold, Satan hath desired ",
+          "kind": "text"
+        },
+        {
+          "text": "to have",
+          "kind": "supplied"
+        },
+        {
+          "text": " you, that he may sift ",
+          "kind": "text"
+        },
+        {
+          "text": "you",
+          "kind": "supplied"
+        },
+        {
+          "text": " as wheat:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LUK.22.32",
+      "edition_verse_id": "KJV1769:LUK.22.32",
+      "verse": 32,
+      "spans": [
+        {
+          "text": "But I have prayed for thee, that thy faith fail not: and when thou art converted, strengthen thy brethren.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.22.33",
+      "edition_verse_id": "KJV1769:LUK.22.33",
+      "verse": 33,
+      "spans": [
+        {
+          "text": "And he said unto him, Lord, I am ready to go with thee, both into prison, and to death.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.22.34",
+      "edition_verse_id": "KJV1769:LUK.22.34",
+      "verse": 34,
+      "spans": [
+        {
+          "text": "And he said, I tell thee, Peter, the cock shall not crow this day, before that thou shalt thrice deny that thou knowest me.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.22.35",
+      "edition_verse_id": "KJV1769:LUK.22.35",
+      "verse": 35,
+      "spans": [
+        {
+          "text": "And he said unto them, When I sent you without purse, and scrip, and shoes, lacked ye any thing? And they said, Nothing.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.22.36",
+      "edition_verse_id": "KJV1769:LUK.22.36",
+      "verse": 36,
+      "spans": [
+        {
+          "text": "Then said he unto them, But now, he that hath a purse, let him take ",
+          "kind": "text"
+        },
+        {
+          "text": "it",
+          "kind": "supplied"
+        },
+        {
+          "text": ", and likewise ",
+          "kind": "text"
+        },
+        {
+          "text": "his",
+          "kind": "supplied"
+        },
+        {
+          "text": " scrip: and he that hath no sword, let him sell his garment, and buy one.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.22.37",
+      "edition_verse_id": "KJV1769:LUK.22.37",
+      "verse": 37,
+      "spans": [
+        {
+          "text": "For I say unto you, that this that is written must yet be accomplished in me, And he was reckoned among the transgressors: for the things concerning me have an end.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.22.38",
+      "edition_verse_id": "KJV1769:LUK.22.38",
+      "verse": 38,
+      "spans": [
+        {
+          "text": "And they said, Lord, behold, here ",
+          "kind": "text"
+        },
+        {
+          "text": "are",
+          "kind": "supplied"
+        },
+        {
+          "text": " two swords. And he said unto them, It is enough.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.22.39",
+      "edition_verse_id": "KJV1769:LUK.22.39",
+      "verse": 39,
+      "spans": [
+        {
+          "text": "¶ And he came out, and went, as he was wont, to the mount of Olives; and his disciples also followed him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LUK.22.40",
+      "edition_verse_id": "KJV1769:LUK.22.40",
+      "verse": 40,
+      "spans": [
+        {
+          "text": "And when he was at the place, he said unto them, Pray that ye enter not into temptation.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.22.41",
+      "edition_verse_id": "KJV1769:LUK.22.41",
+      "verse": 41,
+      "spans": [
+        {
+          "text": "And he was withdrawn from them about a stone’s cast, and kneeled down, and prayed,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.22.42",
+      "edition_verse_id": "KJV1769:LUK.22.42",
+      "verse": 42,
+      "spans": [
+        {
+          "text": "Saying, Father, if thou be willing, remove this cup from me: nevertheless not my will, but thine, be done.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.22.43",
+      "edition_verse_id": "KJV1769:LUK.22.43",
+      "verse": 43,
+      "spans": [
+        {
+          "text": "And there appeared an angel unto him from heaven, strengthening him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.22.44",
+      "edition_verse_id": "KJV1769:LUK.22.44",
+      "verse": 44,
+      "spans": [
+        {
+          "text": "And being in an agony he prayed more earnestly: and his sweat was as it were great drops of blood falling down to the ground.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.22.45",
+      "edition_verse_id": "KJV1769:LUK.22.45",
+      "verse": 45,
+      "spans": [
+        {
+          "text": "And when he rose up from prayer, and was come to his disciples, he found them sleeping for sorrow,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.22.46",
+      "edition_verse_id": "KJV1769:LUK.22.46",
+      "verse": 46,
+      "spans": [
+        {
+          "text": "And said unto them, Why sleep ye? rise and pray, lest ye enter into temptation.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.22.47",
+      "edition_verse_id": "KJV1769:LUK.22.47",
+      "verse": 47,
+      "spans": [
+        {
+          "text": "¶ And while he yet spake, behold a multitude, and he that was called Judas, one of the twelve, went before them, and drew near unto Jesus to kiss him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LUK.22.48",
+      "edition_verse_id": "KJV1769:LUK.22.48",
+      "verse": 48,
+      "spans": [
+        {
+          "text": "But Jesus said unto him, Judas, betrayest thou the Son of man with a kiss?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.22.49",
+      "edition_verse_id": "KJV1769:LUK.22.49",
+      "verse": 49,
+      "spans": [
+        {
+          "text": "When they which were about him saw what would follow, they said unto him, Lord, shall we smite with the sword?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.22.50",
+      "edition_verse_id": "KJV1769:LUK.22.50",
+      "verse": 50,
+      "spans": [
+        {
+          "text": "¶ And one of them smote the servant of the high priest, and cut off his right ear.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LUK.22.51",
+      "edition_verse_id": "KJV1769:LUK.22.51",
+      "verse": 51,
+      "spans": [
+        {
+          "text": "And Jesus answered and said, Suffer ye thus far. And he touched his ear, and healed him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.22.52",
+      "edition_verse_id": "KJV1769:LUK.22.52",
+      "verse": 52,
+      "spans": [
+        {
+          "text": "Then Jesus said unto the chief priests, and captains of the temple, and the elders, which were come to him, Be ye come out, as against a thief, with swords and staves?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.22.53",
+      "edition_verse_id": "KJV1769:LUK.22.53",
+      "verse": 53,
+      "spans": [
+        {
+          "text": "When I was daily with you in the temple, ye stretched forth no hands against me: but this is your hour, and the power of darkness.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.22.54",
+      "edition_verse_id": "KJV1769:LUK.22.54",
+      "verse": 54,
+      "spans": [
+        {
+          "text": "¶ Then took they him, and led ",
+          "kind": "text"
+        },
+        {
+          "text": "him",
+          "kind": "supplied"
+        },
+        {
+          "text": ", and brought him into the high priest’s house. And Peter followed afar off.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LUK.22.55",
+      "edition_verse_id": "KJV1769:LUK.22.55",
+      "verse": 55,
+      "spans": [
+        {
+          "text": "And when they had kindled a fire in the midst of the hall, and were set down together, Peter sat down among them.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.22.56",
+      "edition_verse_id": "KJV1769:LUK.22.56",
+      "verse": 56,
+      "spans": [
+        {
+          "text": "But a certain maid beheld him as he sat by the fire, and earnestly looked upon him, and said, This man was also with him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.22.57",
+      "edition_verse_id": "KJV1769:LUK.22.57",
+      "verse": 57,
+      "spans": [
+        {
+          "text": "And he denied him, saying, Woman, I know him not.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.22.58",
+      "edition_verse_id": "KJV1769:LUK.22.58",
+      "verse": 58,
+      "spans": [
+        {
+          "text": "And after a little while another saw him, and said, Thou art also of them. And Peter said, Man, I am not.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.22.59",
+      "edition_verse_id": "KJV1769:LUK.22.59",
+      "verse": 59,
+      "spans": [
+        {
+          "text": "And about the space of one hour after another confidently affirmed, saying, Of a truth this ",
+          "kind": "text"
+        },
+        {
+          "text": "fellow",
+          "kind": "supplied"
+        },
+        {
+          "text": " also was with him: for he is a Galilæan.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.22.60",
+      "edition_verse_id": "KJV1769:LUK.22.60",
+      "verse": 60,
+      "spans": [
+        {
+          "text": "And Peter said, Man, I know not what thou sayest. And immediately, while he yet spake, the cock crew.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.22.61",
+      "edition_verse_id": "KJV1769:LUK.22.61",
+      "verse": 61,
+      "spans": [
+        {
+          "text": "And the Lord turned, and looked upon Peter. And Peter remembered the word of the Lord, how he had said unto him, Before the cock crow, thou shalt deny me thrice.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.22.62",
+      "edition_verse_id": "KJV1769:LUK.22.62",
+      "verse": 62,
+      "spans": [
+        {
+          "text": "And Peter went out, and wept bitterly.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.22.63",
+      "edition_verse_id": "KJV1769:LUK.22.63",
+      "verse": 63,
+      "spans": [
+        {
+          "text": "¶ And the men that held Jesus mocked him, and smote ",
+          "kind": "text"
+        },
+        {
+          "text": "him",
+          "kind": "supplied"
+        },
+        {
+          "text": ".",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LUK.22.64",
+      "edition_verse_id": "KJV1769:LUK.22.64",
+      "verse": 64,
+      "spans": [
+        {
+          "text": "And when they had blindfolded him, they struck him on the face, and asked him, saying, Prophesy, who is it that smote thee?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.22.65",
+      "edition_verse_id": "KJV1769:LUK.22.65",
+      "verse": 65,
+      "spans": [
+        {
+          "text": "And many other things blasphemously spake they against him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.22.66",
+      "edition_verse_id": "KJV1769:LUK.22.66",
+      "verse": 66,
+      "spans": [
+        {
+          "text": "¶ And as soon as it was day, the elders of the people and the chief priests and the scribes came together, and led him into their council, saying,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LUK.22.67",
+      "edition_verse_id": "KJV1769:LUK.22.67",
+      "verse": 67,
+      "spans": [
+        {
+          "text": "Art thou the Christ? tell us. And he said unto them, If I tell you, ye will not believe:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.22.68",
+      "edition_verse_id": "KJV1769:LUK.22.68",
+      "verse": 68,
+      "spans": [
+        {
+          "text": "And if I also ask ",
+          "kind": "text"
+        },
+        {
+          "text": "you",
+          "kind": "supplied"
+        },
+        {
+          "text": ", ye will not answer me, nor let ",
+          "kind": "text"
+        },
+        {
+          "text": "me",
+          "kind": "supplied"
+        },
+        {
+          "text": " go.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.22.69",
+      "edition_verse_id": "KJV1769:LUK.22.69",
+      "verse": 69,
+      "spans": [
+        {
+          "text": "Hereafter shall the Son of man sit on the right hand of the power of God.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.22.70",
+      "edition_verse_id": "KJV1769:LUK.22.70",
+      "verse": 70,
+      "spans": [
+        {
+          "text": "Then said they all, Art thou then the Son of God? And he said unto them, Ye say that I am.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.22.71",
+      "edition_verse_id": "KJV1769:LUK.22.71",
+      "verse": 71,
+      "spans": [
+        {
+          "text": "And they said, What need we any further witness? for we ourselves have heard of his own mouth.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

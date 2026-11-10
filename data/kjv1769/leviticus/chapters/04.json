@@ -1,0 +1,652 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "KJV1769",
+  "book_code": "LEV",
+  "chapter": 4,
+  "verses": [
+    {
+      "id": "LEV.4.1",
+      "edition_verse_id": "KJV1769:LEV.4.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "And the LORD spake unto Moses, saying,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LEV.4.2",
+      "edition_verse_id": "KJV1769:LEV.4.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "Speak unto the children of Israel, saying, If a soul shall sin through ignorance against any of the commandments of the LORD ",
+          "kind": "text"
+        },
+        {
+          "text": "concerning things",
+          "kind": "supplied"
+        },
+        {
+          "text": " which ought not to be done, and shall do against any of them:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.4.3",
+      "edition_verse_id": "KJV1769:LEV.4.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "If the priest that is anointed do sin according to the sin of the people; then let him bring for his sin, which he hath sinned, a young bullock without blemish unto the LORD for a sin offering.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.4.4",
+      "edition_verse_id": "KJV1769:LEV.4.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "And he shall bring the bullock unto the door of the tabernacle of the congregation before the LORD; and shall lay his hand upon the bullock’s head, and kill the bullock before the LORD.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.4.5",
+      "edition_verse_id": "KJV1769:LEV.4.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "And the priest that is anointed shall take of the bullock’s blood, and bring it to the tabernacle of the congregation:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.4.6",
+      "edition_verse_id": "KJV1769:LEV.4.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "And the priest shall dip his finger in the blood, and sprinkle of the blood seven times before the LORD, before the vail of the sanctuary.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.4.7",
+      "edition_verse_id": "KJV1769:LEV.4.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "And the priest shall put ",
+          "kind": "text"
+        },
+        {
+          "text": "some",
+          "kind": "supplied"
+        },
+        {
+          "text": " of the blood upon the horns of the altar of sweet incense before the LORD, which ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " in the tabernacle of the congregation; and shall pour all the blood of the bullock at the bottom of the altar of the burnt offering, which ",
+          "kind": "text"
+        },
+        {
+          "text": "is at",
+          "kind": "supplied"
+        },
+        {
+          "text": " the door of the tabernacle of the congregation.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.4.8",
+      "edition_verse_id": "KJV1769:LEV.4.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "And he shall take off from it all the fat of the bullock for the sin offering; the fat that covereth the inwards, and all the fat that ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " upon the inwards,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.4.9",
+      "edition_verse_id": "KJV1769:LEV.4.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "And the two kidneys, and the fat that ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " upon them, which ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " by the flanks, and the caul above the liver, with the kidneys, it shall he take away,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.4.10",
+      "edition_verse_id": "KJV1769:LEV.4.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "As it was taken off from the bullock of the sacrifice of peace offerings: and the priest shall burn them upon the altar of the burnt offering.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.4.11",
+      "edition_verse_id": "KJV1769:LEV.4.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "And the skin of the bullock, and all his flesh, with his head, and with his legs, and his inwards, and his dung,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.4.12",
+      "edition_verse_id": "KJV1769:LEV.4.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "Even the whole bullock shall he carry forth without the camp unto a clean place, where the ashes are poured out, and burn him on the wood with fire: where the ashes are poured out shall he be burnt.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.4.13",
+      "edition_verse_id": "KJV1769:LEV.4.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "¶ And if the whole congregation of Israel sin through ignorance, and the thing be hid from the eyes of the assembly, and they have done ",
+          "kind": "text"
+        },
+        {
+          "text": "somewhat against",
+          "kind": "supplied"
+        },
+        {
+          "text": " any of the commandments of the LORD ",
+          "kind": "text"
+        },
+        {
+          "text": "concerning things",
+          "kind": "supplied"
+        },
+        {
+          "text": " which should not be done, and are guilty;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LEV.4.14",
+      "edition_verse_id": "KJV1769:LEV.4.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "When the sin, which they have sinned against it, is known, then the congregation shall offer a young bullock for the sin, and bring him before the tabernacle of the congregation.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.4.15",
+      "edition_verse_id": "KJV1769:LEV.4.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "And the elders of the congregation shall lay their hands upon the head of the bullock before the LORD: and the bullock shall be killed before the LORD.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.4.16",
+      "edition_verse_id": "KJV1769:LEV.4.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "And the priest that is anointed shall bring of the bullock’s blood to the tabernacle of the congregation:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.4.17",
+      "edition_verse_id": "KJV1769:LEV.4.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "And the priest shall dip his finger ",
+          "kind": "text"
+        },
+        {
+          "text": "in some",
+          "kind": "supplied"
+        },
+        {
+          "text": " of the blood, and sprinkle ",
+          "kind": "text"
+        },
+        {
+          "text": "it",
+          "kind": "supplied"
+        },
+        {
+          "text": " seven times before the LORD, ",
+          "kind": "text"
+        },
+        {
+          "text": "even",
+          "kind": "supplied"
+        },
+        {
+          "text": " before the vail.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.4.18",
+      "edition_verse_id": "KJV1769:LEV.4.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "And he shall put ",
+          "kind": "text"
+        },
+        {
+          "text": "some",
+          "kind": "supplied"
+        },
+        {
+          "text": " of the blood upon the horns of the altar which ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " before the LORD, that ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " in the tabernacle of the congregation, and shall pour out all the blood at the bottom of the altar of the burnt offering, which ",
+          "kind": "text"
+        },
+        {
+          "text": "is at",
+          "kind": "supplied"
+        },
+        {
+          "text": " the door of the tabernacle of the congregation.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.4.19",
+      "edition_verse_id": "KJV1769:LEV.4.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "And he shall take all his fat from him, and burn ",
+          "kind": "text"
+        },
+        {
+          "text": "it",
+          "kind": "supplied"
+        },
+        {
+          "text": " upon the altar.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.4.20",
+      "edition_verse_id": "KJV1769:LEV.4.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "And he shall do with the bullock as he did with the bullock for a sin offering, so shall he do with this: and the priest shall make an atonement for them, and it shall be forgiven them.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.4.21",
+      "edition_verse_id": "KJV1769:LEV.4.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "And he shall carry forth the bullock without the camp, and burn him as he burned the first bullock: it ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " a sin offering for the congregation.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.4.22",
+      "edition_verse_id": "KJV1769:LEV.4.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "¶ When a ruler hath sinned, and done ",
+          "kind": "text"
+        },
+        {
+          "text": "somewhat",
+          "kind": "supplied"
+        },
+        {
+          "text": " through ignorance ",
+          "kind": "text"
+        },
+        {
+          "text": "against",
+          "kind": "supplied"
+        },
+        {
+          "text": " any of the commandments of the LORD his God ",
+          "kind": "text"
+        },
+        {
+          "text": "concerning things",
+          "kind": "supplied"
+        },
+        {
+          "text": " which should not be done, and is guilty;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LEV.4.23",
+      "edition_verse_id": "KJV1769:LEV.4.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "Or if his sin, wherein he hath sinned, come to his knowledge; he shall bring his offering, a kid of the goats, a male without blemish:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.4.24",
+      "edition_verse_id": "KJV1769:LEV.4.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "And he shall lay his hand upon the head of the goat, and kill it in the place where they kill the burnt offering before the LORD: it ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " a sin offering.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.4.25",
+      "edition_verse_id": "KJV1769:LEV.4.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "And the priest shall take of the blood of the sin offering with his finger, and put ",
+          "kind": "text"
+        },
+        {
+          "text": "it",
+          "kind": "supplied"
+        },
+        {
+          "text": " upon the horns of the altar of burnt offering, and shall pour out his blood at the bottom of the altar of burnt offering.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.4.26",
+      "edition_verse_id": "KJV1769:LEV.4.26",
+      "verse": 26,
+      "spans": [
+        {
+          "text": "And he shall burn all his fat upon the altar, as the fat of the sacrifice of peace offerings: and the priest shall make an atonement for him as concerning his sin, and it shall be forgiven him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.4.27",
+      "edition_verse_id": "KJV1769:LEV.4.27",
+      "verse": 27,
+      "spans": [
+        {
+          "text": "¶ And if any one of the common people sin through ignorance, while he doeth ",
+          "kind": "text"
+        },
+        {
+          "text": "somewhat against",
+          "kind": "supplied"
+        },
+        {
+          "text": " any of the commandments of the LORD ",
+          "kind": "text"
+        },
+        {
+          "text": "concerning things",
+          "kind": "supplied"
+        },
+        {
+          "text": " which ought not to be done, and be guilty;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LEV.4.28",
+      "edition_verse_id": "KJV1769:LEV.4.28",
+      "verse": 28,
+      "spans": [
+        {
+          "text": "Or if his sin, which he hath sinned, come to his knowledge: then he shall bring his offering, a kid of the goats, a female without blemish, for his sin which he hath sinned.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.4.29",
+      "edition_verse_id": "KJV1769:LEV.4.29",
+      "verse": 29,
+      "spans": [
+        {
+          "text": "And he shall lay his hand upon the head of the sin offering, and slay the sin offering in the place of the burnt offering.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.4.30",
+      "edition_verse_id": "KJV1769:LEV.4.30",
+      "verse": 30,
+      "spans": [
+        {
+          "text": "And the priest shall take of the blood thereof with his finger, and put ",
+          "kind": "text"
+        },
+        {
+          "text": "it",
+          "kind": "supplied"
+        },
+        {
+          "text": " upon the horns of the altar of burnt offering, and shall pour out all the blood thereof at the bottom of the altar.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.4.31",
+      "edition_verse_id": "KJV1769:LEV.4.31",
+      "verse": 31,
+      "spans": [
+        {
+          "text": "And he shall take away all the fat thereof, as the fat is taken away from off the sacrifice of peace offerings; and the priest shall burn ",
+          "kind": "text"
+        },
+        {
+          "text": "it",
+          "kind": "supplied"
+        },
+        {
+          "text": " upon the altar for a sweet savour unto the LORD; and the priest shall make an atonement for him, and it shall be forgiven him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.4.32",
+      "edition_verse_id": "KJV1769:LEV.4.32",
+      "verse": 32,
+      "spans": [
+        {
+          "text": "And if he bring a lamb for a sin offering, he shall bring it a female without blemish.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.4.33",
+      "edition_verse_id": "KJV1769:LEV.4.33",
+      "verse": 33,
+      "spans": [
+        {
+          "text": "And he shall lay his hand upon the head of the sin offering, and slay it for a sin offering in the place where they kill the burnt offering.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.4.34",
+      "edition_verse_id": "KJV1769:LEV.4.34",
+      "verse": 34,
+      "spans": [
+        {
+          "text": "And the priest shall take of the blood of the sin offering with his finger, and put ",
+          "kind": "text"
+        },
+        {
+          "text": "it",
+          "kind": "supplied"
+        },
+        {
+          "text": " upon the horns of the altar of burnt offering, and shall pour out all the blood thereof at the bottom of the altar:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.4.35",
+      "edition_verse_id": "KJV1769:LEV.4.35",
+      "verse": 35,
+      "spans": [
+        {
+          "text": "And he shall take away all the fat thereof, as the fat of the lamb is taken away from the sacrifice of the peace offerings; and the priest shall burn them upon the altar, according to the offerings made by fire unto the LORD: and the priest shall make an atonement for his sin that he hath committed, and it shall be forgiven him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

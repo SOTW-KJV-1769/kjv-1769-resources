@@ -1,0 +1,840 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "KJV1769",
+  "book_code": "LUK",
+  "chapter": 8,
+  "verses": [
+    {
+      "id": "LUK.8.1",
+      "edition_verse_id": "KJV1769:LUK.8.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "And it came to pass afterward, that he went throughout every city and village, preaching and shewing the glad tidings of the kingdom of God: and the twelve ",
+          "kind": "text"
+        },
+        {
+          "text": "were",
+          "kind": "supplied"
+        },
+        {
+          "text": " with him,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LUK.8.2",
+      "edition_verse_id": "KJV1769:LUK.8.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "And certain women, which had been healed of evil spirits and infirmities, Mary called Magdalene, out of whom went seven devils,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.8.3",
+      "edition_verse_id": "KJV1769:LUK.8.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "And Joanna the wife of Chuza Herod’s steward, and Susanna, and many others, which ministered unto him of their substance.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.8.4",
+      "edition_verse_id": "KJV1769:LUK.8.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "¶ And when much people were gathered together, and were come to him out of every city, he spake by a parable:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LUK.8.5",
+      "edition_verse_id": "KJV1769:LUK.8.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "A sower went out to sow his seed: and as he sowed, some fell by the way side; and it was trodden down, and the fowls of the air devoured it.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.8.6",
+      "edition_verse_id": "KJV1769:LUK.8.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "And some fell upon a rock; and as soon as it was sprung up, it withered away, because it lacked moisture.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.8.7",
+      "edition_verse_id": "KJV1769:LUK.8.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "And some fell among thorns; and the thorns sprang up with it, and choked it.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.8.8",
+      "edition_verse_id": "KJV1769:LUK.8.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "And other fell on good ground, and sprang up, and bare fruit an hundredfold. And when he had said these things, he cried, He that hath ears to hear, let him hear.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.8.9",
+      "edition_verse_id": "KJV1769:LUK.8.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "And his disciples asked him, saying, What might this parable be?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.8.10",
+      "edition_verse_id": "KJV1769:LUK.8.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "And he said, Unto you it is given to know the mysteries of the kingdom of God: but to others in parables; that seeing they might not see, and hearing they might not understand.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.8.11",
+      "edition_verse_id": "KJV1769:LUK.8.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "Now the parable is this: The seed is the word of God.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.8.12",
+      "edition_verse_id": "KJV1769:LUK.8.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "Those by the way side are they that hear; then cometh the devil, and taketh away the word out of their hearts, lest they should believe and be saved.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.8.13",
+      "edition_verse_id": "KJV1769:LUK.8.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "They on the rock ",
+          "kind": "text"
+        },
+        {
+          "text": "are they",
+          "kind": "supplied"
+        },
+        {
+          "text": ", which, when they hear, receive the word with joy; and these have no root, which for a while believe, and in time of temptation fall away.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.8.14",
+      "edition_verse_id": "KJV1769:LUK.8.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "And that which fell among thorns are they, which, when they have heard, go forth, and are choked with cares and riches and pleasures of ",
+          "kind": "text"
+        },
+        {
+          "text": "this",
+          "kind": "supplied"
+        },
+        {
+          "text": " life, and bring no fruit to perfection.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.8.15",
+      "edition_verse_id": "KJV1769:LUK.8.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "But that on the good ground are they, which in an honest and good heart, having heard the word, keep ",
+          "kind": "text"
+        },
+        {
+          "text": "it",
+          "kind": "supplied"
+        },
+        {
+          "text": ", and bring forth fruit with patience.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.8.16",
+      "edition_verse_id": "KJV1769:LUK.8.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "¶ No man, when he hath lighted a candle, covereth it with a vessel, or putteth ",
+          "kind": "text"
+        },
+        {
+          "text": "it",
+          "kind": "supplied"
+        },
+        {
+          "text": " under a bed; but setteth ",
+          "kind": "text"
+        },
+        {
+          "text": "it",
+          "kind": "supplied"
+        },
+        {
+          "text": " on a candlestick, that they which enter in may see the light.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LUK.8.17",
+      "edition_verse_id": "KJV1769:LUK.8.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "For nothing is secret, that shall not be made manifest; neither ",
+          "kind": "text"
+        },
+        {
+          "text": "any thing",
+          "kind": "supplied"
+        },
+        {
+          "text": " hid, that shall not be known and come abroad.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.8.18",
+      "edition_verse_id": "KJV1769:LUK.8.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "Take heed therefore how ye hear: for whosoever hath, to him shall be given; and whosoever hath not, from him shall be taken even that which he seemeth to have.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.8.19",
+      "edition_verse_id": "KJV1769:LUK.8.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "¶ Then came to him ",
+          "kind": "text"
+        },
+        {
+          "text": "his",
+          "kind": "supplied"
+        },
+        {
+          "text": " mother and his brethren, and could not come at him for the press.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LUK.8.20",
+      "edition_verse_id": "KJV1769:LUK.8.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "And it was told him ",
+          "kind": "text"
+        },
+        {
+          "text": "by certain",
+          "kind": "supplied"
+        },
+        {
+          "text": " which said, Thy mother and thy brethren stand without, desiring to see thee.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.8.21",
+      "edition_verse_id": "KJV1769:LUK.8.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "And he answered and said unto them, My mother and my brethren are these which hear the word of God, and do it.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.8.22",
+      "edition_verse_id": "KJV1769:LUK.8.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "¶ Now it came to pass on a certain day, that he went into a ship with his disciples: and he said unto them, Let us go over unto the other side of the lake. And they launched forth.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LUK.8.23",
+      "edition_verse_id": "KJV1769:LUK.8.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "But as they sailed he fell asleep: and there came down a storm of wind on the lake; and they were filled ",
+          "kind": "text"
+        },
+        {
+          "text": "with water",
+          "kind": "supplied"
+        },
+        {
+          "text": ", and were in jeopardy.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.8.24",
+      "edition_verse_id": "KJV1769:LUK.8.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "And they came to him, and awoke him, saying, Master, master, we perish. Then he arose, and rebuked the wind and the raging of the water: and they ceased, and there was a calm.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.8.25",
+      "edition_verse_id": "KJV1769:LUK.8.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "And he said unto them, Where is your faith? And they being afraid wondered, saying one to another, What manner of man is this! for he commandeth even the winds and water, and they obey him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.8.26",
+      "edition_verse_id": "KJV1769:LUK.8.26",
+      "verse": 26,
+      "spans": [
+        {
+          "text": "¶ And they arrived at the country of the Gadarenes, which is over against Galilee.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LUK.8.27",
+      "edition_verse_id": "KJV1769:LUK.8.27",
+      "verse": 27,
+      "spans": [
+        {
+          "text": "And when he went forth to land, there met him out of the city a certain man, which had devils long time, and ware no clothes, neither abode in ",
+          "kind": "text"
+        },
+        {
+          "text": "any",
+          "kind": "supplied"
+        },
+        {
+          "text": " house, but in the tombs.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.8.28",
+      "edition_verse_id": "KJV1769:LUK.8.28",
+      "verse": 28,
+      "spans": [
+        {
+          "text": "When he saw Jesus, he cried out, and fell down before him, and with a loud voice said, What have I to do with thee, Jesus, ",
+          "kind": "text"
+        },
+        {
+          "text": "thou",
+          "kind": "supplied"
+        },
+        {
+          "text": " Son of God most high? I beseech thee, torment me not.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.8.29",
+      "edition_verse_id": "KJV1769:LUK.8.29",
+      "verse": 29,
+      "spans": [
+        {
+          "text": "(For he had commanded the unclean spirit to come out of the man. For oftentimes it had caught him: and he was kept bound with chains and in fetters; and he brake the bands, and was driven of the devil into the wilderness.)",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.8.30",
+      "edition_verse_id": "KJV1769:LUK.8.30",
+      "verse": 30,
+      "spans": [
+        {
+          "text": "And Jesus asked him, saying, What is thy name? And he said, Legion: because many devils were entered into him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.8.31",
+      "edition_verse_id": "KJV1769:LUK.8.31",
+      "verse": 31,
+      "spans": [
+        {
+          "text": "And they besought him that he would not command them to go out into the deep.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.8.32",
+      "edition_verse_id": "KJV1769:LUK.8.32",
+      "verse": 32,
+      "spans": [
+        {
+          "text": "And there was there an herd of many swine feeding on the mountain: and they besought him that he would suffer them to enter into them. And he suffered them.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.8.33",
+      "edition_verse_id": "KJV1769:LUK.8.33",
+      "verse": 33,
+      "spans": [
+        {
+          "text": "Then went the devils out of the man, and entered into the swine: and the herd ran violently down a steep place into the lake, and were choked.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.8.34",
+      "edition_verse_id": "KJV1769:LUK.8.34",
+      "verse": 34,
+      "spans": [
+        {
+          "text": "When they that fed ",
+          "kind": "text"
+        },
+        {
+          "text": "them",
+          "kind": "supplied"
+        },
+        {
+          "text": " saw what was done, they fled, and went and told ",
+          "kind": "text"
+        },
+        {
+          "text": "it",
+          "kind": "supplied"
+        },
+        {
+          "text": " in the city and in the country.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.8.35",
+      "edition_verse_id": "KJV1769:LUK.8.35",
+      "verse": 35,
+      "spans": [
+        {
+          "text": "Then they went out to see what was done; and came to Jesus, and found the man, out of whom the devils were departed, sitting at the feet of Jesus, clothed, and in his right mind: and they were afraid.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.8.36",
+      "edition_verse_id": "KJV1769:LUK.8.36",
+      "verse": 36,
+      "spans": [
+        {
+          "text": "They also which saw ",
+          "kind": "text"
+        },
+        {
+          "text": "it",
+          "kind": "supplied"
+        },
+        {
+          "text": " told them by what means he that was possessed of the devils was healed.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.8.37",
+      "edition_verse_id": "KJV1769:LUK.8.37",
+      "verse": 37,
+      "spans": [
+        {
+          "text": "¶ Then the whole multitude of the country of the Gadarenes round about besought him to depart from them; for they were taken with great fear: and he went up into the ship, and returned back again.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LUK.8.38",
+      "edition_verse_id": "KJV1769:LUK.8.38",
+      "verse": 38,
+      "spans": [
+        {
+          "text": "Now the man out of whom the devils were departed besought him that he might be with him: but Jesus sent him away, saying,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.8.39",
+      "edition_verse_id": "KJV1769:LUK.8.39",
+      "verse": 39,
+      "spans": [
+        {
+          "text": "Return to thine own house, and shew how great things God hath done unto thee. And he went his way, and published throughout the whole city how great things Jesus had done unto him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.8.40",
+      "edition_verse_id": "KJV1769:LUK.8.40",
+      "verse": 40,
+      "spans": [
+        {
+          "text": "And it came to pass, that, when Jesus was returned, the people ",
+          "kind": "text"
+        },
+        {
+          "text": "gladly",
+          "kind": "supplied"
+        },
+        {
+          "text": " received him: for they were all waiting for him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.8.41",
+      "edition_verse_id": "KJV1769:LUK.8.41",
+      "verse": 41,
+      "spans": [
+        {
+          "text": "¶ And, behold, there came a man named Jairus, and he was a ruler of the synagogue: and he fell down at Jesus’ feet, and besought him that he would come into his house:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LUK.8.42",
+      "edition_verse_id": "KJV1769:LUK.8.42",
+      "verse": 42,
+      "spans": [
+        {
+          "text": "For he had one only daughter, about twelve years of age, and she lay a dying. But as he went the people thronged him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.8.43",
+      "edition_verse_id": "KJV1769:LUK.8.43",
+      "verse": 43,
+      "spans": [
+        {
+          "text": "¶ And a woman having an issue of blood twelve years, which had spent all her living upon physicians, neither could be healed of any,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LUK.8.44",
+      "edition_verse_id": "KJV1769:LUK.8.44",
+      "verse": 44,
+      "spans": [
+        {
+          "text": "Came behind ",
+          "kind": "text"
+        },
+        {
+          "text": "him",
+          "kind": "supplied"
+        },
+        {
+          "text": ", and touched the border of his garment: and immediately her issue of blood stanched.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.8.45",
+      "edition_verse_id": "KJV1769:LUK.8.45",
+      "verse": 45,
+      "spans": [
+        {
+          "text": "And Jesus said, Who touched me? When all denied, Peter and they that were with him said, Master, the multitude throng thee and press ",
+          "kind": "text"
+        },
+        {
+          "text": "thee",
+          "kind": "supplied"
+        },
+        {
+          "text": ", and sayest thou, Who touched me?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.8.46",
+      "edition_verse_id": "KJV1769:LUK.8.46",
+      "verse": 46,
+      "spans": [
+        {
+          "text": "And Jesus said, Somebody hath touched me: for I perceive that virtue is gone out of me.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.8.47",
+      "edition_verse_id": "KJV1769:LUK.8.47",
+      "verse": 47,
+      "spans": [
+        {
+          "text": "And when the woman saw that she was not hid, she came trembling, and falling down before him, she declared unto him before all the people for what cause she had touched him, and how she was healed immediately.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.8.48",
+      "edition_verse_id": "KJV1769:LUK.8.48",
+      "verse": 48,
+      "spans": [
+        {
+          "text": "And he said unto her, Daughter, be of good comfort: thy faith hath made thee whole; go in peace.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.8.49",
+      "edition_verse_id": "KJV1769:LUK.8.49",
+      "verse": 49,
+      "spans": [
+        {
+          "text": "¶ While he yet spake, there cometh one from the ruler of the synagogue’s ",
+          "kind": "text"
+        },
+        {
+          "text": "house",
+          "kind": "supplied"
+        },
+        {
+          "text": ", saying to him, Thy daughter is dead; trouble not the Master.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LUK.8.50",
+      "edition_verse_id": "KJV1769:LUK.8.50",
+      "verse": 50,
+      "spans": [
+        {
+          "text": "But when Jesus heard ",
+          "kind": "text"
+        },
+        {
+          "text": "it",
+          "kind": "supplied"
+        },
+        {
+          "text": ", he answered him, saying, Fear not: believe only, and she shall be made whole.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.8.51",
+      "edition_verse_id": "KJV1769:LUK.8.51",
+      "verse": 51,
+      "spans": [
+        {
+          "text": "And when he came into the house, he suffered no man to go in, save Peter, and James, and John, and the father and the mother of the maiden.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.8.52",
+      "edition_verse_id": "KJV1769:LUK.8.52",
+      "verse": 52,
+      "spans": [
+        {
+          "text": "And all wept, and bewailed her: but he said, Weep not; she is not dead, but sleepeth.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.8.53",
+      "edition_verse_id": "KJV1769:LUK.8.53",
+      "verse": 53,
+      "spans": [
+        {
+          "text": "And they laughed him to scorn, knowing that she was dead.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.8.54",
+      "edition_verse_id": "KJV1769:LUK.8.54",
+      "verse": 54,
+      "spans": [
+        {
+          "text": "And he put them all out, and took her by the hand, and called, saying, Maid, arise.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.8.55",
+      "edition_verse_id": "KJV1769:LUK.8.55",
+      "verse": 55,
+      "spans": [
+        {
+          "text": "And her spirit came again, and she arose straightway: and he commanded to give her meat.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.8.56",
+      "edition_verse_id": "KJV1769:LUK.8.56",
+      "verse": 56,
+      "spans": [
+        {
+          "text": "And her parents were astonished: but he charged them that they should tell no man what was done.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

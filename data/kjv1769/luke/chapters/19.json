@@ -1,0 +1,712 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "KJV1769",
+  "book_code": "LUK",
+  "chapter": 19,
+  "verses": [
+    {
+      "id": "LUK.19.1",
+      "edition_verse_id": "KJV1769:LUK.19.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "And ",
+          "kind": "text"
+        },
+        {
+          "text": "Jesus",
+          "kind": "supplied"
+        },
+        {
+          "text": " entered and passed through Jericho.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LUK.19.2",
+      "edition_verse_id": "KJV1769:LUK.19.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "And, behold, ",
+          "kind": "text"
+        },
+        {
+          "text": "there was",
+          "kind": "supplied"
+        },
+        {
+          "text": " a man named Zacchæus, which was the chief among the publicans, and he was rich.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.19.3",
+      "edition_verse_id": "KJV1769:LUK.19.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "And he sought to see Jesus who he was; and could not for the press, because he was little of stature.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.19.4",
+      "edition_verse_id": "KJV1769:LUK.19.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "And he ran before, and climbed up into a sycomore tree to see him: for he was to pass that ",
+          "kind": "text"
+        },
+        {
+          "text": "way",
+          "kind": "supplied"
+        },
+        {
+          "text": ".",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.19.5",
+      "edition_verse_id": "KJV1769:LUK.19.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "And when Jesus came to the place, he looked up, and saw him, and said unto him, Zacchæus, make haste, and come down; for to day I must abide at thy house.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.19.6",
+      "edition_verse_id": "KJV1769:LUK.19.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "And he made haste, and came down, and received him joyfully.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.19.7",
+      "edition_verse_id": "KJV1769:LUK.19.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "And when they saw ",
+          "kind": "text"
+        },
+        {
+          "text": "it",
+          "kind": "supplied"
+        },
+        {
+          "text": ", they all murmured, saying, That he was gone to be guest with a man that is a sinner.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.19.8",
+      "edition_verse_id": "KJV1769:LUK.19.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "And Zacchæus stood, and said unto the Lord; Behold, Lord, the half of my goods I give to the poor; and if I have taken any thing from any man by false accusation, I restore ",
+          "kind": "text"
+        },
+        {
+          "text": "him",
+          "kind": "supplied"
+        },
+        {
+          "text": " fourfold.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.19.9",
+      "edition_verse_id": "KJV1769:LUK.19.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "And Jesus said unto him, This day is salvation come to this house, forsomuch as he also is a son of Abraham.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.19.10",
+      "edition_verse_id": "KJV1769:LUK.19.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "For the Son of man is come to seek and to save that which was lost.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.19.11",
+      "edition_verse_id": "KJV1769:LUK.19.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "And as they heard these things, he added and spake a parable, because he was nigh to Jerusalem, and because they thought that the kingdom of God should immediately appear.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.19.12",
+      "edition_verse_id": "KJV1769:LUK.19.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "He said therefore, A certain nobleman went into a far country to receive for himself a kingdom, and to return.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.19.13",
+      "edition_verse_id": "KJV1769:LUK.19.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "And he called his ten servants, and delivered them ten pounds, and said unto them, Occupy till I come.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.19.14",
+      "edition_verse_id": "KJV1769:LUK.19.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "But his citizens hated him, and sent a message after him, saying, We will not have this ",
+          "kind": "text"
+        },
+        {
+          "text": "man",
+          "kind": "supplied"
+        },
+        {
+          "text": " to reign over us.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.19.15",
+      "edition_verse_id": "KJV1769:LUK.19.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "And it came to pass, that when he was returned, having received the kingdom, then he commanded these servants to be called unto him, to whom he had given the money, that he might know how much every man had gained by trading.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.19.16",
+      "edition_verse_id": "KJV1769:LUK.19.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "Then came the first, saying, Lord, thy pound hath gained ten pounds.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.19.17",
+      "edition_verse_id": "KJV1769:LUK.19.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "And he said unto him, Well, thou good servant: because thou hast been faithful in a very little, have thou authority over ten cities.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.19.18",
+      "edition_verse_id": "KJV1769:LUK.19.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "And the second came, saying, Lord, thy pound hath gained five pounds.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.19.19",
+      "edition_verse_id": "KJV1769:LUK.19.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "And he said likewise to him, Be thou also over five cities.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.19.20",
+      "edition_verse_id": "KJV1769:LUK.19.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "And another came, saying, Lord, behold, ",
+          "kind": "text"
+        },
+        {
+          "text": "here is",
+          "kind": "supplied"
+        },
+        {
+          "text": " thy pound, which I have kept laid up in a napkin:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.19.21",
+      "edition_verse_id": "KJV1769:LUK.19.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "For I feared thee, because thou art an austere man: thou takest up that thou layedst not down, and reapest that thou didst not sow.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.19.22",
+      "edition_verse_id": "KJV1769:LUK.19.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "And he saith unto him, Out of thine own mouth will I judge thee, ",
+          "kind": "text"
+        },
+        {
+          "text": "thou",
+          "kind": "supplied"
+        },
+        {
+          "text": " wicked servant. Thou knewest that I was an austere man, taking up that I laid not down, and reaping that I did not sow:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.19.23",
+      "edition_verse_id": "KJV1769:LUK.19.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "Wherefore then gavest not thou my money into the bank, that at my coming I might have required mine own with usury?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.19.24",
+      "edition_verse_id": "KJV1769:LUK.19.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "And he said unto them that stood by, Take from him the pound, and give ",
+          "kind": "text"
+        },
+        {
+          "text": "it",
+          "kind": "supplied"
+        },
+        {
+          "text": " to him that hath ten pounds.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.19.25",
+      "edition_verse_id": "KJV1769:LUK.19.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "(And they said unto him, Lord, he hath ten pounds.)",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.19.26",
+      "edition_verse_id": "KJV1769:LUK.19.26",
+      "verse": 26,
+      "spans": [
+        {
+          "text": "For I say unto you, That unto every one which hath shall be given; and from him that hath not, even that he hath shall be taken away from him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.19.27",
+      "edition_verse_id": "KJV1769:LUK.19.27",
+      "verse": 27,
+      "spans": [
+        {
+          "text": "But those mine enemies, which would not that I should reign over them, bring hither, and slay ",
+          "kind": "text"
+        },
+        {
+          "text": "them",
+          "kind": "supplied"
+        },
+        {
+          "text": " before me.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.19.28",
+      "edition_verse_id": "KJV1769:LUK.19.28",
+      "verse": 28,
+      "spans": [
+        {
+          "text": "¶ And when he had thus spoken, he went before, ascending up to Jerusalem.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LUK.19.29",
+      "edition_verse_id": "KJV1769:LUK.19.29",
+      "verse": 29,
+      "spans": [
+        {
+          "text": "And it came to pass, when he was come nigh to Bethphage and Bethany, at the mount called ",
+          "kind": "text"
+        },
+        {
+          "text": "the mount",
+          "kind": "supplied"
+        },
+        {
+          "text": " of Olives, he sent two of his disciples,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.19.30",
+      "edition_verse_id": "KJV1769:LUK.19.30",
+      "verse": 30,
+      "spans": [
+        {
+          "text": "Saying, Go ye into the village over against ",
+          "kind": "text"
+        },
+        {
+          "text": "you",
+          "kind": "supplied"
+        },
+        {
+          "text": "; in the which at your entering ye shall find a colt tied, whereon yet never man sat: loose him, and bring ",
+          "kind": "text"
+        },
+        {
+          "text": "him hither",
+          "kind": "supplied"
+        },
+        {
+          "text": ".",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.19.31",
+      "edition_verse_id": "KJV1769:LUK.19.31",
+      "verse": 31,
+      "spans": [
+        {
+          "text": "And if any man ask you, Why do ye loose ",
+          "kind": "text"
+        },
+        {
+          "text": "him",
+          "kind": "supplied"
+        },
+        {
+          "text": "? thus shall ye say unto him, Because the Lord hath need of him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.19.32",
+      "edition_verse_id": "KJV1769:LUK.19.32",
+      "verse": 32,
+      "spans": [
+        {
+          "text": "And they that were sent went their way, and found even as he had said unto them.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.19.33",
+      "edition_verse_id": "KJV1769:LUK.19.33",
+      "verse": 33,
+      "spans": [
+        {
+          "text": "And as they were loosing the colt, the owners thereof said unto them, Why loose ye the colt?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.19.34",
+      "edition_verse_id": "KJV1769:LUK.19.34",
+      "verse": 34,
+      "spans": [
+        {
+          "text": "And they said, The Lord hath need of him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.19.35",
+      "edition_verse_id": "KJV1769:LUK.19.35",
+      "verse": 35,
+      "spans": [
+        {
+          "text": "And they brought him to Jesus: and they cast their garments upon the colt, and they set Jesus thereon.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.19.36",
+      "edition_verse_id": "KJV1769:LUK.19.36",
+      "verse": 36,
+      "spans": [
+        {
+          "text": "And as he went, they spread their clothes in the way.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.19.37",
+      "edition_verse_id": "KJV1769:LUK.19.37",
+      "verse": 37,
+      "spans": [
+        {
+          "text": "And when he was come nigh, even now at the descent of the mount of Olives, the whole multitude of the disciples began to rejoice and praise God with a loud voice for all the mighty works that they had seen;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.19.38",
+      "edition_verse_id": "KJV1769:LUK.19.38",
+      "verse": 38,
+      "spans": [
+        {
+          "text": "Saying, Blessed ",
+          "kind": "text"
+        },
+        {
+          "text": "be",
+          "kind": "supplied"
+        },
+        {
+          "text": " the King that cometh in the name of the Lord: peace in heaven, and glory in the highest.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.19.39",
+      "edition_verse_id": "KJV1769:LUK.19.39",
+      "verse": 39,
+      "spans": [
+        {
+          "text": "And some of the Pharisees from among the multitude said unto him, Master, rebuke thy disciples.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.19.40",
+      "edition_verse_id": "KJV1769:LUK.19.40",
+      "verse": 40,
+      "spans": [
+        {
+          "text": "And he answered and said unto them, I tell you that, if these should hold their peace, the stones would immediately cry out.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.19.41",
+      "edition_verse_id": "KJV1769:LUK.19.41",
+      "verse": 41,
+      "spans": [
+        {
+          "text": "¶ And when he was come near, he beheld the city, and wept over it,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LUK.19.42",
+      "edition_verse_id": "KJV1769:LUK.19.42",
+      "verse": 42,
+      "spans": [
+        {
+          "text": "Saying, If thou hadst known, even thou, at least in this thy day, the things ",
+          "kind": "text"
+        },
+        {
+          "text": "which belong",
+          "kind": "supplied"
+        },
+        {
+          "text": " unto thy peace! but now they are hid from thine eyes.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.19.43",
+      "edition_verse_id": "KJV1769:LUK.19.43",
+      "verse": 43,
+      "spans": [
+        {
+          "text": "For the days shall come upon thee, that thine enemies shall cast a trench about thee, and compass thee round, and keep thee in on every side,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.19.44",
+      "edition_verse_id": "KJV1769:LUK.19.44",
+      "verse": 44,
+      "spans": [
+        {
+          "text": "And shall lay thee even with the ground, and thy children within thee; and they shall not leave in thee one stone upon another; because thou knewest not the time of thy visitation.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.19.45",
+      "edition_verse_id": "KJV1769:LUK.19.45",
+      "verse": 45,
+      "spans": [
+        {
+          "text": "And he went into the temple, and began to cast out them that sold therein, and them that bought;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.19.46",
+      "edition_verse_id": "KJV1769:LUK.19.46",
+      "verse": 46,
+      "spans": [
+        {
+          "text": "Saying unto them, It is written, My house is the house of prayer: but ye have made it a den of thieves.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.19.47",
+      "edition_verse_id": "KJV1769:LUK.19.47",
+      "verse": 47,
+      "spans": [
+        {
+          "text": "And he taught daily in the temple. But the chief priests and the scribes and the chief of the people sought to destroy him,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.19.48",
+      "edition_verse_id": "KJV1769:LUK.19.48",
+      "verse": 48,
+      "spans": [
+        {
+          "text": "And could not find what they might do: for all the people were very attentive to hear him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

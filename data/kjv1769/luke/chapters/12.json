@@ -1,0 +1,864 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "KJV1769",
+  "book_code": "LUK",
+  "chapter": 12,
+  "verses": [
+    {
+      "id": "LUK.12.1",
+      "edition_verse_id": "KJV1769:LUK.12.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "In the mean time, when there were gathered together an innumerable multitude of people, insomuch that they trode one upon another, he began to say unto his disciples first of all, Beware ye of the leaven of the Pharisees, which is hypocrisy.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LUK.12.2",
+      "edition_verse_id": "KJV1769:LUK.12.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "For there is nothing covered, that shall not be revealed; neither hid, that shall not be known.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.12.3",
+      "edition_verse_id": "KJV1769:LUK.12.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "Therefore whatsoever ye have spoken in darkness shall be heard in the light; and that which ye have spoken in the ear in closets shall be proclaimed upon the housetops.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.12.4",
+      "edition_verse_id": "KJV1769:LUK.12.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "And I say unto you my friends, Be not afraid of them that kill the body, and after that have no more that they can do.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.12.5",
+      "edition_verse_id": "KJV1769:LUK.12.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "But I will forewarn you whom ye shall fear: Fear him, which after he hath killed hath power to cast into hell; yea, I say unto you, Fear him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.12.6",
+      "edition_verse_id": "KJV1769:LUK.12.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "Are not five sparrows sold for two farthings, and not one of them is forgotten before God?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.12.7",
+      "edition_verse_id": "KJV1769:LUK.12.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "But even the very hairs of your head are all numbered. Fear not therefore: ye are of more value than many sparrows.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.12.8",
+      "edition_verse_id": "KJV1769:LUK.12.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "Also I say unto you, Whosoever shall confess me before men, him shall the Son of man also confess before the angels of God:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.12.9",
+      "edition_verse_id": "KJV1769:LUK.12.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "But he that denieth me before men shall be denied before the angels of God.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.12.10",
+      "edition_verse_id": "KJV1769:LUK.12.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "And whosoever shall speak a word against the Son of man, it shall be forgiven him: but unto him that blasphemeth against the Holy Ghost it shall not be forgiven.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.12.11",
+      "edition_verse_id": "KJV1769:LUK.12.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "And when they bring you unto the synagogues, and ",
+          "kind": "text"
+        },
+        {
+          "text": "unto",
+          "kind": "supplied"
+        },
+        {
+          "text": " magistrates, and powers, take ye no thought how or what thing ye shall answer, or what ye shall say:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.12.12",
+      "edition_verse_id": "KJV1769:LUK.12.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "For the Holy Ghost shall teach you in the same hour what ye ought to say.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.12.13",
+      "edition_verse_id": "KJV1769:LUK.12.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "¶ And one of the company said unto him, Master, speak to my brother, that he divide the inheritance with me.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LUK.12.14",
+      "edition_verse_id": "KJV1769:LUK.12.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "And he said unto him, Man, who made me a judge or a divider over you?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.12.15",
+      "edition_verse_id": "KJV1769:LUK.12.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "And he said unto them, Take heed, and beware of covetousness: for a man’s life consisteth not in the abundance of the things which he possesseth.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.12.16",
+      "edition_verse_id": "KJV1769:LUK.12.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "And he spake a parable unto them, saying, The ground of a certain rich man brought forth plentifully:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.12.17",
+      "edition_verse_id": "KJV1769:LUK.12.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "And he thought within himself, saying, What shall I do, because I have no room where to bestow my fruits?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.12.18",
+      "edition_verse_id": "KJV1769:LUK.12.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "And he said, This will I do: I will pull down my barns, and build greater; and there will I bestow all my fruits and my goods.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.12.19",
+      "edition_verse_id": "KJV1769:LUK.12.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "And I will say to my soul, Soul, thou hast much goods laid up for many years; take thine ease, eat, drink, ",
+          "kind": "text"
+        },
+        {
+          "text": "and",
+          "kind": "supplied"
+        },
+        {
+          "text": " be merry.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.12.20",
+      "edition_verse_id": "KJV1769:LUK.12.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "But God said unto him, ",
+          "kind": "text"
+        },
+        {
+          "text": "Thou",
+          "kind": "supplied"
+        },
+        {
+          "text": " fool, this night thy soul shall be required of thee: then whose shall those things be, which thou hast provided?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.12.21",
+      "edition_verse_id": "KJV1769:LUK.12.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "So ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " he that layeth up treasure for himself, and is not rich toward God.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.12.22",
+      "edition_verse_id": "KJV1769:LUK.12.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "¶ And he said unto his disciples, Therefore I say unto you, Take no thought for your life, what ye shall eat; neither for the body, what ye shall put on.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LUK.12.23",
+      "edition_verse_id": "KJV1769:LUK.12.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "The life is more than meat, and the body ",
+          "kind": "text"
+        },
+        {
+          "text": "is more",
+          "kind": "supplied"
+        },
+        {
+          "text": " than raiment.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.12.24",
+      "edition_verse_id": "KJV1769:LUK.12.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "Consider the ravens: for they neither sow nor reap; which neither have storehouse nor barn; and God feedeth them: how much more are ye better than the fowls?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.12.25",
+      "edition_verse_id": "KJV1769:LUK.12.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "And which of you with taking thought can add to his stature one cubit?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.12.26",
+      "edition_verse_id": "KJV1769:LUK.12.26",
+      "verse": 26,
+      "spans": [
+        {
+          "text": "If ye then be not able to do that thing which is least, why take ye thought for the rest?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.12.27",
+      "edition_verse_id": "KJV1769:LUK.12.27",
+      "verse": 27,
+      "spans": [
+        {
+          "text": "Consider the lilies how they grow: they toil not, they spin not; and yet I say unto you, that Solomon in all his glory was not arrayed like one of these.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.12.28",
+      "edition_verse_id": "KJV1769:LUK.12.28",
+      "verse": 28,
+      "spans": [
+        {
+          "text": "If then God so clothe the grass, which is to day in the field, and to morrow is cast into the oven; how much more ",
+          "kind": "text"
+        },
+        {
+          "text": "will he clothe",
+          "kind": "supplied"
+        },
+        {
+          "text": " you, O ye of little faith?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.12.29",
+      "edition_verse_id": "KJV1769:LUK.12.29",
+      "verse": 29,
+      "spans": [
+        {
+          "text": "And seek not ye what ye shall eat, or what ye shall drink, neither be ye of doubtful mind.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.12.30",
+      "edition_verse_id": "KJV1769:LUK.12.30",
+      "verse": 30,
+      "spans": [
+        {
+          "text": "For all these things do the nations of the world seek after: and your Father knoweth that ye have need of these things.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.12.31",
+      "edition_verse_id": "KJV1769:LUK.12.31",
+      "verse": 31,
+      "spans": [
+        {
+          "text": "¶ But rather seek ye the kingdom of God; and all these things shall be added unto you.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LUK.12.32",
+      "edition_verse_id": "KJV1769:LUK.12.32",
+      "verse": 32,
+      "spans": [
+        {
+          "text": "Fear not, little flock; for it is your Father’s good pleasure to give you the kingdom.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.12.33",
+      "edition_verse_id": "KJV1769:LUK.12.33",
+      "verse": 33,
+      "spans": [
+        {
+          "text": "Sell that ye have, and give alms; provide yourselves bags which wax not old, a treasure in the heavens that faileth not, where no thief approacheth, neither moth corrupteth.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.12.34",
+      "edition_verse_id": "KJV1769:LUK.12.34",
+      "verse": 34,
+      "spans": [
+        {
+          "text": "For where your treasure is, there will your heart be also.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.12.35",
+      "edition_verse_id": "KJV1769:LUK.12.35",
+      "verse": 35,
+      "spans": [
+        {
+          "text": "Let your loins be girded about, and ",
+          "kind": "text"
+        },
+        {
+          "text": "your",
+          "kind": "supplied"
+        },
+        {
+          "text": " lights burning;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.12.36",
+      "edition_verse_id": "KJV1769:LUK.12.36",
+      "verse": 36,
+      "spans": [
+        {
+          "text": "And ye yourselves like unto men that wait for their lord, when he will return from the wedding; that when he cometh and knocketh, they may open unto him immediately.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.12.37",
+      "edition_verse_id": "KJV1769:LUK.12.37",
+      "verse": 37,
+      "spans": [
+        {
+          "text": "Blessed ",
+          "kind": "text"
+        },
+        {
+          "text": "are",
+          "kind": "supplied"
+        },
+        {
+          "text": " those servants, whom the lord when he cometh shall find watching: verily I say unto you, that he shall gird himself, and make them to sit down to meat, and will come forth and serve them.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.12.38",
+      "edition_verse_id": "KJV1769:LUK.12.38",
+      "verse": 38,
+      "spans": [
+        {
+          "text": "And if he shall come in the second watch, or come in the third watch, and find ",
+          "kind": "text"
+        },
+        {
+          "text": "them",
+          "kind": "supplied"
+        },
+        {
+          "text": " so, blessed are those servants.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.12.39",
+      "edition_verse_id": "KJV1769:LUK.12.39",
+      "verse": 39,
+      "spans": [
+        {
+          "text": "And this know, that if the goodman of the house had known what hour the thief would come, he would have watched, and not have suffered his house to be broken through.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.12.40",
+      "edition_verse_id": "KJV1769:LUK.12.40",
+      "verse": 40,
+      "spans": [
+        {
+          "text": "Be ye therefore ready also: for the Son of man cometh at an hour when ye think not.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.12.41",
+      "edition_verse_id": "KJV1769:LUK.12.41",
+      "verse": 41,
+      "spans": [
+        {
+          "text": "¶ Then Peter said unto him, Lord, speakest thou this parable unto us, or even to all?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LUK.12.42",
+      "edition_verse_id": "KJV1769:LUK.12.42",
+      "verse": 42,
+      "spans": [
+        {
+          "text": "And the Lord said, Who then is that faithful and wise steward, whom ",
+          "kind": "text"
+        },
+        {
+          "text": "his",
+          "kind": "supplied"
+        },
+        {
+          "text": " lord shall make ruler over his household, to give ",
+          "kind": "text"
+        },
+        {
+          "text": "them their",
+          "kind": "supplied"
+        },
+        {
+          "text": " portion of meat in due season?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.12.43",
+      "edition_verse_id": "KJV1769:LUK.12.43",
+      "verse": 43,
+      "spans": [
+        {
+          "text": "Blessed ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " that servant, whom his lord when he cometh shall find so doing.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.12.44",
+      "edition_verse_id": "KJV1769:LUK.12.44",
+      "verse": 44,
+      "spans": [
+        {
+          "text": "Of a truth I say unto you, that he will make him ruler over all that he hath.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.12.45",
+      "edition_verse_id": "KJV1769:LUK.12.45",
+      "verse": 45,
+      "spans": [
+        {
+          "text": "But and if that servant say in his heart, My lord delayeth his coming; and shall begin to beat the menservants and maidens, and to eat and drink, and to be drunken;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.12.46",
+      "edition_verse_id": "KJV1769:LUK.12.46",
+      "verse": 46,
+      "spans": [
+        {
+          "text": "The lord of that servant will come in a day when he looketh not for ",
+          "kind": "text"
+        },
+        {
+          "text": "him",
+          "kind": "supplied"
+        },
+        {
+          "text": ", and at an hour when he is not aware, and will cut him in sunder, and will appoint him his portion with the unbelievers.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.12.47",
+      "edition_verse_id": "KJV1769:LUK.12.47",
+      "verse": 47,
+      "spans": [
+        {
+          "text": "And that servant, which knew his lord’s will, and prepared not ",
+          "kind": "text"
+        },
+        {
+          "text": "himself",
+          "kind": "supplied"
+        },
+        {
+          "text": ", neither did according to his will, shall be beaten with many ",
+          "kind": "text"
+        },
+        {
+          "text": "stripes",
+          "kind": "supplied"
+        },
+        {
+          "text": ".",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.12.48",
+      "edition_verse_id": "KJV1769:LUK.12.48",
+      "verse": 48,
+      "spans": [
+        {
+          "text": "But he that knew not, and did commit things worthy of stripes, shall be beaten with few ",
+          "kind": "text"
+        },
+        {
+          "text": "stripes",
+          "kind": "supplied"
+        },
+        {
+          "text": ". For unto whomsoever much is given, of him shall be much required: and to whom men have committed much, of him they will ask the more.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.12.49",
+      "edition_verse_id": "KJV1769:LUK.12.49",
+      "verse": 49,
+      "spans": [
+        {
+          "text": "¶ I am come to send fire on the earth; and what will I, if it be already kindled?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LUK.12.50",
+      "edition_verse_id": "KJV1769:LUK.12.50",
+      "verse": 50,
+      "spans": [
+        {
+          "text": "But I have a baptism to be baptized with; and how am I straitened till it be accomplished!",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.12.51",
+      "edition_verse_id": "KJV1769:LUK.12.51",
+      "verse": 51,
+      "spans": [
+        {
+          "text": "Suppose ye that I am come to give peace on earth? I tell you, Nay; but rather division:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.12.52",
+      "edition_verse_id": "KJV1769:LUK.12.52",
+      "verse": 52,
+      "spans": [
+        {
+          "text": "For from henceforth there shall be five in one house divided, three against two, and two against three.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.12.53",
+      "edition_verse_id": "KJV1769:LUK.12.53",
+      "verse": 53,
+      "spans": [
+        {
+          "text": "The father shall be divided against the son, and the son against the father; the mother against the daughter, and the daughter against the mother; the mother in law against her daughter in law, and the daughter in law against her mother in law.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.12.54",
+      "edition_verse_id": "KJV1769:LUK.12.54",
+      "verse": 54,
+      "spans": [
+        {
+          "text": "¶ And he said also to the people, When ye see a cloud rise out of the west, straightway ye say, There cometh a shower; and so it is.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LUK.12.55",
+      "edition_verse_id": "KJV1769:LUK.12.55",
+      "verse": 55,
+      "spans": [
+        {
+          "text": "And when ",
+          "kind": "text"
+        },
+        {
+          "text": "ye see",
+          "kind": "supplied"
+        },
+        {
+          "text": " the south wind blow, ye say, There will be heat; and it cometh to pass.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.12.56",
+      "edition_verse_id": "KJV1769:LUK.12.56",
+      "verse": 56,
+      "spans": [
+        {
+          "text": "Ye",
+          "kind": "supplied"
+        },
+        {
+          "text": " hypocrites, ye can discern the face of the sky and of the earth; but how is it that ye do not discern this time?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.12.57",
+      "edition_verse_id": "KJV1769:LUK.12.57",
+      "verse": 57,
+      "spans": [
+        {
+          "text": "Yea, and why even of yourselves judge ye not what is right?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.12.58",
+      "edition_verse_id": "KJV1769:LUK.12.58",
+      "verse": 58,
+      "spans": [
+        {
+          "text": "¶ When thou goest with thine adversary to the magistrate, ",
+          "kind": "text"
+        },
+        {
+          "text": "as thou art",
+          "kind": "supplied"
+        },
+        {
+          "text": " in the way, give diligence that thou mayest be delivered from him; lest he hale thee to the judge, and the judge deliver thee to the officer, and the officer cast thee into prison.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LUK.12.59",
+      "edition_verse_id": "KJV1769:LUK.12.59",
+      "verse": 59,
+      "spans": [
+        {
+          "text": "I tell thee, thou shalt not depart thence, till thou hast paid the very last mite.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

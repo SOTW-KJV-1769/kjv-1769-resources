@@ -1,0 +1,704 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "KJV1769",
+  "book_code": "LEV",
+  "chapter": 8,
+  "verses": [
+    {
+      "id": "LEV.8.1",
+      "edition_verse_id": "KJV1769:LEV.8.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "And the LORD spake unto Moses, saying,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LEV.8.2",
+      "edition_verse_id": "KJV1769:LEV.8.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "Take Aaron and his sons with him, and the garments, and the anointing oil, and a bullock for the sin offering, and two rams, and a basket of unleavened bread;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.8.3",
+      "edition_verse_id": "KJV1769:LEV.8.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "And gather thou all the congregation together unto the door of the tabernacle of the congregation.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.8.4",
+      "edition_verse_id": "KJV1769:LEV.8.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "And Moses did as the LORD commanded him; and the assembly was gathered together unto the door of the tabernacle of the congregation.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.8.5",
+      "edition_verse_id": "KJV1769:LEV.8.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "And Moses said unto the congregation, This ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " the thing which the LORD commanded to be done.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.8.6",
+      "edition_verse_id": "KJV1769:LEV.8.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "And Moses brought Aaron and his sons, and washed them with water.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.8.7",
+      "edition_verse_id": "KJV1769:LEV.8.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "And he put upon him the coat, and girded him with the girdle, and clothed him with the robe, and put the ephod upon him, and he girded him with the curious girdle of the ephod, and bound ",
+          "kind": "text"
+        },
+        {
+          "text": "it",
+          "kind": "supplied"
+        },
+        {
+          "text": " unto him therewith.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.8.8",
+      "edition_verse_id": "KJV1769:LEV.8.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "And he put the breastplate upon him: also he put in the breastplate the Urim and the Thummim.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.8.9",
+      "edition_verse_id": "KJV1769:LEV.8.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "And he put the mitre upon his head; also upon the mitre, ",
+          "kind": "text"
+        },
+        {
+          "text": "even",
+          "kind": "supplied"
+        },
+        {
+          "text": " upon his forefront, did he put the golden plate, the holy crown; as the LORD commanded Moses.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.8.10",
+      "edition_verse_id": "KJV1769:LEV.8.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "And Moses took the anointing oil, and anointed the tabernacle and all that ",
+          "kind": "text"
+        },
+        {
+          "text": "was",
+          "kind": "supplied"
+        },
+        {
+          "text": " therein, and sanctified them.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.8.11",
+      "edition_verse_id": "KJV1769:LEV.8.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "And he sprinkled thereof upon the altar seven times, and anointed the altar and all his vessels, both the laver and his foot, to sanctify them.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.8.12",
+      "edition_verse_id": "KJV1769:LEV.8.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "And he poured of the anointing oil upon Aaron’s head, and anointed him, to sanctify him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.8.13",
+      "edition_verse_id": "KJV1769:LEV.8.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "And Moses brought Aaron’s sons, and put coats upon them, and girded them with girdles, and put bonnets upon them; as the LORD commanded Moses.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.8.14",
+      "edition_verse_id": "KJV1769:LEV.8.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "And he brought the bullock for the sin offering: and Aaron and his sons laid their hands upon the head of the bullock for the sin offering.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LEV.8.15",
+      "edition_verse_id": "KJV1769:LEV.8.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "And he slew ",
+          "kind": "text"
+        },
+        {
+          "text": "it;",
+          "kind": "supplied"
+        },
+        {
+          "text": " and Moses took the blood, and put ",
+          "kind": "text"
+        },
+        {
+          "text": "it",
+          "kind": "supplied"
+        },
+        {
+          "text": " upon the horns of the altar round about with his finger, and purified the altar, and poured the blood at the bottom of the altar, and sanctified it, to make reconciliation upon it.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.8.16",
+      "edition_verse_id": "KJV1769:LEV.8.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "And he took all the fat that ",
+          "kind": "text"
+        },
+        {
+          "text": "was",
+          "kind": "supplied"
+        },
+        {
+          "text": " upon the inwards, and the caul ",
+          "kind": "text"
+        },
+        {
+          "text": "above",
+          "kind": "supplied"
+        },
+        {
+          "text": " the liver, and the two kidneys, and their fat, and Moses burned ",
+          "kind": "text"
+        },
+        {
+          "text": "it",
+          "kind": "supplied"
+        },
+        {
+          "text": " upon the altar.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.8.17",
+      "edition_verse_id": "KJV1769:LEV.8.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "But the bullock, and his hide, his flesh, and his dung, he burnt with fire without the camp; as the LORD commanded Moses.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.8.18",
+      "edition_verse_id": "KJV1769:LEV.8.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "¶ And he brought the ram for the burnt offering: and Aaron and his sons laid their hands upon the head of the ram.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LEV.8.19",
+      "edition_verse_id": "KJV1769:LEV.8.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "And he killed ",
+          "kind": "text"
+        },
+        {
+          "text": "it;",
+          "kind": "supplied"
+        },
+        {
+          "text": " and Moses sprinkled the blood upon the altar round about.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.8.20",
+      "edition_verse_id": "KJV1769:LEV.8.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "And he cut the ram into pieces; and Moses burnt the head, and the pieces, and the fat.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.8.21",
+      "edition_verse_id": "KJV1769:LEV.8.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "And he washed the inwards and the legs in water; and Moses burnt the whole ram upon the altar: it ",
+          "kind": "text"
+        },
+        {
+          "text": "was",
+          "kind": "supplied"
+        },
+        {
+          "text": " a burnt sacrifice for a sweet savour, ",
+          "kind": "text"
+        },
+        {
+          "text": "and",
+          "kind": "supplied"
+        },
+        {
+          "text": " an offering made by fire unto the LORD; as the LORD commanded Moses.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.8.22",
+      "edition_verse_id": "KJV1769:LEV.8.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "¶ And he brought the other ram, the ram of consecration: and Aaron and his sons laid their hands upon the head of the ram.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LEV.8.23",
+      "edition_verse_id": "KJV1769:LEV.8.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "And he slew ",
+          "kind": "text"
+        },
+        {
+          "text": "it;",
+          "kind": "supplied"
+        },
+        {
+          "text": " and Moses took of the blood of it, and put ",
+          "kind": "text"
+        },
+        {
+          "text": "it",
+          "kind": "supplied"
+        },
+        {
+          "text": " upon the tip of Aaron’s right ear, and upon the thumb of his right hand, and upon the great toe of his right foot.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.8.24",
+      "edition_verse_id": "KJV1769:LEV.8.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "And he brought Aaron’s sons, and Moses put of the blood upon the tip of their right ear, and upon the thumbs of their right hands, and upon the great toes of their right feet: and Moses sprinkled the blood upon the altar round about.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.8.25",
+      "edition_verse_id": "KJV1769:LEV.8.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "And he took the fat, and the rump, and all the fat that ",
+          "kind": "text"
+        },
+        {
+          "text": "was",
+          "kind": "supplied"
+        },
+        {
+          "text": " upon the inwards, and the caul ",
+          "kind": "text"
+        },
+        {
+          "text": "above",
+          "kind": "supplied"
+        },
+        {
+          "text": " the liver, and the two kidneys, and their fat, and the right shoulder:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.8.26",
+      "edition_verse_id": "KJV1769:LEV.8.26",
+      "verse": 26,
+      "spans": [
+        {
+          "text": "And out of the basket of unleavened bread, that ",
+          "kind": "text"
+        },
+        {
+          "text": "was",
+          "kind": "supplied"
+        },
+        {
+          "text": " before the LORD, he took one unleavened cake, and a cake of oiled bread, and one wafer, and put ",
+          "kind": "text"
+        },
+        {
+          "text": "them",
+          "kind": "supplied"
+        },
+        {
+          "text": " on the fat, and upon the right shoulder:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.8.27",
+      "edition_verse_id": "KJV1769:LEV.8.27",
+      "verse": 27,
+      "spans": [
+        {
+          "text": "And he put all upon Aaron’s hands, and upon his sons’ hands, and waved them ",
+          "kind": "text"
+        },
+        {
+          "text": "for",
+          "kind": "supplied"
+        },
+        {
+          "text": " a wave offering before the LORD.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.8.28",
+      "edition_verse_id": "KJV1769:LEV.8.28",
+      "verse": 28,
+      "spans": [
+        {
+          "text": "And Moses took them from off their hands, and burnt ",
+          "kind": "text"
+        },
+        {
+          "text": "them",
+          "kind": "supplied"
+        },
+        {
+          "text": " on the altar upon the burnt offering: they ",
+          "kind": "text"
+        },
+        {
+          "text": "were",
+          "kind": "supplied"
+        },
+        {
+          "text": " consecrations for a sweet savour: it ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " an offering made by fire unto the LORD.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.8.29",
+      "edition_verse_id": "KJV1769:LEV.8.29",
+      "verse": 29,
+      "spans": [
+        {
+          "text": "And Moses took the breast, and waved it ",
+          "kind": "text"
+        },
+        {
+          "text": "for",
+          "kind": "supplied"
+        },
+        {
+          "text": " a wave offering before the LORD: ",
+          "kind": "text"
+        },
+        {
+          "text": "for",
+          "kind": "supplied"
+        },
+        {
+          "text": " of the ram of consecration it was Moses’ part; as the LORD commanded Moses.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.8.30",
+      "edition_verse_id": "KJV1769:LEV.8.30",
+      "verse": 30,
+      "spans": [
+        {
+          "text": "And Moses took of the anointing oil, and of the blood which ",
+          "kind": "text"
+        },
+        {
+          "text": "was",
+          "kind": "supplied"
+        },
+        {
+          "text": " upon the altar, and sprinkled ",
+          "kind": "text"
+        },
+        {
+          "text": "it",
+          "kind": "supplied"
+        },
+        {
+          "text": " upon Aaron, ",
+          "kind": "text"
+        },
+        {
+          "text": "and",
+          "kind": "supplied"
+        },
+        {
+          "text": " upon his garments, and upon his sons, and upon his sons’ garments with him; and sanctified Aaron, ",
+          "kind": "text"
+        },
+        {
+          "text": "and",
+          "kind": "supplied"
+        },
+        {
+          "text": " his garments, and his sons, and his sons’ garments with him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.8.31",
+      "edition_verse_id": "KJV1769:LEV.8.31",
+      "verse": 31,
+      "spans": [
+        {
+          "text": "¶ And Moses said unto Aaron and to his sons, Boil the flesh ",
+          "kind": "text"
+        },
+        {
+          "text": "at",
+          "kind": "supplied"
+        },
+        {
+          "text": " the door of the tabernacle of the congregation: and there eat it with the bread that ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " in the basket of consecrations, as I commanded, saying, Aaron and his sons shall eat it.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LEV.8.32",
+      "edition_verse_id": "KJV1769:LEV.8.32",
+      "verse": 32,
+      "spans": [
+        {
+          "text": "And that which remaineth of the flesh and of the bread shall ye burn with fire.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.8.33",
+      "edition_verse_id": "KJV1769:LEV.8.33",
+      "verse": 33,
+      "spans": [
+        {
+          "text": "And ye shall not go out of the door of the tabernacle of the congregation ",
+          "kind": "text"
+        },
+        {
+          "text": "in",
+          "kind": "supplied"
+        },
+        {
+          "text": " seven days, until the days of your consecration be at an end: for seven days shall he consecrate you.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.8.34",
+      "edition_verse_id": "KJV1769:LEV.8.34",
+      "verse": 34,
+      "spans": [
+        {
+          "text": "As he hath done this day, ",
+          "kind": "text"
+        },
+        {
+          "text": "so",
+          "kind": "supplied"
+        },
+        {
+          "text": " the LORD hath commanded to do, to make an atonement for you.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.8.35",
+      "edition_verse_id": "KJV1769:LEV.8.35",
+      "verse": 35,
+      "spans": [
+        {
+          "text": "Therefore shall ye abide ",
+          "kind": "text"
+        },
+        {
+          "text": "at",
+          "kind": "supplied"
+        },
+        {
+          "text": " the door of the tabernacle of the congregation day and night seven days, and keep the charge of the LORD, that ye die not: for so I am commanded.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.8.36",
+      "edition_verse_id": "KJV1769:LEV.8.36",
+      "verse": 36,
+      "spans": [
+        {
+          "text": "So Aaron and his sons did all things which the LORD commanded by the hand of Moses.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

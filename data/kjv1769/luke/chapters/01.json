@@ -1,0 +1,1168 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "KJV1769",
+  "book_code": "LUK",
+  "chapter": 1,
+  "verses": [
+    {
+      "id": "LUK.1.1",
+      "edition_verse_id": "KJV1769:LUK.1.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "Forasmuch as many have taken in hand to set forth in order a declaration of those things which are most surely believed among us,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LUK.1.2",
+      "edition_verse_id": "KJV1769:LUK.1.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "Even as they delivered them unto us, which from the beginning were eyewitnesses, and ministers of the word;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.1.3",
+      "edition_verse_id": "KJV1769:LUK.1.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "It seemed good to me also, having had perfect understanding of all things from the very first, to write unto thee in order, most excellent Theophilus,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.1.4",
+      "edition_verse_id": "KJV1769:LUK.1.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "That thou mightest know the certainty of those things, wherein thou hast been instructed.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.1.5",
+      "edition_verse_id": "KJV1769:LUK.1.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "¶ There was in the days of Herod, the king of Judæa, a certain priest named Zacharias, of the course of Abia: and his wife ",
+          "kind": "text"
+        },
+        {
+          "text": "was",
+          "kind": "supplied"
+        },
+        {
+          "text": " of the daughters of Aaron, and her name ",
+          "kind": "text"
+        },
+        {
+          "text": "was",
+          "kind": "supplied"
+        },
+        {
+          "text": " Elisabeth.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LUK.1.6",
+      "edition_verse_id": "KJV1769:LUK.1.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "And they were both righteous before God, walking in all the commandments and ordinances of the Lord blameless.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.1.7",
+      "edition_verse_id": "KJV1769:LUK.1.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "And they had no child, because that Elisabeth was barren, and they both were ",
+          "kind": "text"
+        },
+        {
+          "text": "now",
+          "kind": "supplied"
+        },
+        {
+          "text": " well stricken in years.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.1.8",
+      "edition_verse_id": "KJV1769:LUK.1.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "And it came to pass, that while he executed the priest’s office before God in the order of his course,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.1.9",
+      "edition_verse_id": "KJV1769:LUK.1.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "According to the custom of the priest’s office, his lot was to burn incense when he went into the temple of the Lord.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.1.10",
+      "edition_verse_id": "KJV1769:LUK.1.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "And the whole multitude of the people were praying without at the time of incense.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.1.11",
+      "edition_verse_id": "KJV1769:LUK.1.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "And there appeared unto him an angel of the Lord standing on the right side of the altar of incense.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.1.12",
+      "edition_verse_id": "KJV1769:LUK.1.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "And when Zacharias saw ",
+          "kind": "text"
+        },
+        {
+          "text": "him",
+          "kind": "supplied"
+        },
+        {
+          "text": ", he was troubled, and fear fell upon him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.1.13",
+      "edition_verse_id": "KJV1769:LUK.1.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "But the angel said unto him, Fear not, Zacharias: for thy prayer is heard; and thy wife Elisabeth shall bear thee a son, and thou shalt call his name John.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.1.14",
+      "edition_verse_id": "KJV1769:LUK.1.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "And thou shalt have joy and gladness; and many shall rejoice at his birth.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.1.15",
+      "edition_verse_id": "KJV1769:LUK.1.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "For he shall be great in the sight of the Lord, and shall drink neither wine nor strong drink; and he shall be filled with the Holy Ghost, even from his mother’s womb.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.1.16",
+      "edition_verse_id": "KJV1769:LUK.1.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "And many of the children of Israel shall he turn to the Lord their God.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.1.17",
+      "edition_verse_id": "KJV1769:LUK.1.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "And he shall go before him in the spirit and power of Elias, to turn the hearts of the fathers to the children, and the disobedient to the wisdom of the just; to make ready a people prepared for the Lord.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.1.18",
+      "edition_verse_id": "KJV1769:LUK.1.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "And Zacharias said unto the angel, Whereby shall I know this? for I am an old man, and my wife well stricken in years.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.1.19",
+      "edition_verse_id": "KJV1769:LUK.1.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "And the angel answering said unto him, I am Gabriel, that stand in the presence of God; and am sent to speak unto thee, and to shew thee these glad tidings.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.1.20",
+      "edition_verse_id": "KJV1769:LUK.1.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "And, behold, thou shalt be dumb, and not able to speak, until the day that these things shall be performed, because thou believest not my words, which shall be fulfilled in their season.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.1.21",
+      "edition_verse_id": "KJV1769:LUK.1.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "And the people waited for Zacharias, and marvelled that he tarried so long in the temple.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.1.22",
+      "edition_verse_id": "KJV1769:LUK.1.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "And when he came out, he could not speak unto them: and they perceived that he had seen a vision in the temple: for he beckoned unto them, and remained speechless.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.1.23",
+      "edition_verse_id": "KJV1769:LUK.1.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "And it came to pass, that, as soon as the days of his ministration were accomplished, he departed to his own house.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.1.24",
+      "edition_verse_id": "KJV1769:LUK.1.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "And after those days his wife Elisabeth conceived, and hid herself five months, saying,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.1.25",
+      "edition_verse_id": "KJV1769:LUK.1.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "Thus hath the Lord dealt with me in the days wherein he looked on ",
+          "kind": "text"
+        },
+        {
+          "text": "me",
+          "kind": "supplied"
+        },
+        {
+          "text": ", to take away my reproach among men.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.1.26",
+      "edition_verse_id": "KJV1769:LUK.1.26",
+      "verse": 26,
+      "spans": [
+        {
+          "text": "And in the sixth month the angel Gabriel was sent from God unto a city of Galilee, named Nazareth,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.1.27",
+      "edition_verse_id": "KJV1769:LUK.1.27",
+      "verse": 27,
+      "spans": [
+        {
+          "text": "To a virgin espoused to a man whose name was Joseph, of the house of David; and the virgin’s name ",
+          "kind": "text"
+        },
+        {
+          "text": "was",
+          "kind": "supplied"
+        },
+        {
+          "text": " Mary.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.1.28",
+      "edition_verse_id": "KJV1769:LUK.1.28",
+      "verse": 28,
+      "spans": [
+        {
+          "text": "And the angel came in unto her, and said, Hail, ",
+          "kind": "text"
+        },
+        {
+          "text": "thou that art",
+          "kind": "supplied"
+        },
+        {
+          "text": " highly favoured, the Lord ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " with thee: blessed ",
+          "kind": "text"
+        },
+        {
+          "text": "art",
+          "kind": "supplied"
+        },
+        {
+          "text": " thou among women.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.1.29",
+      "edition_verse_id": "KJV1769:LUK.1.29",
+      "verse": 29,
+      "spans": [
+        {
+          "text": "And when she saw ",
+          "kind": "text"
+        },
+        {
+          "text": "him",
+          "kind": "supplied"
+        },
+        {
+          "text": ", she was troubled at his saying, and cast in her mind what manner of salutation this should be.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.1.30",
+      "edition_verse_id": "KJV1769:LUK.1.30",
+      "verse": 30,
+      "spans": [
+        {
+          "text": "And the angel said unto her, Fear not, Mary: for thou hast found favour with God.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.1.31",
+      "edition_verse_id": "KJV1769:LUK.1.31",
+      "verse": 31,
+      "spans": [
+        {
+          "text": "And, behold, thou shalt conceive in thy womb, and bring forth a son, and shalt call his name JESUS.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.1.32",
+      "edition_verse_id": "KJV1769:LUK.1.32",
+      "verse": 32,
+      "spans": [
+        {
+          "text": "He shall be great, and shall be called the Son of the Highest: and the Lord God shall give unto him the throne of his father David:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.1.33",
+      "edition_verse_id": "KJV1769:LUK.1.33",
+      "verse": 33,
+      "spans": [
+        {
+          "text": "And he shall reign over the house of Jacob for ever; and of his kingdom there shall be no end.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.1.34",
+      "edition_verse_id": "KJV1769:LUK.1.34",
+      "verse": 34,
+      "spans": [
+        {
+          "text": "Then said Mary unto the angel, How shall this be, seeing I know not a man?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.1.35",
+      "edition_verse_id": "KJV1769:LUK.1.35",
+      "verse": 35,
+      "spans": [
+        {
+          "text": "And the angel answered and said unto her, The Holy Ghost shall come upon thee, and the power of the Highest shall overshadow thee: therefore also that holy thing which shall be born of thee shall be called the Son of God.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.1.36",
+      "edition_verse_id": "KJV1769:LUK.1.36",
+      "verse": 36,
+      "spans": [
+        {
+          "text": "And, behold, thy cousin Elisabeth, she hath also conceived a son in her old age: and this is the sixth month with her, who was called barren.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.1.37",
+      "edition_verse_id": "KJV1769:LUK.1.37",
+      "verse": 37,
+      "spans": [
+        {
+          "text": "For with God nothing shall be impossible.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.1.38",
+      "edition_verse_id": "KJV1769:LUK.1.38",
+      "verse": 38,
+      "spans": [
+        {
+          "text": "And Mary said, Behold the handmaid of the Lord; be it unto me according to thy word. And the angel departed from her.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.1.39",
+      "edition_verse_id": "KJV1769:LUK.1.39",
+      "verse": 39,
+      "spans": [
+        {
+          "text": "And Mary arose in those days, and went into the hill country with haste, into a city of Juda;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.1.40",
+      "edition_verse_id": "KJV1769:LUK.1.40",
+      "verse": 40,
+      "spans": [
+        {
+          "text": "And entered into the house of Zacharias, and saluted Elisabeth.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.1.41",
+      "edition_verse_id": "KJV1769:LUK.1.41",
+      "verse": 41,
+      "spans": [
+        {
+          "text": "And it came to pass, that, when Elisabeth heard the salutation of Mary, the babe leaped in her womb; and Elisabeth was filled with the Holy Ghost:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.1.42",
+      "edition_verse_id": "KJV1769:LUK.1.42",
+      "verse": 42,
+      "spans": [
+        {
+          "text": "And she spake out with a loud voice, and said, Blessed ",
+          "kind": "text"
+        },
+        {
+          "text": "art",
+          "kind": "supplied"
+        },
+        {
+          "text": " thou among women, and blessed ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " the fruit of thy womb.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.1.43",
+      "edition_verse_id": "KJV1769:LUK.1.43",
+      "verse": 43,
+      "spans": [
+        {
+          "text": "And whence ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " this to me, that the mother of my Lord should come to me?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.1.44",
+      "edition_verse_id": "KJV1769:LUK.1.44",
+      "verse": 44,
+      "spans": [
+        {
+          "text": "For, lo, as soon as the voice of thy salutation sounded in mine ears, the babe leaped in my womb for joy.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.1.45",
+      "edition_verse_id": "KJV1769:LUK.1.45",
+      "verse": 45,
+      "spans": [
+        {
+          "text": "And blessed ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " she that believed: for there shall be a performance of those things which were told her from the Lord.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.1.46",
+      "edition_verse_id": "KJV1769:LUK.1.46",
+      "verse": 46,
+      "spans": [
+        {
+          "text": "And Mary said, My soul doth magnify the Lord,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.1.47",
+      "edition_verse_id": "KJV1769:LUK.1.47",
+      "verse": 47,
+      "spans": [
+        {
+          "text": "And my spirit hath rejoiced in God my Saviour.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.1.48",
+      "edition_verse_id": "KJV1769:LUK.1.48",
+      "verse": 48,
+      "spans": [
+        {
+          "text": "For he hath regarded the low estate of his handmaiden: for, behold, from henceforth all generations shall call me blessed.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.1.49",
+      "edition_verse_id": "KJV1769:LUK.1.49",
+      "verse": 49,
+      "spans": [
+        {
+          "text": "For he that is mighty hath done to me great things; and holy ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " his name.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.1.50",
+      "edition_verse_id": "KJV1769:LUK.1.50",
+      "verse": 50,
+      "spans": [
+        {
+          "text": "And his mercy ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " on them that fear him from generation to generation.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.1.51",
+      "edition_verse_id": "KJV1769:LUK.1.51",
+      "verse": 51,
+      "spans": [
+        {
+          "text": "He hath shewed strength with his arm; he hath scattered the proud in the imagination of their hearts.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.1.52",
+      "edition_verse_id": "KJV1769:LUK.1.52",
+      "verse": 52,
+      "spans": [
+        {
+          "text": "He hath put down the mighty from ",
+          "kind": "text"
+        },
+        {
+          "text": "their",
+          "kind": "supplied"
+        },
+        {
+          "text": " seats, and exalted them of low degree.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.1.53",
+      "edition_verse_id": "KJV1769:LUK.1.53",
+      "verse": 53,
+      "spans": [
+        {
+          "text": "He hath filled the hungry with good things; and the rich he hath sent empty away.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.1.54",
+      "edition_verse_id": "KJV1769:LUK.1.54",
+      "verse": 54,
+      "spans": [
+        {
+          "text": "He hath holpen his servant Israel, in remembrance of ",
+          "kind": "text"
+        },
+        {
+          "text": "his",
+          "kind": "supplied"
+        },
+        {
+          "text": " mercy;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.1.55",
+      "edition_verse_id": "KJV1769:LUK.1.55",
+      "verse": 55,
+      "spans": [
+        {
+          "text": "As he spake to our fathers, to Abraham, and to his seed for ever.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.1.56",
+      "edition_verse_id": "KJV1769:LUK.1.56",
+      "verse": 56,
+      "spans": [
+        {
+          "text": "And Mary abode with her about three months, and returned to her own house.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.1.57",
+      "edition_verse_id": "KJV1769:LUK.1.57",
+      "verse": 57,
+      "spans": [
+        {
+          "text": "Now Elisabeth’s full time came that she should be delivered; and she brought forth a son.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.1.58",
+      "edition_verse_id": "KJV1769:LUK.1.58",
+      "verse": 58,
+      "spans": [
+        {
+          "text": "And her neighbours and her cousins heard how the Lord had shewed great mercy upon her; and they rejoiced with her.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.1.59",
+      "edition_verse_id": "KJV1769:LUK.1.59",
+      "verse": 59,
+      "spans": [
+        {
+          "text": "And it came to pass, that on the eighth day they came to circumcise the child; and they called him Zacharias, after the name of his father.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.1.60",
+      "edition_verse_id": "KJV1769:LUK.1.60",
+      "verse": 60,
+      "spans": [
+        {
+          "text": "And his mother answered and said, Not ",
+          "kind": "text"
+        },
+        {
+          "text": "so",
+          "kind": "supplied"
+        },
+        {
+          "text": "; but he shall be called John.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.1.61",
+      "edition_verse_id": "KJV1769:LUK.1.61",
+      "verse": 61,
+      "spans": [
+        {
+          "text": "And they said unto her, There is none of thy kindred that is called by this name.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.1.62",
+      "edition_verse_id": "KJV1769:LUK.1.62",
+      "verse": 62,
+      "spans": [
+        {
+          "text": "And they made signs to his father, how he would have him called.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.1.63",
+      "edition_verse_id": "KJV1769:LUK.1.63",
+      "verse": 63,
+      "spans": [
+        {
+          "text": "And he asked for a writing table, and wrote, saying, His name is John. And they marvelled all.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.1.64",
+      "edition_verse_id": "KJV1769:LUK.1.64",
+      "verse": 64,
+      "spans": [
+        {
+          "text": "And his mouth was opened immediately, and his tongue ",
+          "kind": "text"
+        },
+        {
+          "text": "loosed",
+          "kind": "supplied"
+        },
+        {
+          "text": ", and he spake, and praised God.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.1.65",
+      "edition_verse_id": "KJV1769:LUK.1.65",
+      "verse": 65,
+      "spans": [
+        {
+          "text": "And fear came on all that dwelt round about them: and all these sayings were noised abroad throughout all the hill country of Judæa.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.1.66",
+      "edition_verse_id": "KJV1769:LUK.1.66",
+      "verse": 66,
+      "spans": [
+        {
+          "text": "And all they that heard ",
+          "kind": "text"
+        },
+        {
+          "text": "them",
+          "kind": "supplied"
+        },
+        {
+          "text": " laid ",
+          "kind": "text"
+        },
+        {
+          "text": "them",
+          "kind": "supplied"
+        },
+        {
+          "text": " up in their hearts, saying, What manner of child shall this be! And the hand of the Lord was with him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.1.67",
+      "edition_verse_id": "KJV1769:LUK.1.67",
+      "verse": 67,
+      "spans": [
+        {
+          "text": "And his father Zacharias was filled with the Holy Ghost, and prophesied, saying,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.1.68",
+      "edition_verse_id": "KJV1769:LUK.1.68",
+      "verse": 68,
+      "spans": [
+        {
+          "text": "Blessed ",
+          "kind": "text"
+        },
+        {
+          "text": "be",
+          "kind": "supplied"
+        },
+        {
+          "text": " the Lord God of Israel; for he hath visited and redeemed his people,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.1.69",
+      "edition_verse_id": "KJV1769:LUK.1.69",
+      "verse": 69,
+      "spans": [
+        {
+          "text": "And hath raised up an horn of salvation for us in the house of his servant David;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.1.70",
+      "edition_verse_id": "KJV1769:LUK.1.70",
+      "verse": 70,
+      "spans": [
+        {
+          "text": "As he spake by the mouth of his holy prophets, which have been since the world began:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.1.71",
+      "edition_verse_id": "KJV1769:LUK.1.71",
+      "verse": 71,
+      "spans": [
+        {
+          "text": "That we should be saved from our enemies, and from the hand of all that hate us;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.1.72",
+      "edition_verse_id": "KJV1769:LUK.1.72",
+      "verse": 72,
+      "spans": [
+        {
+          "text": "To perform the mercy ",
+          "kind": "text"
+        },
+        {
+          "text": "promised",
+          "kind": "supplied"
+        },
+        {
+          "text": " to our fathers, and to remember his holy covenant;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.1.73",
+      "edition_verse_id": "KJV1769:LUK.1.73",
+      "verse": 73,
+      "spans": [
+        {
+          "text": "The oath which he sware to our father Abraham,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.1.74",
+      "edition_verse_id": "KJV1769:LUK.1.74",
+      "verse": 74,
+      "spans": [
+        {
+          "text": "That he would grant unto us, that we being delivered out of the hand of our enemies might serve him without fear,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.1.75",
+      "edition_verse_id": "KJV1769:LUK.1.75",
+      "verse": 75,
+      "spans": [
+        {
+          "text": "In holiness and righteousness before him, all the days of our life.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.1.76",
+      "edition_verse_id": "KJV1769:LUK.1.76",
+      "verse": 76,
+      "spans": [
+        {
+          "text": "And thou, child, shalt be called the prophet of the Highest: for thou shalt go before the face of the Lord to prepare his ways;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.1.77",
+      "edition_verse_id": "KJV1769:LUK.1.77",
+      "verse": 77,
+      "spans": [
+        {
+          "text": "To give knowledge of salvation unto his people by the remission of their sins,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.1.78",
+      "edition_verse_id": "KJV1769:LUK.1.78",
+      "verse": 78,
+      "spans": [
+        {
+          "text": "Through the tender mercy of our God; whereby the dayspring from on high hath visited us,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.1.79",
+      "edition_verse_id": "KJV1769:LUK.1.79",
+      "verse": 79,
+      "spans": [
+        {
+          "text": "To give light to them that sit in darkness and ",
+          "kind": "text"
+        },
+        {
+          "text": "in",
+          "kind": "supplied"
+        },
+        {
+          "text": " the shadow of death, to guide our feet into the way of peace.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.1.80",
+      "edition_verse_id": "KJV1769:LUK.1.80",
+      "verse": 80,
+      "spans": [
+        {
+          "text": "And the child grew, and waxed strong in spirit, and was in the deserts till the day of his shewing unto Israel.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

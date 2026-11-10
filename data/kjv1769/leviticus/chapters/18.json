@@ -1,0 +1,632 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "KJV1769",
+  "book_code": "LEV",
+  "chapter": 18,
+  "verses": [
+    {
+      "id": "LEV.18.1",
+      "edition_verse_id": "KJV1769:LEV.18.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "And the LORD spake unto Moses, saying,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LEV.18.2",
+      "edition_verse_id": "KJV1769:LEV.18.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "Speak unto the children of Israel, and say unto them, I am the LORD your God.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.18.3",
+      "edition_verse_id": "KJV1769:LEV.18.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "After the doings of the land of Egypt, wherein ye dwelt, shall ye not do: and after the doings of the land of Canaan, whither I bring you, shall ye not do: neither shall ye walk in their ordinances.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.18.4",
+      "edition_verse_id": "KJV1769:LEV.18.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "Ye shall do my judgments, and keep mine ordinances, to walk therein: I ",
+          "kind": "text"
+        },
+        {
+          "text": "am",
+          "kind": "supplied"
+        },
+        {
+          "text": " the LORD your God.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.18.5",
+      "edition_verse_id": "KJV1769:LEV.18.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "Ye shall therefore keep my statutes, and my judgments: which if a man do, he shall live in them: I ",
+          "kind": "text"
+        },
+        {
+          "text": "am",
+          "kind": "supplied"
+        },
+        {
+          "text": " the LORD.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.18.6",
+      "edition_verse_id": "KJV1769:LEV.18.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "¶ None of you shall approach to any that is near of kin to him, to uncover ",
+          "kind": "text"
+        },
+        {
+          "text": "their",
+          "kind": "supplied"
+        },
+        {
+          "text": " nakedness: I ",
+          "kind": "text"
+        },
+        {
+          "text": "am",
+          "kind": "supplied"
+        },
+        {
+          "text": " the LORD.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LEV.18.7",
+      "edition_verse_id": "KJV1769:LEV.18.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "The nakedness of thy father, or the nakedness of thy mother, shalt thou not uncover: she ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " thy mother; thou shalt not uncover her nakedness.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.18.8",
+      "edition_verse_id": "KJV1769:LEV.18.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "The nakedness of thy father’s wife shalt thou not uncover: it ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " thy father’s nakedness.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.18.9",
+      "edition_verse_id": "KJV1769:LEV.18.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "The nakedness of thy sister, the daughter of thy father, or daughter of thy mother, ",
+          "kind": "text"
+        },
+        {
+          "text": "whether she be",
+          "kind": "supplied"
+        },
+        {
+          "text": " born at home, or born abroad, ",
+          "kind": "text"
+        },
+        {
+          "text": "even",
+          "kind": "supplied"
+        },
+        {
+          "text": " their nakedness thou shalt not uncover.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.18.10",
+      "edition_verse_id": "KJV1769:LEV.18.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "The nakedness of thy son’s daughter, or of thy daughter’s daughter, ",
+          "kind": "text"
+        },
+        {
+          "text": "even",
+          "kind": "supplied"
+        },
+        {
+          "text": " their nakedness thou shalt not uncover: for theirs ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " thine own nakedness.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.18.11",
+      "edition_verse_id": "KJV1769:LEV.18.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "The nakedness of thy father’s wife’s daughter, begotten of thy father, she ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " thy sister, thou shalt not uncover her nakedness.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.18.12",
+      "edition_verse_id": "KJV1769:LEV.18.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "Thou shalt not uncover the nakedness of thy father’s sister: she ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " thy father’s near kinswoman.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.18.13",
+      "edition_verse_id": "KJV1769:LEV.18.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "Thou shalt not uncover the nakedness of thy mother’s sister: for she ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " thy mother’s near kinswoman.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.18.14",
+      "edition_verse_id": "KJV1769:LEV.18.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "Thou shalt not uncover the nakedness of thy father’s brother, thou shalt not approach to his wife: she ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " thine aunt.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.18.15",
+      "edition_verse_id": "KJV1769:LEV.18.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "Thou shalt not uncover the nakedness of thy daughter in law: she ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " thy son’s wife; thou shalt not uncover her nakedness.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.18.16",
+      "edition_verse_id": "KJV1769:LEV.18.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "Thou shalt not uncover the nakedness of thy brother’s wife: it ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " thy brother’s nakedness.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.18.17",
+      "edition_verse_id": "KJV1769:LEV.18.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "Thou shalt not uncover the nakedness of a woman and her daughter, neither shalt thou take her son’s daughter, or her daughter’s daughter, to uncover her nakedness; ",
+          "kind": "text"
+        },
+        {
+          "text": "for",
+          "kind": "supplied"
+        },
+        {
+          "text": " they ",
+          "kind": "text"
+        },
+        {
+          "text": "are",
+          "kind": "supplied"
+        },
+        {
+          "text": " her near kinswomen: it ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " wickedness.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.18.18",
+      "edition_verse_id": "KJV1769:LEV.18.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "Neither shalt thou take a wife to her sister, to vex ",
+          "kind": "text"
+        },
+        {
+          "text": "her",
+          "kind": "supplied"
+        },
+        {
+          "text": ", to uncover her nakedness, beside the other in her life ",
+          "kind": "text"
+        },
+        {
+          "text": "time",
+          "kind": "supplied"
+        },
+        {
+          "text": ".",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.18.19",
+      "edition_verse_id": "KJV1769:LEV.18.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "Also thou shalt not approach unto a woman to uncover her nakedness, as long as she is put apart for her uncleanness.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LEV.18.20",
+      "edition_verse_id": "KJV1769:LEV.18.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "Moreover thou shalt not lie carnally with thy neighbour’s wife, to defile thyself with her.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.18.21",
+      "edition_verse_id": "KJV1769:LEV.18.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "And thou shalt not let any of thy seed pass through ",
+          "kind": "text"
+        },
+        {
+          "text": "the fire",
+          "kind": "supplied"
+        },
+        {
+          "text": " to Molech, neither shalt thou profane the name of thy God: I ",
+          "kind": "text"
+        },
+        {
+          "text": "am",
+          "kind": "supplied"
+        },
+        {
+          "text": " the LORD.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.18.22",
+      "edition_verse_id": "KJV1769:LEV.18.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "Thou shalt not lie with mankind, as with womankind: it ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " abomination.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.18.23",
+      "edition_verse_id": "KJV1769:LEV.18.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "Neither shalt thou lie with any beast to defile thyself therewith: neither shall any woman stand before a beast to lie down thereto: it ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " confusion.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.18.24",
+      "edition_verse_id": "KJV1769:LEV.18.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "Defile not ye yourselves in any of these things: for in all these the nations are defiled which I cast out before you:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.18.25",
+      "edition_verse_id": "KJV1769:LEV.18.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "And the land is defiled: therefore I do visit the iniquity thereof upon it, and the land itself vomiteth out her inhabitants.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.18.26",
+      "edition_verse_id": "KJV1769:LEV.18.26",
+      "verse": 26,
+      "spans": [
+        {
+          "text": "Ye shall therefore keep my statutes and my judgments, and shall not commit ",
+          "kind": "text"
+        },
+        {
+          "text": "any",
+          "kind": "supplied"
+        },
+        {
+          "text": " of these abominations; ",
+          "kind": "text"
+        },
+        {
+          "text": "neither",
+          "kind": "supplied"
+        },
+        {
+          "text": " any of your own nation, nor any stranger that sojourneth among you:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.18.27",
+      "edition_verse_id": "KJV1769:LEV.18.27",
+      "verse": 27,
+      "spans": [
+        {
+          "text": "(For all these abominations have the men of the land done, which ",
+          "kind": "text"
+        },
+        {
+          "text": "were",
+          "kind": "supplied"
+        },
+        {
+          "text": " before you, and the land is defiled;)",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.18.28",
+      "edition_verse_id": "KJV1769:LEV.18.28",
+      "verse": 28,
+      "spans": [
+        {
+          "text": "That the land spue not you out also, when ye defile it, as it spued out the nations that ",
+          "kind": "text"
+        },
+        {
+          "text": "were",
+          "kind": "supplied"
+        },
+        {
+          "text": " before you.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.18.29",
+      "edition_verse_id": "KJV1769:LEV.18.29",
+      "verse": 29,
+      "spans": [
+        {
+          "text": "For whosoever shall commit any of these abominations, even the souls that commit ",
+          "kind": "text"
+        },
+        {
+          "text": "them",
+          "kind": "supplied"
+        },
+        {
+          "text": " shall be cut off from among their people.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.18.30",
+      "edition_verse_id": "KJV1769:LEV.18.30",
+      "verse": 30,
+      "spans": [
+        {
+          "text": "Therefore shall ye keep mine ordinance, that ",
+          "kind": "text"
+        },
+        {
+          "text": "ye",
+          "kind": "supplied"
+        },
+        {
+          "text": " commit not ",
+          "kind": "text"
+        },
+        {
+          "text": "any one",
+          "kind": "supplied"
+        },
+        {
+          "text": " of these abominable customs, which were committed before you, and that ye defile not yourselves therein: I ",
+          "kind": "text"
+        },
+        {
+          "text": "am",
+          "kind": "supplied"
+        },
+        {
+          "text": " the LORD your God.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

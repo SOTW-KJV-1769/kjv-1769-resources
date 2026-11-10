@@ -1,0 +1,388 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "KJV1769",
+  "book_code": "LAM",
+  "chapter": 4,
+  "verses": [
+    {
+      "id": "LAM.4.1",
+      "edition_verse_id": "KJV1769:LAM.4.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "How is the gold become dim! ",
+          "kind": "text"
+        },
+        {
+          "text": "how",
+          "kind": "supplied"
+        },
+        {
+          "text": " is the most fine gold changed! the stones of the sanctuary are poured out in the top of every street.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LAM.4.2",
+      "edition_verse_id": "KJV1769:LAM.4.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "The precious sons of Zion, comparable to fine gold, how are they esteemed as earthen pitchers, the work of the hands of the potter!",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LAM.4.3",
+      "edition_verse_id": "KJV1769:LAM.4.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "Even the sea monsters draw out the breast, they give suck to their young ones: the daughter of my people ",
+          "kind": "text"
+        },
+        {
+          "text": "is become",
+          "kind": "supplied"
+        },
+        {
+          "text": " cruel, like the ostriches in the wilderness.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LAM.4.4",
+      "edition_verse_id": "KJV1769:LAM.4.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "The tongue of the sucking child cleaveth to the roof of his mouth for thirst: the young children ask bread, ",
+          "kind": "text"
+        },
+        {
+          "text": "and",
+          "kind": "supplied"
+        },
+        {
+          "text": " no man breaketh ",
+          "kind": "text"
+        },
+        {
+          "text": "it",
+          "kind": "supplied"
+        },
+        {
+          "text": " unto them.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LAM.4.5",
+      "edition_verse_id": "KJV1769:LAM.4.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "They that did feed delicately are desolate in the streets: they that were brought up in scarlet embrace dunghills.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LAM.4.6",
+      "edition_verse_id": "KJV1769:LAM.4.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "For the punishment of the iniquity of the daughter of my people is greater than the punishment of the sin of Sodom, that was overthrown as in a moment, and no hands stayed on her.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LAM.4.7",
+      "edition_verse_id": "KJV1769:LAM.4.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "Her Nazarites were purer than snow, they were whiter than milk, they were more ruddy in body than rubies, their polishing ",
+          "kind": "text"
+        },
+        {
+          "text": "was",
+          "kind": "supplied"
+        },
+        {
+          "text": " of sapphire:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LAM.4.8",
+      "edition_verse_id": "KJV1769:LAM.4.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "Their visage is blacker than a coal; they are not known in the streets: their skin cleaveth to their bones; it is withered, it is become like a stick.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LAM.4.9",
+      "edition_verse_id": "KJV1769:LAM.4.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "They that be",
+          "kind": "supplied"
+        },
+        {
+          "text": " slain with the sword are better than ",
+          "kind": "text"
+        },
+        {
+          "text": "they that be",
+          "kind": "supplied"
+        },
+        {
+          "text": " slain with hunger: for these pine away, stricken through for ",
+          "kind": "text"
+        },
+        {
+          "text": "want of",
+          "kind": "supplied"
+        },
+        {
+          "text": " the fruits of the field.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LAM.4.10",
+      "edition_verse_id": "KJV1769:LAM.4.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "The hands of the pitiful women have sodden their own children: they were their meat in the destruction of the daughter of my people.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LAM.4.11",
+      "edition_verse_id": "KJV1769:LAM.4.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "The LORD hath accomplished his fury; he hath poured out his fierce anger, and hath kindled a fire in Zion, and it hath devoured the foundations thereof.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LAM.4.12",
+      "edition_verse_id": "KJV1769:LAM.4.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "The kings of the earth, and all the inhabitants of the world, would not have believed that the adversary and the enemy should have entered into the gates of Jerusalem.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LAM.4.13",
+      "edition_verse_id": "KJV1769:LAM.4.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "¶ For the sins of her prophets, ",
+          "kind": "text"
+        },
+        {
+          "text": "and",
+          "kind": "supplied"
+        },
+        {
+          "text": " the iniquities of her priests, that have shed the blood of the just in the midst of her,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LAM.4.14",
+      "edition_verse_id": "KJV1769:LAM.4.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "They have wandered ",
+          "kind": "text"
+        },
+        {
+          "text": "as",
+          "kind": "supplied"
+        },
+        {
+          "text": " blind ",
+          "kind": "text"
+        },
+        {
+          "text": "men",
+          "kind": "supplied"
+        },
+        {
+          "text": " in the streets, they have polluted themselves with blood, so that men could not touch their garments.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LAM.4.15",
+      "edition_verse_id": "KJV1769:LAM.4.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "They cried unto them, Depart ye; ",
+          "kind": "text"
+        },
+        {
+          "text": "it is",
+          "kind": "supplied"
+        },
+        {
+          "text": " unclean; depart, depart, touch not: when they fled away and wandered, they said among the heathen, They shall no more sojourn ",
+          "kind": "text"
+        },
+        {
+          "text": "there",
+          "kind": "supplied"
+        },
+        {
+          "text": ".",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LAM.4.16",
+      "edition_verse_id": "KJV1769:LAM.4.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "The anger of the LORD hath divided them; he will no more regard them: they respected not the persons of the priests, they favoured not the elders.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LAM.4.17",
+      "edition_verse_id": "KJV1769:LAM.4.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "As for us, our eyes as yet failed for our vain help: in our watching we have watched for a nation ",
+          "kind": "text"
+        },
+        {
+          "text": "that",
+          "kind": "supplied"
+        },
+        {
+          "text": " could not save ",
+          "kind": "text"
+        },
+        {
+          "text": "us",
+          "kind": "supplied"
+        },
+        {
+          "text": ".",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LAM.4.18",
+      "edition_verse_id": "KJV1769:LAM.4.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "They hunt our steps, that we cannot go in our streets: our end is near, our days are fulfilled; for our end is come.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LAM.4.19",
+      "edition_verse_id": "KJV1769:LAM.4.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "Our persecutors are swifter than the eagles of the heaven: they pursued us upon the mountains, they laid wait for us in the wilderness.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LAM.4.20",
+      "edition_verse_id": "KJV1769:LAM.4.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "The breath of our nostrils, the anointed of the LORD, was taken in their pits, of whom we said, Under his shadow we shall live among the heathen.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LAM.4.21",
+      "edition_verse_id": "KJV1769:LAM.4.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "¶ Rejoice and be glad, O daughter of Edom, that dwellest in the land of Uz; the cup also shall pass through unto thee: thou shalt be drunken, and shalt make thyself naked.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LAM.4.22",
+      "edition_verse_id": "KJV1769:LAM.4.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "¶ The punishment of thine iniquity is accomplished, O daughter of Zion; he will no more carry thee away into captivity: he will visit thine iniquity, O daughter of Edom; he will discover thy sins.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    }
+  ]
+}
