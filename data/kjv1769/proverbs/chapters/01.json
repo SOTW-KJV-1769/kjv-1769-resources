@@ -1,0 +1,476 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "KJV1769",
+  "book_code": "PRO",
+  "chapter": 1,
+  "verses": [
+    {
+      "id": "PRO.1.1",
+      "edition_verse_id": "KJV1769:PRO.1.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "The proverbs of Solomon the son of David, king of Israel;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PRO.1.2",
+      "edition_verse_id": "KJV1769:PRO.1.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "To know wisdom and instruction; to perceive the words of understanding;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.1.3",
+      "edition_verse_id": "KJV1769:PRO.1.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "To receive the instruction of wisdom, justice, and judgment, and equity;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.1.4",
+      "edition_verse_id": "KJV1769:PRO.1.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "To give subtilty to the simple, to the young man knowledge and discretion.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.1.5",
+      "edition_verse_id": "KJV1769:PRO.1.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "A wise ",
+          "kind": "text"
+        },
+        {
+          "text": "man",
+          "kind": "supplied"
+        },
+        {
+          "text": " will hear, and will increase learning; and a man of understanding shall attain unto wise counsels:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.1.6",
+      "edition_verse_id": "KJV1769:PRO.1.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "To understand a proverb, and the interpretation; the words of the wise, and their dark sayings.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.1.7",
+      "edition_verse_id": "KJV1769:PRO.1.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "¶ The fear of the LORD ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " the beginning of knowledge: ",
+          "kind": "text"
+        },
+        {
+          "text": "but",
+          "kind": "supplied"
+        },
+        {
+          "text": " fools despise wisdom and instruction.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PRO.1.8",
+      "edition_verse_id": "KJV1769:PRO.1.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "My son, hear the instruction of thy father, and forsake not the law of thy mother:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.1.9",
+      "edition_verse_id": "KJV1769:PRO.1.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "For they ",
+          "kind": "text"
+        },
+        {
+          "text": "shall be",
+          "kind": "supplied"
+        },
+        {
+          "text": " an ornament of grace unto thy head, and chains about thy neck.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.1.10",
+      "edition_verse_id": "KJV1769:PRO.1.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "¶ My son, if sinners entice thee, consent thou not.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PRO.1.11",
+      "edition_verse_id": "KJV1769:PRO.1.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "If they say, Come with us, let us lay wait for blood, let us lurk privily for the innocent without cause:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.1.12",
+      "edition_verse_id": "KJV1769:PRO.1.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "Let us swallow them up alive as the grave; and whole, as those that go down into the pit:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.1.13",
+      "edition_verse_id": "KJV1769:PRO.1.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "We shall find all precious substance, we shall fill our houses with spoil:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.1.14",
+      "edition_verse_id": "KJV1769:PRO.1.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "Cast in thy lot among us; let us all have one purse:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.1.15",
+      "edition_verse_id": "KJV1769:PRO.1.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "My son, walk not thou in the way with them; refrain thy foot from their path:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.1.16",
+      "edition_verse_id": "KJV1769:PRO.1.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "For their feet run to evil, and make haste to shed blood.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.1.17",
+      "edition_verse_id": "KJV1769:PRO.1.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "Surely in vain the net is spread in the sight of any bird.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.1.18",
+      "edition_verse_id": "KJV1769:PRO.1.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "And they lay wait for their ",
+          "kind": "text"
+        },
+        {
+          "text": "own",
+          "kind": "supplied"
+        },
+        {
+          "text": " blood; they lurk privily for their ",
+          "kind": "text"
+        },
+        {
+          "text": "own",
+          "kind": "supplied"
+        },
+        {
+          "text": " lives.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.1.19",
+      "edition_verse_id": "KJV1769:PRO.1.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "So ",
+          "kind": "text"
+        },
+        {
+          "text": "are",
+          "kind": "supplied"
+        },
+        {
+          "text": " the ways of every one that is greedy of gain; ",
+          "kind": "text"
+        },
+        {
+          "text": "which",
+          "kind": "supplied"
+        },
+        {
+          "text": " taketh away the life of the owners thereof.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.1.20",
+      "edition_verse_id": "KJV1769:PRO.1.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "¶ Wisdom crieth without; she uttereth her voice in the streets:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PRO.1.21",
+      "edition_verse_id": "KJV1769:PRO.1.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "She crieth in the chief place of concourse, in the openings of the gates: in the city she uttereth her words, ",
+          "kind": "text"
+        },
+        {
+          "text": "saying",
+          "kind": "supplied"
+        },
+        {
+          "text": ",",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.1.22",
+      "edition_verse_id": "KJV1769:PRO.1.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "How long, ye simple ones, will ye love simplicity? and the scorners delight in their scorning, and fools hate knowledge?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.1.23",
+      "edition_verse_id": "KJV1769:PRO.1.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "Turn you at my reproof: behold, I will pour out my spirit unto you, I will make known my words unto you.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.1.24",
+      "edition_verse_id": "KJV1769:PRO.1.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "¶ Because I have called, and ye refused; I have stretched out my hand, and no man regarded;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PRO.1.25",
+      "edition_verse_id": "KJV1769:PRO.1.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "But ye have set at nought all my counsel, and would none of my reproof:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.1.26",
+      "edition_verse_id": "KJV1769:PRO.1.26",
+      "verse": 26,
+      "spans": [
+        {
+          "text": "I also will laugh at your calamity; I will mock when your fear cometh;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.1.27",
+      "edition_verse_id": "KJV1769:PRO.1.27",
+      "verse": 27,
+      "spans": [
+        {
+          "text": "When your fear cometh as desolation, and your destruction cometh as a whirlwind; when distress and anguish cometh upon you.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.1.28",
+      "edition_verse_id": "KJV1769:PRO.1.28",
+      "verse": 28,
+      "spans": [
+        {
+          "text": "Then shall they call upon me, but I will not answer; they shall seek me early, but they shall not find me:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.1.29",
+      "edition_verse_id": "KJV1769:PRO.1.29",
+      "verse": 29,
+      "spans": [
+        {
+          "text": "For that they hated knowledge, and did not choose the fear of the LORD:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.1.30",
+      "edition_verse_id": "KJV1769:PRO.1.30",
+      "verse": 30,
+      "spans": [
+        {
+          "text": "They would none of my counsel: they despised all my reproof.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.1.31",
+      "edition_verse_id": "KJV1769:PRO.1.31",
+      "verse": 31,
+      "spans": [
+        {
+          "text": "Therefore shall they eat of the fruit of their own way, and be filled with their own devices.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.1.32",
+      "edition_verse_id": "KJV1769:PRO.1.32",
+      "verse": 32,
+      "spans": [
+        {
+          "text": "For the turning away of the simple shall slay them, and the prosperity of fools shall destroy them.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.1.33",
+      "edition_verse_id": "KJV1769:PRO.1.33",
+      "verse": 33,
+      "spans": [
+        {
+          "text": "But whoso hearkeneth unto me shall dwell safely, and shall be quiet from fear of evil.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

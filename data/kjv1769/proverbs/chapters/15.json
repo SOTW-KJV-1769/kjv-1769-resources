@@ -1,0 +1,644 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "KJV1769",
+  "book_code": "PRO",
+  "chapter": 15,
+  "verses": [
+    {
+      "id": "PRO.15.1",
+      "edition_verse_id": "KJV1769:PRO.15.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "A soft answer turneth away wrath: but grievous words stir up anger.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PRO.15.2",
+      "edition_verse_id": "KJV1769:PRO.15.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "The tongue of the wise useth knowledge aright: but the mouth of fools poureth out foolishness.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.15.3",
+      "edition_verse_id": "KJV1769:PRO.15.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "The eyes of the LORD ",
+          "kind": "text"
+        },
+        {
+          "text": "are",
+          "kind": "supplied"
+        },
+        {
+          "text": " in every place, beholding the evil and the good.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.15.4",
+      "edition_verse_id": "KJV1769:PRO.15.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "A wholesome tongue ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " a tree of life: but perverseness therein ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " a breach in the spirit.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.15.5",
+      "edition_verse_id": "KJV1769:PRO.15.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "A fool despiseth his father’s instruction: but he that regardeth reproof is prudent.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.15.6",
+      "edition_verse_id": "KJV1769:PRO.15.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "In the house of the righteous ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " much treasure: but in the revenues of the wicked is trouble.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.15.7",
+      "edition_verse_id": "KJV1769:PRO.15.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "The lips of the wise disperse knowledge: but the heart of the foolish ",
+          "kind": "text"
+        },
+        {
+          "text": "doeth",
+          "kind": "supplied"
+        },
+        {
+          "text": " not so.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.15.8",
+      "edition_verse_id": "KJV1769:PRO.15.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "The sacrifice of the wicked ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " an abomination to the LORD: but the prayer of the upright ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " his delight.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.15.9",
+      "edition_verse_id": "KJV1769:PRO.15.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "The way of the wicked ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " an abomination unto the LORD: but he loveth him that followeth after righteousness.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.15.10",
+      "edition_verse_id": "KJV1769:PRO.15.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "Correction ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " grievous unto him that forsaketh the way: ",
+          "kind": "text"
+        },
+        {
+          "text": "and",
+          "kind": "supplied"
+        },
+        {
+          "text": " he that hateth reproof shall die.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.15.11",
+      "edition_verse_id": "KJV1769:PRO.15.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "Hell and destruction ",
+          "kind": "text"
+        },
+        {
+          "text": "are",
+          "kind": "supplied"
+        },
+        {
+          "text": " before the LORD: how much more then the hearts of the children of men?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.15.12",
+      "edition_verse_id": "KJV1769:PRO.15.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "A scorner loveth not one that reproveth him: neither will he go unto the wise.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.15.13",
+      "edition_verse_id": "KJV1769:PRO.15.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "A merry heart maketh a cheerful countenance: but by sorrow of the heart the spirit is broken.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.15.14",
+      "edition_verse_id": "KJV1769:PRO.15.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "The heart of him that hath understanding seeketh knowledge: but the mouth of fools feedeth on foolishness.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.15.15",
+      "edition_verse_id": "KJV1769:PRO.15.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "All the days of the afflicted ",
+          "kind": "text"
+        },
+        {
+          "text": "are",
+          "kind": "supplied"
+        },
+        {
+          "text": " evil: but he that is of a merry heart ",
+          "kind": "text"
+        },
+        {
+          "text": "hath",
+          "kind": "supplied"
+        },
+        {
+          "text": " a continual feast.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.15.16",
+      "edition_verse_id": "KJV1769:PRO.15.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "Better ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " little with the fear of the LORD than great treasure and trouble therewith.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PRO.15.17",
+      "edition_verse_id": "KJV1769:PRO.15.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "Better ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " a dinner of herbs where love is, than a stalled ox and hatred therewith.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.15.18",
+      "edition_verse_id": "KJV1769:PRO.15.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "A wrathful man stirreth up strife: but ",
+          "kind": "text"
+        },
+        {
+          "text": "he that is",
+          "kind": "supplied"
+        },
+        {
+          "text": " slow to anger appeaseth strife.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.15.19",
+      "edition_verse_id": "KJV1769:PRO.15.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "The way of the slothful ",
+          "kind": "text"
+        },
+        {
+          "text": "man is",
+          "kind": "supplied"
+        },
+        {
+          "text": " as an hedge of thorns: but the way of the righteous ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " made plain.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.15.20",
+      "edition_verse_id": "KJV1769:PRO.15.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "A wise son maketh a glad father: but a foolish man despiseth his mother.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.15.21",
+      "edition_verse_id": "KJV1769:PRO.15.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "Folly ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " joy to ",
+          "kind": "text"
+        },
+        {
+          "text": "him that is",
+          "kind": "supplied"
+        },
+        {
+          "text": " destitute of wisdom: but a man of understanding walketh uprightly.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.15.22",
+      "edition_verse_id": "KJV1769:PRO.15.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "Without counsel purposes are disappointed: but in the multitude of counsellors they are established.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.15.23",
+      "edition_verse_id": "KJV1769:PRO.15.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "A man hath joy by the answer of his mouth: and a word ",
+          "kind": "text"
+        },
+        {
+          "text": "spoken",
+          "kind": "supplied"
+        },
+        {
+          "text": " in due season, how good ",
+          "kind": "text"
+        },
+        {
+          "text": "is it",
+          "kind": "supplied"
+        },
+        {
+          "text": "!",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.15.24",
+      "edition_verse_id": "KJV1769:PRO.15.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "The way of life ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " above to the wise, that he may depart from hell beneath.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.15.25",
+      "edition_verse_id": "KJV1769:PRO.15.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "The LORD will destroy the house of the proud: but he will establish the border of the widow.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.15.26",
+      "edition_verse_id": "KJV1769:PRO.15.26",
+      "verse": 26,
+      "spans": [
+        {
+          "text": "The thoughts of the wicked ",
+          "kind": "text"
+        },
+        {
+          "text": "are",
+          "kind": "supplied"
+        },
+        {
+          "text": " an abomination to the LORD: but ",
+          "kind": "text"
+        },
+        {
+          "text": "the words",
+          "kind": "supplied"
+        },
+        {
+          "text": " of the pure ",
+          "kind": "text"
+        },
+        {
+          "text": "are",
+          "kind": "supplied"
+        },
+        {
+          "text": " pleasant words.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.15.27",
+      "edition_verse_id": "KJV1769:PRO.15.27",
+      "verse": 27,
+      "spans": [
+        {
+          "text": "He that is greedy of gain troubleth his own house; but he that hateth gifts shall live.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.15.28",
+      "edition_verse_id": "KJV1769:PRO.15.28",
+      "verse": 28,
+      "spans": [
+        {
+          "text": "The heart of the righteous studieth to answer: but the mouth of the wicked poureth out evil things.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.15.29",
+      "edition_verse_id": "KJV1769:PRO.15.29",
+      "verse": 29,
+      "spans": [
+        {
+          "text": "The LORD ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " far from the wicked: but he heareth the prayer of the righteous.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.15.30",
+      "edition_verse_id": "KJV1769:PRO.15.30",
+      "verse": 30,
+      "spans": [
+        {
+          "text": "The light of the eyes rejoiceth the heart: ",
+          "kind": "text"
+        },
+        {
+          "text": "and",
+          "kind": "supplied"
+        },
+        {
+          "text": " a good report maketh the bones fat.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.15.31",
+      "edition_verse_id": "KJV1769:PRO.15.31",
+      "verse": 31,
+      "spans": [
+        {
+          "text": "The ear that heareth the reproof of life abideth among the wise.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.15.32",
+      "edition_verse_id": "KJV1769:PRO.15.32",
+      "verse": 32,
+      "spans": [
+        {
+          "text": "He that refuseth instruction despiseth his own soul: but he that heareth reproof getteth understanding.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.15.33",
+      "edition_verse_id": "KJV1769:PRO.15.33",
+      "verse": 33,
+      "spans": [
+        {
+          "text": "The fear of the LORD ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " the instruction of wisdom; and before honour ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " humility.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

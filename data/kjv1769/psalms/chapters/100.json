@@ -1,0 +1,140 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "KJV1769",
+  "book_code": "PSA",
+  "chapter": 100,
+  "verses": [
+    {
+      "id": "PSA.100.1",
+      "edition_verse_id": "KJV1769:PSA.100.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "Make a joyful noise unto the LORD, all ye lands.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.100.2",
+      "edition_verse_id": "KJV1769:PSA.100.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "Serve the LORD with gladness: come before his presence with singing.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.100.3",
+      "edition_verse_id": "KJV1769:PSA.100.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "Know ye that the LORD he ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " God: ",
+          "kind": "text"
+        },
+        {
+          "text": "it is",
+          "kind": "supplied"
+        },
+        {
+          "text": " he ",
+          "kind": "text"
+        },
+        {
+          "text": "that",
+          "kind": "supplied"
+        },
+        {
+          "text": " hath made us, and not we ourselves; ",
+          "kind": "text"
+        },
+        {
+          "text": "we are",
+          "kind": "supplied"
+        },
+        {
+          "text": " his people, and the sheep of his pasture.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.100.4",
+      "edition_verse_id": "KJV1769:PSA.100.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "Enter into his gates with thanksgiving, ",
+          "kind": "text"
+        },
+        {
+          "text": "and",
+          "kind": "supplied"
+        },
+        {
+          "text": " into his courts with praise: be thankful unto him, ",
+          "kind": "text"
+        },
+        {
+          "text": "and",
+          "kind": "supplied"
+        },
+        {
+          "text": " bless his name.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.100.5",
+      "edition_verse_id": "KJV1769:PSA.100.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "For the LORD ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " good; his mercy ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " everlasting; and his truth ",
+          "kind": "text"
+        },
+        {
+          "text": "endureth",
+          "kind": "supplied"
+        },
+        {
+          "text": " to all generations.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

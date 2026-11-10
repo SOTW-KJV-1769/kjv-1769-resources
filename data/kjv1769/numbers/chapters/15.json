@@ -1,0 +1,704 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "KJV1769",
+  "book_code": "NUM",
+  "chapter": 15,
+  "verses": [
+    {
+      "id": "NUM.15.1",
+      "edition_verse_id": "KJV1769:NUM.15.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "And the LORD spake unto Moses, saying,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "NUM.15.2",
+      "edition_verse_id": "KJV1769:NUM.15.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "Speak unto the children of Israel, and say unto them, When ye be come into the land of your habitations, which I give unto you,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.15.3",
+      "edition_verse_id": "KJV1769:NUM.15.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "And will make an offering by fire unto the LORD, a burnt offering, or a sacrifice in performing a vow, or in a freewill offering, or in your solemn feasts, to make a sweet savour unto the LORD, of the herd, or of the flock:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.15.4",
+      "edition_verse_id": "KJV1769:NUM.15.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "Then shall he that offereth his offering unto the LORD bring a meat offering of a tenth deal of flour mingled with the fourth ",
+          "kind": "text"
+        },
+        {
+          "text": "part",
+          "kind": "supplied"
+        },
+        {
+          "text": " of an hin of oil.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.15.5",
+      "edition_verse_id": "KJV1769:NUM.15.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "And the fourth ",
+          "kind": "text"
+        },
+        {
+          "text": "part",
+          "kind": "supplied"
+        },
+        {
+          "text": " of an hin of wine for a drink offering shalt thou prepare with the burnt offering or sacrifice, for one lamb.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.15.6",
+      "edition_verse_id": "KJV1769:NUM.15.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "Or for a ram, thou shalt prepare ",
+          "kind": "text"
+        },
+        {
+          "text": "for",
+          "kind": "supplied"
+        },
+        {
+          "text": " a meat offering two tenth deals of flour mingled with the third ",
+          "kind": "text"
+        },
+        {
+          "text": "part",
+          "kind": "supplied"
+        },
+        {
+          "text": " of an hin of oil.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.15.7",
+      "edition_verse_id": "KJV1769:NUM.15.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "And for a drink offering thou shalt offer the third ",
+          "kind": "text"
+        },
+        {
+          "text": "part",
+          "kind": "supplied"
+        },
+        {
+          "text": " of an hin of wine, ",
+          "kind": "text"
+        },
+        {
+          "text": "for",
+          "kind": "supplied"
+        },
+        {
+          "text": " a sweet savour unto the LORD.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.15.8",
+      "edition_verse_id": "KJV1769:NUM.15.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "And when thou preparest a bullock ",
+          "kind": "text"
+        },
+        {
+          "text": "for",
+          "kind": "supplied"
+        },
+        {
+          "text": " a burnt offering, or ",
+          "kind": "text"
+        },
+        {
+          "text": "for",
+          "kind": "supplied"
+        },
+        {
+          "text": " a sacrifice in performing a vow, or peace offerings unto the LORD:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.15.9",
+      "edition_verse_id": "KJV1769:NUM.15.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "Then shall he bring with a bullock a meat offering of three tenth deals of flour mingled with half an hin of oil.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.15.10",
+      "edition_verse_id": "KJV1769:NUM.15.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "And thou shalt bring for a drink offering half an hin of wine, ",
+          "kind": "text"
+        },
+        {
+          "text": "for",
+          "kind": "supplied"
+        },
+        {
+          "text": " an offering made by fire, of a sweet savour unto the LORD.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.15.11",
+      "edition_verse_id": "KJV1769:NUM.15.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "Thus shall it be done for one bullock, or for one ram, or for a lamb, or a kid.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.15.12",
+      "edition_verse_id": "KJV1769:NUM.15.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "According to the number that ye shall prepare, so shall ye do to every one according to their number.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.15.13",
+      "edition_verse_id": "KJV1769:NUM.15.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "All that are born of the country shall do these things after this manner, in offering an offering made by fire, of a sweet savour unto the LORD.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.15.14",
+      "edition_verse_id": "KJV1769:NUM.15.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "And if a stranger sojourn with you, or whosoever ",
+          "kind": "text"
+        },
+        {
+          "text": "be",
+          "kind": "supplied"
+        },
+        {
+          "text": " among you in your generations, and will offer an offering made by fire, of a sweet savour unto the LORD; as ye do, so he shall do.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.15.15",
+      "edition_verse_id": "KJV1769:NUM.15.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "One ordinance ",
+          "kind": "text"
+        },
+        {
+          "text": "shall be both",
+          "kind": "supplied"
+        },
+        {
+          "text": " for you of the congregation, and also for the stranger that sojourneth ",
+          "kind": "text"
+        },
+        {
+          "text": "with you",
+          "kind": "supplied"
+        },
+        {
+          "text": ", an ordinance for ever in your generations: as ye ",
+          "kind": "text"
+        },
+        {
+          "text": "are",
+          "kind": "supplied"
+        },
+        {
+          "text": ", so shall the stranger be before the LORD.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.15.16",
+      "edition_verse_id": "KJV1769:NUM.15.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "One law and one manner shall be for you, and for the stranger that sojourneth with you.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.15.17",
+      "edition_verse_id": "KJV1769:NUM.15.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "¶ And the LORD spake unto Moses, saying,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "NUM.15.18",
+      "edition_verse_id": "KJV1769:NUM.15.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "Speak unto the children of Israel, and say unto them, When ye come into the land whither I bring you,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.15.19",
+      "edition_verse_id": "KJV1769:NUM.15.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "Then it shall be, that, when ye eat of the bread of the land, ye shall offer up an heave offering unto the LORD.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.15.20",
+      "edition_verse_id": "KJV1769:NUM.15.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "Ye shall offer up a cake of the first of your dough ",
+          "kind": "text"
+        },
+        {
+          "text": "for",
+          "kind": "supplied"
+        },
+        {
+          "text": " an heave offering: as ",
+          "kind": "text"
+        },
+        {
+          "text": "ye do",
+          "kind": "supplied"
+        },
+        {
+          "text": " the heave offering of the threshingfloor, so shall ye heave it.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.15.21",
+      "edition_verse_id": "KJV1769:NUM.15.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "Of the first of your dough ye shall give unto the LORD an heave offering in your generations.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.15.22",
+      "edition_verse_id": "KJV1769:NUM.15.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "¶ And if ye have erred, and not observed all these commandments, which the LORD hath spoken unto Moses,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "NUM.15.23",
+      "edition_verse_id": "KJV1769:NUM.15.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "Even",
+          "kind": "supplied"
+        },
+        {
+          "text": " all that the LORD hath commanded you by the hand of Moses, from the day that the LORD commanded ",
+          "kind": "text"
+        },
+        {
+          "text": "Moses",
+          "kind": "supplied"
+        },
+        {
+          "text": ", and henceforward among your generations;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.15.24",
+      "edition_verse_id": "KJV1769:NUM.15.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "Then it shall be, if ",
+          "kind": "text"
+        },
+        {
+          "text": "ought",
+          "kind": "supplied"
+        },
+        {
+          "text": " be committed by ignorance without the knowledge of the congregation, that all the congregation shall offer one young bullock for a burnt offering, for a sweet savour unto the LORD, with his meat offering, and his drink offering, according to the manner, and one kid of the goats for a sin offering.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.15.25",
+      "edition_verse_id": "KJV1769:NUM.15.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "And the priest shall make an atonement for all the congregation of the children of Israel, and it shall be forgiven them; for it ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " ignorance: and they shall bring their offering, a sacrifice made by fire unto the LORD, and their sin offering before the LORD, for their ignorance:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.15.26",
+      "edition_verse_id": "KJV1769:NUM.15.26",
+      "verse": 26,
+      "spans": [
+        {
+          "text": "And it shall be forgiven all the congregation of the children of Israel, and the stranger that sojourneth among them; seeing all the people ",
+          "kind": "text"
+        },
+        {
+          "text": "were",
+          "kind": "supplied"
+        },
+        {
+          "text": " in ignorance.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.15.27",
+      "edition_verse_id": "KJV1769:NUM.15.27",
+      "verse": 27,
+      "spans": [
+        {
+          "text": "¶ And if any soul sin through ignorance, then he shall bring a she goat of the first year for a sin offering.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "NUM.15.28",
+      "edition_verse_id": "KJV1769:NUM.15.28",
+      "verse": 28,
+      "spans": [
+        {
+          "text": "And the priest shall make an atonement for the soul that sinneth ignorantly, when he sinneth by ignorance before the LORD, to make an atonement for him; and it shall be forgiven him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.15.29",
+      "edition_verse_id": "KJV1769:NUM.15.29",
+      "verse": 29,
+      "spans": [
+        {
+          "text": "Ye shall have one law for him that sinneth through ignorance, ",
+          "kind": "text"
+        },
+        {
+          "text": "both for",
+          "kind": "supplied"
+        },
+        {
+          "text": " him that is born among the children of Israel, and for the stranger that sojourneth among them.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.15.30",
+      "edition_verse_id": "KJV1769:NUM.15.30",
+      "verse": 30,
+      "spans": [
+        {
+          "text": "¶ But the soul that doeth ",
+          "kind": "text"
+        },
+        {
+          "text": "ought",
+          "kind": "supplied"
+        },
+        {
+          "text": " presumptuously, ",
+          "kind": "text"
+        },
+        {
+          "text": "whether he be",
+          "kind": "supplied"
+        },
+        {
+          "text": " born in the land, or a stranger, the same reproacheth the LORD; and that soul shall be cut off from among his people.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "NUM.15.31",
+      "edition_verse_id": "KJV1769:NUM.15.31",
+      "verse": 31,
+      "spans": [
+        {
+          "text": "Because he hath despised the word of the LORD, and hath broken his commandment, that soul shall utterly be cut off; his iniquity ",
+          "kind": "text"
+        },
+        {
+          "text": "shall be",
+          "kind": "supplied"
+        },
+        {
+          "text": " upon him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.15.32",
+      "edition_verse_id": "KJV1769:NUM.15.32",
+      "verse": 32,
+      "spans": [
+        {
+          "text": "¶ And while the children of Israel were in the wilderness, they found a man that gathered sticks upon the sabbath day.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "NUM.15.33",
+      "edition_verse_id": "KJV1769:NUM.15.33",
+      "verse": 33,
+      "spans": [
+        {
+          "text": "And they that found him gathering sticks brought him unto Moses and Aaron, and unto all the congregation.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.15.34",
+      "edition_verse_id": "KJV1769:NUM.15.34",
+      "verse": 34,
+      "spans": [
+        {
+          "text": "And they put him in ward, because it was not declared what should be done to him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.15.35",
+      "edition_verse_id": "KJV1769:NUM.15.35",
+      "verse": 35,
+      "spans": [
+        {
+          "text": "And the LORD said unto Moses, The man shall be surely put to death: all the congregation shall stone him with stones without the camp.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.15.36",
+      "edition_verse_id": "KJV1769:NUM.15.36",
+      "verse": 36,
+      "spans": [
+        {
+          "text": "And all the congregation brought him without the camp, and stoned him with stones, and he died; as the LORD commanded Moses.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.15.37",
+      "edition_verse_id": "KJV1769:NUM.15.37",
+      "verse": 37,
+      "spans": [
+        {
+          "text": "¶ And the LORD spake unto Moses, saying,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "NUM.15.38",
+      "edition_verse_id": "KJV1769:NUM.15.38",
+      "verse": 38,
+      "spans": [
+        {
+          "text": "Speak unto the children of Israel, and bid them that they make them fringes in the borders of their garments throughout their generations, and that they put upon the fringe of the borders a ribband of blue:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.15.39",
+      "edition_verse_id": "KJV1769:NUM.15.39",
+      "verse": 39,
+      "spans": [
+        {
+          "text": "And it shall be unto you for a fringe, that ye may look upon it, and remember all the commandments of the LORD, and do them; and that ye seek not after your own heart and your own eyes, after which ye use to go a whoring:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.15.40",
+      "edition_verse_id": "KJV1769:NUM.15.40",
+      "verse": 40,
+      "spans": [
+        {
+          "text": "That ye may remember, and do all my commandments, and be holy unto your God.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.15.41",
+      "edition_verse_id": "KJV1769:NUM.15.41",
+      "verse": 41,
+      "spans": [
+        {
+          "text": "I ",
+          "kind": "text"
+        },
+        {
+          "text": "am",
+          "kind": "supplied"
+        },
+        {
+          "text": " the LORD your God, which brought you out of the land of Egypt, to be your God: I ",
+          "kind": "text"
+        },
+        {
+          "text": "am",
+          "kind": "supplied"
+        },
+        {
+          "text": " the LORD your God.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

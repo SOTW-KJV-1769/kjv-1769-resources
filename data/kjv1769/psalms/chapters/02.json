@@ -1,0 +1,208 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "KJV1769",
+  "book_code": "PSA",
+  "chapter": 2,
+  "verses": [
+    {
+      "id": "PSA.2.1",
+      "edition_verse_id": "KJV1769:PSA.2.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "Why do the heathen rage, and the people imagine a vain thing?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.2.2",
+      "edition_verse_id": "KJV1769:PSA.2.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "The kings of the earth set themselves, and the rulers take counsel together, against the LORD, and against his anointed, ",
+          "kind": "text"
+        },
+        {
+          "text": "saying",
+          "kind": "supplied"
+        },
+        {
+          "text": ",",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.2.3",
+      "edition_verse_id": "KJV1769:PSA.2.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "Let us break their bands asunder, and cast away their cords from us.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.2.4",
+      "edition_verse_id": "KJV1769:PSA.2.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "He that sitteth in the heavens shall laugh: the Lord shall have them in derision.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.2.5",
+      "edition_verse_id": "KJV1769:PSA.2.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "Then shall he speak unto them in his wrath, and vex them in his sore displeasure.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.2.6",
+      "edition_verse_id": "KJV1769:PSA.2.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "Yet have I set my king upon my holy hill of Zion.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.2.7",
+      "edition_verse_id": "KJV1769:PSA.2.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "I will declare the decree: the LORD hath said unto me, Thou ",
+          "kind": "text"
+        },
+        {
+          "text": "art",
+          "kind": "supplied"
+        },
+        {
+          "text": " my Son; this day have I begotten thee.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.2.8",
+      "edition_verse_id": "KJV1769:PSA.2.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "Ask of me, and I shall give ",
+          "kind": "text"
+        },
+        {
+          "text": "thee",
+          "kind": "supplied"
+        },
+        {
+          "text": " the heathen ",
+          "kind": "text"
+        },
+        {
+          "text": "for",
+          "kind": "supplied"
+        },
+        {
+          "text": " thine inheritance, and the uttermost parts of the earth ",
+          "kind": "text"
+        },
+        {
+          "text": "for",
+          "kind": "supplied"
+        },
+        {
+          "text": " thy possession.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.2.9",
+      "edition_verse_id": "KJV1769:PSA.2.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "Thou shalt break them with a rod of iron; thou shalt dash them in pieces like a potter’s vessel.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.2.10",
+      "edition_verse_id": "KJV1769:PSA.2.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "Be wise now therefore, O ye kings: be instructed, ye judges of the earth.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.2.11",
+      "edition_verse_id": "KJV1769:PSA.2.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "Serve the LORD with fear, and rejoice with trembling.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.2.12",
+      "edition_verse_id": "KJV1769:PSA.2.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "Kiss the Son, lest he be angry, and ye perish ",
+          "kind": "text"
+        },
+        {
+          "text": "from",
+          "kind": "supplied"
+        },
+        {
+          "text": " the way, when his wrath is kindled but a little. Blessed ",
+          "kind": "text"
+        },
+        {
+          "text": "are",
+          "kind": "supplied"
+        },
+        {
+          "text": " all they that put their trust in him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

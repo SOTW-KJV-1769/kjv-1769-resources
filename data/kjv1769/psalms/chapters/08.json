@@ -1,0 +1,148 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "KJV1769",
+  "book_code": "PSA",
+  "chapter": 8,
+  "verses": [
+    {
+      "id": "PSA.8.1",
+      "edition_verse_id": "KJV1769:PSA.8.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "O LORD our Lord, how excellent ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " thy name in all the earth! who hast set thy glory above the heavens.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.8.2",
+      "edition_verse_id": "KJV1769:PSA.8.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "Out of the mouth of babes and sucklings hast thou ordained strength because of thine enemies, that thou mightest still the enemy and the avenger.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.8.3",
+      "edition_verse_id": "KJV1769:PSA.8.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "When I consider thy heavens, the work of thy fingers, the moon and the stars, which thou hast ordained;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.8.4",
+      "edition_verse_id": "KJV1769:PSA.8.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "What is man, that thou art mindful of him? and the son of man, that thou visitest him?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.8.5",
+      "edition_verse_id": "KJV1769:PSA.8.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "For thou hast made him a little lower than the angels, and hast crowned him with glory and honour.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.8.6",
+      "edition_verse_id": "KJV1769:PSA.8.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "Thou madest him to have dominion over the works of thy hands; thou hast put all ",
+          "kind": "text"
+        },
+        {
+          "text": "things",
+          "kind": "supplied"
+        },
+        {
+          "text": " under his feet:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.8.7",
+      "edition_verse_id": "KJV1769:PSA.8.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "All sheep and oxen, yea, and the beasts of the field;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.8.8",
+      "edition_verse_id": "KJV1769:PSA.8.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "The fowl of the air, and the fish of the sea, ",
+          "kind": "text"
+        },
+        {
+          "text": "and whatsoever",
+          "kind": "supplied"
+        },
+        {
+          "text": " passeth through the paths of the seas.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.8.9",
+      "edition_verse_id": "KJV1769:PSA.8.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "O LORD our Lord, how excellent ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " thy name in all the earth!",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

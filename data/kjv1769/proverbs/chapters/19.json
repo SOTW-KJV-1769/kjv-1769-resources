@@ -1,0 +1,632 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "KJV1769",
+  "book_code": "PRO",
+  "chapter": 19,
+  "verses": [
+    {
+      "id": "PRO.19.1",
+      "edition_verse_id": "KJV1769:PRO.19.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "Better ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " the poor that walketh in his integrity, than ",
+          "kind": "text"
+        },
+        {
+          "text": "he that is",
+          "kind": "supplied"
+        },
+        {
+          "text": " perverse in his lips, and is a fool.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PRO.19.2",
+      "edition_verse_id": "KJV1769:PRO.19.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "Also, ",
+          "kind": "text"
+        },
+        {
+          "text": "that",
+          "kind": "supplied"
+        },
+        {
+          "text": " the soul ",
+          "kind": "text"
+        },
+        {
+          "text": "be",
+          "kind": "supplied"
+        },
+        {
+          "text": " without knowledge, ",
+          "kind": "text"
+        },
+        {
+          "text": "it is",
+          "kind": "supplied"
+        },
+        {
+          "text": " not good; and he that hasteth with ",
+          "kind": "text"
+        },
+        {
+          "text": "his",
+          "kind": "supplied"
+        },
+        {
+          "text": " feet sinneth.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.19.3",
+      "edition_verse_id": "KJV1769:PRO.19.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "The foolishness of man perverteth his way: and his heart fretteth against the LORD.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.19.4",
+      "edition_verse_id": "KJV1769:PRO.19.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "Wealth maketh many friends; but the poor is separated from his neighbour.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.19.5",
+      "edition_verse_id": "KJV1769:PRO.19.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "A false witness shall not be unpunished, and ",
+          "kind": "text"
+        },
+        {
+          "text": "he that",
+          "kind": "supplied"
+        },
+        {
+          "text": " speaketh lies shall not escape.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.19.6",
+      "edition_verse_id": "KJV1769:PRO.19.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "Many will intreat the favour of the prince: and every man ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " a friend to him that giveth gifts.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PRO.19.7",
+      "edition_verse_id": "KJV1769:PRO.19.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "All the brethren of the poor do hate him: how much more do his friends go far from him? he pursueth ",
+          "kind": "text"
+        },
+        {
+          "text": "them with",
+          "kind": "supplied"
+        },
+        {
+          "text": " words, ",
+          "kind": "text"
+        },
+        {
+          "text": "yet",
+          "kind": "supplied"
+        },
+        {
+          "text": " they ",
+          "kind": "text"
+        },
+        {
+          "text": "are",
+          "kind": "supplied"
+        },
+        {
+          "text": " wanting ",
+          "kind": "text"
+        },
+        {
+          "text": "to him",
+          "kind": "supplied"
+        },
+        {
+          "text": ".",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.19.8",
+      "edition_verse_id": "KJV1769:PRO.19.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "He that getteth wisdom loveth his own soul: he that keepeth understanding shall find good.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.19.9",
+      "edition_verse_id": "KJV1769:PRO.19.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "A false witness shall not be unpunished, and ",
+          "kind": "text"
+        },
+        {
+          "text": "he that",
+          "kind": "supplied"
+        },
+        {
+          "text": " speaketh lies shall perish.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.19.10",
+      "edition_verse_id": "KJV1769:PRO.19.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "Delight is not seemly for a fool; much less for a servant to have rule over princes.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.19.11",
+      "edition_verse_id": "KJV1769:PRO.19.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "The discretion of a man deferreth his anger; and ",
+          "kind": "text"
+        },
+        {
+          "text": "it is",
+          "kind": "supplied"
+        },
+        {
+          "text": " his glory to pass over a transgression.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.19.12",
+      "edition_verse_id": "KJV1769:PRO.19.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "The king’s wrath ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " as the roaring of a lion; but his favour ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " as dew upon the grass.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.19.13",
+      "edition_verse_id": "KJV1769:PRO.19.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "A foolish son ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " the calamity of his father: and the contentions of a wife ",
+          "kind": "text"
+        },
+        {
+          "text": "are",
+          "kind": "supplied"
+        },
+        {
+          "text": " a continual dropping.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.19.14",
+      "edition_verse_id": "KJV1769:PRO.19.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "House and riches ",
+          "kind": "text"
+        },
+        {
+          "text": "are",
+          "kind": "supplied"
+        },
+        {
+          "text": " the inheritance of fathers: and a prudent wife ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " from the LORD.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.19.15",
+      "edition_verse_id": "KJV1769:PRO.19.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "Slothfulness casteth into a deep sleep; and an idle soul shall suffer hunger.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.19.16",
+      "edition_verse_id": "KJV1769:PRO.19.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "He that keepeth the commandment keepeth his own soul; ",
+          "kind": "text"
+        },
+        {
+          "text": "but",
+          "kind": "supplied"
+        },
+        {
+          "text": " he that despiseth his ways shall die.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.19.17",
+      "edition_verse_id": "KJV1769:PRO.19.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "He that hath pity upon the poor lendeth unto the LORD; and that which he hath given will he pay him again.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.19.18",
+      "edition_verse_id": "KJV1769:PRO.19.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "Chasten thy son while there is hope, and let not thy soul spare for his crying.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.19.19",
+      "edition_verse_id": "KJV1769:PRO.19.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "A man of great wrath shall suffer punishment: for if thou deliver ",
+          "kind": "text"
+        },
+        {
+          "text": "him",
+          "kind": "supplied"
+        },
+        {
+          "text": ", yet thou must do it again.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.19.20",
+      "edition_verse_id": "KJV1769:PRO.19.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "Hear counsel, and receive instruction, that thou mayest be wise in thy latter end.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.19.21",
+      "edition_verse_id": "KJV1769:PRO.19.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "There are",
+          "kind": "supplied"
+        },
+        {
+          "text": " many devices in a man’s heart; nevertheless the counsel of the LORD, that shall stand.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.19.22",
+      "edition_verse_id": "KJV1769:PRO.19.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "The desire of a man ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " his kindness: and a poor man ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " better than a liar.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.19.23",
+      "edition_verse_id": "KJV1769:PRO.19.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "The fear of the LORD ",
+          "kind": "text"
+        },
+        {
+          "text": "tendeth",
+          "kind": "supplied"
+        },
+        {
+          "text": " to life: and ",
+          "kind": "text"
+        },
+        {
+          "text": "he that hath it",
+          "kind": "supplied"
+        },
+        {
+          "text": " shall abide satisfied; he shall not be visited with evil.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.19.24",
+      "edition_verse_id": "KJV1769:PRO.19.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "A slothful ",
+          "kind": "text"
+        },
+        {
+          "text": "man",
+          "kind": "supplied"
+        },
+        {
+          "text": " hideth his hand in ",
+          "kind": "text"
+        },
+        {
+          "text": "his",
+          "kind": "supplied"
+        },
+        {
+          "text": " bosom, and will not so much as bring it to his mouth again.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.19.25",
+      "edition_verse_id": "KJV1769:PRO.19.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "Smite a scorner, and the simple will beware: and reprove one that hath understanding, ",
+          "kind": "text"
+        },
+        {
+          "text": "and",
+          "kind": "supplied"
+        },
+        {
+          "text": " he will understand knowledge.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.19.26",
+      "edition_verse_id": "KJV1769:PRO.19.26",
+      "verse": 26,
+      "spans": [
+        {
+          "text": "He that wasteth ",
+          "kind": "text"
+        },
+        {
+          "text": "his",
+          "kind": "supplied"
+        },
+        {
+          "text": " father, ",
+          "kind": "text"
+        },
+        {
+          "text": "and",
+          "kind": "supplied"
+        },
+        {
+          "text": " chaseth away ",
+          "kind": "text"
+        },
+        {
+          "text": "his",
+          "kind": "supplied"
+        },
+        {
+          "text": " mother, ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " a son that causeth shame, and bringeth reproach.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.19.27",
+      "edition_verse_id": "KJV1769:PRO.19.27",
+      "verse": 27,
+      "spans": [
+        {
+          "text": "Cease, my son, to hear the instruction ",
+          "kind": "text"
+        },
+        {
+          "text": "that causeth",
+          "kind": "supplied"
+        },
+        {
+          "text": " to err from the words of knowledge.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.19.28",
+      "edition_verse_id": "KJV1769:PRO.19.28",
+      "verse": 28,
+      "spans": [
+        {
+          "text": "An ungodly witness scorneth judgment: and the mouth of the wicked devoureth iniquity.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.19.29",
+      "edition_verse_id": "KJV1769:PRO.19.29",
+      "verse": 29,
+      "spans": [
+        {
+          "text": "Judgments are prepared for scorners, and stripes for the back of fools.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

@@ -1,0 +1,320 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "KJV1769",
+  "book_code": "PSA",
+  "chapter": 9,
+  "verses": [
+    {
+      "id": "PSA.9.1",
+      "edition_verse_id": "KJV1769:PSA.9.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "I will praise ",
+          "kind": "text"
+        },
+        {
+          "text": "thee",
+          "kind": "supplied"
+        },
+        {
+          "text": ", O LORD, with my whole heart; I will shew forth all thy marvellous works.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.9.2",
+      "edition_verse_id": "KJV1769:PSA.9.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "I will be glad and rejoice in thee: I will sing praise to thy name, O thou most High.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.9.3",
+      "edition_verse_id": "KJV1769:PSA.9.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "When mine enemies are turned back, they shall fall and perish at thy presence.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.9.4",
+      "edition_verse_id": "KJV1769:PSA.9.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "For thou hast maintained my right and my cause; thou satest in the throne judging right.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.9.5",
+      "edition_verse_id": "KJV1769:PSA.9.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "Thou hast rebuked the heathen, thou hast destroyed the wicked, thou hast put out their name for ever and ever.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.9.6",
+      "edition_verse_id": "KJV1769:PSA.9.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "O thou enemy, destructions are come to a perpetual end: and thou hast destroyed cities; their memorial is perished with them.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.9.7",
+      "edition_verse_id": "KJV1769:PSA.9.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "But the LORD shall endure for ever: he hath prepared his throne for judgment.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.9.8",
+      "edition_verse_id": "KJV1769:PSA.9.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "And he shall judge the world in righteousness, he shall minister judgment to the people in uprightness.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.9.9",
+      "edition_verse_id": "KJV1769:PSA.9.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "The LORD also will be a refuge for the oppressed, a refuge in times of trouble.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.9.10",
+      "edition_verse_id": "KJV1769:PSA.9.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "And they that know thy name will put their trust in thee: for thou, LORD, hast not forsaken them that seek thee.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.9.11",
+      "edition_verse_id": "KJV1769:PSA.9.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "Sing praises to the LORD, which dwelleth in Zion: declare among the people his doings.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.9.12",
+      "edition_verse_id": "KJV1769:PSA.9.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "When he maketh inquisition for blood, he remembereth them: he forgetteth not the cry of the humble.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.9.13",
+      "edition_verse_id": "KJV1769:PSA.9.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "Have mercy upon me, O LORD; consider my trouble ",
+          "kind": "text"
+        },
+        {
+          "text": "which I suffer",
+          "kind": "supplied"
+        },
+        {
+          "text": " of them that hate me, thou that liftest me up from the gates of death:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.9.14",
+      "edition_verse_id": "KJV1769:PSA.9.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "That I may shew forth all thy praise in the gates of the daughter of Zion: I will rejoice in thy salvation.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.9.15",
+      "edition_verse_id": "KJV1769:PSA.9.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "The heathen are sunk down in the pit ",
+          "kind": "text"
+        },
+        {
+          "text": "that",
+          "kind": "supplied"
+        },
+        {
+          "text": " they made: in the net which they hid is their own foot taken.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.9.16",
+      "edition_verse_id": "KJV1769:PSA.9.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "The LORD is known ",
+          "kind": "text"
+        },
+        {
+          "text": "by",
+          "kind": "supplied"
+        },
+        {
+          "text": " the judgment ",
+          "kind": "text"
+        },
+        {
+          "text": "which",
+          "kind": "supplied"
+        },
+        {
+          "text": " he executeth: the wicked is snared in the work of his own hands. Higgaion. Selah.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.9.17",
+      "edition_verse_id": "KJV1769:PSA.9.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "The wicked shall be turned into hell, ",
+          "kind": "text"
+        },
+        {
+          "text": "and",
+          "kind": "supplied"
+        },
+        {
+          "text": " all the nations that forget God.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.9.18",
+      "edition_verse_id": "KJV1769:PSA.9.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "For the needy shall not alway be forgotten: the expectation of the poor shall ",
+          "kind": "text"
+        },
+        {
+          "text": "not",
+          "kind": "supplied"
+        },
+        {
+          "text": " perish for ever.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.9.19",
+      "edition_verse_id": "KJV1769:PSA.9.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "Arise, O LORD; let not man prevail: let the heathen be judged in thy sight.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.9.20",
+      "edition_verse_id": "KJV1769:PSA.9.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "Put them in fear, O LORD: ",
+          "kind": "text"
+        },
+        {
+          "text": "that",
+          "kind": "supplied"
+        },
+        {
+          "text": " the nations may know themselves ",
+          "kind": "text"
+        },
+        {
+          "text": "to be but",
+          "kind": "supplied"
+        },
+        {
+          "text": " men. Selah.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

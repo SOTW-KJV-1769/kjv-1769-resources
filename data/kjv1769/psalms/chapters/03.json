@@ -1,0 +1,168 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "KJV1769",
+  "book_code": "PSA",
+  "chapter": 3,
+  "verses": [
+    {
+      "id": "PSA.3.1",
+      "edition_verse_id": "KJV1769:PSA.3.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "LORD, how are they increased that trouble me! many ",
+          "kind": "text"
+        },
+        {
+          "text": "are",
+          "kind": "supplied"
+        },
+        {
+          "text": " they that rise up against me.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.3.2",
+      "edition_verse_id": "KJV1769:PSA.3.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "Many ",
+          "kind": "text"
+        },
+        {
+          "text": "there be",
+          "kind": "supplied"
+        },
+        {
+          "text": " which say of my soul, ",
+          "kind": "text"
+        },
+        {
+          "text": "There is",
+          "kind": "supplied"
+        },
+        {
+          "text": " no help for him in God. Selah.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.3.3",
+      "edition_verse_id": "KJV1769:PSA.3.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "But thou, O LORD, ",
+          "kind": "text"
+        },
+        {
+          "text": "art",
+          "kind": "supplied"
+        },
+        {
+          "text": " a shield for me; my glory, and the lifter up of mine head.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.3.4",
+      "edition_verse_id": "KJV1769:PSA.3.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "I cried unto the LORD with my voice, and he heard me out of his holy hill. Selah.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.3.5",
+      "edition_verse_id": "KJV1769:PSA.3.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "I laid me down and slept; I awaked; for the LORD sustained me.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.3.6",
+      "edition_verse_id": "KJV1769:PSA.3.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "I will not be afraid of ten thousands of people, that have set ",
+          "kind": "text"
+        },
+        {
+          "text": "themselves",
+          "kind": "supplied"
+        },
+        {
+          "text": " against me round about.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.3.7",
+      "edition_verse_id": "KJV1769:PSA.3.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "Arise, O LORD; save me, O my God: for thou hast smitten all mine enemies ",
+          "kind": "text"
+        },
+        {
+          "text": "upon",
+          "kind": "supplied"
+        },
+        {
+          "text": " the cheek bone; thou hast broken the teeth of the ungodly.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.3.8",
+      "edition_verse_id": "KJV1769:PSA.3.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "Salvation ",
+          "kind": "text"
+        },
+        {
+          "text": "belongeth",
+          "kind": "supplied"
+        },
+        {
+          "text": " unto the LORD: thy blessing ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " upon thy people. Selah.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

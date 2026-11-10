@@ -1,0 +1,436 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "KJV1769",
+  "book_code": "NUM",
+  "chapter": 34,
+  "verses": [
+    {
+      "id": "NUM.34.1",
+      "edition_verse_id": "KJV1769:NUM.34.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "And the LORD spake unto Moses, saying,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "NUM.34.2",
+      "edition_verse_id": "KJV1769:NUM.34.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "Command the children of Israel, and say unto them, When ye come into the land of Canaan; (this ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " the land that shall fall unto you for an inheritance, ",
+          "kind": "text"
+        },
+        {
+          "text": "even",
+          "kind": "supplied"
+        },
+        {
+          "text": " the land of Canaan with the coasts thereof:)",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.34.3",
+      "edition_verse_id": "KJV1769:NUM.34.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "Then your south quarter shall be from the wilderness of Zin along by the coast of Edom, and your south border shall be the outmost coast of the salt sea eastward:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.34.4",
+      "edition_verse_id": "KJV1769:NUM.34.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "And your border shall turn from the south to the ascent of Akrabbim, and pass on to Zin: and the going forth thereof shall be from the south to Kadesh-barnea, and shall go on to Hazar-addar, and pass on to Azmon:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.34.5",
+      "edition_verse_id": "KJV1769:NUM.34.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "And the border shall fetch a compass from Azmon unto the river of Egypt, and the goings out of it shall be at the sea.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.34.6",
+      "edition_verse_id": "KJV1769:NUM.34.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "And ",
+          "kind": "text"
+        },
+        {
+          "text": "as for",
+          "kind": "supplied"
+        },
+        {
+          "text": " the western border, ye shall even have the great sea for a border: this shall be your west border.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.34.7",
+      "edition_verse_id": "KJV1769:NUM.34.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "And this shall be your north border: from the great sea ye shall point out for you mount Hor:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.34.8",
+      "edition_verse_id": "KJV1769:NUM.34.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "From mount Hor ye shall point out ",
+          "kind": "text"
+        },
+        {
+          "text": "your border",
+          "kind": "supplied"
+        },
+        {
+          "text": " unto the entrance of Hamath; and the goings forth of the border shall be to Zedad:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.34.9",
+      "edition_verse_id": "KJV1769:NUM.34.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "¶ And the border shall go on to Ziphron, and the goings out of it shall be at Hazar-enan: this shall be your north border.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "NUM.34.10",
+      "edition_verse_id": "KJV1769:NUM.34.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "And ye shall point out your east border from Hazar-enan to Shepham:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.34.11",
+      "edition_verse_id": "KJV1769:NUM.34.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "And the coast shall go down from Shepham to Riblah, on the east side of Ain; and the border shall descend, and shall reach unto the side of the sea of Chinnereth eastward:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.34.12",
+      "edition_verse_id": "KJV1769:NUM.34.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "And the border shall go down to Jordan, and the goings out of it shall be at the salt sea: this shall be your land with the coasts thereof round about.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.34.13",
+      "edition_verse_id": "KJV1769:NUM.34.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "And Moses commanded the children of Israel, saying, This ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " the land which ye shall inherit by lot, which the LORD commanded to give unto the nine tribes, and to the half tribe:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.34.14",
+      "edition_verse_id": "KJV1769:NUM.34.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "For the tribe of the children of Reuben according to the house of their fathers, and the tribe of the children of Gad according to the house of their fathers, have received ",
+          "kind": "text"
+        },
+        {
+          "text": "their inheritance;",
+          "kind": "supplied"
+        },
+        {
+          "text": " and half the tribe of Manasseh have received their inheritance:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.34.15",
+      "edition_verse_id": "KJV1769:NUM.34.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "The two tribes and the half tribe have received their inheritance on this side Jordan ",
+          "kind": "text"
+        },
+        {
+          "text": "near",
+          "kind": "supplied"
+        },
+        {
+          "text": " Jericho eastward, toward the sunrising.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.34.16",
+      "edition_verse_id": "KJV1769:NUM.34.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "And the LORD spake unto Moses, saying,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "NUM.34.17",
+      "edition_verse_id": "KJV1769:NUM.34.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "These ",
+          "kind": "text"
+        },
+        {
+          "text": "are",
+          "kind": "supplied"
+        },
+        {
+          "text": " the names of the men which shall divide the land unto you: Eleazar the priest, and Joshua the son of Nun.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.34.18",
+      "edition_verse_id": "KJV1769:NUM.34.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "And ye shall take one prince of every tribe, to divide the land by inheritance.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.34.19",
+      "edition_verse_id": "KJV1769:NUM.34.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "And the names of the men ",
+          "kind": "text"
+        },
+        {
+          "text": "are",
+          "kind": "supplied"
+        },
+        {
+          "text": " these: Of the tribe of Judah, Caleb the son of Jephunneh.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.34.20",
+      "edition_verse_id": "KJV1769:NUM.34.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "And of the tribe of the children of Simeon, Shemuel the son of Ammihud.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.34.21",
+      "edition_verse_id": "KJV1769:NUM.34.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "Of the tribe of Benjamin, Elidad the son of Chislon.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.34.22",
+      "edition_verse_id": "KJV1769:NUM.34.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "And the prince of the tribe of the children of Dan, Bukki the son of Jogli.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.34.23",
+      "edition_verse_id": "KJV1769:NUM.34.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "The prince of the children of Joseph, for the tribe of the children of Manasseh, Hanniel the son of Ephod.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.34.24",
+      "edition_verse_id": "KJV1769:NUM.34.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "And the prince of the tribe of the children of Ephraim, Kemuel the son of Shiphtan.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.34.25",
+      "edition_verse_id": "KJV1769:NUM.34.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "And the prince of the tribe of the children of Zebulun, Elizaphan the son of Parnach.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.34.26",
+      "edition_verse_id": "KJV1769:NUM.34.26",
+      "verse": 26,
+      "spans": [
+        {
+          "text": "And the prince of the tribe of the children of Issachar, Paltiel the son of Azzan.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.34.27",
+      "edition_verse_id": "KJV1769:NUM.34.27",
+      "verse": 27,
+      "spans": [
+        {
+          "text": "And the prince of the tribe of the children of Asher, Ahihud the son of Shelomi.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.34.28",
+      "edition_verse_id": "KJV1769:NUM.34.28",
+      "verse": 28,
+      "spans": [
+        {
+          "text": "And the prince of the tribe of the children of Naphtali, Pedahel the son of Ammihud.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.34.29",
+      "edition_verse_id": "KJV1769:NUM.34.29",
+      "verse": 29,
+      "spans": [
+        {
+          "text": "These ",
+          "kind": "text"
+        },
+        {
+          "text": "are they",
+          "kind": "supplied"
+        },
+        {
+          "text": " whom the LORD commanded to divide the inheritance unto the children of Israel in the land of Canaan.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

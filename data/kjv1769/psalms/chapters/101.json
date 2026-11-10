@@ -1,0 +1,128 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "KJV1769",
+  "book_code": "PSA",
+  "chapter": 101,
+  "verses": [
+    {
+      "id": "PSA.101.1",
+      "edition_verse_id": "KJV1769:PSA.101.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "I will sing of mercy and judgment: unto thee, O LORD, will I sing.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.101.2",
+      "edition_verse_id": "KJV1769:PSA.101.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "I will behave myself wisely in a perfect way. O when wilt thou come unto me? I will walk within my house with a perfect heart.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.101.3",
+      "edition_verse_id": "KJV1769:PSA.101.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "I will set no wicked thing before mine eyes: I hate the work of them that turn aside; ",
+          "kind": "text"
+        },
+        {
+          "text": "it",
+          "kind": "supplied"
+        },
+        {
+          "text": " shall not cleave to me.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.101.4",
+      "edition_verse_id": "KJV1769:PSA.101.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "A froward heart shall depart from me: I will not know a wicked ",
+          "kind": "text"
+        },
+        {
+          "text": "person",
+          "kind": "supplied"
+        },
+        {
+          "text": ".",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.101.5",
+      "edition_verse_id": "KJV1769:PSA.101.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "Whoso privily slandereth his neighbour, him will I cut off: him that hath an high look and a proud heart will not I suffer.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.101.6",
+      "edition_verse_id": "KJV1769:PSA.101.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "Mine eyes ",
+          "kind": "text"
+        },
+        {
+          "text": "shall be",
+          "kind": "supplied"
+        },
+        {
+          "text": " upon the faithful of the land, that they may dwell with me: he that walketh in a perfect way, he shall serve me.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.101.7",
+      "edition_verse_id": "KJV1769:PSA.101.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "He that worketh deceit shall not dwell within my house: he that telleth lies shall not tarry in my sight.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.101.8",
+      "edition_verse_id": "KJV1769:PSA.101.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "I will early destroy all the wicked of the land; that I may cut off all wicked doers from the city of the LORD.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

@@ -1,0 +1,600 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "KJV1769",
+  "book_code": "PSA",
+  "chapter": 104,
+  "verses": [
+    {
+      "id": "PSA.104.1",
+      "edition_verse_id": "KJV1769:PSA.104.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "Bless the LORD, O my soul. O LORD my God, thou art very great; thou art clothed with honour and majesty.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.104.2",
+      "edition_verse_id": "KJV1769:PSA.104.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "Who coverest ",
+          "kind": "text"
+        },
+        {
+          "text": "thyself",
+          "kind": "supplied"
+        },
+        {
+          "text": " with light as ",
+          "kind": "text"
+        },
+        {
+          "text": "with",
+          "kind": "supplied"
+        },
+        {
+          "text": " a garment: who stretchest out the heavens like a curtain:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.104.3",
+      "edition_verse_id": "KJV1769:PSA.104.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "Who layeth the beams of his chambers in the waters: who maketh the clouds his chariot: who walketh upon the wings of the wind:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.104.4",
+      "edition_verse_id": "KJV1769:PSA.104.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "Who maketh his angels spirits; his ministers a flaming fire:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.104.5",
+      "edition_verse_id": "KJV1769:PSA.104.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "Who",
+          "kind": "supplied"
+        },
+        {
+          "text": " laid the foundations of the earth, ",
+          "kind": "text"
+        },
+        {
+          "text": "that",
+          "kind": "supplied"
+        },
+        {
+          "text": " it should not be removed for ever.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.104.6",
+      "edition_verse_id": "KJV1769:PSA.104.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "Thou coveredst it with the deep as ",
+          "kind": "text"
+        },
+        {
+          "text": "with",
+          "kind": "supplied"
+        },
+        {
+          "text": " a garment: the waters stood above the mountains.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.104.7",
+      "edition_verse_id": "KJV1769:PSA.104.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "At thy rebuke they fled; at the voice of thy thunder they hasted away.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.104.8",
+      "edition_verse_id": "KJV1769:PSA.104.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "They go up by the mountains; they go down by the valleys unto the place which thou hast founded for them.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.104.9",
+      "edition_verse_id": "KJV1769:PSA.104.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "Thou hast set a bound that they may not pass over; that they turn not again to cover the earth.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.104.10",
+      "edition_verse_id": "KJV1769:PSA.104.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "He sendeth the springs into the valleys, ",
+          "kind": "text"
+        },
+        {
+          "text": "which",
+          "kind": "supplied"
+        },
+        {
+          "text": " run among the hills.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.104.11",
+      "edition_verse_id": "KJV1769:PSA.104.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "They give drink to every beast of the field: the wild asses quench their thirst.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.104.12",
+      "edition_verse_id": "KJV1769:PSA.104.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "By them shall the fowls of the heaven have their habitation, ",
+          "kind": "text"
+        },
+        {
+          "text": "which",
+          "kind": "supplied"
+        },
+        {
+          "text": " sing among the branches.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.104.13",
+      "edition_verse_id": "KJV1769:PSA.104.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "He watereth the hills from his chambers: the earth is satisfied with the fruit of thy works.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.104.14",
+      "edition_verse_id": "KJV1769:PSA.104.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "He causeth the grass to grow for the cattle, and herb for the service of man: that he may bring forth food out of the earth;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.104.15",
+      "edition_verse_id": "KJV1769:PSA.104.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "And wine ",
+          "kind": "text"
+        },
+        {
+          "text": "that",
+          "kind": "supplied"
+        },
+        {
+          "text": " maketh glad the heart of man, ",
+          "kind": "text"
+        },
+        {
+          "text": "and",
+          "kind": "supplied"
+        },
+        {
+          "text": " oil to make ",
+          "kind": "text"
+        },
+        {
+          "text": "his",
+          "kind": "supplied"
+        },
+        {
+          "text": " face to shine, and bread ",
+          "kind": "text"
+        },
+        {
+          "text": "which",
+          "kind": "supplied"
+        },
+        {
+          "text": " strengtheneth man’s heart.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.104.16",
+      "edition_verse_id": "KJV1769:PSA.104.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "The trees of the LORD are full ",
+          "kind": "text"
+        },
+        {
+          "text": "of sap;",
+          "kind": "supplied"
+        },
+        {
+          "text": " the cedars of Lebanon, which he hath planted;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.104.17",
+      "edition_verse_id": "KJV1769:PSA.104.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "Where the birds make their nests: ",
+          "kind": "text"
+        },
+        {
+          "text": "as for",
+          "kind": "supplied"
+        },
+        {
+          "text": " the stork, the fir trees ",
+          "kind": "text"
+        },
+        {
+          "text": "are",
+          "kind": "supplied"
+        },
+        {
+          "text": " her house.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.104.18",
+      "edition_verse_id": "KJV1769:PSA.104.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "The high hills ",
+          "kind": "text"
+        },
+        {
+          "text": "are",
+          "kind": "supplied"
+        },
+        {
+          "text": " a refuge for the wild goats; ",
+          "kind": "text"
+        },
+        {
+          "text": "and",
+          "kind": "supplied"
+        },
+        {
+          "text": " the rocks for the conies.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.104.19",
+      "edition_verse_id": "KJV1769:PSA.104.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "He appointed the moon for seasons: the sun knoweth his going down.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.104.20",
+      "edition_verse_id": "KJV1769:PSA.104.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "Thou makest darkness, and it is night: wherein all the beasts of the forest do creep ",
+          "kind": "text"
+        },
+        {
+          "text": "forth",
+          "kind": "supplied"
+        },
+        {
+          "text": ".",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.104.21",
+      "edition_verse_id": "KJV1769:PSA.104.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "The young lions roar after their prey, and seek their meat from God.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.104.22",
+      "edition_verse_id": "KJV1769:PSA.104.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "The sun ariseth, they gather themselves together, and lay them down in their dens.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.104.23",
+      "edition_verse_id": "KJV1769:PSA.104.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "Man goeth forth unto his work and to his labour until the evening.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.104.24",
+      "edition_verse_id": "KJV1769:PSA.104.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "O LORD, how manifold are thy works! in wisdom hast thou made them all: the earth is full of thy riches.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.104.25",
+      "edition_verse_id": "KJV1769:PSA.104.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "So is",
+          "kind": "supplied"
+        },
+        {
+          "text": " this great and wide sea, wherein ",
+          "kind": "text"
+        },
+        {
+          "text": "are",
+          "kind": "supplied"
+        },
+        {
+          "text": " things creeping innumerable, both small and great beasts.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.104.26",
+      "edition_verse_id": "KJV1769:PSA.104.26",
+      "verse": 26,
+      "spans": [
+        {
+          "text": "There go the ships: ",
+          "kind": "text"
+        },
+        {
+          "text": "there is",
+          "kind": "supplied"
+        },
+        {
+          "text": " that leviathan, ",
+          "kind": "text"
+        },
+        {
+          "text": "whom",
+          "kind": "supplied"
+        },
+        {
+          "text": " thou hast made to play therein.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.104.27",
+      "edition_verse_id": "KJV1769:PSA.104.27",
+      "verse": 27,
+      "spans": [
+        {
+          "text": "These wait all upon thee; that thou mayest give ",
+          "kind": "text"
+        },
+        {
+          "text": "them",
+          "kind": "supplied"
+        },
+        {
+          "text": " their meat in due season.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.104.28",
+      "edition_verse_id": "KJV1769:PSA.104.28",
+      "verse": 28,
+      "spans": [
+        {
+          "text": "That",
+          "kind": "supplied"
+        },
+        {
+          "text": " thou givest them they gather: thou openest thine hand, they are filled with good.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.104.29",
+      "edition_verse_id": "KJV1769:PSA.104.29",
+      "verse": 29,
+      "spans": [
+        {
+          "text": "Thou hidest thy face, they are troubled: thou takest away their breath, they die, and return to their dust.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.104.30",
+      "edition_verse_id": "KJV1769:PSA.104.30",
+      "verse": 30,
+      "spans": [
+        {
+          "text": "Thou sendest forth thy spirit, they are created: and thou renewest the face of the earth.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.104.31",
+      "edition_verse_id": "KJV1769:PSA.104.31",
+      "verse": 31,
+      "spans": [
+        {
+          "text": "The glory of the LORD shall endure for ever: the LORD shall rejoice in his works.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.104.32",
+      "edition_verse_id": "KJV1769:PSA.104.32",
+      "verse": 32,
+      "spans": [
+        {
+          "text": "He looketh on the earth, and it trembleth: he toucheth the hills, and they smoke.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.104.33",
+      "edition_verse_id": "KJV1769:PSA.104.33",
+      "verse": 33,
+      "spans": [
+        {
+          "text": "I will sing unto the LORD as long as I live: I will sing praise to my God while I have my being.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.104.34",
+      "edition_verse_id": "KJV1769:PSA.104.34",
+      "verse": 34,
+      "spans": [
+        {
+          "text": "My meditation of him shall be sweet: I will be glad in the LORD.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.104.35",
+      "edition_verse_id": "KJV1769:PSA.104.35",
+      "verse": 35,
+      "spans": [
+        {
+          "text": "Let the sinners be consumed out of the earth, and let the wicked be no more. Bless thou the LORD, O my soul. Praise ye the LORD.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

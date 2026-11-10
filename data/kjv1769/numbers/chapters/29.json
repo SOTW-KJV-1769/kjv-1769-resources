@@ -1,0 +1,768 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "KJV1769",
+  "book_code": "NUM",
+  "chapter": 29,
+  "verses": [
+    {
+      "id": "NUM.29.1",
+      "edition_verse_id": "KJV1769:NUM.29.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "And in the seventh month, on the first ",
+          "kind": "text"
+        },
+        {
+          "text": "day",
+          "kind": "supplied"
+        },
+        {
+          "text": " of the month, ye shall have an holy convocation; ye shall do no servile work: it is a day of blowing the trumpets unto you.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "NUM.29.2",
+      "edition_verse_id": "KJV1769:NUM.29.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "And ye shall offer a burnt offering for a sweet savour unto the LORD; one young bullock, one ram, ",
+          "kind": "text"
+        },
+        {
+          "text": "and",
+          "kind": "supplied"
+        },
+        {
+          "text": " seven lambs of the first year without blemish:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.29.3",
+      "edition_verse_id": "KJV1769:NUM.29.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "And their meat offering ",
+          "kind": "text"
+        },
+        {
+          "text": "shall be of",
+          "kind": "supplied"
+        },
+        {
+          "text": " flour mingled with oil, three tenth deals for a bullock, ",
+          "kind": "text"
+        },
+        {
+          "text": "and",
+          "kind": "supplied"
+        },
+        {
+          "text": " two tenth deals for a ram,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.29.4",
+      "edition_verse_id": "KJV1769:NUM.29.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "And one tenth deal for one lamb, throughout the seven lambs:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.29.5",
+      "edition_verse_id": "KJV1769:NUM.29.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "And one kid of the goats ",
+          "kind": "text"
+        },
+        {
+          "text": "for",
+          "kind": "supplied"
+        },
+        {
+          "text": " a sin offering, to make an atonement for you:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.29.6",
+      "edition_verse_id": "KJV1769:NUM.29.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "Beside the burnt offering of the month, and his meat offering, and the daily burnt offering, and his meat offering, and their drink offerings, according unto their manner, for a sweet savour, a sacrifice made by fire unto the LORD.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.29.7",
+      "edition_verse_id": "KJV1769:NUM.29.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "¶ And ye shall have on the tenth ",
+          "kind": "text"
+        },
+        {
+          "text": "day",
+          "kind": "supplied"
+        },
+        {
+          "text": " of this seventh month an holy convocation; and ye shall afflict your souls: ye shall not do any work ",
+          "kind": "text"
+        },
+        {
+          "text": "therein:",
+          "kind": "supplied"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "NUM.29.8",
+      "edition_verse_id": "KJV1769:NUM.29.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "But ye shall offer a burnt offering unto the LORD ",
+          "kind": "text"
+        },
+        {
+          "text": "for",
+          "kind": "supplied"
+        },
+        {
+          "text": " a sweet savour; one young bullock, one ram, ",
+          "kind": "text"
+        },
+        {
+          "text": "and",
+          "kind": "supplied"
+        },
+        {
+          "text": " seven lambs of the first year; they shall be unto you without blemish:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.29.9",
+      "edition_verse_id": "KJV1769:NUM.29.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "And their meat offering ",
+          "kind": "text"
+        },
+        {
+          "text": "shall be of",
+          "kind": "supplied"
+        },
+        {
+          "text": " flour mingled with oil, three tenth deals to a bullock, ",
+          "kind": "text"
+        },
+        {
+          "text": "and",
+          "kind": "supplied"
+        },
+        {
+          "text": " two tenth deals to one ram,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.29.10",
+      "edition_verse_id": "KJV1769:NUM.29.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "A several tenth deal for one lamb, throughout the seven lambs:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.29.11",
+      "edition_verse_id": "KJV1769:NUM.29.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "One kid of the goats ",
+          "kind": "text"
+        },
+        {
+          "text": "for",
+          "kind": "supplied"
+        },
+        {
+          "text": " a sin offering; beside the sin offering of atonement, and the continual burnt offering, and the meat offering of it, and their drink offerings.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.29.12",
+      "edition_verse_id": "KJV1769:NUM.29.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "¶ And on the fifteenth day of the seventh month ye shall have an holy convocation; ye shall do no servile work, and ye shall keep a feast unto the LORD seven days:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "NUM.29.13",
+      "edition_verse_id": "KJV1769:NUM.29.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "And ye shall offer a burnt offering, a sacrifice made by fire, of a sweet savour unto the LORD; thirteen young bullocks, two rams, ",
+          "kind": "text"
+        },
+        {
+          "text": "and",
+          "kind": "supplied"
+        },
+        {
+          "text": " fourteen lambs of the first year; they shall be without blemish:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.29.14",
+      "edition_verse_id": "KJV1769:NUM.29.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "And their meat offering ",
+          "kind": "text"
+        },
+        {
+          "text": "shall be of",
+          "kind": "supplied"
+        },
+        {
+          "text": " flour mingled with oil, three tenth deals unto every bullock of the thirteen bullocks, two tenth deals to each ram of the two rams,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.29.15",
+      "edition_verse_id": "KJV1769:NUM.29.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "And a several tenth deal to each lamb of the fourteen lambs:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.29.16",
+      "edition_verse_id": "KJV1769:NUM.29.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "And one kid of the goats ",
+          "kind": "text"
+        },
+        {
+          "text": "for",
+          "kind": "supplied"
+        },
+        {
+          "text": " a sin offering; beside the continual burnt offering, his meat offering, and his drink offering.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.29.17",
+      "edition_verse_id": "KJV1769:NUM.29.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "¶ And on the second day ",
+          "kind": "text"
+        },
+        {
+          "text": "ye shall offer",
+          "kind": "supplied"
+        },
+        {
+          "text": " twelve young bullocks, two rams, fourteen lambs of the first year without spot:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "NUM.29.18",
+      "edition_verse_id": "KJV1769:NUM.29.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "And their meat offering and their drink offerings for the bullocks, for the rams, and for the lambs, ",
+          "kind": "text"
+        },
+        {
+          "text": "shall be",
+          "kind": "supplied"
+        },
+        {
+          "text": " according to their number, after the manner:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.29.19",
+      "edition_verse_id": "KJV1769:NUM.29.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "And one kid of the goats ",
+          "kind": "text"
+        },
+        {
+          "text": "for",
+          "kind": "supplied"
+        },
+        {
+          "text": " a sin offering; beside the continual burnt offering, and the meat offering thereof, and their drink offerings.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.29.20",
+      "edition_verse_id": "KJV1769:NUM.29.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "¶ And on the third day eleven bullocks, two rams, fourteen lambs of the first year without blemish;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "NUM.29.21",
+      "edition_verse_id": "KJV1769:NUM.29.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "And their meat offering and their drink offerings for the bullocks, for the rams, and for the lambs, ",
+          "kind": "text"
+        },
+        {
+          "text": "shall be",
+          "kind": "supplied"
+        },
+        {
+          "text": " according to their number, after the manner:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.29.22",
+      "edition_verse_id": "KJV1769:NUM.29.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "And one goat ",
+          "kind": "text"
+        },
+        {
+          "text": "for",
+          "kind": "supplied"
+        },
+        {
+          "text": " a sin offering; beside the continual burnt offering, and his meat offering, and his drink offering.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.29.23",
+      "edition_verse_id": "KJV1769:NUM.29.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "¶ And on the fourth day ten bullocks, two rams, ",
+          "kind": "text"
+        },
+        {
+          "text": "and",
+          "kind": "supplied"
+        },
+        {
+          "text": " fourteen lambs of the first year without blemish:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "NUM.29.24",
+      "edition_verse_id": "KJV1769:NUM.29.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "Their meat offering and their drink offerings for the bullocks, for the rams, and for the lambs, ",
+          "kind": "text"
+        },
+        {
+          "text": "shall be",
+          "kind": "supplied"
+        },
+        {
+          "text": " according to their number, after the manner:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.29.25",
+      "edition_verse_id": "KJV1769:NUM.29.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "And one kid of the goats ",
+          "kind": "text"
+        },
+        {
+          "text": "for",
+          "kind": "supplied"
+        },
+        {
+          "text": " a sin offering; beside the continual burnt offering, his meat offering, and his drink offering.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.29.26",
+      "edition_verse_id": "KJV1769:NUM.29.26",
+      "verse": 26,
+      "spans": [
+        {
+          "text": "¶ And on the fifth day nine bullocks, two rams, ",
+          "kind": "text"
+        },
+        {
+          "text": "and",
+          "kind": "supplied"
+        },
+        {
+          "text": " fourteen lambs of the first year without spot:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "NUM.29.27",
+      "edition_verse_id": "KJV1769:NUM.29.27",
+      "verse": 27,
+      "spans": [
+        {
+          "text": "And their meat offering and their drink offerings for the bullocks, for the rams, and for the lambs, ",
+          "kind": "text"
+        },
+        {
+          "text": "shall be",
+          "kind": "supplied"
+        },
+        {
+          "text": " according to their number, after the manner:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.29.28",
+      "edition_verse_id": "KJV1769:NUM.29.28",
+      "verse": 28,
+      "spans": [
+        {
+          "text": "And one goat ",
+          "kind": "text"
+        },
+        {
+          "text": "for",
+          "kind": "supplied"
+        },
+        {
+          "text": " a sin offering; beside the continual burnt offering, and his meat offering, and his drink offering.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.29.29",
+      "edition_verse_id": "KJV1769:NUM.29.29",
+      "verse": 29,
+      "spans": [
+        {
+          "text": "¶ And on the sixth day eight bullocks, two rams, ",
+          "kind": "text"
+        },
+        {
+          "text": "and",
+          "kind": "supplied"
+        },
+        {
+          "text": " fourteen lambs of the first year without blemish:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "NUM.29.30",
+      "edition_verse_id": "KJV1769:NUM.29.30",
+      "verse": 30,
+      "spans": [
+        {
+          "text": "And their meat offering and their drink offerings for the bullocks, for the rams, and for the lambs, ",
+          "kind": "text"
+        },
+        {
+          "text": "shall be",
+          "kind": "supplied"
+        },
+        {
+          "text": " according to their number, after the manner:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.29.31",
+      "edition_verse_id": "KJV1769:NUM.29.31",
+      "verse": 31,
+      "spans": [
+        {
+          "text": "And one goat ",
+          "kind": "text"
+        },
+        {
+          "text": "for",
+          "kind": "supplied"
+        },
+        {
+          "text": " a sin offering; beside the continual burnt offering, his meat offering, and his drink offering.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.29.32",
+      "edition_verse_id": "KJV1769:NUM.29.32",
+      "verse": 32,
+      "spans": [
+        {
+          "text": "¶ And on the seventh day seven bullocks, two rams, ",
+          "kind": "text"
+        },
+        {
+          "text": "and",
+          "kind": "supplied"
+        },
+        {
+          "text": " fourteen lambs of the first year without blemish:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "NUM.29.33",
+      "edition_verse_id": "KJV1769:NUM.29.33",
+      "verse": 33,
+      "spans": [
+        {
+          "text": "And their meat offering and their drink offerings for the bullocks, for the rams, and for the lambs, ",
+          "kind": "text"
+        },
+        {
+          "text": "shall be",
+          "kind": "supplied"
+        },
+        {
+          "text": " according to their number, after the manner:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.29.34",
+      "edition_verse_id": "KJV1769:NUM.29.34",
+      "verse": 34,
+      "spans": [
+        {
+          "text": "And one goat ",
+          "kind": "text"
+        },
+        {
+          "text": "for",
+          "kind": "supplied"
+        },
+        {
+          "text": " a sin offering; beside the continual burnt offering, his meat offering, and his drink offering.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.29.35",
+      "edition_verse_id": "KJV1769:NUM.29.35",
+      "verse": 35,
+      "spans": [
+        {
+          "text": "¶ On the eighth day ye shall have a solemn assembly: ye shall do no servile work ",
+          "kind": "text"
+        },
+        {
+          "text": "therein:",
+          "kind": "supplied"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "NUM.29.36",
+      "edition_verse_id": "KJV1769:NUM.29.36",
+      "verse": 36,
+      "spans": [
+        {
+          "text": "But ye shall offer a burnt offering, a sacrifice made by fire, of a sweet savour unto the LORD: one bullock, one ram, seven lambs of the first year without blemish:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.29.37",
+      "edition_verse_id": "KJV1769:NUM.29.37",
+      "verse": 37,
+      "spans": [
+        {
+          "text": "Their meat offering and their drink offerings for the bullock, for the ram, and for the lambs, ",
+          "kind": "text"
+        },
+        {
+          "text": "shall be",
+          "kind": "supplied"
+        },
+        {
+          "text": " according to their number, after the manner:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.29.38",
+      "edition_verse_id": "KJV1769:NUM.29.38",
+      "verse": 38,
+      "spans": [
+        {
+          "text": "And one goat ",
+          "kind": "text"
+        },
+        {
+          "text": "for",
+          "kind": "supplied"
+        },
+        {
+          "text": " a sin offering; beside the continual burnt offering, and his meat offering, and his drink offering.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.29.39",
+      "edition_verse_id": "KJV1769:NUM.29.39",
+      "verse": 39,
+      "spans": [
+        {
+          "text": "These ",
+          "kind": "text"
+        },
+        {
+          "text": "things",
+          "kind": "supplied"
+        },
+        {
+          "text": " ye shall do unto the LORD in your set feasts, beside your vows, and your freewill offerings, for your burnt offerings, and for your meat offerings, and for your drink offerings, and for your peace offerings.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.29.40",
+      "edition_verse_id": "KJV1769:NUM.29.40",
+      "verse": 40,
+      "spans": [
+        {
+          "text": "And Moses told the children of Israel according to all that the LORD commanded Moses.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

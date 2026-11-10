@@ -1,0 +1,596 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "KJV1769",
+  "book_code": "PRO",
+  "chapter": 28,
+  "verses": [
+    {
+      "id": "PRO.28.1",
+      "edition_verse_id": "KJV1769:PRO.28.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "The wicked flee when no man pursueth: but the righteous are bold as a lion.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PRO.28.2",
+      "edition_verse_id": "KJV1769:PRO.28.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "For the transgression of a land many ",
+          "kind": "text"
+        },
+        {
+          "text": "are",
+          "kind": "supplied"
+        },
+        {
+          "text": " the princes thereof: but by a man of understanding ",
+          "kind": "text"
+        },
+        {
+          "text": "and",
+          "kind": "supplied"
+        },
+        {
+          "text": " knowledge the state ",
+          "kind": "text"
+        },
+        {
+          "text": "thereof",
+          "kind": "supplied"
+        },
+        {
+          "text": " shall be prolonged.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.28.3",
+      "edition_verse_id": "KJV1769:PRO.28.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "A poor man that oppresseth the poor ",
+          "kind": "text"
+        },
+        {
+          "text": "is like",
+          "kind": "supplied"
+        },
+        {
+          "text": " a sweeping rain which leaveth no food.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.28.4",
+      "edition_verse_id": "KJV1769:PRO.28.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "They that forsake the law praise the wicked: but such as keep the law contend with them.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.28.5",
+      "edition_verse_id": "KJV1769:PRO.28.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "Evil men understand not judgment: but they that seek the LORD understand all ",
+          "kind": "text"
+        },
+        {
+          "text": "things",
+          "kind": "supplied"
+        },
+        {
+          "text": ".",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.28.6",
+      "edition_verse_id": "KJV1769:PRO.28.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "Better ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " the poor that walketh in his uprightness, than ",
+          "kind": "text"
+        },
+        {
+          "text": "he that is",
+          "kind": "supplied"
+        },
+        {
+          "text": " perverse ",
+          "kind": "text"
+        },
+        {
+          "text": "in his",
+          "kind": "supplied"
+        },
+        {
+          "text": " ways, though he ",
+          "kind": "text"
+        },
+        {
+          "text": "be",
+          "kind": "supplied"
+        },
+        {
+          "text": " rich.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.28.7",
+      "edition_verse_id": "KJV1769:PRO.28.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "Whoso keepeth the law ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " a wise son: but he that is a companion of riotous ",
+          "kind": "text"
+        },
+        {
+          "text": "men",
+          "kind": "supplied"
+        },
+        {
+          "text": " shameth his father.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.28.8",
+      "edition_verse_id": "KJV1769:PRO.28.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "He that by usury and unjust gain increaseth his substance, he shall gather it for him that will pity the poor.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.28.9",
+      "edition_verse_id": "KJV1769:PRO.28.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "He that turneth away his ear from hearing the law, even his prayer ",
+          "kind": "text"
+        },
+        {
+          "text": "shall be",
+          "kind": "supplied"
+        },
+        {
+          "text": " abomination.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.28.10",
+      "edition_verse_id": "KJV1769:PRO.28.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "Whoso causeth the righteous to go astray in an evil way, he shall fall himself into his own pit: but the upright shall have good ",
+          "kind": "text"
+        },
+        {
+          "text": "things",
+          "kind": "supplied"
+        },
+        {
+          "text": " in possession.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.28.11",
+      "edition_verse_id": "KJV1769:PRO.28.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "The rich man ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " wise in his own conceit; but the poor that hath understanding searcheth him out.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.28.12",
+      "edition_verse_id": "KJV1769:PRO.28.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "When righteous ",
+          "kind": "text"
+        },
+        {
+          "text": "men",
+          "kind": "supplied"
+        },
+        {
+          "text": " do rejoice, ",
+          "kind": "text"
+        },
+        {
+          "text": "there is",
+          "kind": "supplied"
+        },
+        {
+          "text": " great glory: but when the wicked rise, a man is hidden.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.28.13",
+      "edition_verse_id": "KJV1769:PRO.28.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "He that covereth his sins shall not prosper: but whoso confesseth and forsaketh ",
+          "kind": "text"
+        },
+        {
+          "text": "them",
+          "kind": "supplied"
+        },
+        {
+          "text": " shall have mercy.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.28.14",
+      "edition_verse_id": "KJV1769:PRO.28.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "Happy ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " the man that feareth alway: but he that hardeneth his heart shall fall into mischief.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.28.15",
+      "edition_verse_id": "KJV1769:PRO.28.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "As",
+          "kind": "supplied"
+        },
+        {
+          "text": " a roaring lion, and a ranging bear; ",
+          "kind": "text"
+        },
+        {
+          "text": "so is",
+          "kind": "supplied"
+        },
+        {
+          "text": " a wicked ruler over the poor people.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.28.16",
+      "edition_verse_id": "KJV1769:PRO.28.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "The prince that wanteth understanding ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " also a great oppressor: ",
+          "kind": "text"
+        },
+        {
+          "text": "but",
+          "kind": "supplied"
+        },
+        {
+          "text": " he that hateth covetousness shall prolong ",
+          "kind": "text"
+        },
+        {
+          "text": "his",
+          "kind": "supplied"
+        },
+        {
+          "text": " days.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.28.17",
+      "edition_verse_id": "KJV1769:PRO.28.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "A man that doeth violence to the blood of ",
+          "kind": "text"
+        },
+        {
+          "text": "any",
+          "kind": "supplied"
+        },
+        {
+          "text": " person shall flee to the pit; let no man stay him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.28.18",
+      "edition_verse_id": "KJV1769:PRO.28.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "Whoso walketh uprightly shall be saved: but ",
+          "kind": "text"
+        },
+        {
+          "text": "he that is",
+          "kind": "supplied"
+        },
+        {
+          "text": " perverse ",
+          "kind": "text"
+        },
+        {
+          "text": "in his",
+          "kind": "supplied"
+        },
+        {
+          "text": " ways shall fall at once.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.28.19",
+      "edition_verse_id": "KJV1769:PRO.28.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "He that tilleth his land shall have plenty of bread: but he that followeth after vain ",
+          "kind": "text"
+        },
+        {
+          "text": "persons",
+          "kind": "supplied"
+        },
+        {
+          "text": " shall have poverty enough.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.28.20",
+      "edition_verse_id": "KJV1769:PRO.28.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "A faithful man shall abound with blessings: but he that maketh haste to be rich shall not be innocent.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.28.21",
+      "edition_verse_id": "KJV1769:PRO.28.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "To have respect of persons ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " not good: for for a piece of bread ",
+          "kind": "text"
+        },
+        {
+          "text": "that",
+          "kind": "supplied"
+        },
+        {
+          "text": " man will transgress.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.28.22",
+      "edition_verse_id": "KJV1769:PRO.28.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "He that hasteth to be rich ",
+          "kind": "text"
+        },
+        {
+          "text": "hath",
+          "kind": "supplied"
+        },
+        {
+          "text": " an evil eye, and considereth not that poverty shall come upon him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.28.23",
+      "edition_verse_id": "KJV1769:PRO.28.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "He that rebuketh a man afterwards shall find more favour than he that flattereth with the tongue.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.28.24",
+      "edition_verse_id": "KJV1769:PRO.28.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "Whoso robbeth his father or his mother, and saith, ",
+          "kind": "text"
+        },
+        {
+          "text": "It is",
+          "kind": "supplied"
+        },
+        {
+          "text": " no transgression; the same ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " the companion of a destroyer.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.28.25",
+      "edition_verse_id": "KJV1769:PRO.28.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "He that is of a proud heart stirreth up strife: but he that putteth his trust in the LORD shall be made fat.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.28.26",
+      "edition_verse_id": "KJV1769:PRO.28.26",
+      "verse": 26,
+      "spans": [
+        {
+          "text": "He that trusteth in his own heart is a fool: but whoso walketh wisely, he shall be delivered.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.28.27",
+      "edition_verse_id": "KJV1769:PRO.28.27",
+      "verse": 27,
+      "spans": [
+        {
+          "text": "He that giveth unto the poor shall not lack: but he that hideth his eyes shall have many a curse.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.28.28",
+      "edition_verse_id": "KJV1769:PRO.28.28",
+      "verse": 28,
+      "spans": [
+        {
+          "text": "When the wicked rise, men hide themselves: but when they perish, the righteous increase.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

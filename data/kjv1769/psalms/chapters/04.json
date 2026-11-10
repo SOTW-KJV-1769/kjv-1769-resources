@@ -1,0 +1,156 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "KJV1769",
+  "book_code": "PSA",
+  "chapter": 4,
+  "verses": [
+    {
+      "id": "PSA.4.1",
+      "edition_verse_id": "KJV1769:PSA.4.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "Hear me when I call, O God of my righteousness: thou hast enlarged me ",
+          "kind": "text"
+        },
+        {
+          "text": "when I was",
+          "kind": "supplied"
+        },
+        {
+          "text": " in distress; have mercy upon me, and hear my prayer.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.4.2",
+      "edition_verse_id": "KJV1769:PSA.4.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "O ye sons of men, how long ",
+          "kind": "text"
+        },
+        {
+          "text": "will ye turn",
+          "kind": "supplied"
+        },
+        {
+          "text": " my glory into shame? ",
+          "kind": "text"
+        },
+        {
+          "text": "how long",
+          "kind": "supplied"
+        },
+        {
+          "text": " will ye love vanity, ",
+          "kind": "text"
+        },
+        {
+          "text": "and",
+          "kind": "supplied"
+        },
+        {
+          "text": " seek after leasing? Selah.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.4.3",
+      "edition_verse_id": "KJV1769:PSA.4.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "But know that the LORD hath set apart him that is godly for himself: the LORD will hear when I call unto him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.4.4",
+      "edition_verse_id": "KJV1769:PSA.4.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "Stand in awe, and sin not: commune with your own heart upon your bed, and be still. Selah.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.4.5",
+      "edition_verse_id": "KJV1769:PSA.4.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "Offer the sacrifices of righteousness, and put your trust in the LORD.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.4.6",
+      "edition_verse_id": "KJV1769:PSA.4.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "There be",
+          "kind": "supplied"
+        },
+        {
+          "text": " many that say, Who will shew us ",
+          "kind": "text"
+        },
+        {
+          "text": "any",
+          "kind": "supplied"
+        },
+        {
+          "text": " good? LORD, lift thou up the light of thy countenance upon us.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.4.7",
+      "edition_verse_id": "KJV1769:PSA.4.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "Thou hast put gladness in my heart, more than in the time ",
+          "kind": "text"
+        },
+        {
+          "text": "that",
+          "kind": "supplied"
+        },
+        {
+          "text": " their corn and their wine increased.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.4.8",
+      "edition_verse_id": "KJV1769:PSA.4.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "I will both lay me down in peace, and sleep: for thou, LORD, only makest me dwell in safety.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

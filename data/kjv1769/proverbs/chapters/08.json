@@ -1,0 +1,624 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "KJV1769",
+  "book_code": "PRO",
+  "chapter": 8,
+  "verses": [
+    {
+      "id": "PRO.8.1",
+      "edition_verse_id": "KJV1769:PRO.8.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "Doth not wisdom cry? and understanding put forth her voice?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PRO.8.2",
+      "edition_verse_id": "KJV1769:PRO.8.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "She standeth in the top of high places, by the way in the places of the paths.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.8.3",
+      "edition_verse_id": "KJV1769:PRO.8.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "She crieth at the gates, at the entry of the city, at the coming in at the doors.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.8.4",
+      "edition_verse_id": "KJV1769:PRO.8.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "Unto you, O men, I call; and my voice ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " to the sons of man.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.8.5",
+      "edition_verse_id": "KJV1769:PRO.8.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "O ye simple, understand wisdom: and, ye fools, be ye of an understanding heart.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.8.6",
+      "edition_verse_id": "KJV1769:PRO.8.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "Hear; for I will speak of excellent things; and the opening of my lips ",
+          "kind": "text"
+        },
+        {
+          "text": "shall be",
+          "kind": "supplied"
+        },
+        {
+          "text": " right things.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.8.7",
+      "edition_verse_id": "KJV1769:PRO.8.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "For my mouth shall speak truth; and wickedness ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " an abomination to my lips.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.8.8",
+      "edition_verse_id": "KJV1769:PRO.8.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "All the words of my mouth ",
+          "kind": "text"
+        },
+        {
+          "text": "are",
+          "kind": "supplied"
+        },
+        {
+          "text": " in righteousness; ",
+          "kind": "text"
+        },
+        {
+          "text": "there is",
+          "kind": "supplied"
+        },
+        {
+          "text": " nothing froward or perverse in them.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.8.9",
+      "edition_verse_id": "KJV1769:PRO.8.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "They ",
+          "kind": "text"
+        },
+        {
+          "text": "are",
+          "kind": "supplied"
+        },
+        {
+          "text": " all plain to him that understandeth, and right to them that find knowledge.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.8.10",
+      "edition_verse_id": "KJV1769:PRO.8.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "Receive my instruction, and not silver; and knowledge rather than choice gold.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.8.11",
+      "edition_verse_id": "KJV1769:PRO.8.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "For wisdom ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " better than rubies; and all the things that may be desired are not to be compared to it.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.8.12",
+      "edition_verse_id": "KJV1769:PRO.8.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "I wisdom dwell with prudence, and find out knowledge of witty inventions.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PRO.8.13",
+      "edition_verse_id": "KJV1769:PRO.8.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "The fear of the LORD ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " to hate evil: pride, and arrogancy, and the evil way, and the froward mouth, do I hate.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.8.14",
+      "edition_verse_id": "KJV1769:PRO.8.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "Counsel ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " mine, and sound wisdom: I ",
+          "kind": "text"
+        },
+        {
+          "text": "am",
+          "kind": "supplied"
+        },
+        {
+          "text": " understanding; I have strength.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.8.15",
+      "edition_verse_id": "KJV1769:PRO.8.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "By me kings reign, and princes decree justice.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.8.16",
+      "edition_verse_id": "KJV1769:PRO.8.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "By me princes rule, and nobles, ",
+          "kind": "text"
+        },
+        {
+          "text": "even",
+          "kind": "supplied"
+        },
+        {
+          "text": " all the judges of the earth.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.8.17",
+      "edition_verse_id": "KJV1769:PRO.8.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "I love them that love me; and those that seek me early shall find me.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.8.18",
+      "edition_verse_id": "KJV1769:PRO.8.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "Riches and honour ",
+          "kind": "text"
+        },
+        {
+          "text": "are",
+          "kind": "supplied"
+        },
+        {
+          "text": " with me; ",
+          "kind": "text"
+        },
+        {
+          "text": "yea",
+          "kind": "supplied"
+        },
+        {
+          "text": ", durable riches and righteousness.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.8.19",
+      "edition_verse_id": "KJV1769:PRO.8.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "My fruit ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " better than gold, yea, than fine gold; and my revenue than choice silver.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.8.20",
+      "edition_verse_id": "KJV1769:PRO.8.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "I lead in the way of righteousness, in the midst of the paths of judgment:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.8.21",
+      "edition_verse_id": "KJV1769:PRO.8.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "That I may cause those that love me to inherit substance; and I will fill their treasures.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.8.22",
+      "edition_verse_id": "KJV1769:PRO.8.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "The LORD possessed me in the beginning of his way, before his works of old.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PRO.8.23",
+      "edition_verse_id": "KJV1769:PRO.8.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "I was set up from everlasting, from the beginning, or ever the earth was.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.8.24",
+      "edition_verse_id": "KJV1769:PRO.8.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "When ",
+          "kind": "text"
+        },
+        {
+          "text": "there were",
+          "kind": "supplied"
+        },
+        {
+          "text": " no depths, I was brought forth; when ",
+          "kind": "text"
+        },
+        {
+          "text": "there were",
+          "kind": "supplied"
+        },
+        {
+          "text": " no fountains abounding with water.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.8.25",
+      "edition_verse_id": "KJV1769:PRO.8.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "Before the mountains were settled, before the hills was I brought forth:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.8.26",
+      "edition_verse_id": "KJV1769:PRO.8.26",
+      "verse": 26,
+      "spans": [
+        {
+          "text": "While as yet he had not made the earth, nor the fields, nor the highest part of the dust of the world.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.8.27",
+      "edition_verse_id": "KJV1769:PRO.8.27",
+      "verse": 27,
+      "spans": [
+        {
+          "text": "When he prepared the heavens, I ",
+          "kind": "text"
+        },
+        {
+          "text": "was",
+          "kind": "supplied"
+        },
+        {
+          "text": " there: when he set a compass upon the face of the depth:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.8.28",
+      "edition_verse_id": "KJV1769:PRO.8.28",
+      "verse": 28,
+      "spans": [
+        {
+          "text": "When he established the clouds above: when he strengthened the fountains of the deep:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.8.29",
+      "edition_verse_id": "KJV1769:PRO.8.29",
+      "verse": 29,
+      "spans": [
+        {
+          "text": "When he gave to the sea his decree, that the waters should not pass his commandment: when he appointed the foundations of the earth:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.8.30",
+      "edition_verse_id": "KJV1769:PRO.8.30",
+      "verse": 30,
+      "spans": [
+        {
+          "text": "Then I was by him, ",
+          "kind": "text"
+        },
+        {
+          "text": "as",
+          "kind": "supplied"
+        },
+        {
+          "text": " one brought up ",
+          "kind": "text"
+        },
+        {
+          "text": "with him:",
+          "kind": "supplied"
+        },
+        {
+          "text": " and I was daily ",
+          "kind": "text"
+        },
+        {
+          "text": "his",
+          "kind": "supplied"
+        },
+        {
+          "text": " delight, rejoicing always before him;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.8.31",
+      "edition_verse_id": "KJV1769:PRO.8.31",
+      "verse": 31,
+      "spans": [
+        {
+          "text": "Rejoicing in the habitable part of his earth; and my delights ",
+          "kind": "text"
+        },
+        {
+          "text": "were",
+          "kind": "supplied"
+        },
+        {
+          "text": " with the sons of men.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.8.32",
+      "edition_verse_id": "KJV1769:PRO.8.32",
+      "verse": 32,
+      "spans": [
+        {
+          "text": "Now therefore hearken unto me, O ye children: for blessed ",
+          "kind": "text"
+        },
+        {
+          "text": "are they that",
+          "kind": "supplied"
+        },
+        {
+          "text": " keep my ways.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PRO.8.33",
+      "edition_verse_id": "KJV1769:PRO.8.33",
+      "verse": 33,
+      "spans": [
+        {
+          "text": "Hear instruction, and be wise, and refuse it not.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.8.34",
+      "edition_verse_id": "KJV1769:PRO.8.34",
+      "verse": 34,
+      "spans": [
+        {
+          "text": "Blessed ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " the man that heareth me, watching daily at my gates, waiting at the posts of my doors.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.8.35",
+      "edition_verse_id": "KJV1769:PRO.8.35",
+      "verse": 35,
+      "spans": [
+        {
+          "text": "For whoso findeth me findeth life, and shall obtain favour of the LORD.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.8.36",
+      "edition_verse_id": "KJV1769:PRO.8.36",
+      "verse": 36,
+      "spans": [
+        {
+          "text": "But he that sinneth against me wrongeth his own soul: all they that hate me love death.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

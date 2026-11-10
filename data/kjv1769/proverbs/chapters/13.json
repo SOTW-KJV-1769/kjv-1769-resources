@@ -1,0 +1,532 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "KJV1769",
+  "book_code": "PRO",
+  "chapter": 13,
+  "verses": [
+    {
+      "id": "PRO.13.1",
+      "edition_verse_id": "KJV1769:PRO.13.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "A wise son ",
+          "kind": "text"
+        },
+        {
+          "text": "heareth",
+          "kind": "supplied"
+        },
+        {
+          "text": " his father’s instruction: but a scorner heareth not rebuke.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PRO.13.2",
+      "edition_verse_id": "KJV1769:PRO.13.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "A man shall eat good by the fruit of ",
+          "kind": "text"
+        },
+        {
+          "text": "his",
+          "kind": "supplied"
+        },
+        {
+          "text": " mouth: but the soul of the transgressors ",
+          "kind": "text"
+        },
+        {
+          "text": "shall eat",
+          "kind": "supplied"
+        },
+        {
+          "text": " violence.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.13.3",
+      "edition_verse_id": "KJV1769:PRO.13.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "He that keepeth his mouth keepeth his life: ",
+          "kind": "text"
+        },
+        {
+          "text": "but",
+          "kind": "supplied"
+        },
+        {
+          "text": " he that openeth wide his lips shall have destruction.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.13.4",
+      "edition_verse_id": "KJV1769:PRO.13.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "The soul of the sluggard desireth, and ",
+          "kind": "text"
+        },
+        {
+          "text": "hath",
+          "kind": "supplied"
+        },
+        {
+          "text": " nothing: but the soul of the diligent shall be made fat.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.13.5",
+      "edition_verse_id": "KJV1769:PRO.13.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "A righteous ",
+          "kind": "text"
+        },
+        {
+          "text": "man",
+          "kind": "supplied"
+        },
+        {
+          "text": " hateth lying: but a wicked ",
+          "kind": "text"
+        },
+        {
+          "text": "man",
+          "kind": "supplied"
+        },
+        {
+          "text": " is loathsome, and cometh to shame.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.13.6",
+      "edition_verse_id": "KJV1769:PRO.13.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "Righteousness keepeth ",
+          "kind": "text"
+        },
+        {
+          "text": "him that is",
+          "kind": "supplied"
+        },
+        {
+          "text": " upright in the way: but wickedness overthroweth the sinner.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.13.7",
+      "edition_verse_id": "KJV1769:PRO.13.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "There is that maketh himself rich, yet ",
+          "kind": "text"
+        },
+        {
+          "text": "hath",
+          "kind": "supplied"
+        },
+        {
+          "text": " nothing: ",
+          "kind": "text"
+        },
+        {
+          "text": "there is",
+          "kind": "supplied"
+        },
+        {
+          "text": " that maketh himself poor, yet ",
+          "kind": "text"
+        },
+        {
+          "text": "hath",
+          "kind": "supplied"
+        },
+        {
+          "text": " great riches.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.13.8",
+      "edition_verse_id": "KJV1769:PRO.13.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "The ransom of a man’s life ",
+          "kind": "text"
+        },
+        {
+          "text": "are",
+          "kind": "supplied"
+        },
+        {
+          "text": " his riches: but the poor heareth not rebuke.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.13.9",
+      "edition_verse_id": "KJV1769:PRO.13.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "The light of the righteous rejoiceth: but the lamp of the wicked shall be put out.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.13.10",
+      "edition_verse_id": "KJV1769:PRO.13.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "Only by pride cometh contention: but with the well advised ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " wisdom.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.13.11",
+      "edition_verse_id": "KJV1769:PRO.13.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "Wealth ",
+          "kind": "text"
+        },
+        {
+          "text": "gotten",
+          "kind": "supplied"
+        },
+        {
+          "text": " by vanity shall be diminished: but he that gathereth by labour shall increase.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.13.12",
+      "edition_verse_id": "KJV1769:PRO.13.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "Hope deferred maketh the heart sick: but ",
+          "kind": "text"
+        },
+        {
+          "text": "when",
+          "kind": "supplied"
+        },
+        {
+          "text": " the desire cometh, ",
+          "kind": "text"
+        },
+        {
+          "text": "it is",
+          "kind": "supplied"
+        },
+        {
+          "text": " a tree of life.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.13.13",
+      "edition_verse_id": "KJV1769:PRO.13.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "Whoso despiseth the word shall be destroyed: but he that feareth the commandment shall be rewarded.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.13.14",
+      "edition_verse_id": "KJV1769:PRO.13.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "The law of the wise ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " a fountain of life, to depart from the snares of death.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.13.15",
+      "edition_verse_id": "KJV1769:PRO.13.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "Good understanding giveth favour: but the way of transgressors ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " hard.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.13.16",
+      "edition_verse_id": "KJV1769:PRO.13.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "Every prudent ",
+          "kind": "text"
+        },
+        {
+          "text": "man",
+          "kind": "supplied"
+        },
+        {
+          "text": " dealeth with knowledge: but a fool layeth open ",
+          "kind": "text"
+        },
+        {
+          "text": "his",
+          "kind": "supplied"
+        },
+        {
+          "text": " folly.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.13.17",
+      "edition_verse_id": "KJV1769:PRO.13.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "A wicked messenger falleth into mischief: but a faithful ambassador ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " health.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.13.18",
+      "edition_verse_id": "KJV1769:PRO.13.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "Poverty and shame ",
+          "kind": "text"
+        },
+        {
+          "text": "shall be to",
+          "kind": "supplied"
+        },
+        {
+          "text": " him that refuseth instruction: but he that regardeth reproof shall be honoured.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.13.19",
+      "edition_verse_id": "KJV1769:PRO.13.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "The desire accomplished is sweet to the soul: but ",
+          "kind": "text"
+        },
+        {
+          "text": "it is",
+          "kind": "supplied"
+        },
+        {
+          "text": " abomination to fools to depart from evil.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.13.20",
+      "edition_verse_id": "KJV1769:PRO.13.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "He that walketh with wise ",
+          "kind": "text"
+        },
+        {
+          "text": "men",
+          "kind": "supplied"
+        },
+        {
+          "text": " shall be wise: but a companion of fools shall be destroyed.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.13.21",
+      "edition_verse_id": "KJV1769:PRO.13.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "Evil pursueth sinners: but to the righteous good shall be repayed.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.13.22",
+      "edition_verse_id": "KJV1769:PRO.13.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "A good ",
+          "kind": "text"
+        },
+        {
+          "text": "man",
+          "kind": "supplied"
+        },
+        {
+          "text": " leaveth an inheritance to his children’s children: and the wealth of the sinner ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " laid up for the just.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.13.23",
+      "edition_verse_id": "KJV1769:PRO.13.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "Much food ",
+          "kind": "text"
+        },
+        {
+          "text": "is in",
+          "kind": "supplied"
+        },
+        {
+          "text": " the tillage of the poor: but there is ",
+          "kind": "text"
+        },
+        {
+          "text": "that is",
+          "kind": "supplied"
+        },
+        {
+          "text": " destroyed for want of judgment.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.13.24",
+      "edition_verse_id": "KJV1769:PRO.13.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "He that spareth his rod hateth his son: but he that loveth him chasteneth him betimes.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.13.25",
+      "edition_verse_id": "KJV1769:PRO.13.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "The righteous eateth to the satisfying of his soul: but the belly of the wicked shall want.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

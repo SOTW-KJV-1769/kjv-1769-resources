@@ -1,0 +1,112 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "KJV1769",
+  "book_code": "PSA",
+  "chapter": 1,
+  "verses": [
+    {
+      "id": "PSA.1.1",
+      "edition_verse_id": "KJV1769:PSA.1.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "Blessed ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " the man that walketh not in the counsel of the ungodly, nor standeth in the way of sinners, nor sitteth in the seat of the scornful.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.1.2",
+      "edition_verse_id": "KJV1769:PSA.1.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "But his delight ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " in the law of the LORD; and in his law doth he meditate day and night.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.1.3",
+      "edition_verse_id": "KJV1769:PSA.1.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "And he shall be like a tree planted by the rivers of water, that bringeth forth his fruit in his season; his leaf also shall not wither; and whatsoever he doeth shall prosper.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.1.4",
+      "edition_verse_id": "KJV1769:PSA.1.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "The ungodly ",
+          "kind": "text"
+        },
+        {
+          "text": "are",
+          "kind": "supplied"
+        },
+        {
+          "text": " not so: but ",
+          "kind": "text"
+        },
+        {
+          "text": "are",
+          "kind": "supplied"
+        },
+        {
+          "text": " like the chaff which the wind driveth away.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.1.5",
+      "edition_verse_id": "KJV1769:PSA.1.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "Therefore the ungodly shall not stand in the judgment, nor sinners in the congregation of the righteous.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.1.6",
+      "edition_verse_id": "KJV1769:PSA.1.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "For the LORD knoweth the way of the righteous: but the way of the ungodly shall perish.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

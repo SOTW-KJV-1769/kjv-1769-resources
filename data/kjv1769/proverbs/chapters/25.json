@@ -1,0 +1,580 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "KJV1769",
+  "book_code": "PRO",
+  "chapter": 25,
+  "verses": [
+    {
+      "id": "PRO.25.1",
+      "edition_verse_id": "KJV1769:PRO.25.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "These ",
+          "kind": "text"
+        },
+        {
+          "text": "are",
+          "kind": "supplied"
+        },
+        {
+          "text": " also proverbs of Solomon, which the men of Hezekiah king of Judah copied out.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PRO.25.2",
+      "edition_verse_id": "KJV1769:PRO.25.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "It is",
+          "kind": "supplied"
+        },
+        {
+          "text": " the glory of God to conceal a thing: but the honour of kings ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " to search out a matter.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PRO.25.3",
+      "edition_verse_id": "KJV1769:PRO.25.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "The heaven for height, and the earth for depth, and the heart of kings ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " unsearchable.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.25.4",
+      "edition_verse_id": "KJV1769:PRO.25.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "Take away the dross from the silver, and there shall come forth a vessel for the finer.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PRO.25.5",
+      "edition_verse_id": "KJV1769:PRO.25.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "Take away the wicked ",
+          "kind": "text"
+        },
+        {
+          "text": "from",
+          "kind": "supplied"
+        },
+        {
+          "text": " before the king, and his throne shall be established in righteousness.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.25.6",
+      "edition_verse_id": "KJV1769:PRO.25.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "Put not forth thyself in the presence of the king, and stand not in the place of great ",
+          "kind": "text"
+        },
+        {
+          "text": "men:",
+          "kind": "supplied"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PRO.25.7",
+      "edition_verse_id": "KJV1769:PRO.25.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "For better ",
+          "kind": "text"
+        },
+        {
+          "text": "it is",
+          "kind": "supplied"
+        },
+        {
+          "text": " that it be said unto thee, Come up hither; than that thou shouldest be put lower in the presence of the prince whom thine eyes have seen.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.25.8",
+      "edition_verse_id": "KJV1769:PRO.25.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "Go not forth hastily to strive, lest ",
+          "kind": "text"
+        },
+        {
+          "text": "thou know not",
+          "kind": "supplied"
+        },
+        {
+          "text": " what to do in the end thereof, when thy neighbour hath put thee to shame.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PRO.25.9",
+      "edition_verse_id": "KJV1769:PRO.25.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "Debate thy cause with thy neighbour ",
+          "kind": "text"
+        },
+        {
+          "text": "himself;",
+          "kind": "supplied"
+        },
+        {
+          "text": " and discover not a secret to another:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.25.10",
+      "edition_verse_id": "KJV1769:PRO.25.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "Lest he that heareth ",
+          "kind": "text"
+        },
+        {
+          "text": "it",
+          "kind": "supplied"
+        },
+        {
+          "text": " put thee to shame, and thine infamy turn not away.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.25.11",
+      "edition_verse_id": "KJV1769:PRO.25.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "A word fitly spoken ",
+          "kind": "text"
+        },
+        {
+          "text": "is like",
+          "kind": "supplied"
+        },
+        {
+          "text": " apples of gold in pictures of silver.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PRO.25.12",
+      "edition_verse_id": "KJV1769:PRO.25.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "As",
+          "kind": "supplied"
+        },
+        {
+          "text": " an earring of gold, and an ornament of fine gold, ",
+          "kind": "text"
+        },
+        {
+          "text": "so is",
+          "kind": "supplied"
+        },
+        {
+          "text": " a wise reprover upon an obedient ear.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.25.13",
+      "edition_verse_id": "KJV1769:PRO.25.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "As the cold of snow in the time of harvest, ",
+          "kind": "text"
+        },
+        {
+          "text": "so is",
+          "kind": "supplied"
+        },
+        {
+          "text": " a faithful messenger to them that send him: for he refresheth the soul of his masters.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.25.14",
+      "edition_verse_id": "KJV1769:PRO.25.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "Whoso boasteth himself of a false gift ",
+          "kind": "text"
+        },
+        {
+          "text": "is like",
+          "kind": "supplied"
+        },
+        {
+          "text": " clouds and wind without rain.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.25.15",
+      "edition_verse_id": "KJV1769:PRO.25.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "By long forbearing is a prince persuaded, and a soft tongue breaketh the bone.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.25.16",
+      "edition_verse_id": "KJV1769:PRO.25.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "Hast thou found honey? eat so much as is sufficient for thee, lest thou be filled therewith, and vomit it.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.25.17",
+      "edition_verse_id": "KJV1769:PRO.25.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "Withdraw thy foot from thy neighbour’s house; lest he be weary of thee, and ",
+          "kind": "text"
+        },
+        {
+          "text": "so",
+          "kind": "supplied"
+        },
+        {
+          "text": " hate thee.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.25.18",
+      "edition_verse_id": "KJV1769:PRO.25.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "A man that beareth false witness against his neighbour ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " a maul, and a sword, and a sharp arrow.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.25.19",
+      "edition_verse_id": "KJV1769:PRO.25.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "Confidence in an unfaithful man in time of trouble ",
+          "kind": "text"
+        },
+        {
+          "text": "is like",
+          "kind": "supplied"
+        },
+        {
+          "text": " a broken tooth, and a foot out of joint.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.25.20",
+      "edition_verse_id": "KJV1769:PRO.25.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "As",
+          "kind": "supplied"
+        },
+        {
+          "text": " he that taketh away a garment in cold weather, ",
+          "kind": "text"
+        },
+        {
+          "text": "and as",
+          "kind": "supplied"
+        },
+        {
+          "text": " vinegar upon nitre, so ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " he that singeth songs to an heavy heart.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.25.21",
+      "edition_verse_id": "KJV1769:PRO.25.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "If thine enemy be hungry, give him bread to eat; and if he be thirsty, give him water to drink:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PRO.25.22",
+      "edition_verse_id": "KJV1769:PRO.25.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "For thou shalt heap coals of fire upon his head, and the LORD shall reward thee.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.25.23",
+      "edition_verse_id": "KJV1769:PRO.25.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "The north wind driveth away rain: so ",
+          "kind": "text"
+        },
+        {
+          "text": "doth",
+          "kind": "supplied"
+        },
+        {
+          "text": " an angry countenance a backbiting tongue.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.25.24",
+      "edition_verse_id": "KJV1769:PRO.25.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "It is",
+          "kind": "supplied"
+        },
+        {
+          "text": " better to dwell in the corner of the housetop, than with a brawling woman and in a wide house.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.25.25",
+      "edition_verse_id": "KJV1769:PRO.25.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "As",
+          "kind": "supplied"
+        },
+        {
+          "text": " cold waters to a thirsty soul, so ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " good news from a far country.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.25.26",
+      "edition_verse_id": "KJV1769:PRO.25.26",
+      "verse": 26,
+      "spans": [
+        {
+          "text": "A righteous man falling down before the wicked ",
+          "kind": "text"
+        },
+        {
+          "text": "is as",
+          "kind": "supplied"
+        },
+        {
+          "text": " a troubled fountain, and a corrupt spring.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.25.27",
+      "edition_verse_id": "KJV1769:PRO.25.27",
+      "verse": 27,
+      "spans": [
+        {
+          "text": "It is",
+          "kind": "supplied"
+        },
+        {
+          "text": " not good to eat much honey: so ",
+          "kind": "text"
+        },
+        {
+          "text": "for men",
+          "kind": "supplied"
+        },
+        {
+          "text": " to search their own glory ",
+          "kind": "text"
+        },
+        {
+          "text": "is not",
+          "kind": "supplied"
+        },
+        {
+          "text": " glory.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.25.28",
+      "edition_verse_id": "KJV1769:PRO.25.28",
+      "verse": 28,
+      "spans": [
+        {
+          "text": "He that ",
+          "kind": "text"
+        },
+        {
+          "text": "hath",
+          "kind": "supplied"
+        },
+        {
+          "text": " no rule over his own spirit ",
+          "kind": "text"
+        },
+        {
+          "text": "is like",
+          "kind": "supplied"
+        },
+        {
+          "text": " a city ",
+          "kind": "text"
+        },
+        {
+          "text": "that is",
+          "kind": "supplied"
+        },
+        {
+          "text": " broken down, ",
+          "kind": "text"
+        },
+        {
+          "text": "and",
+          "kind": "supplied"
+        },
+        {
+          "text": " without walls.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

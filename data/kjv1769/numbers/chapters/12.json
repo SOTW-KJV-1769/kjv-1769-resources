@@ -1,0 +1,304 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "KJV1769",
+  "book_code": "NUM",
+  "chapter": 12,
+  "verses": [
+    {
+      "id": "NUM.12.1",
+      "edition_verse_id": "KJV1769:NUM.12.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "And Miriam and Aaron spake against Moses because of the Ethiopian woman whom he had married: for he had married an Ethiopian woman.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "NUM.12.2",
+      "edition_verse_id": "KJV1769:NUM.12.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "And they said, Hath the LORD indeed spoken only by Moses? hath he not spoken also by us? And the LORD heard ",
+          "kind": "text"
+        },
+        {
+          "text": "it",
+          "kind": "supplied"
+        },
+        {
+          "text": ".",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.12.3",
+      "edition_verse_id": "KJV1769:NUM.12.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "(Now the man Moses ",
+          "kind": "text"
+        },
+        {
+          "text": "was",
+          "kind": "supplied"
+        },
+        {
+          "text": " very meek, above all the men which ",
+          "kind": "text"
+        },
+        {
+          "text": "were",
+          "kind": "supplied"
+        },
+        {
+          "text": " upon the face of the earth.)",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.12.4",
+      "edition_verse_id": "KJV1769:NUM.12.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "And the LORD spake suddenly unto Moses, and unto Aaron, and unto Miriam, Come out ye three unto the tabernacle of the congregation. And they three came out.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "NUM.12.5",
+      "edition_verse_id": "KJV1769:NUM.12.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "And the LORD came down in the pillar of the cloud, and stood ",
+          "kind": "text"
+        },
+        {
+          "text": "in",
+          "kind": "supplied"
+        },
+        {
+          "text": " the door of the tabernacle, and called Aaron and Miriam: and they both came forth.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.12.6",
+      "edition_verse_id": "KJV1769:NUM.12.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "And he said, Hear now my words: If there be a prophet among you, ",
+          "kind": "text"
+        },
+        {
+          "text": "I",
+          "kind": "supplied"
+        },
+        {
+          "text": " the LORD will make myself known unto him in a vision, ",
+          "kind": "text"
+        },
+        {
+          "text": "and",
+          "kind": "supplied"
+        },
+        {
+          "text": " will speak unto him in a dream.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.12.7",
+      "edition_verse_id": "KJV1769:NUM.12.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "My servant Moses ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " not so, who ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " faithful in all mine house.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.12.8",
+      "edition_verse_id": "KJV1769:NUM.12.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "With him will I speak mouth to mouth, even apparently, and not in dark speeches; and the similitude of the LORD shall he behold: wherefore then were ye not afraid to speak against my servant Moses?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.12.9",
+      "edition_verse_id": "KJV1769:NUM.12.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "And the anger of the LORD was kindled against them; and he departed.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.12.10",
+      "edition_verse_id": "KJV1769:NUM.12.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "And the cloud departed from off the tabernacle; and, behold, Miriam ",
+          "kind": "text"
+        },
+        {
+          "text": "became",
+          "kind": "supplied"
+        },
+        {
+          "text": " leprous, ",
+          "kind": "text"
+        },
+        {
+          "text": "white",
+          "kind": "supplied"
+        },
+        {
+          "text": " as snow: and Aaron looked upon Miriam, and, behold, ",
+          "kind": "text"
+        },
+        {
+          "text": "she was",
+          "kind": "supplied"
+        },
+        {
+          "text": " leprous.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "NUM.12.11",
+      "edition_verse_id": "KJV1769:NUM.12.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "And Aaron said unto Moses, Alas, my lord, I beseech thee, lay not the sin upon us, wherein we have done foolishly, and wherein we have sinned.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.12.12",
+      "edition_verse_id": "KJV1769:NUM.12.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "Let her not be as one dead, of whom the flesh is half consumed when he cometh out of his mother’s womb.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.12.13",
+      "edition_verse_id": "KJV1769:NUM.12.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "And Moses cried unto the LORD, saying, Heal her now, O God, I beseech thee.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.12.14",
+      "edition_verse_id": "KJV1769:NUM.12.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "¶ And the LORD said unto Moses, If her father had but spit in her face, should she not be ashamed seven days? let her be shut out from the camp seven days, and after that let her be received in ",
+          "kind": "text"
+        },
+        {
+          "text": "again",
+          "kind": "supplied"
+        },
+        {
+          "text": ".",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "NUM.12.15",
+      "edition_verse_id": "KJV1769:NUM.12.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "And Miriam was shut out from the camp seven days: and the people journeyed not till Miriam was brought in ",
+          "kind": "text"
+        },
+        {
+          "text": "again",
+          "kind": "supplied"
+        },
+        {
+          "text": ".",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.12.16",
+      "edition_verse_id": "KJV1769:NUM.12.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "And afterward the people removed from Hazeroth, and pitched in the wilderness of Paran.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

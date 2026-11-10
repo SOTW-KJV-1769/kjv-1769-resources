@@ -1,0 +1,856 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "KJV1769",
+  "book_code": "NUM",
+  "chapter": 16,
+  "verses": [
+    {
+      "id": "NUM.16.1",
+      "edition_verse_id": "KJV1769:NUM.16.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "Now Korah, the son of Izhar, the son of Kohath, the son of Levi, and Dathan and Abiram, the sons of Eliab, and On, the son of Peleth, sons of Reuben, took ",
+          "kind": "text"
+        },
+        {
+          "text": "men:",
+          "kind": "supplied"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "NUM.16.2",
+      "edition_verse_id": "KJV1769:NUM.16.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "And they rose up before Moses, with certain of the children of Israel, two hundred and fifty princes of the assembly, famous in the congregation, men of renown:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.16.3",
+      "edition_verse_id": "KJV1769:NUM.16.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "And they gathered themselves together against Moses and against Aaron, and said unto them, ",
+          "kind": "text"
+        },
+        {
+          "text": "Ye take",
+          "kind": "supplied"
+        },
+        {
+          "text": " too much upon you, seeing all the congregation ",
+          "kind": "text"
+        },
+        {
+          "text": "are",
+          "kind": "supplied"
+        },
+        {
+          "text": " holy, every one of them, and the LORD ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " among them: wherefore then lift ye up yourselves above the congregation of the LORD?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.16.4",
+      "edition_verse_id": "KJV1769:NUM.16.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "And when Moses heard ",
+          "kind": "text"
+        },
+        {
+          "text": "it",
+          "kind": "supplied"
+        },
+        {
+          "text": ", he fell upon his face:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.16.5",
+      "edition_verse_id": "KJV1769:NUM.16.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "And he spake unto Korah and unto all his company, saying, Even to morrow the LORD will shew who ",
+          "kind": "text"
+        },
+        {
+          "text": "are",
+          "kind": "supplied"
+        },
+        {
+          "text": " his, and ",
+          "kind": "text"
+        },
+        {
+          "text": "who is",
+          "kind": "supplied"
+        },
+        {
+          "text": " holy; and will cause ",
+          "kind": "text"
+        },
+        {
+          "text": "him",
+          "kind": "supplied"
+        },
+        {
+          "text": " to come near unto him: even ",
+          "kind": "text"
+        },
+        {
+          "text": "him",
+          "kind": "supplied"
+        },
+        {
+          "text": " whom he hath chosen will he cause to come near unto him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.16.6",
+      "edition_verse_id": "KJV1769:NUM.16.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "This do; Take you censers, Korah, and all his company;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.16.7",
+      "edition_verse_id": "KJV1769:NUM.16.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "And put fire therein, and put incense in them before the LORD to morrow: and it shall be ",
+          "kind": "text"
+        },
+        {
+          "text": "that",
+          "kind": "supplied"
+        },
+        {
+          "text": " the man whom the LORD doth choose, he ",
+          "kind": "text"
+        },
+        {
+          "text": "shall be",
+          "kind": "supplied"
+        },
+        {
+          "text": " holy: ",
+          "kind": "text"
+        },
+        {
+          "text": "ye take",
+          "kind": "supplied"
+        },
+        {
+          "text": " too much upon you, ye sons of Levi.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.16.8",
+      "edition_verse_id": "KJV1769:NUM.16.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "And Moses said unto Korah, Hear, I pray you, ye sons of Levi:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.16.9",
+      "edition_verse_id": "KJV1769:NUM.16.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "Seemeth it but",
+          "kind": "supplied"
+        },
+        {
+          "text": " a small thing unto you, that the God of Israel hath separated you from the congregation of Israel, to bring you near to himself to do the service of the tabernacle of the LORD, and to stand before the congregation to minister unto them?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.16.10",
+      "edition_verse_id": "KJV1769:NUM.16.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "And he hath brought thee near ",
+          "kind": "text"
+        },
+        {
+          "text": "to him",
+          "kind": "supplied"
+        },
+        {
+          "text": ", and all thy brethren the sons of Levi with thee: and seek ye the priesthood also?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.16.11",
+      "edition_verse_id": "KJV1769:NUM.16.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "For which cause ",
+          "kind": "text"
+        },
+        {
+          "text": "both",
+          "kind": "supplied"
+        },
+        {
+          "text": " thou and all thy company ",
+          "kind": "text"
+        },
+        {
+          "text": "are",
+          "kind": "supplied"
+        },
+        {
+          "text": " gathered together against the LORD: and what ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " Aaron, that ye murmur against him?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.16.12",
+      "edition_verse_id": "KJV1769:NUM.16.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "¶ And Moses sent to call Dathan and Abiram, the sons of Eliab: which said, We will not come up:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "NUM.16.13",
+      "edition_verse_id": "KJV1769:NUM.16.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "Is it",
+          "kind": "supplied"
+        },
+        {
+          "text": " a small thing that thou hast brought us up out of a land that floweth with milk and honey, to kill us in the wilderness, except thou make thyself altogether a prince over us?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.16.14",
+      "edition_verse_id": "KJV1769:NUM.16.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "Moreover thou hast not brought us into a land that floweth with milk and honey, or given us inheritance of fields and vineyards: wilt thou put out the eyes of these men? we will not come up.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.16.15",
+      "edition_verse_id": "KJV1769:NUM.16.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "And Moses was very wroth, and said unto the LORD, Respect not thou their offering: I have not taken one ass from them, neither have I hurt one of them.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.16.16",
+      "edition_verse_id": "KJV1769:NUM.16.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "And Moses said unto Korah, Be thou and all thy company before the LORD, thou, and they, and Aaron, to morrow:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.16.17",
+      "edition_verse_id": "KJV1769:NUM.16.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "And take every man his censer, and put incense in them, and bring ye before the LORD every man his censer, two hundred and fifty censers; thou also, and Aaron, each ",
+          "kind": "text"
+        },
+        {
+          "text": "of you",
+          "kind": "supplied"
+        },
+        {
+          "text": " his censer.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.16.18",
+      "edition_verse_id": "KJV1769:NUM.16.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "And they took every man his censer, and put fire in them, and laid incense thereon, and stood in the door of the tabernacle of the congregation with Moses and Aaron.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.16.19",
+      "edition_verse_id": "KJV1769:NUM.16.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "And Korah gathered all the congregation against them unto the door of the tabernacle of the congregation: and the glory of the LORD appeared unto all the congregation.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.16.20",
+      "edition_verse_id": "KJV1769:NUM.16.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "And the LORD spake unto Moses and unto Aaron, saying,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.16.21",
+      "edition_verse_id": "KJV1769:NUM.16.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "Separate yourselves from among this congregation, that I may consume them in a moment.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.16.22",
+      "edition_verse_id": "KJV1769:NUM.16.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "And they fell upon their faces, and said, O God, the God of the spirits of all flesh, shall one man sin, and wilt thou be wroth with all the congregation?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.16.23",
+      "edition_verse_id": "KJV1769:NUM.16.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "¶ And the LORD spake unto Moses, saying,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "NUM.16.24",
+      "edition_verse_id": "KJV1769:NUM.16.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "Speak unto the congregation, saying, Get you up from about the tabernacle of Korah, Dathan, and Abiram.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.16.25",
+      "edition_verse_id": "KJV1769:NUM.16.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "And Moses rose up and went unto Dathan and Abiram; and the elders of Israel followed him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.16.26",
+      "edition_verse_id": "KJV1769:NUM.16.26",
+      "verse": 26,
+      "spans": [
+        {
+          "text": "And he spake unto the congregation, saying, Depart, I pray you, from the tents of these wicked men, and touch nothing of theirs, lest ye be consumed in all their sins.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.16.27",
+      "edition_verse_id": "KJV1769:NUM.16.27",
+      "verse": 27,
+      "spans": [
+        {
+          "text": "So they gat up from the tabernacle of Korah, Dathan, and Abiram, on every side: and Dathan and Abiram came out, and stood in the door of their tents, and their wives, and their sons, and their little children.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.16.28",
+      "edition_verse_id": "KJV1769:NUM.16.28",
+      "verse": 28,
+      "spans": [
+        {
+          "text": "And Moses said, Hereby ye shall know that the LORD hath sent me to do all these works; for ",
+          "kind": "text"
+        },
+        {
+          "text": "I have",
+          "kind": "supplied"
+        },
+        {
+          "text": " not ",
+          "kind": "text"
+        },
+        {
+          "text": "done them",
+          "kind": "supplied"
+        },
+        {
+          "text": " of mine own mind.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.16.29",
+      "edition_verse_id": "KJV1769:NUM.16.29",
+      "verse": 29,
+      "spans": [
+        {
+          "text": "If these men die the common death of all men, or if they be visited after the visitation of all men; ",
+          "kind": "text"
+        },
+        {
+          "text": "then",
+          "kind": "supplied"
+        },
+        {
+          "text": " the LORD hath not sent me.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.16.30",
+      "edition_verse_id": "KJV1769:NUM.16.30",
+      "verse": 30,
+      "spans": [
+        {
+          "text": "But if the LORD make a new thing, and the earth open her mouth, and swallow them up, with all that ",
+          "kind": "text"
+        },
+        {
+          "text": "appertain",
+          "kind": "supplied"
+        },
+        {
+          "text": " unto them, and they go down quick into the pit; then ye shall understand that these men have provoked the LORD.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.16.31",
+      "edition_verse_id": "KJV1769:NUM.16.31",
+      "verse": 31,
+      "spans": [
+        {
+          "text": "¶ And it came to pass, as he had made an end of speaking all these words, that the ground clave asunder that ",
+          "kind": "text"
+        },
+        {
+          "text": "was",
+          "kind": "supplied"
+        },
+        {
+          "text": " under them:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "NUM.16.32",
+      "edition_verse_id": "KJV1769:NUM.16.32",
+      "verse": 32,
+      "spans": [
+        {
+          "text": "And the earth opened her mouth, and swallowed them up, and their houses, and all the men that ",
+          "kind": "text"
+        },
+        {
+          "text": "appertained",
+          "kind": "supplied"
+        },
+        {
+          "text": " unto Korah, and all ",
+          "kind": "text"
+        },
+        {
+          "text": "their",
+          "kind": "supplied"
+        },
+        {
+          "text": " goods.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.16.33",
+      "edition_verse_id": "KJV1769:NUM.16.33",
+      "verse": 33,
+      "spans": [
+        {
+          "text": "They, and all that ",
+          "kind": "text"
+        },
+        {
+          "text": "appertained",
+          "kind": "supplied"
+        },
+        {
+          "text": " to them, went down alive into the pit, and the earth closed upon them: and they perished from among the congregation.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.16.34",
+      "edition_verse_id": "KJV1769:NUM.16.34",
+      "verse": 34,
+      "spans": [
+        {
+          "text": "And all Israel that ",
+          "kind": "text"
+        },
+        {
+          "text": "were",
+          "kind": "supplied"
+        },
+        {
+          "text": " round about them fled at the cry of them: for they said, Lest the earth swallow us up ",
+          "kind": "text"
+        },
+        {
+          "text": "also",
+          "kind": "supplied"
+        },
+        {
+          "text": ".",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.16.35",
+      "edition_verse_id": "KJV1769:NUM.16.35",
+      "verse": 35,
+      "spans": [
+        {
+          "text": "And there came out a fire from the LORD, and consumed the two hundred and fifty men that offered incense.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "NUM.16.36",
+      "edition_verse_id": "KJV1769:NUM.16.36",
+      "verse": 36,
+      "spans": [
+        {
+          "text": "¶ And the LORD spake unto Moses, saying,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "NUM.16.37",
+      "edition_verse_id": "KJV1769:NUM.16.37",
+      "verse": 37,
+      "spans": [
+        {
+          "text": "Speak unto Eleazar the son of Aaron the priest, that he take up the censers out of the burning, and scatter thou the fire yonder; for they are hallowed.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.16.38",
+      "edition_verse_id": "KJV1769:NUM.16.38",
+      "verse": 38,
+      "spans": [
+        {
+          "text": "The censers of these sinners against their own souls, let them make them broad plates ",
+          "kind": "text"
+        },
+        {
+          "text": "for",
+          "kind": "supplied"
+        },
+        {
+          "text": " a covering of the altar: for they offered them before the LORD, therefore they are hallowed: and they shall be a sign unto the children of Israel.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.16.39",
+      "edition_verse_id": "KJV1769:NUM.16.39",
+      "verse": 39,
+      "spans": [
+        {
+          "text": "And Eleazar the priest took the brasen censers, wherewith they that were burnt had offered; and they were made broad ",
+          "kind": "text"
+        },
+        {
+          "text": "plates for",
+          "kind": "supplied"
+        },
+        {
+          "text": " a covering of the altar:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.16.40",
+      "edition_verse_id": "KJV1769:NUM.16.40",
+      "verse": 40,
+      "spans": [
+        {
+          "text": "To be",
+          "kind": "supplied"
+        },
+        {
+          "text": " a memorial unto the children of Israel, that no stranger, which ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " not of the seed of Aaron, come near to offer incense before the LORD; that he be not as Korah, and as his company: as the LORD said to him by the hand of Moses.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.16.41",
+      "edition_verse_id": "KJV1769:NUM.16.41",
+      "verse": 41,
+      "spans": [
+        {
+          "text": "¶ But on the morrow all the congregation of the children of Israel murmured against Moses and against Aaron, saying, Ye have killed the people of the LORD.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "NUM.16.42",
+      "edition_verse_id": "KJV1769:NUM.16.42",
+      "verse": 42,
+      "spans": [
+        {
+          "text": "And it came to pass, when the congregation was gathered against Moses and against Aaron, that they looked toward the tabernacle of the congregation: and, behold, the cloud covered it, and the glory of the LORD appeared.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.16.43",
+      "edition_verse_id": "KJV1769:NUM.16.43",
+      "verse": 43,
+      "spans": [
+        {
+          "text": "And Moses and Aaron came before the tabernacle of the congregation.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.16.44",
+      "edition_verse_id": "KJV1769:NUM.16.44",
+      "verse": 44,
+      "spans": [
+        {
+          "text": "¶ And the LORD spake unto Moses, saying,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "NUM.16.45",
+      "edition_verse_id": "KJV1769:NUM.16.45",
+      "verse": 45,
+      "spans": [
+        {
+          "text": "Get you up from among this congregation, that I may consume them as in a moment. And they fell upon their faces.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.16.46",
+      "edition_verse_id": "KJV1769:NUM.16.46",
+      "verse": 46,
+      "spans": [
+        {
+          "text": "¶ And Moses said unto Aaron, Take a censer, and put fire therein from off the altar, and put on incense, and go quickly unto the congregation, and make an atonement for them: for there is wrath gone out from the LORD; the plague is begun.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "NUM.16.47",
+      "edition_verse_id": "KJV1769:NUM.16.47",
+      "verse": 47,
+      "spans": [
+        {
+          "text": "And Aaron took as Moses commanded, and ran into the midst of the congregation; and, behold, the plague was begun among the people: and he put on incense, and made an atonement for the people.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.16.48",
+      "edition_verse_id": "KJV1769:NUM.16.48",
+      "verse": 48,
+      "spans": [
+        {
+          "text": "And he stood between the dead and the living; and the plague was stayed.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.16.49",
+      "edition_verse_id": "KJV1769:NUM.16.49",
+      "verse": 49,
+      "spans": [
+        {
+          "text": "Now they that died in the plague were fourteen thousand and seven hundred, beside them that died about the matter of Korah.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.16.50",
+      "edition_verse_id": "KJV1769:NUM.16.50",
+      "verse": 50,
+      "spans": [
+        {
+          "text": "And Aaron returned unto Moses unto the door of the tabernacle of the congregation: and the plague was stayed.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

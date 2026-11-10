@@ -1,0 +1,588 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "KJV1769",
+  "book_code": "NUM",
+  "chapter": 13,
+  "verses": [
+    {
+      "id": "NUM.13.1",
+      "edition_verse_id": "KJV1769:NUM.13.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "And the LORD spake unto Moses, saying,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "NUM.13.2",
+      "edition_verse_id": "KJV1769:NUM.13.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "Send thou men, that they may search the land of Canaan, which I give unto the children of Israel: of every tribe of their fathers shall ye send a man, every one a ruler among them.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.13.3",
+      "edition_verse_id": "KJV1769:NUM.13.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "And Moses by the commandment of the LORD sent them from the wilderness of Paran: all those men ",
+          "kind": "text"
+        },
+        {
+          "text": "were",
+          "kind": "supplied"
+        },
+        {
+          "text": " heads of the children of Israel.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.13.4",
+      "edition_verse_id": "KJV1769:NUM.13.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "And these ",
+          "kind": "text"
+        },
+        {
+          "text": "were",
+          "kind": "supplied"
+        },
+        {
+          "text": " their names: of the tribe of Reuben, Shammua the son of Zaccur.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.13.5",
+      "edition_verse_id": "KJV1769:NUM.13.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "Of the tribe of Simeon, Shaphat the son of Hori.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.13.6",
+      "edition_verse_id": "KJV1769:NUM.13.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "Of the tribe of Judah, Caleb the son of Jephunneh.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.13.7",
+      "edition_verse_id": "KJV1769:NUM.13.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "Of the tribe of Issachar, Igal the son of Joseph.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.13.8",
+      "edition_verse_id": "KJV1769:NUM.13.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "Of the tribe of Ephraim, Oshea the son of Nun.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.13.9",
+      "edition_verse_id": "KJV1769:NUM.13.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "Of the tribe of Benjamin, Palti the son of Raphu.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.13.10",
+      "edition_verse_id": "KJV1769:NUM.13.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "Of the tribe of Zebulun, Gaddiel the son of Sodi.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.13.11",
+      "edition_verse_id": "KJV1769:NUM.13.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "Of the tribe of Joseph, ",
+          "kind": "text"
+        },
+        {
+          "text": "namely",
+          "kind": "supplied"
+        },
+        {
+          "text": ", of the tribe of Manasseh, Gaddi the son of Susi.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.13.12",
+      "edition_verse_id": "KJV1769:NUM.13.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "Of the tribe of Dan, Ammiel the son of Gemalli.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.13.13",
+      "edition_verse_id": "KJV1769:NUM.13.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "Of the tribe of Asher, Sethur the son of Michael.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.13.14",
+      "edition_verse_id": "KJV1769:NUM.13.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "Of the tribe of Naphtali, Nahbi the son of Vophsi.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.13.15",
+      "edition_verse_id": "KJV1769:NUM.13.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "Of the tribe of Gad, Geuel the son of Machi.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.13.16",
+      "edition_verse_id": "KJV1769:NUM.13.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "These ",
+          "kind": "text"
+        },
+        {
+          "text": "are",
+          "kind": "supplied"
+        },
+        {
+          "text": " the names of the men which Moses sent to spy out the land. And Moses called Oshea the son of Nun Jehoshua.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.13.17",
+      "edition_verse_id": "KJV1769:NUM.13.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "¶ And Moses sent them to spy out the land of Canaan, and said unto them, Get you up this ",
+          "kind": "text"
+        },
+        {
+          "text": "way",
+          "kind": "supplied"
+        },
+        {
+          "text": " southward, and go up into the mountain:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "NUM.13.18",
+      "edition_verse_id": "KJV1769:NUM.13.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "And see the land, what it ",
+          "kind": "text"
+        },
+        {
+          "text": "is;",
+          "kind": "supplied"
+        },
+        {
+          "text": " and the people that dwelleth therein, whether they ",
+          "kind": "text"
+        },
+        {
+          "text": "be",
+          "kind": "supplied"
+        },
+        {
+          "text": " strong or weak, few or many;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.13.19",
+      "edition_verse_id": "KJV1769:NUM.13.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "And what the land ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " that they dwell in, whether it ",
+          "kind": "text"
+        },
+        {
+          "text": "be",
+          "kind": "supplied"
+        },
+        {
+          "text": " good or bad; and what cities ",
+          "kind": "text"
+        },
+        {
+          "text": "they be",
+          "kind": "supplied"
+        },
+        {
+          "text": " that they dwell in, whether in tents, or in strong holds;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.13.20",
+      "edition_verse_id": "KJV1769:NUM.13.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "And what the land ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": ", whether it ",
+          "kind": "text"
+        },
+        {
+          "text": "be",
+          "kind": "supplied"
+        },
+        {
+          "text": " fat or lean, whether there be wood therein, or not. And be ye of good courage, and bring of the fruit of the land. Now the time ",
+          "kind": "text"
+        },
+        {
+          "text": "was",
+          "kind": "supplied"
+        },
+        {
+          "text": " the time of the firstripe grapes.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.13.21",
+      "edition_verse_id": "KJV1769:NUM.13.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "¶ So they went up, and searched the land from the wilderness of Zin unto Rehob, as men come to Hamath.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "NUM.13.22",
+      "edition_verse_id": "KJV1769:NUM.13.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "And they ascended by the south, and came unto Hebron; where Ahiman, Sheshai, and Talmai, the children of Anak, ",
+          "kind": "text"
+        },
+        {
+          "text": "were",
+          "kind": "supplied"
+        },
+        {
+          "text": ". (Now Hebron was built seven years before Zoan in Egypt.)",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.13.23",
+      "edition_verse_id": "KJV1769:NUM.13.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "And they came unto the brook of Eshcol, and cut down from thence a branch with one cluster of grapes, and they bare it between two upon a staff; and ",
+          "kind": "text"
+        },
+        {
+          "text": "they brought",
+          "kind": "supplied"
+        },
+        {
+          "text": " of the pomegranates, and of the figs.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.13.24",
+      "edition_verse_id": "KJV1769:NUM.13.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "The place was called the brook Eshcol, because of the cluster of grapes which the children of Israel cut down from thence.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.13.25",
+      "edition_verse_id": "KJV1769:NUM.13.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "And they returned from searching of the land after forty days.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.13.26",
+      "edition_verse_id": "KJV1769:NUM.13.26",
+      "verse": 26,
+      "spans": [
+        {
+          "text": "¶ And they went and came to Moses, and to Aaron, and to all the congregation of the children of Israel, unto the wilderness of Paran, to Kadesh; and brought back word unto them, and unto all the congregation, and shewed them the fruit of the land.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "NUM.13.27",
+      "edition_verse_id": "KJV1769:NUM.13.27",
+      "verse": 27,
+      "spans": [
+        {
+          "text": "And they told him, and said, We came unto the land whither thou sentest us, and surely it floweth with milk and honey; and this ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " the fruit of it.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.13.28",
+      "edition_verse_id": "KJV1769:NUM.13.28",
+      "verse": 28,
+      "spans": [
+        {
+          "text": "Nevertheless the people ",
+          "kind": "text"
+        },
+        {
+          "text": "be",
+          "kind": "supplied"
+        },
+        {
+          "text": " strong that dwell in the land, and the cities ",
+          "kind": "text"
+        },
+        {
+          "text": "are",
+          "kind": "supplied"
+        },
+        {
+          "text": " walled, ",
+          "kind": "text"
+        },
+        {
+          "text": "and",
+          "kind": "supplied"
+        },
+        {
+          "text": " very great: and moreover we saw the children of Anak there.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.13.29",
+      "edition_verse_id": "KJV1769:NUM.13.29",
+      "verse": 29,
+      "spans": [
+        {
+          "text": "The Amalekites dwell in the land of the south: and the Hittites, and the Jebusites, and the Amorites, dwell in the mountains: and the Canaanites dwell by the sea, and by the coast of Jordan.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.13.30",
+      "edition_verse_id": "KJV1769:NUM.13.30",
+      "verse": 30,
+      "spans": [
+        {
+          "text": "And Caleb stilled the people before Moses, and said, Let us go up at once, and possess it; for we are well able to overcome it.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.13.31",
+      "edition_verse_id": "KJV1769:NUM.13.31",
+      "verse": 31,
+      "spans": [
+        {
+          "text": "But the men that went up with him said, We be not able to go up against the people; for they ",
+          "kind": "text"
+        },
+        {
+          "text": "are",
+          "kind": "supplied"
+        },
+        {
+          "text": " stronger than we.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.13.32",
+      "edition_verse_id": "KJV1769:NUM.13.32",
+      "verse": 32,
+      "spans": [
+        {
+          "text": "And they brought up an evil report of the land which they had searched unto the children of Israel, saying, The land, through which we have gone to search it, ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " a land that eateth up the inhabitants thereof; and all the people that we saw in it ",
+          "kind": "text"
+        },
+        {
+          "text": "are",
+          "kind": "supplied"
+        },
+        {
+          "text": " men of a great stature.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.13.33",
+      "edition_verse_id": "KJV1769:NUM.13.33",
+      "verse": 33,
+      "spans": [
+        {
+          "text": "And there we saw the giants, the sons of Anak, ",
+          "kind": "text"
+        },
+        {
+          "text": "which come",
+          "kind": "supplied"
+        },
+        {
+          "text": " of the giants: and we were in our own sight as grasshoppers, and so we were in their sight.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

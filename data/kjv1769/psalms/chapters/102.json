@@ -1,0 +1,408 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "KJV1769",
+  "book_code": "PSA",
+  "chapter": 102,
+  "verses": [
+    {
+      "id": "PSA.102.1",
+      "edition_verse_id": "KJV1769:PSA.102.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "Hear my prayer, O LORD, and let my cry come unto thee.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.102.2",
+      "edition_verse_id": "KJV1769:PSA.102.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "Hide not thy face from me in the day ",
+          "kind": "text"
+        },
+        {
+          "text": "when",
+          "kind": "supplied"
+        },
+        {
+          "text": " I am in trouble; incline thine ear unto me: in the day ",
+          "kind": "text"
+        },
+        {
+          "text": "when",
+          "kind": "supplied"
+        },
+        {
+          "text": " I call answer me speedily.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.102.3",
+      "edition_verse_id": "KJV1769:PSA.102.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "For my days are consumed like smoke, and my bones are burned as an hearth.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.102.4",
+      "edition_verse_id": "KJV1769:PSA.102.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "My heart is smitten, and withered like grass; so that I forget to eat my bread.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.102.5",
+      "edition_verse_id": "KJV1769:PSA.102.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "By reason of the voice of my groaning my bones cleave to my skin.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.102.6",
+      "edition_verse_id": "KJV1769:PSA.102.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "I am like a pelican of the wilderness: I am like an owl of the desert.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.102.7",
+      "edition_verse_id": "KJV1769:PSA.102.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "I watch, and am as a sparrow alone upon the house top.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.102.8",
+      "edition_verse_id": "KJV1769:PSA.102.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "Mine enemies reproach me all the day; ",
+          "kind": "text"
+        },
+        {
+          "text": "and",
+          "kind": "supplied"
+        },
+        {
+          "text": " they that are mad against me are sworn against me.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.102.9",
+      "edition_verse_id": "KJV1769:PSA.102.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "For I have eaten ashes like bread, and mingled my drink with weeping,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.102.10",
+      "edition_verse_id": "KJV1769:PSA.102.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "Because of thine indignation and thy wrath: for thou hast lifted me up, and cast me down.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.102.11",
+      "edition_verse_id": "KJV1769:PSA.102.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "My days ",
+          "kind": "text"
+        },
+        {
+          "text": "are",
+          "kind": "supplied"
+        },
+        {
+          "text": " like a shadow that declineth; and I am withered like grass.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.102.12",
+      "edition_verse_id": "KJV1769:PSA.102.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "But thou, O LORD, shalt endure for ever; and thy remembrance unto all generations.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.102.13",
+      "edition_verse_id": "KJV1769:PSA.102.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "Thou shalt arise, ",
+          "kind": "text"
+        },
+        {
+          "text": "and",
+          "kind": "supplied"
+        },
+        {
+          "text": " have mercy upon Zion: for the time to favour her, yea, the set time, is come.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.102.14",
+      "edition_verse_id": "KJV1769:PSA.102.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "For thy servants take pleasure in her stones, and favour the dust thereof.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.102.15",
+      "edition_verse_id": "KJV1769:PSA.102.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "So the heathen shall fear the name of the LORD, and all the kings of the earth thy glory.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.102.16",
+      "edition_verse_id": "KJV1769:PSA.102.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "When the LORD shall build up Zion, he shall appear in his glory.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.102.17",
+      "edition_verse_id": "KJV1769:PSA.102.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "He will regard the prayer of the destitute, and not despise their prayer.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.102.18",
+      "edition_verse_id": "KJV1769:PSA.102.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "This shall be written for the generation to come: and the people which shall be created shall praise the LORD.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.102.19",
+      "edition_verse_id": "KJV1769:PSA.102.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "For he hath looked down from the height of his sanctuary; from heaven did the LORD behold the earth;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.102.20",
+      "edition_verse_id": "KJV1769:PSA.102.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "To hear the groaning of the prisoner; to loose those that are appointed to death;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.102.21",
+      "edition_verse_id": "KJV1769:PSA.102.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "To declare the name of the LORD in Zion, and his praise in Jerusalem;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.102.22",
+      "edition_verse_id": "KJV1769:PSA.102.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "When the people are gathered together, and the kingdoms, to serve the LORD.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.102.23",
+      "edition_verse_id": "KJV1769:PSA.102.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "He weakened my strength in the way; he shortened my days.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.102.24",
+      "edition_verse_id": "KJV1769:PSA.102.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "I said, O my God, take me not away in the midst of my days: thy years ",
+          "kind": "text"
+        },
+        {
+          "text": "are",
+          "kind": "supplied"
+        },
+        {
+          "text": " throughout all generations.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.102.25",
+      "edition_verse_id": "KJV1769:PSA.102.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "Of old hast thou laid the foundation of the earth: and the heavens ",
+          "kind": "text"
+        },
+        {
+          "text": "are",
+          "kind": "supplied"
+        },
+        {
+          "text": " the work of thy hands.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.102.26",
+      "edition_verse_id": "KJV1769:PSA.102.26",
+      "verse": 26,
+      "spans": [
+        {
+          "text": "They shall perish, but thou shalt endure: yea, all of them shall wax old like a garment; as a vesture shalt thou change them, and they shall be changed:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.102.27",
+      "edition_verse_id": "KJV1769:PSA.102.27",
+      "verse": 27,
+      "spans": [
+        {
+          "text": "But thou ",
+          "kind": "text"
+        },
+        {
+          "text": "art",
+          "kind": "supplied"
+        },
+        {
+          "text": " the same, and thy years shall have no end.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.102.28",
+      "edition_verse_id": "KJV1769:PSA.102.28",
+      "verse": 28,
+      "spans": [
+        {
+          "text": "The children of thy servants shall continue, and their seed shall be established before thee.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

@@ -1,0 +1,756 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "KJV1769",
+  "book_code": "PRO",
+  "chapter": 30,
+  "verses": [
+    {
+      "id": "PRO.30.1",
+      "edition_verse_id": "KJV1769:PRO.30.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "The words of Agur the son of Jakeh, ",
+          "kind": "text"
+        },
+        {
+          "text": "even",
+          "kind": "supplied"
+        },
+        {
+          "text": " the prophecy: the man spake unto Ithiel, even unto Ithiel and Ucal,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PRO.30.2",
+      "edition_verse_id": "KJV1769:PRO.30.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "Surely I ",
+          "kind": "text"
+        },
+        {
+          "text": "am",
+          "kind": "supplied"
+        },
+        {
+          "text": " more brutish than ",
+          "kind": "text"
+        },
+        {
+          "text": "any",
+          "kind": "supplied"
+        },
+        {
+          "text": " man, and have not the understanding of a man.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.30.3",
+      "edition_verse_id": "KJV1769:PRO.30.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "I neither learned wisdom, nor have the knowledge of the holy.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.30.4",
+      "edition_verse_id": "KJV1769:PRO.30.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "Who hath ascended up into heaven, or descended? who hath gathered the wind in his fists? who hath bound the waters in a garment? who hath established all the ends of the earth? what ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " his name, and what ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " his son’s name, if thou canst tell?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.30.5",
+      "edition_verse_id": "KJV1769:PRO.30.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "Every word of God ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " pure: he ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " a shield unto them that put their trust in him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.30.6",
+      "edition_verse_id": "KJV1769:PRO.30.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "Add thou not unto his words, lest he reprove thee, and thou be found a liar.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.30.7",
+      "edition_verse_id": "KJV1769:PRO.30.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "Two ",
+          "kind": "text"
+        },
+        {
+          "text": "things",
+          "kind": "supplied"
+        },
+        {
+          "text": " have I required of thee; deny me ",
+          "kind": "text"
+        },
+        {
+          "text": "them",
+          "kind": "supplied"
+        },
+        {
+          "text": " not before I die:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PRO.30.8",
+      "edition_verse_id": "KJV1769:PRO.30.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "Remove far from me vanity and lies: give me neither poverty nor riches; feed me with food convenient for me:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.30.9",
+      "edition_verse_id": "KJV1769:PRO.30.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "Lest I be full, and deny ",
+          "kind": "text"
+        },
+        {
+          "text": "thee",
+          "kind": "supplied"
+        },
+        {
+          "text": ", and say, Who ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " the LORD? or lest I be poor, and steal, and take the name of my God ",
+          "kind": "text"
+        },
+        {
+          "text": "in vain",
+          "kind": "supplied"
+        },
+        {
+          "text": ".",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.30.10",
+      "edition_verse_id": "KJV1769:PRO.30.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "Accuse not a servant unto his master, lest he curse thee, and thou be found guilty.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PRO.30.11",
+      "edition_verse_id": "KJV1769:PRO.30.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "There is",
+          "kind": "supplied"
+        },
+        {
+          "text": " a generation ",
+          "kind": "text"
+        },
+        {
+          "text": "that",
+          "kind": "supplied"
+        },
+        {
+          "text": " curseth their father, and doth not bless their mother.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.30.12",
+      "edition_verse_id": "KJV1769:PRO.30.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "There is",
+          "kind": "supplied"
+        },
+        {
+          "text": " a generation ",
+          "kind": "text"
+        },
+        {
+          "text": "that are",
+          "kind": "supplied"
+        },
+        {
+          "text": " pure in their own eyes, and ",
+          "kind": "text"
+        },
+        {
+          "text": "yet",
+          "kind": "supplied"
+        },
+        {
+          "text": " is not washed from their filthiness.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.30.13",
+      "edition_verse_id": "KJV1769:PRO.30.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "There is",
+          "kind": "supplied"
+        },
+        {
+          "text": " a generation, O how lofty are their eyes! and their eyelids are lifted up.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.30.14",
+      "edition_verse_id": "KJV1769:PRO.30.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "There is",
+          "kind": "supplied"
+        },
+        {
+          "text": " a generation, whose teeth ",
+          "kind": "text"
+        },
+        {
+          "text": "are as",
+          "kind": "supplied"
+        },
+        {
+          "text": " swords, and their jaw teeth ",
+          "kind": "text"
+        },
+        {
+          "text": "as",
+          "kind": "supplied"
+        },
+        {
+          "text": " knives, to devour the poor from off the earth, and the needy from ",
+          "kind": "text"
+        },
+        {
+          "text": "among",
+          "kind": "supplied"
+        },
+        {
+          "text": " men.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.30.15",
+      "edition_verse_id": "KJV1769:PRO.30.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "The horseleach hath two daughters, ",
+          "kind": "text"
+        },
+        {
+          "text": "crying",
+          "kind": "supplied"
+        },
+        {
+          "text": ", Give, give. There are three ",
+          "kind": "text"
+        },
+        {
+          "text": "things that",
+          "kind": "supplied"
+        },
+        {
+          "text": " are never satisfied, ",
+          "kind": "text"
+        },
+        {
+          "text": "yea",
+          "kind": "supplied"
+        },
+        {
+          "text": ", four ",
+          "kind": "text"
+        },
+        {
+          "text": "things",
+          "kind": "supplied"
+        },
+        {
+          "text": " say not, ",
+          "kind": "text"
+        },
+        {
+          "text": "It is",
+          "kind": "supplied"
+        },
+        {
+          "text": " enough:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PRO.30.16",
+      "edition_verse_id": "KJV1769:PRO.30.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "The grave; and the barren womb; the earth ",
+          "kind": "text"
+        },
+        {
+          "text": "that",
+          "kind": "supplied"
+        },
+        {
+          "text": " is not filled with water; and the fire ",
+          "kind": "text"
+        },
+        {
+          "text": "that",
+          "kind": "supplied"
+        },
+        {
+          "text": " saith not, ",
+          "kind": "text"
+        },
+        {
+          "text": "It is",
+          "kind": "supplied"
+        },
+        {
+          "text": " enough.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.30.17",
+      "edition_verse_id": "KJV1769:PRO.30.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "The eye ",
+          "kind": "text"
+        },
+        {
+          "text": "that",
+          "kind": "supplied"
+        },
+        {
+          "text": " mocketh at ",
+          "kind": "text"
+        },
+        {
+          "text": "his",
+          "kind": "supplied"
+        },
+        {
+          "text": " father, and despiseth to obey ",
+          "kind": "text"
+        },
+        {
+          "text": "his",
+          "kind": "supplied"
+        },
+        {
+          "text": " mother, the ravens of the valley shall pick it out, and the young eagles shall eat it.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.30.18",
+      "edition_verse_id": "KJV1769:PRO.30.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "There be three ",
+          "kind": "text"
+        },
+        {
+          "text": "things which",
+          "kind": "supplied"
+        },
+        {
+          "text": " are too wonderful for me, yea, four which I know not:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PRO.30.19",
+      "edition_verse_id": "KJV1769:PRO.30.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "The way of an eagle in the air; the way of a serpent upon a rock; the way of a ship in the midst of the sea; and the way of a man with a maid.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.30.20",
+      "edition_verse_id": "KJV1769:PRO.30.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "Such ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " the way of an adulterous woman; she eateth, and wipeth her mouth, and saith, I have done no wickedness.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.30.21",
+      "edition_verse_id": "KJV1769:PRO.30.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "For three ",
+          "kind": "text"
+        },
+        {
+          "text": "things",
+          "kind": "supplied"
+        },
+        {
+          "text": " the earth is disquieted, and for four ",
+          "kind": "text"
+        },
+        {
+          "text": "which",
+          "kind": "supplied"
+        },
+        {
+          "text": " it cannot bear:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.30.22",
+      "edition_verse_id": "KJV1769:PRO.30.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "For a servant when he reigneth; and a fool when he is filled with meat;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.30.23",
+      "edition_verse_id": "KJV1769:PRO.30.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "For an odious ",
+          "kind": "text"
+        },
+        {
+          "text": "woman",
+          "kind": "supplied"
+        },
+        {
+          "text": " when she is married; and an handmaid that is heir to her mistress.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.30.24",
+      "edition_verse_id": "KJV1769:PRO.30.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "There be four ",
+          "kind": "text"
+        },
+        {
+          "text": "things which are",
+          "kind": "supplied"
+        },
+        {
+          "text": " little upon the earth, but they ",
+          "kind": "text"
+        },
+        {
+          "text": "are",
+          "kind": "supplied"
+        },
+        {
+          "text": " exceeding wise:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PRO.30.25",
+      "edition_verse_id": "KJV1769:PRO.30.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "The ants ",
+          "kind": "text"
+        },
+        {
+          "text": "are",
+          "kind": "supplied"
+        },
+        {
+          "text": " a people not strong, yet they prepare their meat in the summer;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.30.26",
+      "edition_verse_id": "KJV1769:PRO.30.26",
+      "verse": 26,
+      "spans": [
+        {
+          "text": "The conies ",
+          "kind": "text"
+        },
+        {
+          "text": "are but",
+          "kind": "supplied"
+        },
+        {
+          "text": " a feeble folk, yet make they their houses in the rocks;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.30.27",
+      "edition_verse_id": "KJV1769:PRO.30.27",
+      "verse": 27,
+      "spans": [
+        {
+          "text": "The locusts have no king, yet go they forth all of them by bands;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.30.28",
+      "edition_verse_id": "KJV1769:PRO.30.28",
+      "verse": 28,
+      "spans": [
+        {
+          "text": "The spider taketh hold with her hands, and is in kings’ palaces.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.30.29",
+      "edition_verse_id": "KJV1769:PRO.30.29",
+      "verse": 29,
+      "spans": [
+        {
+          "text": "There be three ",
+          "kind": "text"
+        },
+        {
+          "text": "things",
+          "kind": "supplied"
+        },
+        {
+          "text": " which go well, yea, four are comely in going:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PRO.30.30",
+      "edition_verse_id": "KJV1769:PRO.30.30",
+      "verse": 30,
+      "spans": [
+        {
+          "text": "A lion ",
+          "kind": "text"
+        },
+        {
+          "text": "which is",
+          "kind": "supplied"
+        },
+        {
+          "text": " strongest among beasts, and turneth not away for any;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.30.31",
+      "edition_verse_id": "KJV1769:PRO.30.31",
+      "verse": 31,
+      "spans": [
+        {
+          "text": "A greyhound; an he goat also; and a king, against whom ",
+          "kind": "text"
+        },
+        {
+          "text": "there is",
+          "kind": "supplied"
+        },
+        {
+          "text": " no rising up.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.30.32",
+      "edition_verse_id": "KJV1769:PRO.30.32",
+      "verse": 32,
+      "spans": [
+        {
+          "text": "If thou hast done foolishly in lifting up thyself, or if thou hast thought evil, ",
+          "kind": "text"
+        },
+        {
+          "text": "lay",
+          "kind": "supplied"
+        },
+        {
+          "text": " thine hand upon thy mouth.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.30.33",
+      "edition_verse_id": "KJV1769:PRO.30.33",
+      "verse": 33,
+      "spans": [
+        {
+          "text": "Surely the churning of milk bringeth forth butter, and the wringing of the nose bringeth forth blood: so the forcing of wrath bringeth forth strife.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

@@ -1,0 +1,588 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "KJV1769",
+  "book_code": "NUM",
+  "chapter": 18,
+  "verses": [
+    {
+      "id": "NUM.18.1",
+      "edition_verse_id": "KJV1769:NUM.18.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "And the LORD said unto Aaron, Thou and thy sons and thy father’s house with thee shall bear the iniquity of the sanctuary: and thou and thy sons with thee shall bear the iniquity of your priesthood.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "NUM.18.2",
+      "edition_verse_id": "KJV1769:NUM.18.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "And thy brethren also of the tribe of Levi, the tribe of thy father, bring thou with thee, that they may be joined unto thee, and minister unto thee: but thou and thy sons with thee ",
+          "kind": "text"
+        },
+        {
+          "text": "shall minister",
+          "kind": "supplied"
+        },
+        {
+          "text": " before the tabernacle of witness.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.18.3",
+      "edition_verse_id": "KJV1769:NUM.18.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "And they shall keep thy charge, and the charge of all the tabernacle: only they shall not come nigh the vessels of the sanctuary and the altar, that neither they, nor ye also, die.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.18.4",
+      "edition_verse_id": "KJV1769:NUM.18.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "And they shall be joined unto thee, and keep the charge of the tabernacle of the congregation, for all the service of the tabernacle: and a stranger shall not come nigh unto you.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.18.5",
+      "edition_verse_id": "KJV1769:NUM.18.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "And ye shall keep the charge of the sanctuary, and the charge of the altar: that there be no wrath any more upon the children of Israel.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.18.6",
+      "edition_verse_id": "KJV1769:NUM.18.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "And I, behold, I have taken your brethren the Levites from among the children of Israel: to you ",
+          "kind": "text"
+        },
+        {
+          "text": "they are",
+          "kind": "supplied"
+        },
+        {
+          "text": " given ",
+          "kind": "text"
+        },
+        {
+          "text": "as",
+          "kind": "supplied"
+        },
+        {
+          "text": " a gift for the LORD, to do the service of the tabernacle of the congregation.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.18.7",
+      "edition_verse_id": "KJV1769:NUM.18.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "Therefore thou and thy sons with thee shall keep your priest’s office for every thing of the altar, and within the vail; and ye shall serve: I have given your priest’s office ",
+          "kind": "text"
+        },
+        {
+          "text": "unto you",
+          "kind": "supplied"
+        },
+        {
+          "text": " as a service of gift: and the stranger that cometh nigh shall be put to death.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.18.8",
+      "edition_verse_id": "KJV1769:NUM.18.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "¶ And the LORD spake unto Aaron, Behold, I also have given thee the charge of mine heave offerings of all the hallowed things of the children of Israel; unto thee have I given them by reason of the anointing, and to thy sons, by an ordinance for ever.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "NUM.18.9",
+      "edition_verse_id": "KJV1769:NUM.18.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "This shall be thine of the most holy things, ",
+          "kind": "text"
+        },
+        {
+          "text": "reserved",
+          "kind": "supplied"
+        },
+        {
+          "text": " from the fire: every oblation of theirs, every meat offering of theirs, and every sin offering of theirs, and every trespass offering of theirs, which they shall render unto me, ",
+          "kind": "text"
+        },
+        {
+          "text": "shall be",
+          "kind": "supplied"
+        },
+        {
+          "text": " most holy for thee and for thy sons.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.18.10",
+      "edition_verse_id": "KJV1769:NUM.18.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "In the most holy ",
+          "kind": "text"
+        },
+        {
+          "text": "place",
+          "kind": "supplied"
+        },
+        {
+          "text": " shalt thou eat it; every male shall eat it: it shall be holy unto thee.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.18.11",
+      "edition_verse_id": "KJV1769:NUM.18.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "And this ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " thine; the heave offering of their gift, with all the wave offerings of the children of Israel: I have given them unto thee, and to thy sons and to thy daughters with thee, by a statute for ever: every one that is clean in thy house shall eat of it.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.18.12",
+      "edition_verse_id": "KJV1769:NUM.18.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "All the best of the oil, and all the best of the wine, and of the wheat, the firstfruits of them which they shall offer unto the LORD, them have I given thee.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.18.13",
+      "edition_verse_id": "KJV1769:NUM.18.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "And",
+          "kind": "supplied"
+        },
+        {
+          "text": " whatsoever is first ripe in the land, which they shall bring unto the LORD, shall be thine; every one that is clean in thine house shall eat ",
+          "kind": "text"
+        },
+        {
+          "text": "of",
+          "kind": "supplied"
+        },
+        {
+          "text": " it.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.18.14",
+      "edition_verse_id": "KJV1769:NUM.18.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "Every thing devoted in Israel shall be thine.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.18.15",
+      "edition_verse_id": "KJV1769:NUM.18.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "Every thing that openeth the matrix in all flesh, which they bring unto the LORD, ",
+          "kind": "text"
+        },
+        {
+          "text": "whether it be",
+          "kind": "supplied"
+        },
+        {
+          "text": " of men or beasts, shall be thine: nevertheless the firstborn of man shalt thou surely redeem, and the firstling of unclean beasts shalt thou redeem.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.18.16",
+      "edition_verse_id": "KJV1769:NUM.18.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "And those that are to be redeemed from a month old shalt thou redeem, according to thine estimation, for the money of five shekels, after the shekel of the sanctuary, which ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " twenty gerahs.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.18.17",
+      "edition_verse_id": "KJV1769:NUM.18.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "But the firstling of a cow, or the firstling of a sheep, or the firstling of a goat, thou shalt not redeem; they ",
+          "kind": "text"
+        },
+        {
+          "text": "are",
+          "kind": "supplied"
+        },
+        {
+          "text": " holy: thou shalt sprinkle their blood upon the altar, and shalt burn their fat ",
+          "kind": "text"
+        },
+        {
+          "text": "for",
+          "kind": "supplied"
+        },
+        {
+          "text": " an offering made by fire, for a sweet savour unto the LORD.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.18.18",
+      "edition_verse_id": "KJV1769:NUM.18.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "And the flesh of them shall be thine, as the wave breast and as the right shoulder are thine.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.18.19",
+      "edition_verse_id": "KJV1769:NUM.18.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "All the heave offerings of the holy things, which the children of Israel offer unto the LORD, have I given thee, and thy sons and thy daughters with thee, by a statute for ever: it ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " a covenant of salt for ever before the LORD unto thee and to thy seed with thee.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.18.20",
+      "edition_verse_id": "KJV1769:NUM.18.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "¶ And the LORD spake unto Aaron, Thou shalt have no inheritance in their land, neither shalt thou have any part among them: I ",
+          "kind": "text"
+        },
+        {
+          "text": "am",
+          "kind": "supplied"
+        },
+        {
+          "text": " thy part and thine inheritance among the children of Israel.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "NUM.18.21",
+      "edition_verse_id": "KJV1769:NUM.18.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "And, behold, I have given the children of Levi all the tenth in Israel for an inheritance, for their service which they serve, ",
+          "kind": "text"
+        },
+        {
+          "text": "even",
+          "kind": "supplied"
+        },
+        {
+          "text": " the service of the tabernacle of the congregation.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.18.22",
+      "edition_verse_id": "KJV1769:NUM.18.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "Neither must the children of Israel henceforth come nigh the tabernacle of the congregation, lest they bear sin, and die.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.18.23",
+      "edition_verse_id": "KJV1769:NUM.18.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "But the Levites shall do the service of the tabernacle of the congregation, and they shall bear their iniquity: ",
+          "kind": "text"
+        },
+        {
+          "text": "it shall be",
+          "kind": "supplied"
+        },
+        {
+          "text": " a statute for ever throughout your generations, that among the children of Israel they have no inheritance.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.18.24",
+      "edition_verse_id": "KJV1769:NUM.18.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "But the tithes of the children of Israel, which they offer ",
+          "kind": "text"
+        },
+        {
+          "text": "as",
+          "kind": "supplied"
+        },
+        {
+          "text": " an heave offering unto the LORD, I have given to the Levites to inherit: therefore I have said unto them, Among the children of Israel they shall have no inheritance.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.18.25",
+      "edition_verse_id": "KJV1769:NUM.18.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "¶ And the LORD spake unto Moses, saying,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "NUM.18.26",
+      "edition_verse_id": "KJV1769:NUM.18.26",
+      "verse": 26,
+      "spans": [
+        {
+          "text": "Thus speak unto the Levites, and say unto them, When ye take of the children of Israel the tithes which I have given you from them for your inheritance, then ye shall offer up an heave offering of it for the LORD, ",
+          "kind": "text"
+        },
+        {
+          "text": "even",
+          "kind": "supplied"
+        },
+        {
+          "text": " a tenth ",
+          "kind": "text"
+        },
+        {
+          "text": "part",
+          "kind": "supplied"
+        },
+        {
+          "text": " of the tithe.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.18.27",
+      "edition_verse_id": "KJV1769:NUM.18.27",
+      "verse": 27,
+      "spans": [
+        {
+          "text": "And ",
+          "kind": "text"
+        },
+        {
+          "text": "this",
+          "kind": "supplied"
+        },
+        {
+          "text": " your heave offering shall be reckoned unto you, as though ",
+          "kind": "text"
+        },
+        {
+          "text": "it were",
+          "kind": "supplied"
+        },
+        {
+          "text": " the corn of the threshingfloor, and as the fulness of the winepress.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.18.28",
+      "edition_verse_id": "KJV1769:NUM.18.28",
+      "verse": 28,
+      "spans": [
+        {
+          "text": "Thus ye also shall offer an heave offering unto the LORD of all your tithes, which ye receive of the children of Israel; and ye shall give thereof the LORD’s heave offering to Aaron the priest.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.18.29",
+      "edition_verse_id": "KJV1769:NUM.18.29",
+      "verse": 29,
+      "spans": [
+        {
+          "text": "Out of all your gifts ye shall offer every heave offering of the LORD, of all the best thereof, ",
+          "kind": "text"
+        },
+        {
+          "text": "even",
+          "kind": "supplied"
+        },
+        {
+          "text": " the hallowed part thereof out of it.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.18.30",
+      "edition_verse_id": "KJV1769:NUM.18.30",
+      "verse": 30,
+      "spans": [
+        {
+          "text": "Therefore thou shalt say unto them, When ye have heaved the best thereof from it, then it shall be counted unto the Levites as the increase of the threshingfloor, and as the increase of the winepress.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.18.31",
+      "edition_verse_id": "KJV1769:NUM.18.31",
+      "verse": 31,
+      "spans": [
+        {
+          "text": "And ye shall eat it in every place, ye and your households: for it ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " your reward for your service in the tabernacle of the congregation.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.18.32",
+      "edition_verse_id": "KJV1769:NUM.18.32",
+      "verse": 32,
+      "spans": [
+        {
+          "text": "And ye shall bear no sin by reason of it, when ye have heaved from it the best of it: neither shall ye pollute the holy things of the children of Israel, lest ye die.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

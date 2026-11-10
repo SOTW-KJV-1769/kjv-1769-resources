@@ -1,0 +1,376 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "KJV1769",
+  "book_code": "PSA",
+  "chapter": 10,
+  "verses": [
+    {
+      "id": "PSA.10.1",
+      "edition_verse_id": "KJV1769:PSA.10.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "Why standest thou afar off, O LORD? ",
+          "kind": "text"
+        },
+        {
+          "text": "why",
+          "kind": "supplied"
+        },
+        {
+          "text": " hidest thou ",
+          "kind": "text"
+        },
+        {
+          "text": "thyself",
+          "kind": "supplied"
+        },
+        {
+          "text": " in times of trouble?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.10.2",
+      "edition_verse_id": "KJV1769:PSA.10.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "The wicked in ",
+          "kind": "text"
+        },
+        {
+          "text": "his",
+          "kind": "supplied"
+        },
+        {
+          "text": " pride doth persecute the poor: let them be taken in the devices that they have imagined.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.10.3",
+      "edition_verse_id": "KJV1769:PSA.10.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "For the wicked boasteth of his heart’s desire, and blesseth the covetous, ",
+          "kind": "text"
+        },
+        {
+          "text": "whom",
+          "kind": "supplied"
+        },
+        {
+          "text": " the LORD abhorreth.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.10.4",
+      "edition_verse_id": "KJV1769:PSA.10.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "The wicked, through the pride of his countenance, will not seek ",
+          "kind": "text"
+        },
+        {
+          "text": "after God:",
+          "kind": "supplied"
+        },
+        {
+          "text": " God ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " not in all his thoughts.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.10.5",
+      "edition_verse_id": "KJV1769:PSA.10.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "His ways are always grievous; thy judgments ",
+          "kind": "text"
+        },
+        {
+          "text": "are",
+          "kind": "supplied"
+        },
+        {
+          "text": " far above out of his sight: ",
+          "kind": "text"
+        },
+        {
+          "text": "as for",
+          "kind": "supplied"
+        },
+        {
+          "text": " all his enemies, he puffeth at them.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.10.6",
+      "edition_verse_id": "KJV1769:PSA.10.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "He hath said in his heart, I shall not be moved: for ",
+          "kind": "text"
+        },
+        {
+          "text": "I shall",
+          "kind": "supplied"
+        },
+        {
+          "text": " never ",
+          "kind": "text"
+        },
+        {
+          "text": "be",
+          "kind": "supplied"
+        },
+        {
+          "text": " in adversity.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.10.7",
+      "edition_verse_id": "KJV1769:PSA.10.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "His mouth is full of cursing and deceit and fraud: under his tongue ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " mischief and vanity.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.10.8",
+      "edition_verse_id": "KJV1769:PSA.10.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "He sitteth in the lurking places of the villages: in the secret places doth he murder the innocent: his eyes are privily set against the poor.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.10.9",
+      "edition_verse_id": "KJV1769:PSA.10.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "He lieth in wait secretly as a lion in his den: he lieth in wait to catch the poor: he doth catch the poor, when he draweth him into his net.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.10.10",
+      "edition_verse_id": "KJV1769:PSA.10.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "He croucheth, ",
+          "kind": "text"
+        },
+        {
+          "text": "and",
+          "kind": "supplied"
+        },
+        {
+          "text": " humbleth himself, that the poor may fall by his strong ones.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.10.11",
+      "edition_verse_id": "KJV1769:PSA.10.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "He hath said in his heart, God hath forgotten: he hideth his face; he will never see ",
+          "kind": "text"
+        },
+        {
+          "text": "it",
+          "kind": "supplied"
+        },
+        {
+          "text": ".",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.10.12",
+      "edition_verse_id": "KJV1769:PSA.10.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "Arise, O LORD; O God, lift up thine hand: forget not the humble.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.10.13",
+      "edition_verse_id": "KJV1769:PSA.10.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "Wherefore doth the wicked contemn God? he hath said in his heart, Thou wilt not require ",
+          "kind": "text"
+        },
+        {
+          "text": "it",
+          "kind": "supplied"
+        },
+        {
+          "text": ".",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.10.14",
+      "edition_verse_id": "KJV1769:PSA.10.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "Thou hast seen ",
+          "kind": "text"
+        },
+        {
+          "text": "it;",
+          "kind": "supplied"
+        },
+        {
+          "text": " for thou beholdest mischief and spite, to requite ",
+          "kind": "text"
+        },
+        {
+          "text": "it",
+          "kind": "supplied"
+        },
+        {
+          "text": " with thy hand: the poor committeth himself unto thee; thou art the helper of the fatherless.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.10.15",
+      "edition_verse_id": "KJV1769:PSA.10.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "Break thou the arm of the wicked and the evil ",
+          "kind": "text"
+        },
+        {
+          "text": "man:",
+          "kind": "supplied"
+        },
+        {
+          "text": " seek out his wickedness ",
+          "kind": "text"
+        },
+        {
+          "text": "till",
+          "kind": "supplied"
+        },
+        {
+          "text": " thou find none.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.10.16",
+      "edition_verse_id": "KJV1769:PSA.10.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "The LORD ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " King for ever and ever: the heathen are perished out of his land.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.10.17",
+      "edition_verse_id": "KJV1769:PSA.10.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "LORD, thou hast heard the desire of the humble: thou wilt prepare their heart, thou wilt cause thine ear to hear:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.10.18",
+      "edition_verse_id": "KJV1769:PSA.10.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "To judge the fatherless and the oppressed, that the man of the earth may no more oppress.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

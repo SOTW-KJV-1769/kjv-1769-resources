@@ -1,0 +1,484 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "KJV1769",
+  "book_code": "PRO",
+  "chapter": 18,
+  "verses": [
+    {
+      "id": "PRO.18.1",
+      "edition_verse_id": "KJV1769:PRO.18.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "Through desire a man, having separated himself, seeketh ",
+          "kind": "text"
+        },
+        {
+          "text": "and",
+          "kind": "supplied"
+        },
+        {
+          "text": " intermeddleth with all wisdom.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PRO.18.2",
+      "edition_verse_id": "KJV1769:PRO.18.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "A fool hath no delight in understanding, but that his heart may discover itself.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.18.3",
+      "edition_verse_id": "KJV1769:PRO.18.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "When the wicked cometh, ",
+          "kind": "text"
+        },
+        {
+          "text": "then",
+          "kind": "supplied"
+        },
+        {
+          "text": " cometh also contempt, and with ignominy reproach.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.18.4",
+      "edition_verse_id": "KJV1769:PRO.18.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "The words of a man’s mouth ",
+          "kind": "text"
+        },
+        {
+          "text": "are as",
+          "kind": "supplied"
+        },
+        {
+          "text": " deep waters, ",
+          "kind": "text"
+        },
+        {
+          "text": "and",
+          "kind": "supplied"
+        },
+        {
+          "text": " the wellspring of wisdom ",
+          "kind": "text"
+        },
+        {
+          "text": "as",
+          "kind": "supplied"
+        },
+        {
+          "text": " a flowing brook.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.18.5",
+      "edition_verse_id": "KJV1769:PRO.18.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "It is",
+          "kind": "supplied"
+        },
+        {
+          "text": " not good to accept the person of the wicked, to overthrow the righteous in judgment.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.18.6",
+      "edition_verse_id": "KJV1769:PRO.18.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "A fool’s lips enter into contention, and his mouth calleth for strokes.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PRO.18.7",
+      "edition_verse_id": "KJV1769:PRO.18.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "A fool’s mouth ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " his destruction, and his lips ",
+          "kind": "text"
+        },
+        {
+          "text": "are",
+          "kind": "supplied"
+        },
+        {
+          "text": " the snare of his soul.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.18.8",
+      "edition_verse_id": "KJV1769:PRO.18.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "The words of a talebearer ",
+          "kind": "text"
+        },
+        {
+          "text": "are",
+          "kind": "supplied"
+        },
+        {
+          "text": " as wounds, and they go down into the innermost parts of the belly.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.18.9",
+      "edition_verse_id": "KJV1769:PRO.18.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "He also that is slothful in his work is brother to him that is a great waster.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.18.10",
+      "edition_verse_id": "KJV1769:PRO.18.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "The name of the LORD ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " a strong tower: the righteous runneth into it, and is safe.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.18.11",
+      "edition_verse_id": "KJV1769:PRO.18.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "The rich man’s wealth ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " his strong city, and as an high wall in his own conceit.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.18.12",
+      "edition_verse_id": "KJV1769:PRO.18.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "Before destruction the heart of man is haughty, and before honour ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " humility.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.18.13",
+      "edition_verse_id": "KJV1769:PRO.18.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "He that answereth a matter before he heareth ",
+          "kind": "text"
+        },
+        {
+          "text": "it",
+          "kind": "supplied"
+        },
+        {
+          "text": ", it ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " folly and shame unto him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.18.14",
+      "edition_verse_id": "KJV1769:PRO.18.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "The spirit of a man will sustain his infirmity; but a wounded spirit who can bear?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.18.15",
+      "edition_verse_id": "KJV1769:PRO.18.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "The heart of the prudent getteth knowledge; and the ear of the wise seeketh knowledge.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.18.16",
+      "edition_verse_id": "KJV1769:PRO.18.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "A man’s gift maketh room for him, and bringeth him before great men.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.18.17",
+      "edition_verse_id": "KJV1769:PRO.18.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "He that is",
+          "kind": "supplied"
+        },
+        {
+          "text": " first in his own cause ",
+          "kind": "text"
+        },
+        {
+          "text": "seemeth",
+          "kind": "supplied"
+        },
+        {
+          "text": " just; but his neighbour cometh and searcheth him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.18.18",
+      "edition_verse_id": "KJV1769:PRO.18.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "The lot causeth contentions to cease, and parteth between the mighty.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.18.19",
+      "edition_verse_id": "KJV1769:PRO.18.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "A brother offended ",
+          "kind": "text"
+        },
+        {
+          "text": "is harder to be won",
+          "kind": "supplied"
+        },
+        {
+          "text": " than a strong city: and ",
+          "kind": "text"
+        },
+        {
+          "text": "their",
+          "kind": "supplied"
+        },
+        {
+          "text": " contentions ",
+          "kind": "text"
+        },
+        {
+          "text": "are",
+          "kind": "supplied"
+        },
+        {
+          "text": " like the bars of a castle.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.18.20",
+      "edition_verse_id": "KJV1769:PRO.18.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "A man’s belly shall be satisfied with the fruit of his mouth; ",
+          "kind": "text"
+        },
+        {
+          "text": "and",
+          "kind": "supplied"
+        },
+        {
+          "text": " with the increase of his lips shall he be filled.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.18.21",
+      "edition_verse_id": "KJV1769:PRO.18.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "Death and life ",
+          "kind": "text"
+        },
+        {
+          "text": "are",
+          "kind": "supplied"
+        },
+        {
+          "text": " in the power of the tongue: and they that love it shall eat the fruit thereof.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.18.22",
+      "edition_verse_id": "KJV1769:PRO.18.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "Whoso",
+          "kind": "supplied"
+        },
+        {
+          "text": " findeth a wife findeth a good ",
+          "kind": "text"
+        },
+        {
+          "text": "thing",
+          "kind": "supplied"
+        },
+        {
+          "text": ", and obtaineth favour of the LORD.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.18.23",
+      "edition_verse_id": "KJV1769:PRO.18.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "The poor useth intreaties; but the rich answereth roughly.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.18.24",
+      "edition_verse_id": "KJV1769:PRO.18.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "A man ",
+          "kind": "text"
+        },
+        {
+          "text": "that hath",
+          "kind": "supplied"
+        },
+        {
+          "text": " friends must shew himself friendly: and there is a friend ",
+          "kind": "text"
+        },
+        {
+          "text": "that",
+          "kind": "supplied"
+        },
+        {
+          "text": " sticketh closer than a brother.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

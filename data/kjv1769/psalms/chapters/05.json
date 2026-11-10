@@ -1,0 +1,216 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "KJV1769",
+  "book_code": "PSA",
+  "chapter": 5,
+  "verses": [
+    {
+      "id": "PSA.5.1",
+      "edition_verse_id": "KJV1769:PSA.5.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "Give ear to my words, O LORD, consider my meditation.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.5.2",
+      "edition_verse_id": "KJV1769:PSA.5.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "Hearken unto the voice of my cry, my King, and my God: for unto thee will I pray.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.5.3",
+      "edition_verse_id": "KJV1769:PSA.5.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "My voice shalt thou hear in the morning, O LORD; in the morning will I direct ",
+          "kind": "text"
+        },
+        {
+          "text": "my prayer",
+          "kind": "supplied"
+        },
+        {
+          "text": " unto thee, and will look up.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.5.4",
+      "edition_verse_id": "KJV1769:PSA.5.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "For thou ",
+          "kind": "text"
+        },
+        {
+          "text": "art",
+          "kind": "supplied"
+        },
+        {
+          "text": " not a God that hath pleasure in wickedness: neither shall evil dwell with thee.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.5.5",
+      "edition_verse_id": "KJV1769:PSA.5.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "The foolish shall not stand in thy sight: thou hatest all workers of iniquity.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.5.6",
+      "edition_verse_id": "KJV1769:PSA.5.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "Thou shalt destroy them that speak leasing: the LORD will abhor the bloody and deceitful man.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.5.7",
+      "edition_verse_id": "KJV1769:PSA.5.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "But as for me, I will come ",
+          "kind": "text"
+        },
+        {
+          "text": "into",
+          "kind": "supplied"
+        },
+        {
+          "text": " thy house in the multitude of thy mercy: ",
+          "kind": "text"
+        },
+        {
+          "text": "and",
+          "kind": "supplied"
+        },
+        {
+          "text": " in thy fear will I worship toward thy holy temple.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.5.8",
+      "edition_verse_id": "KJV1769:PSA.5.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "Lead me, O LORD, in thy righteousness because of mine enemies; make thy way straight before my face.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.5.9",
+      "edition_verse_id": "KJV1769:PSA.5.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "For ",
+          "kind": "text"
+        },
+        {
+          "text": "there is",
+          "kind": "supplied"
+        },
+        {
+          "text": " no faithfulness in their mouth; their inward part ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " very wickedness; their throat ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " an open sepulchre; they flatter with their tongue.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.5.10",
+      "edition_verse_id": "KJV1769:PSA.5.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "Destroy thou them, O God; let them fall by their own counsels; cast them out in the multitude of their transgressions; for they have rebelled against thee.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.5.11",
+      "edition_verse_id": "KJV1769:PSA.5.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "But let all those that put their trust in thee rejoice: let them ever shout for joy, because thou defendest them: let them also that love thy name be joyful in thee.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.5.12",
+      "edition_verse_id": "KJV1769:PSA.5.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "For thou, LORD, wilt bless the righteous; with favour wilt thou compass him as ",
+          "kind": "text"
+        },
+        {
+          "text": "with",
+          "kind": "supplied"
+        },
+        {
+          "text": " a shield.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

@@ -1,0 +1,152 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "KJV1769",
+  "book_code": "PSA",
+  "chapter": 6,
+  "verses": [
+    {
+      "id": "PSA.6.1",
+      "edition_verse_id": "KJV1769:PSA.6.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "O LORD, rebuke me not in thine anger, neither chasten me in thy hot displeasure.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.6.2",
+      "edition_verse_id": "KJV1769:PSA.6.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "Have mercy upon me, O LORD; for I ",
+          "kind": "text"
+        },
+        {
+          "text": "am",
+          "kind": "supplied"
+        },
+        {
+          "text": " weak: O LORD, heal me; for my bones are vexed.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.6.3",
+      "edition_verse_id": "KJV1769:PSA.6.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "My soul is also sore vexed: but thou, O LORD, how long?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.6.4",
+      "edition_verse_id": "KJV1769:PSA.6.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "Return, O LORD, deliver my soul: oh save me for thy mercies’ sake.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.6.5",
+      "edition_verse_id": "KJV1769:PSA.6.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "For in death ",
+          "kind": "text"
+        },
+        {
+          "text": "there is",
+          "kind": "supplied"
+        },
+        {
+          "text": " no remembrance of thee: in the grave who shall give thee thanks?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.6.6",
+      "edition_verse_id": "KJV1769:PSA.6.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "I am weary with my groaning; all the night make I my bed to swim; I water my couch with my tears.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.6.7",
+      "edition_verse_id": "KJV1769:PSA.6.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "Mine eye is consumed because of grief; it waxeth old because of all mine enemies.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.6.8",
+      "edition_verse_id": "KJV1769:PSA.6.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "Depart from me, all ye workers of iniquity; for the LORD hath heard the voice of my weeping.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.6.9",
+      "edition_verse_id": "KJV1769:PSA.6.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "The LORD hath heard my supplication; the LORD will receive my prayer.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.6.10",
+      "edition_verse_id": "KJV1769:PSA.6.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "Let all mine enemies be ashamed and sore vexed: let them return ",
+          "kind": "text"
+        },
+        {
+          "text": "and",
+          "kind": "supplied"
+        },
+        {
+          "text": " be ashamed suddenly.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

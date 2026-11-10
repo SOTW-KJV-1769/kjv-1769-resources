@@ -1,0 +1,380 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "KJV1769",
+  "book_code": "PSA",
+  "chapter": 103,
+  "verses": [
+    {
+      "id": "PSA.103.1",
+      "edition_verse_id": "KJV1769:PSA.103.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "Bless the LORD, O my soul: and all that is within me, ",
+          "kind": "text"
+        },
+        {
+          "text": "bless",
+          "kind": "supplied"
+        },
+        {
+          "text": " his holy name.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.103.2",
+      "edition_verse_id": "KJV1769:PSA.103.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "Bless the LORD, O my soul, and forget not all his benefits:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.103.3",
+      "edition_verse_id": "KJV1769:PSA.103.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "Who forgiveth all thine iniquities; who healeth all thy diseases;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.103.4",
+      "edition_verse_id": "KJV1769:PSA.103.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "Who redeemeth thy life from destruction; who crowneth thee with lovingkindness and tender mercies;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.103.5",
+      "edition_verse_id": "KJV1769:PSA.103.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "Who satisfieth thy mouth with good ",
+          "kind": "text"
+        },
+        {
+          "text": "things; so that",
+          "kind": "supplied"
+        },
+        {
+          "text": " thy youth is renewed like the eagle’s.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.103.6",
+      "edition_verse_id": "KJV1769:PSA.103.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "The LORD executeth righteousness and judgment for all that are oppressed.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.103.7",
+      "edition_verse_id": "KJV1769:PSA.103.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "He made known his ways unto Moses, his acts unto the children of Israel.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.103.8",
+      "edition_verse_id": "KJV1769:PSA.103.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "The LORD ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " merciful and gracious, slow to anger, and plenteous in mercy.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.103.9",
+      "edition_verse_id": "KJV1769:PSA.103.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "He will not always chide: neither will he keep ",
+          "kind": "text"
+        },
+        {
+          "text": "his anger",
+          "kind": "supplied"
+        },
+        {
+          "text": " for ever.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.103.10",
+      "edition_verse_id": "KJV1769:PSA.103.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "He hath not dealt with us after our sins; nor rewarded us according to our iniquities.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.103.11",
+      "edition_verse_id": "KJV1769:PSA.103.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "For as the heaven is high above the earth, ",
+          "kind": "text"
+        },
+        {
+          "text": "so",
+          "kind": "supplied"
+        },
+        {
+          "text": " great is his mercy toward them that fear him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.103.12",
+      "edition_verse_id": "KJV1769:PSA.103.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "As far as the east is from the west, ",
+          "kind": "text"
+        },
+        {
+          "text": "so",
+          "kind": "supplied"
+        },
+        {
+          "text": " far hath he removed our transgressions from us.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.103.13",
+      "edition_verse_id": "KJV1769:PSA.103.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "Like as a father pitieth ",
+          "kind": "text"
+        },
+        {
+          "text": "his",
+          "kind": "supplied"
+        },
+        {
+          "text": " children, ",
+          "kind": "text"
+        },
+        {
+          "text": "so",
+          "kind": "supplied"
+        },
+        {
+          "text": " the LORD pitieth them that fear him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.103.14",
+      "edition_verse_id": "KJV1769:PSA.103.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "For he knoweth our frame; he remembereth that we ",
+          "kind": "text"
+        },
+        {
+          "text": "are",
+          "kind": "supplied"
+        },
+        {
+          "text": " dust.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.103.15",
+      "edition_verse_id": "KJV1769:PSA.103.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "As for",
+          "kind": "supplied"
+        },
+        {
+          "text": " man, his days ",
+          "kind": "text"
+        },
+        {
+          "text": "are",
+          "kind": "supplied"
+        },
+        {
+          "text": " as grass: as a flower of the field, so he flourisheth.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.103.16",
+      "edition_verse_id": "KJV1769:PSA.103.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "For the wind passeth over it, and it is gone; and the place thereof shall know it no more.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.103.17",
+      "edition_verse_id": "KJV1769:PSA.103.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "But the mercy of the LORD ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " from everlasting to everlasting upon them that fear him, and his righteousness unto children’s children;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.103.18",
+      "edition_verse_id": "KJV1769:PSA.103.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "To such as keep his covenant, and to those that remember his commandments to do them.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.103.19",
+      "edition_verse_id": "KJV1769:PSA.103.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "The LORD hath prepared his throne in the heavens; and his kingdom ruleth over all.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.103.20",
+      "edition_verse_id": "KJV1769:PSA.103.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "Bless the LORD, ye his angels, that excel in strength, that do his commandments, hearkening unto the voice of his word.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.103.21",
+      "edition_verse_id": "KJV1769:PSA.103.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "Bless ye the LORD, all ",
+          "kind": "text"
+        },
+        {
+          "text": "ye",
+          "kind": "supplied"
+        },
+        {
+          "text": " his hosts; ",
+          "kind": "text"
+        },
+        {
+          "text": "ye",
+          "kind": "supplied"
+        },
+        {
+          "text": " ministers of his, that do his pleasure.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.103.22",
+      "edition_verse_id": "KJV1769:PSA.103.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "Bless the LORD, all his works in all places of his dominion: bless the LORD, O my soul.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}
