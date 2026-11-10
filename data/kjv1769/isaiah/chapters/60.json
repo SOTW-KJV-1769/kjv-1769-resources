@@ -1,0 +1,352 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "KJV1769",
+  "book_code": "ISA",
+  "chapter": 60,
+  "verses": [
+    {
+      "id": "ISA.60.1",
+      "edition_verse_id": "KJV1769:ISA.60.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "Arise, shine; for thy light is come, and the glory of the LORD is risen upon thee.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ISA.60.2",
+      "edition_verse_id": "KJV1769:ISA.60.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "For, behold, the darkness shall cover the earth, and gross darkness the people: but the LORD shall arise upon thee, and his glory shall be seen upon thee.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.60.3",
+      "edition_verse_id": "KJV1769:ISA.60.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "And the Gentiles shall come to thy light, and kings to the brightness of thy rising.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.60.4",
+      "edition_verse_id": "KJV1769:ISA.60.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "Lift up thine eyes round about, and see: all they gather themselves together, they come to thee: thy sons shall come from far, and thy daughters shall be nursed at ",
+          "kind": "text"
+        },
+        {
+          "text": "thy",
+          "kind": "supplied"
+        },
+        {
+          "text": " side.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.60.5",
+      "edition_verse_id": "KJV1769:ISA.60.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "Then thou shalt see, and flow together, and thine heart shall fear, and be enlarged; because the abundance of the sea shall be converted unto thee, the forces of the Gentiles shall come unto thee.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.60.6",
+      "edition_verse_id": "KJV1769:ISA.60.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "The multitude of camels shall cover thee, the dromedaries of Midian and Ephah; all they from Sheba shall come: they shall bring gold and incense; and they shall shew forth the praises of the LORD.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.60.7",
+      "edition_verse_id": "KJV1769:ISA.60.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "All the flocks of Kedar shall be gathered together unto thee, the rams of Nebaioth shall minister unto thee: they shall come up with acceptance on mine altar, and I will glorify the house of my glory.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.60.8",
+      "edition_verse_id": "KJV1769:ISA.60.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "Who ",
+          "kind": "text"
+        },
+        {
+          "text": "are",
+          "kind": "supplied"
+        },
+        {
+          "text": " these ",
+          "kind": "text"
+        },
+        {
+          "text": "that",
+          "kind": "supplied"
+        },
+        {
+          "text": " fly as a cloud, and as the doves to their windows?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.60.9",
+      "edition_verse_id": "KJV1769:ISA.60.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "Surely the isles shall wait for me, and the ships of Tarshish first, to bring thy sons from far, their silver and their gold with them, unto the name of the LORD thy God, and to the Holy One of Israel, because he hath glorified thee.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ISA.60.10",
+      "edition_verse_id": "KJV1769:ISA.60.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "And the sons of strangers shall build up thy walls, and their kings shall minister unto thee: for in my wrath I smote thee, but in my favour have I had mercy on thee.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.60.11",
+      "edition_verse_id": "KJV1769:ISA.60.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "Therefore thy gates shall be open continually; they shall not be shut day nor night; that ",
+          "kind": "text"
+        },
+        {
+          "text": "men",
+          "kind": "supplied"
+        },
+        {
+          "text": " may bring unto thee the forces of the Gentiles, and ",
+          "kind": "text"
+        },
+        {
+          "text": "that",
+          "kind": "supplied"
+        },
+        {
+          "text": " their kings ",
+          "kind": "text"
+        },
+        {
+          "text": "may be",
+          "kind": "supplied"
+        },
+        {
+          "text": " brought.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.60.12",
+      "edition_verse_id": "KJV1769:ISA.60.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "For the nation and kingdom that will not serve thee shall perish; yea, ",
+          "kind": "text"
+        },
+        {
+          "text": "those",
+          "kind": "supplied"
+        },
+        {
+          "text": " nations shall be utterly wasted.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.60.13",
+      "edition_verse_id": "KJV1769:ISA.60.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "The glory of Lebanon shall come unto thee, the fir tree, the pine tree, and the box together, to beautify the place of my sanctuary; and I will make the place of my feet glorious.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.60.14",
+      "edition_verse_id": "KJV1769:ISA.60.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "The sons also of them that afflicted thee shall come bending unto thee; and all they that despised thee shall bow themselves down at the soles of thy feet; and they shall call thee, The city of the LORD, The Zion of the Holy One of Israel.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.60.15",
+      "edition_verse_id": "KJV1769:ISA.60.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "Whereas thou hast been forsaken and hated, so that no man went through ",
+          "kind": "text"
+        },
+        {
+          "text": "thee",
+          "kind": "supplied"
+        },
+        {
+          "text": ", I will make thee an eternal excellency, a joy of many generations.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ISA.60.16",
+      "edition_verse_id": "KJV1769:ISA.60.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "Thou shalt also suck the milk of the Gentiles, and shalt suck the breast of kings: and thou shalt know that I the LORD ",
+          "kind": "text"
+        },
+        {
+          "text": "am",
+          "kind": "supplied"
+        },
+        {
+          "text": " thy Saviour and thy Redeemer, the mighty One of Jacob.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.60.17",
+      "edition_verse_id": "KJV1769:ISA.60.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "For brass I will bring gold, and for iron I will bring silver, and for wood brass, and for stones iron: I will also make thy officers peace, and thine exactors righteousness.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.60.18",
+      "edition_verse_id": "KJV1769:ISA.60.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "Violence shall no more be heard in thy land, wasting nor destruction within thy borders; but thou shalt call thy walls Salvation, and thy gates Praise.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.60.19",
+      "edition_verse_id": "KJV1769:ISA.60.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "The sun shall be no more thy light by day; neither for brightness shall the moon give light unto thee: but the LORD shall be unto thee an everlasting light, and thy God thy glory.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.60.20",
+      "edition_verse_id": "KJV1769:ISA.60.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "Thy sun shall no more go down; neither shall thy moon withdraw itself: for the LORD shall be thine everlasting light, and the days of thy mourning shall be ended.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.60.21",
+      "edition_verse_id": "KJV1769:ISA.60.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "Thy people also ",
+          "kind": "text"
+        },
+        {
+          "text": "shall be",
+          "kind": "supplied"
+        },
+        {
+          "text": " all righteous: they shall inherit the land for ever, the branch of my planting, the work of my hands, that I may be glorified.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.60.22",
+      "edition_verse_id": "KJV1769:ISA.60.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "A little one shall become a thousand, and a small one a strong nation: I the LORD will hasten it in his time.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

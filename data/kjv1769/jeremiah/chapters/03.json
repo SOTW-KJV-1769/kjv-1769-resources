@@ -1,0 +1,468 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "KJV1769",
+  "book_code": "JER",
+  "chapter": 3,
+  "verses": [
+    {
+      "id": "JER.3.1",
+      "edition_verse_id": "KJV1769:JER.3.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "They say, If a man put away his wife, and she go from him, and become another man’s, shall he return unto her again? shall not that land be greatly polluted? but thou hast played the harlot with many lovers; yet return again to me, saith the LORD.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JER.3.2",
+      "edition_verse_id": "KJV1769:JER.3.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "Lift up thine eyes unto the high places, and see where thou hast not been lien with. In the ways hast thou sat for them, as the Arabian in the wilderness; and thou hast polluted the land with thy whoredoms and with thy wickedness.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JER.3.3",
+      "edition_verse_id": "KJV1769:JER.3.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "Therefore the showers have been withholden, and there hath been no latter rain; and thou hadst a whore’s forehead, thou refusedst to be ashamed.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JER.3.4",
+      "edition_verse_id": "KJV1769:JER.3.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "Wilt thou not from this time cry unto me, My father, thou ",
+          "kind": "text"
+        },
+        {
+          "text": "art",
+          "kind": "supplied"
+        },
+        {
+          "text": " the guide of my youth?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JER.3.5",
+      "edition_verse_id": "KJV1769:JER.3.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "Will he reserve ",
+          "kind": "text"
+        },
+        {
+          "text": "his anger",
+          "kind": "supplied"
+        },
+        {
+          "text": " for ever? will he keep ",
+          "kind": "text"
+        },
+        {
+          "text": "it",
+          "kind": "supplied"
+        },
+        {
+          "text": " to the end? Behold, thou hast spoken and done evil things as thou couldest.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JER.3.6",
+      "edition_verse_id": "KJV1769:JER.3.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "¶ The LORD said also unto me in the days of Josiah the king, Hast thou seen ",
+          "kind": "text"
+        },
+        {
+          "text": "that",
+          "kind": "supplied"
+        },
+        {
+          "text": " which backsliding Israel hath done? she is gone up upon every high mountain and under every green tree, and there hath played the harlot.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JER.3.7",
+      "edition_verse_id": "KJV1769:JER.3.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "And I said after she had done all these ",
+          "kind": "text"
+        },
+        {
+          "text": "things",
+          "kind": "supplied"
+        },
+        {
+          "text": ", Turn thou unto me. But she returned not. And her treacherous sister Judah saw ",
+          "kind": "text"
+        },
+        {
+          "text": "it",
+          "kind": "supplied"
+        },
+        {
+          "text": ".",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JER.3.8",
+      "edition_verse_id": "KJV1769:JER.3.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "And I saw, when for all the causes whereby backsliding Israel committed adultery I had put her away, and given her a bill of divorce; yet her treacherous sister Judah feared not, but went and played the harlot also.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JER.3.9",
+      "edition_verse_id": "KJV1769:JER.3.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "And it came to pass through the lightness of her whoredom, that she defiled the land, and committed adultery with stones and with stocks.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JER.3.10",
+      "edition_verse_id": "KJV1769:JER.3.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "And yet for all this her treacherous sister Judah hath not turned unto me with her whole heart, but feignedly, saith the LORD.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JER.3.11",
+      "edition_verse_id": "KJV1769:JER.3.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "And the LORD said unto me, The backsliding Israel hath justified herself more than treacherous Judah.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JER.3.12",
+      "edition_verse_id": "KJV1769:JER.3.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "¶ Go and proclaim these words toward the north, and say, Return, thou backsliding Israel, saith the LORD; ",
+          "kind": "text"
+        },
+        {
+          "text": "and",
+          "kind": "supplied"
+        },
+        {
+          "text": " I will not cause mine anger to fall upon you: for I ",
+          "kind": "text"
+        },
+        {
+          "text": "am",
+          "kind": "supplied"
+        },
+        {
+          "text": " merciful, saith the LORD, ",
+          "kind": "text"
+        },
+        {
+          "text": "and",
+          "kind": "supplied"
+        },
+        {
+          "text": " I will not keep ",
+          "kind": "text"
+        },
+        {
+          "text": "anger",
+          "kind": "supplied"
+        },
+        {
+          "text": " for ever.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JER.3.13",
+      "edition_verse_id": "KJV1769:JER.3.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "Only acknowledge thine iniquity, that thou hast transgressed against the LORD thy God, and hast scattered thy ways to the strangers under every green tree, and ye have not obeyed my voice, saith the LORD.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JER.3.14",
+      "edition_verse_id": "KJV1769:JER.3.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "Turn, O backsliding children, saith the LORD; for I am married unto you: and I will take you one of a city, and two of a family, and I will bring you to Zion:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JER.3.15",
+      "edition_verse_id": "KJV1769:JER.3.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "And I will give you pastors according to mine heart, which shall feed you with knowledge and understanding.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JER.3.16",
+      "edition_verse_id": "KJV1769:JER.3.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "And it shall come to pass, when ye be multiplied and increased in the land, in those days, saith the LORD, they shall say no more, The ark of the covenant of the LORD: neither shall it come to mind: neither shall they remember it; neither shall they visit ",
+          "kind": "text"
+        },
+        {
+          "text": "it;",
+          "kind": "supplied"
+        },
+        {
+          "text": " neither shall ",
+          "kind": "text"
+        },
+        {
+          "text": "that",
+          "kind": "supplied"
+        },
+        {
+          "text": " be done any more.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JER.3.17",
+      "edition_verse_id": "KJV1769:JER.3.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "At that time they shall call Jerusalem the throne of the LORD; and all the nations shall be gathered unto it, to the name of the LORD, to Jerusalem: neither shall they walk any more after the imagination of their evil heart.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JER.3.18",
+      "edition_verse_id": "KJV1769:JER.3.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "In those days the house of Judah shall walk with the house of Israel, and they shall come together out of the land of the north to the land that I have given for an inheritance unto your fathers.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JER.3.19",
+      "edition_verse_id": "KJV1769:JER.3.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "But I said, How shall I put thee among the children, and give thee a pleasant land, a goodly heritage of the hosts of nations? and I said, Thou shalt call me, My father; and shalt not turn away from me.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JER.3.20",
+      "edition_verse_id": "KJV1769:JER.3.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "¶ Surely ",
+          "kind": "text"
+        },
+        {
+          "text": "as",
+          "kind": "supplied"
+        },
+        {
+          "text": " a wife treacherously departeth from her husband, so have ye dealt treacherously with me, O house of Israel, saith the LORD.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JER.3.21",
+      "edition_verse_id": "KJV1769:JER.3.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "A voice was heard upon the high places, weeping ",
+          "kind": "text"
+        },
+        {
+          "text": "and",
+          "kind": "supplied"
+        },
+        {
+          "text": " supplications of the children of Israel: for they have perverted their way, ",
+          "kind": "text"
+        },
+        {
+          "text": "and",
+          "kind": "supplied"
+        },
+        {
+          "text": " they have forgotten the LORD their God.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JER.3.22",
+      "edition_verse_id": "KJV1769:JER.3.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "Return, ye backsliding children, ",
+          "kind": "text"
+        },
+        {
+          "text": "and",
+          "kind": "supplied"
+        },
+        {
+          "text": " I will heal your backslidings. Behold, we come unto thee; for thou ",
+          "kind": "text"
+        },
+        {
+          "text": "art",
+          "kind": "supplied"
+        },
+        {
+          "text": " the LORD our God.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JER.3.23",
+      "edition_verse_id": "KJV1769:JER.3.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "Truly in vain ",
+          "kind": "text"
+        },
+        {
+          "text": "is salvation hoped for",
+          "kind": "supplied"
+        },
+        {
+          "text": " from the hills, ",
+          "kind": "text"
+        },
+        {
+          "text": "and from",
+          "kind": "supplied"
+        },
+        {
+          "text": " the multitude of mountains: truly in the LORD our God ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " the salvation of Israel.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JER.3.24",
+      "edition_verse_id": "KJV1769:JER.3.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "For shame hath devoured the labour of our fathers from our youth; their flocks and their herds, their sons and their daughters.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JER.3.25",
+      "edition_verse_id": "KJV1769:JER.3.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "We lie down in our shame, and our confusion covereth us: for we have sinned against the LORD our God, we and our fathers, from our youth even unto this day, and have not obeyed the voice of the LORD our God.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

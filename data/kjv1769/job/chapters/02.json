@@ -1,0 +1,188 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "KJV1769",
+  "book_code": "JOB",
+  "chapter": 2,
+  "verses": [
+    {
+      "id": "JOB.2.1",
+      "edition_verse_id": "KJV1769:JOB.2.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "Again there was a day when the sons of God came to present themselves before the LORD, and Satan came also among them to present himself before the LORD.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOB.2.2",
+      "edition_verse_id": "KJV1769:JOB.2.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "And the LORD said unto Satan, From whence comest thou? And Satan answered the LORD, and said, From going to and fro in the earth, and from walking up and down in it.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.2.3",
+      "edition_verse_id": "KJV1769:JOB.2.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "And the LORD said unto Satan, Hast thou considered my servant Job, that ",
+          "kind": "text"
+        },
+        {
+          "text": "there is",
+          "kind": "supplied"
+        },
+        {
+          "text": " none like him in the earth, a perfect and an upright man, one that feareth God, and escheweth evil? and still he holdeth fast his integrity, although thou movedst me against him, to destroy him without cause.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.2.4",
+      "edition_verse_id": "KJV1769:JOB.2.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "And Satan answered the LORD, and said, Skin for skin, yea, all that a man hath will he give for his life.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.2.5",
+      "edition_verse_id": "KJV1769:JOB.2.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "But put forth thine hand now, and touch his bone and his flesh, and he will curse thee to thy face.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.2.6",
+      "edition_verse_id": "KJV1769:JOB.2.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "And the LORD said unto Satan, Behold, he ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " in thine hand; but save his life.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.2.7",
+      "edition_verse_id": "KJV1769:JOB.2.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "¶ So went Satan forth from the presence of the LORD, and smote Job with sore boils from the sole of his foot unto his crown.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOB.2.8",
+      "edition_verse_id": "KJV1769:JOB.2.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "And he took him a potsherd to scrape himself withal; and he sat down among the ashes.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.2.9",
+      "edition_verse_id": "KJV1769:JOB.2.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "¶ Then said his wife unto him, Dost thou still retain thine integrity? curse God, and die.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOB.2.10",
+      "edition_verse_id": "KJV1769:JOB.2.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "But he said unto her, Thou speakest as one of the foolish women speaketh. What? shall we receive good at the hand of God, and shall we not receive evil? In all this did not Job sin with his lips.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.2.11",
+      "edition_verse_id": "KJV1769:JOB.2.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "¶ Now when Job’s three friends heard of all this evil that was come upon him, they came every one from his own place; Eliphaz the Temanite, and Bildad the Shuhite, and Zophar the Naamathite: for they had made an appointment together to come to mourn with him and to comfort him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOB.2.12",
+      "edition_verse_id": "KJV1769:JOB.2.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "And when they lifted up their eyes afar off, and knew him not, they lifted up their voice, and wept; and they rent every one his mantle, and sprinkled dust upon their heads toward heaven.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.2.13",
+      "edition_verse_id": "KJV1769:JOB.2.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "So they sat down with him upon the ground seven days and seven nights, and none spake a word unto him: for they saw that ",
+          "kind": "text"
+        },
+        {
+          "text": "his",
+          "kind": "supplied"
+        },
+        {
+          "text": " grief was very great.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

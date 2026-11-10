@@ -1,0 +1,612 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "KJV1769",
+  "book_code": "JER",
+  "chapter": 5,
+  "verses": [
+    {
+      "id": "JER.5.1",
+      "edition_verse_id": "KJV1769:JER.5.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "Run ye to and fro through the streets of Jerusalem, and see now, and know, and seek in the broad places thereof, if ye can find a man, if there be ",
+          "kind": "text"
+        },
+        {
+          "text": "any",
+          "kind": "supplied"
+        },
+        {
+          "text": " that executeth judgment, that seeketh the truth; and I will pardon it.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JER.5.2",
+      "edition_verse_id": "KJV1769:JER.5.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "And though they say, The LORD liveth; surely they swear falsely.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JER.5.3",
+      "edition_verse_id": "KJV1769:JER.5.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "O LORD, ",
+          "kind": "text"
+        },
+        {
+          "text": "are",
+          "kind": "supplied"
+        },
+        {
+          "text": " not thine eyes upon the truth? thou hast stricken them, but they have not grieved; thou hast consumed them, ",
+          "kind": "text"
+        },
+        {
+          "text": "but",
+          "kind": "supplied"
+        },
+        {
+          "text": " they have refused to receive correction: they have made their faces harder than a rock; they have refused to return.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JER.5.4",
+      "edition_verse_id": "KJV1769:JER.5.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "Therefore I said, Surely these ",
+          "kind": "text"
+        },
+        {
+          "text": "are",
+          "kind": "supplied"
+        },
+        {
+          "text": " poor; they are foolish: for they know not the way of the LORD, ",
+          "kind": "text"
+        },
+        {
+          "text": "nor",
+          "kind": "supplied"
+        },
+        {
+          "text": " the judgment of their God.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JER.5.5",
+      "edition_verse_id": "KJV1769:JER.5.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "I will get me unto the great men, and will speak unto them; for they have known the way of the LORD, ",
+          "kind": "text"
+        },
+        {
+          "text": "and",
+          "kind": "supplied"
+        },
+        {
+          "text": " the judgment of their God: but these have altogether broken the yoke, ",
+          "kind": "text"
+        },
+        {
+          "text": "and",
+          "kind": "supplied"
+        },
+        {
+          "text": " burst the bonds.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JER.5.6",
+      "edition_verse_id": "KJV1769:JER.5.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "Wherefore a lion out of the forest shall slay them, ",
+          "kind": "text"
+        },
+        {
+          "text": "and",
+          "kind": "supplied"
+        },
+        {
+          "text": " a wolf of the evenings shall spoil them, a leopard shall watch over their cities: every one that goeth out thence shall be torn in pieces: because their transgressions are many, ",
+          "kind": "text"
+        },
+        {
+          "text": "and",
+          "kind": "supplied"
+        },
+        {
+          "text": " their backslidings are increased.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JER.5.7",
+      "edition_verse_id": "KJV1769:JER.5.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "¶ How shall I pardon thee for this? thy children have forsaken me, and sworn by ",
+          "kind": "text"
+        },
+        {
+          "text": "them that are",
+          "kind": "supplied"
+        },
+        {
+          "text": " no gods: when I had fed them to the full, they then committed adultery, and assembled themselves by troops in the harlots’ houses.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JER.5.8",
+      "edition_verse_id": "KJV1769:JER.5.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "They were ",
+          "kind": "text"
+        },
+        {
+          "text": "as",
+          "kind": "supplied"
+        },
+        {
+          "text": " fed horses in the morning: every one neighed after his neighbour’s wife.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JER.5.9",
+      "edition_verse_id": "KJV1769:JER.5.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "Shall I not visit for these ",
+          "kind": "text"
+        },
+        {
+          "text": "things",
+          "kind": "supplied"
+        },
+        {
+          "text": "? saith the LORD: and shall not my soul be avenged on such a nation as this?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JER.5.10",
+      "edition_verse_id": "KJV1769:JER.5.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "¶ Go ye up upon her walls, and destroy; but make not a full end: take away her battlements; for they ",
+          "kind": "text"
+        },
+        {
+          "text": "are",
+          "kind": "supplied"
+        },
+        {
+          "text": " not the LORD’s.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JER.5.11",
+      "edition_verse_id": "KJV1769:JER.5.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "For the house of Israel and the house of Judah have dealt very treacherously against me, saith the LORD.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JER.5.12",
+      "edition_verse_id": "KJV1769:JER.5.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "They have belied the LORD, and said, ",
+          "kind": "text"
+        },
+        {
+          "text": "It is",
+          "kind": "supplied"
+        },
+        {
+          "text": " not he; neither shall evil come upon us; neither shall we see sword nor famine:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JER.5.13",
+      "edition_verse_id": "KJV1769:JER.5.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "And the prophets shall become wind, and the word ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " not in them: thus shall it be done unto them.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JER.5.14",
+      "edition_verse_id": "KJV1769:JER.5.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "Wherefore thus saith the LORD God of hosts, Because ye speak this word, behold, I will make my words in thy mouth fire, and this people wood, and it shall devour them.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JER.5.15",
+      "edition_verse_id": "KJV1769:JER.5.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "Lo, I will bring a nation upon you from far, O house of Israel, saith the LORD: it ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " a mighty nation, it ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " an ancient nation, a nation whose language thou knowest not, neither understandest what they say.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JER.5.16",
+      "edition_verse_id": "KJV1769:JER.5.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "Their quiver ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " as an open sepulchre, they ",
+          "kind": "text"
+        },
+        {
+          "text": "are",
+          "kind": "supplied"
+        },
+        {
+          "text": " all mighty men.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JER.5.17",
+      "edition_verse_id": "KJV1769:JER.5.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "And they shall eat up thine harvest, and thy bread, ",
+          "kind": "text"
+        },
+        {
+          "text": "which",
+          "kind": "supplied"
+        },
+        {
+          "text": " thy sons and thy daughters should eat: they shall eat up thy flocks and thine herds: they shall eat up thy vines and thy fig trees: they shall impoverish thy fenced cities, wherein thou trustedst, with the sword.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JER.5.18",
+      "edition_verse_id": "KJV1769:JER.5.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "Nevertheless in those days, saith the LORD, I will not make a full end with you.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JER.5.19",
+      "edition_verse_id": "KJV1769:JER.5.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "¶ And it shall come to pass, when ye shall say, Wherefore doeth the LORD our God all these ",
+          "kind": "text"
+        },
+        {
+          "text": "things",
+          "kind": "supplied"
+        },
+        {
+          "text": " unto us? then shalt thou answer them, Like as ye have forsaken me, and served strange gods in your land, so shall ye serve strangers in a land ",
+          "kind": "text"
+        },
+        {
+          "text": "that is",
+          "kind": "supplied"
+        },
+        {
+          "text": " not yours.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JER.5.20",
+      "edition_verse_id": "KJV1769:JER.5.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "Declare this in the house of Jacob, and publish it in Judah, saying,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JER.5.21",
+      "edition_verse_id": "KJV1769:JER.5.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "Hear now this, O foolish people, and without understanding; which have eyes, and see not; which have ears, and hear not:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JER.5.22",
+      "edition_verse_id": "KJV1769:JER.5.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "Fear ye not me? saith the LORD: will ye not tremble at my presence, which have placed the sand ",
+          "kind": "text"
+        },
+        {
+          "text": "for",
+          "kind": "supplied"
+        },
+        {
+          "text": " the bound of the sea by a perpetual decree, that it cannot pass it: and though the waves thereof toss themselves, yet can they not prevail; though they roar, yet can they not pass over it?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JER.5.23",
+      "edition_verse_id": "KJV1769:JER.5.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "But this people hath a revolting and a rebellious heart; they are revolted and gone.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JER.5.24",
+      "edition_verse_id": "KJV1769:JER.5.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "Neither say they in their heart, Let us now fear the LORD our God, that giveth rain, both the former and the latter, in his season: he reserveth unto us the appointed weeks of the harvest.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JER.5.25",
+      "edition_verse_id": "KJV1769:JER.5.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "¶ Your iniquities have turned away these ",
+          "kind": "text"
+        },
+        {
+          "text": "things",
+          "kind": "supplied"
+        },
+        {
+          "text": ", and your sins have withholden good ",
+          "kind": "text"
+        },
+        {
+          "text": "things",
+          "kind": "supplied"
+        },
+        {
+          "text": " from you.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JER.5.26",
+      "edition_verse_id": "KJV1769:JER.5.26",
+      "verse": 26,
+      "spans": [
+        {
+          "text": "For among my people are found wicked ",
+          "kind": "text"
+        },
+        {
+          "text": "men:",
+          "kind": "supplied"
+        },
+        {
+          "text": " they lay wait, as he that setteth snares; they set a trap, they catch men.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JER.5.27",
+      "edition_verse_id": "KJV1769:JER.5.27",
+      "verse": 27,
+      "spans": [
+        {
+          "text": "As a cage is full of birds, so ",
+          "kind": "text"
+        },
+        {
+          "text": "are",
+          "kind": "supplied"
+        },
+        {
+          "text": " their houses full of deceit: therefore they are become great, and waxen rich.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JER.5.28",
+      "edition_verse_id": "KJV1769:JER.5.28",
+      "verse": 28,
+      "spans": [
+        {
+          "text": "They are waxen fat, they shine: yea, they overpass the deeds of the wicked: they judge not the cause, the cause of the fatherless, yet they prosper; and the right of the needy do they not judge.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JER.5.29",
+      "edition_verse_id": "KJV1769:JER.5.29",
+      "verse": 29,
+      "spans": [
+        {
+          "text": "Shall I not visit for these ",
+          "kind": "text"
+        },
+        {
+          "text": "things",
+          "kind": "supplied"
+        },
+        {
+          "text": "? saith the LORD: shall not my soul be avenged on such a nation as this?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JER.5.30",
+      "edition_verse_id": "KJV1769:JER.5.30",
+      "verse": 30,
+      "spans": [
+        {
+          "text": "¶ A wonderful and horrible thing is committed in the land;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JER.5.31",
+      "edition_verse_id": "KJV1769:JER.5.31",
+      "verse": 31,
+      "spans": [
+        {
+          "text": "The prophets prophesy falsely, and the priests bear rule by their means; and my people love ",
+          "kind": "text"
+        },
+        {
+          "text": "to have it",
+          "kind": "supplied"
+        },
+        {
+          "text": " so: and what will ye do in the end thereof?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

@@ -1,0 +1,580 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "KJV1769",
+  "book_code": "JER",
+  "chapter": 10,
+  "verses": [
+    {
+      "id": "JER.10.1",
+      "edition_verse_id": "KJV1769:JER.10.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "Hear ye the word which the LORD speaketh unto you, O house of Israel:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JER.10.2",
+      "edition_verse_id": "KJV1769:JER.10.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "Thus saith the LORD, Learn not the way of the heathen, and be not dismayed at the signs of heaven; for the heathen are dismayed at them.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JER.10.3",
+      "edition_verse_id": "KJV1769:JER.10.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "For the customs of the people ",
+          "kind": "text"
+        },
+        {
+          "text": "are",
+          "kind": "supplied"
+        },
+        {
+          "text": " vain: for ",
+          "kind": "text"
+        },
+        {
+          "text": "one",
+          "kind": "supplied"
+        },
+        {
+          "text": " cutteth a tree out of the forest, the work of the hands of the workman, with the axe.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JER.10.4",
+      "edition_verse_id": "KJV1769:JER.10.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "They deck it with silver and with gold; they fasten it with nails and with hammers, that it move not.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JER.10.5",
+      "edition_verse_id": "KJV1769:JER.10.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "They ",
+          "kind": "text"
+        },
+        {
+          "text": "are",
+          "kind": "supplied"
+        },
+        {
+          "text": " upright as the palm tree, but speak not: they must needs be borne, because they cannot go. Be not afraid of them; for they cannot do evil, neither also ",
+          "kind": "text"
+        },
+        {
+          "text": "is it",
+          "kind": "supplied"
+        },
+        {
+          "text": " in them to do good.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JER.10.6",
+      "edition_verse_id": "KJV1769:JER.10.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "Forasmuch as ",
+          "kind": "text"
+        },
+        {
+          "text": "there is",
+          "kind": "supplied"
+        },
+        {
+          "text": " none like unto thee, O LORD; thou ",
+          "kind": "text"
+        },
+        {
+          "text": "art",
+          "kind": "supplied"
+        },
+        {
+          "text": " great, and thy name ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " great in might.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JER.10.7",
+      "edition_verse_id": "KJV1769:JER.10.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "Who would not fear thee, O King of nations? for to thee doth it appertain: forasmuch as among all the wise ",
+          "kind": "text"
+        },
+        {
+          "text": "men",
+          "kind": "supplied"
+        },
+        {
+          "text": " of the nations, and in all their kingdoms, ",
+          "kind": "text"
+        },
+        {
+          "text": "there is",
+          "kind": "supplied"
+        },
+        {
+          "text": " none like unto thee.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JER.10.8",
+      "edition_verse_id": "KJV1769:JER.10.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "But they are altogether brutish and foolish: the stock ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " a doctrine of vanities.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JER.10.9",
+      "edition_verse_id": "KJV1769:JER.10.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "Silver spread into plates is brought from Tarshish, and gold from Uphaz, the work of the workman, and of the hands of the founder: blue and purple ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " their clothing: they ",
+          "kind": "text"
+        },
+        {
+          "text": "are",
+          "kind": "supplied"
+        },
+        {
+          "text": " all the work of cunning ",
+          "kind": "text"
+        },
+        {
+          "text": "men",
+          "kind": "supplied"
+        },
+        {
+          "text": ".",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JER.10.10",
+      "edition_verse_id": "KJV1769:JER.10.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "But the LORD ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " the true God, he ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " the living God, and an everlasting king: at his wrath the earth shall tremble, and the nations shall not be able to abide his indignation.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JER.10.11",
+      "edition_verse_id": "KJV1769:JER.10.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "Thus shall ye say unto them, The gods that have not made the heavens and the earth, ",
+          "kind": "text"
+        },
+        {
+          "text": "even",
+          "kind": "supplied"
+        },
+        {
+          "text": " they shall perish from the earth, and from under these heavens.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JER.10.12",
+      "edition_verse_id": "KJV1769:JER.10.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "He hath made the earth by his power, he hath established the world by his wisdom, and hath stretched out the heavens by his discretion.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JER.10.13",
+      "edition_verse_id": "KJV1769:JER.10.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "When he uttereth his voice, ",
+          "kind": "text"
+        },
+        {
+          "text": "there is",
+          "kind": "supplied"
+        },
+        {
+          "text": " a multitude of waters in the heavens, and he causeth the vapours to ascend from the ends of the earth; he maketh lightnings with rain, and bringeth forth the wind out of his treasures.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JER.10.14",
+      "edition_verse_id": "KJV1769:JER.10.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "Every man is brutish in ",
+          "kind": "text"
+        },
+        {
+          "text": "his",
+          "kind": "supplied"
+        },
+        {
+          "text": " knowledge: every founder is confounded by the graven image: for his molten image ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " falsehood, and ",
+          "kind": "text"
+        },
+        {
+          "text": "there is",
+          "kind": "supplied"
+        },
+        {
+          "text": " no breath in them.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JER.10.15",
+      "edition_verse_id": "KJV1769:JER.10.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "They ",
+          "kind": "text"
+        },
+        {
+          "text": "are",
+          "kind": "supplied"
+        },
+        {
+          "text": " vanity, ",
+          "kind": "text"
+        },
+        {
+          "text": "and",
+          "kind": "supplied"
+        },
+        {
+          "text": " the work of errors: in the time of their visitation they shall perish.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JER.10.16",
+      "edition_verse_id": "KJV1769:JER.10.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "The portion of Jacob ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " not like them: for he ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " the former of all ",
+          "kind": "text"
+        },
+        {
+          "text": "things;",
+          "kind": "supplied"
+        },
+        {
+          "text": " and Israel ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " the rod of his inheritance: The LORD of hosts ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " his name.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JER.10.17",
+      "edition_verse_id": "KJV1769:JER.10.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "¶ Gather up thy wares out of the land, O inhabitant of the fortress.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JER.10.18",
+      "edition_verse_id": "KJV1769:JER.10.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "For thus saith the LORD, Behold, I will sling out the inhabitants of the land at this once, and will distress them, that they may find ",
+          "kind": "text"
+        },
+        {
+          "text": "it so",
+          "kind": "supplied"
+        },
+        {
+          "text": ".",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JER.10.19",
+      "edition_verse_id": "KJV1769:JER.10.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "¶ Woe is me for my hurt! my wound is grievous: but I said, Truly this ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " a grief, and I must bear it.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JER.10.20",
+      "edition_verse_id": "KJV1769:JER.10.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "My tabernacle is spoiled, and all my cords are broken: my children are gone forth of me, and they ",
+          "kind": "text"
+        },
+        {
+          "text": "are",
+          "kind": "supplied"
+        },
+        {
+          "text": " not: ",
+          "kind": "text"
+        },
+        {
+          "text": "there is",
+          "kind": "supplied"
+        },
+        {
+          "text": " none to stretch forth my tent any more, and to set up my curtains.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JER.10.21",
+      "edition_verse_id": "KJV1769:JER.10.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "For the pastors are become brutish, and have not sought the LORD: therefore they shall not prosper, and all their flocks shall be scattered.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JER.10.22",
+      "edition_verse_id": "KJV1769:JER.10.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "Behold, the noise of the bruit is come, and a great commotion out of the north country, to make the cities of Judah desolate, ",
+          "kind": "text"
+        },
+        {
+          "text": "and",
+          "kind": "supplied"
+        },
+        {
+          "text": " a den of dragons.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JER.10.23",
+      "edition_verse_id": "KJV1769:JER.10.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "¶ O LORD, I know that the way of man ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " not in himself: ",
+          "kind": "text"
+        },
+        {
+          "text": "it is",
+          "kind": "supplied"
+        },
+        {
+          "text": " not in man that walketh to direct his steps.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JER.10.24",
+      "edition_verse_id": "KJV1769:JER.10.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "O LORD, correct me, but with judgment; not in thine anger, lest thou bring me to nothing.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JER.10.25",
+      "edition_verse_id": "KJV1769:JER.10.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "Pour out thy fury upon the heathen that know thee not, and upon the families that call not on thy name: for they have eaten up Jacob, and devoured him, and consumed him, and have made his habitation desolate.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

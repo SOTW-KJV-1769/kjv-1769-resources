@@ -1,0 +1,268 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "KJV1769",
+  "book_code": "ISA",
+  "chapter": 55,
+  "verses": [
+    {
+      "id": "ISA.55.1",
+      "edition_verse_id": "KJV1769:ISA.55.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "Ho, every one that thirsteth, come ye to the waters, and he that hath no money; come ye, buy, and eat; yea, come, buy wine and milk without money and without price.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ISA.55.2",
+      "edition_verse_id": "KJV1769:ISA.55.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "Wherefore do ye spend money for ",
+          "kind": "text"
+        },
+        {
+          "text": "that which is",
+          "kind": "supplied"
+        },
+        {
+          "text": " not bread? and your labour for ",
+          "kind": "text"
+        },
+        {
+          "text": "that which",
+          "kind": "supplied"
+        },
+        {
+          "text": " satisfieth not? hearken diligently unto me, and eat ye ",
+          "kind": "text"
+        },
+        {
+          "text": "that which is",
+          "kind": "supplied"
+        },
+        {
+          "text": " good, and let your soul delight itself in fatness.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.55.3",
+      "edition_verse_id": "KJV1769:ISA.55.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "Incline your ear, and come unto me: hear, and your soul shall live; and I will make an everlasting covenant with you, ",
+          "kind": "text"
+        },
+        {
+          "text": "even",
+          "kind": "supplied"
+        },
+        {
+          "text": " the sure mercies of David.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.55.4",
+      "edition_verse_id": "KJV1769:ISA.55.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "Behold, I have given him ",
+          "kind": "text"
+        },
+        {
+          "text": "for",
+          "kind": "supplied"
+        },
+        {
+          "text": " a witness to the people, a leader and commander to the people.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.55.5",
+      "edition_verse_id": "KJV1769:ISA.55.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "Behold, thou shalt call a nation ",
+          "kind": "text"
+        },
+        {
+          "text": "that",
+          "kind": "supplied"
+        },
+        {
+          "text": " thou knowest not, and nations ",
+          "kind": "text"
+        },
+        {
+          "text": "that",
+          "kind": "supplied"
+        },
+        {
+          "text": " knew not thee shall run unto thee because of the LORD thy God, and for the Holy One of Israel; for he hath glorified thee.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.55.6",
+      "edition_verse_id": "KJV1769:ISA.55.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "¶ Seek ye the LORD while he may be found, call ye upon him while he is near:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ISA.55.7",
+      "edition_verse_id": "KJV1769:ISA.55.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "Let the wicked forsake his way, and the unrighteous man his thoughts: and let him return unto the LORD, and he will have mercy upon him; and to our God, for he will abundantly pardon.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.55.8",
+      "edition_verse_id": "KJV1769:ISA.55.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "¶ For my thoughts ",
+          "kind": "text"
+        },
+        {
+          "text": "are",
+          "kind": "supplied"
+        },
+        {
+          "text": " not your thoughts, neither ",
+          "kind": "text"
+        },
+        {
+          "text": "are",
+          "kind": "supplied"
+        },
+        {
+          "text": " your ways my ways, saith the LORD.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ISA.55.9",
+      "edition_verse_id": "KJV1769:ISA.55.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "For ",
+          "kind": "text"
+        },
+        {
+          "text": "as",
+          "kind": "supplied"
+        },
+        {
+          "text": " the heavens are higher than the earth, so are my ways higher than your ways, and my thoughts than your thoughts.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.55.10",
+      "edition_verse_id": "KJV1769:ISA.55.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "For as the rain cometh down, and the snow from heaven, and returneth not thither, but watereth the earth, and maketh it bring forth and bud, that it may give seed to the sower, and bread to the eater:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.55.11",
+      "edition_verse_id": "KJV1769:ISA.55.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "So shall my word be that goeth forth out of my mouth: it shall not return unto me void, but it shall accomplish that which I please, and it shall prosper ",
+          "kind": "text"
+        },
+        {
+          "text": "in the thing",
+          "kind": "supplied"
+        },
+        {
+          "text": " whereto I sent it.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.55.12",
+      "edition_verse_id": "KJV1769:ISA.55.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "For ye shall go out with joy, and be led forth with peace: the mountains and the hills shall break forth before you into singing, and all the trees of the field shall clap ",
+          "kind": "text"
+        },
+        {
+          "text": "their",
+          "kind": "supplied"
+        },
+        {
+          "text": " hands.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.55.13",
+      "edition_verse_id": "KJV1769:ISA.55.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "Instead of the thorn shall come up the fir tree, and instead of the brier shall come up the myrtle tree: and it shall be to the LORD for a name, for an everlasting sign ",
+          "kind": "text"
+        },
+        {
+          "text": "that",
+          "kind": "supplied"
+        },
+        {
+          "text": " shall not be cut off.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

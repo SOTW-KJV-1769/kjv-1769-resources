@@ -1,0 +1,33 @@
+{
+  "edition_id": "KJV1769",
+  "book_code": "JAS",
+  "chapter_count": 5,
+  "verse_count": 108,
+  "chapters": [
+    {
+      "chapter": 1,
+      "verse_count": 27,
+      "sha256": "8a973ca3a83552ef61ef3520e0e4f9ae6334b7ffb299afef65942ce4a0a67a27"
+    },
+    {
+      "chapter": 2,
+      "verse_count": 26,
+      "sha256": "499e4078af0d1103d04757cafdd99c10eceeebb8a9d15bdf01f63e3b4c3e2c5b"
+    },
+    {
+      "chapter": 3,
+      "verse_count": 18,
+      "sha256": "d5d873abdd119c104aa58514d95f729fb1c54d8289558a43e9c50e4ab29baaeb"
+    },
+    {
+      "chapter": 4,
+      "verse_count": 17,
+      "sha256": "ab9d311e48504b73639f1aaa21062e0e4ffad641aabc10dd664cb672c338a22b"
+    },
+    {
+      "chapter": 5,
+      "verse_count": 20,
+      "sha256": "17f62554104a952078b1619f332002f7ea02d92ad97252f4de7c1ded1535073a"
+    }
+  ]
+}

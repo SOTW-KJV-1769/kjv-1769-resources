@@ -1,0 +1,552 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "KJV1769",
+  "book_code": "JER",
+  "chapter": 7,
+  "verses": [
+    {
+      "id": "JER.7.1",
+      "edition_verse_id": "KJV1769:JER.7.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "The word that came to Jeremiah from the LORD, saying,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JER.7.2",
+      "edition_verse_id": "KJV1769:JER.7.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "Stand in the gate of the LORD’s house, and proclaim there this word, and say, Hear the word of the LORD, all ",
+          "kind": "text"
+        },
+        {
+          "text": "ye of",
+          "kind": "supplied"
+        },
+        {
+          "text": " Judah, that enter in at these gates to worship the LORD.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JER.7.3",
+      "edition_verse_id": "KJV1769:JER.7.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "Thus saith the LORD of hosts, the God of Israel, Amend your ways and your doings, and I will cause you to dwell in this place.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JER.7.4",
+      "edition_verse_id": "KJV1769:JER.7.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "Trust ye not in lying words, saying, The temple of the LORD, The temple of the LORD, The temple of the LORD, ",
+          "kind": "text"
+        },
+        {
+          "text": "are",
+          "kind": "supplied"
+        },
+        {
+          "text": " these.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JER.7.5",
+      "edition_verse_id": "KJV1769:JER.7.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "For if ye throughly amend your ways and your doings; if ye throughly execute judgment between a man and his neighbour;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JER.7.6",
+      "edition_verse_id": "KJV1769:JER.7.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "If",
+          "kind": "supplied"
+        },
+        {
+          "text": " ye oppress not the stranger, the fatherless, and the widow, and shed not innocent blood in this place, neither walk after other gods to your hurt:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JER.7.7",
+      "edition_verse_id": "KJV1769:JER.7.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "Then will I cause you to dwell in this place, in the land that I gave to your fathers, for ever and ever.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JER.7.8",
+      "edition_verse_id": "KJV1769:JER.7.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "¶ Behold, ye trust in lying words, that cannot profit.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JER.7.9",
+      "edition_verse_id": "KJV1769:JER.7.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "Will ye steal, murder, and commit adultery, and swear falsely, and burn incense unto Baal, and walk after other gods whom ye know not;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JER.7.10",
+      "edition_verse_id": "KJV1769:JER.7.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "And come and stand before me in this house, which is called by my name, and say, We are delivered to do all these abominations?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JER.7.11",
+      "edition_verse_id": "KJV1769:JER.7.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "Is this house, which is called by my name, become a den of robbers in your eyes? Behold, even I have seen ",
+          "kind": "text"
+        },
+        {
+          "text": "it",
+          "kind": "supplied"
+        },
+        {
+          "text": ", saith the LORD.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JER.7.12",
+      "edition_verse_id": "KJV1769:JER.7.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "But go ye now unto my place which ",
+          "kind": "text"
+        },
+        {
+          "text": "was",
+          "kind": "supplied"
+        },
+        {
+          "text": " in Shiloh, where I set my name at the first, and see what I did to it for the wickedness of my people Israel.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JER.7.13",
+      "edition_verse_id": "KJV1769:JER.7.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "And now, because ye have done all these works, saith the LORD, and I spake unto you, rising up early and speaking, but ye heard not; and I called you, but ye answered not;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JER.7.14",
+      "edition_verse_id": "KJV1769:JER.7.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "Therefore will I do unto ",
+          "kind": "text"
+        },
+        {
+          "text": "this",
+          "kind": "supplied"
+        },
+        {
+          "text": " house, which is called by my name, wherein ye trust, and unto the place which I gave to you and to your fathers, as I have done to Shiloh.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JER.7.15",
+      "edition_verse_id": "KJV1769:JER.7.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "And I will cast you out of my sight, as I have cast out all your brethren, ",
+          "kind": "text"
+        },
+        {
+          "text": "even",
+          "kind": "supplied"
+        },
+        {
+          "text": " the whole seed of Ephraim.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JER.7.16",
+      "edition_verse_id": "KJV1769:JER.7.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "Therefore pray not thou for this people, neither lift up cry nor prayer for them, neither make intercession to me: for I will not hear thee.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JER.7.17",
+      "edition_verse_id": "KJV1769:JER.7.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "¶ Seest thou not what they do in the cities of Judah and in the streets of Jerusalem?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JER.7.18",
+      "edition_verse_id": "KJV1769:JER.7.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "The children gather wood, and the fathers kindle the fire, and the women knead ",
+          "kind": "text"
+        },
+        {
+          "text": "their",
+          "kind": "supplied"
+        },
+        {
+          "text": " dough, to make cakes to the queen of heaven, and to pour out drink offerings unto other gods, that they may provoke me to anger.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JER.7.19",
+      "edition_verse_id": "KJV1769:JER.7.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "Do they provoke me to anger? saith the LORD: ",
+          "kind": "text"
+        },
+        {
+          "text": "do they",
+          "kind": "supplied"
+        },
+        {
+          "text": " not ",
+          "kind": "text"
+        },
+        {
+          "text": "provoke",
+          "kind": "supplied"
+        },
+        {
+          "text": " themselves to the confusion of their own faces?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JER.7.20",
+      "edition_verse_id": "KJV1769:JER.7.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "Therefore thus saith the Lord GOD; Behold, mine anger and my fury shall be poured out upon this place, upon man, and upon beast, and upon the trees of the field, and upon the fruit of the ground; and it shall burn, and shall not be quenched.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JER.7.21",
+      "edition_verse_id": "KJV1769:JER.7.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "¶ Thus saith the LORD of hosts, the God of Israel; Put your burnt offerings unto your sacrifices, and eat flesh.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JER.7.22",
+      "edition_verse_id": "KJV1769:JER.7.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "For I spake not unto your fathers, nor commanded them in the day that I brought them out of the land of Egypt, concerning burnt offerings or sacrifices:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JER.7.23",
+      "edition_verse_id": "KJV1769:JER.7.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "But this thing commanded I them, saying, Obey my voice, and I will be your God, and ye shall be my people: and walk ye in all the ways that I have commanded you, that it may be well unto you.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JER.7.24",
+      "edition_verse_id": "KJV1769:JER.7.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "But they hearkened not, nor inclined their ear, but walked in the counsels ",
+          "kind": "text"
+        },
+        {
+          "text": "and",
+          "kind": "supplied"
+        },
+        {
+          "text": " in the imagination of their evil heart, and went backward, and not forward.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JER.7.25",
+      "edition_verse_id": "KJV1769:JER.7.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "Since the day that your fathers came forth out of the land of Egypt unto this day I have even sent unto you all my servants the prophets, daily rising up early and sending ",
+          "kind": "text"
+        },
+        {
+          "text": "them:",
+          "kind": "supplied"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JER.7.26",
+      "edition_verse_id": "KJV1769:JER.7.26",
+      "verse": 26,
+      "spans": [
+        {
+          "text": "Yet they hearkened not unto me, nor inclined their ear, but hardened their neck: they did worse than their fathers.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JER.7.27",
+      "edition_verse_id": "KJV1769:JER.7.27",
+      "verse": 27,
+      "spans": [
+        {
+          "text": "Therefore thou shalt speak all these words unto them; but they will not hearken to thee: thou shalt also call unto them; but they will not answer thee.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JER.7.28",
+      "edition_verse_id": "KJV1769:JER.7.28",
+      "verse": 28,
+      "spans": [
+        {
+          "text": "But thou shalt say unto them, This ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " a nation that obeyeth not the voice of the LORD their God, nor receiveth correction: truth is perished, and is cut off from their mouth.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JER.7.29",
+      "edition_verse_id": "KJV1769:JER.7.29",
+      "verse": 29,
+      "spans": [
+        {
+          "text": "¶ Cut off thine hair, ",
+          "kind": "text"
+        },
+        {
+          "text": "O Jerusalem",
+          "kind": "supplied"
+        },
+        {
+          "text": ", and cast ",
+          "kind": "text"
+        },
+        {
+          "text": "it",
+          "kind": "supplied"
+        },
+        {
+          "text": " away, and take up a lamentation on high places; for the LORD hath rejected and forsaken the generation of his wrath.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JER.7.30",
+      "edition_verse_id": "KJV1769:JER.7.30",
+      "verse": 30,
+      "spans": [
+        {
+          "text": "For the children of Judah have done evil in my sight, saith the LORD: they have set their abominations in the house which is called by my name, to pollute it.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JER.7.31",
+      "edition_verse_id": "KJV1769:JER.7.31",
+      "verse": 31,
+      "spans": [
+        {
+          "text": "And they have built the high places of Tophet, which ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " in the valley of the son of Hinnom, to burn their sons and their daughters in the fire; which I commanded ",
+          "kind": "text"
+        },
+        {
+          "text": "them",
+          "kind": "supplied"
+        },
+        {
+          "text": " not, neither came it into my heart.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JER.7.32",
+      "edition_verse_id": "KJV1769:JER.7.32",
+      "verse": 32,
+      "spans": [
+        {
+          "text": "¶ Therefore, behold, the days come, saith the LORD, that it shall no more be called Tophet, nor the valley of the son of Hinnom, but the valley of slaughter: for they shall bury in Tophet, till there be no place.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JER.7.33",
+      "edition_verse_id": "KJV1769:JER.7.33",
+      "verse": 33,
+      "spans": [
+        {
+          "text": "And the carcases of this people shall be meat for the fowls of the heaven, and for the beasts of the earth; and none shall fray ",
+          "kind": "text"
+        },
+        {
+          "text": "them",
+          "kind": "supplied"
+        },
+        {
+          "text": " away.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JER.7.34",
+      "edition_verse_id": "KJV1769:JER.7.34",
+      "verse": 34,
+      "spans": [
+        {
+          "text": "Then will I cause to cease from the cities of Judah, and from the streets of Jerusalem, the voice of mirth, and the voice of gladness, the voice of the bridegroom, and the voice of the bride: for the land shall be desolate.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

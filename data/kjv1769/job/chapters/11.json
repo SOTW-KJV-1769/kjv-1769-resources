@@ -1,0 +1,380 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "KJV1769",
+  "book_code": "JOB",
+  "chapter": 11,
+  "verses": [
+    {
+      "id": "JOB.11.1",
+      "edition_verse_id": "KJV1769:JOB.11.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "Then answered Zophar the Naamathite, and said,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOB.11.2",
+      "edition_verse_id": "KJV1769:JOB.11.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "Should not the multitude of words be answered? and should a man full of talk be justified?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.11.3",
+      "edition_verse_id": "KJV1769:JOB.11.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "Should thy lies make men hold their peace? and when thou mockest, shall no man make thee ashamed?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.11.4",
+      "edition_verse_id": "KJV1769:JOB.11.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "For thou hast said, My doctrine ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " pure, and I am clean in thine eyes.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.11.5",
+      "edition_verse_id": "KJV1769:JOB.11.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "But oh that God would speak, and open his lips against thee;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.11.6",
+      "edition_verse_id": "KJV1769:JOB.11.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "And that he would shew thee the secrets of wisdom, that ",
+          "kind": "text"
+        },
+        {
+          "text": "they are",
+          "kind": "supplied"
+        },
+        {
+          "text": " double to that which is! Know therefore that God exacteth of thee ",
+          "kind": "text"
+        },
+        {
+          "text": "less",
+          "kind": "supplied"
+        },
+        {
+          "text": " than thine iniquity ",
+          "kind": "text"
+        },
+        {
+          "text": "deserveth",
+          "kind": "supplied"
+        },
+        {
+          "text": ".",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.11.7",
+      "edition_verse_id": "KJV1769:JOB.11.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "Canst thou by searching find out God? canst thou find out the Almighty unto perfection?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOB.11.8",
+      "edition_verse_id": "KJV1769:JOB.11.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "It is",
+          "kind": "supplied"
+        },
+        {
+          "text": " as high as heaven; what canst thou do? deeper than hell; what canst thou know?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.11.9",
+      "edition_verse_id": "KJV1769:JOB.11.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "The measure thereof ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " longer than the earth, and broader than the sea.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.11.10",
+      "edition_verse_id": "KJV1769:JOB.11.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "If he cut off, and shut up, or gather together, then who can hinder him?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.11.11",
+      "edition_verse_id": "KJV1769:JOB.11.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "For he knoweth vain men: he seeth wickedness also; will he not then consider ",
+          "kind": "text"
+        },
+        {
+          "text": "it",
+          "kind": "supplied"
+        },
+        {
+          "text": "?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.11.12",
+      "edition_verse_id": "KJV1769:JOB.11.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "For vain man would be wise, though man be born ",
+          "kind": "text"
+        },
+        {
+          "text": "like",
+          "kind": "supplied"
+        },
+        {
+          "text": " a wild ass’s colt.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.11.13",
+      "edition_verse_id": "KJV1769:JOB.11.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "If thou prepare thine heart, and stretch out thine hands toward him;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOB.11.14",
+      "edition_verse_id": "KJV1769:JOB.11.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "If iniquity ",
+          "kind": "text"
+        },
+        {
+          "text": "be",
+          "kind": "supplied"
+        },
+        {
+          "text": " in thine hand, put it far away, and let not wickedness dwell in thy tabernacles.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.11.15",
+      "edition_verse_id": "KJV1769:JOB.11.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "For then shalt thou lift up thy face without spot; yea, thou shalt be stedfast, and shalt not fear:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.11.16",
+      "edition_verse_id": "KJV1769:JOB.11.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "Because thou shalt forget ",
+          "kind": "text"
+        },
+        {
+          "text": "thy",
+          "kind": "supplied"
+        },
+        {
+          "text": " misery, ",
+          "kind": "text"
+        },
+        {
+          "text": "and",
+          "kind": "supplied"
+        },
+        {
+          "text": " remember ",
+          "kind": "text"
+        },
+        {
+          "text": "it",
+          "kind": "supplied"
+        },
+        {
+          "text": " as waters ",
+          "kind": "text"
+        },
+        {
+          "text": "that",
+          "kind": "supplied"
+        },
+        {
+          "text": " pass away:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.11.17",
+      "edition_verse_id": "KJV1769:JOB.11.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "And ",
+          "kind": "text"
+        },
+        {
+          "text": "thine",
+          "kind": "supplied"
+        },
+        {
+          "text": " age shall be clearer than the noonday; thou shalt shine forth, thou shalt be as the morning.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.11.18",
+      "edition_verse_id": "KJV1769:JOB.11.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "And thou shalt be secure, because there is hope; yea, thou shalt dig ",
+          "kind": "text"
+        },
+        {
+          "text": "about thee, and",
+          "kind": "supplied"
+        },
+        {
+          "text": " thou shalt take thy rest in safety.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.11.19",
+      "edition_verse_id": "KJV1769:JOB.11.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "Also thou shalt lie down, and none shall make ",
+          "kind": "text"
+        },
+        {
+          "text": "thee",
+          "kind": "supplied"
+        },
+        {
+          "text": " afraid; yea, many shall make suit unto thee.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.11.20",
+      "edition_verse_id": "KJV1769:JOB.11.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "But the eyes of the wicked shall fail, and they shall not escape, and their hope ",
+          "kind": "text"
+        },
+        {
+          "text": "shall be as",
+          "kind": "supplied"
+        },
+        {
+          "text": " the giving up of the ghost.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

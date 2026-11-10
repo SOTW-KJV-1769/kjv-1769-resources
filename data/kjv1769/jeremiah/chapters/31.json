@@ -1,0 +1,716 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "KJV1769",
+  "book_code": "JER",
+  "chapter": 31,
+  "verses": [
+    {
+      "id": "JER.31.1",
+      "edition_verse_id": "KJV1769:JER.31.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "At the same time, saith the LORD, will I be the God of all the families of Israel, and they shall be my people.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JER.31.2",
+      "edition_verse_id": "KJV1769:JER.31.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "Thus saith the LORD, The people ",
+          "kind": "text"
+        },
+        {
+          "text": "which were",
+          "kind": "supplied"
+        },
+        {
+          "text": " left of the sword found grace in the wilderness; ",
+          "kind": "text"
+        },
+        {
+          "text": "even",
+          "kind": "supplied"
+        },
+        {
+          "text": " Israel, when I went to cause him to rest.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JER.31.3",
+      "edition_verse_id": "KJV1769:JER.31.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "The LORD hath appeared of old unto me, ",
+          "kind": "text"
+        },
+        {
+          "text": "saying",
+          "kind": "supplied"
+        },
+        {
+          "text": ", Yea, I have loved thee with an everlasting love: therefore with lovingkindness have I drawn thee.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JER.31.4",
+      "edition_verse_id": "KJV1769:JER.31.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "Again I will build thee, and thou shalt be built, O virgin of Israel: thou shalt again be adorned with thy tabrets, and shalt go forth in the dances of them that make merry.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JER.31.5",
+      "edition_verse_id": "KJV1769:JER.31.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "Thou shalt yet plant vines upon the mountains of Samaria: the planters shall plant, and shall eat ",
+          "kind": "text"
+        },
+        {
+          "text": "them",
+          "kind": "supplied"
+        },
+        {
+          "text": " as common things.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JER.31.6",
+      "edition_verse_id": "KJV1769:JER.31.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "For there shall be a day, ",
+          "kind": "text"
+        },
+        {
+          "text": "that",
+          "kind": "supplied"
+        },
+        {
+          "text": " the watchmen upon the mount Ephraim shall cry, Arise ye, and let us go up to Zion unto the LORD our God.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JER.31.7",
+      "edition_verse_id": "KJV1769:JER.31.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "For thus saith the LORD; Sing with gladness for Jacob, and shout among the chief of the nations: publish ye, praise ye, and say, O LORD, save thy people, the remnant of Israel.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JER.31.8",
+      "edition_verse_id": "KJV1769:JER.31.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "Behold, I will bring them from the north country, and gather them from the coasts of the earth, ",
+          "kind": "text"
+        },
+        {
+          "text": "and",
+          "kind": "supplied"
+        },
+        {
+          "text": " with them the blind and the lame, the woman with child and her that travaileth with child together: a great company shall return thither.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JER.31.9",
+      "edition_verse_id": "KJV1769:JER.31.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "They shall come with weeping, and with supplications will I lead them: I will cause them to walk by the rivers of waters in a straight way, wherein they shall not stumble: for I am a father to Israel, and Ephraim ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " my firstborn.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JER.31.10",
+      "edition_verse_id": "KJV1769:JER.31.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "¶ Hear the word of the LORD, O ye nations, and declare ",
+          "kind": "text"
+        },
+        {
+          "text": "it",
+          "kind": "supplied"
+        },
+        {
+          "text": " in the isles afar off, and say, He that scattered Israel will gather him, and keep him, as a shepherd ",
+          "kind": "text"
+        },
+        {
+          "text": "doth",
+          "kind": "supplied"
+        },
+        {
+          "text": " his flock.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JER.31.11",
+      "edition_verse_id": "KJV1769:JER.31.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "For the LORD hath redeemed Jacob, and ransomed him from the hand of ",
+          "kind": "text"
+        },
+        {
+          "text": "him that was",
+          "kind": "supplied"
+        },
+        {
+          "text": " stronger than he.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JER.31.12",
+      "edition_verse_id": "KJV1769:JER.31.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "Therefore they shall come and sing in the height of Zion, and shall flow together to the goodness of the LORD, for wheat, and for wine, and for oil, and for the young of the flock and of the herd: and their soul shall be as a watered garden; and they shall not sorrow any more at all.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JER.31.13",
+      "edition_verse_id": "KJV1769:JER.31.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "Then shall the virgin rejoice in the dance, both young men and old together: for I will turn their mourning into joy, and will comfort them, and make them rejoice from their sorrow.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JER.31.14",
+      "edition_verse_id": "KJV1769:JER.31.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "And I will satiate the soul of the priests with fatness, and my people shall be satisfied with my goodness, saith the LORD.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JER.31.15",
+      "edition_verse_id": "KJV1769:JER.31.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "¶ Thus saith the LORD; A voice was heard in Ramah, lamentation, ",
+          "kind": "text"
+        },
+        {
+          "text": "and",
+          "kind": "supplied"
+        },
+        {
+          "text": " bitter weeping; Rahel weeping for her children refused to be comforted for her children, because they ",
+          "kind": "text"
+        },
+        {
+          "text": "were",
+          "kind": "supplied"
+        },
+        {
+          "text": " not.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JER.31.16",
+      "edition_verse_id": "KJV1769:JER.31.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "Thus saith the LORD; Refrain thy voice from weeping, and thine eyes from tears: for thy work shall be rewarded, saith the LORD; and they shall come again from the land of the enemy.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JER.31.17",
+      "edition_verse_id": "KJV1769:JER.31.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "And there is hope in thine end, saith the LORD, that thy children shall come again to their own border.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JER.31.18",
+      "edition_verse_id": "KJV1769:JER.31.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "¶ I have surely heard Ephraim bemoaning himself ",
+          "kind": "text"
+        },
+        {
+          "text": "thus;",
+          "kind": "supplied"
+        },
+        {
+          "text": " Thou hast chastised me, and I was chastised, as a bullock unaccustomed ",
+          "kind": "text"
+        },
+        {
+          "text": "to the yoke:",
+          "kind": "supplied"
+        },
+        {
+          "text": " turn thou me, and I shall be turned; for thou ",
+          "kind": "text"
+        },
+        {
+          "text": "art",
+          "kind": "supplied"
+        },
+        {
+          "text": " the LORD my God.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JER.31.19",
+      "edition_verse_id": "KJV1769:JER.31.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "Surely after that I was turned, I repented; and after that I was instructed, I smote upon ",
+          "kind": "text"
+        },
+        {
+          "text": "my",
+          "kind": "supplied"
+        },
+        {
+          "text": " thigh: I was ashamed, yea, even confounded, because I did bear the reproach of my youth.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JER.31.20",
+      "edition_verse_id": "KJV1769:JER.31.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "Is",
+          "kind": "supplied"
+        },
+        {
+          "text": " Ephraim my dear son? ",
+          "kind": "text"
+        },
+        {
+          "text": "is he",
+          "kind": "supplied"
+        },
+        {
+          "text": " a pleasant child? for since I spake against him, I do earnestly remember him still: therefore my bowels are troubled for him; I will surely have mercy upon him, saith the LORD.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JER.31.21",
+      "edition_verse_id": "KJV1769:JER.31.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "Set thee up waymarks, make thee high heaps: set thine heart toward the highway, ",
+          "kind": "text"
+        },
+        {
+          "text": "even",
+          "kind": "supplied"
+        },
+        {
+          "text": " the way ",
+          "kind": "text"
+        },
+        {
+          "text": "which",
+          "kind": "supplied"
+        },
+        {
+          "text": " thou wentest: turn again, O virgin of Israel, turn again to these thy cities.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JER.31.22",
+      "edition_verse_id": "KJV1769:JER.31.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "¶ How long wilt thou go about, O thou backsliding daughter? for the LORD hath created a new thing in the earth, A woman shall compass a man.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JER.31.23",
+      "edition_verse_id": "KJV1769:JER.31.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "Thus saith the LORD of hosts, the God of Israel; As yet they shall use this speech in the land of Judah and in the cities thereof, when I shall bring again their captivity; The LORD bless thee, O habitation of justice, ",
+          "kind": "text"
+        },
+        {
+          "text": "and",
+          "kind": "supplied"
+        },
+        {
+          "text": " mountain of holiness.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JER.31.24",
+      "edition_verse_id": "KJV1769:JER.31.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "And there shall dwell in Judah itself, and in all the cities thereof together, husbandmen, and they ",
+          "kind": "text"
+        },
+        {
+          "text": "that",
+          "kind": "supplied"
+        },
+        {
+          "text": " go forth with flocks.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JER.31.25",
+      "edition_verse_id": "KJV1769:JER.31.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "For I have satiated the weary soul, and I have replenished every sorrowful soul.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JER.31.26",
+      "edition_verse_id": "KJV1769:JER.31.26",
+      "verse": 26,
+      "spans": [
+        {
+          "text": "Upon this I awaked, and beheld; and my sleep was sweet unto me.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JER.31.27",
+      "edition_verse_id": "KJV1769:JER.31.27",
+      "verse": 27,
+      "spans": [
+        {
+          "text": "¶ Behold, the days come, saith the LORD, that I will sow the house of Israel and the house of Judah with the seed of man, and with the seed of beast.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JER.31.28",
+      "edition_verse_id": "KJV1769:JER.31.28",
+      "verse": 28,
+      "spans": [
+        {
+          "text": "And it shall come to pass, ",
+          "kind": "text"
+        },
+        {
+          "text": "that",
+          "kind": "supplied"
+        },
+        {
+          "text": " like as I have watched over them, to pluck up, and to break down, and to throw down, and to destroy, and to afflict; so will I watch over them, to build, and to plant, saith the LORD.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JER.31.29",
+      "edition_verse_id": "KJV1769:JER.31.29",
+      "verse": 29,
+      "spans": [
+        {
+          "text": "In those days they shall say no more, The fathers have eaten a sour grape, and the children’s teeth are set on edge.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JER.31.30",
+      "edition_verse_id": "KJV1769:JER.31.30",
+      "verse": 30,
+      "spans": [
+        {
+          "text": "But every one shall die for his own iniquity: every man that eateth the sour grape, his teeth shall be set on edge.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JER.31.31",
+      "edition_verse_id": "KJV1769:JER.31.31",
+      "verse": 31,
+      "spans": [
+        {
+          "text": "¶ Behold, the days come, saith the LORD, that I will make a new covenant with the house of Israel, and with the house of Judah:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JER.31.32",
+      "edition_verse_id": "KJV1769:JER.31.32",
+      "verse": 32,
+      "spans": [
+        {
+          "text": "Not according to the covenant that I made with their fathers in the day ",
+          "kind": "text"
+        },
+        {
+          "text": "that",
+          "kind": "supplied"
+        },
+        {
+          "text": " I took them by the hand to bring them out of the land of Egypt; which my covenant they brake, although I was an husband unto them, saith the LORD:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JER.31.33",
+      "edition_verse_id": "KJV1769:JER.31.33",
+      "verse": 33,
+      "spans": [
+        {
+          "text": "But this ",
+          "kind": "text"
+        },
+        {
+          "text": "shall be",
+          "kind": "supplied"
+        },
+        {
+          "text": " the covenant that I will make with the house of Israel; After those days, saith the LORD, I will put my law in their inward parts, and write it in their hearts; and will be their God, and they shall be my people.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JER.31.34",
+      "edition_verse_id": "KJV1769:JER.31.34",
+      "verse": 34,
+      "spans": [
+        {
+          "text": "And they shall teach no more every man his neighbour, and every man his brother, saying, Know the LORD: for they shall all know me, from the least of them unto the greatest of them, saith the LORD: for I will forgive their iniquity, and I will remember their sin no more.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JER.31.35",
+      "edition_verse_id": "KJV1769:JER.31.35",
+      "verse": 35,
+      "spans": [
+        {
+          "text": "¶ Thus saith the LORD, which giveth the sun for a light by day, ",
+          "kind": "text"
+        },
+        {
+          "text": "and",
+          "kind": "supplied"
+        },
+        {
+          "text": " the ordinances of the moon and of the stars for a light by night, which divideth the sea when the waves thereof roar; The LORD of hosts ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " his name:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JER.31.36",
+      "edition_verse_id": "KJV1769:JER.31.36",
+      "verse": 36,
+      "spans": [
+        {
+          "text": "If those ordinances depart from before me, saith the LORD, ",
+          "kind": "text"
+        },
+        {
+          "text": "then",
+          "kind": "supplied"
+        },
+        {
+          "text": " the seed of Israel also shall cease from being a nation before me for ever.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JER.31.37",
+      "edition_verse_id": "KJV1769:JER.31.37",
+      "verse": 37,
+      "spans": [
+        {
+          "text": "Thus saith the LORD; If heaven above can be measured, and the foundations of the earth searched out beneath, I will also cast off all the seed of Israel for all that they have done, saith the LORD.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JER.31.38",
+      "edition_verse_id": "KJV1769:JER.31.38",
+      "verse": 38,
+      "spans": [
+        {
+          "text": "¶ Behold, the days come, saith the LORD, that the city shall be built to the LORD from the tower of Hananeel unto the gate of the corner.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JER.31.39",
+      "edition_verse_id": "KJV1769:JER.31.39",
+      "verse": 39,
+      "spans": [
+        {
+          "text": "And the measuring line shall yet go forth over against it upon the hill Gareb, and shall compass about to Goath.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JER.31.40",
+      "edition_verse_id": "KJV1769:JER.31.40",
+      "verse": 40,
+      "spans": [
+        {
+          "text": "And the whole valley of the dead bodies, and of the ashes, and all the fields unto the brook of Kidron, unto the corner of the horse gate toward the east, ",
+          "kind": "text"
+        },
+        {
+          "text": "shall be",
+          "kind": "supplied"
+        },
+        {
+          "text": " holy unto the LORD; it shall not be plucked up, nor thrown down any more for ever.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

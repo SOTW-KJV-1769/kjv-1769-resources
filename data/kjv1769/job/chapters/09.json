@@ -1,0 +1,660 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "KJV1769",
+  "book_code": "JOB",
+  "chapter": 9,
+  "verses": [
+    {
+      "id": "JOB.9.1",
+      "edition_verse_id": "KJV1769:JOB.9.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "Then Job answered and said,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOB.9.2",
+      "edition_verse_id": "KJV1769:JOB.9.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "I know ",
+          "kind": "text"
+        },
+        {
+          "text": "it is",
+          "kind": "supplied"
+        },
+        {
+          "text": " so of a truth: but how should man be just with God?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.9.3",
+      "edition_verse_id": "KJV1769:JOB.9.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "If he will contend with him, he cannot answer him one of a thousand.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.9.4",
+      "edition_verse_id": "KJV1769:JOB.9.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "He is",
+          "kind": "supplied"
+        },
+        {
+          "text": " wise in heart, and mighty in strength: who hath hardened ",
+          "kind": "text"
+        },
+        {
+          "text": "himself",
+          "kind": "supplied"
+        },
+        {
+          "text": " against him, and hath prospered?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.9.5",
+      "edition_verse_id": "KJV1769:JOB.9.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "Which removeth the mountains, and they know not: which overturneth them in his anger.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.9.6",
+      "edition_verse_id": "KJV1769:JOB.9.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "Which shaketh the earth out of her place, and the pillars thereof tremble.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.9.7",
+      "edition_verse_id": "KJV1769:JOB.9.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "Which commandeth the sun, and it riseth not; and sealeth up the stars.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.9.8",
+      "edition_verse_id": "KJV1769:JOB.9.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "Which alone spreadeth out the heavens, and treadeth upon the waves of the sea.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.9.9",
+      "edition_verse_id": "KJV1769:JOB.9.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "Which maketh Arcturus, Orion, and Pleiades, and the chambers of the south.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.9.10",
+      "edition_verse_id": "KJV1769:JOB.9.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "Which doeth great things past finding out; yea, and wonders without number.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.9.11",
+      "edition_verse_id": "KJV1769:JOB.9.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "Lo, he goeth by me, and I see ",
+          "kind": "text"
+        },
+        {
+          "text": "him",
+          "kind": "supplied"
+        },
+        {
+          "text": " not: he passeth on also, but I perceive him not.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.9.12",
+      "edition_verse_id": "KJV1769:JOB.9.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "Behold, he taketh away, who can hinder him? who will say unto him, What doest thou?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.9.13",
+      "edition_verse_id": "KJV1769:JOB.9.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "If",
+          "kind": "supplied"
+        },
+        {
+          "text": " God will not withdraw his anger, the proud helpers do stoop under him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.9.14",
+      "edition_verse_id": "KJV1769:JOB.9.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "How much less shall I answer him, ",
+          "kind": "text"
+        },
+        {
+          "text": "and",
+          "kind": "supplied"
+        },
+        {
+          "text": " choose out my words ",
+          "kind": "text"
+        },
+        {
+          "text": "to reason",
+          "kind": "supplied"
+        },
+        {
+          "text": " with him?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOB.9.15",
+      "edition_verse_id": "KJV1769:JOB.9.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "Whom, though I were righteous, ",
+          "kind": "text"
+        },
+        {
+          "text": "yet",
+          "kind": "supplied"
+        },
+        {
+          "text": " would I not answer, ",
+          "kind": "text"
+        },
+        {
+          "text": "but",
+          "kind": "supplied"
+        },
+        {
+          "text": " I would make supplication to my judge.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.9.16",
+      "edition_verse_id": "KJV1769:JOB.9.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "If I had called, and he had answered me; ",
+          "kind": "text"
+        },
+        {
+          "text": "yet",
+          "kind": "supplied"
+        },
+        {
+          "text": " would I not believe that he had hearkened unto my voice.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.9.17",
+      "edition_verse_id": "KJV1769:JOB.9.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "For he breaketh me with a tempest, and multiplieth my wounds without cause.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.9.18",
+      "edition_verse_id": "KJV1769:JOB.9.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "He will not suffer me to take my breath, but filleth me with bitterness.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.9.19",
+      "edition_verse_id": "KJV1769:JOB.9.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "If ",
+          "kind": "text"
+        },
+        {
+          "text": "I speak",
+          "kind": "supplied"
+        },
+        {
+          "text": " of strength, lo, ",
+          "kind": "text"
+        },
+        {
+          "text": "he is",
+          "kind": "supplied"
+        },
+        {
+          "text": " strong: and if of judgment, who shall set me a time ",
+          "kind": "text"
+        },
+        {
+          "text": "to plead",
+          "kind": "supplied"
+        },
+        {
+          "text": "?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.9.20",
+      "edition_verse_id": "KJV1769:JOB.9.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "If I justify myself, mine own mouth shall condemn me: ",
+          "kind": "text"
+        },
+        {
+          "text": "if I say",
+          "kind": "supplied"
+        },
+        {
+          "text": ", I ",
+          "kind": "text"
+        },
+        {
+          "text": "am",
+          "kind": "supplied"
+        },
+        {
+          "text": " perfect, it shall also prove me perverse.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.9.21",
+      "edition_verse_id": "KJV1769:JOB.9.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "Though",
+          "kind": "supplied"
+        },
+        {
+          "text": " I ",
+          "kind": "text"
+        },
+        {
+          "text": "were",
+          "kind": "supplied"
+        },
+        {
+          "text": " perfect, ",
+          "kind": "text"
+        },
+        {
+          "text": "yet",
+          "kind": "supplied"
+        },
+        {
+          "text": " would I not know my soul: I would despise my life.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.9.22",
+      "edition_verse_id": "KJV1769:JOB.9.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "This ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " one ",
+          "kind": "text"
+        },
+        {
+          "text": "thing",
+          "kind": "supplied"
+        },
+        {
+          "text": ", therefore I said ",
+          "kind": "text"
+        },
+        {
+          "text": "it",
+          "kind": "supplied"
+        },
+        {
+          "text": ", He destroyeth the perfect and the wicked.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOB.9.23",
+      "edition_verse_id": "KJV1769:JOB.9.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "If the scourge slay suddenly, he will laugh at the trial of the innocent.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.9.24",
+      "edition_verse_id": "KJV1769:JOB.9.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "The earth is given into the hand of the wicked: he covereth the faces of the judges thereof; if not, where, ",
+          "kind": "text"
+        },
+        {
+          "text": "and",
+          "kind": "supplied"
+        },
+        {
+          "text": " who ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " he?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.9.25",
+      "edition_verse_id": "KJV1769:JOB.9.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "Now my days are swifter than a post: they flee away, they see no good.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOB.9.26",
+      "edition_verse_id": "KJV1769:JOB.9.26",
+      "verse": 26,
+      "spans": [
+        {
+          "text": "They are passed away as the swift ships: as the eagle ",
+          "kind": "text"
+        },
+        {
+          "text": "that",
+          "kind": "supplied"
+        },
+        {
+          "text": " hasteth to the prey.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.9.27",
+      "edition_verse_id": "KJV1769:JOB.9.27",
+      "verse": 27,
+      "spans": [
+        {
+          "text": "If I say, I will forget my complaint, I will leave off my heaviness, and comfort ",
+          "kind": "text"
+        },
+        {
+          "text": "myself:",
+          "kind": "supplied"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.9.28",
+      "edition_verse_id": "KJV1769:JOB.9.28",
+      "verse": 28,
+      "spans": [
+        {
+          "text": "I am afraid of all my sorrows, I know that thou wilt not hold me innocent.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.9.29",
+      "edition_verse_id": "KJV1769:JOB.9.29",
+      "verse": 29,
+      "spans": [
+        {
+          "text": "If",
+          "kind": "supplied"
+        },
+        {
+          "text": " I be wicked, why then labour I in vain?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.9.30",
+      "edition_verse_id": "KJV1769:JOB.9.30",
+      "verse": 30,
+      "spans": [
+        {
+          "text": "If I wash myself with snow water, and make my hands never so clean;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.9.31",
+      "edition_verse_id": "KJV1769:JOB.9.31",
+      "verse": 31,
+      "spans": [
+        {
+          "text": "Yet shalt thou plunge me in the ditch, and mine own clothes shall abhor me.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.9.32",
+      "edition_verse_id": "KJV1769:JOB.9.32",
+      "verse": 32,
+      "spans": [
+        {
+          "text": "For ",
+          "kind": "text"
+        },
+        {
+          "text": "he is",
+          "kind": "supplied"
+        },
+        {
+          "text": " not a man, as I ",
+          "kind": "text"
+        },
+        {
+          "text": "am, that",
+          "kind": "supplied"
+        },
+        {
+          "text": " I should answer him, ",
+          "kind": "text"
+        },
+        {
+          "text": "and",
+          "kind": "supplied"
+        },
+        {
+          "text": " we should come together in judgment.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.9.33",
+      "edition_verse_id": "KJV1769:JOB.9.33",
+      "verse": 33,
+      "spans": [
+        {
+          "text": "Neither is there any daysman betwixt us, ",
+          "kind": "text"
+        },
+        {
+          "text": "that",
+          "kind": "supplied"
+        },
+        {
+          "text": " might lay his hand upon us both.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.9.34",
+      "edition_verse_id": "KJV1769:JOB.9.34",
+      "verse": 34,
+      "spans": [
+        {
+          "text": "Let him take his rod away from me, and let not his fear terrify me:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.9.35",
+      "edition_verse_id": "KJV1769:JOB.9.35",
+      "verse": 35,
+      "spans": [
+        {
+          "text": "Then",
+          "kind": "supplied"
+        },
+        {
+          "text": " would I speak, and not fear him; but ",
+          "kind": "text"
+        },
+        {
+          "text": "it is",
+          "kind": "supplied"
+        },
+        {
+          "text": " not so with me.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

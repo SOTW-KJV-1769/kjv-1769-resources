@@ -1,0 +1,452 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "KJV1769",
+  "book_code": "ISA",
+  "chapter": 65,
+  "verses": [
+    {
+      "id": "ISA.65.1",
+      "edition_verse_id": "KJV1769:ISA.65.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "I am sought of ",
+          "kind": "text"
+        },
+        {
+          "text": "them that",
+          "kind": "supplied"
+        },
+        {
+          "text": " asked not ",
+          "kind": "text"
+        },
+        {
+          "text": "for me;",
+          "kind": "supplied"
+        },
+        {
+          "text": " I am found of ",
+          "kind": "text"
+        },
+        {
+          "text": "them that",
+          "kind": "supplied"
+        },
+        {
+          "text": " sought me not: I said, Behold me, behold me, unto a nation ",
+          "kind": "text"
+        },
+        {
+          "text": "that",
+          "kind": "supplied"
+        },
+        {
+          "text": " was not called by my name.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ISA.65.2",
+      "edition_verse_id": "KJV1769:ISA.65.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "I have spread out my hands all the day unto a rebellious people, which walketh in a way ",
+          "kind": "text"
+        },
+        {
+          "text": "that was",
+          "kind": "supplied"
+        },
+        {
+          "text": " not good, after their own thoughts;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.65.3",
+      "edition_verse_id": "KJV1769:ISA.65.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "A people that provoketh me to anger continually to my face; that sacrificeth in gardens, and burneth incense upon altars of brick;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.65.4",
+      "edition_verse_id": "KJV1769:ISA.65.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "Which remain among the graves, and lodge in the monuments, which eat swine’s flesh, and broth of abominable ",
+          "kind": "text"
+        },
+        {
+          "text": "things is in",
+          "kind": "supplied"
+        },
+        {
+          "text": " their vessels;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.65.5",
+      "edition_verse_id": "KJV1769:ISA.65.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "Which say, Stand by thyself, come not near to me; for I am holier than thou. These ",
+          "kind": "text"
+        },
+        {
+          "text": "are",
+          "kind": "supplied"
+        },
+        {
+          "text": " a smoke in my nose, a fire that burneth all the day.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.65.6",
+      "edition_verse_id": "KJV1769:ISA.65.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "Behold, ",
+          "kind": "text"
+        },
+        {
+          "text": "it is",
+          "kind": "supplied"
+        },
+        {
+          "text": " written before me: I will not keep silence, but will recompense, even recompense into their bosom,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.65.7",
+      "edition_verse_id": "KJV1769:ISA.65.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "Your iniquities, and the iniquities of your fathers together, saith the LORD, which have burned incense upon the mountains, and blasphemed me upon the hills: therefore will I measure their former work into their bosom.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.65.8",
+      "edition_verse_id": "KJV1769:ISA.65.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "¶ Thus saith the LORD, As the new wine is found in the cluster, and ",
+          "kind": "text"
+        },
+        {
+          "text": "one",
+          "kind": "supplied"
+        },
+        {
+          "text": " saith, Destroy it not; for a blessing ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " in it: so will I do for my servants’ sakes, that I may not destroy them all.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ISA.65.9",
+      "edition_verse_id": "KJV1769:ISA.65.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "And I will bring forth a seed out of Jacob, and out of Judah an inheritor of my mountains: and mine elect shall inherit it, and my servants shall dwell there.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.65.10",
+      "edition_verse_id": "KJV1769:ISA.65.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "And Sharon shall be a fold of flocks, and the valley of Achor a place for the herds to lie down in, for my people that have sought me.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.65.11",
+      "edition_verse_id": "KJV1769:ISA.65.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "¶ But ye ",
+          "kind": "text"
+        },
+        {
+          "text": "are",
+          "kind": "supplied"
+        },
+        {
+          "text": " they that forsake the LORD, that forget my holy mountain, that prepare a table for that troop, and that furnish the drink offering unto that number.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ISA.65.12",
+      "edition_verse_id": "KJV1769:ISA.65.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "Therefore will I number you to the sword, and ye shall all bow down to the slaughter: because when I called, ye did not answer; when I spake, ye did not hear; but did evil before mine eyes, and did choose ",
+          "kind": "text"
+        },
+        {
+          "text": "that",
+          "kind": "supplied"
+        },
+        {
+          "text": " wherein I delighted not.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.65.13",
+      "edition_verse_id": "KJV1769:ISA.65.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "Therefore thus saith the Lord GOD, Behold, my servants shall eat, but ye shall be hungry: behold, my servants shall drink, but ye shall be thirsty: behold, my servants shall rejoice, but ye shall be ashamed:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.65.14",
+      "edition_verse_id": "KJV1769:ISA.65.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "Behold, my servants shall sing for joy of heart, but ye shall cry for sorrow of heart, and shall howl for vexation of spirit.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.65.15",
+      "edition_verse_id": "KJV1769:ISA.65.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "And ye shall leave your name for a curse unto my chosen: for the Lord GOD shall slay thee, and call his servants by another name:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.65.16",
+      "edition_verse_id": "KJV1769:ISA.65.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "That he who blesseth himself in the earth shall bless himself in the God of truth; and he that sweareth in the earth shall swear by the God of truth; because the former troubles are forgotten, and because they are hid from mine eyes.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.65.17",
+      "edition_verse_id": "KJV1769:ISA.65.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "¶ For, behold, I create new heavens and a new earth: and the former shall not be remembered, nor come into mind.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ISA.65.18",
+      "edition_verse_id": "KJV1769:ISA.65.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "But be ye glad and rejoice for ever ",
+          "kind": "text"
+        },
+        {
+          "text": "in that",
+          "kind": "supplied"
+        },
+        {
+          "text": " which I create: for, behold, I create Jerusalem a rejoicing, and her people a joy.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.65.19",
+      "edition_verse_id": "KJV1769:ISA.65.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "And I will rejoice in Jerusalem, and joy in my people: and the voice of weeping shall be no more heard in her, nor the voice of crying.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.65.20",
+      "edition_verse_id": "KJV1769:ISA.65.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "There shall be no more thence an infant of days, nor an old man that hath not filled his days: for the child shall die an hundred years old; but the sinner ",
+          "kind": "text"
+        },
+        {
+          "text": "being",
+          "kind": "supplied"
+        },
+        {
+          "text": " an hundred years old shall be accursed.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.65.21",
+      "edition_verse_id": "KJV1769:ISA.65.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "And they shall build houses, and inhabit ",
+          "kind": "text"
+        },
+        {
+          "text": "them;",
+          "kind": "supplied"
+        },
+        {
+          "text": " and they shall plant vineyards, and eat the fruit of them.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.65.22",
+      "edition_verse_id": "KJV1769:ISA.65.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "They shall not build, and another inhabit; they shall not plant, and another eat: for as the days of a tree ",
+          "kind": "text"
+        },
+        {
+          "text": "are",
+          "kind": "supplied"
+        },
+        {
+          "text": " the days of my people, and mine elect shall long enjoy the work of their hands.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.65.23",
+      "edition_verse_id": "KJV1769:ISA.65.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "They shall not labour in vain, nor bring forth for trouble; for they ",
+          "kind": "text"
+        },
+        {
+          "text": "are",
+          "kind": "supplied"
+        },
+        {
+          "text": " the seed of the blessed of the LORD, and their offspring with them.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.65.24",
+      "edition_verse_id": "KJV1769:ISA.65.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "And it shall come to pass, that before they call, I will answer; and while they are yet speaking, I will hear.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.65.25",
+      "edition_verse_id": "KJV1769:ISA.65.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "The wolf and the lamb shall feed together, and the lion shall eat straw like the bullock: and dust ",
+          "kind": "text"
+        },
+        {
+          "text": "shall be",
+          "kind": "supplied"
+        },
+        {
+          "text": " the serpent’s meat. They shall not hurt nor destroy in all my holy mountain, saith the LORD.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

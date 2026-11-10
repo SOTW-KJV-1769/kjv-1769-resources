@@ -1,0 +1,280 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "KJV1769",
+  "book_code": "ISA",
+  "chapter": 58,
+  "verses": [
+    {
+      "id": "ISA.58.1",
+      "edition_verse_id": "KJV1769:ISA.58.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "Cry aloud, spare not, lift up thy voice like a trumpet, and shew my people their transgression, and the house of Jacob their sins.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ISA.58.2",
+      "edition_verse_id": "KJV1769:ISA.58.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "Yet they seek me daily, and delight to know my ways, as a nation that did righteousness, and forsook not the ordinance of their God: they ask of me the ordinances of justice; they take delight in approaching to God.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.58.3",
+      "edition_verse_id": "KJV1769:ISA.58.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "¶ Wherefore have we fasted, ",
+          "kind": "text"
+        },
+        {
+          "text": "say they",
+          "kind": "supplied"
+        },
+        {
+          "text": ", and thou seest not? ",
+          "kind": "text"
+        },
+        {
+          "text": "wherefore",
+          "kind": "supplied"
+        },
+        {
+          "text": " have we afflicted our soul, and thou takest no knowledge? Behold, in the day of your fast ye find pleasure, and exact all your labours.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ISA.58.4",
+      "edition_verse_id": "KJV1769:ISA.58.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "Behold, ye fast for strife and debate, and to smite with the fist of wickedness: ye shall not fast as ",
+          "kind": "text"
+        },
+        {
+          "text": "ye do this",
+          "kind": "supplied"
+        },
+        {
+          "text": " day, to make your voice to be heard on high.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.58.5",
+      "edition_verse_id": "KJV1769:ISA.58.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "Is it such a fast that I have chosen? a day for a man to afflict his soul? ",
+          "kind": "text"
+        },
+        {
+          "text": "is it",
+          "kind": "supplied"
+        },
+        {
+          "text": " to bow down his head as a bulrush, and to spread sackcloth and ashes ",
+          "kind": "text"
+        },
+        {
+          "text": "under him",
+          "kind": "supplied"
+        },
+        {
+          "text": "? wilt thou call this a fast, and an acceptable day to the LORD?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.58.6",
+      "edition_verse_id": "KJV1769:ISA.58.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "Is",
+          "kind": "supplied"
+        },
+        {
+          "text": " not this the fast that I have chosen? to loose the bands of wickedness, to undo the heavy burdens, and to let the oppressed go free, and that ye break every yoke?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.58.7",
+      "edition_verse_id": "KJV1769:ISA.58.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "Is it",
+          "kind": "supplied"
+        },
+        {
+          "text": " not to deal thy bread to the hungry, and that thou bring the poor that are cast out to thy house? when thou seest the naked, that thou cover him; and that thou hide not thyself from thine own flesh?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.58.8",
+      "edition_verse_id": "KJV1769:ISA.58.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "¶ Then shall thy light break forth as the morning, and thine health shall spring forth speedily: and thy righteousness shall go before thee; the glory of the LORD shall be thy rereward.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ISA.58.9",
+      "edition_verse_id": "KJV1769:ISA.58.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "Then shalt thou call, and the LORD shall answer; thou shalt cry, and he shall say, Here I ",
+          "kind": "text"
+        },
+        {
+          "text": "am",
+          "kind": "supplied"
+        },
+        {
+          "text": ". If thou take away from the midst of thee the yoke, the putting forth of the finger, and speaking vanity;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.58.10",
+      "edition_verse_id": "KJV1769:ISA.58.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "And ",
+          "kind": "text"
+        },
+        {
+          "text": "if",
+          "kind": "supplied"
+        },
+        {
+          "text": " thou draw out thy soul to the hungry, and satisfy the afflicted soul; then shall thy light rise in obscurity, and thy darkness ",
+          "kind": "text"
+        },
+        {
+          "text": "be",
+          "kind": "supplied"
+        },
+        {
+          "text": " as the noonday:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.58.11",
+      "edition_verse_id": "KJV1769:ISA.58.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "And the LORD shall guide thee continually, and satisfy thy soul in drought, and make fat thy bones: and thou shalt be like a watered garden, and like a spring of water, whose waters fail not.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.58.12",
+      "edition_verse_id": "KJV1769:ISA.58.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "And ",
+          "kind": "text"
+        },
+        {
+          "text": "they that shall be",
+          "kind": "supplied"
+        },
+        {
+          "text": " of thee shall build the old waste places: thou shalt raise up the foundations of many generations; and thou shalt be called, The repairer of the breach, The restorer of paths to dwell in.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.58.13",
+      "edition_verse_id": "KJV1769:ISA.58.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "¶ If thou turn away thy foot from the sabbath, ",
+          "kind": "text"
+        },
+        {
+          "text": "from",
+          "kind": "supplied"
+        },
+        {
+          "text": " doing thy pleasure on my holy day; and call the sabbath a delight, the holy of the LORD, honourable; and shalt honour him, not doing thine own ways, nor finding thine own pleasure, nor speaking ",
+          "kind": "text"
+        },
+        {
+          "text": "thine own",
+          "kind": "supplied"
+        },
+        {
+          "text": " words:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ISA.58.14",
+      "edition_verse_id": "KJV1769:ISA.58.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "Then shalt thou delight thyself in the LORD; and I will cause thee to ride upon the high places of the earth, and feed thee with the heritage of Jacob thy father: for the mouth of the LORD hath spoken ",
+          "kind": "text"
+        },
+        {
+          "text": "it",
+          "kind": "supplied"
+        },
+        {
+          "text": ".",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

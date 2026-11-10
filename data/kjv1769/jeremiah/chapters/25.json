@@ -1,0 +1,604 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "KJV1769",
+  "book_code": "JER",
+  "chapter": 25,
+  "verses": [
+    {
+      "id": "JER.25.1",
+      "edition_verse_id": "KJV1769:JER.25.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "The word that came to Jeremiah concerning all the people of Judah in the fourth year of Jehoiakim the son of Josiah king of Judah, that ",
+          "kind": "text"
+        },
+        {
+          "text": "was",
+          "kind": "supplied"
+        },
+        {
+          "text": " the first year of Nebuchadrezzar king of Babylon;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JER.25.2",
+      "edition_verse_id": "KJV1769:JER.25.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "The which Jeremiah the prophet spake unto all the people of Judah, and to all the inhabitants of Jerusalem, saying,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JER.25.3",
+      "edition_verse_id": "KJV1769:JER.25.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "From the thirteenth year of Josiah the son of Amon king of Judah, even unto this day, that ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " the three and twentieth year, the word of the LORD hath come unto me, and I have spoken unto you, rising early and speaking; but ye have not hearkened.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JER.25.4",
+      "edition_verse_id": "KJV1769:JER.25.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "And the LORD hath sent unto you all his servants the prophets, rising early and sending ",
+          "kind": "text"
+        },
+        {
+          "text": "them;",
+          "kind": "supplied"
+        },
+        {
+          "text": " but ye have not hearkened, nor inclined your ear to hear.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JER.25.5",
+      "edition_verse_id": "KJV1769:JER.25.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "They said, Turn ye again now every one from his evil way, and from the evil of your doings, and dwell in the land that the LORD hath given unto you and to your fathers for ever and ever:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JER.25.6",
+      "edition_verse_id": "KJV1769:JER.25.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "And go not after other gods to serve them, and to worship them, and provoke me not to anger with the works of your hands; and I will do you no hurt.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JER.25.7",
+      "edition_verse_id": "KJV1769:JER.25.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "Yet ye have not hearkened unto me, saith the LORD; that ye might provoke me to anger with the works of your hands to your own hurt.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JER.25.8",
+      "edition_verse_id": "KJV1769:JER.25.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "¶ Therefore thus saith the LORD of hosts; Because ye have not heard my words,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JER.25.9",
+      "edition_verse_id": "KJV1769:JER.25.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "Behold, I will send and take all the families of the north, saith the LORD, and Nebuchadrezzar the king of Babylon, my servant, and will bring them against this land, and against the inhabitants thereof, and against all these nations round about, and will utterly destroy them, and make them an astonishment, and an hissing, and perpetual desolations.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JER.25.10",
+      "edition_verse_id": "KJV1769:JER.25.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "Moreover I will take from them the voice of mirth, and the voice of gladness, the voice of the bridegroom, and the voice of the bride, the sound of the millstones, and the light of the candle.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JER.25.11",
+      "edition_verse_id": "KJV1769:JER.25.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "And this whole land shall be a desolation, ",
+          "kind": "text"
+        },
+        {
+          "text": "and",
+          "kind": "supplied"
+        },
+        {
+          "text": " an astonishment; and these nations shall serve the king of Babylon seventy years.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JER.25.12",
+      "edition_verse_id": "KJV1769:JER.25.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "¶ And it shall come to pass, when seventy years are accomplished, ",
+          "kind": "text"
+        },
+        {
+          "text": "that",
+          "kind": "supplied"
+        },
+        {
+          "text": " I will punish the king of Babylon, and that nation, saith the LORD, for their iniquity, and the land of the Chaldeans, and will make it perpetual desolations.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JER.25.13",
+      "edition_verse_id": "KJV1769:JER.25.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "And I will bring upon that land all my words which I have pronounced against it, ",
+          "kind": "text"
+        },
+        {
+          "text": "even",
+          "kind": "supplied"
+        },
+        {
+          "text": " all that is written in this book, which Jeremiah hath prophesied against all the nations.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JER.25.14",
+      "edition_verse_id": "KJV1769:JER.25.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "For many nations and great kings shall serve themselves of them also: and I will recompense them according to their deeds, and according to the works of their own hands.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JER.25.15",
+      "edition_verse_id": "KJV1769:JER.25.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "¶ For thus saith the LORD God of Israel unto me; Take the wine cup of this fury at my hand, and cause all the nations, to whom I send thee, to drink it.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JER.25.16",
+      "edition_verse_id": "KJV1769:JER.25.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "And they shall drink, and be moved, and be mad, because of the sword that I will send among them.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JER.25.17",
+      "edition_verse_id": "KJV1769:JER.25.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "Then took I the cup at the LORD’s hand, and made all the nations to drink, unto whom the LORD had sent me:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JER.25.18",
+      "edition_verse_id": "KJV1769:JER.25.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "To wit",
+          "kind": "supplied"
+        },
+        {
+          "text": ", Jerusalem, and the cities of Judah, and the kings thereof, and the princes thereof, to make them a desolation, an astonishment, an hissing, and a curse; as ",
+          "kind": "text"
+        },
+        {
+          "text": "it is",
+          "kind": "supplied"
+        },
+        {
+          "text": " this day;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JER.25.19",
+      "edition_verse_id": "KJV1769:JER.25.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "Pharaoh king of Egypt, and his servants, and his princes, and all his people;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JER.25.20",
+      "edition_verse_id": "KJV1769:JER.25.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "And all the mingled people, and all the kings of the land of Uz, and all the kings of the land of the Philistines, and Ashkelon, and Azzah, and Ekron, and the remnant of Ashdod,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JER.25.21",
+      "edition_verse_id": "KJV1769:JER.25.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "Edom, and Moab, and the children of Ammon,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JER.25.22",
+      "edition_verse_id": "KJV1769:JER.25.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "And all the kings of Tyrus, and all the kings of Zidon, and the kings of the isles which ",
+          "kind": "text"
+        },
+        {
+          "text": "are",
+          "kind": "supplied"
+        },
+        {
+          "text": " beyond the sea,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JER.25.23",
+      "edition_verse_id": "KJV1769:JER.25.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "Dedan, and Tema, and Buz, and all ",
+          "kind": "text"
+        },
+        {
+          "text": "that are",
+          "kind": "supplied"
+        },
+        {
+          "text": " in the utmost corners,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JER.25.24",
+      "edition_verse_id": "KJV1769:JER.25.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "And all the kings of Arabia, and all the kings of the mingled people that dwell in the desert,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JER.25.25",
+      "edition_verse_id": "KJV1769:JER.25.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "And all the kings of Zimri, and all the kings of Elam, and all the kings of the Medes,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JER.25.26",
+      "edition_verse_id": "KJV1769:JER.25.26",
+      "verse": 26,
+      "spans": [
+        {
+          "text": "And all the kings of the north, far and near, one with another, and all the kingdoms of the world, which ",
+          "kind": "text"
+        },
+        {
+          "text": "are",
+          "kind": "supplied"
+        },
+        {
+          "text": " upon the face of the earth: and the king of Sheshach shall drink after them.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JER.25.27",
+      "edition_verse_id": "KJV1769:JER.25.27",
+      "verse": 27,
+      "spans": [
+        {
+          "text": "Therefore thou shalt say unto them, Thus saith the LORD of hosts, the God of Israel; Drink ye, and be drunken, and spue, and fall, and rise no more, because of the sword which I will send among you.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JER.25.28",
+      "edition_verse_id": "KJV1769:JER.25.28",
+      "verse": 28,
+      "spans": [
+        {
+          "text": "And it shall be, if they refuse to take the cup at thine hand to drink, then shalt thou say unto them, Thus saith the LORD of hosts; Ye shall certainly drink.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JER.25.29",
+      "edition_verse_id": "KJV1769:JER.25.29",
+      "verse": 29,
+      "spans": [
+        {
+          "text": "For, lo, I begin to bring evil on the city which is called by my name, and should ye be utterly unpunished? Ye shall not be unpunished: for I will call for a sword upon all the inhabitants of the earth, saith the LORD of hosts.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JER.25.30",
+      "edition_verse_id": "KJV1769:JER.25.30",
+      "verse": 30,
+      "spans": [
+        {
+          "text": "Therefore prophesy thou against them all these words, and say unto them, The LORD shall roar from on high, and utter his voice from his holy habitation; he shall mightily roar upon his habitation; he shall give a shout, as they that tread ",
+          "kind": "text"
+        },
+        {
+          "text": "the grapes",
+          "kind": "supplied"
+        },
+        {
+          "text": ", against all the inhabitants of the earth.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JER.25.31",
+      "edition_verse_id": "KJV1769:JER.25.31",
+      "verse": 31,
+      "spans": [
+        {
+          "text": "A noise shall come ",
+          "kind": "text"
+        },
+        {
+          "text": "even",
+          "kind": "supplied"
+        },
+        {
+          "text": " to the ends of the earth; for the LORD hath a controversy with the nations, he will plead with all flesh; he will give them ",
+          "kind": "text"
+        },
+        {
+          "text": "that are",
+          "kind": "supplied"
+        },
+        {
+          "text": " wicked to the sword, saith the LORD.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JER.25.32",
+      "edition_verse_id": "KJV1769:JER.25.32",
+      "verse": 32,
+      "spans": [
+        {
+          "text": "Thus saith the LORD of hosts, Behold, evil shall go forth from nation to nation, and a great whirlwind shall be raised up from the coasts of the earth.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JER.25.33",
+      "edition_verse_id": "KJV1769:JER.25.33",
+      "verse": 33,
+      "spans": [
+        {
+          "text": "And the slain of the LORD shall be at that day from ",
+          "kind": "text"
+        },
+        {
+          "text": "one",
+          "kind": "supplied"
+        },
+        {
+          "text": " end of the earth even unto the ",
+          "kind": "text"
+        },
+        {
+          "text": "other",
+          "kind": "supplied"
+        },
+        {
+          "text": " end of the earth: they shall not be lamented, neither gathered, nor buried; they shall be dung upon the ground.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JER.25.34",
+      "edition_verse_id": "KJV1769:JER.25.34",
+      "verse": 34,
+      "spans": [
+        {
+          "text": "¶ Howl, ye shepherds, and cry; and wallow yourselves ",
+          "kind": "text"
+        },
+        {
+          "text": "in the ashes",
+          "kind": "supplied"
+        },
+        {
+          "text": ", ye principal of the flock: for the days of your slaughter and of your dispersions are accomplished; and ye shall fall like a pleasant vessel.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JER.25.35",
+      "edition_verse_id": "KJV1769:JER.25.35",
+      "verse": 35,
+      "spans": [
+        {
+          "text": "And the shepherds shall have no way to flee, nor the principal of the flock to escape.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JER.25.36",
+      "edition_verse_id": "KJV1769:JER.25.36",
+      "verse": 36,
+      "spans": [
+        {
+          "text": "A voice of the cry of the shepherds, and an howling of the principal of the flock, ",
+          "kind": "text"
+        },
+        {
+          "text": "shall be heard:",
+          "kind": "supplied"
+        },
+        {
+          "text": " for the LORD hath spoiled their pasture.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JER.25.37",
+      "edition_verse_id": "KJV1769:JER.25.37",
+      "verse": 37,
+      "spans": [
+        {
+          "text": "And the peaceable habitations are cut down because of the fierce anger of the LORD.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JER.25.38",
+      "edition_verse_id": "KJV1769:JER.25.38",
+      "verse": 38,
+      "spans": [
+        {
+          "text": "He hath forsaken his covert, as the lion: for their land is desolate because of the fierceness of the oppressor, and because of his fierce anger.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

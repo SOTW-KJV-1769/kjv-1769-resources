@@ -1,0 +1,716 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "KJV1769",
+  "book_code": "JER",
+  "chapter": 49,
+  "verses": [
+    {
+      "id": "JER.49.1",
+      "edition_verse_id": "KJV1769:JER.49.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "Concerning the Ammonites, thus saith the LORD; Hath Israel no sons? hath he no heir? why ",
+          "kind": "text"
+        },
+        {
+          "text": "then",
+          "kind": "supplied"
+        },
+        {
+          "text": " doth their king inherit Gad, and his people dwell in his cities?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JER.49.2",
+      "edition_verse_id": "KJV1769:JER.49.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "Therefore, behold, the days come, saith the LORD, that I will cause an alarm of war to be heard in Rabbah of the Ammonites; and it shall be a desolate heap, and her daughters shall be burned with fire: then shall Israel be heir unto them that were his heirs, saith the LORD.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JER.49.3",
+      "edition_verse_id": "KJV1769:JER.49.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "Howl, O Heshbon, for Ai is spoiled: cry, ye daughters of Rabbah, gird you with sackcloth; lament, and run to and fro by the hedges; for their king shall go into captivity, ",
+          "kind": "text"
+        },
+        {
+          "text": "and",
+          "kind": "supplied"
+        },
+        {
+          "text": " his priests and his princes together.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JER.49.4",
+      "edition_verse_id": "KJV1769:JER.49.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "Wherefore gloriest thou in the valleys, thy flowing valley, O backsliding daughter? that trusted in her treasures, ",
+          "kind": "text"
+        },
+        {
+          "text": "saying",
+          "kind": "supplied"
+        },
+        {
+          "text": ", Who shall come unto me?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JER.49.5",
+      "edition_verse_id": "KJV1769:JER.49.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "Behold, I will bring a fear upon thee, saith the Lord GOD of hosts, from all those that be about thee; and ye shall be driven out every man right forth; and none shall gather up him that wandereth.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JER.49.6",
+      "edition_verse_id": "KJV1769:JER.49.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "And afterward I will bring again the captivity of the children of Ammon, saith the LORD.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JER.49.7",
+      "edition_verse_id": "KJV1769:JER.49.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "¶ Concerning Edom, thus saith the LORD of hosts; ",
+          "kind": "text"
+        },
+        {
+          "text": "Is",
+          "kind": "supplied"
+        },
+        {
+          "text": " wisdom no more in Teman? is counsel perished from the prudent? is their wisdom vanished?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JER.49.8",
+      "edition_verse_id": "KJV1769:JER.49.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "Flee ye, turn back, dwell deep, O inhabitants of Dedan; for I will bring the calamity of Esau upon him, the time ",
+          "kind": "text"
+        },
+        {
+          "text": "that",
+          "kind": "supplied"
+        },
+        {
+          "text": " I will visit him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JER.49.9",
+      "edition_verse_id": "KJV1769:JER.49.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "If grapegatherers come to thee, would they not leave ",
+          "kind": "text"
+        },
+        {
+          "text": "some",
+          "kind": "supplied"
+        },
+        {
+          "text": " gleaning grapes? if thieves by night, they will destroy till they have enough.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JER.49.10",
+      "edition_verse_id": "KJV1769:JER.49.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "But I have made Esau bare, I have uncovered his secret places, and he shall not be able to hide himself: his seed is spoiled, and his brethren, and his neighbours, and he ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " not.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JER.49.11",
+      "edition_verse_id": "KJV1769:JER.49.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "Leave thy fatherless children, I will preserve ",
+          "kind": "text"
+        },
+        {
+          "text": "them",
+          "kind": "supplied"
+        },
+        {
+          "text": " alive; and let thy widows trust in me.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JER.49.12",
+      "edition_verse_id": "KJV1769:JER.49.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "For thus saith the LORD; Behold, they whose judgment ",
+          "kind": "text"
+        },
+        {
+          "text": "was",
+          "kind": "supplied"
+        },
+        {
+          "text": " not to drink of the cup have assuredly drunken; and ",
+          "kind": "text"
+        },
+        {
+          "text": "art",
+          "kind": "supplied"
+        },
+        {
+          "text": " thou he ",
+          "kind": "text"
+        },
+        {
+          "text": "that",
+          "kind": "supplied"
+        },
+        {
+          "text": " shall altogether go unpunished? thou shalt not go unpunished, but thou shalt surely drink ",
+          "kind": "text"
+        },
+        {
+          "text": "of it",
+          "kind": "supplied"
+        },
+        {
+          "text": ".",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JER.49.13",
+      "edition_verse_id": "KJV1769:JER.49.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "For I have sworn by myself, saith the LORD, that Bozrah shall become a desolation, a reproach, a waste, and a curse; and all the cities thereof shall be perpetual wastes.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JER.49.14",
+      "edition_verse_id": "KJV1769:JER.49.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "I have heard a rumour from the LORD, and an ambassador is sent unto the heathen, ",
+          "kind": "text"
+        },
+        {
+          "text": "saying",
+          "kind": "supplied"
+        },
+        {
+          "text": ", Gather ye together, and come against her, and rise up to the battle.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JER.49.15",
+      "edition_verse_id": "KJV1769:JER.49.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "For, lo, I will make thee small among the heathen, ",
+          "kind": "text"
+        },
+        {
+          "text": "and",
+          "kind": "supplied"
+        },
+        {
+          "text": " despised among men.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JER.49.16",
+      "edition_verse_id": "KJV1769:JER.49.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "Thy terribleness hath deceived thee, ",
+          "kind": "text"
+        },
+        {
+          "text": "and",
+          "kind": "supplied"
+        },
+        {
+          "text": " the pride of thine heart, O thou that dwellest in the clefts of the rock, that holdest the height of the hill: though thou shouldest make thy nest as high as the eagle, I will bring thee down from thence, saith the LORD.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JER.49.17",
+      "edition_verse_id": "KJV1769:JER.49.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "Also Edom shall be a desolation: every one that goeth by it shall be astonished, and shall hiss at all the plagues thereof.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JER.49.18",
+      "edition_verse_id": "KJV1769:JER.49.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "As in the overthrow of Sodom and Gomorrah and the neighbour ",
+          "kind": "text"
+        },
+        {
+          "text": "cities",
+          "kind": "supplied"
+        },
+        {
+          "text": " thereof, saith the LORD, no man shall abide there, neither shall a son of man dwell in it.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JER.49.19",
+      "edition_verse_id": "KJV1769:JER.49.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "Behold, he shall come up like a lion from the swelling of Jordan against the habitation of the strong: but I will suddenly make him run away from her: and who ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " a chosen ",
+          "kind": "text"
+        },
+        {
+          "text": "man, that",
+          "kind": "supplied"
+        },
+        {
+          "text": " I may appoint over her? for who ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " like me? and who will appoint me the time? and who ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " that shepherd that will stand before me?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JER.49.20",
+      "edition_verse_id": "KJV1769:JER.49.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "Therefore hear the counsel of the LORD, that he hath taken against Edom; and his purposes, that he hath purposed against the inhabitants of Teman: Surely the least of the flock shall draw them out: surely he shall make their habitations desolate with them.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JER.49.21",
+      "edition_verse_id": "KJV1769:JER.49.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "The earth is moved at the noise of their fall, at the cry the noise thereof was heard in the Red sea.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JER.49.22",
+      "edition_verse_id": "KJV1769:JER.49.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "Behold, he shall come up and fly as the eagle, and spread his wings over Bozrah: and at that day shall the heart of the mighty men of Edom be as the heart of a woman in her pangs.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JER.49.23",
+      "edition_verse_id": "KJV1769:JER.49.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "¶ Concerning Damascus. Hamath is confounded, and Arpad: for they have heard evil tidings: they are fainthearted; ",
+          "kind": "text"
+        },
+        {
+          "text": "there is",
+          "kind": "supplied"
+        },
+        {
+          "text": " sorrow on the sea; it cannot be quiet.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JER.49.24",
+      "edition_verse_id": "KJV1769:JER.49.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "Damascus is waxed feeble, ",
+          "kind": "text"
+        },
+        {
+          "text": "and",
+          "kind": "supplied"
+        },
+        {
+          "text": " turneth herself to flee, and fear hath seized on ",
+          "kind": "text"
+        },
+        {
+          "text": "her:",
+          "kind": "supplied"
+        },
+        {
+          "text": " anguish and sorrows have taken her, as a woman in travail.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JER.49.25",
+      "edition_verse_id": "KJV1769:JER.49.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "How is the city of praise not left, the city of my joy!",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JER.49.26",
+      "edition_verse_id": "KJV1769:JER.49.26",
+      "verse": 26,
+      "spans": [
+        {
+          "text": "Therefore her young men shall fall in her streets, and all the men of war shall be cut off in that day, saith the LORD of hosts.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JER.49.27",
+      "edition_verse_id": "KJV1769:JER.49.27",
+      "verse": 27,
+      "spans": [
+        {
+          "text": "And I will kindle a fire in the wall of Damascus, and it shall consume the palaces of Ben-hadad.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JER.49.28",
+      "edition_verse_id": "KJV1769:JER.49.28",
+      "verse": 28,
+      "spans": [
+        {
+          "text": "¶ Concerning Kedar, and concerning the kingdoms of Hazor, which Nebuchadrezzar king of Babylon shall smite, thus saith the LORD; Arise ye, go up to Kedar, and spoil the men of the east.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JER.49.29",
+      "edition_verse_id": "KJV1769:JER.49.29",
+      "verse": 29,
+      "spans": [
+        {
+          "text": "Their tents and their flocks shall they take away: they shall take to themselves their curtains, and all their vessels, and their camels; and they shall cry unto them, Fear ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " on every side.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JER.49.30",
+      "edition_verse_id": "KJV1769:JER.49.30",
+      "verse": 30,
+      "spans": [
+        {
+          "text": "¶ Flee, get you far off, dwell deep, O ye inhabitants of Hazor, saith the LORD; for Nebuchadrezzar king of Babylon hath taken counsel against you, and hath conceived a purpose against you.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JER.49.31",
+      "edition_verse_id": "KJV1769:JER.49.31",
+      "verse": 31,
+      "spans": [
+        {
+          "text": "Arise, get you up unto the wealthy nation, that dwelleth without care, saith the LORD, which have neither gates nor bars, ",
+          "kind": "text"
+        },
+        {
+          "text": "which",
+          "kind": "supplied"
+        },
+        {
+          "text": " dwell alone.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JER.49.32",
+      "edition_verse_id": "KJV1769:JER.49.32",
+      "verse": 32,
+      "spans": [
+        {
+          "text": "And their camels shall be a booty, and the multitude of their cattle a spoil: and I will scatter into all winds them ",
+          "kind": "text"
+        },
+        {
+          "text": "that are",
+          "kind": "supplied"
+        },
+        {
+          "text": " in the utmost corners; and I will bring their calamity from all sides thereof, saith the LORD.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JER.49.33",
+      "edition_verse_id": "KJV1769:JER.49.33",
+      "verse": 33,
+      "spans": [
+        {
+          "text": "And Hazor shall be a dwelling for dragons, ",
+          "kind": "text"
+        },
+        {
+          "text": "and",
+          "kind": "supplied"
+        },
+        {
+          "text": " a desolation for ever: there shall no man abide there, nor ",
+          "kind": "text"
+        },
+        {
+          "text": "any",
+          "kind": "supplied"
+        },
+        {
+          "text": " son of man dwell in it.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JER.49.34",
+      "edition_verse_id": "KJV1769:JER.49.34",
+      "verse": 34,
+      "spans": [
+        {
+          "text": "¶ The word of the LORD that came to Jeremiah the prophet against Elam in the beginning of the reign of Zedekiah king of Judah, saying,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JER.49.35",
+      "edition_verse_id": "KJV1769:JER.49.35",
+      "verse": 35,
+      "spans": [
+        {
+          "text": "Thus saith the LORD of hosts; Behold, I will break the bow of Elam, the chief of their might.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JER.49.36",
+      "edition_verse_id": "KJV1769:JER.49.36",
+      "verse": 36,
+      "spans": [
+        {
+          "text": "And upon Elam will I bring the four winds from the four quarters of heaven, and will scatter them toward all those winds; and there shall be no nation whither the outcasts of Elam shall not come.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JER.49.37",
+      "edition_verse_id": "KJV1769:JER.49.37",
+      "verse": 37,
+      "spans": [
+        {
+          "text": "For I will cause Elam to be dismayed before their enemies, and before them that seek their life: and I will bring evil upon them, ",
+          "kind": "text"
+        },
+        {
+          "text": "even",
+          "kind": "supplied"
+        },
+        {
+          "text": " my fierce anger, saith the LORD; and I will send the sword after them, till I have consumed them:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JER.49.38",
+      "edition_verse_id": "KJV1769:JER.49.38",
+      "verse": 38,
+      "spans": [
+        {
+          "text": "And I will set my throne in Elam, and will destroy from thence the king and the princes, saith the LORD.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JER.49.39",
+      "edition_verse_id": "KJV1769:JER.49.39",
+      "verse": 39,
+      "spans": [
+        {
+          "text": "¶ But it shall come to pass in the latter days, ",
+          "kind": "text"
+        },
+        {
+          "text": "that",
+          "kind": "supplied"
+        },
+        {
+          "text": " I will bring again the captivity of Elam, saith the LORD.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    }
+  ]
+}

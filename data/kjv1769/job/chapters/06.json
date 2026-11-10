@@ -1,0 +1,504 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "KJV1769",
+  "book_code": "JOB",
+  "chapter": 6,
+  "verses": [
+    {
+      "id": "JOB.6.1",
+      "edition_verse_id": "KJV1769:JOB.6.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "But Job answered and said,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOB.6.2",
+      "edition_verse_id": "KJV1769:JOB.6.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "Oh that my grief were throughly weighed, and my calamity laid in the balances together!",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.6.3",
+      "edition_verse_id": "KJV1769:JOB.6.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "For now it would be heavier than the sand of the sea: therefore my words are swallowed up.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.6.4",
+      "edition_verse_id": "KJV1769:JOB.6.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "For the arrows of the Almighty ",
+          "kind": "text"
+        },
+        {
+          "text": "are",
+          "kind": "supplied"
+        },
+        {
+          "text": " within me, the poison whereof drinketh up my spirit: the terrors of God do set themselves in array against me.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.6.5",
+      "edition_verse_id": "KJV1769:JOB.6.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "Doth the wild ass bray when he hath grass? or loweth the ox over his fodder?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.6.6",
+      "edition_verse_id": "KJV1769:JOB.6.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "Can that which is unsavoury be eaten without salt? or is there ",
+          "kind": "text"
+        },
+        {
+          "text": "any",
+          "kind": "supplied"
+        },
+        {
+          "text": " taste in the white of an egg?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.6.7",
+      "edition_verse_id": "KJV1769:JOB.6.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "The things ",
+          "kind": "text"
+        },
+        {
+          "text": "that",
+          "kind": "supplied"
+        },
+        {
+          "text": " my soul refused to touch ",
+          "kind": "text"
+        },
+        {
+          "text": "are",
+          "kind": "supplied"
+        },
+        {
+          "text": " as my sorrowful meat.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.6.8",
+      "edition_verse_id": "KJV1769:JOB.6.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "Oh that I might have my request; and that God would grant ",
+          "kind": "text"
+        },
+        {
+          "text": "me",
+          "kind": "supplied"
+        },
+        {
+          "text": " the thing that I long for!",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOB.6.9",
+      "edition_verse_id": "KJV1769:JOB.6.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "Even that it would please God to destroy me; that he would let loose his hand, and cut me off!",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.6.10",
+      "edition_verse_id": "KJV1769:JOB.6.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "Then should I yet have comfort; yea, I would harden myself in sorrow: let him not spare; for I have not concealed the words of the Holy One.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.6.11",
+      "edition_verse_id": "KJV1769:JOB.6.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "What ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " my strength, that I should hope? and what ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " mine end, that I should prolong my life?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.6.12",
+      "edition_verse_id": "KJV1769:JOB.6.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "Is",
+          "kind": "supplied"
+        },
+        {
+          "text": " my strength the strength of stones? or ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " my flesh of brass?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.6.13",
+      "edition_verse_id": "KJV1769:JOB.6.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "Is",
+          "kind": "supplied"
+        },
+        {
+          "text": " not my help in me? and is wisdom driven quite from me?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.6.14",
+      "edition_verse_id": "KJV1769:JOB.6.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "To him that is afflicted pity ",
+          "kind": "text"
+        },
+        {
+          "text": "should be shewed",
+          "kind": "supplied"
+        },
+        {
+          "text": " from his friend; but he forsaketh the fear of the Almighty.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOB.6.15",
+      "edition_verse_id": "KJV1769:JOB.6.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "My brethren have dealt deceitfully as a brook, ",
+          "kind": "text"
+        },
+        {
+          "text": "and",
+          "kind": "supplied"
+        },
+        {
+          "text": " as the stream of brooks they pass away;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.6.16",
+      "edition_verse_id": "KJV1769:JOB.6.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "Which are blackish by reason of the ice, ",
+          "kind": "text"
+        },
+        {
+          "text": "and",
+          "kind": "supplied"
+        },
+        {
+          "text": " wherein the snow is hid:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.6.17",
+      "edition_verse_id": "KJV1769:JOB.6.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "What time they wax warm, they vanish: when it is hot, they are consumed out of their place.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.6.18",
+      "edition_verse_id": "KJV1769:JOB.6.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "The paths of their way are turned aside; they go to nothing, and perish.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.6.19",
+      "edition_verse_id": "KJV1769:JOB.6.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "The troops of Tema looked, the companies of Sheba waited for them.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.6.20",
+      "edition_verse_id": "KJV1769:JOB.6.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "They were confounded because they had hoped; they came thither, and were ashamed.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.6.21",
+      "edition_verse_id": "KJV1769:JOB.6.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "For now ye are nothing; ye see ",
+          "kind": "text"
+        },
+        {
+          "text": "my",
+          "kind": "supplied"
+        },
+        {
+          "text": " casting down, and are afraid.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.6.22",
+      "edition_verse_id": "KJV1769:JOB.6.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "Did I say, Bring unto me? or, Give a reward for me of your substance?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOB.6.23",
+      "edition_verse_id": "KJV1769:JOB.6.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "Or, Deliver me from the enemy’s hand? or, Redeem me from the hand of the mighty?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.6.24",
+      "edition_verse_id": "KJV1769:JOB.6.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "Teach me, and I will hold my tongue: and cause me to understand wherein I have erred.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.6.25",
+      "edition_verse_id": "KJV1769:JOB.6.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "How forcible are right words! but what doth your arguing reprove?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.6.26",
+      "edition_verse_id": "KJV1769:JOB.6.26",
+      "verse": 26,
+      "spans": [
+        {
+          "text": "Do ye imagine to reprove words, and the speeches of one that is desperate, ",
+          "kind": "text"
+        },
+        {
+          "text": "which are",
+          "kind": "supplied"
+        },
+        {
+          "text": " as wind?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.6.27",
+      "edition_verse_id": "KJV1769:JOB.6.27",
+      "verse": 27,
+      "spans": [
+        {
+          "text": "Yea, ye overwhelm the fatherless, and ye dig ",
+          "kind": "text"
+        },
+        {
+          "text": "a pit",
+          "kind": "supplied"
+        },
+        {
+          "text": " for your friend.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.6.28",
+      "edition_verse_id": "KJV1769:JOB.6.28",
+      "verse": 28,
+      "spans": [
+        {
+          "text": "Now therefore be content, look upon me; for ",
+          "kind": "text"
+        },
+        {
+          "text": "it is",
+          "kind": "supplied"
+        },
+        {
+          "text": " evident unto you if I lie.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.6.29",
+      "edition_verse_id": "KJV1769:JOB.6.29",
+      "verse": 29,
+      "spans": [
+        {
+          "text": "Return, I pray you, let it not be iniquity; yea, return again, my righteousness ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " in it.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.6.30",
+      "edition_verse_id": "KJV1769:JOB.6.30",
+      "verse": 30,
+      "spans": [
+        {
+          "text": "Is there iniquity in my tongue? cannot my taste discern perverse things?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}
