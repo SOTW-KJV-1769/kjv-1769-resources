@@ -1,0 +1,19 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "KJV1769",
+  "book_code": "OBA",
+  "book_name": "Obadiah",
+  "book_order": 31,
+  "canonical_ids": "OBA.{chapter}.{verse}",
+  "edition_ids": "KJV1769:OBA.{chapter}.{verse}",
+  "chapter_count": 1,
+  "verse_count": 21,
+  "traditional_verse_positions": 21,
+  "omitted_from_main_text": [],
+  "chapter_path_template": "obadiah/chapters/{chapter:02d}.json",
+  "predecessor_book_code": "AMO",
+  "successor_book_code": "JON",
+  "source_provenance": "books/obadiah/SOURCE_INVENTORY.json",
+  "reader": "books/obadiah/site/index.html",
+  "note": "Text-only KJV1769 projection of the pinned eBible eng-kjv2006 source. No scanned pages, embedded Strong’s, or lexical claims."
+}

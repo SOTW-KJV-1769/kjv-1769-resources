@@ -1,0 +1,19 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "KJV1769",
+  "book_code": "EPH",
+  "book_name": "Ephesians",
+  "book_order": 49,
+  "canonical_ids": "EPH.{chapter}.{verse}",
+  "edition_ids": "KJV1769:EPH.{chapter}.{verse}",
+  "chapter_count": 6,
+  "verse_count": 155,
+  "traditional_verse_positions": 155,
+  "omitted_from_main_text": [],
+  "chapter_path_template": "ephesians/chapters/{chapter:02d}.json",
+  "predecessor_book_code": "GAL",
+  "successor_book_code": "PHP",
+  "source_provenance": "books/ephesians/SOURCE_INVENTORY.json",
+  "reader": "books/ephesians/site/index.html",
+  "note": "Text-only KJV1769 projection of the pinned eBible eng-kjv2006 source. No scanned pages, embedded Strong’s, or lexical claims."
+}

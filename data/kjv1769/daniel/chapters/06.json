@@ -1,0 +1,480 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "KJV1769",
+  "book_code": "DAN",
+  "chapter": 6,
+  "verses": [
+    {
+      "id": "DAN.6.1",
+      "edition_verse_id": "KJV1769:DAN.6.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "It pleased Darius to set over the kingdom an hundred and twenty princes, which should be over the whole kingdom;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "DAN.6.2",
+      "edition_verse_id": "KJV1769:DAN.6.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "And over these three presidents; of whom Daniel ",
+          "kind": "text"
+        },
+        {
+          "text": "was",
+          "kind": "supplied"
+        },
+        {
+          "text": " first: that the princes might give accounts unto them, and the king should have no damage.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DAN.6.3",
+      "edition_verse_id": "KJV1769:DAN.6.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "Then this Daniel was preferred above the presidents and princes, because an excellent spirit ",
+          "kind": "text"
+        },
+        {
+          "text": "was",
+          "kind": "supplied"
+        },
+        {
+          "text": " in him; and the king thought to set him over the whole realm.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DAN.6.4",
+      "edition_verse_id": "KJV1769:DAN.6.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "¶ Then the presidents and princes sought to find occasion against Daniel concerning the kingdom; but they could find none occasion nor fault; forasmuch as he ",
+          "kind": "text"
+        },
+        {
+          "text": "was",
+          "kind": "supplied"
+        },
+        {
+          "text": " faithful, neither was there any error or fault found in him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "DAN.6.5",
+      "edition_verse_id": "KJV1769:DAN.6.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "Then said these men, We shall not find any occasion against this Daniel, except we find ",
+          "kind": "text"
+        },
+        {
+          "text": "it",
+          "kind": "supplied"
+        },
+        {
+          "text": " against him concerning the law of his God.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DAN.6.6",
+      "edition_verse_id": "KJV1769:DAN.6.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "Then these presidents and princes assembled together to the king, and said thus unto him, King Darius, live for ever.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "DAN.6.7",
+      "edition_verse_id": "KJV1769:DAN.6.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "All the presidents of the kingdom, the governors, and the princes, the counsellors, and the captains, have consulted together to establish a royal statute, and to make a firm decree, that whosoever shall ask a petition of any God or man for thirty days, save of thee, O king, he shall be cast into the den of lions.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DAN.6.8",
+      "edition_verse_id": "KJV1769:DAN.6.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "Now, O king, establish the decree, and sign the writing, that it be not changed, according to the law of the Medes and Persians, which altereth not.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DAN.6.9",
+      "edition_verse_id": "KJV1769:DAN.6.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "Wherefore king Darius signed the writing and the decree.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DAN.6.10",
+      "edition_verse_id": "KJV1769:DAN.6.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "¶ Now when Daniel knew that the writing was signed, he went into his house; and his windows being open in his chamber toward Jerusalem, he kneeled upon his knees three times a day, and prayed, and gave thanks before his God, as he did aforetime.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "DAN.6.11",
+      "edition_verse_id": "KJV1769:DAN.6.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "Then these men assembled, and found Daniel praying and making supplication before his God.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "DAN.6.12",
+      "edition_verse_id": "KJV1769:DAN.6.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "Then they came near, and spake before the king concerning the king’s decree; Hast thou not signed a decree, that every man that shall ask ",
+          "kind": "text"
+        },
+        {
+          "text": "a petition",
+          "kind": "supplied"
+        },
+        {
+          "text": " of any God or man within thirty days, save of thee, O king, shall be cast into the den of lions? The king answered and said, The thing ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " true, according to the law of the Medes and Persians, which altereth not.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DAN.6.13",
+      "edition_verse_id": "KJV1769:DAN.6.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "Then answered they and said before the king, That Daniel, which ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " of the children of the captivity of Judah, regardeth not thee, O king, nor the decree that thou hast signed, but maketh his petition three times a day.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DAN.6.14",
+      "edition_verse_id": "KJV1769:DAN.6.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "Then the king, when he heard ",
+          "kind": "text"
+        },
+        {
+          "text": "these",
+          "kind": "supplied"
+        },
+        {
+          "text": " words, was sore displeased with himself, and set ",
+          "kind": "text"
+        },
+        {
+          "text": "his",
+          "kind": "supplied"
+        },
+        {
+          "text": " heart on Daniel to deliver him: and he laboured till the going down of the sun to deliver him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DAN.6.15",
+      "edition_verse_id": "KJV1769:DAN.6.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "Then these men assembled unto the king, and said unto the king, Know, O king, that the law of the Medes and Persians ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": ", That no decree nor statute which the king establisheth may be changed.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DAN.6.16",
+      "edition_verse_id": "KJV1769:DAN.6.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "Then the king commanded, and they brought Daniel, and cast ",
+          "kind": "text"
+        },
+        {
+          "text": "him",
+          "kind": "supplied"
+        },
+        {
+          "text": " into the den of lions. ",
+          "kind": "text"
+        },
+        {
+          "text": "Now",
+          "kind": "supplied"
+        },
+        {
+          "text": " the king spake and said unto Daniel, Thy God whom thou servest continually, he will deliver thee.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DAN.6.17",
+      "edition_verse_id": "KJV1769:DAN.6.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "And a stone was brought, and laid upon the mouth of the den; and the king sealed it with his own signet, and with the signet of his lords; that the purpose might not be changed concerning Daniel.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DAN.6.18",
+      "edition_verse_id": "KJV1769:DAN.6.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "¶ Then the king went to his palace, and passed the night fasting: neither were instruments of musick brought before him: and his sleep went from him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "DAN.6.19",
+      "edition_verse_id": "KJV1769:DAN.6.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "Then the king arose very early in the morning, and went in haste unto the den of lions.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DAN.6.20",
+      "edition_verse_id": "KJV1769:DAN.6.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "And when he came to the den, he cried with a lamentable voice unto Daniel: ",
+          "kind": "text"
+        },
+        {
+          "text": "and",
+          "kind": "supplied"
+        },
+        {
+          "text": " the king spake and said to Daniel, O Daniel, servant of the living God, is thy God, whom thou servest continually, able to deliver thee from the lions?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DAN.6.21",
+      "edition_verse_id": "KJV1769:DAN.6.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "Then said Daniel unto the king, O king, live for ever.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DAN.6.22",
+      "edition_verse_id": "KJV1769:DAN.6.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "My God hath sent his angel, and hath shut the lions’ mouths, that they have not hurt me: forasmuch as before him innocency was found in me; and also before thee, O king, have I done no hurt.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DAN.6.23",
+      "edition_verse_id": "KJV1769:DAN.6.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "Then was the king exceeding glad for him, and commanded that they should take Daniel up out of the den. So Daniel was taken up out of the den, and no manner of hurt was found upon him, because he believed in his God.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DAN.6.24",
+      "edition_verse_id": "KJV1769:DAN.6.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "¶ And the king commanded, and they brought those men which had accused Daniel, and they cast ",
+          "kind": "text"
+        },
+        {
+          "text": "them",
+          "kind": "supplied"
+        },
+        {
+          "text": " into the den of lions, them, their children, and their wives; and the lions had the mastery of them, and brake all their bones in pieces or ever they came at the bottom of the den.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "DAN.6.25",
+      "edition_verse_id": "KJV1769:DAN.6.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "¶ Then king Darius wrote unto all people, nations, and languages, that dwell in all the earth; Peace be multiplied unto you.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "DAN.6.26",
+      "edition_verse_id": "KJV1769:DAN.6.26",
+      "verse": 26,
+      "spans": [
+        {
+          "text": "I make a decree, That in every dominion of my kingdom men tremble and fear before the God of Daniel: for he ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " the living God, and stedfast for ever, and his kingdom ",
+          "kind": "text"
+        },
+        {
+          "text": "that",
+          "kind": "supplied"
+        },
+        {
+          "text": " which shall not be destroyed, and his dominion ",
+          "kind": "text"
+        },
+        {
+          "text": "shall be even",
+          "kind": "supplied"
+        },
+        {
+          "text": " unto the end.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DAN.6.27",
+      "edition_verse_id": "KJV1769:DAN.6.27",
+      "verse": 27,
+      "spans": [
+        {
+          "text": "He delivereth and rescueth, and he worketh signs and wonders in heaven and in earth, who hath delivered Daniel from the power of the lions.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DAN.6.28",
+      "edition_verse_id": "KJV1769:DAN.6.28",
+      "verse": 28,
+      "spans": [
+        {
+          "text": "So this Daniel prospered in the reign of Darius, and in the reign of Cyrus the Persian.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "KJV1769",
+  "book_code": "2CO",
+  "book_name": "2 Corinthians",
+  "book_order": 47,
+  "canonical_ids": "2CO.{chapter}.{verse}",
+  "edition_ids": "KJV1769:2CO.{chapter}.{verse}",
+  "chapter_count": 13,
+  "verse_count": 257,
+  "traditional_verse_positions": 257,
+  "omitted_from_main_text": [],
+  "chapter_path_template": "second-corinthians/chapters/{chapter:02d}.json",
+  "predecessor_book_code": "1CO",
+  "successor_book_code": "GAL",
+  "source_provenance": "books/second-corinthians/SOURCE_INVENTORY.json",
+  "reader": "books/second-corinthians/site/index.html",
+  "note": "Text-only KJV1769 projection of the pinned eBible eng-kjv2006 source. No scanned pages, embedded Strong’s, or lexical claims."
+}

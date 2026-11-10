@@ -1,0 +1,19 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "KJV1769",
+  "book_code": "REV",
+  "book_name": "Revelation",
+  "book_order": 66,
+  "canonical_ids": "REV.{chapter}.{verse}",
+  "edition_ids": "KJV1769:REV.{chapter}.{verse}",
+  "chapter_count": 22,
+  "verse_count": 404,
+  "traditional_verse_positions": 404,
+  "omitted_from_main_text": [],
+  "chapter_path_template": "revelation/chapters/{chapter:02d}.json",
+  "predecessor_book_code": "JUD",
+  "successor_book_code": null,
+  "source_provenance": "books/revelation/SOURCE_INVENTORY.json",
+  "reader": "books/revelation/site/index.html",
+  "note": "Text-only KJV1769 projection of the pinned eBible eng-kjv2006 source. No scanned pages, embedded Strong’s, or lexical claims."
+}

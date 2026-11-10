@@ -1,0 +1,68 @@
+{
+  "edition_id": "KJV1769",
+  "book_code": "DAN",
+  "chapter_count": 12,
+  "verse_count": 357,
+  "chapters": [
+    {
+      "chapter": 1,
+      "verse_count": 21,
+      "sha256": "2810670fe244cd97a4bb03d40840e1d7a195828a9d3ca7cbde0beca59bb20a34"
+    },
+    {
+      "chapter": 2,
+      "verse_count": 49,
+      "sha256": "79eb1469dd65ae6694e27831642e4155621d2717effb0e100951ecf8dc9c1bd2"
+    },
+    {
+      "chapter": 3,
+      "verse_count": 30,
+      "sha256": "910698d55e4204c4465c40074104087eb8842b3bcc1c01be77eaf15ac370d3c6"
+    },
+    {
+      "chapter": 4,
+      "verse_count": 37,
+      "sha256": "817831e5b82a54964fae0ba651dbad5d48008c415902fdb3430e1216a693db79"
+    },
+    {
+      "chapter": 5,
+      "verse_count": 31,
+      "sha256": "339df9a19eb0c3dba2bd8143757b997eca2699cb04260accdfd6f0320eccdb7e"
+    },
+    {
+      "chapter": 6,
+      "verse_count": 28,
+      "sha256": "4fea4d179aa3fce36103fd656339c253a813a0c788763a7e9425043892828fd1"
+    },
+    {
+      "chapter": 7,
+      "verse_count": 28,
+      "sha256": "5c3b8d1c33dd866de520d8635375140a846f5a328cead90ebaf1676d8f6f6c7e"
+    },
+    {
+      "chapter": 8,
+      "verse_count": 27,
+      "sha256": "60eca6dd5be6758545c996e0bd0b99848ddd9a0a5531069e8fc1531fd5df3318"
+    },
+    {
+      "chapter": 9,
+      "verse_count": 27,
+      "sha256": "25dafa51a523a3e523a2f4d54f1322741a19c7cc6dd8b9d1e9e69e05adaf5edf"
+    },
+    {
+      "chapter": 10,
+      "verse_count": 21,
+      "sha256": "84ccaadbbc0ae905ffa7d4f2ba2c0869b2fd1a0f9dc0972ee1536fd9b3a7837f"
+    },
+    {
+      "chapter": 11,
+      "verse_count": 45,
+      "sha256": "b61daa506ece05e8abeb95bc34370259af2230dc09c5669b762d97ada1751528"
+    },
+    {
+      "chapter": 12,
+      "verse_count": 13,
+      "sha256": "aa6a47b552572dacc6a381ac835360484e9417bf8a94c7a0f04608a3787409ae"
+    }
+  ]
+}

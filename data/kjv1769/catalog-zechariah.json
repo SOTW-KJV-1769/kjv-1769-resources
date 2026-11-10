@@ -1,0 +1,19 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "KJV1769",
+  "book_code": "ZEC",
+  "book_name": "Zechariah",
+  "book_order": 38,
+  "canonical_ids": "ZEC.{chapter}.{verse}",
+  "edition_ids": "KJV1769:ZEC.{chapter}.{verse}",
+  "chapter_count": 14,
+  "verse_count": 211,
+  "traditional_verse_positions": 211,
+  "omitted_from_main_text": [],
+  "chapter_path_template": "zechariah/chapters/{chapter:02d}.json",
+  "predecessor_book_code": "HAG",
+  "successor_book_code": "MAL",
+  "source_provenance": "books/zechariah/SOURCE_INVENTORY.json",
+  "reader": "books/zechariah/site/index.html",
+  "note": "Text-only KJV1769 projection of the pinned eBible eng-kjv2006 source. No scanned pages, embedded Strong’s, or lexical claims."
+}

@@ -1,0 +1,19 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "KJV1769",
+  "book_code": "PRO",
+  "book_name": "Proverbs",
+  "book_order": 20,
+  "canonical_ids": "PRO.{chapter}.{verse}",
+  "edition_ids": "KJV1769:PRO.{chapter}.{verse}",
+  "chapter_count": 31,
+  "verse_count": 915,
+  "traditional_verse_positions": 915,
+  "omitted_from_main_text": [],
+  "chapter_path_template": "proverbs/chapters/{chapter:02d}.json",
+  "predecessor_book_code": "PSA",
+  "successor_book_code": "ECC",
+  "source_provenance": "books/proverbs/SOURCE_INVENTORY.json",
+  "reader": "books/proverbs/site/index.html",
+  "note": "Text-only KJV1769 projection of the pinned eBible eng-kjv2006 source. No scanned pages, embedded Strong’s, or lexical claims."
+}

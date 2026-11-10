@@ -1,0 +1,19 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "KJV1769",
+  "book_code": "ECC",
+  "book_name": "Ecclesiastes",
+  "book_order": 21,
+  "canonical_ids": "ECC.{chapter}.{verse}",
+  "edition_ids": "KJV1769:ECC.{chapter}.{verse}",
+  "chapter_count": 12,
+  "verse_count": 222,
+  "traditional_verse_positions": 222,
+  "omitted_from_main_text": [],
+  "chapter_path_template": "ecclesiastes/chapters/{chapter:02d}.json",
+  "predecessor_book_code": "PRO",
+  "successor_book_code": "SNG",
+  "source_provenance": "books/ecclesiastes/SOURCE_INVENTORY.json",
+  "reader": "books/ecclesiastes/site/index.html",
+  "note": "Text-only KJV1769 projection of the pinned eBible eng-kjv2006 source. No scanned pages, embedded Strong’s, or lexical claims."
+}

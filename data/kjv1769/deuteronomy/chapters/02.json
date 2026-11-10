@@ -1,0 +1,596 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "KJV1769",
+  "book_code": "DEU",
+  "chapter": 2,
+  "verses": [
+    {
+      "id": "DEU.2.1",
+      "edition_verse_id": "KJV1769:DEU.2.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "Then we turned, and took our journey into the wilderness by the way of the Red sea, as the LORD spake unto me: and we compassed mount Seir many days.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "DEU.2.2",
+      "edition_verse_id": "KJV1769:DEU.2.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "And the LORD spake unto me, saying,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.2.3",
+      "edition_verse_id": "KJV1769:DEU.2.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "Ye have compassed this mountain long enough: turn you northward.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.2.4",
+      "edition_verse_id": "KJV1769:DEU.2.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "And command thou the people, saying, Ye ",
+          "kind": "text"
+        },
+        {
+          "text": "are",
+          "kind": "supplied"
+        },
+        {
+          "text": " to pass through the coast of your brethren the children of Esau, which dwell in Seir; and they shall be afraid of you: take ye good heed unto yourselves therefore:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.2.5",
+      "edition_verse_id": "KJV1769:DEU.2.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "Meddle not with them; for I will not give you of their land, no, not so much as a foot breadth; because I have given mount Seir unto Esau ",
+          "kind": "text"
+        },
+        {
+          "text": "for",
+          "kind": "supplied"
+        },
+        {
+          "text": " a possession.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.2.6",
+      "edition_verse_id": "KJV1769:DEU.2.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "Ye shall buy meat of them for money, that ye may eat; and ye shall also buy water of them for money, that ye may drink.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.2.7",
+      "edition_verse_id": "KJV1769:DEU.2.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "For the LORD thy God hath blessed thee in all the works of thy hand: he knoweth thy walking through this great wilderness: these forty years the LORD thy God ",
+          "kind": "text"
+        },
+        {
+          "text": "hath been",
+          "kind": "supplied"
+        },
+        {
+          "text": " with thee; thou hast lacked nothing.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.2.8",
+      "edition_verse_id": "KJV1769:DEU.2.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "And when we passed by from our brethren the children of Esau, which dwelt in Seir, through the way of the plain from Elath, and from Ezion-gaber, we turned and passed by the way of the wilderness of Moab.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "DEU.2.9",
+      "edition_verse_id": "KJV1769:DEU.2.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "And the LORD said unto me, Distress not the Moabites, neither contend with them in battle: for I will not give thee of their land ",
+          "kind": "text"
+        },
+        {
+          "text": "for",
+          "kind": "supplied"
+        },
+        {
+          "text": " a possession; because I have given Ar unto the children of Lot ",
+          "kind": "text"
+        },
+        {
+          "text": "for",
+          "kind": "supplied"
+        },
+        {
+          "text": " a possession.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.2.10",
+      "edition_verse_id": "KJV1769:DEU.2.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "The Emims dwelt therein in times past, a people great, and many, and tall, as the Anakims;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.2.11",
+      "edition_verse_id": "KJV1769:DEU.2.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "Which also were accounted giants, as the Anakims; but the Moabites call them Emims.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.2.12",
+      "edition_verse_id": "KJV1769:DEU.2.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "The Horims also dwelt in Seir beforetime; but the children of Esau succeeded them, when they had destroyed them from before them, and dwelt in their stead; as Israel did unto the land of his possession, which the LORD gave unto them.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.2.13",
+      "edition_verse_id": "KJV1769:DEU.2.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "Now rise up, ",
+          "kind": "text"
+        },
+        {
+          "text": "said I",
+          "kind": "supplied"
+        },
+        {
+          "text": ", and get you over the brook Zered. And we went over the brook Zered.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.2.14",
+      "edition_verse_id": "KJV1769:DEU.2.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "And the space in which we came from Kadesh-barnea, until we were come over the brook Zered, ",
+          "kind": "text"
+        },
+        {
+          "text": "was",
+          "kind": "supplied"
+        },
+        {
+          "text": " thirty and eight years; until all the generation of the men of war were wasted out from among the host, as the LORD sware unto them.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.2.15",
+      "edition_verse_id": "KJV1769:DEU.2.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "For indeed the hand of the LORD was against them, to destroy them from among the host, until they were consumed.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.2.16",
+      "edition_verse_id": "KJV1769:DEU.2.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "¶ So it came to pass, when all the men of war were consumed and dead from among the people,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "DEU.2.17",
+      "edition_verse_id": "KJV1769:DEU.2.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "That the LORD spake unto me, saying,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.2.18",
+      "edition_verse_id": "KJV1769:DEU.2.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "Thou art to pass over through Ar, the coast of Moab, this day:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.2.19",
+      "edition_verse_id": "KJV1769:DEU.2.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "And ",
+          "kind": "text"
+        },
+        {
+          "text": "when",
+          "kind": "supplied"
+        },
+        {
+          "text": " thou comest nigh over against the children of Ammon, distress them not, nor meddle with them: for I will not give thee of the land of the children of Ammon ",
+          "kind": "text"
+        },
+        {
+          "text": "any",
+          "kind": "supplied"
+        },
+        {
+          "text": " possession; because I have given it unto the children of Lot ",
+          "kind": "text"
+        },
+        {
+          "text": "for",
+          "kind": "supplied"
+        },
+        {
+          "text": " a possession.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.2.20",
+      "edition_verse_id": "KJV1769:DEU.2.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "(That also was accounted a land of giants: giants dwelt therein in old time; and the Ammonites call them Zamzummims;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.2.21",
+      "edition_verse_id": "KJV1769:DEU.2.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "A people great, and many, and tall, as the Anakims; but the LORD destroyed them before them; and they succeeded them, and dwelt in their stead:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.2.22",
+      "edition_verse_id": "KJV1769:DEU.2.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "As he did to the children of Esau, which dwelt in Seir, when he destroyed the Horims from before them; and they succeeded them, and dwelt in their stead even unto this day:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.2.23",
+      "edition_verse_id": "KJV1769:DEU.2.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "And the Avims which dwelt in Hazerim, ",
+          "kind": "text"
+        },
+        {
+          "text": "even",
+          "kind": "supplied"
+        },
+        {
+          "text": " unto Azzah, the Caphtorims, which came forth out of Caphtor, destroyed them, and dwelt in their stead.)",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.2.24",
+      "edition_verse_id": "KJV1769:DEU.2.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "¶ Rise ye up, take your journey, and pass over the river Arnon: behold, I have given into thine hand Sihon the Amorite, king of Heshbon, and his land: begin to possess ",
+          "kind": "text"
+        },
+        {
+          "text": "it",
+          "kind": "supplied"
+        },
+        {
+          "text": ", and contend with him in battle.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "DEU.2.25",
+      "edition_verse_id": "KJV1769:DEU.2.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "This day will I begin to put the dread of thee and the fear of thee upon the nations ",
+          "kind": "text"
+        },
+        {
+          "text": "that are",
+          "kind": "supplied"
+        },
+        {
+          "text": " under the whole heaven, who shall hear report of thee, and shall tremble, and be in anguish because of thee.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.2.26",
+      "edition_verse_id": "KJV1769:DEU.2.26",
+      "verse": 26,
+      "spans": [
+        {
+          "text": "¶ And I sent messengers out of the wilderness of Kedemoth unto Sihon king of Heshbon with words of peace, saying,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "DEU.2.27",
+      "edition_verse_id": "KJV1769:DEU.2.27",
+      "verse": 27,
+      "spans": [
+        {
+          "text": "Let me pass through thy land: I will go along by the high way, I will neither turn unto the right hand nor to the left.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.2.28",
+      "edition_verse_id": "KJV1769:DEU.2.28",
+      "verse": 28,
+      "spans": [
+        {
+          "text": "Thou shalt sell me meat for money, that I may eat; and give me water for money, that I may drink: only I will pass through on my feet;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.2.29",
+      "edition_verse_id": "KJV1769:DEU.2.29",
+      "verse": 29,
+      "spans": [
+        {
+          "text": "(As the children of Esau which dwell in Seir, and the Moabites which dwell in Ar, did unto me;) until I shall pass over Jordan into the land which the LORD our God giveth us.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.2.30",
+      "edition_verse_id": "KJV1769:DEU.2.30",
+      "verse": 30,
+      "spans": [
+        {
+          "text": "But Sihon king of Heshbon would not let us pass by him: for the LORD thy God hardened his spirit, and made his heart obstinate, that he might deliver him into thy hand, as ",
+          "kind": "text"
+        },
+        {
+          "text": "appeareth",
+          "kind": "supplied"
+        },
+        {
+          "text": " this day.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.2.31",
+      "edition_verse_id": "KJV1769:DEU.2.31",
+      "verse": 31,
+      "spans": [
+        {
+          "text": "And the LORD said unto me, Behold, I have begun to give Sihon and his land before thee: begin to possess, that thou mayest inherit his land.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.2.32",
+      "edition_verse_id": "KJV1769:DEU.2.32",
+      "verse": 32,
+      "spans": [
+        {
+          "text": "Then Sihon came out against us, he and all his people, to fight at Jahaz.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.2.33",
+      "edition_verse_id": "KJV1769:DEU.2.33",
+      "verse": 33,
+      "spans": [
+        {
+          "text": "And the LORD our God delivered him before us; and we smote him, and his sons, and all his people.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.2.34",
+      "edition_verse_id": "KJV1769:DEU.2.34",
+      "verse": 34,
+      "spans": [
+        {
+          "text": "And we took all his cities at that time, and utterly destroyed the men, and the women, and the little ones, of every city, we left none to remain:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.2.35",
+      "edition_verse_id": "KJV1769:DEU.2.35",
+      "verse": 35,
+      "spans": [
+        {
+          "text": "Only the cattle we took for a prey unto ourselves, and the spoil of the cities which we took.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.2.36",
+      "edition_verse_id": "KJV1769:DEU.2.36",
+      "verse": 36,
+      "spans": [
+        {
+          "text": "From Aroer, which ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " by the brink of the river of Arnon, and ",
+          "kind": "text"
+        },
+        {
+          "text": "from",
+          "kind": "supplied"
+        },
+        {
+          "text": " the city that ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " by the river, even unto Gilead, there was not one city too strong for us: the LORD our God delivered all unto us:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.2.37",
+      "edition_verse_id": "KJV1769:DEU.2.37",
+      "verse": 37,
+      "spans": [
+        {
+          "text": "Only unto the land of the children of Ammon thou camest not, ",
+          "kind": "text"
+        },
+        {
+          "text": "nor",
+          "kind": "supplied"
+        },
+        {
+          "text": " unto any place of the river Jabbok, nor unto the cities in the mountains, nor unto whatsoever the LORD our God forbad us.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

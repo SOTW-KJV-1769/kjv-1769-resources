@@ -1,0 +1,19 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "KJV1769",
+  "book_code": "NUM",
+  "book_name": "Numbers",
+  "book_order": 4,
+  "canonical_ids": "NUM.{chapter}.{verse}",
+  "edition_ids": "KJV1769:NUM.{chapter}.{verse}",
+  "chapter_count": 36,
+  "verse_count": 1288,
+  "traditional_verse_positions": 1288,
+  "omitted_from_main_text": [],
+  "chapter_path_template": "numbers/chapters/{chapter:02d}.json",
+  "predecessor_book_code": "LEV",
+  "successor_book_code": "DEU",
+  "source_provenance": "books/numbers/SOURCE_INVENTORY.json",
+  "reader": "books/numbers/site/index.html",
+  "note": "Text-only KJV1769 projection of the pinned eBible eng-kjv2006 source. No scanned pages, embedded Strong’s, or lexical claims."
+}

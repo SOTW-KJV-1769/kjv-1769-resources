@@ -1,0 +1,19 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "KJV1769",
+  "book_code": "PSA",
+  "book_name": "Psalms",
+  "book_order": 19,
+  "canonical_ids": "PSA.{chapter}.{verse}",
+  "edition_ids": "KJV1769:PSA.{chapter}.{verse}",
+  "chapter_count": 150,
+  "verse_count": 2461,
+  "traditional_verse_positions": 2461,
+  "omitted_from_main_text": [],
+  "chapter_path_template": "psalms/chapters/{chapter:02d}.json",
+  "predecessor_book_code": "JOB",
+  "successor_book_code": "PRO",
+  "source_provenance": "books/psalms/SOURCE_INVENTORY.json",
+  "reader": "books/psalms/site/index.html",
+  "note": "Text-only KJV1769 projection of the pinned eBible eng-kjv2006 source. No scanned pages, embedded Strong’s, or lexical claims."
+}

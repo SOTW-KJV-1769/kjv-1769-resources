@@ -1,0 +1,19 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "KJV1769",
+  "book_code": "MAL",
+  "book_name": "Malachi",
+  "book_order": 39,
+  "canonical_ids": "MAL.{chapter}.{verse}",
+  "edition_ids": "KJV1769:MAL.{chapter}.{verse}",
+  "chapter_count": 4,
+  "verse_count": 55,
+  "traditional_verse_positions": 55,
+  "omitted_from_main_text": [],
+  "chapter_path_template": "malachi/chapters/{chapter:02d}.json",
+  "predecessor_book_code": "ZEC",
+  "successor_book_code": "MAT",
+  "source_provenance": "books/malachi/SOURCE_INVENTORY.json",
+  "reader": "books/malachi/site/index.html",
+  "note": "Text-only KJV1769 projection of the pinned eBible eng-kjv2006 source. No scanned pages, embedded Strong’s, or lexical claims."
+}

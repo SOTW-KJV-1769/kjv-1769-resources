@@ -1,0 +1,628 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "KJV1769",
+  "book_code": "DAN",
+  "chapter": 8,
+  "verses": [
+    {
+      "id": "DAN.8.1",
+      "edition_verse_id": "KJV1769:DAN.8.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "In the third year of the reign of king Belshazzar a vision appeared unto me, ",
+          "kind": "text"
+        },
+        {
+          "text": "even unto",
+          "kind": "supplied"
+        },
+        {
+          "text": " me Daniel, after that which appeared unto me at the first.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "DAN.8.2",
+      "edition_verse_id": "KJV1769:DAN.8.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "And I saw in a vision; and it came to pass, when I saw, that I ",
+          "kind": "text"
+        },
+        {
+          "text": "was",
+          "kind": "supplied"
+        },
+        {
+          "text": " at Shushan ",
+          "kind": "text"
+        },
+        {
+          "text": "in",
+          "kind": "supplied"
+        },
+        {
+          "text": " the palace, which ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " in the province of Elam; and I saw in a vision, and I was by the river of Ulai.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DAN.8.3",
+      "edition_verse_id": "KJV1769:DAN.8.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "Then I lifted up mine eyes, and saw, and, behold, there stood before the river a ram which had ",
+          "kind": "text"
+        },
+        {
+          "text": "two",
+          "kind": "supplied"
+        },
+        {
+          "text": " horns: and the ",
+          "kind": "text"
+        },
+        {
+          "text": "two",
+          "kind": "supplied"
+        },
+        {
+          "text": " horns ",
+          "kind": "text"
+        },
+        {
+          "text": "were",
+          "kind": "supplied"
+        },
+        {
+          "text": " high; but one ",
+          "kind": "text"
+        },
+        {
+          "text": "was",
+          "kind": "supplied"
+        },
+        {
+          "text": " higher than the other, and the higher came up last.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DAN.8.4",
+      "edition_verse_id": "KJV1769:DAN.8.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "I saw the ram pushing westward, and northward, and southward; so that no beasts might stand before him, neither ",
+          "kind": "text"
+        },
+        {
+          "text": "was there any",
+          "kind": "supplied"
+        },
+        {
+          "text": " that could deliver out of his hand; but he did according to his will, and became great.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DAN.8.5",
+      "edition_verse_id": "KJV1769:DAN.8.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "And as I was considering, behold, an he goat came from the west on the face of the whole earth, and touched not the ground: and the goat ",
+          "kind": "text"
+        },
+        {
+          "text": "had",
+          "kind": "supplied"
+        },
+        {
+          "text": " a notable horn between his eyes.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DAN.8.6",
+      "edition_verse_id": "KJV1769:DAN.8.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "And he came to the ram that had ",
+          "kind": "text"
+        },
+        {
+          "text": "two",
+          "kind": "supplied"
+        },
+        {
+          "text": " horns, which I had seen standing before the river, and ran unto him in the fury of his power.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DAN.8.7",
+      "edition_verse_id": "KJV1769:DAN.8.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "And I saw him come close unto the ram, and he was moved with choler against him, and smote the ram, and brake his two horns: and there was no power in the ram to stand before him, but he cast him down to the ground, and stamped upon him: and there was none that could deliver the ram out of his hand.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DAN.8.8",
+      "edition_verse_id": "KJV1769:DAN.8.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "Therefore the he goat waxed very great: and when he was strong, the great horn was broken; and for it came up four notable ones toward the four winds of heaven.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DAN.8.9",
+      "edition_verse_id": "KJV1769:DAN.8.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "And out of one of them came forth a little horn, which waxed exceeding great, toward the south, and toward the east, and toward the pleasant ",
+          "kind": "text"
+        },
+        {
+          "text": "land",
+          "kind": "supplied"
+        },
+        {
+          "text": ".",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DAN.8.10",
+      "edition_verse_id": "KJV1769:DAN.8.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "And it waxed great, ",
+          "kind": "text"
+        },
+        {
+          "text": "even",
+          "kind": "supplied"
+        },
+        {
+          "text": " to the host of heaven; and it cast down ",
+          "kind": "text"
+        },
+        {
+          "text": "some",
+          "kind": "supplied"
+        },
+        {
+          "text": " of the host and of the stars to the ground, and stamped upon them.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DAN.8.11",
+      "edition_verse_id": "KJV1769:DAN.8.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "Yea, he magnified ",
+          "kind": "text"
+        },
+        {
+          "text": "himself",
+          "kind": "supplied"
+        },
+        {
+          "text": " even to the prince of the host, and by him the daily ",
+          "kind": "text"
+        },
+        {
+          "text": "sacrifice",
+          "kind": "supplied"
+        },
+        {
+          "text": " was taken away, and the place of his sanctuary was cast down.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DAN.8.12",
+      "edition_verse_id": "KJV1769:DAN.8.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "And an host was given ",
+          "kind": "text"
+        },
+        {
+          "text": "him",
+          "kind": "supplied"
+        },
+        {
+          "text": " against the daily ",
+          "kind": "text"
+        },
+        {
+          "text": "sacrifice",
+          "kind": "supplied"
+        },
+        {
+          "text": " by reason of transgression, and it cast down the truth to the ground; and it practised, and prospered.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DAN.8.13",
+      "edition_verse_id": "KJV1769:DAN.8.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "¶ Then I heard one saint speaking, and another saint said unto that certain ",
+          "kind": "text"
+        },
+        {
+          "text": "saint",
+          "kind": "supplied"
+        },
+        {
+          "text": " which spake, How long ",
+          "kind": "text"
+        },
+        {
+          "text": "shall be",
+          "kind": "supplied"
+        },
+        {
+          "text": " the vision ",
+          "kind": "text"
+        },
+        {
+          "text": "concerning",
+          "kind": "supplied"
+        },
+        {
+          "text": " the daily ",
+          "kind": "text"
+        },
+        {
+          "text": "sacrifice",
+          "kind": "supplied"
+        },
+        {
+          "text": ", and the transgression of desolation, to give both the sanctuary and the host to be trodden under foot?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "DAN.8.14",
+      "edition_verse_id": "KJV1769:DAN.8.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "And he said unto me, Unto two thousand and three hundred days; then shall the sanctuary be cleansed.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DAN.8.15",
+      "edition_verse_id": "KJV1769:DAN.8.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "¶ And it came to pass, when I, ",
+          "kind": "text"
+        },
+        {
+          "text": "even",
+          "kind": "supplied"
+        },
+        {
+          "text": " I Daniel, had seen the vision, and sought for the meaning, then, behold, there stood before me as the appearance of a man.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "DAN.8.16",
+      "edition_verse_id": "KJV1769:DAN.8.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "And I heard a man’s voice between ",
+          "kind": "text"
+        },
+        {
+          "text": "the banks of",
+          "kind": "supplied"
+        },
+        {
+          "text": " Ulai, which called, and said, Gabriel, make this ",
+          "kind": "text"
+        },
+        {
+          "text": "man",
+          "kind": "supplied"
+        },
+        {
+          "text": " to understand the vision.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DAN.8.17",
+      "edition_verse_id": "KJV1769:DAN.8.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "So he came near where I stood: and when he came, I was afraid, and fell upon my face: but he said unto me, Understand, O son of man: for at the time of the end ",
+          "kind": "text"
+        },
+        {
+          "text": "shall be",
+          "kind": "supplied"
+        },
+        {
+          "text": " the vision.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DAN.8.18",
+      "edition_verse_id": "KJV1769:DAN.8.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "Now as he was speaking with me, I was in a deep sleep on my face toward the ground: but he touched me, and set me upright.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DAN.8.19",
+      "edition_verse_id": "KJV1769:DAN.8.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "And he said, Behold, I will make thee know what shall be in the last end of the indignation: for at the time appointed the end ",
+          "kind": "text"
+        },
+        {
+          "text": "shall be",
+          "kind": "supplied"
+        },
+        {
+          "text": ".",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DAN.8.20",
+      "edition_verse_id": "KJV1769:DAN.8.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "The ram which thou sawest having ",
+          "kind": "text"
+        },
+        {
+          "text": "two",
+          "kind": "supplied"
+        },
+        {
+          "text": " horns ",
+          "kind": "text"
+        },
+        {
+          "text": "are",
+          "kind": "supplied"
+        },
+        {
+          "text": " the kings of Media and Persia.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DAN.8.21",
+      "edition_verse_id": "KJV1769:DAN.8.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "And the rough goat ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " the king of Grecia: and the great horn that ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " between his eyes ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " the first king.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DAN.8.22",
+      "edition_verse_id": "KJV1769:DAN.8.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "Now that being broken, whereas four stood up for it, four kingdoms shall stand up out of the nation, but not in his power.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DAN.8.23",
+      "edition_verse_id": "KJV1769:DAN.8.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "And in the latter time of their kingdom, when the transgressors are come to the full, a king of fierce countenance, and understanding dark sentences, shall stand up.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DAN.8.24",
+      "edition_verse_id": "KJV1769:DAN.8.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "And his power shall be mighty, but not by his own power: and he shall destroy wonderfully, and shall prosper, and practise, and shall destroy the mighty and the holy people.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DAN.8.25",
+      "edition_verse_id": "KJV1769:DAN.8.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "And through his policy also he shall cause craft to prosper in his hand; and he shall magnify ",
+          "kind": "text"
+        },
+        {
+          "text": "himself",
+          "kind": "supplied"
+        },
+        {
+          "text": " in his heart, and by peace shall destroy many: he shall also stand up against the Prince of princes; but he shall be broken without hand.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DAN.8.26",
+      "edition_verse_id": "KJV1769:DAN.8.26",
+      "verse": 26,
+      "spans": [
+        {
+          "text": "And the vision of the evening and the morning which was told ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " true: wherefore shut thou up the vision; for it ",
+          "kind": "text"
+        },
+        {
+          "text": "shall be",
+          "kind": "supplied"
+        },
+        {
+          "text": " for many days.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DAN.8.27",
+      "edition_verse_id": "KJV1769:DAN.8.27",
+      "verse": 27,
+      "spans": [
+        {
+          "text": "And I Daniel fainted, and was sick ",
+          "kind": "text"
+        },
+        {
+          "text": "certain",
+          "kind": "supplied"
+        },
+        {
+          "text": " days; afterward I rose up, and did the king’s business; and I was astonished at the vision, but none understood ",
+          "kind": "text"
+        },
+        {
+          "text": "it",
+          "kind": "supplied"
+        },
+        {
+          "text": ".",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

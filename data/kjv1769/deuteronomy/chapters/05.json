@@ -1,0 +1,620 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "KJV1769",
+  "book_code": "DEU",
+  "chapter": 5,
+  "verses": [
+    {
+      "id": "DEU.5.1",
+      "edition_verse_id": "KJV1769:DEU.5.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "And Moses called all Israel, and said unto them, Hear, O Israel, the statutes and judgments which I speak in your ears this day, that ye may learn them, and keep, and do them.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "DEU.5.2",
+      "edition_verse_id": "KJV1769:DEU.5.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "The LORD our God made a covenant with us in Horeb.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.5.3",
+      "edition_verse_id": "KJV1769:DEU.5.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "The LORD made not this covenant with our fathers, but with us, ",
+          "kind": "text"
+        },
+        {
+          "text": "even",
+          "kind": "supplied"
+        },
+        {
+          "text": " us, who ",
+          "kind": "text"
+        },
+        {
+          "text": "are",
+          "kind": "supplied"
+        },
+        {
+          "text": " all of us here alive this day.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.5.4",
+      "edition_verse_id": "KJV1769:DEU.5.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "The LORD talked with you face to face in the mount out of the midst of the fire,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.5.5",
+      "edition_verse_id": "KJV1769:DEU.5.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "(I stood between the LORD and you at that time, to shew you the word of the LORD: for ye were afraid by reason of the fire, and went not up into the mount;) saying,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.5.6",
+      "edition_verse_id": "KJV1769:DEU.5.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "¶ I ",
+          "kind": "text"
+        },
+        {
+          "text": "am",
+          "kind": "supplied"
+        },
+        {
+          "text": " the LORD thy God, which brought thee out of the land of Egypt, from the house of bondage.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "DEU.5.7",
+      "edition_verse_id": "KJV1769:DEU.5.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "Thou shalt have none other gods before me.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.5.8",
+      "edition_verse_id": "KJV1769:DEU.5.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "Thou shalt not make thee ",
+          "kind": "text"
+        },
+        {
+          "text": "any",
+          "kind": "supplied"
+        },
+        {
+          "text": " graven image, ",
+          "kind": "text"
+        },
+        {
+          "text": "or",
+          "kind": "supplied"
+        },
+        {
+          "text": " any likeness ",
+          "kind": "text"
+        },
+        {
+          "text": "of any thing",
+          "kind": "supplied"
+        },
+        {
+          "text": " that ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " in heaven above, or that ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " in the earth beneath, or that ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " in the waters beneath the earth:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.5.9",
+      "edition_verse_id": "KJV1769:DEU.5.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "Thou shalt not bow down thyself unto them, nor serve them: for I the LORD thy God ",
+          "kind": "text"
+        },
+        {
+          "text": "am",
+          "kind": "supplied"
+        },
+        {
+          "text": " a jealous God, visiting the iniquity of the fathers upon the children unto the third and fourth ",
+          "kind": "text"
+        },
+        {
+          "text": "generation",
+          "kind": "supplied"
+        },
+        {
+          "text": " of them that hate me,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.5.10",
+      "edition_verse_id": "KJV1769:DEU.5.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "And shewing mercy unto thousands of them that love me and keep my commandments.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.5.11",
+      "edition_verse_id": "KJV1769:DEU.5.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "Thou shalt not take the name of the LORD thy God in vain: for the LORD will not hold ",
+          "kind": "text"
+        },
+        {
+          "text": "him",
+          "kind": "supplied"
+        },
+        {
+          "text": " guiltless that taketh his name in vain.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.5.12",
+      "edition_verse_id": "KJV1769:DEU.5.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "Keep the sabbath day to sanctify it, as the LORD thy God hath commanded thee.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.5.13",
+      "edition_verse_id": "KJV1769:DEU.5.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "Six days thou shalt labour, and do all thy work:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.5.14",
+      "edition_verse_id": "KJV1769:DEU.5.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "But the seventh day ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " the sabbath of the LORD thy God: ",
+          "kind": "text"
+        },
+        {
+          "text": "in it",
+          "kind": "supplied"
+        },
+        {
+          "text": " thou shalt not do any work, thou, nor thy son, nor thy daughter, nor thy manservant, nor thy maidservant, nor thine ox, nor thine ass, nor any of thy cattle, nor thy stranger that ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " within thy gates; that thy manservant and thy maidservant may rest as well as thou.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.5.15",
+      "edition_verse_id": "KJV1769:DEU.5.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "And remember that thou wast a servant in the land of Egypt, and ",
+          "kind": "text"
+        },
+        {
+          "text": "that",
+          "kind": "supplied"
+        },
+        {
+          "text": " the LORD thy God brought thee out thence through a mighty hand and by a stretched out arm: therefore the LORD thy God commanded thee to keep the sabbath day.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.5.16",
+      "edition_verse_id": "KJV1769:DEU.5.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "¶ Honour thy father and thy mother, as the LORD thy God hath commanded thee; that thy days may be prolonged, and that it may go well with thee, in the land which the LORD thy God giveth thee.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "DEU.5.17",
+      "edition_verse_id": "KJV1769:DEU.5.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "Thou shalt not kill.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.5.18",
+      "edition_verse_id": "KJV1769:DEU.5.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "Neither shalt thou commit adultery.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.5.19",
+      "edition_verse_id": "KJV1769:DEU.5.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "Neither shalt thou steal.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.5.20",
+      "edition_verse_id": "KJV1769:DEU.5.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "Neither shalt thou bear false witness against thy neighbour.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.5.21",
+      "edition_verse_id": "KJV1769:DEU.5.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "Neither shalt thou desire thy neighbour’s wife, neither shalt thou covet thy neighbour’s house, his field, or his manservant, or his maidservant, his ox, or his ass, or any ",
+          "kind": "text"
+        },
+        {
+          "text": "thing",
+          "kind": "supplied"
+        },
+        {
+          "text": " that ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " thy neighbour’s.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.5.22",
+      "edition_verse_id": "KJV1769:DEU.5.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "¶ These words the LORD spake unto all your assembly in the mount out of the midst of the fire, of the cloud, and of the thick darkness, with a great voice: and he added no more. And he wrote them in two tables of stone, and delivered them unto me.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "DEU.5.23",
+      "edition_verse_id": "KJV1769:DEU.5.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "And it came to pass, when ye heard the voice out of the midst of the darkness, (for the mountain did burn with fire,) that ye came near unto me, ",
+          "kind": "text"
+        },
+        {
+          "text": "even",
+          "kind": "supplied"
+        },
+        {
+          "text": " all the heads of your tribes, and your elders;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "DEU.5.24",
+      "edition_verse_id": "KJV1769:DEU.5.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "And ye said, Behold, the LORD our God hath shewed us his glory and his greatness, and we have heard his voice out of the midst of the fire: we have seen this day that God doth talk with man, and he liveth.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.5.25",
+      "edition_verse_id": "KJV1769:DEU.5.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "Now therefore why should we die? for this great fire will consume us: if we hear the voice of the LORD our God any more, then we shall die.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.5.26",
+      "edition_verse_id": "KJV1769:DEU.5.26",
+      "verse": 26,
+      "spans": [
+        {
+          "text": "For who ",
+          "kind": "text"
+        },
+        {
+          "text": "is there of",
+          "kind": "supplied"
+        },
+        {
+          "text": " all flesh, that hath heard the voice of the living God speaking out of the midst of the fire, as we ",
+          "kind": "text"
+        },
+        {
+          "text": "have",
+          "kind": "supplied"
+        },
+        {
+          "text": ", and lived?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.5.27",
+      "edition_verse_id": "KJV1769:DEU.5.27",
+      "verse": 27,
+      "spans": [
+        {
+          "text": "Go thou near, and hear all that the LORD our God shall say: and speak thou unto us all that the LORD our God shall speak unto thee; and we will hear ",
+          "kind": "text"
+        },
+        {
+          "text": "it",
+          "kind": "supplied"
+        },
+        {
+          "text": ", and do ",
+          "kind": "text"
+        },
+        {
+          "text": "it",
+          "kind": "supplied"
+        },
+        {
+          "text": ".",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.5.28",
+      "edition_verse_id": "KJV1769:DEU.5.28",
+      "verse": 28,
+      "spans": [
+        {
+          "text": "And the LORD heard the voice of your words, when ye spake unto me; and the LORD said unto me, I have heard the voice of the words of this people, which they have spoken unto thee: they have well said all that they have spoken.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.5.29",
+      "edition_verse_id": "KJV1769:DEU.5.29",
+      "verse": 29,
+      "spans": [
+        {
+          "text": "O that there were such an heart in them, that they would fear me, and keep all my commandments always, that it might be well with them, and with their children for ever!",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.5.30",
+      "edition_verse_id": "KJV1769:DEU.5.30",
+      "verse": 30,
+      "spans": [
+        {
+          "text": "Go say to them, Get you into your tents again.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.5.31",
+      "edition_verse_id": "KJV1769:DEU.5.31",
+      "verse": 31,
+      "spans": [
+        {
+          "text": "But as for thee, stand thou here by me, and I will speak unto thee all the commandments, and the statutes, and the judgments, which thou shalt teach them, that they may do ",
+          "kind": "text"
+        },
+        {
+          "text": "them",
+          "kind": "supplied"
+        },
+        {
+          "text": " in the land which I give them to possess it.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.5.32",
+      "edition_verse_id": "KJV1769:DEU.5.32",
+      "verse": 32,
+      "spans": [
+        {
+          "text": "Ye shall observe to do therefore as the LORD your God hath commanded you: ye shall not turn aside to the right hand or to the left.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.5.33",
+      "edition_verse_id": "KJV1769:DEU.5.33",
+      "verse": 33,
+      "spans": [
+        {
+          "text": "Ye shall walk in all the ways which the LORD your God hath commanded you, that ye may live, and ",
+          "kind": "text"
+        },
+        {
+          "text": "that it may be",
+          "kind": "supplied"
+        },
+        {
+          "text": " well with you, and ",
+          "kind": "text"
+        },
+        {
+          "text": "that",
+          "kind": "supplied"
+        },
+        {
+          "text": " ye may prolong ",
+          "kind": "text"
+        },
+        {
+          "text": "your",
+          "kind": "supplied"
+        },
+        {
+          "text": " days in the land which ye shall possess.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

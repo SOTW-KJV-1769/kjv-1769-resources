@@ -1,0 +1,19 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "KJV1769",
+  "book_code": "HAG",
+  "book_name": "Haggai",
+  "book_order": 37,
+  "canonical_ids": "HAG.{chapter}.{verse}",
+  "edition_ids": "KJV1769:HAG.{chapter}.{verse}",
+  "chapter_count": 2,
+  "verse_count": 38,
+  "traditional_verse_positions": 38,
+  "omitted_from_main_text": [],
+  "chapter_path_template": "haggai/chapters/{chapter:02d}.json",
+  "predecessor_book_code": "ZEP",
+  "successor_book_code": "ZEC",
+  "source_provenance": "books/haggai/SOURCE_INVENTORY.json",
+  "reader": "books/haggai/site/index.html",
+  "note": "Text-only KJV1769 projection of the pinned eBible eng-kjv2006 source. No scanned pages, embedded Strong’s, or lexical claims."
+}

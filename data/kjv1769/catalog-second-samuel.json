@@ -1,0 +1,19 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "KJV1769",
+  "book_code": "2SA",
+  "book_name": "2 Samuel",
+  "book_order": 10,
+  "canonical_ids": "2SA.{chapter}.{verse}",
+  "edition_ids": "KJV1769:2SA.{chapter}.{verse}",
+  "chapter_count": 24,
+  "verse_count": 695,
+  "traditional_verse_positions": 695,
+  "omitted_from_main_text": [],
+  "chapter_path_template": "second-samuel/chapters/{chapter:02d}.json",
+  "predecessor_book_code": "1SA",
+  "successor_book_code": "1KI",
+  "source_provenance": "books/second-samuel/SOURCE_INVENTORY.json",
+  "reader": "books/second-samuel/site/index.html",
+  "note": "Text-only KJV1769 projection of the pinned eBible eng-kjv2006 source. No scanned pages, embedded Strong’s, or lexical claims."
+}

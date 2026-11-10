@@ -1,0 +1,19 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "KJV1769",
+  "book_code": "NEH",
+  "book_name": "Nehemiah",
+  "book_order": 16,
+  "canonical_ids": "NEH.{chapter}.{verse}",
+  "edition_ids": "KJV1769:NEH.{chapter}.{verse}",
+  "chapter_count": 13,
+  "verse_count": 406,
+  "traditional_verse_positions": 406,
+  "omitted_from_main_text": [],
+  "chapter_path_template": "nehemiah/chapters/{chapter:02d}.json",
+  "predecessor_book_code": "EZR",
+  "successor_book_code": "EST",
+  "source_provenance": "books/nehemiah/SOURCE_INVENTORY.json",
+  "reader": "books/nehemiah/site/index.html",
+  "note": "Text-only KJV1769 projection of the pinned eBible eng-kjv2006 source. No scanned pages, embedded Strong’s, or lexical claims."
+}

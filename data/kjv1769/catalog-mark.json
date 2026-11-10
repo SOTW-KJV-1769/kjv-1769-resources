@@ -1,0 +1,19 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "KJV1769",
+  "book_code": "MRK",
+  "book_name": "Mark",
+  "book_order": 41,
+  "canonical_ids": "MRK.{chapter}.{verse}",
+  "edition_ids": "KJV1769:MRK.{chapter}.{verse}",
+  "chapter_count": 16,
+  "verse_count": 678,
+  "traditional_verse_positions": 678,
+  "omitted_from_main_text": [],
+  "chapter_path_template": "mark/chapters/{chapter:02d}.json",
+  "predecessor_book_code": "MAT",
+  "successor_book_code": "LUK",
+  "source_provenance": "books/mark/SOURCE_INVENTORY.json",
+  "reader": "books/mark/site/index.html",
+  "note": "Text-only KJV1769 projection of the pinned eBible eng-kjv2006 source. No scanned pages, embedded Strong’s, or lexical claims."
+}

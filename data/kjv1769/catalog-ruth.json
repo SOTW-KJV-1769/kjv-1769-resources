@@ -1,0 +1,19 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "KJV1769",
+  "book_code": "RUT",
+  "book_name": "Ruth",
+  "book_order": 8,
+  "canonical_ids": "RUT.{chapter}.{verse}",
+  "edition_ids": "KJV1769:RUT.{chapter}.{verse}",
+  "chapter_count": 4,
+  "verse_count": 85,
+  "traditional_verse_positions": 85,
+  "omitted_from_main_text": [],
+  "chapter_path_template": "ruth/chapters/{chapter:02d}.json",
+  "predecessor_book_code": "JDG",
+  "successor_book_code": "1SA",
+  "source_provenance": "books/ruth/SOURCE_INVENTORY.json",
+  "reader": "books/ruth/site/index.html",
+  "note": "Text-only KJV1769 projection of the pinned eBible eng-kjv2006 source. No scanned pages, embedded Strong’s, or lexical claims."
+}

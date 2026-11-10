@@ -1,0 +1,19 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "KJV1769",
+  "book_code": "1TH",
+  "book_name": "1 Thessalonians",
+  "book_order": 52,
+  "canonical_ids": "1TH.{chapter}.{verse}",
+  "edition_ids": "KJV1769:1TH.{chapter}.{verse}",
+  "chapter_count": 5,
+  "verse_count": 89,
+  "traditional_verse_positions": 89,
+  "omitted_from_main_text": [],
+  "chapter_path_template": "first-thessalonians/chapters/{chapter:02d}.json",
+  "predecessor_book_code": "COL",
+  "successor_book_code": "2TH",
+  "source_provenance": "books/first-thessalonians/SOURCE_INVENTORY.json",
+  "reader": "books/first-thessalonians/site/index.html",
+  "note": "Text-only KJV1769 projection of the pinned eBible eng-kjv2006 source. No scanned pages, embedded Strong’s, or lexical claims."
+}

@@ -1,0 +1,19 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "KJV1769",
+  "book_code": "1SA",
+  "book_name": "1 Samuel",
+  "book_order": 9,
+  "canonical_ids": "1SA.{chapter}.{verse}",
+  "edition_ids": "KJV1769:1SA.{chapter}.{verse}",
+  "chapter_count": 31,
+  "verse_count": 810,
+  "traditional_verse_positions": 810,
+  "omitted_from_main_text": [],
+  "chapter_path_template": "first-samuel/chapters/{chapter:02d}.json",
+  "predecessor_book_code": "RUT",
+  "successor_book_code": "2SA",
+  "source_provenance": "books/first-samuel/SOURCE_INVENTORY.json",
+  "reader": "books/first-samuel/site/index.html",
+  "note": "Text-only KJV1769 projection of the pinned eBible eng-kjv2006 source. No scanned pages, embedded Strong’s, or lexical claims."
+}

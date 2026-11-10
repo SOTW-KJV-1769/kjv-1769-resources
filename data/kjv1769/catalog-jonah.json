@@ -1,0 +1,19 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "KJV1769",
+  "book_code": "JON",
+  "book_name": "Jonah",
+  "book_order": 32,
+  "canonical_ids": "JON.{chapter}.{verse}",
+  "edition_ids": "KJV1769:JON.{chapter}.{verse}",
+  "chapter_count": 4,
+  "verse_count": 48,
+  "traditional_verse_positions": 48,
+  "omitted_from_main_text": [],
+  "chapter_path_template": "jonah/chapters/{chapter:02d}.json",
+  "predecessor_book_code": "OBA",
+  "successor_book_code": "MIC",
+  "source_provenance": "books/jonah/SOURCE_INVENTORY.json",
+  "reader": "books/jonah/site/index.html",
+  "note": "Text-only KJV1769 projection of the pinned eBible eng-kjv2006 source. No scanned pages, embedded Strong’s, or lexical claims."
+}

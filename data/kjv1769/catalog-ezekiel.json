@@ -1,0 +1,19 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "KJV1769",
+  "book_code": "EZK",
+  "book_name": "Ezekiel",
+  "book_order": 26,
+  "canonical_ids": "EZK.{chapter}.{verse}",
+  "edition_ids": "KJV1769:EZK.{chapter}.{verse}",
+  "chapter_count": 48,
+  "verse_count": 1273,
+  "traditional_verse_positions": 1273,
+  "omitted_from_main_text": [],
+  "chapter_path_template": "ezekiel/chapters/{chapter:02d}.json",
+  "predecessor_book_code": "LAM",
+  "successor_book_code": "DAN",
+  "source_provenance": "books/ezekiel/SOURCE_INVENTORY.json",
+  "reader": "books/ezekiel/site/index.html",
+  "note": "Text-only KJV1769 projection of the pinned eBible eng-kjv2006 source. No scanned pages, embedded Strong’s, or lexical claims."
+}

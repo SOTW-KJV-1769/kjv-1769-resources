@@ -1,0 +1,19 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "KJV1769",
+  "book_code": "1TI",
+  "book_name": "1 Timothy",
+  "book_order": 54,
+  "canonical_ids": "1TI.{chapter}.{verse}",
+  "edition_ids": "KJV1769:1TI.{chapter}.{verse}",
+  "chapter_count": 6,
+  "verse_count": 113,
+  "traditional_verse_positions": 113,
+  "omitted_from_main_text": [],
+  "chapter_path_template": "first-timothy/chapters/{chapter:02d}.json",
+  "predecessor_book_code": "2TH",
+  "successor_book_code": "2TI",
+  "source_provenance": "books/first-timothy/SOURCE_INVENTORY.json",
+  "reader": "books/first-timothy/site/index.html",
+  "note": "Text-only KJV1769 projection of the pinned eBible eng-kjv2006 source. No scanned pages, embedded Strong’s, or lexical claims."
+}

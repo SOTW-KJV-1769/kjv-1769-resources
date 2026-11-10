@@ -1,0 +1,504 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "KJV1769",
+  "book_code": "COL",
+  "chapter": 1,
+  "verses": [
+    {
+      "id": "COL.1.1",
+      "edition_verse_id": "KJV1769:COL.1.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "Paul, an apostle of Jesus Christ by the will of God, and Timotheus ",
+          "kind": "text"
+        },
+        {
+          "text": "our",
+          "kind": "supplied"
+        },
+        {
+          "text": " brother,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "COL.1.2",
+      "edition_verse_id": "KJV1769:COL.1.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "To the saints and faithful brethren in Christ which are at Colosse: Grace ",
+          "kind": "text"
+        },
+        {
+          "text": "be",
+          "kind": "supplied"
+        },
+        {
+          "text": " unto you, and peace, from God our Father and the Lord Jesus Christ.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "COL.1.3",
+      "edition_verse_id": "KJV1769:COL.1.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "We give thanks to God and the Father of our Lord Jesus Christ, praying always for you,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "COL.1.4",
+      "edition_verse_id": "KJV1769:COL.1.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "Since we heard of your faith in Christ Jesus, and of the love ",
+          "kind": "text"
+        },
+        {
+          "text": "which ye have",
+          "kind": "supplied"
+        },
+        {
+          "text": " to all the saints,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "COL.1.5",
+      "edition_verse_id": "KJV1769:COL.1.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "For the hope which is laid up for you in heaven, whereof ye heard before in the word of the truth of the gospel;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "COL.1.6",
+      "edition_verse_id": "KJV1769:COL.1.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "Which is come unto you, as ",
+          "kind": "text"
+        },
+        {
+          "text": "it is",
+          "kind": "supplied"
+        },
+        {
+          "text": " in all the world; and bringeth forth fruit, as ",
+          "kind": "text"
+        },
+        {
+          "text": "it doth",
+          "kind": "supplied"
+        },
+        {
+          "text": " also in you, since the day ye heard ",
+          "kind": "text"
+        },
+        {
+          "text": "of it",
+          "kind": "supplied"
+        },
+        {
+          "text": ", and knew the grace of God in truth:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "COL.1.7",
+      "edition_verse_id": "KJV1769:COL.1.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "As ye also learned of Epaphras our dear fellowservant, who is for you a faithful minister of Christ;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "COL.1.8",
+      "edition_verse_id": "KJV1769:COL.1.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "Who also declared unto us your love in the Spirit.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "COL.1.9",
+      "edition_verse_id": "KJV1769:COL.1.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "For this cause we also, since the day we heard ",
+          "kind": "text"
+        },
+        {
+          "text": "it",
+          "kind": "supplied"
+        },
+        {
+          "text": ", do not cease to pray for you, and to desire that ye might be filled with the knowledge of his will in all wisdom and spiritual understanding;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "COL.1.10",
+      "edition_verse_id": "KJV1769:COL.1.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "That ye might walk worthy of the Lord unto all pleasing, being fruitful in every good work, and increasing in the knowledge of God;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "COL.1.11",
+      "edition_verse_id": "KJV1769:COL.1.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "Strengthened with all might, according to his glorious power, unto all patience and longsuffering with joyfulness;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "COL.1.12",
+      "edition_verse_id": "KJV1769:COL.1.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "Giving thanks unto the Father, which hath made us meet to be partakers of the inheritance of the saints in light:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "COL.1.13",
+      "edition_verse_id": "KJV1769:COL.1.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "Who hath delivered us from the power of darkness, and hath translated ",
+          "kind": "text"
+        },
+        {
+          "text": "us",
+          "kind": "supplied"
+        },
+        {
+          "text": " into the kingdom of his dear Son:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "COL.1.14",
+      "edition_verse_id": "KJV1769:COL.1.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "In whom we have redemption through his blood, ",
+          "kind": "text"
+        },
+        {
+          "text": "even",
+          "kind": "supplied"
+        },
+        {
+          "text": " the forgiveness of sins:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "COL.1.15",
+      "edition_verse_id": "KJV1769:COL.1.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "Who is the image of the invisible God, the firstborn of every creature:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "COL.1.16",
+      "edition_verse_id": "KJV1769:COL.1.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "For by him were all things created, that are in heaven, and that are in earth, visible and invisible, whether ",
+          "kind": "text"
+        },
+        {
+          "text": "they be",
+          "kind": "supplied"
+        },
+        {
+          "text": " thrones, or dominions, or principalities, or powers: all things were created by him, and for him:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "COL.1.17",
+      "edition_verse_id": "KJV1769:COL.1.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "And he is before all things, and by him all things consist.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "COL.1.18",
+      "edition_verse_id": "KJV1769:COL.1.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "And he is the head of the body, the church: who is the beginning, the firstborn from the dead; that in all ",
+          "kind": "text"
+        },
+        {
+          "text": "things",
+          "kind": "supplied"
+        },
+        {
+          "text": " he might have the preeminence.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "COL.1.19",
+      "edition_verse_id": "KJV1769:COL.1.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "For it pleased ",
+          "kind": "text"
+        },
+        {
+          "text": "the Father",
+          "kind": "supplied"
+        },
+        {
+          "text": " that in him should all fulness dwell;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "COL.1.20",
+      "edition_verse_id": "KJV1769:COL.1.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "And, having made peace through the blood of his cross, by him to reconcile all things unto himself; by him, ",
+          "kind": "text"
+        },
+        {
+          "text": "I say",
+          "kind": "supplied"
+        },
+        {
+          "text": ", whether ",
+          "kind": "text"
+        },
+        {
+          "text": "they be",
+          "kind": "supplied"
+        },
+        {
+          "text": " things in earth, or things in heaven.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "COL.1.21",
+      "edition_verse_id": "KJV1769:COL.1.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "And you, that were sometime alienated and enemies in ",
+          "kind": "text"
+        },
+        {
+          "text": "your",
+          "kind": "supplied"
+        },
+        {
+          "text": " mind by wicked works, yet now hath he reconciled",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "COL.1.22",
+      "edition_verse_id": "KJV1769:COL.1.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "In the body of his flesh through death, to present you holy and unblameable and unreproveable in his sight:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "COL.1.23",
+      "edition_verse_id": "KJV1769:COL.1.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "If ye continue in the faith grounded and settled, and ",
+          "kind": "text"
+        },
+        {
+          "text": "be",
+          "kind": "supplied"
+        },
+        {
+          "text": " not moved away from the hope of the gospel, which ye have heard, ",
+          "kind": "text"
+        },
+        {
+          "text": "and",
+          "kind": "supplied"
+        },
+        {
+          "text": " which was preached to every creature which is under heaven; whereof I Paul am made a minister;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "COL.1.24",
+      "edition_verse_id": "KJV1769:COL.1.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "Who now rejoice in my sufferings for you, and fill up that which is behind of the afflictions of Christ in my flesh for his body’s sake, which is the church:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "COL.1.25",
+      "edition_verse_id": "KJV1769:COL.1.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "Whereof I am made a minister, according to the dispensation of God which is given to me for you, to fulfil the word of God;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "COL.1.26",
+      "edition_verse_id": "KJV1769:COL.1.26",
+      "verse": 26,
+      "spans": [
+        {
+          "text": "Even",
+          "kind": "supplied"
+        },
+        {
+          "text": " the mystery which hath been hid from ages and from generations, but now is made manifest to his saints:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "COL.1.27",
+      "edition_verse_id": "KJV1769:COL.1.27",
+      "verse": 27,
+      "spans": [
+        {
+          "text": "To whom God would make known what ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " the riches of the glory of this mystery among the Gentiles; which is Christ in you, the hope of glory:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "COL.1.28",
+      "edition_verse_id": "KJV1769:COL.1.28",
+      "verse": 28,
+      "spans": [
+        {
+          "text": "Whom we preach, warning every man, and teaching every man in all wisdom; that we may present every man perfect in Christ Jesus:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "COL.1.29",
+      "edition_verse_id": "KJV1769:COL.1.29",
+      "verse": 29,
+      "spans": [
+        {
+          "text": "Whereunto I also labour, striving according to his working, which worketh in me mightily.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

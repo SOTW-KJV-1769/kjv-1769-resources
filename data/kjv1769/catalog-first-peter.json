@@ -1,0 +1,19 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "KJV1769",
+  "book_code": "1PE",
+  "book_name": "1 Peter",
+  "book_order": 60,
+  "canonical_ids": "1PE.{chapter}.{verse}",
+  "edition_ids": "KJV1769:1PE.{chapter}.{verse}",
+  "chapter_count": 5,
+  "verse_count": 105,
+  "traditional_verse_positions": 105,
+  "omitted_from_main_text": [],
+  "chapter_path_template": "first-peter/chapters/{chapter:02d}.json",
+  "predecessor_book_code": "JAS",
+  "successor_book_code": "2PE",
+  "source_provenance": "books/first-peter/SOURCE_INVENTORY.json",
+  "reader": "books/first-peter/site/index.html",
+  "note": "Text-only KJV1769 projection of the pinned eBible eng-kjv2006 source. No scanned pages, embedded Strong’s, or lexical claims."
+}

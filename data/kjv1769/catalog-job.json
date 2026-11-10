@@ -1,0 +1,19 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "KJV1769",
+  "book_code": "JOB",
+  "book_name": "Job",
+  "book_order": 18,
+  "canonical_ids": "JOB.{chapter}.{verse}",
+  "edition_ids": "KJV1769:JOB.{chapter}.{verse}",
+  "chapter_count": 42,
+  "verse_count": 1070,
+  "traditional_verse_positions": 1070,
+  "omitted_from_main_text": [],
+  "chapter_path_template": "job/chapters/{chapter:02d}.json",
+  "predecessor_book_code": "EST",
+  "successor_book_code": "PSA",
+  "source_provenance": "books/job/SOURCE_INVENTORY.json",
+  "reader": "books/job/site/index.html",
+  "note": "Text-only KJV1769 projection of the pinned eBible eng-kjv2006 source. No scanned pages, embedded Strong’s, or lexical claims."
+}

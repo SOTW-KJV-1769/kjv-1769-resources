@@ -1,0 +1,19 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "KJV1769",
+  "book_code": "2JN",
+  "book_name": "2 John",
+  "book_order": 63,
+  "canonical_ids": "2JN.{chapter}.{verse}",
+  "edition_ids": "KJV1769:2JN.{chapter}.{verse}",
+  "chapter_count": 1,
+  "verse_count": 13,
+  "traditional_verse_positions": 13,
+  "omitted_from_main_text": [],
+  "chapter_path_template": "second-john/chapters/{chapter:02d}.json",
+  "predecessor_book_code": "1JN",
+  "successor_book_code": "3JN",
+  "source_provenance": "books/second-john/SOURCE_INVENTORY.json",
+  "reader": "books/second-john/site/index.html",
+  "note": "Text-only KJV1769 projection of the pinned eBible eng-kjv2006 source. No scanned pages, embedded Strong’s, or lexical claims."
+}

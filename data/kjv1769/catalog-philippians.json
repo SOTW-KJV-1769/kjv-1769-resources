@@ -1,0 +1,19 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "KJV1769",
+  "book_code": "PHP",
+  "book_name": "Philippians",
+  "book_order": 50,
+  "canonical_ids": "PHP.{chapter}.{verse}",
+  "edition_ids": "KJV1769:PHP.{chapter}.{verse}",
+  "chapter_count": 4,
+  "verse_count": 104,
+  "traditional_verse_positions": 104,
+  "omitted_from_main_text": [],
+  "chapter_path_template": "philippians/chapters/{chapter:02d}.json",
+  "predecessor_book_code": "EPH",
+  "successor_book_code": "COL",
+  "source_provenance": "books/philippians/SOURCE_INVENTORY.json",
+  "reader": "books/philippians/site/index.html",
+  "note": "Text-only KJV1769 projection of the pinned eBible eng-kjv2006 source. No scanned pages, embedded Strong’s, or lexical claims."
+}

@@ -1,0 +1,304 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "KJV1769",
+  "book_code": "COL",
+  "chapter": 4,
+  "verses": [
+    {
+      "id": "COL.4.1",
+      "edition_verse_id": "KJV1769:COL.4.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "Masters, give unto ",
+          "kind": "text"
+        },
+        {
+          "text": "your",
+          "kind": "supplied"
+        },
+        {
+          "text": " servants that which is just and equal; knowing that ye also have a Master in heaven.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "COL.4.2",
+      "edition_verse_id": "KJV1769:COL.4.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "Continue in prayer, and watch in the same with thanksgiving;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "COL.4.3",
+      "edition_verse_id": "KJV1769:COL.4.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "Withal praying also for us, that God would open unto us a door of utterance, to speak the mystery of Christ, for which I am also in bonds:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "COL.4.4",
+      "edition_verse_id": "KJV1769:COL.4.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "That I may make it manifest, as I ought to speak.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "COL.4.5",
+      "edition_verse_id": "KJV1769:COL.4.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "Walk in wisdom toward them that are without, redeeming the time.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "COL.4.6",
+      "edition_verse_id": "KJV1769:COL.4.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "Let your speech ",
+          "kind": "text"
+        },
+        {
+          "text": "be",
+          "kind": "supplied"
+        },
+        {
+          "text": " alway with grace, seasoned with salt, that ye may know how ye ought to answer every man.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "COL.4.7",
+      "edition_verse_id": "KJV1769:COL.4.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "All my state shall Tychicus declare unto you, ",
+          "kind": "text"
+        },
+        {
+          "text": "who is",
+          "kind": "supplied"
+        },
+        {
+          "text": " a beloved brother, and a faithful minister and fellowservant in the Lord:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "COL.4.8",
+      "edition_verse_id": "KJV1769:COL.4.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "Whom I have sent unto you for the same purpose, that he might know your estate, and comfort your hearts;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "COL.4.9",
+      "edition_verse_id": "KJV1769:COL.4.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "With Onesimus, a faithful and beloved brother, who is ",
+          "kind": "text"
+        },
+        {
+          "text": "one",
+          "kind": "supplied"
+        },
+        {
+          "text": " of you. They shall make known unto you all things which ",
+          "kind": "text"
+        },
+        {
+          "text": "are done",
+          "kind": "supplied"
+        },
+        {
+          "text": " here.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "COL.4.10",
+      "edition_verse_id": "KJV1769:COL.4.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "Aristarchus my fellowprisoner saluteth you, and Marcus, sister’s son to Barnabas, (touching whom ye received commandments: if he come unto you, receive him;)",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "COL.4.11",
+      "edition_verse_id": "KJV1769:COL.4.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "And Jesus, which is called Justus, who are of the circumcision. These only ",
+          "kind": "text"
+        },
+        {
+          "text": "are my",
+          "kind": "supplied"
+        },
+        {
+          "text": " fellowworkers unto the kingdom of God, which have been a comfort unto me.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "COL.4.12",
+      "edition_verse_id": "KJV1769:COL.4.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "Epaphras, who is ",
+          "kind": "text"
+        },
+        {
+          "text": "one",
+          "kind": "supplied"
+        },
+        {
+          "text": " of you, a servant of Christ, saluteth you, always labouring fervently for you in prayers, that ye may stand perfect and complete in all the will of God.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "COL.4.13",
+      "edition_verse_id": "KJV1769:COL.4.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "For I bear him record, that he hath a great zeal for you, and them ",
+          "kind": "text"
+        },
+        {
+          "text": "that are",
+          "kind": "supplied"
+        },
+        {
+          "text": " in Laodicea, and them in Hierapolis.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "COL.4.14",
+      "edition_verse_id": "KJV1769:COL.4.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "Luke, the beloved physician, and Demas, greet you.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "COL.4.15",
+      "edition_verse_id": "KJV1769:COL.4.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "Salute the brethren which are in Laodicea, and Nymphas, and the church which is in his house.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "COL.4.16",
+      "edition_verse_id": "KJV1769:COL.4.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "And when this epistle is read among you, cause that it be read also in the church of the Laodiceans; and that ye likewise read the ",
+          "kind": "text"
+        },
+        {
+          "text": "epistle",
+          "kind": "supplied"
+        },
+        {
+          "text": " from Laodicea.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "COL.4.17",
+      "edition_verse_id": "KJV1769:COL.4.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "And say to Archippus, Take heed to the ministry which thou hast received in the Lord, that thou fulfil it.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "COL.4.18",
+      "edition_verse_id": "KJV1769:COL.4.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "The salutation by the hand of me Paul. Remember my bonds. Grace ",
+          "kind": "text"
+        },
+        {
+          "text": "be",
+          "kind": "supplied"
+        },
+        {
+          "text": " with you. Amen.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

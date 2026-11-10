@@ -1,0 +1,19 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "KJV1769",
+  "book_code": "JOL",
+  "book_name": "Joel",
+  "book_order": 29,
+  "canonical_ids": "JOL.{chapter}.{verse}",
+  "edition_ids": "KJV1769:JOL.{chapter}.{verse}",
+  "chapter_count": 3,
+  "verse_count": 73,
+  "traditional_verse_positions": 73,
+  "omitted_from_main_text": [],
+  "chapter_path_template": "joel/chapters/{chapter:02d}.json",
+  "predecessor_book_code": "HOS",
+  "successor_book_code": "AMO",
+  "source_provenance": "books/joel/SOURCE_INVENTORY.json",
+  "reader": "books/joel/site/index.html",
+  "note": "Text-only KJV1769 projection of the pinned eBible eng-kjv2006 source. No scanned pages, embedded Strong’s, or lexical claims."
+}

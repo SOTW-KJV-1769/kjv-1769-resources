@@ -1,0 +1,19 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "KJV1769",
+  "book_code": "DEU",
+  "book_name": "Deuteronomy",
+  "book_order": 5,
+  "canonical_ids": "DEU.{chapter}.{verse}",
+  "edition_ids": "KJV1769:DEU.{chapter}.{verse}",
+  "chapter_count": 34,
+  "verse_count": 959,
+  "traditional_verse_positions": 959,
+  "omitted_from_main_text": [],
+  "chapter_path_template": "deuteronomy/chapters/{chapter:02d}.json",
+  "predecessor_book_code": "NUM",
+  "successor_book_code": "JOS",
+  "source_provenance": "books/deuteronomy/SOURCE_INVENTORY.json",
+  "reader": "books/deuteronomy/site/index.html",
+  "note": "Text-only KJV1769 projection of the pinned eBible eng-kjv2006 source. No scanned pages, embedded Strong’s, or lexical claims."
+}

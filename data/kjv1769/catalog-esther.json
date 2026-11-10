@@ -1,0 +1,19 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "KJV1769",
+  "book_code": "EST",
+  "book_name": "Esther",
+  "book_order": 17,
+  "canonical_ids": "EST.{chapter}.{verse}",
+  "edition_ids": "KJV1769:EST.{chapter}.{verse}",
+  "chapter_count": 10,
+  "verse_count": 167,
+  "traditional_verse_positions": 167,
+  "omitted_from_main_text": [],
+  "chapter_path_template": "esther/chapters/{chapter:02d}.json",
+  "predecessor_book_code": "NEH",
+  "successor_book_code": "JOB",
+  "source_provenance": "books/esther/SOURCE_INVENTORY.json",
+  "reader": "books/esther/site/index.html",
+  "note": "Text-only KJV1769 projection of the pinned eBible eng-kjv2006 source. No scanned pages, embedded Strong’s, or lexical claims."
+}

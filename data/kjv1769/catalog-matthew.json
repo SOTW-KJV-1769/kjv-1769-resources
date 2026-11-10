@@ -1,0 +1,19 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "KJV1769",
+  "book_code": "MAT",
+  "book_name": "Matthew",
+  "book_order": 40,
+  "canonical_ids": "MAT.{chapter}.{verse}",
+  "edition_ids": "KJV1769:MAT.{chapter}.{verse}",
+  "chapter_count": 28,
+  "verse_count": 1071,
+  "traditional_verse_positions": 1071,
+  "omitted_from_main_text": [],
+  "chapter_path_template": "matthew/chapters/{chapter:02d}.json",
+  "predecessor_book_code": "MAL",
+  "successor_book_code": "MRK",
+  "source_provenance": "books/matthew/SOURCE_INVENTORY.json",
+  "reader": "books/matthew/site/index.html",
+  "note": "Text-only KJV1769 projection of the pinned eBible eng-kjv2006 source. No scanned pages, embedded Strong’s, or lexical claims."
+}

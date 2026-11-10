@@ -1,0 +1,19 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "KJV1769",
+  "book_code": "TIT",
+  "book_name": "Titus",
+  "book_order": 56,
+  "canonical_ids": "TIT.{chapter}.{verse}",
+  "edition_ids": "KJV1769:TIT.{chapter}.{verse}",
+  "chapter_count": 3,
+  "verse_count": 46,
+  "traditional_verse_positions": 46,
+  "omitted_from_main_text": [],
+  "chapter_path_template": "titus/chapters/{chapter:02d}.json",
+  "predecessor_book_code": "2TI",
+  "successor_book_code": "PHM",
+  "source_provenance": "books/titus/SOURCE_INVENTORY.json",
+  "reader": "books/titus/site/index.html",
+  "note": "Text-only KJV1769 projection of the pinned eBible eng-kjv2006 source. No scanned pages, embedded Strong’s, or lexical claims."
+}

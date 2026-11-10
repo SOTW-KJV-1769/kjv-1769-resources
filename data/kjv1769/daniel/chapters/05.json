@@ -1,0 +1,588 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "KJV1769",
+  "book_code": "DAN",
+  "chapter": 5,
+  "verses": [
+    {
+      "id": "DAN.5.1",
+      "edition_verse_id": "KJV1769:DAN.5.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "Belshazzar the king made a great feast to a thousand of his lords, and drank wine before the thousand.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "DAN.5.2",
+      "edition_verse_id": "KJV1769:DAN.5.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "Belshazzar, whiles he tasted the wine, commanded to bring the golden and silver vessels which his father Nebuchadnezzar had taken out of the temple which ",
+          "kind": "text"
+        },
+        {
+          "text": "was",
+          "kind": "supplied"
+        },
+        {
+          "text": " in Jerusalem; that the king, and his princes, his wives, and his concubines, might drink therein.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DAN.5.3",
+      "edition_verse_id": "KJV1769:DAN.5.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "Then they brought the golden vessels that were taken out of the temple of the house of God which ",
+          "kind": "text"
+        },
+        {
+          "text": "was",
+          "kind": "supplied"
+        },
+        {
+          "text": " at Jerusalem; and the king, and his princes, his wives, and his concubines, drank in them.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DAN.5.4",
+      "edition_verse_id": "KJV1769:DAN.5.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "They drank wine, and praised the gods of gold, and of silver, of brass, of iron, of wood, and of stone.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DAN.5.5",
+      "edition_verse_id": "KJV1769:DAN.5.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "¶ In the same hour came forth fingers of a man’s hand, and wrote over against the candlestick upon the plaister of the wall of the king’s palace: and the king saw the part of the hand that wrote.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "DAN.5.6",
+      "edition_verse_id": "KJV1769:DAN.5.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "Then the king’s countenance was changed, and his thoughts troubled him, so that the joints of his loins were loosed, and his knees smote one against another.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DAN.5.7",
+      "edition_verse_id": "KJV1769:DAN.5.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "The king cried aloud to bring in the astrologers, the Chaldeans, and the soothsayers. ",
+          "kind": "text"
+        },
+        {
+          "text": "And",
+          "kind": "supplied"
+        },
+        {
+          "text": " the king spake, and said to the wise ",
+          "kind": "text"
+        },
+        {
+          "text": "men",
+          "kind": "supplied"
+        },
+        {
+          "text": " of Babylon, Whosoever shall read this writing, and shew me the interpretation thereof, shall be clothed with scarlet, and ",
+          "kind": "text"
+        },
+        {
+          "text": "have",
+          "kind": "supplied"
+        },
+        {
+          "text": " a chain of gold about his neck, and shall be the third ruler in the kingdom.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DAN.5.8",
+      "edition_verse_id": "KJV1769:DAN.5.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "Then came in all the king’s wise ",
+          "kind": "text"
+        },
+        {
+          "text": "men:",
+          "kind": "supplied"
+        },
+        {
+          "text": " but they could not read the writing, nor make known to the king the interpretation thereof.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DAN.5.9",
+      "edition_verse_id": "KJV1769:DAN.5.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "Then was king Belshazzar greatly troubled, and his countenance was changed in him, and his lords were astonied.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DAN.5.10",
+      "edition_verse_id": "KJV1769:DAN.5.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "¶ ",
+          "kind": "text"
+        },
+        {
+          "text": "Now",
+          "kind": "supplied"
+        },
+        {
+          "text": " the queen, by reason of the words of the king and his lords, came into the banquet house: ",
+          "kind": "text"
+        },
+        {
+          "text": "and",
+          "kind": "supplied"
+        },
+        {
+          "text": " the queen spake and said, O king, live for ever: let not thy thoughts trouble thee, nor let thy countenance be changed:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "DAN.5.11",
+      "edition_verse_id": "KJV1769:DAN.5.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "There is a man in thy kingdom, in whom ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " the spirit of the holy gods; and in the days of thy father light and understanding and wisdom, like the wisdom of the gods, was found in him; whom the king Nebuchadnezzar thy father, the king, ",
+          "kind": "text"
+        },
+        {
+          "text": "I say",
+          "kind": "supplied"
+        },
+        {
+          "text": ", thy father, made master of the magicians, astrologers, Chaldeans, ",
+          "kind": "text"
+        },
+        {
+          "text": "and",
+          "kind": "supplied"
+        },
+        {
+          "text": " soothsayers;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DAN.5.12",
+      "edition_verse_id": "KJV1769:DAN.5.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "Forasmuch as an excellent spirit, and knowledge, and understanding, interpreting of dreams, and shewing of hard sentences, and dissolving of doubts, were found in the same Daniel, whom the king named Belteshazzar: now let Daniel be called, and he will shew the interpretation.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DAN.5.13",
+      "edition_verse_id": "KJV1769:DAN.5.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "Then was Daniel brought in before the king. ",
+          "kind": "text"
+        },
+        {
+          "text": "And",
+          "kind": "supplied"
+        },
+        {
+          "text": " the king spake and said unto Daniel, ",
+          "kind": "text"
+        },
+        {
+          "text": "Art",
+          "kind": "supplied"
+        },
+        {
+          "text": " thou that Daniel, which ",
+          "kind": "text"
+        },
+        {
+          "text": "art",
+          "kind": "supplied"
+        },
+        {
+          "text": " of the children of the captivity of Judah, whom the king my father brought out of Jewry?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DAN.5.14",
+      "edition_verse_id": "KJV1769:DAN.5.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "I have even heard of thee, that the spirit of the gods ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " in thee, and ",
+          "kind": "text"
+        },
+        {
+          "text": "that",
+          "kind": "supplied"
+        },
+        {
+          "text": " light and understanding and excellent wisdom is found in thee.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DAN.5.15",
+      "edition_verse_id": "KJV1769:DAN.5.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "And now the wise ",
+          "kind": "text"
+        },
+        {
+          "text": "men",
+          "kind": "supplied"
+        },
+        {
+          "text": ", the astrologers, have been brought in before me, that they should read this writing, and make known unto me the interpretation thereof: but they could not shew the interpretation of the thing:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DAN.5.16",
+      "edition_verse_id": "KJV1769:DAN.5.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "And I have heard of thee, that thou canst make interpretations, and dissolve doubts: now if thou canst read the writing, and make known to me the interpretation thereof, thou shalt be clothed with scarlet, and ",
+          "kind": "text"
+        },
+        {
+          "text": "have",
+          "kind": "supplied"
+        },
+        {
+          "text": " a chain of gold about thy neck, and shalt be the third ruler in the kingdom.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DAN.5.17",
+      "edition_verse_id": "KJV1769:DAN.5.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "¶ Then Daniel answered and said before the king, Let thy gifts be to thyself, and give thy rewards to another; yet I will read the writing unto the king, and make known to him the interpretation.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "DAN.5.18",
+      "edition_verse_id": "KJV1769:DAN.5.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "O thou king, the most high God gave Nebuchadnezzar thy father a kingdom, and majesty, and glory, and honour:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DAN.5.19",
+      "edition_verse_id": "KJV1769:DAN.5.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "And for the majesty that he gave him, all people, nations, and languages, trembled and feared before him: whom he would he slew; and whom he would he kept alive; and whom he would he set up; and whom he would he put down.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DAN.5.20",
+      "edition_verse_id": "KJV1769:DAN.5.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "But when his heart was lifted up, and his mind hardened in pride, he was deposed from his kingly throne, and they took his glory from him:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DAN.5.21",
+      "edition_verse_id": "KJV1769:DAN.5.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "And he was driven from the sons of men; and his heart was made like the beasts, and his dwelling ",
+          "kind": "text"
+        },
+        {
+          "text": "was",
+          "kind": "supplied"
+        },
+        {
+          "text": " with the wild asses: they fed him with grass like oxen, and his body was wet with the dew of heaven; till he knew that the most high God ruled in the kingdom of men, and ",
+          "kind": "text"
+        },
+        {
+          "text": "that",
+          "kind": "supplied"
+        },
+        {
+          "text": " he appointeth over it whomsoever he will.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DAN.5.22",
+      "edition_verse_id": "KJV1769:DAN.5.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "And thou his son, O Belshazzar, hast not humbled thine heart, though thou knewest all this;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DAN.5.23",
+      "edition_verse_id": "KJV1769:DAN.5.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "But hast lifted up thyself against the Lord of heaven; and they have brought the vessels of his house before thee, and thou, and thy lords, thy wives, and thy concubines, have drunk wine in them; and thou hast praised the gods of silver, and gold, of brass, iron, wood, and stone, which see not, nor hear, nor know: and the God in whose hand thy breath ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": ", and whose ",
+          "kind": "text"
+        },
+        {
+          "text": "are",
+          "kind": "supplied"
+        },
+        {
+          "text": " all thy ways, hast thou not glorified:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DAN.5.24",
+      "edition_verse_id": "KJV1769:DAN.5.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "Then was the part of the hand sent from him; and this writing was written.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DAN.5.25",
+      "edition_verse_id": "KJV1769:DAN.5.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "¶ And this ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " the writing that was written, MENE, MENE, TEKEL, UPHARSIN.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "DAN.5.26",
+      "edition_verse_id": "KJV1769:DAN.5.26",
+      "verse": 26,
+      "spans": [
+        {
+          "text": "This ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " the interpretation of the thing: MENE; God hath numbered thy kingdom, and finished it.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DAN.5.27",
+      "edition_verse_id": "KJV1769:DAN.5.27",
+      "verse": 27,
+      "spans": [
+        {
+          "text": "TEKEL; Thou art weighed in the balances, and art found wanting.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DAN.5.28",
+      "edition_verse_id": "KJV1769:DAN.5.28",
+      "verse": 28,
+      "spans": [
+        {
+          "text": "PERES; Thy kingdom is divided, and given to the Medes and Persians.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DAN.5.29",
+      "edition_verse_id": "KJV1769:DAN.5.29",
+      "verse": 29,
+      "spans": [
+        {
+          "text": "Then commanded Belshazzar, and they clothed Daniel with scarlet, and ",
+          "kind": "text"
+        },
+        {
+          "text": "put",
+          "kind": "supplied"
+        },
+        {
+          "text": " a chain of gold about his neck, and made a proclamation concerning him, that he should be the third ruler in the kingdom.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DAN.5.30",
+      "edition_verse_id": "KJV1769:DAN.5.30",
+      "verse": 30,
+      "spans": [
+        {
+          "text": "¶ In that night was Belshazzar the king of the Chaldeans slain.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "DAN.5.31",
+      "edition_verse_id": "KJV1769:DAN.5.31",
+      "verse": 31,
+      "spans": [
+        {
+          "text": "And Darius the Median took the kingdom, ",
+          "kind": "text"
+        },
+        {
+          "text": "being",
+          "kind": "supplied"
+        },
+        {
+          "text": " about threescore and two years old.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

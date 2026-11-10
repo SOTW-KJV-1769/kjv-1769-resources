@@ -1,0 +1,19 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "KJV1769",
+  "book_code": "1CH",
+  "book_name": "1 Chronicles",
+  "book_order": 13,
+  "canonical_ids": "1CH.{chapter}.{verse}",
+  "edition_ids": "KJV1769:1CH.{chapter}.{verse}",
+  "chapter_count": 29,
+  "verse_count": 942,
+  "traditional_verse_positions": 942,
+  "omitted_from_main_text": [],
+  "chapter_path_template": "first-chronicles/chapters/{chapter:02d}.json",
+  "predecessor_book_code": "2KI",
+  "successor_book_code": "2CH",
+  "source_provenance": "books/first-chronicles/SOURCE_INVENTORY.json",
+  "reader": "books/first-chronicles/site/index.html",
+  "note": "Text-only KJV1769 projection of the pinned eBible eng-kjv2006 source. No scanned pages, embedded Strong’s, or lexical claims."
+}

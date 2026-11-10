@@ -1,0 +1,840 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "KJV1769",
+  "book_code": "DAN",
+  "chapter": 11,
+  "verses": [
+    {
+      "id": "DAN.11.1",
+      "edition_verse_id": "KJV1769:DAN.11.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "Also I in the first year of Darius the Mede, ",
+          "kind": "text"
+        },
+        {
+          "text": "even",
+          "kind": "supplied"
+        },
+        {
+          "text": " I, stood to confirm and to strengthen him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "DAN.11.2",
+      "edition_verse_id": "KJV1769:DAN.11.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "And now will I shew thee the truth. Behold, there shall stand up yet three kings in Persia; and the fourth shall be far richer than ",
+          "kind": "text"
+        },
+        {
+          "text": "they",
+          "kind": "supplied"
+        },
+        {
+          "text": " all: and by his strength through his riches he shall stir up all against the realm of Grecia.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DAN.11.3",
+      "edition_verse_id": "KJV1769:DAN.11.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "And a mighty king shall stand up, that shall rule with great dominion, and do according to his will.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DAN.11.4",
+      "edition_verse_id": "KJV1769:DAN.11.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "And when he shall stand up, his kingdom shall be broken, and shall be divided toward the four winds of heaven; and not to his posterity, nor according to his dominion which he ruled: for his kingdom shall be plucked up, even for others beside those.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DAN.11.5",
+      "edition_verse_id": "KJV1769:DAN.11.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "¶ And the king of the south shall be strong, and ",
+          "kind": "text"
+        },
+        {
+          "text": "one",
+          "kind": "supplied"
+        },
+        {
+          "text": " of his princes; and he shall be strong above him, and have dominion; his dominion ",
+          "kind": "text"
+        },
+        {
+          "text": "shall be",
+          "kind": "supplied"
+        },
+        {
+          "text": " a great dominion.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "DAN.11.6",
+      "edition_verse_id": "KJV1769:DAN.11.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "And in the end of years they shall join themselves together; for the king’s daughter of the south shall come to the king of the north to make an agreement: but she shall not retain the power of the arm; neither shall he stand, nor his arm: but she shall be given up, and they that brought her, and he that begat her, and he that strengthened her in ",
+          "kind": "text"
+        },
+        {
+          "text": "these",
+          "kind": "supplied"
+        },
+        {
+          "text": " times.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DAN.11.7",
+      "edition_verse_id": "KJV1769:DAN.11.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "But out of a branch of her roots shall ",
+          "kind": "text"
+        },
+        {
+          "text": "one",
+          "kind": "supplied"
+        },
+        {
+          "text": " stand up in his estate, which shall come with an army, and shall enter into the fortress of the king of the north, and shall deal against them, and shall prevail:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DAN.11.8",
+      "edition_verse_id": "KJV1769:DAN.11.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "And shall also carry captives into Egypt their gods, with their princes, ",
+          "kind": "text"
+        },
+        {
+          "text": "and",
+          "kind": "supplied"
+        },
+        {
+          "text": " with their precious vessels of silver and of gold; and he shall continue ",
+          "kind": "text"
+        },
+        {
+          "text": "more",
+          "kind": "supplied"
+        },
+        {
+          "text": " years than the king of the north.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DAN.11.9",
+      "edition_verse_id": "KJV1769:DAN.11.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "So the king of the south shall come into ",
+          "kind": "text"
+        },
+        {
+          "text": "his",
+          "kind": "supplied"
+        },
+        {
+          "text": " kingdom, and shall return into his own land.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DAN.11.10",
+      "edition_verse_id": "KJV1769:DAN.11.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "But his sons shall be stirred up, and shall assemble a multitude of great forces: and ",
+          "kind": "text"
+        },
+        {
+          "text": "one",
+          "kind": "supplied"
+        },
+        {
+          "text": " shall certainly come, and overflow, and pass through: then shall he return, and be stirred up, ",
+          "kind": "text"
+        },
+        {
+          "text": "even",
+          "kind": "supplied"
+        },
+        {
+          "text": " to his fortress.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DAN.11.11",
+      "edition_verse_id": "KJV1769:DAN.11.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "And the king of the south shall be moved with choler, and shall come forth and fight with him, ",
+          "kind": "text"
+        },
+        {
+          "text": "even",
+          "kind": "supplied"
+        },
+        {
+          "text": " with the king of the north: and he shall set forth a great multitude; but the multitude shall be given into his hand.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DAN.11.12",
+      "edition_verse_id": "KJV1769:DAN.11.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "And",
+          "kind": "supplied"
+        },
+        {
+          "text": " when he hath taken away the multitude, his heart shall be lifted up; and he shall cast down ",
+          "kind": "text"
+        },
+        {
+          "text": "many",
+          "kind": "supplied"
+        },
+        {
+          "text": " ten thousands: but he shall not be strengthened ",
+          "kind": "text"
+        },
+        {
+          "text": "by it",
+          "kind": "supplied"
+        },
+        {
+          "text": ".",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DAN.11.13",
+      "edition_verse_id": "KJV1769:DAN.11.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "For the king of the north shall return, and shall set forth a multitude greater than the former, and shall certainly come after certain years with a great army and with much riches.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DAN.11.14",
+      "edition_verse_id": "KJV1769:DAN.11.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "And in those times there shall many stand up against the king of the south: also the robbers of thy people shall exalt themselves to establish the vision; but they shall fall.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DAN.11.15",
+      "edition_verse_id": "KJV1769:DAN.11.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "So the king of the north shall come, and cast up a mount, and take the most fenced cities: and the arms of the south shall not withstand, neither his chosen people, neither ",
+          "kind": "text"
+        },
+        {
+          "text": "shall there be any",
+          "kind": "supplied"
+        },
+        {
+          "text": " strength to withstand.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DAN.11.16",
+      "edition_verse_id": "KJV1769:DAN.11.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "But he that cometh against him shall do according to his own will, and none shall stand before him: and he shall stand in the glorious land, which by his hand shall be consumed.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DAN.11.17",
+      "edition_verse_id": "KJV1769:DAN.11.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "He shall also set his face to enter with the strength of his whole kingdom, and upright ones with him; thus shall he do: and he shall give him the daughter of women, corrupting her: but she shall not stand ",
+          "kind": "text"
+        },
+        {
+          "text": "on his side",
+          "kind": "supplied"
+        },
+        {
+          "text": ", neither be for him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DAN.11.18",
+      "edition_verse_id": "KJV1769:DAN.11.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "After this shall he turn his face unto the isles, and shall take many: but a prince for his own behalf shall cause the reproach offered by him to cease; without his own reproach he shall cause ",
+          "kind": "text"
+        },
+        {
+          "text": "it",
+          "kind": "supplied"
+        },
+        {
+          "text": " to turn upon him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DAN.11.19",
+      "edition_verse_id": "KJV1769:DAN.11.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "Then he shall turn his face toward the fort of his own land: but he shall stumble and fall, and not be found.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DAN.11.20",
+      "edition_verse_id": "KJV1769:DAN.11.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "Then shall stand up in his estate a raiser of taxes ",
+          "kind": "text"
+        },
+        {
+          "text": "in",
+          "kind": "supplied"
+        },
+        {
+          "text": " the glory of the kingdom: but within few days he shall be destroyed, neither in anger, nor in battle.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DAN.11.21",
+      "edition_verse_id": "KJV1769:DAN.11.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "And in his estate shall stand up a vile person, to whom they shall not give the honour of the kingdom: but he shall come in peaceably, and obtain the kingdom by flatteries.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "DAN.11.22",
+      "edition_verse_id": "KJV1769:DAN.11.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "And with the arms of a flood shall they be overflown from before him, and shall be broken; yea, also the prince of the covenant.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DAN.11.23",
+      "edition_verse_id": "KJV1769:DAN.11.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "And after the league ",
+          "kind": "text"
+        },
+        {
+          "text": "made",
+          "kind": "supplied"
+        },
+        {
+          "text": " with him he shall work deceitfully: for he shall come up, and shall become strong with a small people.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DAN.11.24",
+      "edition_verse_id": "KJV1769:DAN.11.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "He shall enter peaceably even upon the fattest places of the province; and he shall do ",
+          "kind": "text"
+        },
+        {
+          "text": "that",
+          "kind": "supplied"
+        },
+        {
+          "text": " which his fathers have not done, nor his fathers’ fathers; he shall scatter among them the prey, and spoil, and riches: ",
+          "kind": "text"
+        },
+        {
+          "text": "yea",
+          "kind": "supplied"
+        },
+        {
+          "text": ", and he shall forecast his devices against the strong holds, even for a time.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DAN.11.25",
+      "edition_verse_id": "KJV1769:DAN.11.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "And he shall stir up his power and his courage against the king of the south with a great army; and the king of the south shall be stirred up to battle with a very great and mighty army; but he shall not stand: for they shall forecast devices against him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DAN.11.26",
+      "edition_verse_id": "KJV1769:DAN.11.26",
+      "verse": 26,
+      "spans": [
+        {
+          "text": "Yea, they that feed of the portion of his meat shall destroy him, and his army shall overflow: and many shall fall down slain.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DAN.11.27",
+      "edition_verse_id": "KJV1769:DAN.11.27",
+      "verse": 27,
+      "spans": [
+        {
+          "text": "And both these kings’ hearts ",
+          "kind": "text"
+        },
+        {
+          "text": "shall be",
+          "kind": "supplied"
+        },
+        {
+          "text": " to do mischief, and they shall speak lies at one table; but it shall not prosper: for yet the end ",
+          "kind": "text"
+        },
+        {
+          "text": "shall be",
+          "kind": "supplied"
+        },
+        {
+          "text": " at the time appointed.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DAN.11.28",
+      "edition_verse_id": "KJV1769:DAN.11.28",
+      "verse": 28,
+      "spans": [
+        {
+          "text": "Then shall he return into his land with great riches; and his heart ",
+          "kind": "text"
+        },
+        {
+          "text": "shall be",
+          "kind": "supplied"
+        },
+        {
+          "text": " against the holy covenant; and he shall do ",
+          "kind": "text"
+        },
+        {
+          "text": "exploits",
+          "kind": "supplied"
+        },
+        {
+          "text": ", and return to his own land.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DAN.11.29",
+      "edition_verse_id": "KJV1769:DAN.11.29",
+      "verse": 29,
+      "spans": [
+        {
+          "text": "At the time appointed he shall return, and come toward the south; but it shall not be as the former, or as the latter.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DAN.11.30",
+      "edition_verse_id": "KJV1769:DAN.11.30",
+      "verse": 30,
+      "spans": [
+        {
+          "text": "¶ For the ships of Chittim shall come against him: therefore he shall be grieved, and return, and have indignation against the holy covenant: so shall he do; he shall even return, and have intelligence with them that forsake the holy covenant.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "DAN.11.31",
+      "edition_verse_id": "KJV1769:DAN.11.31",
+      "verse": 31,
+      "spans": [
+        {
+          "text": "And arms shall stand on his part, and they shall pollute the sanctuary of strength, and shall take away the daily ",
+          "kind": "text"
+        },
+        {
+          "text": "sacrifice",
+          "kind": "supplied"
+        },
+        {
+          "text": ", and they shall place the abomination that maketh desolate.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DAN.11.32",
+      "edition_verse_id": "KJV1769:DAN.11.32",
+      "verse": 32,
+      "spans": [
+        {
+          "text": "And such as do wickedly against the covenant shall he corrupt by flatteries: but the people that do know their God shall be strong, and do ",
+          "kind": "text"
+        },
+        {
+          "text": "exploits",
+          "kind": "supplied"
+        },
+        {
+          "text": ".",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DAN.11.33",
+      "edition_verse_id": "KJV1769:DAN.11.33",
+      "verse": 33,
+      "spans": [
+        {
+          "text": "And they that understand among the people shall instruct many: yet they shall fall by the sword, and by flame, by captivity, and by spoil, ",
+          "kind": "text"
+        },
+        {
+          "text": "many",
+          "kind": "supplied"
+        },
+        {
+          "text": " days.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DAN.11.34",
+      "edition_verse_id": "KJV1769:DAN.11.34",
+      "verse": 34,
+      "spans": [
+        {
+          "text": "Now when they shall fall, they shall be holpen with a little help: but many shall cleave to them with flatteries.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DAN.11.35",
+      "edition_verse_id": "KJV1769:DAN.11.35",
+      "verse": 35,
+      "spans": [
+        {
+          "text": "And ",
+          "kind": "text"
+        },
+        {
+          "text": "some",
+          "kind": "supplied"
+        },
+        {
+          "text": " of them of understanding shall fall, to try them, and to purge, and to make ",
+          "kind": "text"
+        },
+        {
+          "text": "them",
+          "kind": "supplied"
+        },
+        {
+          "text": " white, ",
+          "kind": "text"
+        },
+        {
+          "text": "even",
+          "kind": "supplied"
+        },
+        {
+          "text": " to the time of the end: because ",
+          "kind": "text"
+        },
+        {
+          "text": "it is",
+          "kind": "supplied"
+        },
+        {
+          "text": " yet for a time appointed.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DAN.11.36",
+      "edition_verse_id": "KJV1769:DAN.11.36",
+      "verse": 36,
+      "spans": [
+        {
+          "text": "And the king shall do according to his will; and he shall exalt himself, and magnify himself above every god, and shall speak marvellous things against the God of gods, and shall prosper till the indignation be accomplished: for that that is determined shall be done.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DAN.11.37",
+      "edition_verse_id": "KJV1769:DAN.11.37",
+      "verse": 37,
+      "spans": [
+        {
+          "text": "Neither shall he regard the God of his fathers, nor the desire of women, nor regard any god: for he shall magnify himself above all.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DAN.11.38",
+      "edition_verse_id": "KJV1769:DAN.11.38",
+      "verse": 38,
+      "spans": [
+        {
+          "text": "But in his estate shall he honour the God of forces: and a god whom his fathers knew not shall he honour with gold, and silver, and with precious stones, and pleasant things.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DAN.11.39",
+      "edition_verse_id": "KJV1769:DAN.11.39",
+      "verse": 39,
+      "spans": [
+        {
+          "text": "Thus shall he do in the most strong holds with a strange god, whom he shall acknowledge ",
+          "kind": "text"
+        },
+        {
+          "text": "and",
+          "kind": "supplied"
+        },
+        {
+          "text": " increase with glory: and he shall cause them to rule over many, and shall divide the land for gain.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DAN.11.40",
+      "edition_verse_id": "KJV1769:DAN.11.40",
+      "verse": 40,
+      "spans": [
+        {
+          "text": "And at the time of the end shall the king of the south push at him: and the king of the north shall come against him like a whirlwind, with chariots, and with horsemen, and with many ships; and he shall enter into the countries, and shall overflow and pass over.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DAN.11.41",
+      "edition_verse_id": "KJV1769:DAN.11.41",
+      "verse": 41,
+      "spans": [
+        {
+          "text": "He shall enter also into the glorious land, and many ",
+          "kind": "text"
+        },
+        {
+          "text": "countries",
+          "kind": "supplied"
+        },
+        {
+          "text": " shall be overthrown: but these shall escape out of his hand, ",
+          "kind": "text"
+        },
+        {
+          "text": "even",
+          "kind": "supplied"
+        },
+        {
+          "text": " Edom, and Moab, and the chief of the children of Ammon.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DAN.11.42",
+      "edition_verse_id": "KJV1769:DAN.11.42",
+      "verse": 42,
+      "spans": [
+        {
+          "text": "He shall stretch forth his hand also upon the countries: and the land of Egypt shall not escape.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DAN.11.43",
+      "edition_verse_id": "KJV1769:DAN.11.43",
+      "verse": 43,
+      "spans": [
+        {
+          "text": "But he shall have power over the treasures of gold and of silver, and over all the precious things of Egypt: and the Libyans and the Ethiopians ",
+          "kind": "text"
+        },
+        {
+          "text": "shall be",
+          "kind": "supplied"
+        },
+        {
+          "text": " at his steps.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DAN.11.44",
+      "edition_verse_id": "KJV1769:DAN.11.44",
+      "verse": 44,
+      "spans": [
+        {
+          "text": "But tidings out of the east and out of the north shall trouble him: therefore he shall go forth with great fury to destroy, and utterly to make away many.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DAN.11.45",
+      "edition_verse_id": "KJV1769:DAN.11.45",
+      "verse": 45,
+      "spans": [
+        {
+          "text": "And he shall plant the tabernacles of his palace between the seas in the glorious holy mountain; yet he shall come to his end, and none shall help him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

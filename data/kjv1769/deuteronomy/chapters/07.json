@@ -1,0 +1,440 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "KJV1769",
+  "book_code": "DEU",
+  "chapter": 7,
+  "verses": [
+    {
+      "id": "DEU.7.1",
+      "edition_verse_id": "KJV1769:DEU.7.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "When the LORD thy God shall bring thee into the land whither thou goest to possess it, and hath cast out many nations before thee, the Hittites, and the Girgashites, and the Amorites, and the Canaanites, and the Perizzites, and the Hivites, and the Jebusites, seven nations greater and mightier than thou;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "DEU.7.2",
+      "edition_verse_id": "KJV1769:DEU.7.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "And when the LORD thy God shall deliver them before thee; thou shalt smite them, ",
+          "kind": "text"
+        },
+        {
+          "text": "and",
+          "kind": "supplied"
+        },
+        {
+          "text": " utterly destroy them; thou shalt make no covenant with them, nor shew mercy unto them:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.7.3",
+      "edition_verse_id": "KJV1769:DEU.7.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "Neither shalt thou make marriages with them; thy daughter thou shalt not give unto his son, nor his daughter shalt thou take unto thy son.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.7.4",
+      "edition_verse_id": "KJV1769:DEU.7.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "For they will turn away thy son from following me, that they may serve other gods: so will the anger of the LORD be kindled against you, and destroy thee suddenly.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.7.5",
+      "edition_verse_id": "KJV1769:DEU.7.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "But thus shall ye deal with them; ye shall destroy their altars, and break down their images, and cut down their groves, and burn their graven images with fire.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.7.6",
+      "edition_verse_id": "KJV1769:DEU.7.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "For thou ",
+          "kind": "text"
+        },
+        {
+          "text": "art",
+          "kind": "supplied"
+        },
+        {
+          "text": " an holy people unto the LORD thy God: the LORD thy God hath chosen thee to be a special people unto himself, above all people that ",
+          "kind": "text"
+        },
+        {
+          "text": "are",
+          "kind": "supplied"
+        },
+        {
+          "text": " upon the face of the earth.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.7.7",
+      "edition_verse_id": "KJV1769:DEU.7.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "The LORD did not set his love upon you, nor choose you, because ye were more in number than any people; for ye ",
+          "kind": "text"
+        },
+        {
+          "text": "were",
+          "kind": "supplied"
+        },
+        {
+          "text": " the fewest of all people:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.7.8",
+      "edition_verse_id": "KJV1769:DEU.7.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "But because the LORD loved you, and because he would keep the oath which he had sworn unto your fathers, hath the LORD brought you out with a mighty hand, and redeemed you out of the house of bondmen, from the hand of Pharaoh king of Egypt.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.7.9",
+      "edition_verse_id": "KJV1769:DEU.7.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "Know therefore that the LORD thy God, he ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " God, the faithful God, which keepeth covenant and mercy with them that love him and keep his commandments to a thousand generations;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.7.10",
+      "edition_verse_id": "KJV1769:DEU.7.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "And repayeth them that hate him to their face, to destroy them: he will not be slack to him that hateth him, he will repay him to his face.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.7.11",
+      "edition_verse_id": "KJV1769:DEU.7.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "Thou shalt therefore keep the commandments, and the statutes, and the judgments, which I command thee this day, to do them.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.7.12",
+      "edition_verse_id": "KJV1769:DEU.7.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "¶ Wherefore it shall come to pass, if ye hearken to these judgments, and keep, and do them, that the LORD thy God shall keep unto thee the covenant and the mercy which he sware unto thy fathers:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "DEU.7.13",
+      "edition_verse_id": "KJV1769:DEU.7.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "And he will love thee, and bless thee, and multiply thee: he will also bless the fruit of thy womb, and the fruit of thy land, thy corn, and thy wine, and thine oil, the increase of thy kine, and the flocks of thy sheep, in the land which he sware unto thy fathers to give thee.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.7.14",
+      "edition_verse_id": "KJV1769:DEU.7.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "Thou shalt be blessed above all people: there shall not be male or female barren among you, or among your cattle.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.7.15",
+      "edition_verse_id": "KJV1769:DEU.7.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "And the LORD will take away from thee all sickness, and will put none of the evil diseases of Egypt, which thou knowest, upon thee; but will lay them upon all ",
+          "kind": "text"
+        },
+        {
+          "text": "them",
+          "kind": "supplied"
+        },
+        {
+          "text": " that hate thee.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.7.16",
+      "edition_verse_id": "KJV1769:DEU.7.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "And thou shalt consume all the people which the LORD thy God shall deliver thee; thine eye shall have no pity upon them: neither shalt thou serve their gods; for that ",
+          "kind": "text"
+        },
+        {
+          "text": "will be",
+          "kind": "supplied"
+        },
+        {
+          "text": " a snare unto thee.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.7.17",
+      "edition_verse_id": "KJV1769:DEU.7.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "If thou shalt say in thine heart, These nations ",
+          "kind": "text"
+        },
+        {
+          "text": "are",
+          "kind": "supplied"
+        },
+        {
+          "text": " more than I; how can I dispossess them?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.7.18",
+      "edition_verse_id": "KJV1769:DEU.7.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "Thou shalt not be afraid of them: ",
+          "kind": "text"
+        },
+        {
+          "text": "but",
+          "kind": "supplied"
+        },
+        {
+          "text": " shalt well remember what the LORD thy God did unto Pharaoh, and unto all Egypt;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.7.19",
+      "edition_verse_id": "KJV1769:DEU.7.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "The great temptations which thine eyes saw, and the signs, and the wonders, and the mighty hand, and the stretched out arm, whereby the LORD thy God brought thee out: so shall the LORD thy God do unto all the people of whom thou art afraid.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.7.20",
+      "edition_verse_id": "KJV1769:DEU.7.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "Moreover the LORD thy God will send the hornet among them, until they that are left, and hide themselves from thee, be destroyed.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.7.21",
+      "edition_verse_id": "KJV1769:DEU.7.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "Thou shalt not be affrighted at them: for the LORD thy God ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " among you, a mighty God and terrible.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.7.22",
+      "edition_verse_id": "KJV1769:DEU.7.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "And the LORD thy God will put out those nations before thee by little and little: thou mayest not consume them at once, lest the beasts of the field increase upon thee.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.7.23",
+      "edition_verse_id": "KJV1769:DEU.7.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "But the LORD thy God shall deliver them unto thee, and shall destroy them with a mighty destruction, until they be destroyed.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.7.24",
+      "edition_verse_id": "KJV1769:DEU.7.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "And he shall deliver their kings into thine hand, and thou shalt destroy their name from under heaven: there shall no man be able to stand before thee, until thou have destroyed them.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.7.25",
+      "edition_verse_id": "KJV1769:DEU.7.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "The graven images of their gods shall ye burn with fire: thou shalt not desire the silver or gold ",
+          "kind": "text"
+        },
+        {
+          "text": "that is",
+          "kind": "supplied"
+        },
+        {
+          "text": " on them, nor take ",
+          "kind": "text"
+        },
+        {
+          "text": "it",
+          "kind": "supplied"
+        },
+        {
+          "text": " unto thee, lest thou be snared therein: for it ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " an abomination to the LORD thy God.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.7.26",
+      "edition_verse_id": "KJV1769:DEU.7.26",
+      "verse": 26,
+      "spans": [
+        {
+          "text": "Neither shalt thou bring an abomination into thine house, lest thou be a cursed thing like it: ",
+          "kind": "text"
+        },
+        {
+          "text": "but",
+          "kind": "supplied"
+        },
+        {
+          "text": " thou shalt utterly detest it, and thou shalt utterly abhor it; for it ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " a cursed thing.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

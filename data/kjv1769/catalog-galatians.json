@@ -1,0 +1,19 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "KJV1769",
+  "book_code": "GAL",
+  "book_name": "Galatians",
+  "book_order": 48,
+  "canonical_ids": "GAL.{chapter}.{verse}",
+  "edition_ids": "KJV1769:GAL.{chapter}.{verse}",
+  "chapter_count": 6,
+  "verse_count": 149,
+  "traditional_verse_positions": 149,
+  "omitted_from_main_text": [],
+  "chapter_path_template": "galatians/chapters/{chapter:02d}.json",
+  "predecessor_book_code": "2CO",
+  "successor_book_code": "EPH",
+  "source_provenance": "books/galatians/SOURCE_INVENTORY.json",
+  "reader": "books/galatians/site/index.html",
+  "note": "Text-only KJV1769 projection of the pinned eBible eng-kjv2006 source. No scanned pages, embedded Strong’s, or lexical claims."
+}

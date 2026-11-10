@@ -1,0 +1,404 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "KJV1769",
+  "book_code": "COL",
+  "chapter": 3,
+  "verses": [
+    {
+      "id": "COL.3.1",
+      "edition_verse_id": "KJV1769:COL.3.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "If ye then be risen with Christ, seek those things which are above, where Christ sitteth on the right hand of God.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "COL.3.2",
+      "edition_verse_id": "KJV1769:COL.3.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "Set your affection on things above, not on things on the earth.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "COL.3.3",
+      "edition_verse_id": "KJV1769:COL.3.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "For ye are dead, and your life is hid with Christ in God.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "COL.3.4",
+      "edition_verse_id": "KJV1769:COL.3.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "When Christ, ",
+          "kind": "text"
+        },
+        {
+          "text": "who is",
+          "kind": "supplied"
+        },
+        {
+          "text": " our life, shall appear, then shall ye also appear with him in glory.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "COL.3.5",
+      "edition_verse_id": "KJV1769:COL.3.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "Mortify therefore your members which are upon the earth; fornication, uncleanness, inordinate affection, evil concupiscence, and covetousness, which is idolatry:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "COL.3.6",
+      "edition_verse_id": "KJV1769:COL.3.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "For which things’ sake the wrath of God cometh on the children of disobedience:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "COL.3.7",
+      "edition_verse_id": "KJV1769:COL.3.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "In the which ye also walked some time, when ye lived in them.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "COL.3.8",
+      "edition_verse_id": "KJV1769:COL.3.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "But now ye also put off all these; anger, wrath, malice, blasphemy, filthy communication out of your mouth.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "COL.3.9",
+      "edition_verse_id": "KJV1769:COL.3.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "Lie not one to another, seeing that ye have put off the old man with his deeds;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "COL.3.10",
+      "edition_verse_id": "KJV1769:COL.3.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "And have put on the new ",
+          "kind": "text"
+        },
+        {
+          "text": "man",
+          "kind": "supplied"
+        },
+        {
+          "text": ", which is renewed in knowledge after the image of him that created him:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "COL.3.11",
+      "edition_verse_id": "KJV1769:COL.3.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "Where there is neither Greek nor Jew, circumcision nor uncircumcision, Barbarian, Scythian, bond ",
+          "kind": "text"
+        },
+        {
+          "text": "nor",
+          "kind": "supplied"
+        },
+        {
+          "text": " free: but Christ ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " all, and in all.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "COL.3.12",
+      "edition_verse_id": "KJV1769:COL.3.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "Put on therefore, as the elect of God, holy and beloved, bowels of mercies, kindness, humbleness of mind, meekness, longsuffering;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "COL.3.13",
+      "edition_verse_id": "KJV1769:COL.3.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "Forbearing one another, and forgiving one another, if any man have a quarrel against any: even as Christ forgave you, so also ",
+          "kind": "text"
+        },
+        {
+          "text": "do",
+          "kind": "supplied"
+        },
+        {
+          "text": " ye.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "COL.3.14",
+      "edition_verse_id": "KJV1769:COL.3.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "And above all these things ",
+          "kind": "text"
+        },
+        {
+          "text": "put on",
+          "kind": "supplied"
+        },
+        {
+          "text": " charity, which is the bond of perfectness.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "COL.3.15",
+      "edition_verse_id": "KJV1769:COL.3.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "And let the peace of God rule in your hearts, to the which also ye are called in one body; and be ye thankful.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "COL.3.16",
+      "edition_verse_id": "KJV1769:COL.3.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "Let the word of Christ dwell in you richly in all wisdom; teaching and admonishing one another in psalms and hymns and spiritual songs, singing with grace in your hearts to the Lord.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "COL.3.17",
+      "edition_verse_id": "KJV1769:COL.3.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "And what soever ye do in word or deed, ",
+          "kind": "text"
+        },
+        {
+          "text": "do",
+          "kind": "supplied"
+        },
+        {
+          "text": " all in the name of the Lord Jesus, giving thanks to God and the Father by him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "COL.3.18",
+      "edition_verse_id": "KJV1769:COL.3.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "Wives, submit yourselves unto your own husbands, as it is fit in the Lord.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "COL.3.19",
+      "edition_verse_id": "KJV1769:COL.3.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "Husbands, love ",
+          "kind": "text"
+        },
+        {
+          "text": "your",
+          "kind": "supplied"
+        },
+        {
+          "text": " wives, and be not bitter against them.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "COL.3.20",
+      "edition_verse_id": "KJV1769:COL.3.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "Children, obey ",
+          "kind": "text"
+        },
+        {
+          "text": "your",
+          "kind": "supplied"
+        },
+        {
+          "text": " parents in all things: for this is well pleasing unto the Lord.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "COL.3.21",
+      "edition_verse_id": "KJV1769:COL.3.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "Fathers, provoke not your children ",
+          "kind": "text"
+        },
+        {
+          "text": "to anger",
+          "kind": "supplied"
+        },
+        {
+          "text": ", lest they be discouraged.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "COL.3.22",
+      "edition_verse_id": "KJV1769:COL.3.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "Servants, obey in all things ",
+          "kind": "text"
+        },
+        {
+          "text": "your",
+          "kind": "supplied"
+        },
+        {
+          "text": " masters according to the flesh; not with eyeservice, as menpleasers; but in singleness of heart, fearing God:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "COL.3.23",
+      "edition_verse_id": "KJV1769:COL.3.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "And what soever ye do, do ",
+          "kind": "text"
+        },
+        {
+          "text": "it",
+          "kind": "supplied"
+        },
+        {
+          "text": " heartily, as to the Lord, and not unto men;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "COL.3.24",
+      "edition_verse_id": "KJV1769:COL.3.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "Knowing that of the Lord ye shall receive the reward of the inheritance: for ye serve the Lord Christ.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "COL.3.25",
+      "edition_verse_id": "KJV1769:COL.3.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "But he that doeth wrong shall receive for the wrong which he hath done: and there is no respect of persons.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

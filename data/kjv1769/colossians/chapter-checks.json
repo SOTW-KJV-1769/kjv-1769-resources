@@ -1,0 +1,28 @@
+{
+  "edition_id": "KJV1769",
+  "book_code": "COL",
+  "chapter_count": 4,
+  "verse_count": 95,
+  "chapters": [
+    {
+      "chapter": 1,
+      "verse_count": 29,
+      "sha256": "d9da055094fcc2e96570241571d6963e4a46328f455aaf4be0991cdd8e9b1bd4"
+    },
+    {
+      "chapter": 2,
+      "verse_count": 23,
+      "sha256": "25a14c4354c16ce2ace38d2ed85f0d49c1fd1afe692a6075146f9369e8889055"
+    },
+    {
+      "chapter": 3,
+      "verse_count": 25,
+      "sha256": "c203822d919db80fbf2ffc4b0a4ba2e140535943d75b0d63c64a4d7ad4969d32"
+    },
+    {
+      "chapter": 4,
+      "verse_count": 18,
+      "sha256": "0476719a6a43e8bb70566b11b23b2d7a973e173f4a267c3cfa87fef4d5c926b8"
+    }
+  ]
+}
