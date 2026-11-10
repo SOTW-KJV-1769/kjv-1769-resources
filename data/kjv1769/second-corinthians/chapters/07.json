@@ -1,0 +1,340 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "KJV1769",
+  "book_code": "2CO",
+  "chapter": 7,
+  "verses": [
+    {
+      "id": "2CO.7.1",
+      "edition_verse_id": "KJV1769:2CO.7.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "Having therefore these promises, dearly beloved, let us cleanse ourselves from all filthiness of the flesh and spirit, perfecting holiness in the fear of God.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "2CO.7.2",
+      "edition_verse_id": "KJV1769:2CO.7.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "Receive us; we have wronged no man, we have corrupted no man, we have defrauded no man.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "2CO.7.3",
+      "edition_verse_id": "KJV1769:2CO.7.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "I speak not ",
+          "kind": "text"
+        },
+        {
+          "text": "this",
+          "kind": "supplied"
+        },
+        {
+          "text": " to condemn ",
+          "kind": "text"
+        },
+        {
+          "text": "you",
+          "kind": "supplied"
+        },
+        {
+          "text": ": for I have said before, that ye are in our hearts to die and live with ",
+          "kind": "text"
+        },
+        {
+          "text": "you",
+          "kind": "supplied"
+        },
+        {
+          "text": ".",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2CO.7.4",
+      "edition_verse_id": "KJV1769:2CO.7.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "Great ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " my boldness of speech toward you, great ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " my glorying of you: I am filled with comfort, I am exceeding joyful in all our tribulation.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2CO.7.5",
+      "edition_verse_id": "KJV1769:2CO.7.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "For, when we were come into Macedonia, our flesh had no rest, but we were troubled on every side; without ",
+          "kind": "text"
+        },
+        {
+          "text": "were",
+          "kind": "supplied"
+        },
+        {
+          "text": " fightings, within ",
+          "kind": "text"
+        },
+        {
+          "text": "were",
+          "kind": "supplied"
+        },
+        {
+          "text": " fears.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2CO.7.6",
+      "edition_verse_id": "KJV1769:2CO.7.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "Nevertheless God, that comforteth those that are cast down, comforted us by the coming of Titus;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2CO.7.7",
+      "edition_verse_id": "KJV1769:2CO.7.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "And not by his coming only, but by the consolation wherewith he was comforted in you, when he told us your earnest desire, your mourning, your fervent mind toward me; so that I rejoiced the more.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2CO.7.8",
+      "edition_verse_id": "KJV1769:2CO.7.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "For though I made you sorry with a letter, I do not repent, though I did repent: for I perceive that the same epistle hath made you sorry, though ",
+          "kind": "text"
+        },
+        {
+          "text": "it were",
+          "kind": "supplied"
+        },
+        {
+          "text": " but for a season.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2CO.7.9",
+      "edition_verse_id": "KJV1769:2CO.7.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "Now I rejoice, not that ye were made sorry, but that ye sorrowed to repentance: for ye were made sorry after a godly manner, that ye might receive damage by us in nothing.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2CO.7.10",
+      "edition_verse_id": "KJV1769:2CO.7.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "For godly sorrow worketh repentance to salvation not to be repented of: but the sorrow of the world worketh death.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2CO.7.11",
+      "edition_verse_id": "KJV1769:2CO.7.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "For behold this selfsame thing, that ye sorrowed after a godly sort, what carefulness it wrought in you, yea, ",
+          "kind": "text"
+        },
+        {
+          "text": "what",
+          "kind": "supplied"
+        },
+        {
+          "text": " clearing of yourselves, yea, ",
+          "kind": "text"
+        },
+        {
+          "text": "what",
+          "kind": "supplied"
+        },
+        {
+          "text": " indignation, yea, ",
+          "kind": "text"
+        },
+        {
+          "text": "what",
+          "kind": "supplied"
+        },
+        {
+          "text": " fear, yea, ",
+          "kind": "text"
+        },
+        {
+          "text": "what",
+          "kind": "supplied"
+        },
+        {
+          "text": " vehement desire, yea, ",
+          "kind": "text"
+        },
+        {
+          "text": "what",
+          "kind": "supplied"
+        },
+        {
+          "text": " zeal, yea, ",
+          "kind": "text"
+        },
+        {
+          "text": "what",
+          "kind": "supplied"
+        },
+        {
+          "text": " revenge! In all ",
+          "kind": "text"
+        },
+        {
+          "text": "things",
+          "kind": "supplied"
+        },
+        {
+          "text": " ye have approved yourselves to be clear in this matter.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2CO.7.12",
+      "edition_verse_id": "KJV1769:2CO.7.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "Wherefore, though I wrote unto you, ",
+          "kind": "text"
+        },
+        {
+          "text": "I did it",
+          "kind": "supplied"
+        },
+        {
+          "text": " not for his cause that had done the wrong, nor for his cause that suffered wrong, but that our care for you in the sight of God might appear unto you.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2CO.7.13",
+      "edition_verse_id": "KJV1769:2CO.7.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "Therefore we were comforted in your comfort: yea, and exceedingly the more joyed we for the joy of Titus, because his spirit was refreshed by you all.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2CO.7.14",
+      "edition_verse_id": "KJV1769:2CO.7.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "For if I have boasted any thing to him of you, I am not ashamed; but as we spake all things to you in truth, even so our boasting, which ",
+          "kind": "text"
+        },
+        {
+          "text": "I made",
+          "kind": "supplied"
+        },
+        {
+          "text": " before Titus, is found a truth.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2CO.7.15",
+      "edition_verse_id": "KJV1769:2CO.7.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "And his inward affection is more abundant toward you, whilst he remembereth the obedience of you all, how with fear and trembling ye received him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2CO.7.16",
+      "edition_verse_id": "KJV1769:2CO.7.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "I rejoice therefore that I have confidence in you in all ",
+          "kind": "text"
+        },
+        {
+          "text": "things.",
+          "kind": "supplied"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

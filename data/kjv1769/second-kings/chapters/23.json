@@ -1,0 +1,732 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "KJV1769",
+  "book_code": "2KI",
+  "chapter": 23,
+  "verses": [
+    {
+      "id": "2KI.23.1",
+      "edition_verse_id": "KJV1769:2KI.23.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "And the king sent, and they gathered unto him all the elders of Judah and of Jerusalem.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "2KI.23.2",
+      "edition_verse_id": "KJV1769:2KI.23.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "And the king went up into the house of the LORD, and all the men of Judah and all the inhabitants of Jerusalem with him, and the priests, and the prophets, and all the people, both small and great: and he read in their ears all the words of the book of the covenant which was found in the house of the LORD.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2KI.23.3",
+      "edition_verse_id": "KJV1769:2KI.23.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "¶ And the king stood by a pillar, and made a covenant before the LORD, to walk after the LORD, and to keep his commandments and his testimonies and his statutes with all ",
+          "kind": "text"
+        },
+        {
+          "text": "their",
+          "kind": "supplied"
+        },
+        {
+          "text": " heart and all ",
+          "kind": "text"
+        },
+        {
+          "text": "their",
+          "kind": "supplied"
+        },
+        {
+          "text": " soul, to perform the words of this covenant that were written in this book. And all the people stood to the covenant.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "2KI.23.4",
+      "edition_verse_id": "KJV1769:2KI.23.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "And the king commanded Hilkiah the high priest, and the priests of the second order, and the keepers of the door, to bring forth out of the temple of the LORD all the vessels that were made for Baal, and for the grove, and for all the host of heaven: and he burned them without Jerusalem in the fields of Kidron, and carried the ashes of them unto Beth-el.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "2KI.23.5",
+      "edition_verse_id": "KJV1769:2KI.23.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "And he put down the idolatrous priests, whom the kings of Judah had ordained to burn incense in the high places in the cities of Judah, and in the places round about Jerusalem; them also that burned incense unto Baal, to the sun, and to the moon, and to the planets, and to all the host of heaven.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2KI.23.6",
+      "edition_verse_id": "KJV1769:2KI.23.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "And he brought out the grove from the house of the LORD, without Jerusalem, unto the brook Kidron, and burned it at the brook Kidron, and stamped ",
+          "kind": "text"
+        },
+        {
+          "text": "it",
+          "kind": "supplied"
+        },
+        {
+          "text": " small to powder, and cast the powder thereof upon the graves of the children of the people.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2KI.23.7",
+      "edition_verse_id": "KJV1769:2KI.23.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "And he brake down the houses of the sodomites, that ",
+          "kind": "text"
+        },
+        {
+          "text": "were",
+          "kind": "supplied"
+        },
+        {
+          "text": " by the house of the LORD, where the women wove hangings for the grove.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2KI.23.8",
+      "edition_verse_id": "KJV1769:2KI.23.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "And he brought all the priests out of the cities of Judah, and defiled the high places where the priests had burned incense, from Geba to Beer-sheba, and brake down the high places of the gates that ",
+          "kind": "text"
+        },
+        {
+          "text": "were",
+          "kind": "supplied"
+        },
+        {
+          "text": " in the entering in of the gate of Joshua the governor of the city, which ",
+          "kind": "text"
+        },
+        {
+          "text": "were",
+          "kind": "supplied"
+        },
+        {
+          "text": " on a man’s left hand at the gate of the city.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2KI.23.9",
+      "edition_verse_id": "KJV1769:2KI.23.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "Nevertheless the priests of the high places came not up to the altar of the LORD in Jerusalem, but they did eat of the unleavened bread among their brethren.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2KI.23.10",
+      "edition_verse_id": "KJV1769:2KI.23.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "And he defiled Topheth, which ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " in the valley of the children of Hinnom, that no man might make his son or his daughter to pass through the fire to Molech.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2KI.23.11",
+      "edition_verse_id": "KJV1769:2KI.23.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "And he took away the horses that the kings of Judah had given to the sun, at the entering in of the house of the LORD, by the chamber of Nathan-melech the chamberlain, which ",
+          "kind": "text"
+        },
+        {
+          "text": "was",
+          "kind": "supplied"
+        },
+        {
+          "text": " in the suburbs, and burned the chariots of the sun with fire.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2KI.23.12",
+      "edition_verse_id": "KJV1769:2KI.23.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "And the altars that ",
+          "kind": "text"
+        },
+        {
+          "text": "were",
+          "kind": "supplied"
+        },
+        {
+          "text": " on the top of the upper chamber of Ahaz, which the kings of Judah had made, and the altars which Manasseh had made in the two courts of the house of the LORD, did the king beat down, and brake ",
+          "kind": "text"
+        },
+        {
+          "text": "them",
+          "kind": "supplied"
+        },
+        {
+          "text": " down from thence, and cast the dust of them into the brook Kidron.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2KI.23.13",
+      "edition_verse_id": "KJV1769:2KI.23.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "And the high places that ",
+          "kind": "text"
+        },
+        {
+          "text": "were",
+          "kind": "supplied"
+        },
+        {
+          "text": " before Jerusalem, which ",
+          "kind": "text"
+        },
+        {
+          "text": "were",
+          "kind": "supplied"
+        },
+        {
+          "text": " on the right hand of the mount of corruption, which Solomon the king of Israel had builded for Ashtoreth the abomination of the Zidonians, and for Chemosh the abomination of the Moabites, and for Milcom the abomination of the children of Ammon, did the king defile.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2KI.23.14",
+      "edition_verse_id": "KJV1769:2KI.23.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "And he brake in pieces the images, and cut down the groves, and filled their places with the bones of men.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2KI.23.15",
+      "edition_verse_id": "KJV1769:2KI.23.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "¶ Moreover the altar that ",
+          "kind": "text"
+        },
+        {
+          "text": "was",
+          "kind": "supplied"
+        },
+        {
+          "text": " at Beth-el, ",
+          "kind": "text"
+        },
+        {
+          "text": "and",
+          "kind": "supplied"
+        },
+        {
+          "text": " the high place which Jeroboam the son of Nebat, who made Israel to sin, had made, both that altar and the high place he brake down, and burned the high place, ",
+          "kind": "text"
+        },
+        {
+          "text": "and",
+          "kind": "supplied"
+        },
+        {
+          "text": " stamped ",
+          "kind": "text"
+        },
+        {
+          "text": "it",
+          "kind": "supplied"
+        },
+        {
+          "text": " small to powder, and burned the grove.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "2KI.23.16",
+      "edition_verse_id": "KJV1769:2KI.23.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "And as Josiah turned himself, he spied the sepulchres that ",
+          "kind": "text"
+        },
+        {
+          "text": "were",
+          "kind": "supplied"
+        },
+        {
+          "text": " there in the mount, and sent, and took the bones out of the sepulchres, and burned ",
+          "kind": "text"
+        },
+        {
+          "text": "them",
+          "kind": "supplied"
+        },
+        {
+          "text": " upon the altar, and polluted it, according to the word of the LORD which the man of God proclaimed, who proclaimed these words.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2KI.23.17",
+      "edition_verse_id": "KJV1769:2KI.23.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "Then he said, What title ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " that that I see? And the men of the city told him, ",
+          "kind": "text"
+        },
+        {
+          "text": "It is",
+          "kind": "supplied"
+        },
+        {
+          "text": " the sepulchre of the man of God, which came from Judah, and proclaimed these things that thou hast done against the altar of Beth-el.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2KI.23.18",
+      "edition_verse_id": "KJV1769:2KI.23.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "And he said, Let him alone; let no man move his bones. So they let his bones alone, with the bones of the prophet that came out of Samaria.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2KI.23.19",
+      "edition_verse_id": "KJV1769:2KI.23.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "And all the houses also of the high places that ",
+          "kind": "text"
+        },
+        {
+          "text": "were",
+          "kind": "supplied"
+        },
+        {
+          "text": " in the cities of Samaria, which the kings of Israel had made to provoke ",
+          "kind": "text"
+        },
+        {
+          "text": "the Lord",
+          "kind": "supplied"
+        },
+        {
+          "text": " to anger, Josiah took away, and did to them according to all the acts that he had done in Beth-el.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2KI.23.20",
+      "edition_verse_id": "KJV1769:2KI.23.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "And he slew all the priests of the high places that ",
+          "kind": "text"
+        },
+        {
+          "text": "were",
+          "kind": "supplied"
+        },
+        {
+          "text": " there upon the altars, and burned men’s bones upon them, and returned to Jerusalem.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2KI.23.21",
+      "edition_verse_id": "KJV1769:2KI.23.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "¶ And the king commanded all the people, saying, Keep the passover unto the LORD your God, as ",
+          "kind": "text"
+        },
+        {
+          "text": "it is",
+          "kind": "supplied"
+        },
+        {
+          "text": " written in the book of this covenant.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "2KI.23.22",
+      "edition_verse_id": "KJV1769:2KI.23.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "Surely there was not holden such a passover from the days of the judges that judged Israel, nor in all the days of the kings of Israel, nor of the kings of Judah;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2KI.23.23",
+      "edition_verse_id": "KJV1769:2KI.23.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "But in the eighteenth year of king Josiah, ",
+          "kind": "text"
+        },
+        {
+          "text": "wherein",
+          "kind": "supplied"
+        },
+        {
+          "text": " this passover was holden to the LORD in Jerusalem.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2KI.23.24",
+      "edition_verse_id": "KJV1769:2KI.23.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "¶ Moreover the ",
+          "kind": "text"
+        },
+        {
+          "text": "workers with",
+          "kind": "supplied"
+        },
+        {
+          "text": " familiar spirits, and the wizards, and the images, and the idols, and all the abominations that were spied in the land of Judah and in Jerusalem, did Josiah put away, that he might perform the words of the law which were written in the book that Hilkiah the priest found in the house of the LORD.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "2KI.23.25",
+      "edition_verse_id": "KJV1769:2KI.23.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "And like unto him was there no king before him, that turned to the LORD with all his heart, and with all his soul, and with all his might, according to all the law of Moses; neither after him arose there ",
+          "kind": "text"
+        },
+        {
+          "text": "any",
+          "kind": "supplied"
+        },
+        {
+          "text": " like him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "2KI.23.26",
+      "edition_verse_id": "KJV1769:2KI.23.26",
+      "verse": 26,
+      "spans": [
+        {
+          "text": "¶ Notwithstanding the LORD turned not from the fierceness of his great wrath, wherewith his anger was kindled against Judah, because of all the provocations that Manasseh had provoked him withal.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "2KI.23.27",
+      "edition_verse_id": "KJV1769:2KI.23.27",
+      "verse": 27,
+      "spans": [
+        {
+          "text": "And the LORD said, I will remove Judah also out of my sight, as I have removed Israel, and will cast off this city Jerusalem which I have chosen, and the house of which I said, My name shall be there.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2KI.23.28",
+      "edition_verse_id": "KJV1769:2KI.23.28",
+      "verse": 28,
+      "spans": [
+        {
+          "text": "Now the rest of the acts of Josiah, and all that he did, ",
+          "kind": "text"
+        },
+        {
+          "text": "are",
+          "kind": "supplied"
+        },
+        {
+          "text": " they not written in the book of the chronicles of the kings of Judah?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2KI.23.29",
+      "edition_verse_id": "KJV1769:2KI.23.29",
+      "verse": 29,
+      "spans": [
+        {
+          "text": "¶ In his days Pharaoh-nechoh king of Egypt went up against the king of Assyria to the river Euphrates: and king Josiah went against him; and he slew him at Megiddo, when he had seen him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "2KI.23.30",
+      "edition_verse_id": "KJV1769:2KI.23.30",
+      "verse": 30,
+      "spans": [
+        {
+          "text": "And his servants carried him in a chariot dead from Megiddo, and brought him to Jerusalem, and buried him in his own sepulchre. And the people of the land took Jehoahaz the son of Josiah, and anointed him, and made him king in his father’s stead.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2KI.23.31",
+      "edition_verse_id": "KJV1769:2KI.23.31",
+      "verse": 31,
+      "spans": [
+        {
+          "text": "¶ Jehoahaz ",
+          "kind": "text"
+        },
+        {
+          "text": "was",
+          "kind": "supplied"
+        },
+        {
+          "text": " twenty and three years old when he began to reign; and he reigned three months in Jerusalem. And his mother’s name ",
+          "kind": "text"
+        },
+        {
+          "text": "was",
+          "kind": "supplied"
+        },
+        {
+          "text": " Hamutal, the daughter of Jeremiah of Libnah.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "2KI.23.32",
+      "edition_verse_id": "KJV1769:2KI.23.32",
+      "verse": 32,
+      "spans": [
+        {
+          "text": "And he did ",
+          "kind": "text"
+        },
+        {
+          "text": "that which was",
+          "kind": "supplied"
+        },
+        {
+          "text": " evil in the sight of the LORD, according to all that his fathers had done.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2KI.23.33",
+      "edition_verse_id": "KJV1769:2KI.23.33",
+      "verse": 33,
+      "spans": [
+        {
+          "text": "And Pharaoh-nechoh put him in bands at Riblah in the land of Hamath, that he might not reign in Jerusalem; and put the land to a tribute of an hundred talents of silver, and a talent of gold.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2KI.23.34",
+      "edition_verse_id": "KJV1769:2KI.23.34",
+      "verse": 34,
+      "spans": [
+        {
+          "text": "And Pharaoh-nechoh made Eliakim the son of Josiah king in the room of Josiah his father, and turned his name to Jehoiakim, and took Jehoahaz away: and he came to Egypt, and died there.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2KI.23.35",
+      "edition_verse_id": "KJV1769:2KI.23.35",
+      "verse": 35,
+      "spans": [
+        {
+          "text": "And Jehoiakim gave the silver and the gold to Pharaoh; but he taxed the land to give the money according to the commandment of Pharaoh: he exacted the silver and the gold of the people of the land, of every one according to his taxation, to give ",
+          "kind": "text"
+        },
+        {
+          "text": "it",
+          "kind": "supplied"
+        },
+        {
+          "text": " unto Pharaoh-nechoh.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2KI.23.36",
+      "edition_verse_id": "KJV1769:2KI.23.36",
+      "verse": 36,
+      "spans": [
+        {
+          "text": "¶ Jehoiakim ",
+          "kind": "text"
+        },
+        {
+          "text": "was",
+          "kind": "supplied"
+        },
+        {
+          "text": " twenty and five years old when he began to reign; and he reigned eleven years in Jerusalem. And his mother’s name ",
+          "kind": "text"
+        },
+        {
+          "text": "was",
+          "kind": "supplied"
+        },
+        {
+          "text": " Zebudah, the daughter of Pedaiah of Rumah.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "2KI.23.37",
+      "edition_verse_id": "KJV1769:2KI.23.37",
+      "verse": 37,
+      "spans": [
+        {
+          "text": "And he did ",
+          "kind": "text"
+        },
+        {
+          "text": "that which was",
+          "kind": "supplied"
+        },
+        {
+          "text": " evil in the sight of the LORD, according to all that his fathers had done.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

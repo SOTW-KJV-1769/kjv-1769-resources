@@ -1,0 +1,73 @@
+{
+  "edition_id": "KJV1769",
+  "book_code": "2CO",
+  "chapter_count": 13,
+  "verse_count": 257,
+  "chapters": [
+    {
+      "chapter": 1,
+      "verse_count": 24,
+      "sha256": "279b514302812f07685e831a0b3f5a7b7841087b50b7b0a7dc90b06cc3c44c3a"
+    },
+    {
+      "chapter": 2,
+      "verse_count": 17,
+      "sha256": "d2e573431e8e5e7becc01bb88e67ef7ca2d3f9bf6e14200bd418f8183c7b6047"
+    },
+    {
+      "chapter": 3,
+      "verse_count": 18,
+      "sha256": "c835f960be4fa11d51263efe6bc14bc77b5f83aacc72dc6f7798183b25301fca"
+    },
+    {
+      "chapter": 4,
+      "verse_count": 18,
+      "sha256": "428908150d55b9c512433626a4c7546a6ecd7c626e570bdc6994ca251bcc6c7a"
+    },
+    {
+      "chapter": 5,
+      "verse_count": 21,
+      "sha256": "b2ac551ca804d61db908550cb8f4a3834f0cf36c1fd3e279f83ac7b187cdeb6c"
+    },
+    {
+      "chapter": 6,
+      "verse_count": 18,
+      "sha256": "865e252eb864dbed0aa2690ec60d134e9daa4224b0c24d2dc2e94d21738bd213"
+    },
+    {
+      "chapter": 7,
+      "verse_count": 16,
+      "sha256": "f26420d3ed561bdf5d87f468625f05c83ad6f382874a6c7de51c65412545b70f"
+    },
+    {
+      "chapter": 8,
+      "verse_count": 24,
+      "sha256": "ad71b5cb8458be33f8c8b5d6d71c34fd9041d19ad164f006cc353b3b0200c78b"
+    },
+    {
+      "chapter": 9,
+      "verse_count": 15,
+      "sha256": "3ab4e73ae48a8ba48c5af297d6657a5fcd6bc10274d0ffc2c111990394699969"
+    },
+    {
+      "chapter": 10,
+      "verse_count": 18,
+      "sha256": "f8095ec848203dd675dc30e7de246f504ef42ee8311905574de4f39194e55379"
+    },
+    {
+      "chapter": 11,
+      "verse_count": 33,
+      "sha256": "663388177a56c5a9826eb854371221a6d79b23a230f598862c967b05266b1503"
+    },
+    {
+      "chapter": 12,
+      "verse_count": 21,
+      "sha256": "2c4b8e0efce9d97a71fb75324d9618a8a94596fd076b7bd49b5649ad5bd5f7a8"
+    },
+    {
+      "chapter": 13,
+      "verse_count": 14,
+      "sha256": "b7079045f3e3e1778200fc7f4a7fb2689dfb73c539df891b3d324297670b8964"
+    }
+  ]
+}

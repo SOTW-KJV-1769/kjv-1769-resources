@@ -1,0 +1,424 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "KJV1769",
+  "book_code": "2CO",
+  "chapter": 1,
+  "verses": [
+    {
+      "id": "2CO.1.1",
+      "edition_verse_id": "KJV1769:2CO.1.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "Paul, an apostle of Jesus Christ by the will of God, and Timothy ",
+          "kind": "text"
+        },
+        {
+          "text": "our",
+          "kind": "supplied"
+        },
+        {
+          "text": " brother, unto the church of God which is at Corinth, with all the saints which are in all Achaia:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "2CO.1.2",
+      "edition_verse_id": "KJV1769:2CO.1.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "Grace ",
+          "kind": "text"
+        },
+        {
+          "text": "be",
+          "kind": "supplied"
+        },
+        {
+          "text": " to you and peace from God our Father, and ",
+          "kind": "text"
+        },
+        {
+          "text": "from",
+          "kind": "supplied"
+        },
+        {
+          "text": " the Lord Jesus Christ.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2CO.1.3",
+      "edition_verse_id": "KJV1769:2CO.1.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "Blessed ",
+          "kind": "text"
+        },
+        {
+          "text": "be",
+          "kind": "supplied"
+        },
+        {
+          "text": " God, even the Father of our Lord Jesus Christ, the Father of mercies, and the God of all comfort;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2CO.1.4",
+      "edition_verse_id": "KJV1769:2CO.1.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "Who comforteth us in all our tribulation, that we may be able to comfort them which are in any trouble, by the comfort wherewith we ourselves are comforted of God.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2CO.1.5",
+      "edition_verse_id": "KJV1769:2CO.1.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "For as the sufferings of Christ abound in us, so our consolation also aboundeth by Christ.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2CO.1.6",
+      "edition_verse_id": "KJV1769:2CO.1.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "And whether we be afflicted, ",
+          "kind": "text"
+        },
+        {
+          "text": "it is",
+          "kind": "supplied"
+        },
+        {
+          "text": " for your consolation and salvation, which is effectual in the enduring of the same sufferings which we also suffer: or whether we be comforted, ",
+          "kind": "text"
+        },
+        {
+          "text": "it is",
+          "kind": "supplied"
+        },
+        {
+          "text": " for your consolation and salvation.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2CO.1.7",
+      "edition_verse_id": "KJV1769:2CO.1.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "And our hope of you ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " stedfast, knowing, that as ye are partakers of the sufferings, so ",
+          "kind": "text"
+        },
+        {
+          "text": "shall ye be",
+          "kind": "supplied"
+        },
+        {
+          "text": " also of the consolation.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2CO.1.8",
+      "edition_verse_id": "KJV1769:2CO.1.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "For we would not, brethren, have you ignorant of our trouble which came to us in Asia, that we were pressed out of measure, above strength, insomuch that we despaired even of life:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2CO.1.9",
+      "edition_verse_id": "KJV1769:2CO.1.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "But we had the sentence of death in ourselves, that we should not trust in ourselves, but in God which raiseth the dead:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2CO.1.10",
+      "edition_verse_id": "KJV1769:2CO.1.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "Who delivered us from so great a death, and doth deliver: in whom we trust that he will yet deliver ",
+          "kind": "text"
+        },
+        {
+          "text": "us",
+          "kind": "supplied"
+        },
+        {
+          "text": ";",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2CO.1.11",
+      "edition_verse_id": "KJV1769:2CO.1.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "Ye also helping together by prayer for us, that for the gift ",
+          "kind": "text"
+        },
+        {
+          "text": "bestowed",
+          "kind": "supplied"
+        },
+        {
+          "text": " upon us by the means of many persons thanks may be given by many on our behalf.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2CO.1.12",
+      "edition_verse_id": "KJV1769:2CO.1.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "For our rejoicing is this, the testimony of our conscience, that in simplicity and godly sincerity, not with fleshly wisdom, but by the grace of God, we have had our conversation in the world, and more abundantly to you-ward.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "2CO.1.13",
+      "edition_verse_id": "KJV1769:2CO.1.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "For we write none other things unto you, than what ye read or acknowledge; and I trust ye shall acknowledge even to the end;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2CO.1.14",
+      "edition_verse_id": "KJV1769:2CO.1.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "As also ye have acknowledged us in part, that we are your rejoicing, even as ye also ",
+          "kind": "text"
+        },
+        {
+          "text": "are",
+          "kind": "supplied"
+        },
+        {
+          "text": " ours in the day of the Lord Jesus.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2CO.1.15",
+      "edition_verse_id": "KJV1769:2CO.1.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "And in this confidence I was minded to come unto you before, that ye might have a second benefit;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "2CO.1.16",
+      "edition_verse_id": "KJV1769:2CO.1.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "And to pass by you into Macedonia, and to come again out of Macedonia unto you, and of you to be brought on my way toward Judaea.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2CO.1.17",
+      "edition_verse_id": "KJV1769:2CO.1.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "When I therefore was thus minded, did I use lightness? or the things that I purpose, do I purpose according to the flesh, that with me there should be yea yea, and nay nay?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2CO.1.18",
+      "edition_verse_id": "KJV1769:2CO.1.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "But ",
+          "kind": "text"
+        },
+        {
+          "text": "as",
+          "kind": "supplied"
+        },
+        {
+          "text": " God ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " true, our word toward you was not yea and nay.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2CO.1.19",
+      "edition_verse_id": "KJV1769:2CO.1.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "For the Son of God, Jesus Christ, who was preached among you by us, ",
+          "kind": "text"
+        },
+        {
+          "text": "even",
+          "kind": "supplied"
+        },
+        {
+          "text": " by me and Silvanus and Timotheus, was not yea and nay, but in him was yea.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2CO.1.20",
+      "edition_verse_id": "KJV1769:2CO.1.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "For all the promises of God in him ",
+          "kind": "text"
+        },
+        {
+          "text": "are",
+          "kind": "supplied"
+        },
+        {
+          "text": " yea, and in him Amen, unto the glory of God by us.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2CO.1.21",
+      "edition_verse_id": "KJV1769:2CO.1.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "Now he which stablisheth us with you in Christ, and hath anointed us, ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " God;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2CO.1.22",
+      "edition_verse_id": "KJV1769:2CO.1.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "Who hath also sealed us, and given the earnest of the Spirit in our hearts.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2CO.1.23",
+      "edition_verse_id": "KJV1769:2CO.1.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "Moreover I call God for a record upon my soul, that to spare you I came not as yet unto Corinth.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2CO.1.24",
+      "edition_verse_id": "KJV1769:2CO.1.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "Not for that we have dominion over your faith, but are helpers of your joy: for by faith ye stand.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

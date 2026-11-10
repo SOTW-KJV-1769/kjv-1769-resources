@@ -1,0 +1,688 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "KJV1769",
+  "book_code": "2CH",
+  "chapter": 20,
+  "verses": [
+    {
+      "id": "2CH.20.1",
+      "edition_verse_id": "KJV1769:2CH.20.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "It came to pass after this also, ",
+          "kind": "text"
+        },
+        {
+          "text": "that",
+          "kind": "supplied"
+        },
+        {
+          "text": " the children of Moab, and the children of Ammon, and with them ",
+          "kind": "text"
+        },
+        {
+          "text": "other",
+          "kind": "supplied"
+        },
+        {
+          "text": " beside the Ammonites, came against Jehoshaphat to battle.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "2CH.20.2",
+      "edition_verse_id": "KJV1769:2CH.20.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "Then there came some that told Jehoshaphat, saying, There cometh a great multitude against thee from beyond the sea on this side Syria; and, behold, they ",
+          "kind": "text"
+        },
+        {
+          "text": "be",
+          "kind": "supplied"
+        },
+        {
+          "text": " in Hazazon-tamar, which ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " En-gedi.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2CH.20.3",
+      "edition_verse_id": "KJV1769:2CH.20.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "And Jehoshaphat feared, and set himself to seek the LORD, and proclaimed a fast throughout all Judah.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2CH.20.4",
+      "edition_verse_id": "KJV1769:2CH.20.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "And Judah gathered themselves together, to ask ",
+          "kind": "text"
+        },
+        {
+          "text": "help",
+          "kind": "supplied"
+        },
+        {
+          "text": " of the LORD: even out of all the cities of Judah they came to seek the LORD.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2CH.20.5",
+      "edition_verse_id": "KJV1769:2CH.20.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "¶ And Jehoshaphat stood in the congregation of Judah and Jerusalem, in the house of the LORD, before the new court,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "2CH.20.6",
+      "edition_verse_id": "KJV1769:2CH.20.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "And said, O LORD God of our fathers, ",
+          "kind": "text"
+        },
+        {
+          "text": "art",
+          "kind": "supplied"
+        },
+        {
+          "text": " not thou God in heaven? and rulest ",
+          "kind": "text"
+        },
+        {
+          "text": "not",
+          "kind": "supplied"
+        },
+        {
+          "text": " thou over all the kingdoms of the heathen? and in thine hand ",
+          "kind": "text"
+        },
+        {
+          "text": "is there not",
+          "kind": "supplied"
+        },
+        {
+          "text": " power and might, so that none is able to withstand thee?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2CH.20.7",
+      "edition_verse_id": "KJV1769:2CH.20.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "Art",
+          "kind": "supplied"
+        },
+        {
+          "text": " not thou our God, ",
+          "kind": "text"
+        },
+        {
+          "text": "who",
+          "kind": "supplied"
+        },
+        {
+          "text": " didst drive out the inhabitants of this land before thy people Israel, and gavest it to the seed of Abraham thy friend for ever?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2CH.20.8",
+      "edition_verse_id": "KJV1769:2CH.20.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "And they dwelt therein, and have built thee a sanctuary therein for thy name, saying,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2CH.20.9",
+      "edition_verse_id": "KJV1769:2CH.20.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "If, ",
+          "kind": "text"
+        },
+        {
+          "text": "when",
+          "kind": "supplied"
+        },
+        {
+          "text": " evil cometh upon us, ",
+          "kind": "text"
+        },
+        {
+          "text": "as",
+          "kind": "supplied"
+        },
+        {
+          "text": " the sword, judgment, or pestilence, or famine, we stand before this house, and in thy presence, (for thy name ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " in this house,) and cry unto thee in our affliction, then thou wilt hear and help.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2CH.20.10",
+      "edition_verse_id": "KJV1769:2CH.20.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "And now, behold, the children of Ammon and Moab and mount Seir, whom thou wouldest not let Israel invade, when they came out of the land of Egypt, but they turned from them, and destroyed them not;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2CH.20.11",
+      "edition_verse_id": "KJV1769:2CH.20.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "Behold, ",
+          "kind": "text"
+        },
+        {
+          "text": "I say, how",
+          "kind": "supplied"
+        },
+        {
+          "text": " they reward us, to come to cast us out of thy possession, which thou hast given us to inherit.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2CH.20.12",
+      "edition_verse_id": "KJV1769:2CH.20.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "O our God, wilt thou not judge them? for we have no might against this great company that cometh against us; neither know we what to do: but our eyes ",
+          "kind": "text"
+        },
+        {
+          "text": "are",
+          "kind": "supplied"
+        },
+        {
+          "text": " upon thee.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2CH.20.13",
+      "edition_verse_id": "KJV1769:2CH.20.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "And all Judah stood before the LORD, with their little ones, their wives, and their children.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2CH.20.14",
+      "edition_verse_id": "KJV1769:2CH.20.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "¶ Then upon Jahaziel the son of Zechariah, the son of Benaiah, the son of Jeiel, the son of Mattaniah, a Levite of the sons of Asaph, came the Spirit of the LORD in the midst of the congregation;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "2CH.20.15",
+      "edition_verse_id": "KJV1769:2CH.20.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "And he said, Hearken ye, all Judah, and ye inhabitants of Jerusalem, and thou king Jehoshaphat, Thus saith the LORD unto you, Be not afraid nor dismayed by reason of this great multitude; for the battle ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " not yours, but God’s.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2CH.20.16",
+      "edition_verse_id": "KJV1769:2CH.20.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "To morrow go ye down against them: behold, they come up by the cliff of Ziz; and ye shall find them at the end of the brook, before the wilderness of Jeruel.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2CH.20.17",
+      "edition_verse_id": "KJV1769:2CH.20.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "Ye shall not ",
+          "kind": "text"
+        },
+        {
+          "text": "need",
+          "kind": "supplied"
+        },
+        {
+          "text": " to fight in this ",
+          "kind": "text"
+        },
+        {
+          "text": "battle:",
+          "kind": "supplied"
+        },
+        {
+          "text": " set yourselves, stand ye ",
+          "kind": "text"
+        },
+        {
+          "text": "still",
+          "kind": "supplied"
+        },
+        {
+          "text": ", and see the salvation of the LORD with you, O Judah and Jerusalem: fear not, nor be dismayed; to morrow go out against them: for the LORD ",
+          "kind": "text"
+        },
+        {
+          "text": "will be",
+          "kind": "supplied"
+        },
+        {
+          "text": " with you.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2CH.20.18",
+      "edition_verse_id": "KJV1769:2CH.20.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "And Jehoshaphat bowed his head with ",
+          "kind": "text"
+        },
+        {
+          "text": "his",
+          "kind": "supplied"
+        },
+        {
+          "text": " face to the ground: and all Judah and the inhabitants of Jerusalem fell before the LORD, worshipping the LORD.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2CH.20.19",
+      "edition_verse_id": "KJV1769:2CH.20.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "And the Levites, of the children of the Kohathites, and of the children of the Korhites, stood up to praise the LORD God of Israel with a loud voice on high.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2CH.20.20",
+      "edition_verse_id": "KJV1769:2CH.20.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "¶ And they rose early in the morning, and went forth into the wilderness of Tekoa: and as they went forth, Jehoshaphat stood and said, Hear me, O Judah, and ye inhabitants of Jerusalem; Believe in the LORD your God, so shall ye be established; believe his prophets, so shall ye prosper.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "2CH.20.21",
+      "edition_verse_id": "KJV1769:2CH.20.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "And when he had consulted with the people, he appointed singers unto the LORD, and that should praise the beauty of holiness, as they went out before the army, and to say, Praise the LORD; for his mercy ",
+          "kind": "text"
+        },
+        {
+          "text": "endureth",
+          "kind": "supplied"
+        },
+        {
+          "text": " for ever.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2CH.20.22",
+      "edition_verse_id": "KJV1769:2CH.20.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "¶ And when they began to sing and to praise, the LORD set ambushments against the children of Ammon, Moab, and mount Seir, which were come against Judah; and they were smitten.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "2CH.20.23",
+      "edition_verse_id": "KJV1769:2CH.20.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "For the children of Ammon and Moab stood up against the inhabitants of mount Seir, utterly to slay and destroy ",
+          "kind": "text"
+        },
+        {
+          "text": "them:",
+          "kind": "supplied"
+        },
+        {
+          "text": " and when they had made an end of the inhabitants of Seir, every one helped to destroy another.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2CH.20.24",
+      "edition_verse_id": "KJV1769:2CH.20.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "And when Judah came toward the watch tower in the wilderness, they looked unto the multitude, and, behold, they ",
+          "kind": "text"
+        },
+        {
+          "text": "were",
+          "kind": "supplied"
+        },
+        {
+          "text": " dead bodies fallen to the earth, and none escaped.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2CH.20.25",
+      "edition_verse_id": "KJV1769:2CH.20.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "And when Jehoshaphat and his people came to take away the spoil of them, they found among them in abundance both riches with the dead bodies, and precious jewels, which they stripped off for themselves, more than they could carry away: and they were three days in gathering of the spoil, it was so much.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2CH.20.26",
+      "edition_verse_id": "KJV1769:2CH.20.26",
+      "verse": 26,
+      "spans": [
+        {
+          "text": "¶ And on the fourth day they assembled themselves in the valley of Berachah; for there they blessed the LORD: therefore the name of the same place was called, The valley of Berachah, unto this day.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "2CH.20.27",
+      "edition_verse_id": "KJV1769:2CH.20.27",
+      "verse": 27,
+      "spans": [
+        {
+          "text": "Then they returned, every man of Judah and Jerusalem, and Jehoshaphat in the forefront of them, to go again to Jerusalem with joy; for the LORD had made them to rejoice over their enemies.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2CH.20.28",
+      "edition_verse_id": "KJV1769:2CH.20.28",
+      "verse": 28,
+      "spans": [
+        {
+          "text": "And they came to Jerusalem with psalteries and harps and trumpets unto the house of the LORD.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2CH.20.29",
+      "edition_verse_id": "KJV1769:2CH.20.29",
+      "verse": 29,
+      "spans": [
+        {
+          "text": "And the fear of God was on all the kingdoms of ",
+          "kind": "text"
+        },
+        {
+          "text": "those",
+          "kind": "supplied"
+        },
+        {
+          "text": " countries, when they had heard that the LORD fought against the enemies of Israel.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2CH.20.30",
+      "edition_verse_id": "KJV1769:2CH.20.30",
+      "verse": 30,
+      "spans": [
+        {
+          "text": "So the realm of Jehoshaphat was quiet: for his God gave him rest round about.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2CH.20.31",
+      "edition_verse_id": "KJV1769:2CH.20.31",
+      "verse": 31,
+      "spans": [
+        {
+          "text": "¶ And Jehoshaphat reigned over Judah: ",
+          "kind": "text"
+        },
+        {
+          "text": "he was",
+          "kind": "supplied"
+        },
+        {
+          "text": " thirty and five years old when he began to reign, and he reigned twenty and five years in Jerusalem. And his mother’s name ",
+          "kind": "text"
+        },
+        {
+          "text": "was",
+          "kind": "supplied"
+        },
+        {
+          "text": " Azubah the daughter of Shilhi.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "2CH.20.32",
+      "edition_verse_id": "KJV1769:2CH.20.32",
+      "verse": 32,
+      "spans": [
+        {
+          "text": "And he walked in the way of Asa his father, and departed not from it, doing ",
+          "kind": "text"
+        },
+        {
+          "text": "that which was",
+          "kind": "supplied"
+        },
+        {
+          "text": " right in the sight of the LORD.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2CH.20.33",
+      "edition_verse_id": "KJV1769:2CH.20.33",
+      "verse": 33,
+      "spans": [
+        {
+          "text": "Howbeit the high places were not taken away: for as yet the people had not prepared their hearts unto the God of their fathers.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2CH.20.34",
+      "edition_verse_id": "KJV1769:2CH.20.34",
+      "verse": 34,
+      "spans": [
+        {
+          "text": "Now the rest of the acts of Jehoshaphat, first and last, behold, they ",
+          "kind": "text"
+        },
+        {
+          "text": "are",
+          "kind": "supplied"
+        },
+        {
+          "text": " written in the book of Jehu the son of Hanani, who ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " mentioned in the book of the kings of Israel.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2CH.20.35",
+      "edition_verse_id": "KJV1769:2CH.20.35",
+      "verse": 35,
+      "spans": [
+        {
+          "text": "¶ And after this did Jehoshaphat king of Judah join himself with Ahaziah king of Israel, who did very wickedly:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "2CH.20.36",
+      "edition_verse_id": "KJV1769:2CH.20.36",
+      "verse": 36,
+      "spans": [
+        {
+          "text": "And he joined himself with him to make ships to go to Tarshish: and they made the ships in Ezion-geber.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2CH.20.37",
+      "edition_verse_id": "KJV1769:2CH.20.37",
+      "verse": 37,
+      "spans": [
+        {
+          "text": "Then Eliezer the son of Dodavah of Mareshah prophesied against Jehoshaphat, saying, Because thou hast joined thyself with Ahaziah, the LORD hath broken thy works. And the ships were broken, that they were not able to go to Tarshish.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

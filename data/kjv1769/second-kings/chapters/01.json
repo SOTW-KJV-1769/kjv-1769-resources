@@ -1,0 +1,344 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "KJV1769",
+  "book_code": "2KI",
+  "chapter": 1,
+  "verses": [
+    {
+      "id": "2KI.1.1",
+      "edition_verse_id": "KJV1769:2KI.1.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "Then Moab rebelled against Israel after the death of Ahab.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "2KI.1.2",
+      "edition_verse_id": "KJV1769:2KI.1.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "And Ahaziah fell down through a lattice in his upper chamber that ",
+          "kind": "text"
+        },
+        {
+          "text": "was",
+          "kind": "supplied"
+        },
+        {
+          "text": " in Samaria, and was sick: and he sent messengers, and said unto them, Go, enquire of Baal-zebub the god of Ekron whether I shall recover of this disease.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2KI.1.3",
+      "edition_verse_id": "KJV1769:2KI.1.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "But the angel of the LORD said to Elijah the Tishbite, Arise, go up to meet the messengers of the king of Samaria, and say unto them, ",
+          "kind": "text"
+        },
+        {
+          "text": "Is it",
+          "kind": "supplied"
+        },
+        {
+          "text": " not because ",
+          "kind": "text"
+        },
+        {
+          "text": "there is",
+          "kind": "supplied"
+        },
+        {
+          "text": " not a God in Israel, ",
+          "kind": "text"
+        },
+        {
+          "text": "that",
+          "kind": "supplied"
+        },
+        {
+          "text": " ye go to enquire of Baal-zebub the god of Ekron?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2KI.1.4",
+      "edition_verse_id": "KJV1769:2KI.1.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "Now therefore thus saith the LORD, Thou shalt not come down from that bed on which thou art gone up, but shalt surely die. And Elijah departed.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2KI.1.5",
+      "edition_verse_id": "KJV1769:2KI.1.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "¶ And when the messengers turned back unto him, he said unto them, Why are ye now turned back?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "2KI.1.6",
+      "edition_verse_id": "KJV1769:2KI.1.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "And they said unto him, There came a man up to meet us, and said unto us, Go, turn again unto the king that sent you, and say unto him, Thus saith the LORD, ",
+          "kind": "text"
+        },
+        {
+          "text": "Is it",
+          "kind": "supplied"
+        },
+        {
+          "text": " not because ",
+          "kind": "text"
+        },
+        {
+          "text": "there is",
+          "kind": "supplied"
+        },
+        {
+          "text": " not a God in Israel, ",
+          "kind": "text"
+        },
+        {
+          "text": "that",
+          "kind": "supplied"
+        },
+        {
+          "text": " thou sendest to enquire of Baal-zebub the god of Ekron? therefore thou shalt not come down from that bed on which thou art gone up, but shalt surely die.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2KI.1.7",
+      "edition_verse_id": "KJV1769:2KI.1.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "And he said unto them, What manner of man ",
+          "kind": "text"
+        },
+        {
+          "text": "was he",
+          "kind": "supplied"
+        },
+        {
+          "text": " which came up to meet you, and told you these words?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2KI.1.8",
+      "edition_verse_id": "KJV1769:2KI.1.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "And they answered him, ",
+          "kind": "text"
+        },
+        {
+          "text": "He was",
+          "kind": "supplied"
+        },
+        {
+          "text": " an hairy man, and girt with a girdle of leather about his loins. And he said, It ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " Elijah the Tishbite.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2KI.1.9",
+      "edition_verse_id": "KJV1769:2KI.1.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "Then the king sent unto him a captain of fifty with his fifty. And he went up to him: and, behold, he sat on the top of an hill. And he spake unto him, Thou man of God, the king hath said, Come down.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "2KI.1.10",
+      "edition_verse_id": "KJV1769:2KI.1.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "And Elijah answered and said to the captain of fifty, If I ",
+          "kind": "text"
+        },
+        {
+          "text": "be",
+          "kind": "supplied"
+        },
+        {
+          "text": " a man of God, then let fire come down from heaven, and consume thee and thy fifty. And there came down fire from heaven, and consumed him and his fifty.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2KI.1.11",
+      "edition_verse_id": "KJV1769:2KI.1.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "Again also he sent unto him another captain of fifty with his fifty. And he answered and said unto him, O man of God, thus hath the king said, Come down quickly.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2KI.1.12",
+      "edition_verse_id": "KJV1769:2KI.1.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "And Elijah answered and said unto them, If I ",
+          "kind": "text"
+        },
+        {
+          "text": "be",
+          "kind": "supplied"
+        },
+        {
+          "text": " a man of God, let fire come down from heaven, and consume thee and thy fifty. And the fire of God came down from heaven, and consumed him and his fifty.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2KI.1.13",
+      "edition_verse_id": "KJV1769:2KI.1.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "¶ And he sent again a captain of the third fifty with his fifty. And the third captain of fifty went up, and came and fell on his knees before Elijah, and besought him, and said unto him, O man of God, I pray thee, let my life, and the life of these fifty thy servants, be precious in thy sight.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "2KI.1.14",
+      "edition_verse_id": "KJV1769:2KI.1.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "Behold, there came fire down from heaven, and burnt up the two captains of the former fifties with their fifties: therefore let my life now be precious in thy sight.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2KI.1.15",
+      "edition_verse_id": "KJV1769:2KI.1.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "And the angel of the LORD said unto Elijah, Go down with him: be not afraid of him. And he arose, and went down with him unto the king.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2KI.1.16",
+      "edition_verse_id": "KJV1769:2KI.1.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "And he said unto him, Thus saith the LORD, Forasmuch as thou hast sent messengers to enquire of Baal-zebub the god of Ekron, ",
+          "kind": "text"
+        },
+        {
+          "text": "is it",
+          "kind": "supplied"
+        },
+        {
+          "text": " not because ",
+          "kind": "text"
+        },
+        {
+          "text": "there is",
+          "kind": "supplied"
+        },
+        {
+          "text": " no God in Israel to enquire of his word? therefore thou shalt not come down off that bed on which thou art gone up, but shalt surely die.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2KI.1.17",
+      "edition_verse_id": "KJV1769:2KI.1.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "¶ So he died according to the word of the LORD which Elijah had spoken. And Jehoram reigned in his stead in the second year of Jehoram the son of Jehoshaphat king of Judah; because he had no son.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "2KI.1.18",
+      "edition_verse_id": "KJV1769:2KI.1.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "Now the rest of the acts of Ahaziah which he did, ",
+          "kind": "text"
+        },
+        {
+          "text": "are",
+          "kind": "supplied"
+        },
+        {
+          "text": " they not written in the book of the chronicles of the kings of Israel?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

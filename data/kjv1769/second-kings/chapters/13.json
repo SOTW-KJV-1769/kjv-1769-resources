@@ -1,0 +1,436 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "KJV1769",
+  "book_code": "2KI",
+  "chapter": 13,
+  "verses": [
+    {
+      "id": "2KI.13.1",
+      "edition_verse_id": "KJV1769:2KI.13.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "In the three and twentieth year of Joash the son of Ahaziah king of Judah Jehoahaz the son of Jehu began to reign over Israel in Samaria, ",
+          "kind": "text"
+        },
+        {
+          "text": "and reigned",
+          "kind": "supplied"
+        },
+        {
+          "text": " seventeen years.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "2KI.13.2",
+      "edition_verse_id": "KJV1769:2KI.13.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "And he did ",
+          "kind": "text"
+        },
+        {
+          "text": "that which was",
+          "kind": "supplied"
+        },
+        {
+          "text": " evil in the sight of the LORD, and followed the sins of Jeroboam the son of Nebat, which made Israel to sin; he departed not therefrom.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2KI.13.3",
+      "edition_verse_id": "KJV1769:2KI.13.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "¶ And the anger of the LORD was kindled against Israel, and he delivered them into the hand of Hazael king of Syria, and into the hand of Ben-hadad the son of Hazael, all ",
+          "kind": "text"
+        },
+        {
+          "text": "their",
+          "kind": "supplied"
+        },
+        {
+          "text": " days.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "2KI.13.4",
+      "edition_verse_id": "KJV1769:2KI.13.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "And Jehoahaz besought the LORD, and the LORD hearkened unto him: for he saw the oppression of Israel, because the king of Syria oppressed them.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2KI.13.5",
+      "edition_verse_id": "KJV1769:2KI.13.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "(And the LORD gave Israel a saviour, so that they went out from under the hand of the Syrians: and the children of Israel dwelt in their tents, as beforetime.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2KI.13.6",
+      "edition_verse_id": "KJV1769:2KI.13.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "Nevertheless they departed not from the sins of the house of Jeroboam, who made Israel sin, ",
+          "kind": "text"
+        },
+        {
+          "text": "but",
+          "kind": "supplied"
+        },
+        {
+          "text": " walked therein: and there remained the grove also in Samaria.)",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2KI.13.7",
+      "edition_verse_id": "KJV1769:2KI.13.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "Neither did he leave of the people to Jehoahaz but fifty horsemen, and ten chariots, and ten thousand footmen; for the king of Syria had destroyed them, and had made them like the dust by threshing.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2KI.13.8",
+      "edition_verse_id": "KJV1769:2KI.13.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "¶ Now the rest of the acts of Jehoahaz, and all that he did, and his might, ",
+          "kind": "text"
+        },
+        {
+          "text": "are",
+          "kind": "supplied"
+        },
+        {
+          "text": " they not written in the book of the chronicles of the kings of Israel?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "2KI.13.9",
+      "edition_verse_id": "KJV1769:2KI.13.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "And Jehoahaz slept with his fathers; and they buried him in Samaria: and Joash his son reigned in his stead.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2KI.13.10",
+      "edition_verse_id": "KJV1769:2KI.13.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "¶ In the thirty and seventh year of Joash king of Judah began Jehoash the son of Jehoahaz to reign over Israel in Samaria, ",
+          "kind": "text"
+        },
+        {
+          "text": "and reigned",
+          "kind": "supplied"
+        },
+        {
+          "text": " sixteen years.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "2KI.13.11",
+      "edition_verse_id": "KJV1769:2KI.13.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "And he did ",
+          "kind": "text"
+        },
+        {
+          "text": "that which was",
+          "kind": "supplied"
+        },
+        {
+          "text": " evil in the sight of the LORD; he departed not from all the sins of Jeroboam the son of Nebat, who made Israel sin: ",
+          "kind": "text"
+        },
+        {
+          "text": "but",
+          "kind": "supplied"
+        },
+        {
+          "text": " he walked therein.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2KI.13.12",
+      "edition_verse_id": "KJV1769:2KI.13.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "And the rest of the acts of Joash, and all that he did, and his might wherewith he fought against Amaziah king of Judah, ",
+          "kind": "text"
+        },
+        {
+          "text": "are",
+          "kind": "supplied"
+        },
+        {
+          "text": " they not written in the book of the chronicles of the kings of Israel?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2KI.13.13",
+      "edition_verse_id": "KJV1769:2KI.13.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "And Joash slept with his fathers; and Jeroboam sat upon his throne: and Joash was buried in Samaria with the kings of Israel.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2KI.13.14",
+      "edition_verse_id": "KJV1769:2KI.13.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "¶ Now Elisha was fallen sick of his sickness whereof he died. And Joash the king of Israel came down unto him, and wept over his face, and said, O my father, my father, the chariot of Israel, and the horsemen thereof.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "2KI.13.15",
+      "edition_verse_id": "KJV1769:2KI.13.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "And Elisha said unto him, Take bow and arrows. And he took unto him bow and arrows.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2KI.13.16",
+      "edition_verse_id": "KJV1769:2KI.13.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "And he said to the king of Israel, Put thine hand upon the bow. And he put his hand ",
+          "kind": "text"
+        },
+        {
+          "text": "upon it:",
+          "kind": "supplied"
+        },
+        {
+          "text": " and Elisha put his hands upon the king’s hands.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2KI.13.17",
+      "edition_verse_id": "KJV1769:2KI.13.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "And he said, Open the window eastward. And he opened ",
+          "kind": "text"
+        },
+        {
+          "text": "it",
+          "kind": "supplied"
+        },
+        {
+          "text": ". Then Elisha said, Shoot. And he shot. And he said, The arrow of the LORD’s deliverance, and the arrow of deliverance from Syria: for thou shalt smite the Syrians in Aphek, till thou have consumed ",
+          "kind": "text"
+        },
+        {
+          "text": "them",
+          "kind": "supplied"
+        },
+        {
+          "text": ".",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2KI.13.18",
+      "edition_verse_id": "KJV1769:2KI.13.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "And he said, Take the arrows. And he took ",
+          "kind": "text"
+        },
+        {
+          "text": "them",
+          "kind": "supplied"
+        },
+        {
+          "text": ". And he said unto the king of Israel, Smite upon the ground. And he smote thrice, and stayed.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2KI.13.19",
+      "edition_verse_id": "KJV1769:2KI.13.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "And the man of God was wroth with him, and said, Thou shouldest have smitten five or six times; then hadst thou smitten Syria till thou hadst consumed ",
+          "kind": "text"
+        },
+        {
+          "text": "it:",
+          "kind": "supplied"
+        },
+        {
+          "text": " whereas now thou shalt smite Syria ",
+          "kind": "text"
+        },
+        {
+          "text": "but",
+          "kind": "supplied"
+        },
+        {
+          "text": " thrice.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2KI.13.20",
+      "edition_verse_id": "KJV1769:2KI.13.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "¶ And Elisha died, and they buried him. And the bands of the Moabites invaded the land at the coming in of the year.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "2KI.13.21",
+      "edition_verse_id": "KJV1769:2KI.13.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "And it came to pass, as they were burying a man, that, behold, they spied a band ",
+          "kind": "text"
+        },
+        {
+          "text": "of men;",
+          "kind": "supplied"
+        },
+        {
+          "text": " and they cast the man into the sepulchre of Elisha: and when the man was let down, and touched the bones of Elisha, he revived, and stood up on his feet.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2KI.13.22",
+      "edition_verse_id": "KJV1769:2KI.13.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "¶ But Hazael king of Syria oppressed Israel all the days of Jehoahaz.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "2KI.13.23",
+      "edition_verse_id": "KJV1769:2KI.13.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "And the LORD was gracious unto them, and had compassion on them, and had respect unto them, because of his covenant with Abraham, Isaac, and Jacob, and would not destroy them, neither cast he them from his presence as yet.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2KI.13.24",
+      "edition_verse_id": "KJV1769:2KI.13.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "So Hazael king of Syria died; and Ben-hadad his son reigned in his stead.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2KI.13.25",
+      "edition_verse_id": "KJV1769:2KI.13.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "And Jehoash the son of Jehoahaz took again out of the hand of Ben-hadad the son of Hazael the cities, which he had taken out of the hand of Jehoahaz his father by war. Three times did Joash beat him, and recovered the cities of Israel.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

@@ -1,0 +1,344 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "KJV1769",
+  "book_code": "2KI",
+  "chapter": 16,
+  "verses": [
+    {
+      "id": "2KI.16.1",
+      "edition_verse_id": "KJV1769:2KI.16.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "In the seventeenth year of Pekah the son of Remaliah Ahaz the son of Jotham king of Judah began to reign.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "2KI.16.2",
+      "edition_verse_id": "KJV1769:2KI.16.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "Twenty years old ",
+          "kind": "text"
+        },
+        {
+          "text": "was",
+          "kind": "supplied"
+        },
+        {
+          "text": " Ahaz when he began to reign, and reigned sixteen years in Jerusalem, and did not ",
+          "kind": "text"
+        },
+        {
+          "text": "that which was",
+          "kind": "supplied"
+        },
+        {
+          "text": " right in the sight of the LORD his God, like David his father.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2KI.16.3",
+      "edition_verse_id": "KJV1769:2KI.16.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "But he walked in the way of the kings of Israel, yea, and made his son to pass through the fire, according to the abominations of the heathen, whom the LORD cast out from before the children of Israel.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2KI.16.4",
+      "edition_verse_id": "KJV1769:2KI.16.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "And he sacrificed and burnt incense in the high places, and on the hills, and under every green tree.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2KI.16.5",
+      "edition_verse_id": "KJV1769:2KI.16.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "¶ Then Rezin king of Syria and Pekah son of Remaliah king of Israel came up to Jerusalem to war: and they besieged Ahaz, but could not overcome ",
+          "kind": "text"
+        },
+        {
+          "text": "him",
+          "kind": "supplied"
+        },
+        {
+          "text": ".",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "2KI.16.6",
+      "edition_verse_id": "KJV1769:2KI.16.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "At that time Rezin king of Syria recovered Elath to Syria, and drave the Jews from Elath: and the Syrians came to Elath, and dwelt there unto this day.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2KI.16.7",
+      "edition_verse_id": "KJV1769:2KI.16.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "So Ahaz sent messengers to Tiglath-pileser king of Assyria, saying, I ",
+          "kind": "text"
+        },
+        {
+          "text": "am",
+          "kind": "supplied"
+        },
+        {
+          "text": " thy servant and thy son: come up, and save me out of the hand of the king of Syria, and out of the hand of the king of Israel, which rise up against me.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2KI.16.8",
+      "edition_verse_id": "KJV1769:2KI.16.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "And Ahaz took the silver and gold that was found in the house of the LORD, and in the treasures of the king’s house, and sent ",
+          "kind": "text"
+        },
+        {
+          "text": "it for",
+          "kind": "supplied"
+        },
+        {
+          "text": " a present to the king of Assyria.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2KI.16.9",
+      "edition_verse_id": "KJV1769:2KI.16.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "And the king of Assyria hearkened unto him: for the king of Assyria went up against Damascus, and took it, and carried ",
+          "kind": "text"
+        },
+        {
+          "text": "the people of",
+          "kind": "supplied"
+        },
+        {
+          "text": " it captive to Kir, and slew Rezin.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2KI.16.10",
+      "edition_verse_id": "KJV1769:2KI.16.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "¶ And king Ahaz went to Damascus to meet Tiglath-pileser king of Assyria, and saw an altar that ",
+          "kind": "text"
+        },
+        {
+          "text": "was",
+          "kind": "supplied"
+        },
+        {
+          "text": " at Damascus: and king Ahaz sent to Urijah the priest the fashion of the altar, and the pattern of it, according to all the workmanship thereof.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "2KI.16.11",
+      "edition_verse_id": "KJV1769:2KI.16.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "And Urijah the priest built an altar according to all that king Ahaz had sent from Damascus: so Urijah the priest made ",
+          "kind": "text"
+        },
+        {
+          "text": "it",
+          "kind": "supplied"
+        },
+        {
+          "text": " against king Ahaz came from Damascus.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2KI.16.12",
+      "edition_verse_id": "KJV1769:2KI.16.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "And when the king was come from Damascus, the king saw the altar: and the king approached to the altar, and offered thereon.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2KI.16.13",
+      "edition_verse_id": "KJV1769:2KI.16.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "And he burnt his burnt offering and his meat offering, and poured his drink offering, and sprinkled the blood of his peace offerings, upon the altar.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2KI.16.14",
+      "edition_verse_id": "KJV1769:2KI.16.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "And he brought also the brasen altar, which ",
+          "kind": "text"
+        },
+        {
+          "text": "was",
+          "kind": "supplied"
+        },
+        {
+          "text": " before the LORD, from the forefront of the house, from between the altar and the house of the LORD, and put it on the north side of the altar.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2KI.16.15",
+      "edition_verse_id": "KJV1769:2KI.16.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "And king Ahaz commanded Urijah the priest, saying, Upon the great altar burn the morning burnt offering, and the evening meat offering, and the king’s burnt sacrifice, and his meat offering, with the burnt offering of all the people of the land, and their meat offering, and their drink offerings; and sprinkle upon it all the blood of the burnt offering, and all the blood of the sacrifice: and the brasen altar shall be for me to enquire ",
+          "kind": "text"
+        },
+        {
+          "text": "by",
+          "kind": "supplied"
+        },
+        {
+          "text": ".",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2KI.16.16",
+      "edition_verse_id": "KJV1769:2KI.16.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "Thus did Urijah the priest, according to all that king Ahaz commanded.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2KI.16.17",
+      "edition_verse_id": "KJV1769:2KI.16.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "¶ And king Ahaz cut off the borders of the bases, and removed the laver from off them; and took down the sea from off the brasen oxen that ",
+          "kind": "text"
+        },
+        {
+          "text": "were",
+          "kind": "supplied"
+        },
+        {
+          "text": " under it, and put it upon a pavement of stones.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "2KI.16.18",
+      "edition_verse_id": "KJV1769:2KI.16.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "And the covert for the sabbath that they had built in the house, and the king’s entry without, turned he from the house of the LORD for the king of Assyria.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2KI.16.19",
+      "edition_verse_id": "KJV1769:2KI.16.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "¶ Now the rest of the acts of Ahaz which he did, ",
+          "kind": "text"
+        },
+        {
+          "text": "are",
+          "kind": "supplied"
+        },
+        {
+          "text": " they not written in the book of the chronicles of the kings of Judah?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "2KI.16.20",
+      "edition_verse_id": "KJV1769:2KI.16.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "And Ahaz slept with his fathers, and was buried with his fathers in the city of David: and Hezekiah his son reigned in his stead.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

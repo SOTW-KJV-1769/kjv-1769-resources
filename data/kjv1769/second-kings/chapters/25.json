@@ -1,0 +1,592 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "KJV1769",
+  "book_code": "2KI",
+  "chapter": 25,
+  "verses": [
+    {
+      "id": "2KI.25.1",
+      "edition_verse_id": "KJV1769:2KI.25.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "And it came to pass in the ninth year of his reign, in the tenth month, in the tenth ",
+          "kind": "text"
+        },
+        {
+          "text": "day",
+          "kind": "supplied"
+        },
+        {
+          "text": " of the month, ",
+          "kind": "text"
+        },
+        {
+          "text": "that",
+          "kind": "supplied"
+        },
+        {
+          "text": " Nebuchadnezzar king of Babylon came, he, and all his host, against Jerusalem, and pitched against it; and they built forts against it round about.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "2KI.25.2",
+      "edition_verse_id": "KJV1769:2KI.25.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "And the city was besieged unto the eleventh year of king Zedekiah.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2KI.25.3",
+      "edition_verse_id": "KJV1769:2KI.25.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "And on the ninth ",
+          "kind": "text"
+        },
+        {
+          "text": "day",
+          "kind": "supplied"
+        },
+        {
+          "text": " of the ",
+          "kind": "text"
+        },
+        {
+          "text": "fourth",
+          "kind": "supplied"
+        },
+        {
+          "text": " month the famine prevailed in the city, and there was no bread for the people of the land.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2KI.25.4",
+      "edition_verse_id": "KJV1769:2KI.25.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "¶ And the city was broken up, and all the men of war ",
+          "kind": "text"
+        },
+        {
+          "text": "fled",
+          "kind": "supplied"
+        },
+        {
+          "text": " by night by the way of the gate between two walls, which ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " by the king’s garden: (now the Chaldees ",
+          "kind": "text"
+        },
+        {
+          "text": "were",
+          "kind": "supplied"
+        },
+        {
+          "text": " against the city round about:) and ",
+          "kind": "text"
+        },
+        {
+          "text": "the king",
+          "kind": "supplied"
+        },
+        {
+          "text": " went the way toward the plain.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "2KI.25.5",
+      "edition_verse_id": "KJV1769:2KI.25.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "And the army of the Chaldees pursued after the king, and overtook him in the plains of Jericho: and all his army were scattered from him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2KI.25.6",
+      "edition_verse_id": "KJV1769:2KI.25.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "So they took the king, and brought him up to the king of Babylon to Riblah; and they gave judgment upon him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2KI.25.7",
+      "edition_verse_id": "KJV1769:2KI.25.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "And they slew the sons of Zedekiah before his eyes, and put out the eyes of Zedekiah, and bound him with fetters of brass, and carried him to Babylon.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2KI.25.8",
+      "edition_verse_id": "KJV1769:2KI.25.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "¶ And in the fifth month, on the seventh ",
+          "kind": "text"
+        },
+        {
+          "text": "day",
+          "kind": "supplied"
+        },
+        {
+          "text": " of the month, which ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " the nineteenth year of king Nebuchadnezzar king of Babylon, came Nebuzar-adan, captain of the guard, a servant of the king of Babylon, unto Jerusalem:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "2KI.25.9",
+      "edition_verse_id": "KJV1769:2KI.25.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "And he burnt the house of the LORD, and the king’s house, and all the houses of Jerusalem, and every great ",
+          "kind": "text"
+        },
+        {
+          "text": "man’s",
+          "kind": "supplied"
+        },
+        {
+          "text": " house burnt he with fire.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2KI.25.10",
+      "edition_verse_id": "KJV1769:2KI.25.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "And all the army of the Chaldees, that ",
+          "kind": "text"
+        },
+        {
+          "text": "were with",
+          "kind": "supplied"
+        },
+        {
+          "text": " the captain of the guard, brake down the walls of Jerusalem round about.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2KI.25.11",
+      "edition_verse_id": "KJV1769:2KI.25.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "Now the rest of the people ",
+          "kind": "text"
+        },
+        {
+          "text": "that were",
+          "kind": "supplied"
+        },
+        {
+          "text": " left in the city, and the fugitives that fell away to the king of Babylon, with the remnant of the multitude, did Nebuzar-adan the captain of the guard carry away.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2KI.25.12",
+      "edition_verse_id": "KJV1769:2KI.25.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "But the captain of the guard left of the poor of the land ",
+          "kind": "text"
+        },
+        {
+          "text": "to be",
+          "kind": "supplied"
+        },
+        {
+          "text": " vinedressers and husbandmen.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2KI.25.13",
+      "edition_verse_id": "KJV1769:2KI.25.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "And the pillars of brass that ",
+          "kind": "text"
+        },
+        {
+          "text": "were",
+          "kind": "supplied"
+        },
+        {
+          "text": " in the house of the LORD, and the bases, and the brasen sea that ",
+          "kind": "text"
+        },
+        {
+          "text": "was",
+          "kind": "supplied"
+        },
+        {
+          "text": " in the house of the LORD, did the Chaldees break in pieces, and carried the brass of them to Babylon.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2KI.25.14",
+      "edition_verse_id": "KJV1769:2KI.25.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "And the pots, and the shovels, and the snuffers, and the spoons, and all the vessels of brass wherewith they ministered, took they away.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2KI.25.15",
+      "edition_verse_id": "KJV1769:2KI.25.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "And the firepans, and the bowls, ",
+          "kind": "text"
+        },
+        {
+          "text": "and",
+          "kind": "supplied"
+        },
+        {
+          "text": " such things as ",
+          "kind": "text"
+        },
+        {
+          "text": "were",
+          "kind": "supplied"
+        },
+        {
+          "text": " of gold, ",
+          "kind": "text"
+        },
+        {
+          "text": "in",
+          "kind": "supplied"
+        },
+        {
+          "text": " gold, and of silver, ",
+          "kind": "text"
+        },
+        {
+          "text": "in",
+          "kind": "supplied"
+        },
+        {
+          "text": " silver, the captain of the guard took away.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2KI.25.16",
+      "edition_verse_id": "KJV1769:2KI.25.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "The two pillars, one sea, and the bases which Solomon had made for the house of the LORD; the brass of all these vessels was without weight.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2KI.25.17",
+      "edition_verse_id": "KJV1769:2KI.25.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "The height of the one pillar ",
+          "kind": "text"
+        },
+        {
+          "text": "was",
+          "kind": "supplied"
+        },
+        {
+          "text": " eighteen cubits, and the chapiter upon it ",
+          "kind": "text"
+        },
+        {
+          "text": "was",
+          "kind": "supplied"
+        },
+        {
+          "text": " brass: and the height of the chapiter three cubits; and the wreathen work, and pomegranates upon the chapiter round about, all of brass: and like unto these had the second pillar with wreathen work.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2KI.25.18",
+      "edition_verse_id": "KJV1769:2KI.25.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "¶ And the captain of the guard took Seraiah the chief priest, and Zephaniah the second priest, and the three keepers of the door:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "2KI.25.19",
+      "edition_verse_id": "KJV1769:2KI.25.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "And out of the city he took an officer that was set over the men of war, and five men of them that were in the king’s presence, which were found in the city, and the principal scribe of the host, which mustered the people of the land, and threescore men of the people of the land ",
+          "kind": "text"
+        },
+        {
+          "text": "that were",
+          "kind": "supplied"
+        },
+        {
+          "text": " found in the city:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2KI.25.20",
+      "edition_verse_id": "KJV1769:2KI.25.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "And Nebuzar-adan captain of the guard took these, and brought them to the king of Babylon to Riblah:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2KI.25.21",
+      "edition_verse_id": "KJV1769:2KI.25.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "And the king of Babylon smote them, and slew them at Riblah in the land of Hamath. So Judah was carried away out of their land.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2KI.25.22",
+      "edition_verse_id": "KJV1769:2KI.25.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "¶ And ",
+          "kind": "text"
+        },
+        {
+          "text": "as for",
+          "kind": "supplied"
+        },
+        {
+          "text": " the people that remained in the land of Judah, whom Nebuchadnezzar king of Babylon had left, even over them he made Gedaliah the son of Ahikam, the son of Shaphan, ruler.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "2KI.25.23",
+      "edition_verse_id": "KJV1769:2KI.25.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "And when all the captains of the armies, they and their men, heard that the king of Babylon had made Gedaliah governor, there came to Gedaliah to Mizpah, even Ishmael the son of Nethaniah, and Johanan the son of Careah, and Seraiah the son of Tanhumeth the Netophathite, and Jaazaniah the son of a Maachathite, they and their men.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2KI.25.24",
+      "edition_verse_id": "KJV1769:2KI.25.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "And Gedaliah sware to them, and to their men, and said unto them, Fear not to be the servants of the Chaldees: dwell in the land, and serve the king of Babylon; and it shall be well with you.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2KI.25.25",
+      "edition_verse_id": "KJV1769:2KI.25.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "But it came to pass in the seventh month, that Ishmael the son of Nethaniah, the son of Elishama, of the seed royal, came, and ten men with him, and smote Gedaliah, that he died, and the Jews and the Chaldees that were with him at Mizpah.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2KI.25.26",
+      "edition_verse_id": "KJV1769:2KI.25.26",
+      "verse": 26,
+      "spans": [
+        {
+          "text": "And all the people, both small and great, and the captains of the armies, arose, and came to Egypt: for they were afraid of the Chaldees.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2KI.25.27",
+      "edition_verse_id": "KJV1769:2KI.25.27",
+      "verse": 27,
+      "spans": [
+        {
+          "text": "¶ And it came to pass in the seven and thirtieth year of the captivity of Jehoiachin king of Judah, in the twelfth month, on the seven and twentieth ",
+          "kind": "text"
+        },
+        {
+          "text": "day",
+          "kind": "supplied"
+        },
+        {
+          "text": " of the month, ",
+          "kind": "text"
+        },
+        {
+          "text": "that",
+          "kind": "supplied"
+        },
+        {
+          "text": " Evil-merodach king of Babylon in the year that he began to reign did lift up the head of Jehoiachin king of Judah out of prison;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "2KI.25.28",
+      "edition_verse_id": "KJV1769:2KI.25.28",
+      "verse": 28,
+      "spans": [
+        {
+          "text": "And he spake kindly to him, and set his throne above the throne of the kings that ",
+          "kind": "text"
+        },
+        {
+          "text": "were",
+          "kind": "supplied"
+        },
+        {
+          "text": " with him in Babylon;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2KI.25.29",
+      "edition_verse_id": "KJV1769:2KI.25.29",
+      "verse": 29,
+      "spans": [
+        {
+          "text": "And changed his prison garments: and he did eat bread continually before him all the days of his life.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2KI.25.30",
+      "edition_verse_id": "KJV1769:2KI.25.30",
+      "verse": 30,
+      "spans": [
+        {
+          "text": "And his allowance ",
+          "kind": "text"
+        },
+        {
+          "text": "was",
+          "kind": "supplied"
+        },
+        {
+          "text": " a continual allowance given him of the king, a daily rate for every day, all the days of his life.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

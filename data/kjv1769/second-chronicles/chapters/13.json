@@ -1,0 +1,432 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "KJV1769",
+  "book_code": "2CH",
+  "chapter": 13,
+  "verses": [
+    {
+      "id": "2CH.13.1",
+      "edition_verse_id": "KJV1769:2CH.13.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "Now in the eighteenth year of king Jeroboam began Abijah to reign over Judah.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "2CH.13.2",
+      "edition_verse_id": "KJV1769:2CH.13.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "He reigned three years in Jerusalem. His mother’s name also ",
+          "kind": "text"
+        },
+        {
+          "text": "was",
+          "kind": "supplied"
+        },
+        {
+          "text": " Michaiah the daughter of Uriel of Gibeah. And there was war between Abijah and Jeroboam.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2CH.13.3",
+      "edition_verse_id": "KJV1769:2CH.13.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "And Abijah set the battle in array with an army of valiant men of war, ",
+          "kind": "text"
+        },
+        {
+          "text": "even",
+          "kind": "supplied"
+        },
+        {
+          "text": " four hundred thousand chosen men: Jeroboam also set the battle in array against him with eight hundred thousand chosen men, ",
+          "kind": "text"
+        },
+        {
+          "text": "being",
+          "kind": "supplied"
+        },
+        {
+          "text": " mighty men of valour.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2CH.13.4",
+      "edition_verse_id": "KJV1769:2CH.13.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "¶ And Abijah stood up upon mount Zemaraim, which ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " in mount Ephraim, and said, Hear me, thou Jeroboam, and all Israel;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "2CH.13.5",
+      "edition_verse_id": "KJV1769:2CH.13.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "Ought ye not to know that the LORD God of Israel gave the kingdom over Israel to David for ever, ",
+          "kind": "text"
+        },
+        {
+          "text": "even",
+          "kind": "supplied"
+        },
+        {
+          "text": " to him and to his sons by a covenant of salt?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2CH.13.6",
+      "edition_verse_id": "KJV1769:2CH.13.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "Yet Jeroboam the son of Nebat, the servant of Solomon the son of David, is risen up, and hath rebelled against his lord.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2CH.13.7",
+      "edition_verse_id": "KJV1769:2CH.13.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "And there are gathered unto him vain men, the children of Belial, and have strengthened themselves against Rehoboam the son of Solomon, when Rehoboam was young and tenderhearted, and could not withstand them.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2CH.13.8",
+      "edition_verse_id": "KJV1769:2CH.13.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "And now ye think to withstand the kingdom of the LORD in the hand of the sons of David; and ye ",
+          "kind": "text"
+        },
+        {
+          "text": "be",
+          "kind": "supplied"
+        },
+        {
+          "text": " a great multitude, and ",
+          "kind": "text"
+        },
+        {
+          "text": "there are",
+          "kind": "supplied"
+        },
+        {
+          "text": " with you golden calves, which Jeroboam made you for gods.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2CH.13.9",
+      "edition_verse_id": "KJV1769:2CH.13.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "Have ye not cast out the priests of the LORD, the sons of Aaron, and the Levites, and have made you priests after the manner of the nations of ",
+          "kind": "text"
+        },
+        {
+          "text": "other",
+          "kind": "supplied"
+        },
+        {
+          "text": " lands? so that whosoever cometh to consecrate himself with a young bullock and seven rams, ",
+          "kind": "text"
+        },
+        {
+          "text": "the same",
+          "kind": "supplied"
+        },
+        {
+          "text": " may be a priest of ",
+          "kind": "text"
+        },
+        {
+          "text": "them that are",
+          "kind": "supplied"
+        },
+        {
+          "text": " no gods.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2CH.13.10",
+      "edition_verse_id": "KJV1769:2CH.13.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "But as for us, the LORD ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " our God, and we have not forsaken him; and the priests, which minister unto the LORD, ",
+          "kind": "text"
+        },
+        {
+          "text": "are",
+          "kind": "supplied"
+        },
+        {
+          "text": " the sons of Aaron, and the Levites ",
+          "kind": "text"
+        },
+        {
+          "text": "wait",
+          "kind": "supplied"
+        },
+        {
+          "text": " upon ",
+          "kind": "text"
+        },
+        {
+          "text": "their",
+          "kind": "supplied"
+        },
+        {
+          "text": " business:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2CH.13.11",
+      "edition_verse_id": "KJV1769:2CH.13.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "And they burn unto the LORD every morning and every evening burnt sacrifices and sweet incense: the shewbread also ",
+          "kind": "text"
+        },
+        {
+          "text": "set they in order",
+          "kind": "supplied"
+        },
+        {
+          "text": " upon the pure table; and the candlestick of gold with the lamps thereof, to burn every evening: for we keep the charge of the LORD our God; but ye have forsaken him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2CH.13.12",
+      "edition_verse_id": "KJV1769:2CH.13.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "And, behold, God himself ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " with us for ",
+          "kind": "text"
+        },
+        {
+          "text": "our",
+          "kind": "supplied"
+        },
+        {
+          "text": " captain, and his priests with sounding trumpets to cry alarm against you. O children of Israel, fight ye not against the LORD God of your fathers; for ye shall not prosper.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2CH.13.13",
+      "edition_verse_id": "KJV1769:2CH.13.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "¶ But Jeroboam caused an ambushment to come about behind them: so they were before Judah, and the ambushment ",
+          "kind": "text"
+        },
+        {
+          "text": "was",
+          "kind": "supplied"
+        },
+        {
+          "text": " behind them.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "2CH.13.14",
+      "edition_verse_id": "KJV1769:2CH.13.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "And when Judah looked back, behold, the battle ",
+          "kind": "text"
+        },
+        {
+          "text": "was",
+          "kind": "supplied"
+        },
+        {
+          "text": " before and behind: and they cried unto the LORD, and the priests sounded with the trumpets.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2CH.13.15",
+      "edition_verse_id": "KJV1769:2CH.13.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "Then the men of Judah gave a shout: and as the men of Judah shouted, it came to pass, that God smote Jeroboam and all Israel before Abijah and Judah.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2CH.13.16",
+      "edition_verse_id": "KJV1769:2CH.13.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "And the children of Israel fled before Judah: and God delivered them into their hand.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2CH.13.17",
+      "edition_verse_id": "KJV1769:2CH.13.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "And Abijah and his people slew them with a great slaughter: so there fell down slain of Israel five hundred thousand chosen men.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2CH.13.18",
+      "edition_verse_id": "KJV1769:2CH.13.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "Thus the children of Israel were brought under at that time, and the children of Judah prevailed, because they relied upon the LORD God of their fathers.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2CH.13.19",
+      "edition_verse_id": "KJV1769:2CH.13.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "And Abijah pursued after Jeroboam, and took cities from him, Beth-el with the towns thereof, and Jeshanah with the towns thereof, and Ephrain with the towns thereof.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2CH.13.20",
+      "edition_verse_id": "KJV1769:2CH.13.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "Neither did Jeroboam recover strength again in the days of Abijah: and the LORD struck him, and he died.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2CH.13.21",
+      "edition_verse_id": "KJV1769:2CH.13.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "¶ But Abijah waxed mighty, and married fourteen wives, and begat twenty and two sons, and sixteen daughters.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "2CH.13.22",
+      "edition_verse_id": "KJV1769:2CH.13.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "And the rest of the acts of Abijah, and his ways, and his sayings, ",
+          "kind": "text"
+        },
+        {
+          "text": "are",
+          "kind": "supplied"
+        },
+        {
+          "text": " written in the story of the prophet Iddo.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

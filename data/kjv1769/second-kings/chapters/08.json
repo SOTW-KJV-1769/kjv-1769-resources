@@ -1,0 +1,476 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "KJV1769",
+  "book_code": "2KI",
+  "chapter": 8,
+  "verses": [
+    {
+      "id": "2KI.8.1",
+      "edition_verse_id": "KJV1769:2KI.8.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "Then spake Elisha unto the woman, whose son he had restored to life, saying, Arise, and go thou and thine household, and sojourn wheresoever thou canst sojourn: for the LORD hath called for a famine; and it shall also come upon the land seven years.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "2KI.8.2",
+      "edition_verse_id": "KJV1769:2KI.8.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "And the woman arose, and did after the saying of the man of God: and she went with her household, and sojourned in the land of the Philistines seven years.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2KI.8.3",
+      "edition_verse_id": "KJV1769:2KI.8.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "And it came to pass at the seven years’ end, that the woman returned out of the land of the Philistines: and she went forth to cry unto the king for her house and for her land.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2KI.8.4",
+      "edition_verse_id": "KJV1769:2KI.8.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "And the king talked with Gehazi the servant of the man of God, saying, Tell me, I pray thee, all the great things that Elisha hath done.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2KI.8.5",
+      "edition_verse_id": "KJV1769:2KI.8.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "And it came to pass, as he was telling the king how he had restored a dead body to life, that, behold, the woman, whose son he had restored to life, cried to the king for her house and for her land. And Gehazi said, My lord, O king, this ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " the woman, and this ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " her son, whom Elisha restored to life.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2KI.8.6",
+      "edition_verse_id": "KJV1769:2KI.8.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "And when the king asked the woman, she told him. So the king appointed unto her a certain officer, saying, Restore all that ",
+          "kind": "text"
+        },
+        {
+          "text": "was",
+          "kind": "supplied"
+        },
+        {
+          "text": " hers, and all the fruits of the field since the day that she left the land, even until now.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2KI.8.7",
+      "edition_verse_id": "KJV1769:2KI.8.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "¶ And Elisha came to Damascus; and Ben-hadad the king of Syria was sick; and it was told him, saying, The man of God is come hither.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "2KI.8.8",
+      "edition_verse_id": "KJV1769:2KI.8.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "And the king said unto Hazael, Take a present in thine hand, and go, meet the man of God, and enquire of the LORD by him, saying, Shall I recover of this disease?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2KI.8.9",
+      "edition_verse_id": "KJV1769:2KI.8.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "So Hazael went to meet him, and took a present with him, even of every good thing of Damascus, forty camels’ burden, and came and stood before him, and said, Thy son Ben-hadad king of Syria hath sent me to thee, saying, Shall I recover of this disease?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2KI.8.10",
+      "edition_verse_id": "KJV1769:2KI.8.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "And Elisha said unto him, Go, say unto him, Thou mayest certainly recover: howbeit the LORD hath shewed me that he shall surely die.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2KI.8.11",
+      "edition_verse_id": "KJV1769:2KI.8.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "And he settled his countenance stedfastly, until he was ashamed: and the man of God wept.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2KI.8.12",
+      "edition_verse_id": "KJV1769:2KI.8.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "And Hazael said, Why weepeth my lord? And he answered, Because I know the evil that thou wilt do unto the children of Israel: their strong holds wilt thou set on fire, and their young men wilt thou slay with the sword, and wilt dash their children, and rip up their women with child.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2KI.8.13",
+      "edition_verse_id": "KJV1769:2KI.8.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "And Hazael said, But what, ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " thy servant a dog, that he should do this great thing? And Elisha answered, The LORD hath shewed me that thou ",
+          "kind": "text"
+        },
+        {
+          "text": "shalt be",
+          "kind": "supplied"
+        },
+        {
+          "text": " king over Syria.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2KI.8.14",
+      "edition_verse_id": "KJV1769:2KI.8.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "So he departed from Elisha, and came to his master; who said to him, What said Elisha to thee? And he answered, He told me ",
+          "kind": "text"
+        },
+        {
+          "text": "that",
+          "kind": "supplied"
+        },
+        {
+          "text": " thou shouldest surely recover.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2KI.8.15",
+      "edition_verse_id": "KJV1769:2KI.8.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "And it came to pass on the morrow, that he took a thick cloth, and dipped ",
+          "kind": "text"
+        },
+        {
+          "text": "it",
+          "kind": "supplied"
+        },
+        {
+          "text": " in water, and spread ",
+          "kind": "text"
+        },
+        {
+          "text": "it",
+          "kind": "supplied"
+        },
+        {
+          "text": " on his face, so that he died: and Hazael reigned in his stead.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2KI.8.16",
+      "edition_verse_id": "KJV1769:2KI.8.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "¶ And in the fifth year of Joram the son of Ahab king of Israel, Jehoshaphat ",
+          "kind": "text"
+        },
+        {
+          "text": "being",
+          "kind": "supplied"
+        },
+        {
+          "text": " then king of Judah, Jehoram the son of Jehoshaphat king of Judah began to reign.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "2KI.8.17",
+      "edition_verse_id": "KJV1769:2KI.8.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "Thirty and two years old was he when he began to reign; and he reigned eight years in Jerusalem.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2KI.8.18",
+      "edition_verse_id": "KJV1769:2KI.8.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "And he walked in the way of the kings of Israel, as did the house of Ahab: for the daughter of Ahab was his wife: and he did evil in the sight of the LORD.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2KI.8.19",
+      "edition_verse_id": "KJV1769:2KI.8.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "Yet the LORD would not destroy Judah for David his servant’s sake, as he promised him to give him alway a light, ",
+          "kind": "text"
+        },
+        {
+          "text": "and",
+          "kind": "supplied"
+        },
+        {
+          "text": " to his children.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2KI.8.20",
+      "edition_verse_id": "KJV1769:2KI.8.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "¶ In his days Edom revolted from under the hand of Judah, and made a king over themselves.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "2KI.8.21",
+      "edition_verse_id": "KJV1769:2KI.8.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "So Joram went over to Zair, and all the chariots with him: and he rose by night, and smote the Edomites which compassed him about, and the captains of the chariots: and the people fled into their tents.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2KI.8.22",
+      "edition_verse_id": "KJV1769:2KI.8.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "Yet Edom revolted from under the hand of Judah unto this day. Then Libnah revolted at the same time.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2KI.8.23",
+      "edition_verse_id": "KJV1769:2KI.8.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "And the rest of the acts of Joram, and all that he did, ",
+          "kind": "text"
+        },
+        {
+          "text": "are",
+          "kind": "supplied"
+        },
+        {
+          "text": " they not written in the book of the chronicles of the kings of Judah?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2KI.8.24",
+      "edition_verse_id": "KJV1769:2KI.8.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "And Joram slept with his fathers, and was buried with his fathers in the city of David: and Ahaziah his son reigned in his stead.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2KI.8.25",
+      "edition_verse_id": "KJV1769:2KI.8.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "¶ In the twelfth year of Joram the son of Ahab king of Israel did Ahaziah the son of Jehoram king of Judah begin to reign.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "2KI.8.26",
+      "edition_verse_id": "KJV1769:2KI.8.26",
+      "verse": 26,
+      "spans": [
+        {
+          "text": "Two and twenty years old ",
+          "kind": "text"
+        },
+        {
+          "text": "was",
+          "kind": "supplied"
+        },
+        {
+          "text": " Ahaziah when he began to reign; and he reigned one year in Jerusalem. And his mother’s name ",
+          "kind": "text"
+        },
+        {
+          "text": "was",
+          "kind": "supplied"
+        },
+        {
+          "text": " Athaliah, the daughter of Omri king of Israel.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2KI.8.27",
+      "edition_verse_id": "KJV1769:2KI.8.27",
+      "verse": 27,
+      "spans": [
+        {
+          "text": "And he walked in the way of the house of Ahab, and did evil in the sight of the LORD, as ",
+          "kind": "text"
+        },
+        {
+          "text": "did",
+          "kind": "supplied"
+        },
+        {
+          "text": " the house of Ahab: for he ",
+          "kind": "text"
+        },
+        {
+          "text": "was",
+          "kind": "supplied"
+        },
+        {
+          "text": " the son in law of the house of Ahab.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2KI.8.28",
+      "edition_verse_id": "KJV1769:2KI.8.28",
+      "verse": 28,
+      "spans": [
+        {
+          "text": "¶ And he went with Joram the son of Ahab to the war against Hazael king of Syria in Ramoth-gilead; and the Syrians wounded Joram.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "2KI.8.29",
+      "edition_verse_id": "KJV1769:2KI.8.29",
+      "verse": 29,
+      "spans": [
+        {
+          "text": "And king Joram went back to be healed in Jezreel of the wounds which the Syrians had given him at Ramah, when he fought against Hazael king of Syria. And Ahaziah the son of Jehoram king of Judah went down to see Joram the son of Ahab in Jezreel, because he was sick.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

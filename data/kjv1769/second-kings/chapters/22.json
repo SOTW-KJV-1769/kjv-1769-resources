@@ -1,0 +1,320 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "KJV1769",
+  "book_code": "2KI",
+  "chapter": 22,
+  "verses": [
+    {
+      "id": "2KI.22.1",
+      "edition_verse_id": "KJV1769:2KI.22.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "Josiah ",
+          "kind": "text"
+        },
+        {
+          "text": "was",
+          "kind": "supplied"
+        },
+        {
+          "text": " eight years old when he began to reign, and he reigned thirty and one years in Jerusalem. And his mother’s name ",
+          "kind": "text"
+        },
+        {
+          "text": "was",
+          "kind": "supplied"
+        },
+        {
+          "text": " Jedidah, the daughter of Adaiah of Boscath.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "2KI.22.2",
+      "edition_verse_id": "KJV1769:2KI.22.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "And he did ",
+          "kind": "text"
+        },
+        {
+          "text": "that which was",
+          "kind": "supplied"
+        },
+        {
+          "text": " right in the sight of the LORD, and walked in all the way of David his father, and turned not aside to the right hand or to the left.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2KI.22.3",
+      "edition_verse_id": "KJV1769:2KI.22.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "¶ And it came to pass in the eighteenth year of king Josiah, ",
+          "kind": "text"
+        },
+        {
+          "text": "that",
+          "kind": "supplied"
+        },
+        {
+          "text": " the king sent Shaphan the son of Azaliah, the son of Meshullam, the scribe, to the house of the LORD, saying,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "2KI.22.4",
+      "edition_verse_id": "KJV1769:2KI.22.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "Go up to Hilkiah the high priest, that he may sum the silver which is brought into the house of the LORD, which the keepers of the door have gathered of the people:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2KI.22.5",
+      "edition_verse_id": "KJV1769:2KI.22.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "And let them deliver it into the hand of the doers of the work, that have the oversight of the house of the LORD: and let them give it to the doers of the work which ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " in the house of the LORD, to repair the breaches of the house,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2KI.22.6",
+      "edition_verse_id": "KJV1769:2KI.22.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "Unto carpenters, and builders, and masons, and to buy timber and hewn stone to repair the house.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2KI.22.7",
+      "edition_verse_id": "KJV1769:2KI.22.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "Howbeit there was no reckoning made with them of the money that was delivered into their hand, because they dealt faithfully.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2KI.22.8",
+      "edition_verse_id": "KJV1769:2KI.22.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "¶ And Hilkiah the high priest said unto Shaphan the scribe, I have found the book of the law in the house of the LORD. And Hilkiah gave the book to Shaphan, and he read it.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "2KI.22.9",
+      "edition_verse_id": "KJV1769:2KI.22.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "And Shaphan the scribe came to the king, and brought the king word again, and said, Thy servants have gathered the money that was found in the house, and have delivered it into the hand of them that do the work, that have the oversight of the house of the LORD.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2KI.22.10",
+      "edition_verse_id": "KJV1769:2KI.22.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "And Shaphan the scribe shewed the king, saying, Hilkiah the priest hath delivered me a book. And Shaphan read it before the king.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2KI.22.11",
+      "edition_verse_id": "KJV1769:2KI.22.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "And it came to pass, when the king had heard the words of the book of the law, that he rent his clothes.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "2KI.22.12",
+      "edition_verse_id": "KJV1769:2KI.22.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "And the king commanded Hilkiah the priest, and Ahikam the son of Shaphan, and Achbor the son of Michaiah, and Shaphan the scribe, and Asahiah a servant of the king’s, saying,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2KI.22.13",
+      "edition_verse_id": "KJV1769:2KI.22.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "Go ye, enquire of the LORD for me, and for the people, and for all Judah, concerning the words of this book that is found: for great ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " the wrath of the LORD that is kindled against us, because our fathers have not hearkened unto the words of this book, to do according unto all that which is written concerning us.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2KI.22.14",
+      "edition_verse_id": "KJV1769:2KI.22.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "So Hilkiah the priest, and Ahikam, and Achbor, and Shaphan, and Asahiah, went unto Huldah the prophetess, the wife of Shallum the son of Tikvah, the son of Harhas, keeper of the wardrobe; (now she dwelt in Jerusalem in the college;) and they communed with her.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2KI.22.15",
+      "edition_verse_id": "KJV1769:2KI.22.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "¶ And she said unto them, Thus saith the LORD God of Israel, Tell the man that sent you to me,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "2KI.22.16",
+      "edition_verse_id": "KJV1769:2KI.22.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "Thus saith the LORD, Behold, I will bring evil upon this place, and upon the inhabitants thereof, ",
+          "kind": "text"
+        },
+        {
+          "text": "even",
+          "kind": "supplied"
+        },
+        {
+          "text": " all the words of the book which the king of Judah hath read:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2KI.22.17",
+      "edition_verse_id": "KJV1769:2KI.22.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "Because they have forsaken me, and have burned incense unto other gods, that they might provoke me to anger with all the works of their hands; therefore my wrath shall be kindled against this place, and shall not be quenched.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2KI.22.18",
+      "edition_verse_id": "KJV1769:2KI.22.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "But to the king of Judah which sent you to enquire of the LORD, thus shall ye say to him, Thus saith the LORD God of Israel, ",
+          "kind": "text"
+        },
+        {
+          "text": "As touching",
+          "kind": "supplied"
+        },
+        {
+          "text": " the words which thou hast heard;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2KI.22.19",
+      "edition_verse_id": "KJV1769:2KI.22.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "Because thine heart was tender, and thou hast humbled thyself before the LORD, when thou heardest what I spake against this place, and against the inhabitants thereof, that they should become a desolation and a curse, and hast rent thy clothes, and wept before me; I also have heard ",
+          "kind": "text"
+        },
+        {
+          "text": "thee",
+          "kind": "supplied"
+        },
+        {
+          "text": ", saith the LORD.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2KI.22.20",
+      "edition_verse_id": "KJV1769:2KI.22.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "Behold therefore, I will gather thee unto thy fathers, and thou shalt be gathered into thy grave in peace; and thine eyes shall not see all the evil which I will bring upon this place. And they brought the king word again.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

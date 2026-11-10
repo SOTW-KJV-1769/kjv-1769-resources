@@ -1,0 +1,596 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "KJV1769",
+  "book_code": "2CH",
+  "chapter": 32,
+  "verses": [
+    {
+      "id": "2CH.32.1",
+      "edition_verse_id": "KJV1769:2CH.32.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "After these things, and the establishment thereof, Sennacherib king of Assyria came, and entered into Judah, and encamped against the fenced cities, and thought to win them for himself.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "2CH.32.2",
+      "edition_verse_id": "KJV1769:2CH.32.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "And when Hezekiah saw that Sennacherib was come, and that he was purposed to fight against Jerusalem,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2CH.32.3",
+      "edition_verse_id": "KJV1769:2CH.32.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "He took counsel with his princes and his mighty men to stop the waters of the fountains which ",
+          "kind": "text"
+        },
+        {
+          "text": "were",
+          "kind": "supplied"
+        },
+        {
+          "text": " without the city: and they did help him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2CH.32.4",
+      "edition_verse_id": "KJV1769:2CH.32.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "So there was gathered much people together, who stopped all the fountains, and the brook that ran through the midst of the land, saying, Why should the kings of Assyria come, and find much water?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2CH.32.5",
+      "edition_verse_id": "KJV1769:2CH.32.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "Also he strengthened himself, and built up all the wall that was broken, and raised ",
+          "kind": "text"
+        },
+        {
+          "text": "it",
+          "kind": "supplied"
+        },
+        {
+          "text": " up to the towers, and another wall without, and repaired Millo ",
+          "kind": "text"
+        },
+        {
+          "text": "in",
+          "kind": "supplied"
+        },
+        {
+          "text": " the city of David, and made darts and shields in abundance.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2CH.32.6",
+      "edition_verse_id": "KJV1769:2CH.32.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "And he set captains of war over the people, and gathered them together to him in the street of the gate of the city, and spake comfortably to them, saying,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2CH.32.7",
+      "edition_verse_id": "KJV1769:2CH.32.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "Be strong and courageous, be not afraid nor dismayed for the king of Assyria, nor for all the multitude that ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " with him: for ",
+          "kind": "text"
+        },
+        {
+          "text": "there be",
+          "kind": "supplied"
+        },
+        {
+          "text": " more with us than with him:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2CH.32.8",
+      "edition_verse_id": "KJV1769:2CH.32.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "With him ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " an arm of flesh; but with us ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " the LORD our God to help us, and to fight our battles. And the people rested themselves upon the words of Hezekiah king of Judah.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2CH.32.9",
+      "edition_verse_id": "KJV1769:2CH.32.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "¶ After this did Sennacherib king of Assyria send his servants to Jerusalem, (but he ",
+          "kind": "text"
+        },
+        {
+          "text": "himself laid siege",
+          "kind": "supplied"
+        },
+        {
+          "text": " against Lachish, and all his power with him,) unto Hezekiah king of Judah, and unto all Judah that ",
+          "kind": "text"
+        },
+        {
+          "text": "were",
+          "kind": "supplied"
+        },
+        {
+          "text": " at Jerusalem, saying,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "2CH.32.10",
+      "edition_verse_id": "KJV1769:2CH.32.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "Thus saith Sennacherib king of Assyria, Whereon do ye trust, that ye abide in the siege in Jerusalem?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2CH.32.11",
+      "edition_verse_id": "KJV1769:2CH.32.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "Doth not Hezekiah persuade you to give over yourselves to die by famine and by thirst, saying, The LORD our God shall deliver us out of the hand of the king of Assyria?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2CH.32.12",
+      "edition_verse_id": "KJV1769:2CH.32.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "Hath not the same Hezekiah taken away his high places and his altars, and commanded Judah and Jerusalem, saying, Ye shall worship before one altar, and burn incense upon it?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2CH.32.13",
+      "edition_verse_id": "KJV1769:2CH.32.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "Know ye not what I and my fathers have done unto all the people of ",
+          "kind": "text"
+        },
+        {
+          "text": "other",
+          "kind": "supplied"
+        },
+        {
+          "text": " lands? were the gods of the nations of those lands any ways able to deliver their lands out of mine hand?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2CH.32.14",
+      "edition_verse_id": "KJV1769:2CH.32.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "Who ",
+          "kind": "text"
+        },
+        {
+          "text": "was there",
+          "kind": "supplied"
+        },
+        {
+          "text": " among all the gods of those nations that my fathers utterly destroyed, that could deliver his people out of mine hand, that your God should be able to deliver you out of mine hand?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2CH.32.15",
+      "edition_verse_id": "KJV1769:2CH.32.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "Now therefore let not Hezekiah deceive you, nor persuade you on this manner, neither yet believe him: for no god of any nation or kingdom was able to deliver his people out of mine hand, and out of the hand of my fathers: how much less shall your God deliver you out of mine hand?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2CH.32.16",
+      "edition_verse_id": "KJV1769:2CH.32.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "And his servants spake yet ",
+          "kind": "text"
+        },
+        {
+          "text": "more",
+          "kind": "supplied"
+        },
+        {
+          "text": " against the LORD God, and against his servant Hezekiah.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2CH.32.17",
+      "edition_verse_id": "KJV1769:2CH.32.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "He wrote also letters to rail on the LORD God of Israel, and to speak against him, saying, As the gods of the nations of ",
+          "kind": "text"
+        },
+        {
+          "text": "other",
+          "kind": "supplied"
+        },
+        {
+          "text": " lands have not delivered their people out of mine hand, so shall not the God of Hezekiah deliver his people out of mine hand.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2CH.32.18",
+      "edition_verse_id": "KJV1769:2CH.32.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "Then they cried with a loud voice in the Jews’ speech unto the people of Jerusalem that ",
+          "kind": "text"
+        },
+        {
+          "text": "were",
+          "kind": "supplied"
+        },
+        {
+          "text": " on the wall, to affright them, and to trouble them; that they might take the city.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2CH.32.19",
+      "edition_verse_id": "KJV1769:2CH.32.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "And they spake against the God of Jerusalem, as against the gods of the people of the earth, ",
+          "kind": "text"
+        },
+        {
+          "text": "which were",
+          "kind": "supplied"
+        },
+        {
+          "text": " the work of the hands of man.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2CH.32.20",
+      "edition_verse_id": "KJV1769:2CH.32.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "And for this ",
+          "kind": "text"
+        },
+        {
+          "text": "cause",
+          "kind": "supplied"
+        },
+        {
+          "text": " Hezekiah the king, and the prophet Isaiah the son of Amoz, prayed and cried to heaven.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2CH.32.21",
+      "edition_verse_id": "KJV1769:2CH.32.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "¶ And the LORD sent an angel, which cut off all the mighty men of valour, and the leaders and captains in the camp of the king of Assyria. So he returned with shame of face to his own land. And when he was come into the house of his god, they that came forth of his own bowels slew him there with the sword.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "2CH.32.22",
+      "edition_verse_id": "KJV1769:2CH.32.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "Thus the LORD saved Hezekiah and the inhabitants of Jerusalem from the hand of Sennacherib the king of Assyria, and from the hand of all ",
+          "kind": "text"
+        },
+        {
+          "text": "other",
+          "kind": "supplied"
+        },
+        {
+          "text": ", and guided them on every side.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2CH.32.23",
+      "edition_verse_id": "KJV1769:2CH.32.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "And many brought gifts unto the LORD to Jerusalem, and presents to Hezekiah king of Judah: so that he was magnified in the sight of all nations from thenceforth.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2CH.32.24",
+      "edition_verse_id": "KJV1769:2CH.32.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "¶ In those days Hezekiah was sick to the death, and prayed unto the LORD: and he spake unto him, and he gave him a sign.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "2CH.32.25",
+      "edition_verse_id": "KJV1769:2CH.32.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "But Hezekiah rendered not again according to the benefit ",
+          "kind": "text"
+        },
+        {
+          "text": "done",
+          "kind": "supplied"
+        },
+        {
+          "text": " unto him; for his heart was lifted up: therefore there was wrath upon him, and upon Judah and Jerusalem.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2CH.32.26",
+      "edition_verse_id": "KJV1769:2CH.32.26",
+      "verse": 26,
+      "spans": [
+        {
+          "text": "Notwithstanding Hezekiah humbled himself for the pride of his heart, ",
+          "kind": "text"
+        },
+        {
+          "text": "both",
+          "kind": "supplied"
+        },
+        {
+          "text": " he and the inhabitants of Jerusalem, so that the wrath of the LORD came not upon them in the days of Hezekiah.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2CH.32.27",
+      "edition_verse_id": "KJV1769:2CH.32.27",
+      "verse": 27,
+      "spans": [
+        {
+          "text": "¶ And Hezekiah had exceeding much riches and honour: and he made himself treasuries for silver, and for gold, and for precious stones, and for spices, and for shields, and for all manner of pleasant jewels;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "2CH.32.28",
+      "edition_verse_id": "KJV1769:2CH.32.28",
+      "verse": 28,
+      "spans": [
+        {
+          "text": "Storehouses also for the increase of corn, and wine, and oil; and stalls for all manner of beasts, and cotes for flocks.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2CH.32.29",
+      "edition_verse_id": "KJV1769:2CH.32.29",
+      "verse": 29,
+      "spans": [
+        {
+          "text": "Moreover he provided him cities, and possessions of flocks and herds in abundance: for God had given him substance very much.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2CH.32.30",
+      "edition_verse_id": "KJV1769:2CH.32.30",
+      "verse": 30,
+      "spans": [
+        {
+          "text": "This same Hezekiah also stopped the upper watercourse of Gihon, and brought it straight down to the west side of the city of David. And Hezekiah prospered in all his works.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2CH.32.31",
+      "edition_verse_id": "KJV1769:2CH.32.31",
+      "verse": 31,
+      "spans": [
+        {
+          "text": "¶ Howbeit in ",
+          "kind": "text"
+        },
+        {
+          "text": "the business of",
+          "kind": "supplied"
+        },
+        {
+          "text": " the ambassadors of the princes of Babylon, who sent unto him to enquire of the wonder that was ",
+          "kind": "text"
+        },
+        {
+          "text": "done",
+          "kind": "supplied"
+        },
+        {
+          "text": " in the land, God left him, to try him, that he might know all ",
+          "kind": "text"
+        },
+        {
+          "text": "that was",
+          "kind": "supplied"
+        },
+        {
+          "text": " in his heart.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "2CH.32.32",
+      "edition_verse_id": "KJV1769:2CH.32.32",
+      "verse": 32,
+      "spans": [
+        {
+          "text": "¶ Now the rest of the acts of Hezekiah, and his goodness, behold, they ",
+          "kind": "text"
+        },
+        {
+          "text": "are",
+          "kind": "supplied"
+        },
+        {
+          "text": " written in the vision of Isaiah the prophet, the son of Amoz, ",
+          "kind": "text"
+        },
+        {
+          "text": "and",
+          "kind": "supplied"
+        },
+        {
+          "text": " in the book of the kings of Judah and Israel.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "2CH.32.33",
+      "edition_verse_id": "KJV1769:2CH.32.33",
+      "verse": 33,
+      "spans": [
+        {
+          "text": "And Hezekiah slept with his fathers, and they buried him in the chiefest of the sepulchres of the sons of David: and all Judah and the inhabitants of Jerusalem did him honour at his death. And Manasseh his son reigned in his stead.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

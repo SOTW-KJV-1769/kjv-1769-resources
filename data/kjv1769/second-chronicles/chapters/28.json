@@ -1,0 +1,484 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "KJV1769",
+  "book_code": "2CH",
+  "chapter": 28,
+  "verses": [
+    {
+      "id": "2CH.28.1",
+      "edition_verse_id": "KJV1769:2CH.28.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "Ahaz ",
+          "kind": "text"
+        },
+        {
+          "text": "was",
+          "kind": "supplied"
+        },
+        {
+          "text": " twenty years old when he began to reign, and he reigned sixteen years in Jerusalem: but he did not ",
+          "kind": "text"
+        },
+        {
+          "text": "that which was",
+          "kind": "supplied"
+        },
+        {
+          "text": " right in the sight of the LORD, like David his father:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "2CH.28.2",
+      "edition_verse_id": "KJV1769:2CH.28.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "For he walked in the ways of the kings of Israel, and made also molten images for Baalim.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2CH.28.3",
+      "edition_verse_id": "KJV1769:2CH.28.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "Moreover he burnt incense in the valley of the son of Hinnom, and burnt his children in the fire, after the abominations of the heathen whom the LORD had cast out before the children of Israel.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2CH.28.4",
+      "edition_verse_id": "KJV1769:2CH.28.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "He sacrificed also and burnt incense in the high places, and on the hills, and under every green tree.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2CH.28.5",
+      "edition_verse_id": "KJV1769:2CH.28.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "Wherefore the LORD his God delivered him into the hand of the king of Syria; and they smote him, and carried away a great multitude of them captives, and brought ",
+          "kind": "text"
+        },
+        {
+          "text": "them",
+          "kind": "supplied"
+        },
+        {
+          "text": " to Damascus. And he was also delivered into the hand of the king of Israel, who smote him with a great slaughter.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2CH.28.6",
+      "edition_verse_id": "KJV1769:2CH.28.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "¶ For Pekah the son of Remaliah slew in Judah an hundred and twenty thousand in one day, ",
+          "kind": "text"
+        },
+        {
+          "text": "which were",
+          "kind": "supplied"
+        },
+        {
+          "text": " all valiant men; because they had forsaken the LORD God of their fathers.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "2CH.28.7",
+      "edition_verse_id": "KJV1769:2CH.28.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "And Zichri, a mighty man of Ephraim, slew Maaseiah the king’s son, and Azrikam the governor of the house, and Elkanah ",
+          "kind": "text"
+        },
+        {
+          "text": "that was",
+          "kind": "supplied"
+        },
+        {
+          "text": " next to the king.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2CH.28.8",
+      "edition_verse_id": "KJV1769:2CH.28.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "And the children of Israel carried away captive of their brethren two hundred thousand, women, sons, and daughters, and took also away much spoil from them, and brought the spoil to Samaria.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2CH.28.9",
+      "edition_verse_id": "KJV1769:2CH.28.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "But a prophet of the LORD was there, whose name ",
+          "kind": "text"
+        },
+        {
+          "text": "was",
+          "kind": "supplied"
+        },
+        {
+          "text": " Oded: and he went out before the host that came to Samaria, and said unto them, Behold, because the LORD God of your fathers was wroth with Judah, he hath delivered them into your hand, and ye have slain them in a rage ",
+          "kind": "text"
+        },
+        {
+          "text": "that",
+          "kind": "supplied"
+        },
+        {
+          "text": " reacheth up unto heaven.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2CH.28.10",
+      "edition_verse_id": "KJV1769:2CH.28.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "And now ye purpose to keep under the children of Judah and Jerusalem for bondmen and bondwomen unto you: ",
+          "kind": "text"
+        },
+        {
+          "text": "but are there",
+          "kind": "supplied"
+        },
+        {
+          "text": " not with you, even with you, sins against the LORD your God?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2CH.28.11",
+      "edition_verse_id": "KJV1769:2CH.28.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "Now hear me therefore, and deliver the captives again, which ye have taken captive of your brethren: for the fierce wrath of the LORD ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " upon you.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2CH.28.12",
+      "edition_verse_id": "KJV1769:2CH.28.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "Then certain of the heads of the children of Ephraim, Azariah the son of Johanan, Berechiah the son of Meshillemoth, and Jehizkiah the son of Shallum, and Amasa the son of Hadlai, stood up against them that came from the war,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2CH.28.13",
+      "edition_verse_id": "KJV1769:2CH.28.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "And said unto them, Ye shall not bring in the captives hither: for whereas we have offended against the LORD ",
+          "kind": "text"
+        },
+        {
+          "text": "already",
+          "kind": "supplied"
+        },
+        {
+          "text": ", ye intend to add ",
+          "kind": "text"
+        },
+        {
+          "text": "more",
+          "kind": "supplied"
+        },
+        {
+          "text": " to our sins and to our trespass: for our trespass is great, and ",
+          "kind": "text"
+        },
+        {
+          "text": "there is",
+          "kind": "supplied"
+        },
+        {
+          "text": " fierce wrath against Israel.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2CH.28.14",
+      "edition_verse_id": "KJV1769:2CH.28.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "So the armed men left the captives and the spoil before the princes and all the congregation.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2CH.28.15",
+      "edition_verse_id": "KJV1769:2CH.28.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "And the men which were expressed by name rose up, and took the captives, and with the spoil clothed all that were naked among them, and arrayed them, and shod them, and gave them to eat and to drink, and anointed them, and carried all the feeble of them upon asses, and brought them to Jericho, the city of palm trees, to their brethren: then they returned to Samaria.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2CH.28.16",
+      "edition_verse_id": "KJV1769:2CH.28.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "¶ At that time did king Ahaz send unto the kings of Assyria to help him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "2CH.28.17",
+      "edition_verse_id": "KJV1769:2CH.28.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "For again the Edomites had come and smitten Judah, and carried away captives.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2CH.28.18",
+      "edition_verse_id": "KJV1769:2CH.28.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "The Philistines also had invaded the cities of the low country, and of the south of Judah, and had taken Beth-shemesh, and Ajalon, and Gederoth, and Shocho with the villages thereof, and Timnah with the villages thereof, Gimzo also and the villages thereof: and they dwelt there.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2CH.28.19",
+      "edition_verse_id": "KJV1769:2CH.28.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "For the LORD brought Judah low because of Ahaz king of Israel; for he made Judah naked, and transgressed sore against the LORD.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2CH.28.20",
+      "edition_verse_id": "KJV1769:2CH.28.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "And Tilgath-pilneser king of Assyria came unto him, and distressed him, but strengthened him not.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2CH.28.21",
+      "edition_verse_id": "KJV1769:2CH.28.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "For Ahaz took away a portion ",
+          "kind": "text"
+        },
+        {
+          "text": "out",
+          "kind": "supplied"
+        },
+        {
+          "text": " of the house of the LORD, and ",
+          "kind": "text"
+        },
+        {
+          "text": "out",
+          "kind": "supplied"
+        },
+        {
+          "text": " of the house of the king, and of the princes, and gave ",
+          "kind": "text"
+        },
+        {
+          "text": "it",
+          "kind": "supplied"
+        },
+        {
+          "text": " unto the king of Assyria: but he helped him not.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2CH.28.22",
+      "edition_verse_id": "KJV1769:2CH.28.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "¶ And in the time of his distress did he trespass yet more against the LORD: this ",
+          "kind": "text"
+        },
+        {
+          "text": "is that",
+          "kind": "supplied"
+        },
+        {
+          "text": " king Ahaz.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "2CH.28.23",
+      "edition_verse_id": "KJV1769:2CH.28.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "For he sacrificed unto the gods of Damascus, which smote him: and he said, Because the gods of the kings of Syria help them, ",
+          "kind": "text"
+        },
+        {
+          "text": "therefore",
+          "kind": "supplied"
+        },
+        {
+          "text": " will I sacrifice to them, that they may help me. But they were the ruin of him, and of all Israel.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2CH.28.24",
+      "edition_verse_id": "KJV1769:2CH.28.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "And Ahaz gathered together the vessels of the house of God, and cut in pieces the vessels of the house of God, and shut up the doors of the house of the LORD, and he made him altars in every corner of Jerusalem.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2CH.28.25",
+      "edition_verse_id": "KJV1769:2CH.28.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "And in every several city of Judah he made high places to burn incense unto other gods, and provoked to anger the LORD God of his fathers.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2CH.28.26",
+      "edition_verse_id": "KJV1769:2CH.28.26",
+      "verse": 26,
+      "spans": [
+        {
+          "text": "¶ Now the rest of his acts and of all his ways, first and last, behold, they ",
+          "kind": "text"
+        },
+        {
+          "text": "are",
+          "kind": "supplied"
+        },
+        {
+          "text": " written in the book of the kings of Judah and Israel.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "2CH.28.27",
+      "edition_verse_id": "KJV1769:2CH.28.27",
+      "verse": 27,
+      "spans": [
+        {
+          "text": "And Ahaz slept with his fathers, and they buried him in the city, ",
+          "kind": "text"
+        },
+        {
+          "text": "even",
+          "kind": "supplied"
+        },
+        {
+          "text": " in Jerusalem: but they brought him not into the sepulchres of the kings of Israel: and Hezekiah his son reigned in his stead.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

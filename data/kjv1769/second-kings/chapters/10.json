@@ -1,0 +1,808 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "KJV1769",
+  "book_code": "2KI",
+  "chapter": 10,
+  "verses": [
+    {
+      "id": "2KI.10.1",
+      "edition_verse_id": "KJV1769:2KI.10.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "And Ahab had seventy sons in Samaria. And Jehu wrote letters, and sent to Samaria, unto the rulers of Jezreel, to the elders, and to them that brought up Ahab’s ",
+          "kind": "text"
+        },
+        {
+          "text": "children",
+          "kind": "supplied"
+        },
+        {
+          "text": ", saying,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "2KI.10.2",
+      "edition_verse_id": "KJV1769:2KI.10.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "Now as soon as this letter cometh to you, seeing your master’s sons ",
+          "kind": "text"
+        },
+        {
+          "text": "are",
+          "kind": "supplied"
+        },
+        {
+          "text": " with you, and ",
+          "kind": "text"
+        },
+        {
+          "text": "there are",
+          "kind": "supplied"
+        },
+        {
+          "text": " with you chariots and horses, a fenced city also, and armour;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2KI.10.3",
+      "edition_verse_id": "KJV1769:2KI.10.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "Look even out the best and meetest of your master’s sons, and set ",
+          "kind": "text"
+        },
+        {
+          "text": "him",
+          "kind": "supplied"
+        },
+        {
+          "text": " on his father’s throne, and fight for your master’s house.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2KI.10.4",
+      "edition_verse_id": "KJV1769:2KI.10.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "But they were exceedingly afraid, and said, Behold, two kings stood not before him: how then shall we stand?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2KI.10.5",
+      "edition_verse_id": "KJV1769:2KI.10.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "And he that ",
+          "kind": "text"
+        },
+        {
+          "text": "was",
+          "kind": "supplied"
+        },
+        {
+          "text": " over the house, and he that ",
+          "kind": "text"
+        },
+        {
+          "text": "was",
+          "kind": "supplied"
+        },
+        {
+          "text": " over the city, the elders also, and the bringers up ",
+          "kind": "text"
+        },
+        {
+          "text": "of the children",
+          "kind": "supplied"
+        },
+        {
+          "text": ", sent to Jehu, saying, We ",
+          "kind": "text"
+        },
+        {
+          "text": "are",
+          "kind": "supplied"
+        },
+        {
+          "text": " thy servants, and will do all that thou shalt bid us; we will not make any king: do thou ",
+          "kind": "text"
+        },
+        {
+          "text": "that which is",
+          "kind": "supplied"
+        },
+        {
+          "text": " good in thine eyes.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2KI.10.6",
+      "edition_verse_id": "KJV1769:2KI.10.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "Then he wrote a letter the second time to them, saying, If ye ",
+          "kind": "text"
+        },
+        {
+          "text": "be",
+          "kind": "supplied"
+        },
+        {
+          "text": " mine, and ",
+          "kind": "text"
+        },
+        {
+          "text": "if",
+          "kind": "supplied"
+        },
+        {
+          "text": " ye will hearken unto my voice, take ye the heads of the men your master’s sons, and come to me to Jezreel by to morrow this time. Now the king’s sons, ",
+          "kind": "text"
+        },
+        {
+          "text": "being",
+          "kind": "supplied"
+        },
+        {
+          "text": " seventy persons, ",
+          "kind": "text"
+        },
+        {
+          "text": "were",
+          "kind": "supplied"
+        },
+        {
+          "text": " with the great men of the city, which brought them up.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2KI.10.7",
+      "edition_verse_id": "KJV1769:2KI.10.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "And it came to pass, when the letter came to them, that they took the king’s sons, and slew seventy persons, and put their heads in baskets, and sent him ",
+          "kind": "text"
+        },
+        {
+          "text": "them",
+          "kind": "supplied"
+        },
+        {
+          "text": " to Jezreel.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2KI.10.8",
+      "edition_verse_id": "KJV1769:2KI.10.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "¶ And there came a messenger, and told him, saying, They have brought the heads of the king’s sons. And he said, Lay ye them in two heaps at the entering in of the gate until the morning.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "2KI.10.9",
+      "edition_verse_id": "KJV1769:2KI.10.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "And it came to pass in the morning, that he went out, and stood, and said to all the people, Ye ",
+          "kind": "text"
+        },
+        {
+          "text": "be",
+          "kind": "supplied"
+        },
+        {
+          "text": " righteous: behold, I conspired against my master, and slew him: but who slew all these?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2KI.10.10",
+      "edition_verse_id": "KJV1769:2KI.10.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "Know now that there shall fall unto the earth nothing of the word of the LORD, which the LORD spake concerning the house of Ahab: for the LORD hath done ",
+          "kind": "text"
+        },
+        {
+          "text": "that",
+          "kind": "supplied"
+        },
+        {
+          "text": " which he spake by his servant Elijah.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2KI.10.11",
+      "edition_verse_id": "KJV1769:2KI.10.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "So Jehu slew all that remained of the house of Ahab in Jezreel, and all his great men, and his kinsfolks, and his priests, until he left him none remaining.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2KI.10.12",
+      "edition_verse_id": "KJV1769:2KI.10.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "¶ And he arose and departed, and came to Samaria. ",
+          "kind": "text"
+        },
+        {
+          "text": "And",
+          "kind": "supplied"
+        },
+        {
+          "text": " as he ",
+          "kind": "text"
+        },
+        {
+          "text": "was",
+          "kind": "supplied"
+        },
+        {
+          "text": " at the shearing house in the way,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "2KI.10.13",
+      "edition_verse_id": "KJV1769:2KI.10.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "Jehu met with the brethren of Ahaziah king of Judah, and said, Who ",
+          "kind": "text"
+        },
+        {
+          "text": "are",
+          "kind": "supplied"
+        },
+        {
+          "text": " ye? And they answered, We ",
+          "kind": "text"
+        },
+        {
+          "text": "are",
+          "kind": "supplied"
+        },
+        {
+          "text": " the brethren of Ahaziah; and we go down to salute the children of the king and the children of the queen.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2KI.10.14",
+      "edition_verse_id": "KJV1769:2KI.10.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "And he said, Take them alive. And they took them alive, and slew them at the pit of the shearing house, ",
+          "kind": "text"
+        },
+        {
+          "text": "even",
+          "kind": "supplied"
+        },
+        {
+          "text": " two and forty men; neither left he any of them.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2KI.10.15",
+      "edition_verse_id": "KJV1769:2KI.10.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "¶ And when he was departed thence, he lighted on Jehonadab the son of Rechab ",
+          "kind": "text"
+        },
+        {
+          "text": "coming",
+          "kind": "supplied"
+        },
+        {
+          "text": " to meet him: and he saluted him, and said to him, Is thine heart right, as my heart ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " with thy heart? And Jehonadab answered, It is. If it be, give ",
+          "kind": "text"
+        },
+        {
+          "text": "me",
+          "kind": "supplied"
+        },
+        {
+          "text": " thine hand. And he gave ",
+          "kind": "text"
+        },
+        {
+          "text": "him",
+          "kind": "supplied"
+        },
+        {
+          "text": " his hand; and he took him up to him into the chariot.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "2KI.10.16",
+      "edition_verse_id": "KJV1769:2KI.10.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "And he said, Come with me, and see my zeal for the LORD. So they made him ride in his chariot.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2KI.10.17",
+      "edition_verse_id": "KJV1769:2KI.10.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "And when he came to Samaria, he slew all that remained unto Ahab in Samaria, till he had destroyed him, according to the saying of the LORD, which he spake to Elijah.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2KI.10.18",
+      "edition_verse_id": "KJV1769:2KI.10.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "¶ And Jehu gathered all the people together, and said unto them, Ahab served Baal a little; ",
+          "kind": "text"
+        },
+        {
+          "text": "but",
+          "kind": "supplied"
+        },
+        {
+          "text": " Jehu shall serve him much.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "2KI.10.19",
+      "edition_verse_id": "KJV1769:2KI.10.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "Now therefore call unto me all the prophets of Baal, all his servants, and all his priests; let none be wanting: for I have a great sacrifice ",
+          "kind": "text"
+        },
+        {
+          "text": "to do",
+          "kind": "supplied"
+        },
+        {
+          "text": " to Baal; whosoever shall be wanting, he shall not live. But Jehu did ",
+          "kind": "text"
+        },
+        {
+          "text": "it",
+          "kind": "supplied"
+        },
+        {
+          "text": " in subtilty, to the intent that he might destroy the worshippers of Baal.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2KI.10.20",
+      "edition_verse_id": "KJV1769:2KI.10.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "And Jehu said, Proclaim a solemn assembly for Baal. And they proclaimed ",
+          "kind": "text"
+        },
+        {
+          "text": "it",
+          "kind": "supplied"
+        },
+        {
+          "text": ".",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2KI.10.21",
+      "edition_verse_id": "KJV1769:2KI.10.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "And Jehu sent through all Israel: and all the worshippers of Baal came, so that there was not a man left that came not. And they came into the house of Baal; and the house of Baal was full from one end to another.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2KI.10.22",
+      "edition_verse_id": "KJV1769:2KI.10.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "And he said unto him that ",
+          "kind": "text"
+        },
+        {
+          "text": "was",
+          "kind": "supplied"
+        },
+        {
+          "text": " over the vestry, Bring forth vestments for all the worshippers of Baal. And he brought them forth vestments.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2KI.10.23",
+      "edition_verse_id": "KJV1769:2KI.10.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "And Jehu went, and Jehonadab the son of Rechab, into the house of Baal, and said unto the worshippers of Baal, Search, and look that there be here with you none of the servants of the LORD, but the worshippers of Baal only.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2KI.10.24",
+      "edition_verse_id": "KJV1769:2KI.10.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "And when they went in to offer sacrifices and burnt offerings, Jehu appointed fourscore men without, and said, ",
+          "kind": "text"
+        },
+        {
+          "text": "If",
+          "kind": "supplied"
+        },
+        {
+          "text": " any of the men whom I have brought into your hands escape, ",
+          "kind": "text"
+        },
+        {
+          "text": "he that letteth him go",
+          "kind": "supplied"
+        },
+        {
+          "text": ", his life ",
+          "kind": "text"
+        },
+        {
+          "text": "shall be",
+          "kind": "supplied"
+        },
+        {
+          "text": " for the life of him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2KI.10.25",
+      "edition_verse_id": "KJV1769:2KI.10.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "And it came to pass, as soon as he had made an end of offering the burnt offering, that Jehu said to the guard and to the captains, Go in, ",
+          "kind": "text"
+        },
+        {
+          "text": "and",
+          "kind": "supplied"
+        },
+        {
+          "text": " slay them; let none come forth. And they smote them with the edge of the sword; and the guard and the captains cast ",
+          "kind": "text"
+        },
+        {
+          "text": "them",
+          "kind": "supplied"
+        },
+        {
+          "text": " out, and went to the city of the house of Baal.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2KI.10.26",
+      "edition_verse_id": "KJV1769:2KI.10.26",
+      "verse": 26,
+      "spans": [
+        {
+          "text": "And they brought forth the images out of the house of Baal, and burned them.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2KI.10.27",
+      "edition_verse_id": "KJV1769:2KI.10.27",
+      "verse": 27,
+      "spans": [
+        {
+          "text": "And they brake down the image of Baal, and brake down the house of Baal, and made it a draught house unto this day.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2KI.10.28",
+      "edition_verse_id": "KJV1769:2KI.10.28",
+      "verse": 28,
+      "spans": [
+        {
+          "text": "Thus Jehu destroyed Baal out of Israel.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2KI.10.29",
+      "edition_verse_id": "KJV1769:2KI.10.29",
+      "verse": 29,
+      "spans": [
+        {
+          "text": "¶ Howbeit ",
+          "kind": "text"
+        },
+        {
+          "text": "from",
+          "kind": "supplied"
+        },
+        {
+          "text": " the sins of Jeroboam the son of Nebat, who made Israel to sin, Jehu departed not from after them, ",
+          "kind": "text"
+        },
+        {
+          "text": "to wit",
+          "kind": "supplied"
+        },
+        {
+          "text": ", the golden calves that ",
+          "kind": "text"
+        },
+        {
+          "text": "were",
+          "kind": "supplied"
+        },
+        {
+          "text": " in Beth-el, and that ",
+          "kind": "text"
+        },
+        {
+          "text": "were",
+          "kind": "supplied"
+        },
+        {
+          "text": " in Dan.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "2KI.10.30",
+      "edition_verse_id": "KJV1769:2KI.10.30",
+      "verse": 30,
+      "spans": [
+        {
+          "text": "And the LORD said unto Jehu, Because thou hast done well in executing ",
+          "kind": "text"
+        },
+        {
+          "text": "that which is",
+          "kind": "supplied"
+        },
+        {
+          "text": " right in mine eyes, ",
+          "kind": "text"
+        },
+        {
+          "text": "and",
+          "kind": "supplied"
+        },
+        {
+          "text": " hast done unto the house of Ahab according to all that ",
+          "kind": "text"
+        },
+        {
+          "text": "was",
+          "kind": "supplied"
+        },
+        {
+          "text": " in mine heart, thy children of the fourth ",
+          "kind": "text"
+        },
+        {
+          "text": "generation",
+          "kind": "supplied"
+        },
+        {
+          "text": " shall sit on the throne of Israel.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2KI.10.31",
+      "edition_verse_id": "KJV1769:2KI.10.31",
+      "verse": 31,
+      "spans": [
+        {
+          "text": "But Jehu took no heed to walk in the law of the LORD God of Israel with all his heart: for he departed not from the sins of Jeroboam, which made Israel to sin.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2KI.10.32",
+      "edition_verse_id": "KJV1769:2KI.10.32",
+      "verse": 32,
+      "spans": [
+        {
+          "text": "¶ In those days the LORD began to cut Israel short: and Hazael smote them in all the coasts of Israel;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "2KI.10.33",
+      "edition_verse_id": "KJV1769:2KI.10.33",
+      "verse": 33,
+      "spans": [
+        {
+          "text": "From Jordan eastward, all the land of Gilead, the Gadites, and the Reubenites, and the Manassites, from Aroer, which ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " by the river Arnon, even Gilead and Bashan.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2KI.10.34",
+      "edition_verse_id": "KJV1769:2KI.10.34",
+      "verse": 34,
+      "spans": [
+        {
+          "text": "Now the rest of the acts of Jehu, and all that he did, and all his might, ",
+          "kind": "text"
+        },
+        {
+          "text": "are",
+          "kind": "supplied"
+        },
+        {
+          "text": " they not written in the book of the chronicles of the kings of Israel?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2KI.10.35",
+      "edition_verse_id": "KJV1769:2KI.10.35",
+      "verse": 35,
+      "spans": [
+        {
+          "text": "And Jehu slept with his fathers: and they buried him in Samaria. And Jehoahaz his son reigned in his stead.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2KI.10.36",
+      "edition_verse_id": "KJV1769:2KI.10.36",
+      "verse": 36,
+      "spans": [
+        {
+          "text": "And the time that Jehu reigned over Israel in Samaria ",
+          "kind": "text"
+        },
+        {
+          "text": "was",
+          "kind": "supplied"
+        },
+        {
+          "text": " twenty and eight years.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

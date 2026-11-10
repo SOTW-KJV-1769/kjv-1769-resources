@@ -1,0 +1,392 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "KJV1769",
+  "book_code": "2PE",
+  "chapter": 2,
+  "verses": [
+    {
+      "id": "2PE.2.1",
+      "edition_verse_id": "KJV1769:2PE.2.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "But there were false prophets also among the people, even as there shall be false teachers among you, who privily shall bring in damnable heresies, even denying the Lord that bought them, and bring upon themselves swift destruction.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "2PE.2.2",
+      "edition_verse_id": "KJV1769:2PE.2.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "And many shall follow their pernicious ways; by reason of whom the way of truth shall be evil spoken of.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2PE.2.3",
+      "edition_verse_id": "KJV1769:2PE.2.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "And through covetousness shall they with feigned words make merchandise of you: whose judgment now of a long time lingereth not, and their damnation slumbereth not.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2PE.2.4",
+      "edition_verse_id": "KJV1769:2PE.2.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "For if God spared not the angels that sinned, but cast ",
+          "kind": "text"
+        },
+        {
+          "text": "them",
+          "kind": "supplied"
+        },
+        {
+          "text": " down to hell, and delivered ",
+          "kind": "text"
+        },
+        {
+          "text": "them",
+          "kind": "supplied"
+        },
+        {
+          "text": " into chains of darkness, to be reserved unto judgment;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2PE.2.5",
+      "edition_verse_id": "KJV1769:2PE.2.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "And spared not the old world, but saved Noah the eighth ",
+          "kind": "text"
+        },
+        {
+          "text": "person",
+          "kind": "supplied"
+        },
+        {
+          "text": ", a preacher of righteousness, bringing in the flood upon the world of the ungodly;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2PE.2.6",
+      "edition_verse_id": "KJV1769:2PE.2.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "And turning the cities of Sodom and Gomorrha into ashes condemned ",
+          "kind": "text"
+        },
+        {
+          "text": "them",
+          "kind": "supplied"
+        },
+        {
+          "text": " with an overthrow, making ",
+          "kind": "text"
+        },
+        {
+          "text": "them",
+          "kind": "supplied"
+        },
+        {
+          "text": " an ensample unto those that after should live ungodly;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2PE.2.7",
+      "edition_verse_id": "KJV1769:2PE.2.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "And delivered just Lot, vexed with the filthy conversation of the wicked:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2PE.2.8",
+      "edition_verse_id": "KJV1769:2PE.2.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "(For that righteous man dwelling among them, in seeing and hearing, vexed ",
+          "kind": "text"
+        },
+        {
+          "text": "his",
+          "kind": "supplied"
+        },
+        {
+          "text": " righteous soul from day to day with ",
+          "kind": "text"
+        },
+        {
+          "text": "their",
+          "kind": "supplied"
+        },
+        {
+          "text": " unlawful deeds;)",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2PE.2.9",
+      "edition_verse_id": "KJV1769:2PE.2.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "The Lord knoweth how to deliver the godly out of temptations, and to reserve the unjust unto the day of judgment to be punished:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2PE.2.10",
+      "edition_verse_id": "KJV1769:2PE.2.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "But chiefly them that walk after the flesh in the lust of uncleanness, and despise government. Presumptuous ",
+          "kind": "text"
+        },
+        {
+          "text": "are they",
+          "kind": "supplied"
+        },
+        {
+          "text": ", selfwilled, they are not afraid to speak evil of dignities.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2PE.2.11",
+      "edition_verse_id": "KJV1769:2PE.2.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "Whereas angels, which are greater in power and might, bring not railing accusation against them before the Lord.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2PE.2.12",
+      "edition_verse_id": "KJV1769:2PE.2.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "But these, as natural brute beasts, made to be taken and destroyed, speak evil of the things that they understand not; and shall utterly perish in their own corruption;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2PE.2.13",
+      "edition_verse_id": "KJV1769:2PE.2.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "And shall receive the reward of unrighteousness, ",
+          "kind": "text"
+        },
+        {
+          "text": "as",
+          "kind": "supplied"
+        },
+        {
+          "text": " they that count it pleasure to riot in the day time. Spots ",
+          "kind": "text"
+        },
+        {
+          "text": "they are",
+          "kind": "supplied"
+        },
+        {
+          "text": " and blemishes, sporting themselves with their own deceivings while they feast with you;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2PE.2.14",
+      "edition_verse_id": "KJV1769:2PE.2.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "Having eyes full of adultery, and that cannot cease from sin; beguiling unstable souls: an heart they have exercised with covetous practices; cursed children:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2PE.2.15",
+      "edition_verse_id": "KJV1769:2PE.2.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "Which have forsaken the right way, and are gone astray, following the way of Balaam ",
+          "kind": "text"
+        },
+        {
+          "text": "the son",
+          "kind": "supplied"
+        },
+        {
+          "text": " of Bosor, who loved the wages of unrighteousness;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2PE.2.16",
+      "edition_verse_id": "KJV1769:2PE.2.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "But was rebuked for his iniquity: the dumb ass speaking with man’s voice forbad the madness of the prophet.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2PE.2.17",
+      "edition_verse_id": "KJV1769:2PE.2.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "These are wells without water, clouds that are carried with a tempest; to whom the mist of darkness is reserved for ever.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2PE.2.18",
+      "edition_verse_id": "KJV1769:2PE.2.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "For when they speak great swelling ",
+          "kind": "text"
+        },
+        {
+          "text": "words",
+          "kind": "supplied"
+        },
+        {
+          "text": " of vanity, they allure through the lusts of the flesh, ",
+          "kind": "text"
+        },
+        {
+          "text": "through much",
+          "kind": "supplied"
+        },
+        {
+          "text": " wantonness, those that were clean escaped from them who live in error.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2PE.2.19",
+      "edition_verse_id": "KJV1769:2PE.2.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "While they promise them liberty, they themselves are the servants of corruption: for of whom a man is overcome, of the same is he brought in bondage.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2PE.2.20",
+      "edition_verse_id": "KJV1769:2PE.2.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "For if after they have escaped the pollutions of the world through the knowledge of the Lord and Saviour Jesus Christ, they are again entangled therein, and overcome, the latter end is worse with them than the beginning.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2PE.2.21",
+      "edition_verse_id": "KJV1769:2PE.2.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "For it had been better for them not to have known the way of righteousness, than, after they have known ",
+          "kind": "text"
+        },
+        {
+          "text": "it",
+          "kind": "supplied"
+        },
+        {
+          "text": ", to turn from the holy commandment delivered unto them.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2PE.2.22",
+      "edition_verse_id": "KJV1769:2PE.2.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "But it is happened unto them according to the true proverb, The dog ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " turned to his own vomit again; and the sow that was washed to her wallowing in the mire.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

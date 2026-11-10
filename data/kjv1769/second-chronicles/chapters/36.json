@@ -1,0 +1,436 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "KJV1769",
+  "book_code": "2CH",
+  "chapter": 36,
+  "verses": [
+    {
+      "id": "2CH.36.1",
+      "edition_verse_id": "KJV1769:2CH.36.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "Then the people of the land took Jehoahaz the son of Josiah, and made him king in his father’s stead in Jerusalem.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "2CH.36.2",
+      "edition_verse_id": "KJV1769:2CH.36.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "Jehoahaz ",
+          "kind": "text"
+        },
+        {
+          "text": "was",
+          "kind": "supplied"
+        },
+        {
+          "text": " twenty and three years old when he began to reign, and he reigned three months in Jerusalem.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2CH.36.3",
+      "edition_verse_id": "KJV1769:2CH.36.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "And the king of Egypt put him down at Jerusalem, and condemned the land in an hundred talents of silver and a talent of gold.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2CH.36.4",
+      "edition_verse_id": "KJV1769:2CH.36.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "And the king of Egypt made Eliakim his brother king over Judah and Jerusalem, and turned his name to Jehoiakim. And Necho took Jehoahaz his brother, and carried him to Egypt.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2CH.36.5",
+      "edition_verse_id": "KJV1769:2CH.36.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "¶ Jehoiakim ",
+          "kind": "text"
+        },
+        {
+          "text": "was",
+          "kind": "supplied"
+        },
+        {
+          "text": " twenty and five years old when he began to reign, and he reigned eleven years in Jerusalem: and he did ",
+          "kind": "text"
+        },
+        {
+          "text": "that which was",
+          "kind": "supplied"
+        },
+        {
+          "text": " evil in the sight of the LORD his God.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "2CH.36.6",
+      "edition_verse_id": "KJV1769:2CH.36.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "Against him came up Nebuchadnezzar king of Babylon, and bound him in fetters, to carry him to Babylon.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2CH.36.7",
+      "edition_verse_id": "KJV1769:2CH.36.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "Nebuchadnezzar also carried of the vessels of the house of the LORD to Babylon, and put them in his temple at Babylon.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2CH.36.8",
+      "edition_verse_id": "KJV1769:2CH.36.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "Now the rest of the acts of Jehoiakim, and his abominations which he did, and that which was found in him, behold, they ",
+          "kind": "text"
+        },
+        {
+          "text": "are",
+          "kind": "supplied"
+        },
+        {
+          "text": " written in the book of the kings of Israel and Judah: and Jehoiachin his son reigned in his stead.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2CH.36.9",
+      "edition_verse_id": "KJV1769:2CH.36.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "¶ Jehoiachin ",
+          "kind": "text"
+        },
+        {
+          "text": "was",
+          "kind": "supplied"
+        },
+        {
+          "text": " eight years old when he began to reign, and he reigned three months and ten days in Jerusalem: and he did ",
+          "kind": "text"
+        },
+        {
+          "text": "that which was",
+          "kind": "supplied"
+        },
+        {
+          "text": " evil in the sight of the LORD.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "2CH.36.10",
+      "edition_verse_id": "KJV1769:2CH.36.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "And when the year was expired, king Nebuchadnezzar sent, and brought him to Babylon, with the goodly vessels of the house of the LORD, and made Zedekiah his brother king over Judah and Jerusalem.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2CH.36.11",
+      "edition_verse_id": "KJV1769:2CH.36.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "¶ Zedekiah ",
+          "kind": "text"
+        },
+        {
+          "text": "was",
+          "kind": "supplied"
+        },
+        {
+          "text": " one and twenty years old when he began to reign, and reigned eleven years in Jerusalem.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "2CH.36.12",
+      "edition_verse_id": "KJV1769:2CH.36.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "And he did ",
+          "kind": "text"
+        },
+        {
+          "text": "that which was",
+          "kind": "supplied"
+        },
+        {
+          "text": " evil in the sight of the LORD his God, ",
+          "kind": "text"
+        },
+        {
+          "text": "and",
+          "kind": "supplied"
+        },
+        {
+          "text": " humbled not himself before Jeremiah the prophet ",
+          "kind": "text"
+        },
+        {
+          "text": "speaking",
+          "kind": "supplied"
+        },
+        {
+          "text": " from the mouth of the LORD.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2CH.36.13",
+      "edition_verse_id": "KJV1769:2CH.36.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "And he also rebelled against king Nebuchadnezzar, who had made him swear by God: but he stiffened his neck, and hardened his heart from turning unto the LORD God of Israel.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2CH.36.14",
+      "edition_verse_id": "KJV1769:2CH.36.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "¶ Moreover all the chief of the priests, and the people, transgressed very much after all the abominations of the heathen; and polluted the house of the LORD which he had hallowed in Jerusalem.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "2CH.36.15",
+      "edition_verse_id": "KJV1769:2CH.36.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "And the LORD God of their fathers sent to them by his messengers, rising up betimes, and sending; because he had compassion on his people, and on his dwelling place:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2CH.36.16",
+      "edition_verse_id": "KJV1769:2CH.36.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "But they mocked the messengers of God, and despised his words, and misused his prophets, until the wrath of the LORD arose against his people, till ",
+          "kind": "text"
+        },
+        {
+          "text": "there was",
+          "kind": "supplied"
+        },
+        {
+          "text": " no remedy.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2CH.36.17",
+      "edition_verse_id": "KJV1769:2CH.36.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "Therefore he brought upon them the king of the Chaldees, who slew their young men with the sword in the house of their sanctuary, and had no compassion upon young man or maiden, old man, or him that stooped for age: he gave ",
+          "kind": "text"
+        },
+        {
+          "text": "them",
+          "kind": "supplied"
+        },
+        {
+          "text": " all into his hand.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2CH.36.18",
+      "edition_verse_id": "KJV1769:2CH.36.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "And all the vessels of the house of God, great and small, and the treasures of the house of the LORD, and the treasures of the king, and of his princes; all ",
+          "kind": "text"
+        },
+        {
+          "text": "these",
+          "kind": "supplied"
+        },
+        {
+          "text": " he brought to Babylon.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2CH.36.19",
+      "edition_verse_id": "KJV1769:2CH.36.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "And they burnt the house of God, and brake down the wall of Jerusalem, and burnt all the palaces thereof with fire, and destroyed all the goodly vessels thereof.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2CH.36.20",
+      "edition_verse_id": "KJV1769:2CH.36.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "And them that had escaped from the sword carried he away to Babylon; where they were servants to him and his sons until the reign of the kingdom of Persia:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2CH.36.21",
+      "edition_verse_id": "KJV1769:2CH.36.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "To fulfil the word of the LORD by the mouth of Jeremiah, until the land had enjoyed her sabbaths: ",
+          "kind": "text"
+        },
+        {
+          "text": "for",
+          "kind": "supplied"
+        },
+        {
+          "text": " as long as she lay desolate she kept sabbath, to fulfil threescore and ten years.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2CH.36.22",
+      "edition_verse_id": "KJV1769:2CH.36.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "¶ Now in the first year of Cyrus king of Persia, that the word of the LORD ",
+          "kind": "text"
+        },
+        {
+          "text": "spoken",
+          "kind": "supplied"
+        },
+        {
+          "text": " by the mouth of Jeremiah might be accomplished, the LORD stirred up the spirit of Cyrus king of Persia, that he made a proclamation throughout all his kingdom, and ",
+          "kind": "text"
+        },
+        {
+          "text": "put it",
+          "kind": "supplied"
+        },
+        {
+          "text": " also in writing, saying,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "2CH.36.23",
+      "edition_verse_id": "KJV1769:2CH.36.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "Thus saith Cyrus king of Persia, All the kingdoms of the earth hath the LORD God of heaven given me; and he hath charged me to build him an house in Jerusalem, which ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " in Judah. Who ",
+          "kind": "text"
+        },
+        {
+          "text": "is there",
+          "kind": "supplied"
+        },
+        {
+          "text": " among you of all his people? The LORD his God ",
+          "kind": "text"
+        },
+        {
+          "text": "be",
+          "kind": "supplied"
+        },
+        {
+          "text": " with him, and let him go up.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

@@ -1,0 +1,536 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "KJV1769",
+  "book_code": "2SA",
+  "chapter": 2,
+  "verses": [
+    {
+      "id": "2SA.2.1",
+      "edition_verse_id": "KJV1769:2SA.2.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "And it came to pass after this, that David enquired of the LORD, saying, Shall I go up into any of the cities of Judah? And the LORD said unto him, Go up. And David said, Whither shall I go up? And he said, Unto Hebron.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "2SA.2.2",
+      "edition_verse_id": "KJV1769:2SA.2.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "So David went up thither, and his two wives also, Ahinoam the Jezreelitess, and Abigail Nabal’s wife the Carmelite.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2SA.2.3",
+      "edition_verse_id": "KJV1769:2SA.2.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "And his men that ",
+          "kind": "text"
+        },
+        {
+          "text": "were",
+          "kind": "supplied"
+        },
+        {
+          "text": " with him did David bring up, every man with his household: and they dwelt in the cities of Hebron.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2SA.2.4",
+      "edition_verse_id": "KJV1769:2SA.2.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "And the men of Judah came, and there they anointed David king over the house of Judah. And they told David, saying, ",
+          "kind": "text"
+        },
+        {
+          "text": "That",
+          "kind": "supplied"
+        },
+        {
+          "text": " the men of Jabesh-gilead ",
+          "kind": "text"
+        },
+        {
+          "text": "were they",
+          "kind": "supplied"
+        },
+        {
+          "text": " that buried Saul.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2SA.2.5",
+      "edition_verse_id": "KJV1769:2SA.2.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "¶ And David sent messengers unto the men of Jabesh-gilead, and said unto them, Blessed ",
+          "kind": "text"
+        },
+        {
+          "text": "be",
+          "kind": "supplied"
+        },
+        {
+          "text": " ye of the LORD, that ye have shewed this kindness unto your lord, ",
+          "kind": "text"
+        },
+        {
+          "text": "even",
+          "kind": "supplied"
+        },
+        {
+          "text": " unto Saul, and have buried him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "2SA.2.6",
+      "edition_verse_id": "KJV1769:2SA.2.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "And now the LORD shew kindness and truth unto you: and I also will requite you this kindness, because ye have done this thing.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2SA.2.7",
+      "edition_verse_id": "KJV1769:2SA.2.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "Therefore now let your hands be strengthened, and be ye valiant: for your master Saul is dead, and also the house of Judah have anointed me king over them.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2SA.2.8",
+      "edition_verse_id": "KJV1769:2SA.2.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "¶ But Abner the son of Ner, captain of Saul’s host, took Ish-bosheth the son of Saul, and brought him over to Mahanaim;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "2SA.2.9",
+      "edition_verse_id": "KJV1769:2SA.2.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "And made him king over Gilead, and over the Ashurites, and over Jezreel, and over Ephraim, and over Benjamin, and over all Israel.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2SA.2.10",
+      "edition_verse_id": "KJV1769:2SA.2.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "Ish-bosheth Saul’s son ",
+          "kind": "text"
+        },
+        {
+          "text": "was",
+          "kind": "supplied"
+        },
+        {
+          "text": " forty years old when he began to reign over Israel, and reigned two years. But the house of Judah followed David.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2SA.2.11",
+      "edition_verse_id": "KJV1769:2SA.2.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "And the time that David was king in Hebron over the house of Judah was seven years and six months.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2SA.2.12",
+      "edition_verse_id": "KJV1769:2SA.2.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "¶ And Abner the son of Ner, and the servants of Ish-bosheth the son of Saul, went out from Mahanaim to Gibeon.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "2SA.2.13",
+      "edition_verse_id": "KJV1769:2SA.2.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "And Joab the son of Zeruiah, and the servants of David, went out, and met together by the pool of Gibeon: and they sat down, the one on the one side of the pool, and the other on the other side of the pool.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2SA.2.14",
+      "edition_verse_id": "KJV1769:2SA.2.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "And Abner said to Joab, Let the young men now arise, and play before us. And Joab said, Let them arise.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2SA.2.15",
+      "edition_verse_id": "KJV1769:2SA.2.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "Then there arose and went over by number twelve of Benjamin, which ",
+          "kind": "text"
+        },
+        {
+          "text": "pertained",
+          "kind": "supplied"
+        },
+        {
+          "text": " to Ish-bosheth the son of Saul, and twelve of the servants of David.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2SA.2.16",
+      "edition_verse_id": "KJV1769:2SA.2.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "And they caught every one his fellow by the head, and ",
+          "kind": "text"
+        },
+        {
+          "text": "thrust",
+          "kind": "supplied"
+        },
+        {
+          "text": " his sword in his fellow’s side; so they fell down together: wherefore that place was called Helkath-hazzurim, which ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " in Gibeon.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2SA.2.17",
+      "edition_verse_id": "KJV1769:2SA.2.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "And there was a very sore battle that day; and Abner was beaten, and the men of Israel, before the servants of David.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2SA.2.18",
+      "edition_verse_id": "KJV1769:2SA.2.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "¶ And there were three sons of Zeruiah there, Joab, and Abishai, and Asahel: and Asahel ",
+          "kind": "text"
+        },
+        {
+          "text": "was as",
+          "kind": "supplied"
+        },
+        {
+          "text": " light of foot as a wild roe.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "2SA.2.19",
+      "edition_verse_id": "KJV1769:2SA.2.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "And Asahel pursued after Abner; and in going he turned not to the right hand nor to the left from following Abner.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2SA.2.20",
+      "edition_verse_id": "KJV1769:2SA.2.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "Then Abner looked behind him, and said, ",
+          "kind": "text"
+        },
+        {
+          "text": "Art",
+          "kind": "supplied"
+        },
+        {
+          "text": " thou Asahel? And he answered, I ",
+          "kind": "text"
+        },
+        {
+          "text": "am",
+          "kind": "supplied"
+        },
+        {
+          "text": ".",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2SA.2.21",
+      "edition_verse_id": "KJV1769:2SA.2.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "And Abner said to him, Turn thee aside to thy right hand or to thy left, and lay thee hold on one of the young men, and take thee his armour. But Asahel would not turn aside from following of him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2SA.2.22",
+      "edition_verse_id": "KJV1769:2SA.2.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "And Abner said again to Asahel, Turn thee aside from following me: wherefore should I smite thee to the ground? how then should I hold up my face to Joab thy brother?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2SA.2.23",
+      "edition_verse_id": "KJV1769:2SA.2.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "Howbeit he refused to turn aside: wherefore Abner with the hinder end of the spear smote him under the fifth ",
+          "kind": "text"
+        },
+        {
+          "text": "rib",
+          "kind": "supplied"
+        },
+        {
+          "text": ", that the spear came out behind him; and he fell down there, and died in the same place: and it came to pass, ",
+          "kind": "text"
+        },
+        {
+          "text": "that",
+          "kind": "supplied"
+        },
+        {
+          "text": " as many as came to the place where Asahel fell down and died stood still.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2SA.2.24",
+      "edition_verse_id": "KJV1769:2SA.2.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "Joab also and Abishai pursued after Abner: and the sun went down when they were come to the hill of Ammah, that ",
+          "kind": "text"
+        },
+        {
+          "text": "lieth",
+          "kind": "supplied"
+        },
+        {
+          "text": " before Giah by the way of the wilderness of Gibeon.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2SA.2.25",
+      "edition_verse_id": "KJV1769:2SA.2.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "¶ And the children of Benjamin gathered themselves together after Abner, and became one troop, and stood on the top of an hill.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "2SA.2.26",
+      "edition_verse_id": "KJV1769:2SA.2.26",
+      "verse": 26,
+      "spans": [
+        {
+          "text": "Then Abner called to Joab, and said, Shall the sword devour for ever? knowest thou not that it will be bitterness in the latter end? how long shall it be then, ere thou bid the people return from following their brethren?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2SA.2.27",
+      "edition_verse_id": "KJV1769:2SA.2.27",
+      "verse": 27,
+      "spans": [
+        {
+          "text": "And Joab said, ",
+          "kind": "text"
+        },
+        {
+          "text": "As",
+          "kind": "supplied"
+        },
+        {
+          "text": " God liveth, unless thou hadst spoken, surely then in the morning the people had gone up every one from following his brother.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2SA.2.28",
+      "edition_verse_id": "KJV1769:2SA.2.28",
+      "verse": 28,
+      "spans": [
+        {
+          "text": "So Joab blew a trumpet, and all the people stood still, and pursued after Israel no more, neither fought they any more.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2SA.2.29",
+      "edition_verse_id": "KJV1769:2SA.2.29",
+      "verse": 29,
+      "spans": [
+        {
+          "text": "And Abner and his men walked all that night through the plain, and passed over Jordan, and went through all Bithron, and they came to Mahanaim.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2SA.2.30",
+      "edition_verse_id": "KJV1769:2SA.2.30",
+      "verse": 30,
+      "spans": [
+        {
+          "text": "And Joab returned from following Abner: and when he had gathered all the people together, there lacked of David’s servants nineteen men and Asahel.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2SA.2.31",
+      "edition_verse_id": "KJV1769:2SA.2.31",
+      "verse": 31,
+      "spans": [
+        {
+          "text": "But the servants of David had smitten of Benjamin, and of Abner’s men, ",
+          "kind": "text"
+        },
+        {
+          "text": "so that",
+          "kind": "supplied"
+        },
+        {
+          "text": " three hundred and threescore men died.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2SA.2.32",
+      "edition_verse_id": "KJV1769:2SA.2.32",
+      "verse": 32,
+      "spans": [
+        {
+          "text": "¶ And they took up Asahel, and buried him in the sepulchre of his father, which ",
+          "kind": "text"
+        },
+        {
+          "text": "was in",
+          "kind": "supplied"
+        },
+        {
+          "text": " Beth-lehem. And Joab and his men went all night, and they came to Hebron at break of day.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    }
+  ]
+}

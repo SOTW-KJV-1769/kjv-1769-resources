@@ -1,0 +1,536 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "KJV1769",
+  "book_code": "2CO",
+  "chapter": 8,
+  "verses": [
+    {
+      "id": "2CO.8.1",
+      "edition_verse_id": "KJV1769:2CO.8.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "Moreover, brethren, we do you to wit of the grace of God bestowed on the churches of Macedonia;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "2CO.8.2",
+      "edition_verse_id": "KJV1769:2CO.8.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "How that in a great trial of affliction the abundance of their joy and their deep poverty abounded unto the riches of their liberality.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2CO.8.3",
+      "edition_verse_id": "KJV1769:2CO.8.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "For to ",
+          "kind": "text"
+        },
+        {
+          "text": "their",
+          "kind": "supplied"
+        },
+        {
+          "text": " power, I bear record, yea, and beyond ",
+          "kind": "text"
+        },
+        {
+          "text": "their",
+          "kind": "supplied"
+        },
+        {
+          "text": " power ",
+          "kind": "text"
+        },
+        {
+          "text": "they were",
+          "kind": "supplied"
+        },
+        {
+          "text": " willing of themselves;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2CO.8.4",
+      "edition_verse_id": "KJV1769:2CO.8.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "Praying us with much intreaty that we would receive the gift, and ",
+          "kind": "text"
+        },
+        {
+          "text": "take upon us",
+          "kind": "supplied"
+        },
+        {
+          "text": " the fellowship of the ministering to the saints.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2CO.8.5",
+      "edition_verse_id": "KJV1769:2CO.8.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "And ",
+          "kind": "text"
+        },
+        {
+          "text": "this they did",
+          "kind": "supplied"
+        },
+        {
+          "text": ", not as we hoped, but first gave their own selves to the Lord, and unto us by the will of God.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2CO.8.6",
+      "edition_verse_id": "KJV1769:2CO.8.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "Insomuch that we desired Titus, that as he had begun, so he would also finish in you the same grace also.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2CO.8.7",
+      "edition_verse_id": "KJV1769:2CO.8.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "Therefore, as ye abound in every ",
+          "kind": "text"
+        },
+        {
+          "text": "thing, in",
+          "kind": "supplied"
+        },
+        {
+          "text": " faith, and utterance, and knowledge, and ",
+          "kind": "text"
+        },
+        {
+          "text": "in",
+          "kind": "supplied"
+        },
+        {
+          "text": " all diligence, and ",
+          "kind": "text"
+        },
+        {
+          "text": "in",
+          "kind": "supplied"
+        },
+        {
+          "text": " your love to us, ",
+          "kind": "text"
+        },
+        {
+          "text": "see",
+          "kind": "supplied"
+        },
+        {
+          "text": " that ye abound in this grace also.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2CO.8.8",
+      "edition_verse_id": "KJV1769:2CO.8.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "I speak not by commandment, but by occasion of the forwardness of others, and to prove the sincerity of your love.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2CO.8.9",
+      "edition_verse_id": "KJV1769:2CO.8.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "For ye know the grace of our Lord Jesus Christ, that, though he was rich, yet for your sakes he became poor, that ye through his poverty might be rich.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2CO.8.10",
+      "edition_verse_id": "KJV1769:2CO.8.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "And herein I give ",
+          "kind": "text"
+        },
+        {
+          "text": "my",
+          "kind": "supplied"
+        },
+        {
+          "text": " advice: for this is expedient for you, who have begun before, not only to do, but also to be forward a year ago.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2CO.8.11",
+      "edition_verse_id": "KJV1769:2CO.8.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "Now therefore perform the doing ",
+          "kind": "text"
+        },
+        {
+          "text": "of it",
+          "kind": "supplied"
+        },
+        {
+          "text": "; that as ",
+          "kind": "text"
+        },
+        {
+          "text": "there was",
+          "kind": "supplied"
+        },
+        {
+          "text": " a readiness to will, so ",
+          "kind": "text"
+        },
+        {
+          "text": "there may be",
+          "kind": "supplied"
+        },
+        {
+          "text": " a performance also out of that which ye have.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2CO.8.12",
+      "edition_verse_id": "KJV1769:2CO.8.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "For if there be first a willing mind, ",
+          "kind": "text"
+        },
+        {
+          "text": "it is",
+          "kind": "supplied"
+        },
+        {
+          "text": " accepted according to that a man hath, ",
+          "kind": "text"
+        },
+        {
+          "text": "and",
+          "kind": "supplied"
+        },
+        {
+          "text": " not according to that he hath not.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2CO.8.13",
+      "edition_verse_id": "KJV1769:2CO.8.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "For ",
+          "kind": "text"
+        },
+        {
+          "text": "I mean",
+          "kind": "supplied"
+        },
+        {
+          "text": " not that other men be eased, and ye burdened:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2CO.8.14",
+      "edition_verse_id": "KJV1769:2CO.8.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "But by an equality, ",
+          "kind": "text"
+        },
+        {
+          "text": "that",
+          "kind": "supplied"
+        },
+        {
+          "text": " now at this time your abundance ",
+          "kind": "text"
+        },
+        {
+          "text": "may be a supply",
+          "kind": "supplied"
+        },
+        {
+          "text": " for their want, that their abundance also may be ",
+          "kind": "text"
+        },
+        {
+          "text": "a supply",
+          "kind": "supplied"
+        },
+        {
+          "text": " for your want: that there may be equality:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2CO.8.15",
+      "edition_verse_id": "KJV1769:2CO.8.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "As it is written, He that ",
+          "kind": "text"
+        },
+        {
+          "text": "had gathered",
+          "kind": "supplied"
+        },
+        {
+          "text": " much had nothing over; and he that ",
+          "kind": "text"
+        },
+        {
+          "text": "had gathered",
+          "kind": "supplied"
+        },
+        {
+          "text": " little had no lack.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2CO.8.16",
+      "edition_verse_id": "KJV1769:2CO.8.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "But thanks ",
+          "kind": "text"
+        },
+        {
+          "text": "be",
+          "kind": "supplied"
+        },
+        {
+          "text": " to God, which put the same earnest care into the heart of Titus for you.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2CO.8.17",
+      "edition_verse_id": "KJV1769:2CO.8.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "For indeed he accepted the exhortation; but being more forward, of his own accord he went unto you.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2CO.8.18",
+      "edition_verse_id": "KJV1769:2CO.8.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "And we have sent with him the brother, whose praise ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " in the gospel throughout all the churches;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2CO.8.19",
+      "edition_verse_id": "KJV1769:2CO.8.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "And not ",
+          "kind": "text"
+        },
+        {
+          "text": "that",
+          "kind": "supplied"
+        },
+        {
+          "text": " only, but who was also chosen of the churches to travel with us with this grace, which is administered by us to the glory of the same Lord, and ",
+          "kind": "text"
+        },
+        {
+          "text": "declaration of",
+          "kind": "supplied"
+        },
+        {
+          "text": " your ready mind:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2CO.8.20",
+      "edition_verse_id": "KJV1769:2CO.8.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "Avoiding this, that no man should blame us in this abundance which is administered by us:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2CO.8.21",
+      "edition_verse_id": "KJV1769:2CO.8.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "Providing for honest things, not only in the sight of the Lord, but also in the sight of men.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2CO.8.22",
+      "edition_verse_id": "KJV1769:2CO.8.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "And we have sent with them our brother, whom we have oftentimes proved diligent in many things, but now much more diligent, upon the great confidence which ",
+          "kind": "text"
+        },
+        {
+          "text": "I have",
+          "kind": "supplied"
+        },
+        {
+          "text": " in you.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2CO.8.23",
+      "edition_verse_id": "KJV1769:2CO.8.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "Whether ",
+          "kind": "text"
+        },
+        {
+          "text": "any do enquire",
+          "kind": "supplied"
+        },
+        {
+          "text": " of Titus, ",
+          "kind": "text"
+        },
+        {
+          "text": "he is",
+          "kind": "supplied"
+        },
+        {
+          "text": " my partner and fellowhelper concerning you: or our brethren ",
+          "kind": "text"
+        },
+        {
+          "text": "be enquired of, they are",
+          "kind": "supplied"
+        },
+        {
+          "text": " the messengers of the churches, ",
+          "kind": "text"
+        },
+        {
+          "text": "and",
+          "kind": "supplied"
+        },
+        {
+          "text": " the glory of Christ.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2CO.8.24",
+      "edition_verse_id": "KJV1769:2CO.8.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "Wherefore shew ye to them, and before the churches, the proof of your love, and of our boasting on your behalf.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

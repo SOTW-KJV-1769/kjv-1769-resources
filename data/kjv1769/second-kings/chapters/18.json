@@ -1,0 +1,748 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "KJV1769",
+  "book_code": "2KI",
+  "chapter": 18,
+  "verses": [
+    {
+      "id": "2KI.18.1",
+      "edition_verse_id": "KJV1769:2KI.18.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "Now it came to pass in the third year of Hoshea son of Elah king of Israel, ",
+          "kind": "text"
+        },
+        {
+          "text": "that",
+          "kind": "supplied"
+        },
+        {
+          "text": " Hezekiah the son of Ahaz king of Judah began to reign.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "2KI.18.2",
+      "edition_verse_id": "KJV1769:2KI.18.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "Twenty and five years old was he when he began to reign; and he reigned twenty and nine years in Jerusalem. His mother’s name also ",
+          "kind": "text"
+        },
+        {
+          "text": "was",
+          "kind": "supplied"
+        },
+        {
+          "text": " Abi, the daughter of Zachariah.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2KI.18.3",
+      "edition_verse_id": "KJV1769:2KI.18.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "And he did ",
+          "kind": "text"
+        },
+        {
+          "text": "that which was",
+          "kind": "supplied"
+        },
+        {
+          "text": " right in the sight of the LORD, according to all that David his father did.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2KI.18.4",
+      "edition_verse_id": "KJV1769:2KI.18.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "¶ He removed the high places, and brake the images, and cut down the groves, and brake in pieces the brasen serpent that Moses had made: for unto those days the children of Israel did burn incense to it: and he called it Nehushtan.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "2KI.18.5",
+      "edition_verse_id": "KJV1769:2KI.18.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "He trusted in the LORD God of Israel; so that after him was none like him among all the kings of Judah, nor ",
+          "kind": "text"
+        },
+        {
+          "text": "any",
+          "kind": "supplied"
+        },
+        {
+          "text": " that were before him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2KI.18.6",
+      "edition_verse_id": "KJV1769:2KI.18.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "For he clave to the LORD, ",
+          "kind": "text"
+        },
+        {
+          "text": "and",
+          "kind": "supplied"
+        },
+        {
+          "text": " departed not from following him, but kept his commandments, which the LORD commanded Moses.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2KI.18.7",
+      "edition_verse_id": "KJV1769:2KI.18.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "And the LORD was with him; ",
+          "kind": "text"
+        },
+        {
+          "text": "and",
+          "kind": "supplied"
+        },
+        {
+          "text": " he prospered whithersoever he went forth: and he rebelled against the king of Assyria, and served him not.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2KI.18.8",
+      "edition_verse_id": "KJV1769:2KI.18.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "He smote the Philistines, ",
+          "kind": "text"
+        },
+        {
+          "text": "even",
+          "kind": "supplied"
+        },
+        {
+          "text": " unto Gaza, and the borders thereof, from the tower of the watchmen to the fenced city.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2KI.18.9",
+      "edition_verse_id": "KJV1769:2KI.18.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "¶ And it came to pass in the fourth year of king Hezekiah, which ",
+          "kind": "text"
+        },
+        {
+          "text": "was",
+          "kind": "supplied"
+        },
+        {
+          "text": " the seventh year of Hoshea son of Elah king of Israel, ",
+          "kind": "text"
+        },
+        {
+          "text": "that",
+          "kind": "supplied"
+        },
+        {
+          "text": " Shalmaneser king of Assyria came up against Samaria, and besieged it.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "2KI.18.10",
+      "edition_verse_id": "KJV1769:2KI.18.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "And at the end of three years they took it: ",
+          "kind": "text"
+        },
+        {
+          "text": "even",
+          "kind": "supplied"
+        },
+        {
+          "text": " in the sixth year of Hezekiah, that ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " the ninth year of Hoshea king of Israel, Samaria was taken.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2KI.18.11",
+      "edition_verse_id": "KJV1769:2KI.18.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "And the king of Assyria did carry away Israel unto Assyria, and put them in Halah and in Habor ",
+          "kind": "text"
+        },
+        {
+          "text": "by",
+          "kind": "supplied"
+        },
+        {
+          "text": " the river of Gozan, and in the cities of the Medes:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2KI.18.12",
+      "edition_verse_id": "KJV1769:2KI.18.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "Because they obeyed not the voice of the LORD their God, but transgressed his covenant, ",
+          "kind": "text"
+        },
+        {
+          "text": "and",
+          "kind": "supplied"
+        },
+        {
+          "text": " all that Moses the servant of the LORD commanded, and would not hear ",
+          "kind": "text"
+        },
+        {
+          "text": "them",
+          "kind": "supplied"
+        },
+        {
+          "text": ", nor do ",
+          "kind": "text"
+        },
+        {
+          "text": "them",
+          "kind": "supplied"
+        },
+        {
+          "text": ".",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2KI.18.13",
+      "edition_verse_id": "KJV1769:2KI.18.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "¶ Now in the fourteenth year of king Hezekiah did Sennacherib king of Assyria come up against all the fenced cities of Judah, and took them.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "2KI.18.14",
+      "edition_verse_id": "KJV1769:2KI.18.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "And Hezekiah king of Judah sent to the king of Assyria to Lachish, saying, I have offended; return from me: that which thou puttest on me will I bear. And the king of Assyria appointed unto Hezekiah king of Judah three hundred talents of silver and thirty talents of gold.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2KI.18.15",
+      "edition_verse_id": "KJV1769:2KI.18.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "And Hezekiah gave ",
+          "kind": "text"
+        },
+        {
+          "text": "him",
+          "kind": "supplied"
+        },
+        {
+          "text": " all the silver that was found in the house of the LORD, and in the treasures of the king’s house.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2KI.18.16",
+      "edition_verse_id": "KJV1769:2KI.18.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "At that time did Hezekiah cut off ",
+          "kind": "text"
+        },
+        {
+          "text": "the gold from",
+          "kind": "supplied"
+        },
+        {
+          "text": " the doors of the temple of the LORD, and ",
+          "kind": "text"
+        },
+        {
+          "text": "from",
+          "kind": "supplied"
+        },
+        {
+          "text": " the pillars which Hezekiah king of Judah had overlaid, and gave it to the king of Assyria.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2KI.18.17",
+      "edition_verse_id": "KJV1769:2KI.18.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "¶ And the king of Assyria sent Tartan and Rabsaris and Rab-shakeh from Lachish to king Hezekiah with a great host against Jerusalem. And they went up and came to Jerusalem. And when they were come up, they came and stood by the conduit of the upper pool, which ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " in the highway of the fuller’s field.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "2KI.18.18",
+      "edition_verse_id": "KJV1769:2KI.18.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "And when they had called to the king, there came out to them Eliakim the son of Hilkiah, which ",
+          "kind": "text"
+        },
+        {
+          "text": "was",
+          "kind": "supplied"
+        },
+        {
+          "text": " over the household, and Shebna the scribe, and Joah the son of Asaph the recorder.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2KI.18.19",
+      "edition_verse_id": "KJV1769:2KI.18.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "And Rab-shakeh said unto them, Speak ye now to Hezekiah, Thus saith the great king, the king of Assyria, What confidence ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " this wherein thou trustest?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2KI.18.20",
+      "edition_verse_id": "KJV1769:2KI.18.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "Thou sayest, (but ",
+          "kind": "text"
+        },
+        {
+          "text": "they are but",
+          "kind": "supplied"
+        },
+        {
+          "text": " vain words,) ",
+          "kind": "text"
+        },
+        {
+          "text": "I have",
+          "kind": "supplied"
+        },
+        {
+          "text": " counsel and strength for the war. Now on whom dost thou trust, that thou rebellest against me?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2KI.18.21",
+      "edition_verse_id": "KJV1769:2KI.18.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "Now, behold, thou trustest upon the staff of this bruised reed, ",
+          "kind": "text"
+        },
+        {
+          "text": "even",
+          "kind": "supplied"
+        },
+        {
+          "text": " upon Egypt, on which if a man lean, it will go into his hand, and pierce it: so ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " Pharaoh king of Egypt unto all that trust on him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2KI.18.22",
+      "edition_verse_id": "KJV1769:2KI.18.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "But if ye say unto me, We trust in the LORD our God: ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " not that he, whose high places and whose altars Hezekiah hath taken away, and hath said to Judah and Jerusalem, Ye shall worship before this altar in Jerusalem?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2KI.18.23",
+      "edition_verse_id": "KJV1769:2KI.18.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "Now therefore, I pray thee, give pledges to my lord the king of Assyria, and I will deliver thee two thousand horses, if thou be able on thy part to set riders upon them.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2KI.18.24",
+      "edition_verse_id": "KJV1769:2KI.18.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "How then wilt thou turn away the face of one captain of the least of my master’s servants, and put thy trust on Egypt for chariots and for horsemen?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2KI.18.25",
+      "edition_verse_id": "KJV1769:2KI.18.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "Am I now come up without the LORD against this place to destroy it? The LORD said to me, Go up against this land, and destroy it.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2KI.18.26",
+      "edition_verse_id": "KJV1769:2KI.18.26",
+      "verse": 26,
+      "spans": [
+        {
+          "text": "Then said Eliakim the son of Hilkiah, and Shebna, and Joah, unto Rab-shakeh, Speak, I pray thee, to thy servants in the Syrian language; for we understand ",
+          "kind": "text"
+        },
+        {
+          "text": "it:",
+          "kind": "supplied"
+        },
+        {
+          "text": " and talk not with us in the Jews’ language in the ears of the people that ",
+          "kind": "text"
+        },
+        {
+          "text": "are",
+          "kind": "supplied"
+        },
+        {
+          "text": " on the wall.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2KI.18.27",
+      "edition_verse_id": "KJV1769:2KI.18.27",
+      "verse": 27,
+      "spans": [
+        {
+          "text": "But Rab-shakeh said unto them, Hath my master sent me to thy master, and to thee, to speak these words? ",
+          "kind": "text"
+        },
+        {
+          "text": "hath he",
+          "kind": "supplied"
+        },
+        {
+          "text": " not ",
+          "kind": "text"
+        },
+        {
+          "text": "sent me",
+          "kind": "supplied"
+        },
+        {
+          "text": " to the men which sit on the wall, that they may eat their own dung, and drink their own piss with you?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2KI.18.28",
+      "edition_verse_id": "KJV1769:2KI.18.28",
+      "verse": 28,
+      "spans": [
+        {
+          "text": "Then Rab-shakeh stood and cried with a loud voice in the Jews’ language, and spake, saying, Hear the word of the great king, the king of Assyria:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2KI.18.29",
+      "edition_verse_id": "KJV1769:2KI.18.29",
+      "verse": 29,
+      "spans": [
+        {
+          "text": "Thus saith the king, Let not Hezekiah deceive you: for he shall not be able to deliver you out of his hand:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2KI.18.30",
+      "edition_verse_id": "KJV1769:2KI.18.30",
+      "verse": 30,
+      "spans": [
+        {
+          "text": "Neither let Hezekiah make you trust in the LORD, saying, The LORD will surely deliver us, and this city shall not be delivered into the hand of the king of Assyria.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2KI.18.31",
+      "edition_verse_id": "KJV1769:2KI.18.31",
+      "verse": 31,
+      "spans": [
+        {
+          "text": "Hearken not to Hezekiah: for thus saith the king of Assyria, Make ",
+          "kind": "text"
+        },
+        {
+          "text": "an agreement",
+          "kind": "supplied"
+        },
+        {
+          "text": " with me by a present, and come out to me, and ",
+          "kind": "text"
+        },
+        {
+          "text": "then",
+          "kind": "supplied"
+        },
+        {
+          "text": " eat ye every man of his own vine, and every one of his fig tree, and drink ye every one the waters of his cistern:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2KI.18.32",
+      "edition_verse_id": "KJV1769:2KI.18.32",
+      "verse": 32,
+      "spans": [
+        {
+          "text": "Until I come and take you away to a land like your own land, a land of corn and wine, a land of bread and vineyards, a land of oil olive and of honey, that ye may live, and not die: and hearken not unto Hezekiah, when he persuadeth you, saying, The LORD will deliver us.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2KI.18.33",
+      "edition_verse_id": "KJV1769:2KI.18.33",
+      "verse": 33,
+      "spans": [
+        {
+          "text": "Hath any of the gods of the nations delivered at all his land out of the hand of the king of Assyria?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2KI.18.34",
+      "edition_verse_id": "KJV1769:2KI.18.34",
+      "verse": 34,
+      "spans": [
+        {
+          "text": "Where ",
+          "kind": "text"
+        },
+        {
+          "text": "are",
+          "kind": "supplied"
+        },
+        {
+          "text": " the gods of Hamath, and of Arpad? where ",
+          "kind": "text"
+        },
+        {
+          "text": "are",
+          "kind": "supplied"
+        },
+        {
+          "text": " the gods of Sepharvaim, Hena, and Ivah? have they delivered Samaria out of mine hand?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2KI.18.35",
+      "edition_verse_id": "KJV1769:2KI.18.35",
+      "verse": 35,
+      "spans": [
+        {
+          "text": "Who ",
+          "kind": "text"
+        },
+        {
+          "text": "are",
+          "kind": "supplied"
+        },
+        {
+          "text": " they among all the gods of the countries, that have delivered their country out of mine hand, that the LORD should deliver Jerusalem out of mine hand?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2KI.18.36",
+      "edition_verse_id": "KJV1769:2KI.18.36",
+      "verse": 36,
+      "spans": [
+        {
+          "text": "But the people held their peace, and answered him not a word: for the king’s commandment was, saying, Answer him not.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2KI.18.37",
+      "edition_verse_id": "KJV1769:2KI.18.37",
+      "verse": 37,
+      "spans": [
+        {
+          "text": "Then came Eliakim the son of Hilkiah, which ",
+          "kind": "text"
+        },
+        {
+          "text": "was",
+          "kind": "supplied"
+        },
+        {
+          "text": " over the household, and Shebna the scribe, and Joah the son of Asaph the recorder, to Hezekiah with ",
+          "kind": "text"
+        },
+        {
+          "text": "their",
+          "kind": "supplied"
+        },
+        {
+          "text": " clothes rent, and told him the words of Rab-shakeh.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

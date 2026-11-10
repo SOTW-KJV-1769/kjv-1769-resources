@@ -1,0 +1,356 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "KJV1769",
+  "book_code": "2KI",
+  "chapter": 11,
+  "verses": [
+    {
+      "id": "2KI.11.1",
+      "edition_verse_id": "KJV1769:2KI.11.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "And when Athaliah the mother of Ahaziah saw that her son was dead, she arose and destroyed all the seed royal.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "2KI.11.2",
+      "edition_verse_id": "KJV1769:2KI.11.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "But Jehosheba, the daughter of king Joram, sister of Ahaziah, took Joash the son of Ahaziah, and stole him from among the king’s sons ",
+          "kind": "text"
+        },
+        {
+          "text": "which were",
+          "kind": "supplied"
+        },
+        {
+          "text": " slain; and they hid him, ",
+          "kind": "text"
+        },
+        {
+          "text": "even",
+          "kind": "supplied"
+        },
+        {
+          "text": " him and his nurse, in the bedchamber from Athaliah, so that he was not slain.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2KI.11.3",
+      "edition_verse_id": "KJV1769:2KI.11.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "And he was with her hid in the house of the LORD six years. And Athaliah did reign over the land.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2KI.11.4",
+      "edition_verse_id": "KJV1769:2KI.11.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "¶ And the seventh year Jehoiada sent and fetched the rulers over hundreds, with the captains and the guard, and brought them to him into the house of the LORD, and made a covenant with them, and took an oath of them in the house of the LORD, and shewed them the king’s son.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "2KI.11.5",
+      "edition_verse_id": "KJV1769:2KI.11.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "And he commanded them, saying, This ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " the thing that ye shall do; A third part of you that enter in on the sabbath shall even be keepers of the watch of the king’s house;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2KI.11.6",
+      "edition_verse_id": "KJV1769:2KI.11.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "And a third part ",
+          "kind": "text"
+        },
+        {
+          "text": "shall be",
+          "kind": "supplied"
+        },
+        {
+          "text": " at the gate of Sur; and a third part at the gate behind the guard: so shall ye keep the watch of the house, that it be not broken down.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2KI.11.7",
+      "edition_verse_id": "KJV1769:2KI.11.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "And two parts of all you that go forth on the sabbath, even they shall keep the watch of the house of the LORD about the king.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2KI.11.8",
+      "edition_verse_id": "KJV1769:2KI.11.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "And ye shall compass the king round about, every man with his weapons in his hand: and he that cometh within the ranges, let him be slain: and be ye with the king as he goeth out and as he cometh in.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2KI.11.9",
+      "edition_verse_id": "KJV1769:2KI.11.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "And the captains over the hundreds did according to all ",
+          "kind": "text"
+        },
+        {
+          "text": "things",
+          "kind": "supplied"
+        },
+        {
+          "text": " that Jehoiada the priest commanded: and they took every man his men that were to come in on the sabbath, with them that should go out on the sabbath, and came to Jehoiada the priest.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2KI.11.10",
+      "edition_verse_id": "KJV1769:2KI.11.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "And to the captains over hundreds did the priest give king David’s spears and shields, that ",
+          "kind": "text"
+        },
+        {
+          "text": "were",
+          "kind": "supplied"
+        },
+        {
+          "text": " in the temple of the LORD.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2KI.11.11",
+      "edition_verse_id": "KJV1769:2KI.11.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "And the guard stood, every man with his weapons in his hand, round about the king, from the right corner of the temple to the left corner of the temple, ",
+          "kind": "text"
+        },
+        {
+          "text": "along",
+          "kind": "supplied"
+        },
+        {
+          "text": " by the altar and the temple.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2KI.11.12",
+      "edition_verse_id": "KJV1769:2KI.11.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "And he brought forth the king’s son, and put the crown upon him, and ",
+          "kind": "text"
+        },
+        {
+          "text": "gave him",
+          "kind": "supplied"
+        },
+        {
+          "text": " the testimony; and they made him king, and anointed him; and they clapped their hands, and said, God save the king.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2KI.11.13",
+      "edition_verse_id": "KJV1769:2KI.11.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "¶ And when Athaliah heard the noise of the guard ",
+          "kind": "text"
+        },
+        {
+          "text": "and",
+          "kind": "supplied"
+        },
+        {
+          "text": " of the people, she came to the people into the temple of the LORD.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "2KI.11.14",
+      "edition_verse_id": "KJV1769:2KI.11.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "And when she looked, behold, the king stood by a pillar, as the manner ",
+          "kind": "text"
+        },
+        {
+          "text": "was",
+          "kind": "supplied"
+        },
+        {
+          "text": ", and the princes and the trumpeters by the king, and all the people of the land rejoiced, and blew with trumpets: and Athaliah rent her clothes, and cried, Treason, Treason.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2KI.11.15",
+      "edition_verse_id": "KJV1769:2KI.11.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "But Jehoiada the priest commanded the captains of the hundreds, the officers of the host, and said unto them, Have her forth without the ranges: and him that followeth her kill with the sword. For the priest had said, Let her not be slain in the house of the LORD.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2KI.11.16",
+      "edition_verse_id": "KJV1769:2KI.11.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "And they laid hands on her; and she went by the way by the which the horses came into the king’s house: and there was she slain.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2KI.11.17",
+      "edition_verse_id": "KJV1769:2KI.11.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "¶ And Jehoiada made a covenant between the LORD and the king and the people, that they should be the LORD’s people; between the king also and the people.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "2KI.11.18",
+      "edition_verse_id": "KJV1769:2KI.11.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "And all the people of the land went into the house of Baal, and brake it down; his altars and his images brake they in pieces thoroughly, and slew Mattan the priest of Baal before the altars. And the priest appointed officers over the house of the LORD.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2KI.11.19",
+      "edition_verse_id": "KJV1769:2KI.11.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "And he took the rulers over hundreds, and the captains, and the guard, and all the people of the land; and they brought down the king from the house of the LORD, and came by the way of the gate of the guard to the king’s house. And he sat on the throne of the kings.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2KI.11.20",
+      "edition_verse_id": "KJV1769:2KI.11.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "And all the people of the land rejoiced, and the city was in quiet: and they slew Athaliah with the sword ",
+          "kind": "text"
+        },
+        {
+          "text": "beside",
+          "kind": "supplied"
+        },
+        {
+          "text": " the king’s house.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2KI.11.21",
+      "edition_verse_id": "KJV1769:2KI.11.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "Seven years old ",
+          "kind": "text"
+        },
+        {
+          "text": "was",
+          "kind": "supplied"
+        },
+        {
+          "text": " Jehoash when he began to reign.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

@@ -1,0 +1,464 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "KJV1769",
+  "book_code": "2KI",
+  "chapter": 21,
+  "verses": [
+    {
+      "id": "2KI.21.1",
+      "edition_verse_id": "KJV1769:2KI.21.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "Manasseh ",
+          "kind": "text"
+        },
+        {
+          "text": "was",
+          "kind": "supplied"
+        },
+        {
+          "text": " twelve years old when he began to reign, and reigned fifty and five years in Jerusalem. And his mother’s name ",
+          "kind": "text"
+        },
+        {
+          "text": "was",
+          "kind": "supplied"
+        },
+        {
+          "text": " Hephzi-bah.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "2KI.21.2",
+      "edition_verse_id": "KJV1769:2KI.21.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "And he did ",
+          "kind": "text"
+        },
+        {
+          "text": "that which was",
+          "kind": "supplied"
+        },
+        {
+          "text": " evil in the sight of the LORD, after the abominations of the heathen, whom the LORD cast out before the children of Israel.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2KI.21.3",
+      "edition_verse_id": "KJV1769:2KI.21.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "For he built up again the high places which Hezekiah his father had destroyed; and he reared up altars for Baal, and made a grove, as did Ahab king of Israel; and worshipped all the host of heaven, and served them.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2KI.21.4",
+      "edition_verse_id": "KJV1769:2KI.21.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "And he built altars in the house of the LORD, of which the LORD said, In Jerusalem will I put my name.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2KI.21.5",
+      "edition_verse_id": "KJV1769:2KI.21.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "And he built altars for all the host of heaven in the two courts of the house of the LORD.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2KI.21.6",
+      "edition_verse_id": "KJV1769:2KI.21.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "And he made his son pass through the fire, and observed times, and used enchantments, and dealt with familiar spirits and wizards: he wrought much wickedness in the sight of the LORD, to provoke ",
+          "kind": "text"
+        },
+        {
+          "text": "him",
+          "kind": "supplied"
+        },
+        {
+          "text": " to anger.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2KI.21.7",
+      "edition_verse_id": "KJV1769:2KI.21.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "And he set a graven image of the grove that he had made in the house, of which the LORD said to David, and to Solomon his son, In this house, and in Jerusalem, which I have chosen out of all tribes of Israel, will I put my name for ever:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2KI.21.8",
+      "edition_verse_id": "KJV1769:2KI.21.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "Neither will I make the feet of Israel move any more out of the land which I gave their fathers; only if they will observe to do according to all that I have commanded them, and according to all the law that my servant Moses commanded them.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2KI.21.9",
+      "edition_verse_id": "KJV1769:2KI.21.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "But they hearkened not: and Manasseh seduced them to do more evil than did the nations whom the LORD destroyed before the children of Israel.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2KI.21.10",
+      "edition_verse_id": "KJV1769:2KI.21.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "¶ And the LORD spake by his servants the prophets, saying,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "2KI.21.11",
+      "edition_verse_id": "KJV1769:2KI.21.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "Because Manasseh king of Judah hath done these abominations, ",
+          "kind": "text"
+        },
+        {
+          "text": "and",
+          "kind": "supplied"
+        },
+        {
+          "text": " hath done wickedly above all that the Amorites did, which ",
+          "kind": "text"
+        },
+        {
+          "text": "were",
+          "kind": "supplied"
+        },
+        {
+          "text": " before him, and hath made Judah also to sin with his idols:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2KI.21.12",
+      "edition_verse_id": "KJV1769:2KI.21.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "Therefore thus saith the LORD God of Israel, Behold, I ",
+          "kind": "text"
+        },
+        {
+          "text": "am",
+          "kind": "supplied"
+        },
+        {
+          "text": " bringing ",
+          "kind": "text"
+        },
+        {
+          "text": "such",
+          "kind": "supplied"
+        },
+        {
+          "text": " evil upon Jerusalem and Judah, that whosoever heareth of it, both his ears shall tingle.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2KI.21.13",
+      "edition_verse_id": "KJV1769:2KI.21.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "And I will stretch over Jerusalem the line of Samaria, and the plummet of the house of Ahab: and I will wipe Jerusalem as ",
+          "kind": "text"
+        },
+        {
+          "text": "a man",
+          "kind": "supplied"
+        },
+        {
+          "text": " wipeth a dish, wiping ",
+          "kind": "text"
+        },
+        {
+          "text": "it",
+          "kind": "supplied"
+        },
+        {
+          "text": ", and turning ",
+          "kind": "text"
+        },
+        {
+          "text": "it",
+          "kind": "supplied"
+        },
+        {
+          "text": " upside down.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2KI.21.14",
+      "edition_verse_id": "KJV1769:2KI.21.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "And I will forsake the remnant of mine inheritance, and deliver them into the hand of their enemies; and they shall become a prey and a spoil to all their enemies;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2KI.21.15",
+      "edition_verse_id": "KJV1769:2KI.21.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "Because they have done ",
+          "kind": "text"
+        },
+        {
+          "text": "that which was",
+          "kind": "supplied"
+        },
+        {
+          "text": " evil in my sight, and have provoked me to anger, since the day their fathers came forth out of Egypt, even unto this day.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2KI.21.16",
+      "edition_verse_id": "KJV1769:2KI.21.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "Moreover Manasseh shed innocent blood very much, till he had filled Jerusalem from one end to another; beside his sin wherewith he made Judah to sin, in doing ",
+          "kind": "text"
+        },
+        {
+          "text": "that which was",
+          "kind": "supplied"
+        },
+        {
+          "text": " evil in the sight of the LORD.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2KI.21.17",
+      "edition_verse_id": "KJV1769:2KI.21.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "¶ Now the rest of the acts of Manasseh, and all that he did, and his sin that he sinned, ",
+          "kind": "text"
+        },
+        {
+          "text": "are",
+          "kind": "supplied"
+        },
+        {
+          "text": " they not written in the book of the chronicles of the kings of Judah?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "2KI.21.18",
+      "edition_verse_id": "KJV1769:2KI.21.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "And Manasseh slept with his fathers, and was buried in the garden of his own house, in the garden of Uzza: and Amon his son reigned in his stead.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2KI.21.19",
+      "edition_verse_id": "KJV1769:2KI.21.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "¶ Amon ",
+          "kind": "text"
+        },
+        {
+          "text": "was",
+          "kind": "supplied"
+        },
+        {
+          "text": " twenty and two years old when he began to reign, and he reigned two years in Jerusalem. And his mother’s name ",
+          "kind": "text"
+        },
+        {
+          "text": "was",
+          "kind": "supplied"
+        },
+        {
+          "text": " Meshullemeth, the daughter of Haruz of Jotbah.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "2KI.21.20",
+      "edition_verse_id": "KJV1769:2KI.21.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "And he did ",
+          "kind": "text"
+        },
+        {
+          "text": "that which was",
+          "kind": "supplied"
+        },
+        {
+          "text": " evil in the sight of the LORD, as his father Manasseh did.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2KI.21.21",
+      "edition_verse_id": "KJV1769:2KI.21.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "And he walked in all the way that his father walked in, and served the idols that his father served, and worshipped them:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2KI.21.22",
+      "edition_verse_id": "KJV1769:2KI.21.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "And he forsook the LORD God of his fathers, and walked not in the way of the LORD.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2KI.21.23",
+      "edition_verse_id": "KJV1769:2KI.21.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "¶ And the servants of Amon conspired against him, and slew the king in his own house.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "2KI.21.24",
+      "edition_verse_id": "KJV1769:2KI.21.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "And the people of the land slew all them that had conspired against king Amon; and the people of the land made Josiah his son king in his stead.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2KI.21.25",
+      "edition_verse_id": "KJV1769:2KI.21.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "Now the rest of the acts of Amon which he did, ",
+          "kind": "text"
+        },
+        {
+          "text": "are",
+          "kind": "supplied"
+        },
+        {
+          "text": " they not written in the book of the chronicles of the kings of Judah?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2KI.21.26",
+      "edition_verse_id": "KJV1769:2KI.21.26",
+      "verse": 26,
+      "spans": [
+        {
+          "text": "And he was buried in his sepulchre in the garden of Uzza: and Josiah his son reigned in his stead.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}
