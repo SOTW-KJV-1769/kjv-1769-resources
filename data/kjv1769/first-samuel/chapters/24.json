@@ -1,0 +1,360 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "KJV1769",
+  "book_code": "1SA",
+  "chapter": 24,
+  "verses": [
+    {
+      "id": "1SA.24.1",
+      "edition_verse_id": "KJV1769:1SA.24.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "And it came to pass, when Saul was returned from following the Philistines, that it was told him, saying, Behold, David ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " in the wilderness of En-gedi.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1SA.24.2",
+      "edition_verse_id": "KJV1769:1SA.24.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "Then Saul took three thousand chosen men out of all Israel, and went to seek David and his men upon the rocks of the wild goats.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1SA.24.3",
+      "edition_verse_id": "KJV1769:1SA.24.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "And he came to the sheepcotes by the way, where ",
+          "kind": "text"
+        },
+        {
+          "text": "was",
+          "kind": "supplied"
+        },
+        {
+          "text": " a cave; and Saul went in to cover his feet: and David and his men remained in the sides of the cave.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1SA.24.4",
+      "edition_verse_id": "KJV1769:1SA.24.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "And the men of David said unto him, Behold the day of which the LORD said unto thee, Behold, I will deliver thine enemy into thine hand, that thou mayest do to him as it shall seem good unto thee. Then David arose, and cut off the skirt of Saul’s robe privily.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1SA.24.5",
+      "edition_verse_id": "KJV1769:1SA.24.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "And it came to pass afterward, that David’s heart smote him, because he had cut off Saul’s skirt.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1SA.24.6",
+      "edition_verse_id": "KJV1769:1SA.24.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "And he said unto his men, The LORD forbid that I should do this thing unto my master, the LORD’s anointed, to stretch forth mine hand against him, seeing he ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " the anointed of the LORD.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1SA.24.7",
+      "edition_verse_id": "KJV1769:1SA.24.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "So David stayed his servants with these words, and suffered them not to rise against Saul. But Saul rose up out of the cave, and went on ",
+          "kind": "text"
+        },
+        {
+          "text": "his",
+          "kind": "supplied"
+        },
+        {
+          "text": " way.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1SA.24.8",
+      "edition_verse_id": "KJV1769:1SA.24.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "David also arose afterward, and went out of the cave, and cried after Saul, saying, My lord the king. And when Saul looked behind him, David stooped with his face to the earth, and bowed himself.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1SA.24.9",
+      "edition_verse_id": "KJV1769:1SA.24.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "¶ And David said to Saul, Wherefore hearest thou men’s words, saying, Behold, David seeketh thy hurt?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1SA.24.10",
+      "edition_verse_id": "KJV1769:1SA.24.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "Behold, this day thine eyes have seen how that the LORD had delivered thee to day into mine hand in the cave: and ",
+          "kind": "text"
+        },
+        {
+          "text": "some",
+          "kind": "supplied"
+        },
+        {
+          "text": " bade ",
+          "kind": "text"
+        },
+        {
+          "text": "me",
+          "kind": "supplied"
+        },
+        {
+          "text": " kill thee: but ",
+          "kind": "text"
+        },
+        {
+          "text": "mine eye",
+          "kind": "supplied"
+        },
+        {
+          "text": " spared thee; and I said, I will not put forth mine hand against my lord; for he ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " the LORD’s anointed.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1SA.24.11",
+      "edition_verse_id": "KJV1769:1SA.24.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "Moreover, my father, see, yea, see the skirt of thy robe in my hand: for in that I cut off the skirt of thy robe, and killed thee not, know thou and see that ",
+          "kind": "text"
+        },
+        {
+          "text": "there is",
+          "kind": "supplied"
+        },
+        {
+          "text": " neither evil nor transgression in mine hand, and I have not sinned against thee; yet thou huntest my soul to take it.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1SA.24.12",
+      "edition_verse_id": "KJV1769:1SA.24.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "The LORD judge between me and thee, and the LORD avenge me of thee: but mine hand shall not be upon thee.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1SA.24.13",
+      "edition_verse_id": "KJV1769:1SA.24.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "As saith the proverb of the ancients, Wickedness proceedeth from the wicked: but mine hand shall not be upon thee.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1SA.24.14",
+      "edition_verse_id": "KJV1769:1SA.24.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "After whom is the king of Israel come out? after whom dost thou pursue? after a dead dog, after a flea.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1SA.24.15",
+      "edition_verse_id": "KJV1769:1SA.24.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "The LORD therefore be judge, and judge between me and thee, and see, and plead my cause, and deliver me out of thine hand.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1SA.24.16",
+      "edition_verse_id": "KJV1769:1SA.24.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "¶ And it came to pass, when David had made an end of speaking these words unto Saul, that Saul said, ",
+          "kind": "text"
+        },
+        {
+          "text": "Is",
+          "kind": "supplied"
+        },
+        {
+          "text": " this thy voice, my son David? And Saul lifted up his voice, and wept.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1SA.24.17",
+      "edition_verse_id": "KJV1769:1SA.24.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "And he said to David, Thou ",
+          "kind": "text"
+        },
+        {
+          "text": "art",
+          "kind": "supplied"
+        },
+        {
+          "text": " more righteous than I: for thou hast rewarded me good, whereas I have rewarded thee evil.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1SA.24.18",
+      "edition_verse_id": "KJV1769:1SA.24.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "And thou hast shewed this day how that thou hast dealt well with me: forasmuch as when the LORD had delivered me into thine hand, thou killedst me not.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1SA.24.19",
+      "edition_verse_id": "KJV1769:1SA.24.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "For if a man find his enemy, will he let him go well away? wherefore the LORD reward thee good for that thou hast done unto me this day.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1SA.24.20",
+      "edition_verse_id": "KJV1769:1SA.24.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "And now, behold, I know well that thou shalt surely be king, and that the kingdom of Israel shall be established in thine hand.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1SA.24.21",
+      "edition_verse_id": "KJV1769:1SA.24.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "Swear now therefore unto me by the LORD, that thou wilt not cut off my seed after me, and that thou wilt not destroy my name out of my father’s house.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1SA.24.22",
+      "edition_verse_id": "KJV1769:1SA.24.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "And David sware unto Saul. And Saul went home; but David and his men gat them up unto the hold.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

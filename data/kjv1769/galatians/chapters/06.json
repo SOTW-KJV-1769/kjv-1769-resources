@@ -1,0 +1,248 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "KJV1769",
+  "book_code": "GAL",
+  "chapter": 6,
+  "verses": [
+    {
+      "id": "GAL.6.1",
+      "edition_verse_id": "KJV1769:GAL.6.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "Brethren, if a man be overtaken in a fault, ye which are spiritual, restore such an one in the spirit of meekness; considering thyself, lest thou also be tempted.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GAL.6.2",
+      "edition_verse_id": "KJV1769:GAL.6.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "Bear ye one another’s burdens, and so fulfil the law of Christ.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GAL.6.3",
+      "edition_verse_id": "KJV1769:GAL.6.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "For if a man think himself to be something, when he is nothing, he deceiveth himself.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GAL.6.4",
+      "edition_verse_id": "KJV1769:GAL.6.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "But let every man prove his own work, and then shall he have rejoicing in himself alone, and not in another.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GAL.6.5",
+      "edition_verse_id": "KJV1769:GAL.6.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "For every man shall bear his own burden.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GAL.6.6",
+      "edition_verse_id": "KJV1769:GAL.6.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "Let him that is taught in the word communicate unto him that teacheth in all good things.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GAL.6.7",
+      "edition_verse_id": "KJV1769:GAL.6.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "Be not deceived; God is not mocked: for whatsoever a man soweth, that shall he also reap.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GAL.6.8",
+      "edition_verse_id": "KJV1769:GAL.6.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "For he that soweth to his flesh shall of the flesh reap corruption; but he that soweth to the Spirit shall of the Spirit reap life everlasting.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GAL.6.9",
+      "edition_verse_id": "KJV1769:GAL.6.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "And let us not be weary in well doing: for in due season we shall reap, if we faint not.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GAL.6.10",
+      "edition_verse_id": "KJV1769:GAL.6.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "As we have therefore opportunity, let us do good unto all ",
+          "kind": "text"
+        },
+        {
+          "text": "men",
+          "kind": "supplied"
+        },
+        {
+          "text": ", especially unto them who are of the household of faith.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GAL.6.11",
+      "edition_verse_id": "KJV1769:GAL.6.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "Ye see how large a letter I have written unto you with mine own hand.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GAL.6.12",
+      "edition_verse_id": "KJV1769:GAL.6.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "As many as desire to make a fair shew in the flesh, they constrain you to be circumcised; only lest they should suffer persecution for the cross of Christ.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GAL.6.13",
+      "edition_verse_id": "KJV1769:GAL.6.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "For neither they themselves who are circumcised keep the law; but desire to have you circumcised, that they may glory in your flesh.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GAL.6.14",
+      "edition_verse_id": "KJV1769:GAL.6.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "But God forbid that I should glory, save in the cross of our Lord Jesus Christ, by whom the world is crucified unto me, and I unto the world.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GAL.6.15",
+      "edition_verse_id": "KJV1769:GAL.6.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "For in Christ Jesus neither circumcision availeth any thing, nor uncircumcision, but a new creature.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GAL.6.16",
+      "edition_verse_id": "KJV1769:GAL.6.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "And as many as walk according to this rule, peace ",
+          "kind": "text"
+        },
+        {
+          "text": "be",
+          "kind": "supplied"
+        },
+        {
+          "text": " on them, and mercy, and upon the Israel of God.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GAL.6.17",
+      "edition_verse_id": "KJV1769:GAL.6.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "From henceforth let no man trouble me: for I bear in my body the marks of the Lord Jesus.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GAL.6.18",
+      "edition_verse_id": "KJV1769:GAL.6.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "Brethren, the grace of our Lord Jesus Christ ",
+          "kind": "text"
+        },
+        {
+          "text": "be",
+          "kind": "supplied"
+        },
+        {
+          "text": " with your spirit. Amen.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

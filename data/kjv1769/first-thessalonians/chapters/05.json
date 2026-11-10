@@ -1,0 +1,412 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "KJV1769",
+  "book_code": "1TH",
+  "chapter": 5,
+  "verses": [
+    {
+      "id": "1TH.5.1",
+      "edition_verse_id": "KJV1769:1TH.5.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "But of the times and the seasons, brethren, ye have no need that I write unto you.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1TH.5.2",
+      "edition_verse_id": "KJV1769:1TH.5.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "For yourselves know perfectly that the day of the Lord so cometh as a thief in the night.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1TH.5.3",
+      "edition_verse_id": "KJV1769:1TH.5.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "For when they shall say, Peace and safety; then sudden destruction cometh upon them, as travail upon a woman with child; and they shall not escape.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1TH.5.4",
+      "edition_verse_id": "KJV1769:1TH.5.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "But ye, brethren, are not in darkness, that that day should overtake you as a thief.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1TH.5.5",
+      "edition_verse_id": "KJV1769:1TH.5.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "Ye are all the children of light, and the children of the day: we are not of the night, nor of darkness.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1TH.5.6",
+      "edition_verse_id": "KJV1769:1TH.5.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "Therefore let us not sleep, as ",
+          "kind": "text"
+        },
+        {
+          "text": "do",
+          "kind": "supplied"
+        },
+        {
+          "text": " others; but let us watch and be sober.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1TH.5.7",
+      "edition_verse_id": "KJV1769:1TH.5.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "For they that sleep sleep in the night; and they that be drunken are drunken in the night.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1TH.5.8",
+      "edition_verse_id": "KJV1769:1TH.5.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "But let us, who are of the day, be sober, putting on the breastplate of faith and love; and for an helmet, the hope of salvation.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1TH.5.9",
+      "edition_verse_id": "KJV1769:1TH.5.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "For God hath not appointed us to wrath, but to obtain salvation by our Lord Jesus Christ,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1TH.5.10",
+      "edition_verse_id": "KJV1769:1TH.5.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "Who died for us, that, whether we wake or sleep, we should live together with him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1TH.5.11",
+      "edition_verse_id": "KJV1769:1TH.5.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "Wherefore comfort yourselves together, and edify one another, even as also ye do.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1TH.5.12",
+      "edition_verse_id": "KJV1769:1TH.5.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "And we beseech you, brethren, to know them which labour among you, and are over you in the Lord, and admonish you;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1TH.5.13",
+      "edition_verse_id": "KJV1769:1TH.5.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "And to esteem them very highly in love for their work’s sake. ",
+          "kind": "text"
+        },
+        {
+          "text": "And",
+          "kind": "supplied"
+        },
+        {
+          "text": " be at peace among yourselves.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1TH.5.14",
+      "edition_verse_id": "KJV1769:1TH.5.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "Now we exhort you, brethren, warn them that are unruly, comfort the feebleminded, support the weak, be patient toward all ",
+          "kind": "text"
+        },
+        {
+          "text": "men",
+          "kind": "supplied"
+        },
+        {
+          "text": ".",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1TH.5.15",
+      "edition_verse_id": "KJV1769:1TH.5.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "See that none render evil for evil unto any ",
+          "kind": "text"
+        },
+        {
+          "text": "man",
+          "kind": "supplied"
+        },
+        {
+          "text": "; but ever follow that which is good, both among yourselves, and to all ",
+          "kind": "text"
+        },
+        {
+          "text": "men",
+          "kind": "supplied"
+        },
+        {
+          "text": ".",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1TH.5.16",
+      "edition_verse_id": "KJV1769:1TH.5.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "Rejoice evermore.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1TH.5.17",
+      "edition_verse_id": "KJV1769:1TH.5.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "Pray without ceasing.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1TH.5.18",
+      "edition_verse_id": "KJV1769:1TH.5.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "In every thing give thanks: for this is the will of God in Christ Jesus concerning you.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1TH.5.19",
+      "edition_verse_id": "KJV1769:1TH.5.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "Quench not the Spirit.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1TH.5.20",
+      "edition_verse_id": "KJV1769:1TH.5.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "Despise not prophesyings.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1TH.5.21",
+      "edition_verse_id": "KJV1769:1TH.5.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "Prove all things; hold fast that which is good.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1TH.5.22",
+      "edition_verse_id": "KJV1769:1TH.5.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "Abstain from all appearance of evil.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1TH.5.23",
+      "edition_verse_id": "KJV1769:1TH.5.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "And the very God of peace sanctify you wholly; and ",
+          "kind": "text"
+        },
+        {
+          "text": "I pray God",
+          "kind": "supplied"
+        },
+        {
+          "text": " your whole spirit and soul and body be preserved blameless unto the coming of our Lord Jesus Christ.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1TH.5.24",
+      "edition_verse_id": "KJV1769:1TH.5.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "Faithful ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " he that calleth you, who also will do ",
+          "kind": "text"
+        },
+        {
+          "text": "it.",
+          "kind": "supplied"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1TH.5.25",
+      "edition_verse_id": "KJV1769:1TH.5.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "Brethren, pray for us.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1TH.5.26",
+      "edition_verse_id": "KJV1769:1TH.5.26",
+      "verse": 26,
+      "spans": [
+        {
+          "text": "Greet all the brethren with an holy kiss.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1TH.5.27",
+      "edition_verse_id": "KJV1769:1TH.5.27",
+      "verse": 27,
+      "spans": [
+        {
+          "text": "I charge you by the Lord that this epistle be read unto all the holy brethren.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1TH.5.28",
+      "edition_verse_id": "KJV1769:1TH.5.28",
+      "verse": 28,
+      "spans": [
+        {
+          "text": "The grace of our Lord Jesus Christ ",
+          "kind": "text"
+        },
+        {
+          "text": "be",
+          "kind": "supplied"
+        },
+        {
+          "text": " with you. Amen.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

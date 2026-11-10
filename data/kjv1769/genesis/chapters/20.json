@@ -1,0 +1,392 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "KJV1769",
+  "book_code": "GEN",
+  "chapter": 20,
+  "verses": [
+    {
+      "id": "GEN.20.1",
+      "edition_verse_id": "KJV1769:GEN.20.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "And Abraham journeyed from thence toward the south country, and dwelled between Kadesh and Shur, and sojourned in Gerar.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.20.2",
+      "edition_verse_id": "KJV1769:GEN.20.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "And Abraham said of Sarah his wife, She ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " my sister: and Abimelech king of Gerar sent, and took Sarah.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.20.3",
+      "edition_verse_id": "KJV1769:GEN.20.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "But God came to Abimelech in a dream by night, and said to him, Behold, thou ",
+          "kind": "text"
+        },
+        {
+          "text": "art but",
+          "kind": "supplied"
+        },
+        {
+          "text": " a dead man, for the woman which thou hast taken; for she ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " a man’s wife.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.20.4",
+      "edition_verse_id": "KJV1769:GEN.20.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "But Abimelech had not come near her: and he said, Lord, wilt thou slay also a righteous nation?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.20.5",
+      "edition_verse_id": "KJV1769:GEN.20.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "Said he not unto me, She ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " my sister? and she, even she herself said, He ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " my brother: in the integrity of my heart and innocency of my hands have I done this.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.20.6",
+      "edition_verse_id": "KJV1769:GEN.20.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "And God said unto him in a dream, Yea, I know that thou didst this in the integrity of thy heart; for I also withheld thee from sinning against me: therefore suffered I thee not to touch her.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.20.7",
+      "edition_verse_id": "KJV1769:GEN.20.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "Now therefore restore the man ",
+          "kind": "text"
+        },
+        {
+          "text": "his",
+          "kind": "supplied"
+        },
+        {
+          "text": " wife; for he ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " a prophet, and he shall pray for thee, and thou shalt live: and if thou restore ",
+          "kind": "text"
+        },
+        {
+          "text": "her",
+          "kind": "supplied"
+        },
+        {
+          "text": " not, know thou that thou shalt surely die, thou, and all that ",
+          "kind": "text"
+        },
+        {
+          "text": "are",
+          "kind": "supplied"
+        },
+        {
+          "text": " thine.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.20.8",
+      "edition_verse_id": "KJV1769:GEN.20.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "Therefore Abimelech rose early in the morning, and called all his servants, and told all these things in their ears: and the men were sore afraid.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.20.9",
+      "edition_verse_id": "KJV1769:GEN.20.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "Then Abimelech called Abraham, and said unto him, What hast thou done unto us? and what have I offended thee, that thou hast brought on me and on my kingdom a great sin? thou hast done deeds unto me that ought not to be done.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.20.10",
+      "edition_verse_id": "KJV1769:GEN.20.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "And Abimelech said unto Abraham, What sawest thou, that thou hast done this thing?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.20.11",
+      "edition_verse_id": "KJV1769:GEN.20.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "And Abraham said, Because I thought, Surely the fear of God ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " not in this place; and they will slay me for my wife’s sake.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.20.12",
+      "edition_verse_id": "KJV1769:GEN.20.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "And yet indeed ",
+          "kind": "text"
+        },
+        {
+          "text": "she is",
+          "kind": "supplied"
+        },
+        {
+          "text": " my sister; she ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " the daughter of my father, but not the daughter of my mother; and she became my wife.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.20.13",
+      "edition_verse_id": "KJV1769:GEN.20.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "And it came to pass, when God caused me to wander from my father’s house, that I said unto her, This ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " thy kindness which thou shalt shew unto me; at every place whither we shall come, say of me, He ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " my brother.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.20.14",
+      "edition_verse_id": "KJV1769:GEN.20.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "And Abimelech took sheep, and oxen, and menservants, and womenservants, and gave ",
+          "kind": "text"
+        },
+        {
+          "text": "them",
+          "kind": "supplied"
+        },
+        {
+          "text": " unto Abraham, and restored him Sarah his wife.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.20.15",
+      "edition_verse_id": "KJV1769:GEN.20.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "And Abimelech said, Behold, my land ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " before thee: dwell where it pleaseth thee.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.20.16",
+      "edition_verse_id": "KJV1769:GEN.20.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "And unto Sarah he said, Behold, I have given thy brother a thousand ",
+          "kind": "text"
+        },
+        {
+          "text": "pieces",
+          "kind": "supplied"
+        },
+        {
+          "text": " of silver: behold, he ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " to thee a covering of the eyes, unto all that ",
+          "kind": "text"
+        },
+        {
+          "text": "are",
+          "kind": "supplied"
+        },
+        {
+          "text": " with thee, and with all ",
+          "kind": "text"
+        },
+        {
+          "text": "other:",
+          "kind": "supplied"
+        },
+        {
+          "text": " thus she was reproved.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.20.17",
+      "edition_verse_id": "KJV1769:GEN.20.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "¶ So Abraham prayed unto God: and God healed Abimelech, and his wife, and his maidservants; and they bare ",
+          "kind": "text"
+        },
+        {
+          "text": "children",
+          "kind": "supplied"
+        },
+        {
+          "text": ".",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.20.18",
+      "edition_verse_id": "KJV1769:GEN.20.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "For the LORD had fast closed up all the wombs of the house of Abimelech, because of Sarah Abraham’s wife.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

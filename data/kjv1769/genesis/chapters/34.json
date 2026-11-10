@@ -1,0 +1,488 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "KJV1769",
+  "book_code": "GEN",
+  "chapter": 34,
+  "verses": [
+    {
+      "id": "GEN.34.1",
+      "edition_verse_id": "KJV1769:GEN.34.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "And Dinah the daughter of Leah, which she bare unto Jacob, went out to see the daughters of the land.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.34.2",
+      "edition_verse_id": "KJV1769:GEN.34.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "And when Shechem the son of Hamor the Hivite, prince of the country, saw her, he took her, and lay with her, and defiled her.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.34.3",
+      "edition_verse_id": "KJV1769:GEN.34.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "And his soul clave unto Dinah the daughter of Jacob, and he loved the damsel, and spake kindly unto the damsel.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.34.4",
+      "edition_verse_id": "KJV1769:GEN.34.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "And Shechem spake unto his father Hamor, saying, Get me this damsel to wife.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.34.5",
+      "edition_verse_id": "KJV1769:GEN.34.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "And Jacob heard that he had defiled Dinah his daughter: now his sons were with his cattle in the field: and Jacob held his peace until they were come.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.34.6",
+      "edition_verse_id": "KJV1769:GEN.34.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "¶ And Hamor the father of Shechem went out unto Jacob to commune with him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.34.7",
+      "edition_verse_id": "KJV1769:GEN.34.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "And the sons of Jacob came out of the field when they heard ",
+          "kind": "text"
+        },
+        {
+          "text": "it:",
+          "kind": "supplied"
+        },
+        {
+          "text": " and the men were grieved, and they were very wroth, because he had wrought folly in Israel in lying with Jacob’s daughter; which thing ought not to be done.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.34.8",
+      "edition_verse_id": "KJV1769:GEN.34.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "And Hamor communed with them, saying, The soul of my son Shechem longeth for your daughter: I pray you give her him to wife.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.34.9",
+      "edition_verse_id": "KJV1769:GEN.34.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "And make ye marriages with us, ",
+          "kind": "text"
+        },
+        {
+          "text": "and",
+          "kind": "supplied"
+        },
+        {
+          "text": " give your daughters unto us, and take our daughters unto you.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.34.10",
+      "edition_verse_id": "KJV1769:GEN.34.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "And ye shall dwell with us: and the land shall be before you; dwell and trade ye therein, and get you possessions therein.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.34.11",
+      "edition_verse_id": "KJV1769:GEN.34.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "And Shechem said unto her father and unto her brethren, Let me find grace in your eyes, and what ye shall say unto me I will give.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.34.12",
+      "edition_verse_id": "KJV1769:GEN.34.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "Ask me never so much dowry and gift, and I will give according as ye shall say unto me: but give me the damsel to wife.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.34.13",
+      "edition_verse_id": "KJV1769:GEN.34.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "And the sons of Jacob answered Shechem and Hamor his father deceitfully, and said, because he had defiled Dinah their sister:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.34.14",
+      "edition_verse_id": "KJV1769:GEN.34.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "And they said unto them, We cannot do this thing, to give our sister to one that is uncircumcised; for that ",
+          "kind": "text"
+        },
+        {
+          "text": "were",
+          "kind": "supplied"
+        },
+        {
+          "text": " a reproach unto us:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.34.15",
+      "edition_verse_id": "KJV1769:GEN.34.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "But in this will we consent unto you: If ye will be as we ",
+          "kind": "text"
+        },
+        {
+          "text": "be",
+          "kind": "supplied"
+        },
+        {
+          "text": ", that every male of you be circumcised;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.34.16",
+      "edition_verse_id": "KJV1769:GEN.34.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "Then will we give our daughters unto you, and we will take your daughters to us, and we will dwell with you, and we will become one people.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.34.17",
+      "edition_verse_id": "KJV1769:GEN.34.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "But if ye will not hearken unto us, to be circumcised; then will we take our daughter, and we will be gone.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.34.18",
+      "edition_verse_id": "KJV1769:GEN.34.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "And their words pleased Hamor, and Shechem Hamor’s son.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.34.19",
+      "edition_verse_id": "KJV1769:GEN.34.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "And the young man deferred not to do the thing, because he had delight in Jacob’s daughter: and he ",
+          "kind": "text"
+        },
+        {
+          "text": "was",
+          "kind": "supplied"
+        },
+        {
+          "text": " more honourable than all the house of his father.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.34.20",
+      "edition_verse_id": "KJV1769:GEN.34.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "¶ And Hamor and Shechem his son came unto the gate of their city, and communed with the men of their city, saying,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.34.21",
+      "edition_verse_id": "KJV1769:GEN.34.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "These men ",
+          "kind": "text"
+        },
+        {
+          "text": "are",
+          "kind": "supplied"
+        },
+        {
+          "text": " peaceable with us; therefore let them dwell in the land, and trade therein; for the land, behold, ",
+          "kind": "text"
+        },
+        {
+          "text": "it is",
+          "kind": "supplied"
+        },
+        {
+          "text": " large enough for them; let us take their daughters to us for wives, and let us give them our daughters.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.34.22",
+      "edition_verse_id": "KJV1769:GEN.34.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "Only herein will the men consent unto us for to dwell with us, to be one people, if every male among us be circumcised, as they ",
+          "kind": "text"
+        },
+        {
+          "text": "are",
+          "kind": "supplied"
+        },
+        {
+          "text": " circumcised.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.34.23",
+      "edition_verse_id": "KJV1769:GEN.34.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "Shall",
+          "kind": "supplied"
+        },
+        {
+          "text": " not their cattle and their substance and every beast of theirs ",
+          "kind": "text"
+        },
+        {
+          "text": "be",
+          "kind": "supplied"
+        },
+        {
+          "text": " ours? only let us consent unto them, and they will dwell with us.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.34.24",
+      "edition_verse_id": "KJV1769:GEN.34.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "And unto Hamor and unto Shechem his son hearkened all that went out of the gate of his city; and every male was circumcised, all that went out of the gate of his city.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.34.25",
+      "edition_verse_id": "KJV1769:GEN.34.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "¶ And it came to pass on the third day, when they were sore, that two of the sons of Jacob, Simeon and Levi, Dinah’s brethren, took each man his sword, and came upon the city boldly, and slew all the males.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.34.26",
+      "edition_verse_id": "KJV1769:GEN.34.26",
+      "verse": 26,
+      "spans": [
+        {
+          "text": "And they slew Hamor and Shechem his son with the edge of the sword, and took Dinah out of Shechem’s house, and went out.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.34.27",
+      "edition_verse_id": "KJV1769:GEN.34.27",
+      "verse": 27,
+      "spans": [
+        {
+          "text": "The sons of Jacob came upon the slain, and spoiled the city, because they had defiled their sister.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.34.28",
+      "edition_verse_id": "KJV1769:GEN.34.28",
+      "verse": 28,
+      "spans": [
+        {
+          "text": "They took their sheep, and their oxen, and their asses, and that which ",
+          "kind": "text"
+        },
+        {
+          "text": "was",
+          "kind": "supplied"
+        },
+        {
+          "text": " in the city, and that which ",
+          "kind": "text"
+        },
+        {
+          "text": "was",
+          "kind": "supplied"
+        },
+        {
+          "text": " in the field,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.34.29",
+      "edition_verse_id": "KJV1769:GEN.34.29",
+      "verse": 29,
+      "spans": [
+        {
+          "text": "And all their wealth, and all their little ones, and their wives took they captive, and spoiled even all that ",
+          "kind": "text"
+        },
+        {
+          "text": "was",
+          "kind": "supplied"
+        },
+        {
+          "text": " in the house.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.34.30",
+      "edition_verse_id": "KJV1769:GEN.34.30",
+      "verse": 30,
+      "spans": [
+        {
+          "text": "And Jacob said to Simeon and Levi, Ye have troubled me to make me to stink among the inhabitants of the land, among the Canaanites and the Perizzites: and I ",
+          "kind": "text"
+        },
+        {
+          "text": "being",
+          "kind": "supplied"
+        },
+        {
+          "text": " few in number, they shall gather themselves together against me, and slay me; and I shall be destroyed, I and my house.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.34.31",
+      "edition_verse_id": "KJV1769:GEN.34.31",
+      "verse": 31,
+      "spans": [
+        {
+          "text": "And they said, Should he deal with our sister as with an harlot?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

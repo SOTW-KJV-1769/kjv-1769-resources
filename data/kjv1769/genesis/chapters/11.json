@@ -1,0 +1,448 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "KJV1769",
+  "book_code": "GEN",
+  "chapter": 11,
+  "verses": [
+    {
+      "id": "GEN.11.1",
+      "edition_verse_id": "KJV1769:GEN.11.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "And the whole earth was of one language, and of one speech.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.11.2",
+      "edition_verse_id": "KJV1769:GEN.11.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "And it came to pass, as they journeyed from the east, that they found a plain in the land of Shinar; and they dwelt there.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.11.3",
+      "edition_verse_id": "KJV1769:GEN.11.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "And they said one to another, Go to, let us make brick, and burn them throughly. And they had brick for stone, and slime had they for morter.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.11.4",
+      "edition_verse_id": "KJV1769:GEN.11.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "And they said, Go to, let us build us a city and a tower, whose top ",
+          "kind": "text"
+        },
+        {
+          "text": "may reach",
+          "kind": "supplied"
+        },
+        {
+          "text": " unto heaven; and let us make us a name, lest we be scattered abroad upon the face of the whole earth.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.11.5",
+      "edition_verse_id": "KJV1769:GEN.11.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "And the LORD came down to see the city and the tower, which the children of men builded.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.11.6",
+      "edition_verse_id": "KJV1769:GEN.11.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "And the LORD said, Behold, the people ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " one, and they have all one language; and this they begin to do: and now nothing will be restrained from them, which they have imagined to do.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.11.7",
+      "edition_verse_id": "KJV1769:GEN.11.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "Go to, let us go down, and there confound their language, that they may not understand one another’s speech.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.11.8",
+      "edition_verse_id": "KJV1769:GEN.11.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "So the LORD scattered them abroad from thence upon the face of all the earth: and they left off to build the city.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.11.9",
+      "edition_verse_id": "KJV1769:GEN.11.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "Therefore is the name of it called Babel; because the LORD did there confound the language of all the earth: and from thence did the LORD scatter them abroad upon the face of all the earth.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.11.10",
+      "edition_verse_id": "KJV1769:GEN.11.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "¶ These ",
+          "kind": "text"
+        },
+        {
+          "text": "are",
+          "kind": "supplied"
+        },
+        {
+          "text": " the generations of Shem: Shem ",
+          "kind": "text"
+        },
+        {
+          "text": "was",
+          "kind": "supplied"
+        },
+        {
+          "text": " an hundred years old, and begat Arphaxad two years after the flood:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.11.11",
+      "edition_verse_id": "KJV1769:GEN.11.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "And Shem lived after he begat Arphaxad five hundred years, and begat sons and daughters.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.11.12",
+      "edition_verse_id": "KJV1769:GEN.11.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "And Arphaxad lived five and thirty years, and begat Salah:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.11.13",
+      "edition_verse_id": "KJV1769:GEN.11.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "And Arphaxad lived after he begat Salah four hundred and three years, and begat sons and daughters.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.11.14",
+      "edition_verse_id": "KJV1769:GEN.11.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "And Salah lived thirty years, and begat Eber:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.11.15",
+      "edition_verse_id": "KJV1769:GEN.11.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "And Salah lived after he begat Eber four hundred and three years, and begat sons and daughters.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.11.16",
+      "edition_verse_id": "KJV1769:GEN.11.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "And Eber lived four and thirty years, and begat Peleg:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.11.17",
+      "edition_verse_id": "KJV1769:GEN.11.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "And Eber lived after he begat Peleg four hundred and thirty years, and begat sons and daughters.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.11.18",
+      "edition_verse_id": "KJV1769:GEN.11.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "And Peleg lived thirty years, and begat Reu:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.11.19",
+      "edition_verse_id": "KJV1769:GEN.11.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "And Peleg lived after he begat Reu two hundred and nine years, and begat sons and daughters.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.11.20",
+      "edition_verse_id": "KJV1769:GEN.11.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "And Reu lived two and thirty years, and begat Serug:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.11.21",
+      "edition_verse_id": "KJV1769:GEN.11.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "And Reu lived after he begat Serug two hundred and seven years, and begat sons and daughters.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.11.22",
+      "edition_verse_id": "KJV1769:GEN.11.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "And Serug lived thirty years, and begat Nahor:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.11.23",
+      "edition_verse_id": "KJV1769:GEN.11.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "And Serug lived after he begat Nahor two hundred years, and begat sons and daughters.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.11.24",
+      "edition_verse_id": "KJV1769:GEN.11.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "And Nahor lived nine and twenty years, and begat Terah:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.11.25",
+      "edition_verse_id": "KJV1769:GEN.11.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "And Nahor lived after he begat Terah an hundred and nineteen years, and begat sons and daughters.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.11.26",
+      "edition_verse_id": "KJV1769:GEN.11.26",
+      "verse": 26,
+      "spans": [
+        {
+          "text": "And Terah lived seventy years, and begat Abram, Nahor, and Haran.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.11.27",
+      "edition_verse_id": "KJV1769:GEN.11.27",
+      "verse": 27,
+      "spans": [
+        {
+          "text": "¶ Now these ",
+          "kind": "text"
+        },
+        {
+          "text": "are",
+          "kind": "supplied"
+        },
+        {
+          "text": " the generations of Terah: Terah begat Abram, Nahor, and Haran; and Haran begat Lot.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.11.28",
+      "edition_verse_id": "KJV1769:GEN.11.28",
+      "verse": 28,
+      "spans": [
+        {
+          "text": "And Haran died before his father Terah in the land of his nativity, in Ur of the Chaldees.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.11.29",
+      "edition_verse_id": "KJV1769:GEN.11.29",
+      "verse": 29,
+      "spans": [
+        {
+          "text": "And Abram and Nahor took them wives: the name of Abram’s wife ",
+          "kind": "text"
+        },
+        {
+          "text": "was",
+          "kind": "supplied"
+        },
+        {
+          "text": " Sarai; and the name of Nahor’s wife, Milcah, the daughter of Haran, the father of Milcah, and the father of Iscah.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.11.30",
+      "edition_verse_id": "KJV1769:GEN.11.30",
+      "verse": 30,
+      "spans": [
+        {
+          "text": "But Sarai was barren; she ",
+          "kind": "text"
+        },
+        {
+          "text": "had",
+          "kind": "supplied"
+        },
+        {
+          "text": " no child.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.11.31",
+      "edition_verse_id": "KJV1769:GEN.11.31",
+      "verse": 31,
+      "spans": [
+        {
+          "text": "And Terah took Abram his son, and Lot the son of Haran his son’s son, and Sarai his daughter in law, his son Abram’s wife; and they went forth with them from Ur of the Chaldees, to go into the land of Canaan; and they came unto Haran, and dwelt there.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.11.32",
+      "edition_verse_id": "KJV1769:GEN.11.32",
+      "verse": 32,
+      "spans": [
+        {
+          "text": "And the days of Terah were two hundred and five years: and Terah died in Haran.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

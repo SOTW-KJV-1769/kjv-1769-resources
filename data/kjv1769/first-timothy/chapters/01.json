@@ -1,0 +1,328 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "KJV1769",
+  "book_code": "1TI",
+  "chapter": 1,
+  "verses": [
+    {
+      "id": "1TI.1.1",
+      "edition_verse_id": "KJV1769:1TI.1.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "Paul, an apostle of Jesus Christ by the commandment of God our Saviour, and Lord Jesus Christ, ",
+          "kind": "text"
+        },
+        {
+          "text": "which is",
+          "kind": "supplied"
+        },
+        {
+          "text": " our hope;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1TI.1.2",
+      "edition_verse_id": "KJV1769:1TI.1.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "Unto Timothy, ",
+          "kind": "text"
+        },
+        {
+          "text": "my",
+          "kind": "supplied"
+        },
+        {
+          "text": " own son in the faith: Grace, mercy, ",
+          "kind": "text"
+        },
+        {
+          "text": "and",
+          "kind": "supplied"
+        },
+        {
+          "text": " peace, from God our Father and Jesus Christ our Lord.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1TI.1.3",
+      "edition_verse_id": "KJV1769:1TI.1.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "As I besought thee to abide still at Ephesus, when I went into Macedonia, that thou mightest charge some that they teach no other doctrine,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1TI.1.4",
+      "edition_verse_id": "KJV1769:1TI.1.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "Neither give heed to fables and endless genealogies, which minister questions, rather than godly edifying which is in faith: ",
+          "kind": "text"
+        },
+        {
+          "text": "so do",
+          "kind": "supplied"
+        },
+        {
+          "text": ".",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1TI.1.5",
+      "edition_verse_id": "KJV1769:1TI.1.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "Now the end of the commandment is charity out of a pure heart, and ",
+          "kind": "text"
+        },
+        {
+          "text": "of",
+          "kind": "supplied"
+        },
+        {
+          "text": " a good conscience, and ",
+          "kind": "text"
+        },
+        {
+          "text": "of",
+          "kind": "supplied"
+        },
+        {
+          "text": " faith unfeigned:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1TI.1.6",
+      "edition_verse_id": "KJV1769:1TI.1.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "From which some having swerved have turned aside unto vain jangling;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1TI.1.7",
+      "edition_verse_id": "KJV1769:1TI.1.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "Desiring to be teachers of the law; understanding neither what they say, nor whereof they affirm.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1TI.1.8",
+      "edition_verse_id": "KJV1769:1TI.1.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "But we know that the law ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " good, if a man use it lawfully;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1TI.1.9",
+      "edition_verse_id": "KJV1769:1TI.1.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "Knowing this, that the law is not made for a righteous man, but for the lawless and disobedient, for the ungodly and for sinners, for unholy and profane, for murderers of fathers and murderers of mothers, for manslayers,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1TI.1.10",
+      "edition_verse_id": "KJV1769:1TI.1.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "For whoremongers, for them that defile themselves with mankind, for menstealers, for liars, for perjured persons, and if there be any other thing that is contrary to sound doctrine;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1TI.1.11",
+      "edition_verse_id": "KJV1769:1TI.1.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "According to the glorious gospel of the blessed God, which was committed to my trust.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1TI.1.12",
+      "edition_verse_id": "KJV1769:1TI.1.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "And I thank Christ Jesus our Lord, who hath enabled me, for that he counted me faithful, putting me into the ministry;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1TI.1.13",
+      "edition_verse_id": "KJV1769:1TI.1.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "Who was before a blasphemer, and a persecutor, and injurious: but I obtained mercy, because I did ",
+          "kind": "text"
+        },
+        {
+          "text": "it",
+          "kind": "supplied"
+        },
+        {
+          "text": " ignorantly in unbelief.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1TI.1.14",
+      "edition_verse_id": "KJV1769:1TI.1.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "And the grace of our Lord was exceeding abundant with faith and love which is in Christ Jesus.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1TI.1.15",
+      "edition_verse_id": "KJV1769:1TI.1.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "This ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " a faithful saying, and worthy of all acceptation, that Christ Jesus came into the world to save sinners; of whom I am chief.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1TI.1.16",
+      "edition_verse_id": "KJV1769:1TI.1.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "Howbeit for this cause I obtained mercy, that in me first Jesus Christ might shew forth all longsuffering, for a pattern to them which should hereafter believe on him to life everlasting.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1TI.1.17",
+      "edition_verse_id": "KJV1769:1TI.1.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "Now unto the King eternal, immortal, invisible, the only wise God, ",
+          "kind": "text"
+        },
+        {
+          "text": "be",
+          "kind": "supplied"
+        },
+        {
+          "text": " honour and glory for ever and ever. Amen.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1TI.1.18",
+      "edition_verse_id": "KJV1769:1TI.1.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "This charge I commit unto thee, son Timothy, according to the prophecies which went before on thee, that thou by them mightest war a good warfare;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1TI.1.19",
+      "edition_verse_id": "KJV1769:1TI.1.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "Holding faith, and a good conscience; which some having put away concerning faith have made shipwreck:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1TI.1.20",
+      "edition_verse_id": "KJV1769:1TI.1.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "Of whom is Hymenaeus and Alexander; whom I have delivered unto Satan, that they may learn not to blaspheme.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "edition_id": "KJV1769",
+  "book_code": "1TI",
+  "chapter_count": 6,
+  "verse_count": 113,
+  "chapters": [
+    {
+      "chapter": 1,
+      "verse_count": 20,
+      "sha256": "47a1e529cd0ff00e7f4b942c38ea36222ee34d18560af349ad18c2dc33638fb6"
+    },
+    {
+      "chapter": 2,
+      "verse_count": 15,
+      "sha256": "febf5c145947a0664ba22da414c26ed81871d6f3594f1749c5b6b57380ed6130"
+    },
+    {
+      "chapter": 3,
+      "verse_count": 16,
+      "sha256": "4785250e65a1f0776b17099c024040d67d20270b61201a373afe925f1bc3d6fe"
+    },
+    {
+      "chapter": 4,
+      "verse_count": 16,
+      "sha256": "59931354c7dbc27fdd6e9e6bf559587b839519b066d1c58a8b65b78785ba079d"
+    },
+    {
+      "chapter": 5,
+      "verse_count": 25,
+      "sha256": "928d6454b25b4477622c77cfb9e2bfa9ee76a36f035ee2637773081e6ebfa40c"
+    },
+    {
+      "chapter": 6,
+      "verse_count": 21,
+      "sha256": "ddd0423ec8c71504c735f3870090fe7149e372c6248b5c0dd771af0ac662fdc5"
+    }
+  ]
+}

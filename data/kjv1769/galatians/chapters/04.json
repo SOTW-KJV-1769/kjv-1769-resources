@@ -1,0 +1,500 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "KJV1769",
+  "book_code": "GAL",
+  "chapter": 4,
+  "verses": [
+    {
+      "id": "GAL.4.1",
+      "edition_verse_id": "KJV1769:GAL.4.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "Now I say, ",
+          "kind": "text"
+        },
+        {
+          "text": "That",
+          "kind": "supplied"
+        },
+        {
+          "text": " the heir, as long as he is a child, differeth nothing from a servant, though he be lord of all;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GAL.4.2",
+      "edition_verse_id": "KJV1769:GAL.4.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "But is under tutors and governors until the time appointed of the father.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GAL.4.3",
+      "edition_verse_id": "KJV1769:GAL.4.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "Even so we, when we were children, were in bondage under the elements of the world:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GAL.4.4",
+      "edition_verse_id": "KJV1769:GAL.4.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "But when the fulness of the time was come, God sent forth his Son, made of a woman, made under the law,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GAL.4.5",
+      "edition_verse_id": "KJV1769:GAL.4.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "To redeem them that were under the law, that we might receive the adoption of sons.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GAL.4.6",
+      "edition_verse_id": "KJV1769:GAL.4.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "And because ye are sons, God hath sent forth the Spirit of his Son into your hearts, crying, Abba, Father.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GAL.4.7",
+      "edition_verse_id": "KJV1769:GAL.4.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "Wherefore thou art no more a servant, but a son; and if a son, then an heir of God through Christ.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GAL.4.8",
+      "edition_verse_id": "KJV1769:GAL.4.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "Howbeit then, when ye knew not God, ye did service unto them which by nature are no gods.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GAL.4.9",
+      "edition_verse_id": "KJV1769:GAL.4.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "But now, after that ye have known God, or rather are known of God, how turn ye again to the weak and beggarly elements, whereunto ye desire again to be in bondage?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GAL.4.10",
+      "edition_verse_id": "KJV1769:GAL.4.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "Ye observe days, and months, and times, and years.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GAL.4.11",
+      "edition_verse_id": "KJV1769:GAL.4.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "I am afraid of you, lest I have bestowed upon you labour in vain.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GAL.4.12",
+      "edition_verse_id": "KJV1769:GAL.4.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "Brethren, I beseech you, be as I ",
+          "kind": "text"
+        },
+        {
+          "text": "am",
+          "kind": "supplied"
+        },
+        {
+          "text": "; for I ",
+          "kind": "text"
+        },
+        {
+          "text": "am",
+          "kind": "supplied"
+        },
+        {
+          "text": " as ye ",
+          "kind": "text"
+        },
+        {
+          "text": "are",
+          "kind": "supplied"
+        },
+        {
+          "text": ": ye have not injured me at all.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GAL.4.13",
+      "edition_verse_id": "KJV1769:GAL.4.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "Ye know how through infirmity of the flesh I preached the gospel unto you at the first.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GAL.4.14",
+      "edition_verse_id": "KJV1769:GAL.4.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "And my temptation which was in my flesh ye despised not, nor rejected; but received me as an angel of God, ",
+          "kind": "text"
+        },
+        {
+          "text": "even",
+          "kind": "supplied"
+        },
+        {
+          "text": " as Christ Jesus.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GAL.4.15",
+      "edition_verse_id": "KJV1769:GAL.4.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "Where is then the blessedness ye spake of? for I bear you record, that, if ",
+          "kind": "text"
+        },
+        {
+          "text": "it had been",
+          "kind": "supplied"
+        },
+        {
+          "text": " possible, ye would have plucked out your own eyes, and have given them to me.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GAL.4.16",
+      "edition_verse_id": "KJV1769:GAL.4.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "Am I therefore become your enemy, because I tell you the truth?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GAL.4.17",
+      "edition_verse_id": "KJV1769:GAL.4.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "They zealously affect you, ",
+          "kind": "text"
+        },
+        {
+          "text": "but",
+          "kind": "supplied"
+        },
+        {
+          "text": " not well; yea, they would exclude you, that ye might affect them.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GAL.4.18",
+      "edition_verse_id": "KJV1769:GAL.4.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "But ",
+          "kind": "text"
+        },
+        {
+          "text": "it is",
+          "kind": "supplied"
+        },
+        {
+          "text": " good to be zealously affected always in ",
+          "kind": "text"
+        },
+        {
+          "text": "a",
+          "kind": "supplied"
+        },
+        {
+          "text": " good ",
+          "kind": "text"
+        },
+        {
+          "text": "thing",
+          "kind": "supplied"
+        },
+        {
+          "text": ", and not only when I am present with you.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GAL.4.19",
+      "edition_verse_id": "KJV1769:GAL.4.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "My little children, of whom I travail in birth again until Christ be formed in you,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GAL.4.20",
+      "edition_verse_id": "KJV1769:GAL.4.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "I desire to be present with you now, and to change my voice; for I stand in doubt of you.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GAL.4.21",
+      "edition_verse_id": "KJV1769:GAL.4.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "Tell me, ye that desire to be under the law, do ye not hear the law?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GAL.4.22",
+      "edition_verse_id": "KJV1769:GAL.4.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "For it is written, that Abraham had two sons, the one by a bondmaid, the other by a freewoman.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GAL.4.23",
+      "edition_verse_id": "KJV1769:GAL.4.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "But he ",
+          "kind": "text"
+        },
+        {
+          "text": "who was",
+          "kind": "supplied"
+        },
+        {
+          "text": " of the bondwoman was born after the flesh; but he of the freewoman ",
+          "kind": "text"
+        },
+        {
+          "text": "was",
+          "kind": "supplied"
+        },
+        {
+          "text": " by promise.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GAL.4.24",
+      "edition_verse_id": "KJV1769:GAL.4.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "Which things are an allegory: for these are the two covenants; the one from the mount Sinai, which gendereth to bondage, which is Agar.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GAL.4.25",
+      "edition_verse_id": "KJV1769:GAL.4.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "For this Agar is mount Sinai in Arabia, and answereth to Jerusalem which now is, and is in bondage with her children.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GAL.4.26",
+      "edition_verse_id": "KJV1769:GAL.4.26",
+      "verse": 26,
+      "spans": [
+        {
+          "text": "But Jerusalem which is above is free, which is the mother of us all.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GAL.4.27",
+      "edition_verse_id": "KJV1769:GAL.4.27",
+      "verse": 27,
+      "spans": [
+        {
+          "text": "For it is written, Rejoice, ",
+          "kind": "text"
+        },
+        {
+          "text": "thou",
+          "kind": "supplied"
+        },
+        {
+          "text": " barren that bearest not; break forth and cry, thou that travailest not: for the desolate hath many more children than she which hath an husband.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GAL.4.28",
+      "edition_verse_id": "KJV1769:GAL.4.28",
+      "verse": 28,
+      "spans": [
+        {
+          "text": "Now we, brethren, as Isaac was, are the children of promise.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GAL.4.29",
+      "edition_verse_id": "KJV1769:GAL.4.29",
+      "verse": 29,
+      "spans": [
+        {
+          "text": "But as then he that was born after the flesh persecuted him ",
+          "kind": "text"
+        },
+        {
+          "text": "that was born",
+          "kind": "supplied"
+        },
+        {
+          "text": " after the Spirit, even so ",
+          "kind": "text"
+        },
+        {
+          "text": "it is",
+          "kind": "supplied"
+        },
+        {
+          "text": " now.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GAL.4.30",
+      "edition_verse_id": "KJV1769:GAL.4.30",
+      "verse": 30,
+      "spans": [
+        {
+          "text": "Nevertheless what saith the scripture? Cast out the bondwoman and her son: for the son of the bondwoman shall not be heir with the son of the freewoman.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GAL.4.31",
+      "edition_verse_id": "KJV1769:GAL.4.31",
+      "verse": 31,
+      "spans": [
+        {
+          "text": "So then, brethren, we are not children of the bondwoman, but of the free.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

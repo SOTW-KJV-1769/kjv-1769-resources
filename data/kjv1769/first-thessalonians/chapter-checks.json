@@ -1,0 +1,33 @@
+{
+  "edition_id": "KJV1769",
+  "book_code": "1TH",
+  "chapter_count": 5,
+  "verse_count": 89,
+  "chapters": [
+    {
+      "chapter": 1,
+      "verse_count": 10,
+      "sha256": "eae9ce3610e5c96737a194b4f6d70c684915a4233d456fb4e3277d8edf6e45d9"
+    },
+    {
+      "chapter": 2,
+      "verse_count": 20,
+      "sha256": "81bf8ee8f8cac392e93cc66977de4de0d8ffc74a9aebb0059b11cba16cedad94"
+    },
+    {
+      "chapter": 3,
+      "verse_count": 13,
+      "sha256": "05461405ca52d78574b60a4486db8836ac1ed5ff15afa737f35b8cfa551f0139"
+    },
+    {
+      "chapter": 4,
+      "verse_count": 18,
+      "sha256": "129f36e813fc0d3082c425cd006c62ad7396fbb94989829bc649b0426ae22ae8"
+    },
+    {
+      "chapter": 5,
+      "verse_count": 28,
+      "sha256": "1c48728a49e90d975e500643a806330083e4b54686dce2a7cf0b70bd74fbd7ec"
+    }
+  ]
+}

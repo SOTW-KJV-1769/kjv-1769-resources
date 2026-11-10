@@ -1,0 +1,408 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "KJV1769",
+  "book_code": "GEN",
+  "chapter": 4,
+  "verses": [
+    {
+      "id": "GEN.4.1",
+      "edition_verse_id": "KJV1769:GEN.4.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "And Adam knew Eve his wife; and she conceived, and bare Cain, and said, I have gotten a man from the LORD.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.4.2",
+      "edition_verse_id": "KJV1769:GEN.4.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "And she again bare his brother Abel. And Abel was a keeper of sheep, but Cain was a tiller of the ground.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.4.3",
+      "edition_verse_id": "KJV1769:GEN.4.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "And in process of time it came to pass, that Cain brought of the fruit of the ground an offering unto the LORD.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.4.4",
+      "edition_verse_id": "KJV1769:GEN.4.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "And Abel, he also brought of the firstlings of his flock and of the fat thereof. And the LORD had respect unto Abel and to his offering:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.4.5",
+      "edition_verse_id": "KJV1769:GEN.4.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "But unto Cain and to his offering he had not respect. And Cain was very wroth, and his countenance fell.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.4.6",
+      "edition_verse_id": "KJV1769:GEN.4.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "And the LORD said unto Cain, Why art thou wroth? and why is thy countenance fallen?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.4.7",
+      "edition_verse_id": "KJV1769:GEN.4.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "If thou doest well, shalt thou not be accepted? and if thou doest not well, sin lieth at the door. And unto thee ",
+          "kind": "text"
+        },
+        {
+          "text": "shall be",
+          "kind": "supplied"
+        },
+        {
+          "text": " his desire, and thou shalt rule over him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.4.8",
+      "edition_verse_id": "KJV1769:GEN.4.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "And Cain talked with Abel his brother: and it came to pass, when they were in the field, that Cain rose up against Abel his brother, and slew him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.4.9",
+      "edition_verse_id": "KJV1769:GEN.4.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "¶ And the LORD said unto Cain, Where ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " Abel thy brother? And he said, I know not: ",
+          "kind": "text"
+        },
+        {
+          "text": "Am",
+          "kind": "supplied"
+        },
+        {
+          "text": " I my brother’s keeper?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.4.10",
+      "edition_verse_id": "KJV1769:GEN.4.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "And he said, What hast thou done? the voice of thy brother’s blood crieth unto me from the ground.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.4.11",
+      "edition_verse_id": "KJV1769:GEN.4.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "And now ",
+          "kind": "text"
+        },
+        {
+          "text": "art",
+          "kind": "supplied"
+        },
+        {
+          "text": " thou cursed from the earth, which hath opened her mouth to receive thy brother’s blood from thy hand;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.4.12",
+      "edition_verse_id": "KJV1769:GEN.4.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "When thou tillest the ground, it shall not henceforth yield unto thee her strength; a fugitive and a vagabond shalt thou be in the earth.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.4.13",
+      "edition_verse_id": "KJV1769:GEN.4.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "And Cain said unto the LORD, My punishment ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " greater than I can bear.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.4.14",
+      "edition_verse_id": "KJV1769:GEN.4.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "Behold, thou hast driven me out this day from the face of the earth; and from thy face shall I be hid; and I shall be a fugitive and a vagabond in the earth; and it shall come to pass, ",
+          "kind": "text"
+        },
+        {
+          "text": "that",
+          "kind": "supplied"
+        },
+        {
+          "text": " every one that findeth me shall slay me.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.4.15",
+      "edition_verse_id": "KJV1769:GEN.4.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "And the LORD said unto him, Therefore whosoever slayeth Cain, vengeance shall be taken on him sevenfold. And the LORD set a mark upon Cain, lest any finding him should kill him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.4.16",
+      "edition_verse_id": "KJV1769:GEN.4.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "¶ And Cain went out from the presence of the LORD, and dwelt in the land of Nod, on the east of Eden.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.4.17",
+      "edition_verse_id": "KJV1769:GEN.4.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "And Cain knew his wife; and she conceived, and bare Enoch: and he builded a city, and called the name of the city, after the name of his son, Enoch.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.4.18",
+      "edition_verse_id": "KJV1769:GEN.4.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "And unto Enoch was born Irad: and Irad begat Mehujael: and Mehujael begat Methusael: and Methusael begat Lamech.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.4.19",
+      "edition_verse_id": "KJV1769:GEN.4.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "¶ And Lamech took unto him two wives: the name of the one ",
+          "kind": "text"
+        },
+        {
+          "text": "was",
+          "kind": "supplied"
+        },
+        {
+          "text": " Adah, and the name of the other Zillah.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.4.20",
+      "edition_verse_id": "KJV1769:GEN.4.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "And Adah bare Jabal: he was the father of such as dwell in tents, and ",
+          "kind": "text"
+        },
+        {
+          "text": "of such as have",
+          "kind": "supplied"
+        },
+        {
+          "text": " cattle.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.4.21",
+      "edition_verse_id": "KJV1769:GEN.4.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "And his brother’s name ",
+          "kind": "text"
+        },
+        {
+          "text": "was",
+          "kind": "supplied"
+        },
+        {
+          "text": " Jubal: he was the father of all such as handle the harp and organ.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.4.22",
+      "edition_verse_id": "KJV1769:GEN.4.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "And Zillah, she also bare Tubal-cain, an instructer of every artificer in brass and iron: and the sister of Tubal-cain ",
+          "kind": "text"
+        },
+        {
+          "text": "was",
+          "kind": "supplied"
+        },
+        {
+          "text": " Naamah.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.4.23",
+      "edition_verse_id": "KJV1769:GEN.4.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "And Lamech said unto his wives, Adah and Zillah, Hear my voice; ye wives of Lamech, hearken unto my speech: for I have slain a man to my wounding, and a young man to my hurt.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.4.24",
+      "edition_verse_id": "KJV1769:GEN.4.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "If Cain shall be avenged sevenfold, truly Lamech seventy and sevenfold.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.4.25",
+      "edition_verse_id": "KJV1769:GEN.4.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "¶ And Adam knew his wife again; and she bare a son, and called his name Seth: For God, ",
+          "kind": "text"
+        },
+        {
+          "text": "said she",
+          "kind": "supplied"
+        },
+        {
+          "text": ", hath appointed me another seed instead of Abel, whom Cain slew.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.4.26",
+      "edition_verse_id": "KJV1769:GEN.4.26",
+      "verse": 26,
+      "spans": [
+        {
+          "text": "And to Seth, to him also there was born a son; and he called his name Enos: then began men to call upon the name of the LORD.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

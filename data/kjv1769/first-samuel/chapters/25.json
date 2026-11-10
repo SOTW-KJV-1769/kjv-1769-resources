@@ -1,0 +1,952 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "KJV1769",
+  "book_code": "1SA",
+  "chapter": 25,
+  "verses": [
+    {
+      "id": "1SA.25.1",
+      "edition_verse_id": "KJV1769:1SA.25.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "And Samuel died; and all the Israelites were gathered together, and lamented him, and buried him in his house at Ramah. And David arose, and went down to the wilderness of Paran.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1SA.25.2",
+      "edition_verse_id": "KJV1769:1SA.25.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "And ",
+          "kind": "text"
+        },
+        {
+          "text": "there was",
+          "kind": "supplied"
+        },
+        {
+          "text": " a man in Maon, whose possessions ",
+          "kind": "text"
+        },
+        {
+          "text": "were",
+          "kind": "supplied"
+        },
+        {
+          "text": " in Carmel; and the man ",
+          "kind": "text"
+        },
+        {
+          "text": "was",
+          "kind": "supplied"
+        },
+        {
+          "text": " very great, and he had three thousand sheep, and a thousand goats: and he was shearing his sheep in Carmel.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1SA.25.3",
+      "edition_verse_id": "KJV1769:1SA.25.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "Now the name of the man ",
+          "kind": "text"
+        },
+        {
+          "text": "was",
+          "kind": "supplied"
+        },
+        {
+          "text": " Nabal; and the name of his wife Abigail: and ",
+          "kind": "text"
+        },
+        {
+          "text": "she was",
+          "kind": "supplied"
+        },
+        {
+          "text": " a woman of good understanding, and of a beautiful countenance: but the man ",
+          "kind": "text"
+        },
+        {
+          "text": "was",
+          "kind": "supplied"
+        },
+        {
+          "text": " churlish and evil in his doings; and he ",
+          "kind": "text"
+        },
+        {
+          "text": "was",
+          "kind": "supplied"
+        },
+        {
+          "text": " of the house of Caleb.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1SA.25.4",
+      "edition_verse_id": "KJV1769:1SA.25.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "¶ And David heard in the wilderness that Nabal did shear his sheep.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1SA.25.5",
+      "edition_verse_id": "KJV1769:1SA.25.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "And David sent out ten young men, and David said unto the young men, Get you up to Carmel, and go to Nabal, and greet him in my name:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1SA.25.6",
+      "edition_verse_id": "KJV1769:1SA.25.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "And thus shall ye say to him that liveth ",
+          "kind": "text"
+        },
+        {
+          "text": "in prosperity",
+          "kind": "supplied"
+        },
+        {
+          "text": ", Peace ",
+          "kind": "text"
+        },
+        {
+          "text": "be",
+          "kind": "supplied"
+        },
+        {
+          "text": " both to thee, and peace ",
+          "kind": "text"
+        },
+        {
+          "text": "be",
+          "kind": "supplied"
+        },
+        {
+          "text": " to thine house, and peace ",
+          "kind": "text"
+        },
+        {
+          "text": "be",
+          "kind": "supplied"
+        },
+        {
+          "text": " unto all that thou hast.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1SA.25.7",
+      "edition_verse_id": "KJV1769:1SA.25.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "And now I have heard that thou hast shearers: now thy shepherds which were with us, we hurt them not, neither was there ought missing unto them, all the while they were in Carmel.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1SA.25.8",
+      "edition_verse_id": "KJV1769:1SA.25.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "Ask thy young men, and they will shew thee. Wherefore let the young men find favour in thine eyes: for we come in a good day: give, I pray thee, whatsoever cometh to thine hand unto thy servants, and to thy son David.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1SA.25.9",
+      "edition_verse_id": "KJV1769:1SA.25.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "And when David’s young men came, they spake to Nabal according to all those words in the name of David, and ceased.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1SA.25.10",
+      "edition_verse_id": "KJV1769:1SA.25.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "¶ And Nabal answered David’s servants, and said, Who ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " David? and who ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " the son of Jesse? there be many servants now a days that break away every man from his master.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1SA.25.11",
+      "edition_verse_id": "KJV1769:1SA.25.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "Shall I then take my bread, and my water, and my flesh that I have killed for my shearers, and give ",
+          "kind": "text"
+        },
+        {
+          "text": "it",
+          "kind": "supplied"
+        },
+        {
+          "text": " unto men, whom I know not whence they ",
+          "kind": "text"
+        },
+        {
+          "text": "be",
+          "kind": "supplied"
+        },
+        {
+          "text": "?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1SA.25.12",
+      "edition_verse_id": "KJV1769:1SA.25.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "So David’s young men turned their way, and went again, and came and told him all those sayings.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1SA.25.13",
+      "edition_verse_id": "KJV1769:1SA.25.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "And David said unto his men, Gird ye on every man his sword. And they girded on every man his sword; and David also girded on his sword: and there went up after David about four hundred men; and two hundred abode by the stuff.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1SA.25.14",
+      "edition_verse_id": "KJV1769:1SA.25.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "¶ But one of the young men told Abigail, Nabal’s wife, saying, Behold, David sent messengers out of the wilderness to salute our master; and he railed on them.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1SA.25.15",
+      "edition_verse_id": "KJV1769:1SA.25.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "But the men ",
+          "kind": "text"
+        },
+        {
+          "text": "were",
+          "kind": "supplied"
+        },
+        {
+          "text": " very good unto us, and we were not hurt, neither missed we any thing, as long as we were conversant with them, when we were in the fields:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1SA.25.16",
+      "edition_verse_id": "KJV1769:1SA.25.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "They were a wall unto us both by night and day, all the while we were with them keeping the sheep.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1SA.25.17",
+      "edition_verse_id": "KJV1769:1SA.25.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "Now therefore know and consider what thou wilt do; for evil is determined against our master, and against all his household: for he ",
+          "kind": "text"
+        },
+        {
+          "text": "is such",
+          "kind": "supplied"
+        },
+        {
+          "text": " a son of Belial, that ",
+          "kind": "text"
+        },
+        {
+          "text": "a man",
+          "kind": "supplied"
+        },
+        {
+          "text": " cannot speak to him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1SA.25.18",
+      "edition_verse_id": "KJV1769:1SA.25.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "¶ Then Abigail made haste, and took two hundred loaves, and two bottles of wine, and five sheep ready dressed, and five measures of parched ",
+          "kind": "text"
+        },
+        {
+          "text": "corn",
+          "kind": "supplied"
+        },
+        {
+          "text": ", and an hundred clusters of raisins, and two hundred cakes of figs, and laid ",
+          "kind": "text"
+        },
+        {
+          "text": "them",
+          "kind": "supplied"
+        },
+        {
+          "text": " on asses.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1SA.25.19",
+      "edition_verse_id": "KJV1769:1SA.25.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "And she said unto her servants, Go on before me; behold, I come after you. But she told not her husband Nabal.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1SA.25.20",
+      "edition_verse_id": "KJV1769:1SA.25.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "And it was ",
+          "kind": "text"
+        },
+        {
+          "text": "so, as",
+          "kind": "supplied"
+        },
+        {
+          "text": " she rode on the ass, that she came down by the covert of the hill, and, behold, David and his men came down against her; and she met them.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1SA.25.21",
+      "edition_verse_id": "KJV1769:1SA.25.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "Now David had said, Surely in vain have I kept all that this ",
+          "kind": "text"
+        },
+        {
+          "text": "fellow",
+          "kind": "supplied"
+        },
+        {
+          "text": " hath in the wilderness, so that nothing was missed of all that ",
+          "kind": "text"
+        },
+        {
+          "text": "pertained",
+          "kind": "supplied"
+        },
+        {
+          "text": " unto him: and he hath requited me evil for good.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1SA.25.22",
+      "edition_verse_id": "KJV1769:1SA.25.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "So and more also do God unto the enemies of David, if I leave of all that ",
+          "kind": "text"
+        },
+        {
+          "text": "pertain",
+          "kind": "supplied"
+        },
+        {
+          "text": " to him by the morning light any that pisseth against the wall.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1SA.25.23",
+      "edition_verse_id": "KJV1769:1SA.25.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "And when Abigail saw David, she hasted, and lighted off the ass, and fell before David on her face, and bowed herself to the ground,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1SA.25.24",
+      "edition_verse_id": "KJV1769:1SA.25.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "And fell at his feet, and said, Upon me, my lord, ",
+          "kind": "text"
+        },
+        {
+          "text": "upon",
+          "kind": "supplied"
+        },
+        {
+          "text": " me ",
+          "kind": "text"
+        },
+        {
+          "text": "let this",
+          "kind": "supplied"
+        },
+        {
+          "text": " iniquity ",
+          "kind": "text"
+        },
+        {
+          "text": "be:",
+          "kind": "supplied"
+        },
+        {
+          "text": " and let thine handmaid, I pray thee, speak in thine audience, and hear the words of thine handmaid.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1SA.25.25",
+      "edition_verse_id": "KJV1769:1SA.25.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "Let not my lord, I pray thee, regard this man of Belial, ",
+          "kind": "text"
+        },
+        {
+          "text": "even",
+          "kind": "supplied"
+        },
+        {
+          "text": " Nabal: for as his name ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": ", so ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " he; Nabal ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " his name, and folly ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " with him: but I thine handmaid saw not the young men of my lord, whom thou didst send.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1SA.25.26",
+      "edition_verse_id": "KJV1769:1SA.25.26",
+      "verse": 26,
+      "spans": [
+        {
+          "text": "Now therefore, my lord, ",
+          "kind": "text"
+        },
+        {
+          "text": "as",
+          "kind": "supplied"
+        },
+        {
+          "text": " the LORD liveth, and ",
+          "kind": "text"
+        },
+        {
+          "text": "as",
+          "kind": "supplied"
+        },
+        {
+          "text": " thy soul liveth, seeing the LORD hath withholden thee from coming to ",
+          "kind": "text"
+        },
+        {
+          "text": "shed",
+          "kind": "supplied"
+        },
+        {
+          "text": " blood, and from avenging thyself with thine own hand, now let thine enemies, and they that seek evil to my lord, be as Nabal.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1SA.25.27",
+      "edition_verse_id": "KJV1769:1SA.25.27",
+      "verse": 27,
+      "spans": [
+        {
+          "text": "And now this blessing which thine handmaid hath brought unto my lord, let it even be given unto the young men that follow my lord.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1SA.25.28",
+      "edition_verse_id": "KJV1769:1SA.25.28",
+      "verse": 28,
+      "spans": [
+        {
+          "text": "I pray thee, forgive the trespass of thine handmaid: for the LORD will certainly make my lord a sure house; because my lord fighteth the battles of the LORD, and evil hath not been found in thee ",
+          "kind": "text"
+        },
+        {
+          "text": "all",
+          "kind": "supplied"
+        },
+        {
+          "text": " thy days.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1SA.25.29",
+      "edition_verse_id": "KJV1769:1SA.25.29",
+      "verse": 29,
+      "spans": [
+        {
+          "text": "Yet a man is risen to pursue thee, and to seek thy soul: but the soul of my lord shall be bound in the bundle of life with the LORD thy God; and the souls of thine enemies, them shall he sling out, ",
+          "kind": "text"
+        },
+        {
+          "text": "as out",
+          "kind": "supplied"
+        },
+        {
+          "text": " of the middle of a sling.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1SA.25.30",
+      "edition_verse_id": "KJV1769:1SA.25.30",
+      "verse": 30,
+      "spans": [
+        {
+          "text": "And it shall come to pass, when the LORD shall have done to my lord according to all the good that he hath spoken concerning thee, and shall have appointed thee ruler over Israel;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1SA.25.31",
+      "edition_verse_id": "KJV1769:1SA.25.31",
+      "verse": 31,
+      "spans": [
+        {
+          "text": "That this shall be no grief unto thee, nor offence of heart unto my lord, either that thou hast shed blood causeless, or that my lord hath avenged himself: but when the LORD shall have dealt well with my lord, then remember thine handmaid.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1SA.25.32",
+      "edition_verse_id": "KJV1769:1SA.25.32",
+      "verse": 32,
+      "spans": [
+        {
+          "text": "¶ And David said to Abigail, Blessed ",
+          "kind": "text"
+        },
+        {
+          "text": "be",
+          "kind": "supplied"
+        },
+        {
+          "text": " the LORD God of Israel, which sent thee this day to meet me:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1SA.25.33",
+      "edition_verse_id": "KJV1769:1SA.25.33",
+      "verse": 33,
+      "spans": [
+        {
+          "text": "And blessed ",
+          "kind": "text"
+        },
+        {
+          "text": "be",
+          "kind": "supplied"
+        },
+        {
+          "text": " thy advice, and blessed ",
+          "kind": "text"
+        },
+        {
+          "text": "be",
+          "kind": "supplied"
+        },
+        {
+          "text": " thou, which hast kept me this day from coming to ",
+          "kind": "text"
+        },
+        {
+          "text": "shed",
+          "kind": "supplied"
+        },
+        {
+          "text": " blood, and from avenging myself with mine own hand.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1SA.25.34",
+      "edition_verse_id": "KJV1769:1SA.25.34",
+      "verse": 34,
+      "spans": [
+        {
+          "text": "For in very deed, ",
+          "kind": "text"
+        },
+        {
+          "text": "as",
+          "kind": "supplied"
+        },
+        {
+          "text": " the LORD God of Israel liveth, which hath kept me back from hurting thee, except thou hadst hasted and come to meet me, surely there had not been left unto Nabal by the morning light any that pisseth against the wall.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1SA.25.35",
+      "edition_verse_id": "KJV1769:1SA.25.35",
+      "verse": 35,
+      "spans": [
+        {
+          "text": "So David received of her hand ",
+          "kind": "text"
+        },
+        {
+          "text": "that",
+          "kind": "supplied"
+        },
+        {
+          "text": " which she had brought him, and said unto her, Go up in peace to thine house; see, I have hearkened to thy voice, and have accepted thy person.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1SA.25.36",
+      "edition_verse_id": "KJV1769:1SA.25.36",
+      "verse": 36,
+      "spans": [
+        {
+          "text": "¶ And Abigail came to Nabal; and, behold, he held a feast in his house, like the feast of a king; and Nabal’s heart ",
+          "kind": "text"
+        },
+        {
+          "text": "was",
+          "kind": "supplied"
+        },
+        {
+          "text": " merry within him, for he ",
+          "kind": "text"
+        },
+        {
+          "text": "was",
+          "kind": "supplied"
+        },
+        {
+          "text": " very drunken: wherefore she told him nothing, less or more, until the morning light.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1SA.25.37",
+      "edition_verse_id": "KJV1769:1SA.25.37",
+      "verse": 37,
+      "spans": [
+        {
+          "text": "But it came to pass in the morning, when the wine was gone out of Nabal, and his wife had told him these things, that his heart died within him, and he became ",
+          "kind": "text"
+        },
+        {
+          "text": "as",
+          "kind": "supplied"
+        },
+        {
+          "text": " a stone.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1SA.25.38",
+      "edition_verse_id": "KJV1769:1SA.25.38",
+      "verse": 38,
+      "spans": [
+        {
+          "text": "And it came to pass about ten days ",
+          "kind": "text"
+        },
+        {
+          "text": "after",
+          "kind": "supplied"
+        },
+        {
+          "text": ", that the LORD smote Nabal, that he died.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1SA.25.39",
+      "edition_verse_id": "KJV1769:1SA.25.39",
+      "verse": 39,
+      "spans": [
+        {
+          "text": "¶ And when David heard that Nabal was dead, he said, Blessed ",
+          "kind": "text"
+        },
+        {
+          "text": "be",
+          "kind": "supplied"
+        },
+        {
+          "text": " the LORD, that hath pleaded the cause of my reproach from the hand of Nabal, and hath kept his servant from evil: for the LORD hath returned the wickedness of Nabal upon his own head. And David sent and communed with Abigail, to take her to him to wife.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1SA.25.40",
+      "edition_verse_id": "KJV1769:1SA.25.40",
+      "verse": 40,
+      "spans": [
+        {
+          "text": "And when the servants of David were come to Abigail to Carmel, they spake unto her, saying, David sent us unto thee, to take thee to him to wife.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1SA.25.41",
+      "edition_verse_id": "KJV1769:1SA.25.41",
+      "verse": 41,
+      "spans": [
+        {
+          "text": "And she arose, and bowed herself on ",
+          "kind": "text"
+        },
+        {
+          "text": "her",
+          "kind": "supplied"
+        },
+        {
+          "text": " face to the earth, and said, Behold, ",
+          "kind": "text"
+        },
+        {
+          "text": "let",
+          "kind": "supplied"
+        },
+        {
+          "text": " thine handmaid ",
+          "kind": "text"
+        },
+        {
+          "text": "be",
+          "kind": "supplied"
+        },
+        {
+          "text": " a servant to wash the feet of the servants of my lord.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1SA.25.42",
+      "edition_verse_id": "KJV1769:1SA.25.42",
+      "verse": 42,
+      "spans": [
+        {
+          "text": "And Abigail hasted, and arose, and rode upon an ass, with five damsels of hers that went after her; and she went after the messengers of David, and became his wife.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1SA.25.43",
+      "edition_verse_id": "KJV1769:1SA.25.43",
+      "verse": 43,
+      "spans": [
+        {
+          "text": "David also took Ahinoam of Jezreel; and they were also both of them his wives.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1SA.25.44",
+      "edition_verse_id": "KJV1769:1SA.25.44",
+      "verse": 44,
+      "spans": [
+        {
+          "text": "¶ But Saul had given Michal his daughter, David’s wife, to Phalti the son of Laish, which ",
+          "kind": "text"
+        },
+        {
+          "text": "was",
+          "kind": "supplied"
+        },
+        {
+          "text": " of Gallim.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    }
+  ]
+}

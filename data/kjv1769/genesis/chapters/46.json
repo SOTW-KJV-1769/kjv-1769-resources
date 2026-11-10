@@ -1,0 +1,592 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "KJV1769",
+  "book_code": "GEN",
+  "chapter": 46,
+  "verses": [
+    {
+      "id": "GEN.46.1",
+      "edition_verse_id": "KJV1769:GEN.46.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "And Israel took his journey with all that he had, and came to Beer-sheba, and offered sacrifices unto the God of his father Isaac.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.46.2",
+      "edition_verse_id": "KJV1769:GEN.46.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "And God spake unto Israel in the visions of the night, and said, Jacob, Jacob. And he said, Here ",
+          "kind": "text"
+        },
+        {
+          "text": "am",
+          "kind": "supplied"
+        },
+        {
+          "text": " I.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.46.3",
+      "edition_verse_id": "KJV1769:GEN.46.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "And he said, I ",
+          "kind": "text"
+        },
+        {
+          "text": "am",
+          "kind": "supplied"
+        },
+        {
+          "text": " God, the God of thy father: fear not to go down into Egypt; for I will there make of thee a great nation:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.46.4",
+      "edition_verse_id": "KJV1769:GEN.46.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "I will go down with thee into Egypt; and I will also surely bring thee up ",
+          "kind": "text"
+        },
+        {
+          "text": "again:",
+          "kind": "supplied"
+        },
+        {
+          "text": " and Joseph shall put his hand upon thine eyes.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.46.5",
+      "edition_verse_id": "KJV1769:GEN.46.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "And Jacob rose up from Beer-sheba: and the sons of Israel carried Jacob their father, and their little ones, and their wives, in the wagons which Pharaoh had sent to carry him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.46.6",
+      "edition_verse_id": "KJV1769:GEN.46.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "And they took their cattle, and their goods, which they had gotten in the land of Canaan, and came into Egypt, Jacob, and all his seed with him:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.46.7",
+      "edition_verse_id": "KJV1769:GEN.46.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "His sons, and his sons’ sons with him, his daughters, and his sons’ daughters, and all his seed brought he with him into Egypt.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.46.8",
+      "edition_verse_id": "KJV1769:GEN.46.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "¶ And these ",
+          "kind": "text"
+        },
+        {
+          "text": "are",
+          "kind": "supplied"
+        },
+        {
+          "text": " the names of the children of Israel, which came into Egypt, Jacob and his sons: Reuben, Jacob’s firstborn.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.46.9",
+      "edition_verse_id": "KJV1769:GEN.46.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "And the sons of Reuben; Hanoch, and Phallu, and Hezron, and Carmi.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.46.10",
+      "edition_verse_id": "KJV1769:GEN.46.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "¶ And the sons of Simeon; Jemuel, and Jamin, and Ohad, and Jachin, and Zohar, and Shaul the son of a Canaanitish woman.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.46.11",
+      "edition_verse_id": "KJV1769:GEN.46.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "¶ And the sons of Levi; Gershon, Kohath, and Merari.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.46.12",
+      "edition_verse_id": "KJV1769:GEN.46.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "¶ And the sons of Judah; Er, and Onan, and Shelah, and Pharez, and Zerah: but Er and Onan died in the land of Canaan. And the sons of Pharez were Hezron and Hamul.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.46.13",
+      "edition_verse_id": "KJV1769:GEN.46.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "¶ And the sons of Issachar; Tola, and Phuvah, and Job, and Shimron.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.46.14",
+      "edition_verse_id": "KJV1769:GEN.46.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "¶ And the sons of Zebulun; Sered, and Elon, and Jahleel.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.46.15",
+      "edition_verse_id": "KJV1769:GEN.46.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "These ",
+          "kind": "text"
+        },
+        {
+          "text": "be",
+          "kind": "supplied"
+        },
+        {
+          "text": " the sons of Leah, which she bare unto Jacob in Padan-aram, with his daughter Dinah: all the souls of his sons and his daughters ",
+          "kind": "text"
+        },
+        {
+          "text": "were",
+          "kind": "supplied"
+        },
+        {
+          "text": " thirty and three.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.46.16",
+      "edition_verse_id": "KJV1769:GEN.46.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "¶ And the sons of Gad; Ziphion, and Haggi, Shuni, and Ezbon, Eri, and Arodi, and Areli.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.46.17",
+      "edition_verse_id": "KJV1769:GEN.46.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "¶ And the sons of Asher; Jimnah, and Ishuah, and Isui, and Beriah, and Serah their sister: and the sons of Beriah; Heber, and Malchiel.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.46.18",
+      "edition_verse_id": "KJV1769:GEN.46.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "These ",
+          "kind": "text"
+        },
+        {
+          "text": "are",
+          "kind": "supplied"
+        },
+        {
+          "text": " the sons of Zilpah, whom Laban gave to Leah his daughter, and these she bare unto Jacob, ",
+          "kind": "text"
+        },
+        {
+          "text": "even",
+          "kind": "supplied"
+        },
+        {
+          "text": " sixteen souls.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.46.19",
+      "edition_verse_id": "KJV1769:GEN.46.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "The sons of Rachel Jacob’s wife; Joseph, and Benjamin.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.46.20",
+      "edition_verse_id": "KJV1769:GEN.46.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "¶ And unto Joseph in the land of Egypt were born Manasseh and Ephraim, which Asenath the daughter of Poti-pherah priest of On bare unto him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.46.21",
+      "edition_verse_id": "KJV1769:GEN.46.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "¶ And the sons of Benjamin ",
+          "kind": "text"
+        },
+        {
+          "text": "were",
+          "kind": "supplied"
+        },
+        {
+          "text": " Belah, and Becher, and Ashbel, Gera, and Naaman, Ehi, and Rosh, Muppim, and Huppim, and Ard.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.46.22",
+      "edition_verse_id": "KJV1769:GEN.46.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "These ",
+          "kind": "text"
+        },
+        {
+          "text": "are",
+          "kind": "supplied"
+        },
+        {
+          "text": " the sons of Rachel, which were born to Jacob: all the souls ",
+          "kind": "text"
+        },
+        {
+          "text": "were",
+          "kind": "supplied"
+        },
+        {
+          "text": " fourteen.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.46.23",
+      "edition_verse_id": "KJV1769:GEN.46.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "¶ And the sons of Dan; Hushim.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.46.24",
+      "edition_verse_id": "KJV1769:GEN.46.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "¶ And the sons of Naphtali; Jahzeel, and Guni, and Jezer, and Shillem.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.46.25",
+      "edition_verse_id": "KJV1769:GEN.46.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "These ",
+          "kind": "text"
+        },
+        {
+          "text": "are",
+          "kind": "supplied"
+        },
+        {
+          "text": " the sons of Bilhah, which Laban gave unto Rachel his daughter, and she bare these unto Jacob: all the souls ",
+          "kind": "text"
+        },
+        {
+          "text": "were",
+          "kind": "supplied"
+        },
+        {
+          "text": " seven.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.46.26",
+      "edition_verse_id": "KJV1769:GEN.46.26",
+      "verse": 26,
+      "spans": [
+        {
+          "text": "All the souls that came with Jacob into Egypt, which came out of his loins, besides Jacob’s sons’ wives, all the souls ",
+          "kind": "text"
+        },
+        {
+          "text": "were",
+          "kind": "supplied"
+        },
+        {
+          "text": " threescore and six;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.46.27",
+      "edition_verse_id": "KJV1769:GEN.46.27",
+      "verse": 27,
+      "spans": [
+        {
+          "text": "And the sons of Joseph, which were born him in Egypt, ",
+          "kind": "text"
+        },
+        {
+          "text": "were",
+          "kind": "supplied"
+        },
+        {
+          "text": " two souls: all the souls of the house of Jacob, which came into Egypt, ",
+          "kind": "text"
+        },
+        {
+          "text": "were",
+          "kind": "supplied"
+        },
+        {
+          "text": " threescore and ten.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.46.28",
+      "edition_verse_id": "KJV1769:GEN.46.28",
+      "verse": 28,
+      "spans": [
+        {
+          "text": "¶ And he sent Judah before him unto Joseph, to direct his face unto Goshen; and they came into the land of Goshen.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.46.29",
+      "edition_verse_id": "KJV1769:GEN.46.29",
+      "verse": 29,
+      "spans": [
+        {
+          "text": "And Joseph made ready his chariot, and went up to meet Israel his father, to Goshen, and presented himself unto him; and he fell on his neck, and wept on his neck a good while.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.46.30",
+      "edition_verse_id": "KJV1769:GEN.46.30",
+      "verse": 30,
+      "spans": [
+        {
+          "text": "And Israel said unto Joseph, Now let me die, since I have seen thy face, because thou ",
+          "kind": "text"
+        },
+        {
+          "text": "art",
+          "kind": "supplied"
+        },
+        {
+          "text": " yet alive.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.46.31",
+      "edition_verse_id": "KJV1769:GEN.46.31",
+      "verse": 31,
+      "spans": [
+        {
+          "text": "And Joseph said unto his brethren, and unto his father’s house, I will go up, and shew Pharaoh, and say unto him, My brethren, and my father’s house, which ",
+          "kind": "text"
+        },
+        {
+          "text": "were",
+          "kind": "supplied"
+        },
+        {
+          "text": " in the land of Canaan, are come unto me;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.46.32",
+      "edition_verse_id": "KJV1769:GEN.46.32",
+      "verse": 32,
+      "spans": [
+        {
+          "text": "And the men ",
+          "kind": "text"
+        },
+        {
+          "text": "are",
+          "kind": "supplied"
+        },
+        {
+          "text": " shepherds, for their trade hath been to feed cattle; and they have brought their flocks, and their herds, and all that they have.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.46.33",
+      "edition_verse_id": "KJV1769:GEN.46.33",
+      "verse": 33,
+      "spans": [
+        {
+          "text": "And it shall come to pass, when Pharaoh shall call you, and shall say, What ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " your occupation?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.46.34",
+      "edition_verse_id": "KJV1769:GEN.46.34",
+      "verse": 34,
+      "spans": [
+        {
+          "text": "That ye shall say, Thy servants’ trade hath been about cattle from our youth even until now, both we, ",
+          "kind": "text"
+        },
+        {
+          "text": "and",
+          "kind": "supplied"
+        },
+        {
+          "text": " also our fathers: that ye may dwell in the land of Goshen; for every shepherd ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " an abomination unto the Egyptians.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

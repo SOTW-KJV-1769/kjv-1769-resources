@@ -1,0 +1,832 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "KJV1769",
+  "book_code": "GEN",
+  "chapter": 42,
+  "verses": [
+    {
+      "id": "GEN.42.1",
+      "edition_verse_id": "KJV1769:GEN.42.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "Now when Jacob saw that there was corn in Egypt, Jacob said unto his sons, Why do ye look one upon another?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.42.2",
+      "edition_verse_id": "KJV1769:GEN.42.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "And he said, Behold, I have heard that there is corn in Egypt: get you down thither, and buy for us from thence; that we may live, and not die.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.42.3",
+      "edition_verse_id": "KJV1769:GEN.42.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "¶ And Joseph’s ten brethren went down to buy corn in Egypt.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.42.4",
+      "edition_verse_id": "KJV1769:GEN.42.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "But Benjamin, Joseph’s brother, Jacob sent not with his brethren; for he said, Lest peradventure mischief befall him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.42.5",
+      "edition_verse_id": "KJV1769:GEN.42.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "And the sons of Israel came to buy ",
+          "kind": "text"
+        },
+        {
+          "text": "corn",
+          "kind": "supplied"
+        },
+        {
+          "text": " among those that came: for the famine was in the land of Canaan.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.42.6",
+      "edition_verse_id": "KJV1769:GEN.42.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "And Joseph ",
+          "kind": "text"
+        },
+        {
+          "text": "was",
+          "kind": "supplied"
+        },
+        {
+          "text": " the governor over the land, ",
+          "kind": "text"
+        },
+        {
+          "text": "and",
+          "kind": "supplied"
+        },
+        {
+          "text": " he ",
+          "kind": "text"
+        },
+        {
+          "text": "it was",
+          "kind": "supplied"
+        },
+        {
+          "text": " that sold to all the people of the land: and Joseph’s brethren came, and bowed down themselves before him ",
+          "kind": "text"
+        },
+        {
+          "text": "with",
+          "kind": "supplied"
+        },
+        {
+          "text": " their faces to the earth.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.42.7",
+      "edition_verse_id": "KJV1769:GEN.42.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "And Joseph saw his brethren, and he knew them, but made himself strange unto them, and spake roughly unto them; and he said unto them, Whence come ye? And they said, From the land of Canaan to buy food.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.42.8",
+      "edition_verse_id": "KJV1769:GEN.42.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "And Joseph knew his brethren, but they knew not him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.42.9",
+      "edition_verse_id": "KJV1769:GEN.42.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "And Joseph remembered the dreams which he dreamed of them, and said unto them, Ye ",
+          "kind": "text"
+        },
+        {
+          "text": "are",
+          "kind": "supplied"
+        },
+        {
+          "text": " spies; to see the nakedness of the land ye are come.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.42.10",
+      "edition_verse_id": "KJV1769:GEN.42.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "And they said unto him, Nay, my lord, but to buy food are thy servants come.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.42.11",
+      "edition_verse_id": "KJV1769:GEN.42.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "We ",
+          "kind": "text"
+        },
+        {
+          "text": "are",
+          "kind": "supplied"
+        },
+        {
+          "text": " all one man’s sons; we ",
+          "kind": "text"
+        },
+        {
+          "text": "are",
+          "kind": "supplied"
+        },
+        {
+          "text": " true ",
+          "kind": "text"
+        },
+        {
+          "text": "men",
+          "kind": "supplied"
+        },
+        {
+          "text": ", thy servants are no spies.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.42.12",
+      "edition_verse_id": "KJV1769:GEN.42.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "And he said unto them, Nay, but to see the nakedness of the land ye are come.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.42.13",
+      "edition_verse_id": "KJV1769:GEN.42.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "And they said, Thy servants ",
+          "kind": "text"
+        },
+        {
+          "text": "are",
+          "kind": "supplied"
+        },
+        {
+          "text": " twelve brethren, the sons of one man in the land of Canaan; and, behold, the youngest ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " this day with our father, and one ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " not.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.42.14",
+      "edition_verse_id": "KJV1769:GEN.42.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "And Joseph said unto them, That ",
+          "kind": "text"
+        },
+        {
+          "text": "is it",
+          "kind": "supplied"
+        },
+        {
+          "text": " that I spake unto you, saying, Ye ",
+          "kind": "text"
+        },
+        {
+          "text": "are",
+          "kind": "supplied"
+        },
+        {
+          "text": " spies:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.42.15",
+      "edition_verse_id": "KJV1769:GEN.42.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "Hereby ye shall be proved: By the life of Pharaoh ye shall not go forth hence, except your youngest brother come hither.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.42.16",
+      "edition_verse_id": "KJV1769:GEN.42.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "Send one of you, and let him fetch your brother, and ye shall be kept in prison, that your words may be proved, whether ",
+          "kind": "text"
+        },
+        {
+          "text": "there be any",
+          "kind": "supplied"
+        },
+        {
+          "text": " truth in you: or else by the life of Pharaoh surely ye ",
+          "kind": "text"
+        },
+        {
+          "text": "are",
+          "kind": "supplied"
+        },
+        {
+          "text": " spies.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.42.17",
+      "edition_verse_id": "KJV1769:GEN.42.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "And he put them all together into ward three days.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.42.18",
+      "edition_verse_id": "KJV1769:GEN.42.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "And Joseph said unto them the third day, This do, and live; ",
+          "kind": "text"
+        },
+        {
+          "text": "for",
+          "kind": "supplied"
+        },
+        {
+          "text": " I fear God:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.42.19",
+      "edition_verse_id": "KJV1769:GEN.42.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "If ye ",
+          "kind": "text"
+        },
+        {
+          "text": "be",
+          "kind": "supplied"
+        },
+        {
+          "text": " true ",
+          "kind": "text"
+        },
+        {
+          "text": "men",
+          "kind": "supplied"
+        },
+        {
+          "text": ", let one of your brethren be bound in the house of your prison: go ye, carry corn for the famine of your houses:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.42.20",
+      "edition_verse_id": "KJV1769:GEN.42.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "But bring your youngest brother unto me; so shall your words be verified, and ye shall not die. And they did so.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.42.21",
+      "edition_verse_id": "KJV1769:GEN.42.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "¶ And they said one to another, We ",
+          "kind": "text"
+        },
+        {
+          "text": "are",
+          "kind": "supplied"
+        },
+        {
+          "text": " verily guilty concerning our brother, in that we saw the anguish of his soul, when he besought us, and we would not hear; therefore is this distress come upon us.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.42.22",
+      "edition_verse_id": "KJV1769:GEN.42.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "And Reuben answered them, saying, Spake I not unto you, saying, Do not sin against the child; and ye would not hear? therefore, behold, also his blood is required.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.42.23",
+      "edition_verse_id": "KJV1769:GEN.42.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "And they knew not that Joseph understood ",
+          "kind": "text"
+        },
+        {
+          "text": "them;",
+          "kind": "supplied"
+        },
+        {
+          "text": " for he spake unto them by an interpreter.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.42.24",
+      "edition_verse_id": "KJV1769:GEN.42.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "And he turned himself about from them, and wept; and returned to them again, and communed with them, and took from them Simeon, and bound him before their eyes.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.42.25",
+      "edition_verse_id": "KJV1769:GEN.42.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "¶ Then Joseph commanded to fill their sacks with corn, and to restore every man’s money into his sack, and to give them provision for the way: and thus did he unto them.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.42.26",
+      "edition_verse_id": "KJV1769:GEN.42.26",
+      "verse": 26,
+      "spans": [
+        {
+          "text": "And they laded their asses with the corn, and departed thence.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.42.27",
+      "edition_verse_id": "KJV1769:GEN.42.27",
+      "verse": 27,
+      "spans": [
+        {
+          "text": "And as one of them opened his sack to give his ass provender in the inn, he espied his money; for, behold, it ",
+          "kind": "text"
+        },
+        {
+          "text": "was",
+          "kind": "supplied"
+        },
+        {
+          "text": " in his sack’s mouth.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.42.28",
+      "edition_verse_id": "KJV1769:GEN.42.28",
+      "verse": 28,
+      "spans": [
+        {
+          "text": "And he said unto his brethren, My money is restored; and, lo, ",
+          "kind": "text"
+        },
+        {
+          "text": "it is",
+          "kind": "supplied"
+        },
+        {
+          "text": " even in my sack: and their heart failed ",
+          "kind": "text"
+        },
+        {
+          "text": "them",
+          "kind": "supplied"
+        },
+        {
+          "text": ", and they were afraid, saying one to another, What ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " this ",
+          "kind": "text"
+        },
+        {
+          "text": "that",
+          "kind": "supplied"
+        },
+        {
+          "text": " God hath done unto us?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.42.29",
+      "edition_verse_id": "KJV1769:GEN.42.29",
+      "verse": 29,
+      "spans": [
+        {
+          "text": "¶ And they came unto Jacob their father unto the land of Canaan, and told him all that befell unto them; saying,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.42.30",
+      "edition_verse_id": "KJV1769:GEN.42.30",
+      "verse": 30,
+      "spans": [
+        {
+          "text": "The man, ",
+          "kind": "text"
+        },
+        {
+          "text": "who is",
+          "kind": "supplied"
+        },
+        {
+          "text": " the lord of the land, spake roughly to us, and took us for spies of the country.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.42.31",
+      "edition_verse_id": "KJV1769:GEN.42.31",
+      "verse": 31,
+      "spans": [
+        {
+          "text": "And we said unto him, We ",
+          "kind": "text"
+        },
+        {
+          "text": "are",
+          "kind": "supplied"
+        },
+        {
+          "text": " true ",
+          "kind": "text"
+        },
+        {
+          "text": "men;",
+          "kind": "supplied"
+        },
+        {
+          "text": " we are no spies:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.42.32",
+      "edition_verse_id": "KJV1769:GEN.42.32",
+      "verse": 32,
+      "spans": [
+        {
+          "text": "We ",
+          "kind": "text"
+        },
+        {
+          "text": "be",
+          "kind": "supplied"
+        },
+        {
+          "text": " twelve brethren, sons of our father; one ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " not, and the youngest ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " this day with our father in the land of Canaan.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.42.33",
+      "edition_verse_id": "KJV1769:GEN.42.33",
+      "verse": 33,
+      "spans": [
+        {
+          "text": "And the man, the lord of the country, said unto us, Hereby shall I know that ye ",
+          "kind": "text"
+        },
+        {
+          "text": "are",
+          "kind": "supplied"
+        },
+        {
+          "text": " true ",
+          "kind": "text"
+        },
+        {
+          "text": "men;",
+          "kind": "supplied"
+        },
+        {
+          "text": " leave one of your brethren ",
+          "kind": "text"
+        },
+        {
+          "text": "here",
+          "kind": "supplied"
+        },
+        {
+          "text": " with me, and take ",
+          "kind": "text"
+        },
+        {
+          "text": "food for",
+          "kind": "supplied"
+        },
+        {
+          "text": " the famine of your households, and be gone:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.42.34",
+      "edition_verse_id": "KJV1769:GEN.42.34",
+      "verse": 34,
+      "spans": [
+        {
+          "text": "And bring your youngest brother unto me: then shall I know that ye ",
+          "kind": "text"
+        },
+        {
+          "text": "are",
+          "kind": "supplied"
+        },
+        {
+          "text": " no spies, but ",
+          "kind": "text"
+        },
+        {
+          "text": "that",
+          "kind": "supplied"
+        },
+        {
+          "text": " ye ",
+          "kind": "text"
+        },
+        {
+          "text": "are",
+          "kind": "supplied"
+        },
+        {
+          "text": " true ",
+          "kind": "text"
+        },
+        {
+          "text": "men: so",
+          "kind": "supplied"
+        },
+        {
+          "text": " will I deliver you your brother, and ye shall traffick in the land.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.42.35",
+      "edition_verse_id": "KJV1769:GEN.42.35",
+      "verse": 35,
+      "spans": [
+        {
+          "text": "¶ And it came to pass as they emptied their sacks, that, behold, every man’s bundle of money ",
+          "kind": "text"
+        },
+        {
+          "text": "was",
+          "kind": "supplied"
+        },
+        {
+          "text": " in his sack: and when ",
+          "kind": "text"
+        },
+        {
+          "text": "both",
+          "kind": "supplied"
+        },
+        {
+          "text": " they and their father saw the bundles of money, they were afraid.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.42.36",
+      "edition_verse_id": "KJV1769:GEN.42.36",
+      "verse": 36,
+      "spans": [
+        {
+          "text": "And Jacob their father said unto them, Me have ye bereaved ",
+          "kind": "text"
+        },
+        {
+          "text": "of my children:",
+          "kind": "supplied"
+        },
+        {
+          "text": " Joseph ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " not, and Simeon ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " not, and ye will take Benjamin ",
+          "kind": "text"
+        },
+        {
+          "text": "away:",
+          "kind": "supplied"
+        },
+        {
+          "text": " all these things are against me.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.42.37",
+      "edition_verse_id": "KJV1769:GEN.42.37",
+      "verse": 37,
+      "spans": [
+        {
+          "text": "And Reuben spake unto his father, saying, Slay my two sons, if I bring him not to thee: deliver him into my hand, and I will bring him to thee again.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.42.38",
+      "edition_verse_id": "KJV1769:GEN.42.38",
+      "verse": 38,
+      "spans": [
+        {
+          "text": "And he said, My son shall not go down with you; for his brother is dead, and he is left alone: if mischief befall him by the way in the which ye go, then shall ye bring down my gray hairs with sorrow to the grave.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

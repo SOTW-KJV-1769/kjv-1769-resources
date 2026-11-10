@@ -1,0 +1,524 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "KJV1769",
+  "book_code": "1SA",
+  "chapter": 26,
+  "verses": [
+    {
+      "id": "1SA.26.1",
+      "edition_verse_id": "KJV1769:1SA.26.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "And the Ziphites came unto Saul to Gibeah, saying, Doth not David hide himself in the hill of Hachilah, ",
+          "kind": "text"
+        },
+        {
+          "text": "which is",
+          "kind": "supplied"
+        },
+        {
+          "text": " before Jeshimon?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1SA.26.2",
+      "edition_verse_id": "KJV1769:1SA.26.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "Then Saul arose, and went down to the wilderness of Ziph, having three thousand chosen men of Israel with him, to seek David in the wilderness of Ziph.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1SA.26.3",
+      "edition_verse_id": "KJV1769:1SA.26.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "And Saul pitched in the hill of Hachilah, which ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " before Jeshimon, by the way. But David abode in the wilderness, and he saw that Saul came after him into the wilderness.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1SA.26.4",
+      "edition_verse_id": "KJV1769:1SA.26.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "David therefore sent out spies, and understood that Saul was come in very deed.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1SA.26.5",
+      "edition_verse_id": "KJV1769:1SA.26.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "¶ And David arose, and came to the place where Saul had pitched: and David beheld the place where Saul lay, and Abner the son of Ner, the captain of his host: and Saul lay in the trench, and the people pitched round about him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1SA.26.6",
+      "edition_verse_id": "KJV1769:1SA.26.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "Then answered David and said to Ahimelech the Hittite, and to Abishai the son of Zeruiah, brother to Joab, saying, Who will go down with me to Saul to the camp? And Abishai said, I will go down with thee.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1SA.26.7",
+      "edition_verse_id": "KJV1769:1SA.26.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "So David and Abishai came to the people by night: and, behold, Saul lay sleeping within the trench, and his spear stuck in the ground at his bolster: but Abner and the people lay round about him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1SA.26.8",
+      "edition_verse_id": "KJV1769:1SA.26.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "Then said Abishai to David, God hath delivered thine enemy into thine hand this day: now therefore let me smite him, I pray thee, with the spear even to the earth at once, and I will not ",
+          "kind": "text"
+        },
+        {
+          "text": "smite",
+          "kind": "supplied"
+        },
+        {
+          "text": " him the second time.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1SA.26.9",
+      "edition_verse_id": "KJV1769:1SA.26.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "And David said to Abishai, Destroy him not: for who can stretch forth his hand against the LORD’s anointed, and be guiltless?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1SA.26.10",
+      "edition_verse_id": "KJV1769:1SA.26.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "David said furthermore, ",
+          "kind": "text"
+        },
+        {
+          "text": "As",
+          "kind": "supplied"
+        },
+        {
+          "text": " the LORD liveth, the LORD shall smite him; or his day shall come to die; or he shall descend into battle, and perish.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1SA.26.11",
+      "edition_verse_id": "KJV1769:1SA.26.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "The LORD forbid that I should stretch forth mine hand against the LORD’s anointed: but, I pray thee, take thou now the spear that ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " at his bolster, and the cruse of water, and let us go.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1SA.26.12",
+      "edition_verse_id": "KJV1769:1SA.26.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "So David took the spear and the cruse of water from Saul’s bolster; and they gat them away, and no man saw ",
+          "kind": "text"
+        },
+        {
+          "text": "it",
+          "kind": "supplied"
+        },
+        {
+          "text": ", nor knew ",
+          "kind": "text"
+        },
+        {
+          "text": "it",
+          "kind": "supplied"
+        },
+        {
+          "text": ", neither awaked: for they ",
+          "kind": "text"
+        },
+        {
+          "text": "were",
+          "kind": "supplied"
+        },
+        {
+          "text": " all asleep; because a deep sleep from the LORD was fallen upon them.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1SA.26.13",
+      "edition_verse_id": "KJV1769:1SA.26.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "¶ Then David went over to the other side, and stood on the top of an hill afar off; a great space ",
+          "kind": "text"
+        },
+        {
+          "text": "being",
+          "kind": "supplied"
+        },
+        {
+          "text": " between them:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1SA.26.14",
+      "edition_verse_id": "KJV1769:1SA.26.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "And David cried to the people, and to Abner the son of Ner, saying, Answerest thou not, Abner? Then Abner answered and said, Who ",
+          "kind": "text"
+        },
+        {
+          "text": "art",
+          "kind": "supplied"
+        },
+        {
+          "text": " thou ",
+          "kind": "text"
+        },
+        {
+          "text": "that",
+          "kind": "supplied"
+        },
+        {
+          "text": " criest to the king?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1SA.26.15",
+      "edition_verse_id": "KJV1769:1SA.26.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "And David said to Abner, ",
+          "kind": "text"
+        },
+        {
+          "text": "Art",
+          "kind": "supplied"
+        },
+        {
+          "text": " not thou a ",
+          "kind": "text"
+        },
+        {
+          "text": "valiant",
+          "kind": "supplied"
+        },
+        {
+          "text": " man? and who ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " like to thee in Israel? wherefore then hast thou not kept thy lord the king? for there came one of the people in to destroy the king thy lord.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1SA.26.16",
+      "edition_verse_id": "KJV1769:1SA.26.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "This thing ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " not good that thou hast done. ",
+          "kind": "text"
+        },
+        {
+          "text": "As",
+          "kind": "supplied"
+        },
+        {
+          "text": " the LORD liveth, ye ",
+          "kind": "text"
+        },
+        {
+          "text": "are",
+          "kind": "supplied"
+        },
+        {
+          "text": " worthy to die, because ye have not kept your master, the LORD’s anointed. And now see where the king’s spear ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": ", and the cruse of water that ",
+          "kind": "text"
+        },
+        {
+          "text": "was",
+          "kind": "supplied"
+        },
+        {
+          "text": " at his bolster.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1SA.26.17",
+      "edition_verse_id": "KJV1769:1SA.26.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "And Saul knew David’s voice, and said, ",
+          "kind": "text"
+        },
+        {
+          "text": "Is",
+          "kind": "supplied"
+        },
+        {
+          "text": " this thy voice, my son David? And David said, ",
+          "kind": "text"
+        },
+        {
+          "text": "It is",
+          "kind": "supplied"
+        },
+        {
+          "text": " my voice, my lord, O king.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1SA.26.18",
+      "edition_verse_id": "KJV1769:1SA.26.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "And he said, Wherefore doth my lord thus pursue after his servant? for what have I done? or what evil ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " in mine hand?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1SA.26.19",
+      "edition_verse_id": "KJV1769:1SA.26.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "Now therefore, I pray thee, let my lord the king hear the words of his servant. If the LORD have stirred thee up against me, let him accept an offering: but if ",
+          "kind": "text"
+        },
+        {
+          "text": "they be",
+          "kind": "supplied"
+        },
+        {
+          "text": " the children of men, cursed ",
+          "kind": "text"
+        },
+        {
+          "text": "be",
+          "kind": "supplied"
+        },
+        {
+          "text": " they before the LORD; for they have driven me out this day from abiding in the inheritance of the LORD, saying, Go, serve other gods.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1SA.26.20",
+      "edition_verse_id": "KJV1769:1SA.26.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "Now therefore, let not my blood fall to the earth before the face of the LORD: for the king of Israel is come out to seek a flea, as when one doth hunt a partridge in the mountains.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1SA.26.21",
+      "edition_verse_id": "KJV1769:1SA.26.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "¶ Then said Saul, I have sinned: return, my son David: for I will no more do thee harm, because my soul was precious in thine eyes this day: behold, I have played the fool, and have erred exceedingly.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1SA.26.22",
+      "edition_verse_id": "KJV1769:1SA.26.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "And David answered and said, Behold the king’s spear! and let one of the young men come over and fetch it.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1SA.26.23",
+      "edition_verse_id": "KJV1769:1SA.26.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "The LORD render to every man his righteousness and his faithfulness: for the LORD delivered thee into ",
+          "kind": "text"
+        },
+        {
+          "text": "my",
+          "kind": "supplied"
+        },
+        {
+          "text": " hand to day, but I would not stretch forth mine hand against the LORD’s anointed.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1SA.26.24",
+      "edition_verse_id": "KJV1769:1SA.26.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "And, behold, as thy life was much set by this day in mine eyes, so let my life be much set by in the eyes of the LORD, and let him deliver me out of all tribulation.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1SA.26.25",
+      "edition_verse_id": "KJV1769:1SA.26.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "Then Saul said to David, Blessed ",
+          "kind": "text"
+        },
+        {
+          "text": "be",
+          "kind": "supplied"
+        },
+        {
+          "text": " thou, my son David: thou shalt both do great ",
+          "kind": "text"
+        },
+        {
+          "text": "things",
+          "kind": "supplied"
+        },
+        {
+          "text": ", and also shalt still prevail. So David went on his way, and Saul returned to his place.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

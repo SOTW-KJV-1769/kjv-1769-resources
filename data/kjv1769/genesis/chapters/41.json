@@ -1,0 +1,1008 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "KJV1769",
+  "book_code": "GEN",
+  "chapter": 41,
+  "verses": [
+    {
+      "id": "GEN.41.1",
+      "edition_verse_id": "KJV1769:GEN.41.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "And it came to pass at the end of two full years, that Pharaoh dreamed: and, behold, he stood by the river.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.41.2",
+      "edition_verse_id": "KJV1769:GEN.41.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "And, behold, there came up out of the river seven well favoured kine and fatfleshed; and they fed in a meadow.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.41.3",
+      "edition_verse_id": "KJV1769:GEN.41.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "And, behold, seven other kine came up after them out of the river, ill favoured and leanfleshed; and stood by the ",
+          "kind": "text"
+        },
+        {
+          "text": "other",
+          "kind": "supplied"
+        },
+        {
+          "text": " kine upon the brink of the river.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.41.4",
+      "edition_verse_id": "KJV1769:GEN.41.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "And the ill favoured and leanfleshed kine did eat up the seven well favoured and fat kine. So Pharaoh awoke.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.41.5",
+      "edition_verse_id": "KJV1769:GEN.41.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "And he slept and dreamed the second time: and, behold, seven ears of corn came up upon one stalk, rank and good.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.41.6",
+      "edition_verse_id": "KJV1769:GEN.41.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "And, behold, seven thin ears and blasted with the east wind sprung up after them.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.41.7",
+      "edition_verse_id": "KJV1769:GEN.41.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "And the seven thin ears devoured the seven rank and full ears. And Pharaoh awoke, and, behold, ",
+          "kind": "text"
+        },
+        {
+          "text": "it was",
+          "kind": "supplied"
+        },
+        {
+          "text": " a dream.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.41.8",
+      "edition_verse_id": "KJV1769:GEN.41.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "And it came to pass in the morning that his spirit was troubled; and he sent and called for all the magicians of Egypt, and all the wise men thereof: and Pharaoh told them his dream; but ",
+          "kind": "text"
+        },
+        {
+          "text": "there was",
+          "kind": "supplied"
+        },
+        {
+          "text": " none that could interpret them unto Pharaoh.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.41.9",
+      "edition_verse_id": "KJV1769:GEN.41.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "¶ Then spake the chief butler unto Pharaoh, saying, I do remember my faults this day:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.41.10",
+      "edition_verse_id": "KJV1769:GEN.41.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "Pharaoh was wroth with his servants, and put me in ward in the captain of the guard’s house, ",
+          "kind": "text"
+        },
+        {
+          "text": "both",
+          "kind": "supplied"
+        },
+        {
+          "text": " me and the chief baker:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.41.11",
+      "edition_verse_id": "KJV1769:GEN.41.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "And we dreamed a dream in one night, I and he; we dreamed each man according to the interpretation of his dream.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.41.12",
+      "edition_verse_id": "KJV1769:GEN.41.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "And ",
+          "kind": "text"
+        },
+        {
+          "text": "there was",
+          "kind": "supplied"
+        },
+        {
+          "text": " there with us a young man, an Hebrew, servant to the captain of the guard; and we told him, and he interpreted to us our dreams; to each man according to his dream he did interpret.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.41.13",
+      "edition_verse_id": "KJV1769:GEN.41.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "And it came to pass, as he interpreted to us, so it was; me he restored unto mine office, and him he hanged.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.41.14",
+      "edition_verse_id": "KJV1769:GEN.41.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "¶ Then Pharaoh sent and called Joseph, and they brought him hastily out of the dungeon: and he shaved ",
+          "kind": "text"
+        },
+        {
+          "text": "himself",
+          "kind": "supplied"
+        },
+        {
+          "text": ", and changed his raiment, and came in unto Pharaoh.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.41.15",
+      "edition_verse_id": "KJV1769:GEN.41.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "And Pharaoh said unto Joseph, I have dreamed a dream, and ",
+          "kind": "text"
+        },
+        {
+          "text": "there is",
+          "kind": "supplied"
+        },
+        {
+          "text": " none that can interpret it: and I have heard say of thee, ",
+          "kind": "text"
+        },
+        {
+          "text": "that",
+          "kind": "supplied"
+        },
+        {
+          "text": " thou canst understand a dream to interpret it.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.41.16",
+      "edition_verse_id": "KJV1769:GEN.41.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "And Joseph answered Pharaoh, saying, ",
+          "kind": "text"
+        },
+        {
+          "text": "It is",
+          "kind": "supplied"
+        },
+        {
+          "text": " not in me: God shall give Pharaoh an answer of peace.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.41.17",
+      "edition_verse_id": "KJV1769:GEN.41.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "And Pharaoh said unto Joseph, In my dream, behold, I stood upon the bank of the river:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.41.18",
+      "edition_verse_id": "KJV1769:GEN.41.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "And, behold, there came up out of the river seven kine, fatfleshed and well favoured; and they fed in a meadow:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.41.19",
+      "edition_verse_id": "KJV1769:GEN.41.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "And, behold, seven other kine came up after them, poor and very ill favoured and leanfleshed, such as I never saw in all the land of Egypt for badness:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.41.20",
+      "edition_verse_id": "KJV1769:GEN.41.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "And the lean and the ill favoured kine did eat up the first seven fat kine:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.41.21",
+      "edition_verse_id": "KJV1769:GEN.41.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "And when they had eaten them up, it could not be known that they had eaten them; but they ",
+          "kind": "text"
+        },
+        {
+          "text": "were",
+          "kind": "supplied"
+        },
+        {
+          "text": " still ill favoured, as at the beginning. So I awoke.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.41.22",
+      "edition_verse_id": "KJV1769:GEN.41.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "And I saw in my dream, and, behold, seven ears came up in one stalk, full and good:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.41.23",
+      "edition_verse_id": "KJV1769:GEN.41.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "And, behold, seven ears, withered, thin, ",
+          "kind": "text"
+        },
+        {
+          "text": "and",
+          "kind": "supplied"
+        },
+        {
+          "text": " blasted with the east wind, sprung up after them:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.41.24",
+      "edition_verse_id": "KJV1769:GEN.41.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "And the thin ears devoured the seven good ears: and I told ",
+          "kind": "text"
+        },
+        {
+          "text": "this",
+          "kind": "supplied"
+        },
+        {
+          "text": " unto the magicians; but ",
+          "kind": "text"
+        },
+        {
+          "text": "there was",
+          "kind": "supplied"
+        },
+        {
+          "text": " none that could declare ",
+          "kind": "text"
+        },
+        {
+          "text": "it",
+          "kind": "supplied"
+        },
+        {
+          "text": " to me.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.41.25",
+      "edition_verse_id": "KJV1769:GEN.41.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "¶ And Joseph said unto Pharaoh, The dream of Pharaoh ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " one: God hath shewed Pharaoh what he ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " about to do.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.41.26",
+      "edition_verse_id": "KJV1769:GEN.41.26",
+      "verse": 26,
+      "spans": [
+        {
+          "text": "The seven good kine ",
+          "kind": "text"
+        },
+        {
+          "text": "are",
+          "kind": "supplied"
+        },
+        {
+          "text": " seven years; and the seven good ears ",
+          "kind": "text"
+        },
+        {
+          "text": "are",
+          "kind": "supplied"
+        },
+        {
+          "text": " seven years: the dream ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " one.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.41.27",
+      "edition_verse_id": "KJV1769:GEN.41.27",
+      "verse": 27,
+      "spans": [
+        {
+          "text": "And the seven thin and ill favoured kine that came up after them ",
+          "kind": "text"
+        },
+        {
+          "text": "are",
+          "kind": "supplied"
+        },
+        {
+          "text": " seven years; and the seven empty ears blasted with the east wind shall be seven years of famine.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.41.28",
+      "edition_verse_id": "KJV1769:GEN.41.28",
+      "verse": 28,
+      "spans": [
+        {
+          "text": "This ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " the thing which I have spoken unto Pharaoh: What God ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " about to do he sheweth unto Pharaoh.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.41.29",
+      "edition_verse_id": "KJV1769:GEN.41.29",
+      "verse": 29,
+      "spans": [
+        {
+          "text": "Behold, there come seven years of great plenty throughout all the land of Egypt:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.41.30",
+      "edition_verse_id": "KJV1769:GEN.41.30",
+      "verse": 30,
+      "spans": [
+        {
+          "text": "And there shall arise after them seven years of famine; and all the plenty shall be forgotten in the land of Egypt; and the famine shall consume the land;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.41.31",
+      "edition_verse_id": "KJV1769:GEN.41.31",
+      "verse": 31,
+      "spans": [
+        {
+          "text": "And the plenty shall not be known in the land by reason of that famine following; for it ",
+          "kind": "text"
+        },
+        {
+          "text": "shall be",
+          "kind": "supplied"
+        },
+        {
+          "text": " very grievous.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.41.32",
+      "edition_verse_id": "KJV1769:GEN.41.32",
+      "verse": 32,
+      "spans": [
+        {
+          "text": "And for that the dream was doubled unto Pharaoh twice; ",
+          "kind": "text"
+        },
+        {
+          "text": "it is",
+          "kind": "supplied"
+        },
+        {
+          "text": " because the thing ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " established by God, and God will shortly bring it to pass.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.41.33",
+      "edition_verse_id": "KJV1769:GEN.41.33",
+      "verse": 33,
+      "spans": [
+        {
+          "text": "Now therefore let Pharaoh look out a man discreet and wise, and set him over the land of Egypt.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.41.34",
+      "edition_verse_id": "KJV1769:GEN.41.34",
+      "verse": 34,
+      "spans": [
+        {
+          "text": "Let Pharaoh do ",
+          "kind": "text"
+        },
+        {
+          "text": "this",
+          "kind": "supplied"
+        },
+        {
+          "text": ", and let him appoint officers over the land, and take up the fifth part of the land of Egypt in the seven plenteous years.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.41.35",
+      "edition_verse_id": "KJV1769:GEN.41.35",
+      "verse": 35,
+      "spans": [
+        {
+          "text": "And let them gather all the food of those good years that come, and lay up corn under the hand of Pharaoh, and let them keep food in the cities.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.41.36",
+      "edition_verse_id": "KJV1769:GEN.41.36",
+      "verse": 36,
+      "spans": [
+        {
+          "text": "And that food shall be for store to the land against the seven years of famine, which shall be in the land of Egypt; that the land perish not through the famine.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.41.37",
+      "edition_verse_id": "KJV1769:GEN.41.37",
+      "verse": 37,
+      "spans": [
+        {
+          "text": "¶ And the thing was good in the eyes of Pharaoh, and in the eyes of all his servants.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.41.38",
+      "edition_verse_id": "KJV1769:GEN.41.38",
+      "verse": 38,
+      "spans": [
+        {
+          "text": "And Pharaoh said unto his servants, Can we find ",
+          "kind": "text"
+        },
+        {
+          "text": "such a one",
+          "kind": "supplied"
+        },
+        {
+          "text": " as this ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": ", a man in whom the Spirit of God ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": "?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.41.39",
+      "edition_verse_id": "KJV1769:GEN.41.39",
+      "verse": 39,
+      "spans": [
+        {
+          "text": "And Pharaoh said unto Joseph, Forasmuch as God hath shewed thee all this, ",
+          "kind": "text"
+        },
+        {
+          "text": "there is",
+          "kind": "supplied"
+        },
+        {
+          "text": " none so discreet and wise as thou ",
+          "kind": "text"
+        },
+        {
+          "text": "art:",
+          "kind": "supplied"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.41.40",
+      "edition_verse_id": "KJV1769:GEN.41.40",
+      "verse": 40,
+      "spans": [
+        {
+          "text": "Thou shalt be over my house, and according unto thy word shall all my people be ruled: only in the throne will I be greater than thou.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.41.41",
+      "edition_verse_id": "KJV1769:GEN.41.41",
+      "verse": 41,
+      "spans": [
+        {
+          "text": "And Pharaoh said unto Joseph, See, I have set thee over all the land of Egypt.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.41.42",
+      "edition_verse_id": "KJV1769:GEN.41.42",
+      "verse": 42,
+      "spans": [
+        {
+          "text": "And Pharaoh took off his ring from his hand, and put it upon Joseph’s hand, and arrayed him in vestures of fine linen, and put a gold chain about his neck;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.41.43",
+      "edition_verse_id": "KJV1769:GEN.41.43",
+      "verse": 43,
+      "spans": [
+        {
+          "text": "And he made him to ride in the second chariot which he had; and they cried before him, Bow the knee: and he made him ",
+          "kind": "text"
+        },
+        {
+          "text": "ruler",
+          "kind": "supplied"
+        },
+        {
+          "text": " over all the land of Egypt.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.41.44",
+      "edition_verse_id": "KJV1769:GEN.41.44",
+      "verse": 44,
+      "spans": [
+        {
+          "text": "And Pharaoh said unto Joseph, I ",
+          "kind": "text"
+        },
+        {
+          "text": "am",
+          "kind": "supplied"
+        },
+        {
+          "text": " Pharaoh, and without thee shall no man lift up his hand or foot in all the land of Egypt.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.41.45",
+      "edition_verse_id": "KJV1769:GEN.41.45",
+      "verse": 45,
+      "spans": [
+        {
+          "text": "And Pharaoh called Joseph’s name Zaphnath-paaneah; and he gave him to wife Asenath the daughter of Poti-pherah priest of On. And Joseph went out over ",
+          "kind": "text"
+        },
+        {
+          "text": "all",
+          "kind": "supplied"
+        },
+        {
+          "text": " the land of Egypt.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.41.46",
+      "edition_verse_id": "KJV1769:GEN.41.46",
+      "verse": 46,
+      "spans": [
+        {
+          "text": "¶ And Joseph ",
+          "kind": "text"
+        },
+        {
+          "text": "was",
+          "kind": "supplied"
+        },
+        {
+          "text": " thirty years old when he stood before Pharaoh king of Egypt. And Joseph went out from the presence of Pharaoh, and went throughout all the land of Egypt.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.41.47",
+      "edition_verse_id": "KJV1769:GEN.41.47",
+      "verse": 47,
+      "spans": [
+        {
+          "text": "And in the seven plenteous years the earth brought forth by handfuls.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.41.48",
+      "edition_verse_id": "KJV1769:GEN.41.48",
+      "verse": 48,
+      "spans": [
+        {
+          "text": "And he gathered up all the food of the seven years, which were in the land of Egypt, and laid up the food in the cities: the food of the field, which ",
+          "kind": "text"
+        },
+        {
+          "text": "was",
+          "kind": "supplied"
+        },
+        {
+          "text": " round about every city, laid he up in the same.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.41.49",
+      "edition_verse_id": "KJV1769:GEN.41.49",
+      "verse": 49,
+      "spans": [
+        {
+          "text": "And Joseph gathered corn as the sand of the sea, very much, until he left numbering; for ",
+          "kind": "text"
+        },
+        {
+          "text": "it was",
+          "kind": "supplied"
+        },
+        {
+          "text": " without number.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.41.50",
+      "edition_verse_id": "KJV1769:GEN.41.50",
+      "verse": 50,
+      "spans": [
+        {
+          "text": "And unto Joseph were born two sons before the years of famine came, which Asenath the daughter of Poti-pherah priest of On bare unto him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.41.51",
+      "edition_verse_id": "KJV1769:GEN.41.51",
+      "verse": 51,
+      "spans": [
+        {
+          "text": "And Joseph called the name of the firstborn Manasseh: For God, ",
+          "kind": "text"
+        },
+        {
+          "text": "said he",
+          "kind": "supplied"
+        },
+        {
+          "text": ", hath made me forget all my toil, and all my father’s house.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.41.52",
+      "edition_verse_id": "KJV1769:GEN.41.52",
+      "verse": 52,
+      "spans": [
+        {
+          "text": "And the name of the second called he Ephraim: For God hath caused me to be fruitful in the land of my affliction.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.41.53",
+      "edition_verse_id": "KJV1769:GEN.41.53",
+      "verse": 53,
+      "spans": [
+        {
+          "text": "¶ And the seven years of plenteousness, that was in the land of Egypt, were ended.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.41.54",
+      "edition_verse_id": "KJV1769:GEN.41.54",
+      "verse": 54,
+      "spans": [
+        {
+          "text": "And the seven years of dearth began to come, according as Joseph had said: and the dearth was in all lands; but in all the land of Egypt there was bread.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.41.55",
+      "edition_verse_id": "KJV1769:GEN.41.55",
+      "verse": 55,
+      "spans": [
+        {
+          "text": "And when all the land of Egypt was famished, the people cried to Pharaoh for bread: and Pharaoh said unto all the Egyptians, Go unto Joseph; what he saith to you, do.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.41.56",
+      "edition_verse_id": "KJV1769:GEN.41.56",
+      "verse": 56,
+      "spans": [
+        {
+          "text": "And the famine was over all the face of the earth: and Joseph opened all the storehouses, and sold unto the Egyptians; and the famine waxed sore in the land of Egypt.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.41.57",
+      "edition_verse_id": "KJV1769:GEN.41.57",
+      "verse": 57,
+      "spans": [
+        {
+          "text": "And all countries came into Egypt to Joseph for to buy ",
+          "kind": "text"
+        },
+        {
+          "text": "corn;",
+          "kind": "supplied"
+        },
+        {
+          "text": " because that the famine was ",
+          "kind": "text"
+        },
+        {
+          "text": "so",
+          "kind": "supplied"
+        },
+        {
+          "text": " sore in all lands.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

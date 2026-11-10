@@ -1,0 +1,596 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "KJV1769",
+  "book_code": "GEN",
+  "chapter": 44,
+  "verses": [
+    {
+      "id": "GEN.44.1",
+      "edition_verse_id": "KJV1769:GEN.44.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "And he commanded the steward of his house, saying, Fill the men’s sacks ",
+          "kind": "text"
+        },
+        {
+          "text": "with",
+          "kind": "supplied"
+        },
+        {
+          "text": " food, as much as they can carry, and put every man’s money in his sack’s mouth.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.44.2",
+      "edition_verse_id": "KJV1769:GEN.44.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "And put my cup, the silver cup, in the sack’s mouth of the youngest, and his corn money. And he did according to the word that Joseph had spoken.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.44.3",
+      "edition_verse_id": "KJV1769:GEN.44.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "As soon as the morning was light, the men were sent away, they and their asses.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.44.4",
+      "edition_verse_id": "KJV1769:GEN.44.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "And",
+          "kind": "supplied"
+        },
+        {
+          "text": " when they were gone out of the city, ",
+          "kind": "text"
+        },
+        {
+          "text": "and",
+          "kind": "supplied"
+        },
+        {
+          "text": " not ",
+          "kind": "text"
+        },
+        {
+          "text": "yet",
+          "kind": "supplied"
+        },
+        {
+          "text": " far off, Joseph said unto his steward, Up, follow after the men; and when thou dost overtake them, say unto them, Wherefore have ye rewarded evil for good?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.44.5",
+      "edition_verse_id": "KJV1769:GEN.44.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "Is",
+          "kind": "supplied"
+        },
+        {
+          "text": " not this ",
+          "kind": "text"
+        },
+        {
+          "text": "it",
+          "kind": "supplied"
+        },
+        {
+          "text": " in which my lord drinketh, and whereby indeed he divineth? ye have done evil in so doing.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.44.6",
+      "edition_verse_id": "KJV1769:GEN.44.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "¶ And he overtook them, and he spake unto them these same words.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.44.7",
+      "edition_verse_id": "KJV1769:GEN.44.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "And they said unto him, Wherefore saith my lord these words? God forbid that thy servants should do according to this thing:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.44.8",
+      "edition_verse_id": "KJV1769:GEN.44.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "Behold, the money, which we found in our sacks’ mouths, we brought again unto thee out of the land of Canaan: how then should we steal out of thy lord’s house silver or gold?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.44.9",
+      "edition_verse_id": "KJV1769:GEN.44.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "With whomsoever of thy servants it be found, both let him die, and we also will be my lord’s bondmen.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.44.10",
+      "edition_verse_id": "KJV1769:GEN.44.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "And he said, Now also ",
+          "kind": "text"
+        },
+        {
+          "text": "let",
+          "kind": "supplied"
+        },
+        {
+          "text": " it ",
+          "kind": "text"
+        },
+        {
+          "text": "be",
+          "kind": "supplied"
+        },
+        {
+          "text": " according unto your words: he with whom it is found shall be my servant; and ye shall be blameless.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.44.11",
+      "edition_verse_id": "KJV1769:GEN.44.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "Then they speedily took down every man his sack to the ground, and opened every man his sack.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.44.12",
+      "edition_verse_id": "KJV1769:GEN.44.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "And he searched, ",
+          "kind": "text"
+        },
+        {
+          "text": "and",
+          "kind": "supplied"
+        },
+        {
+          "text": " began at the eldest, and left at the youngest: and the cup was found in Benjamin’s sack.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.44.13",
+      "edition_verse_id": "KJV1769:GEN.44.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "Then they rent their clothes, and laded every man his ass, and returned to the city.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.44.14",
+      "edition_verse_id": "KJV1769:GEN.44.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "¶ And Judah and his brethren came to Joseph’s house; for he ",
+          "kind": "text"
+        },
+        {
+          "text": "was",
+          "kind": "supplied"
+        },
+        {
+          "text": " yet there: and they fell before him on the ground.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.44.15",
+      "edition_verse_id": "KJV1769:GEN.44.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "And Joseph said unto them, What deed ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " this that ye have done? wot ye not that such a man as I can certainly divine?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.44.16",
+      "edition_verse_id": "KJV1769:GEN.44.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "And Judah said, What shall we say unto my lord? what shall we speak? or how shall we clear ourselves? God hath found out the iniquity of thy servants: behold, we ",
+          "kind": "text"
+        },
+        {
+          "text": "are",
+          "kind": "supplied"
+        },
+        {
+          "text": " my lord’s servants, both we, and ",
+          "kind": "text"
+        },
+        {
+          "text": "he",
+          "kind": "supplied"
+        },
+        {
+          "text": " also with whom the cup is found.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.44.17",
+      "edition_verse_id": "KJV1769:GEN.44.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "And he said, God forbid that I should do so: ",
+          "kind": "text"
+        },
+        {
+          "text": "but",
+          "kind": "supplied"
+        },
+        {
+          "text": " the man in whose hand the cup is found, he shall be my servant; and as for you, get you up in peace unto your father.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.44.18",
+      "edition_verse_id": "KJV1769:GEN.44.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "¶ Then Judah came near unto him, and said, Oh my lord, let thy servant, I pray thee, speak a word in my lord’s ears, and let not thine anger burn against thy servant: for thou ",
+          "kind": "text"
+        },
+        {
+          "text": "art",
+          "kind": "supplied"
+        },
+        {
+          "text": " even as Pharaoh.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.44.19",
+      "edition_verse_id": "KJV1769:GEN.44.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "My lord asked his servants, saying, Have ye a father, or a brother?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.44.20",
+      "edition_verse_id": "KJV1769:GEN.44.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "And we said unto my lord, We have a father, an old man, and a child of his old age, a little one; and his brother is dead, and he alone is left of his mother, and his father loveth him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.44.21",
+      "edition_verse_id": "KJV1769:GEN.44.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "And thou saidst unto thy servants, Bring him down unto me, that I may set mine eyes upon him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.44.22",
+      "edition_verse_id": "KJV1769:GEN.44.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "And we said unto my lord, The lad cannot leave his father: for ",
+          "kind": "text"
+        },
+        {
+          "text": "if",
+          "kind": "supplied"
+        },
+        {
+          "text": " he should leave his father, ",
+          "kind": "text"
+        },
+        {
+          "text": "his father",
+          "kind": "supplied"
+        },
+        {
+          "text": " would die.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.44.23",
+      "edition_verse_id": "KJV1769:GEN.44.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "And thou saidst unto thy servants, Except your youngest brother come down with you, ye shall see my face no more.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.44.24",
+      "edition_verse_id": "KJV1769:GEN.44.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "And it came to pass when we came up unto thy servant my father, we told him the words of my lord.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.44.25",
+      "edition_verse_id": "KJV1769:GEN.44.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "And our father said, Go again, ",
+          "kind": "text"
+        },
+        {
+          "text": "and",
+          "kind": "supplied"
+        },
+        {
+          "text": " buy us a little food.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.44.26",
+      "edition_verse_id": "KJV1769:GEN.44.26",
+      "verse": 26,
+      "spans": [
+        {
+          "text": "And we said, We cannot go down: if our youngest brother be with us, then will we go down: for we may not see the man’s face, except our youngest brother ",
+          "kind": "text"
+        },
+        {
+          "text": "be",
+          "kind": "supplied"
+        },
+        {
+          "text": " with us.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.44.27",
+      "edition_verse_id": "KJV1769:GEN.44.27",
+      "verse": 27,
+      "spans": [
+        {
+          "text": "And thy servant my father said unto us, Ye know that my wife bare me two ",
+          "kind": "text"
+        },
+        {
+          "text": "sons:",
+          "kind": "supplied"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.44.28",
+      "edition_verse_id": "KJV1769:GEN.44.28",
+      "verse": 28,
+      "spans": [
+        {
+          "text": "And the one went out from me, and I said, Surely he is torn in pieces; and I saw him not since:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.44.29",
+      "edition_verse_id": "KJV1769:GEN.44.29",
+      "verse": 29,
+      "spans": [
+        {
+          "text": "And if ye take this also from me, and mischief befall him, ye shall bring down my gray hairs with sorrow to the grave.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.44.30",
+      "edition_verse_id": "KJV1769:GEN.44.30",
+      "verse": 30,
+      "spans": [
+        {
+          "text": "Now therefore when I come to thy servant my father, and the lad ",
+          "kind": "text"
+        },
+        {
+          "text": "be",
+          "kind": "supplied"
+        },
+        {
+          "text": " not with us; seeing that his life is bound up in the lad’s life;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.44.31",
+      "edition_verse_id": "KJV1769:GEN.44.31",
+      "verse": 31,
+      "spans": [
+        {
+          "text": "It shall come to pass, when he seeth that the lad ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " not ",
+          "kind": "text"
+        },
+        {
+          "text": "with us",
+          "kind": "supplied"
+        },
+        {
+          "text": ", that he will die: and thy servants shall bring down the gray hairs of thy servant our father with sorrow to the grave.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.44.32",
+      "edition_verse_id": "KJV1769:GEN.44.32",
+      "verse": 32,
+      "spans": [
+        {
+          "text": "For thy servant became surety for the lad unto my father, saying, If I bring him not unto thee, then I shall bear the blame to my father for ever.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.44.33",
+      "edition_verse_id": "KJV1769:GEN.44.33",
+      "verse": 33,
+      "spans": [
+        {
+          "text": "Now therefore, I pray thee, let thy servant abide instead of the lad a bondman to my lord; and let the lad go up with his brethren.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.44.34",
+      "edition_verse_id": "KJV1769:GEN.44.34",
+      "verse": 34,
+      "spans": [
+        {
+          "text": "For how shall I go up to my father, and the lad ",
+          "kind": "text"
+        },
+        {
+          "text": "be",
+          "kind": "supplied"
+        },
+        {
+          "text": " not with me? lest peradventure I see the evil that shall come on my father.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

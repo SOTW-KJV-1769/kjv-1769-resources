@@ -1,0 +1,424 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "KJV1769",
+  "book_code": "GEN",
+  "chapter": 3,
+  "verses": [
+    {
+      "id": "GEN.3.1",
+      "edition_verse_id": "KJV1769:GEN.3.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "Now the serpent was more subtil than any beast of the field which the LORD God had made. And he said unto the woman, Yea, hath God said, Ye shall not eat of every tree of the garden?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.3.2",
+      "edition_verse_id": "KJV1769:GEN.3.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "And the woman said unto the serpent, We may eat of the fruit of the trees of the garden:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.3.3",
+      "edition_verse_id": "KJV1769:GEN.3.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "But of the fruit of the tree which ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " in the midst of the garden, God hath said, Ye shall not eat of it, neither shall ye touch it, lest ye die.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.3.4",
+      "edition_verse_id": "KJV1769:GEN.3.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "And the serpent said unto the woman, Ye shall not surely die:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.3.5",
+      "edition_verse_id": "KJV1769:GEN.3.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "For God doth know that in the day ye eat thereof, then your eyes shall be opened, and ye shall be as gods, knowing good and evil.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.3.6",
+      "edition_verse_id": "KJV1769:GEN.3.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "And when the woman saw that the tree ",
+          "kind": "text"
+        },
+        {
+          "text": "was",
+          "kind": "supplied"
+        },
+        {
+          "text": " good for food, and that it ",
+          "kind": "text"
+        },
+        {
+          "text": "was",
+          "kind": "supplied"
+        },
+        {
+          "text": " pleasant to the eyes, and a tree to be desired to make ",
+          "kind": "text"
+        },
+        {
+          "text": "one",
+          "kind": "supplied"
+        },
+        {
+          "text": " wise, she took of the fruit thereof, and did eat, and gave also unto her husband with her; and he did eat.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.3.7",
+      "edition_verse_id": "KJV1769:GEN.3.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "And the eyes of them both were opened, and they knew that they ",
+          "kind": "text"
+        },
+        {
+          "text": "were",
+          "kind": "supplied"
+        },
+        {
+          "text": " naked; and they sewed fig leaves together, and made themselves aprons.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.3.8",
+      "edition_verse_id": "KJV1769:GEN.3.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "And they heard the voice of the LORD God walking in the garden in the cool of the day: and Adam and his wife hid themselves from the presence of the LORD God amongst the trees of the garden.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.3.9",
+      "edition_verse_id": "KJV1769:GEN.3.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "And the LORD God called unto Adam, and said unto him, Where ",
+          "kind": "text"
+        },
+        {
+          "text": "art",
+          "kind": "supplied"
+        },
+        {
+          "text": " thou?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.3.10",
+      "edition_verse_id": "KJV1769:GEN.3.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "And he said, I heard thy voice in the garden, and I was afraid, because I ",
+          "kind": "text"
+        },
+        {
+          "text": "was",
+          "kind": "supplied"
+        },
+        {
+          "text": " naked; and I hid myself.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.3.11",
+      "edition_verse_id": "KJV1769:GEN.3.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "And he said, Who told thee that thou ",
+          "kind": "text"
+        },
+        {
+          "text": "wast",
+          "kind": "supplied"
+        },
+        {
+          "text": " naked? Hast thou eaten of the tree, whereof I commanded thee that thou shouldest not eat?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.3.12",
+      "edition_verse_id": "KJV1769:GEN.3.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "And the man said, The woman whom thou gavest ",
+          "kind": "text"
+        },
+        {
+          "text": "to be",
+          "kind": "supplied"
+        },
+        {
+          "text": " with me, she gave me of the tree, and I did eat.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.3.13",
+      "edition_verse_id": "KJV1769:GEN.3.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "And the LORD God said unto the woman, What ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " this ",
+          "kind": "text"
+        },
+        {
+          "text": "that",
+          "kind": "supplied"
+        },
+        {
+          "text": " thou hast done? And the woman said, The serpent beguiled me, and I did eat.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.3.14",
+      "edition_verse_id": "KJV1769:GEN.3.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "And the LORD God said unto the serpent, Because thou hast done this, thou ",
+          "kind": "text"
+        },
+        {
+          "text": "art",
+          "kind": "supplied"
+        },
+        {
+          "text": " cursed above all cattle, and above every beast of the field; upon thy belly shalt thou go, and dust shalt thou eat all the days of thy life:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.3.15",
+      "edition_verse_id": "KJV1769:GEN.3.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "And I will put enmity between thee and the woman, and between thy seed and her seed; it shall bruise thy head, and thou shalt bruise his heel.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.3.16",
+      "edition_verse_id": "KJV1769:GEN.3.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "Unto the woman he said, I will greatly multiply thy sorrow and thy conception; in sorrow thou shalt bring forth children; and thy desire ",
+          "kind": "text"
+        },
+        {
+          "text": "shall be",
+          "kind": "supplied"
+        },
+        {
+          "text": " to thy husband, and he shall rule over thee.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.3.17",
+      "edition_verse_id": "KJV1769:GEN.3.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "And unto Adam he said, Because thou hast hearkened unto the voice of thy wife, and hast eaten of the tree, of which I commanded thee, saying, Thou shalt not eat of it: cursed ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " the ground for thy sake; in sorrow shalt thou eat ",
+          "kind": "text"
+        },
+        {
+          "text": "of",
+          "kind": "supplied"
+        },
+        {
+          "text": " it all the days of thy life;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.3.18",
+      "edition_verse_id": "KJV1769:GEN.3.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "Thorns also and thistles shall it bring forth to thee; and thou shalt eat the herb of the field;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.3.19",
+      "edition_verse_id": "KJV1769:GEN.3.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "In the sweat of thy face shalt thou eat bread, till thou return unto the ground; for out of it wast thou taken: for dust thou ",
+          "kind": "text"
+        },
+        {
+          "text": "art",
+          "kind": "supplied"
+        },
+        {
+          "text": ", and unto dust shalt thou return.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.3.20",
+      "edition_verse_id": "KJV1769:GEN.3.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "And Adam called his wife’s name Eve; because she was the mother of all living.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.3.21",
+      "edition_verse_id": "KJV1769:GEN.3.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "Unto Adam also and to his wife did the LORD God make coats of skins, and clothed them.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.3.22",
+      "edition_verse_id": "KJV1769:GEN.3.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "¶ And the LORD God said, Behold, the man is become as one of us, to know good and evil: and now, lest he put forth his hand, and take also of the tree of life, and eat, and live for ever:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.3.23",
+      "edition_verse_id": "KJV1769:GEN.3.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "Therefore the LORD God sent him forth from the garden of Eden, to till the ground from whence he was taken.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.3.24",
+      "edition_verse_id": "KJV1769:GEN.3.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "So he drove out the man; and he placed at the east of the garden of Eden Cherubims, and a flaming sword which turned every way, to keep the way of the tree of life.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

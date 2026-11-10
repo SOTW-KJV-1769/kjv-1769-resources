@@ -1,0 +1,420 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "KJV1769",
+  "book_code": "GEN",
+  "chapter": 14,
+  "verses": [
+    {
+      "id": "GEN.14.1",
+      "edition_verse_id": "KJV1769:GEN.14.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "And it came to pass in the days of Amraphel king of Shinar, Arioch king of Ellasar, Chedorlaomer king of Elam, and Tidal king of nations;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.14.2",
+      "edition_verse_id": "KJV1769:GEN.14.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "That these",
+          "kind": "supplied"
+        },
+        {
+          "text": " made war with Bera king of Sodom, and with Birsha king of Gomorrah, Shinab king of Admah, and Shemeber king of Zeboiim, and the king of Bela, which is Zoar.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.14.3",
+      "edition_verse_id": "KJV1769:GEN.14.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "All these were joined together in the vale of Siddim, which is the salt sea.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.14.4",
+      "edition_verse_id": "KJV1769:GEN.14.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "Twelve years they served Chedorlaomer, and in the thirteenth year they rebelled.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.14.5",
+      "edition_verse_id": "KJV1769:GEN.14.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "And in the fourteenth year came Chedorlaomer, and the kings that ",
+          "kind": "text"
+        },
+        {
+          "text": "were",
+          "kind": "supplied"
+        },
+        {
+          "text": " with him, and smote the Rephaims in Ashteroth Karnaim, and the Zuzims in Ham, and the Emims in Shaveh Kiriathaim,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.14.6",
+      "edition_verse_id": "KJV1769:GEN.14.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "And the Horites in their mount Seir, unto El-paran, which ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " by the wilderness.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.14.7",
+      "edition_verse_id": "KJV1769:GEN.14.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "And they returned, and came to En-mishpat, which ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " Kadesh, and smote all the country of the Amalekites, and also the Amorites, that dwelt in Hazezon-tamar.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.14.8",
+      "edition_verse_id": "KJV1769:GEN.14.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "And there went out the king of Sodom, and the king of Gomorrah, and the king of Admah, and the king of Zeboiim, and the king of Bela (the same ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " Zoar;) and they joined battle with them in the vale of Siddim;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.14.9",
+      "edition_verse_id": "KJV1769:GEN.14.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "With Chedorlaomer the king of Elam, and with Tidal king of nations, and Amraphel king of Shinar, and Arioch king of Ellasar; four kings with five.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.14.10",
+      "edition_verse_id": "KJV1769:GEN.14.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "And the vale of Siddim ",
+          "kind": "text"
+        },
+        {
+          "text": "was full of",
+          "kind": "supplied"
+        },
+        {
+          "text": " slimepits; and the kings of Sodom and Gomorrah fled, and fell there; and they that remained fled to the mountain.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.14.11",
+      "edition_verse_id": "KJV1769:GEN.14.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "And they took all the goods of Sodom and Gomorrah, and all their victuals, and went their way.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.14.12",
+      "edition_verse_id": "KJV1769:GEN.14.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "And they took Lot, Abram’s brother’s son, who dwelt in Sodom, and his goods, and departed.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.14.13",
+      "edition_verse_id": "KJV1769:GEN.14.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "¶ And there came one that had escaped, and told Abram the Hebrew; for he dwelt in the plain of Mamre the Amorite, brother of Eshcol, and brother of Aner: and these ",
+          "kind": "text"
+        },
+        {
+          "text": "were",
+          "kind": "supplied"
+        },
+        {
+          "text": " confederate with Abram.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.14.14",
+      "edition_verse_id": "KJV1769:GEN.14.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "And when Abram heard that his brother was taken captive, he armed his trained ",
+          "kind": "text"
+        },
+        {
+          "text": "servants",
+          "kind": "supplied"
+        },
+        {
+          "text": ", born in his own house, three hundred and eighteen, and pursued ",
+          "kind": "text"
+        },
+        {
+          "text": "them",
+          "kind": "supplied"
+        },
+        {
+          "text": " unto Dan.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.14.15",
+      "edition_verse_id": "KJV1769:GEN.14.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "And he divided himself against them, he and his servants, by night, and smote them, and pursued them unto Hobah, which ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " on the left hand of Damascus.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.14.16",
+      "edition_verse_id": "KJV1769:GEN.14.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "And he brought back all the goods, and also brought again his brother Lot, and his goods, and the women also, and the people.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.14.17",
+      "edition_verse_id": "KJV1769:GEN.14.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "¶ And the king of Sodom went out to meet him after his return from the slaughter of Chedorlaomer, and of the kings that ",
+          "kind": "text"
+        },
+        {
+          "text": "were",
+          "kind": "supplied"
+        },
+        {
+          "text": " with him, at the valley of Shaveh, which ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " the king’s dale.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.14.18",
+      "edition_verse_id": "KJV1769:GEN.14.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "And Melchizedek king of Salem brought forth bread and wine: and he ",
+          "kind": "text"
+        },
+        {
+          "text": "was",
+          "kind": "supplied"
+        },
+        {
+          "text": " the priest of the most high God.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.14.19",
+      "edition_verse_id": "KJV1769:GEN.14.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "And he blessed him, and said, Blessed ",
+          "kind": "text"
+        },
+        {
+          "text": "be",
+          "kind": "supplied"
+        },
+        {
+          "text": " Abram of the most high God, possessor of heaven and earth:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.14.20",
+      "edition_verse_id": "KJV1769:GEN.14.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "And blessed be the most high God, which hath delivered thine enemies into thy hand. And he gave him tithes of all.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.14.21",
+      "edition_verse_id": "KJV1769:GEN.14.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "And the king of Sodom said unto Abram, Give me the persons, and take the goods to thyself.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.14.22",
+      "edition_verse_id": "KJV1769:GEN.14.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "And Abram said to the king of Sodom, I have lift up mine hand unto the LORD, the most high God, the possessor of heaven and earth,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.14.23",
+      "edition_verse_id": "KJV1769:GEN.14.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "That I will not ",
+          "kind": "text"
+        },
+        {
+          "text": "take",
+          "kind": "supplied"
+        },
+        {
+          "text": " from a thread even to a shoelatchet, and that I will not take any thing that ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " thine, lest thou shouldest say, I have made Abram rich:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.14.24",
+      "edition_verse_id": "KJV1769:GEN.14.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "Save only that which the young men have eaten, and the portion of the men which went with me, Aner, Eshcol, and Mamre; let them take their portion.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

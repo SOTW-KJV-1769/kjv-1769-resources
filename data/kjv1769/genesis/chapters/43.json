@@ -1,0 +1,656 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "KJV1769",
+  "book_code": "GEN",
+  "chapter": 43,
+  "verses": [
+    {
+      "id": "GEN.43.1",
+      "edition_verse_id": "KJV1769:GEN.43.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "And the famine ",
+          "kind": "text"
+        },
+        {
+          "text": "was",
+          "kind": "supplied"
+        },
+        {
+          "text": " sore in the land.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.43.2",
+      "edition_verse_id": "KJV1769:GEN.43.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "And it came to pass, when they had eaten up the corn which they had brought out of Egypt, their father said unto them, Go again, buy us a little food.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.43.3",
+      "edition_verse_id": "KJV1769:GEN.43.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "And Judah spake unto him, saying, The man did solemnly protest unto us, saying, Ye shall not see my face, except your brother ",
+          "kind": "text"
+        },
+        {
+          "text": "be",
+          "kind": "supplied"
+        },
+        {
+          "text": " with you.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.43.4",
+      "edition_verse_id": "KJV1769:GEN.43.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "If thou wilt send our brother with us, we will go down and buy thee food:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.43.5",
+      "edition_verse_id": "KJV1769:GEN.43.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "But if thou wilt not send ",
+          "kind": "text"
+        },
+        {
+          "text": "him",
+          "kind": "supplied"
+        },
+        {
+          "text": ", we will not go down: for the man said unto us, Ye shall not see my face, except your brother ",
+          "kind": "text"
+        },
+        {
+          "text": "be",
+          "kind": "supplied"
+        },
+        {
+          "text": " with you.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.43.6",
+      "edition_verse_id": "KJV1769:GEN.43.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "And Israel said, Wherefore dealt ye ",
+          "kind": "text"
+        },
+        {
+          "text": "so",
+          "kind": "supplied"
+        },
+        {
+          "text": " ill with me, ",
+          "kind": "text"
+        },
+        {
+          "text": "as",
+          "kind": "supplied"
+        },
+        {
+          "text": " to tell the man whether ye had yet a brother?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.43.7",
+      "edition_verse_id": "KJV1769:GEN.43.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "And they said, The man asked us straitly of our state, and of our kindred, saying, ",
+          "kind": "text"
+        },
+        {
+          "text": "Is",
+          "kind": "supplied"
+        },
+        {
+          "text": " your father yet alive? have ye ",
+          "kind": "text"
+        },
+        {
+          "text": "another",
+          "kind": "supplied"
+        },
+        {
+          "text": " brother? and we told him according to the tenor of these words: could we certainly know that he would say, Bring your brother down?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.43.8",
+      "edition_verse_id": "KJV1769:GEN.43.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "And Judah said unto Israel his father, Send the lad with me, and we will arise and go; that we may live, and not die, both we, and thou, ",
+          "kind": "text"
+        },
+        {
+          "text": "and",
+          "kind": "supplied"
+        },
+        {
+          "text": " also our little ones.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.43.9",
+      "edition_verse_id": "KJV1769:GEN.43.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "I will be surety for him; of my hand shalt thou require him: if I bring him not unto thee, and set him before thee, then let me bear the blame for ever:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.43.10",
+      "edition_verse_id": "KJV1769:GEN.43.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "For except we had lingered, surely now we had returned this second time.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.43.11",
+      "edition_verse_id": "KJV1769:GEN.43.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "And their father Israel said unto them, If ",
+          "kind": "text"
+        },
+        {
+          "text": "it must be",
+          "kind": "supplied"
+        },
+        {
+          "text": " so now, do this; take of the best fruits in the land in your vessels, and carry down the man a present, a little balm, and a little honey, spices, and myrrh, nuts, and almonds:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.43.12",
+      "edition_verse_id": "KJV1769:GEN.43.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "And take double money in your hand; and the money that was brought again in the mouth of your sacks, carry ",
+          "kind": "text"
+        },
+        {
+          "text": "it",
+          "kind": "supplied"
+        },
+        {
+          "text": " again in your hand; peradventure it ",
+          "kind": "text"
+        },
+        {
+          "text": "was",
+          "kind": "supplied"
+        },
+        {
+          "text": " an oversight:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.43.13",
+      "edition_verse_id": "KJV1769:GEN.43.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "Take also your brother, and arise, go again unto the man:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.43.14",
+      "edition_verse_id": "KJV1769:GEN.43.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "And God Almighty give you mercy before the man, that he may send away your other brother, and Benjamin. If I be bereaved ",
+          "kind": "text"
+        },
+        {
+          "text": "of my children",
+          "kind": "supplied"
+        },
+        {
+          "text": ", I am bereaved.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.43.15",
+      "edition_verse_id": "KJV1769:GEN.43.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "¶ And the men took that present, and they took double money in their hand, and Benjamin; and rose up, and went down to Egypt, and stood before Joseph.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.43.16",
+      "edition_verse_id": "KJV1769:GEN.43.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "And when Joseph saw Benjamin with them, he said to the ruler of his house, Bring ",
+          "kind": "text"
+        },
+        {
+          "text": "these",
+          "kind": "supplied"
+        },
+        {
+          "text": " men home, and slay, and make ready; for ",
+          "kind": "text"
+        },
+        {
+          "text": "these",
+          "kind": "supplied"
+        },
+        {
+          "text": " men shall dine with me at noon.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.43.17",
+      "edition_verse_id": "KJV1769:GEN.43.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "And the man did as Joseph bade; and the man brought the men into Joseph’s house.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.43.18",
+      "edition_verse_id": "KJV1769:GEN.43.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "And the men were afraid, because they were brought into Joseph’s house; and they said, Because of the money that was returned in our sacks at the first time are we brought in; that he may seek occasion against us, and fall upon us, and take us for bondmen, and our asses.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.43.19",
+      "edition_verse_id": "KJV1769:GEN.43.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "And they came near to the steward of Joseph’s house, and they communed with him at the door of the house,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.43.20",
+      "edition_verse_id": "KJV1769:GEN.43.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "And said, O sir, we came indeed down at the first time to buy food:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.43.21",
+      "edition_verse_id": "KJV1769:GEN.43.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "And it came to pass, when we came to the inn, that we opened our sacks, and, behold, ",
+          "kind": "text"
+        },
+        {
+          "text": "every",
+          "kind": "supplied"
+        },
+        {
+          "text": " man’s money ",
+          "kind": "text"
+        },
+        {
+          "text": "was",
+          "kind": "supplied"
+        },
+        {
+          "text": " in the mouth of his sack, our money in full weight: and we have brought it again in our hand.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.43.22",
+      "edition_verse_id": "KJV1769:GEN.43.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "And other money have we brought down in our hands to buy food: we cannot tell who put our money in our sacks.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.43.23",
+      "edition_verse_id": "KJV1769:GEN.43.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "And he said, Peace ",
+          "kind": "text"
+        },
+        {
+          "text": "be",
+          "kind": "supplied"
+        },
+        {
+          "text": " to you, fear not: your God, and the God of your father, hath given you treasure in your sacks: I had your money. And he brought Simeon out unto them.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.43.24",
+      "edition_verse_id": "KJV1769:GEN.43.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "And the man brought the men into Joseph’s house, and gave ",
+          "kind": "text"
+        },
+        {
+          "text": "them",
+          "kind": "supplied"
+        },
+        {
+          "text": " water, and they washed their feet; and he gave their asses provender.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.43.25",
+      "edition_verse_id": "KJV1769:GEN.43.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "And they made ready the present against Joseph came at noon: for they heard that they should eat bread there.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.43.26",
+      "edition_verse_id": "KJV1769:GEN.43.26",
+      "verse": 26,
+      "spans": [
+        {
+          "text": "¶ And when Joseph came home, they brought him the present which ",
+          "kind": "text"
+        },
+        {
+          "text": "was",
+          "kind": "supplied"
+        },
+        {
+          "text": " in their hand into the house, and bowed themselves to him to the earth.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.43.27",
+      "edition_verse_id": "KJV1769:GEN.43.27",
+      "verse": 27,
+      "spans": [
+        {
+          "text": "And he asked them of ",
+          "kind": "text"
+        },
+        {
+          "text": "their",
+          "kind": "supplied"
+        },
+        {
+          "text": " welfare, and said, ",
+          "kind": "text"
+        },
+        {
+          "text": "Is",
+          "kind": "supplied"
+        },
+        {
+          "text": " your father well, the old man of whom ye spake? ",
+          "kind": "text"
+        },
+        {
+          "text": "Is",
+          "kind": "supplied"
+        },
+        {
+          "text": " he yet alive?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.43.28",
+      "edition_verse_id": "KJV1769:GEN.43.28",
+      "verse": 28,
+      "spans": [
+        {
+          "text": "And they answered, Thy servant our father ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " in good health, he ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " yet alive. And they bowed down their heads, and made obeisance.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.43.29",
+      "edition_verse_id": "KJV1769:GEN.43.29",
+      "verse": 29,
+      "spans": [
+        {
+          "text": "And he lifted up his eyes, and saw his brother Benjamin, his mother’s son, and said, ",
+          "kind": "text"
+        },
+        {
+          "text": "Is",
+          "kind": "supplied"
+        },
+        {
+          "text": " this your younger brother, of whom ye spake unto me? And he said, God be gracious unto thee, my son.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.43.30",
+      "edition_verse_id": "KJV1769:GEN.43.30",
+      "verse": 30,
+      "spans": [
+        {
+          "text": "And Joseph made haste; for his bowels did yearn upon his brother: and he sought ",
+          "kind": "text"
+        },
+        {
+          "text": "where",
+          "kind": "supplied"
+        },
+        {
+          "text": " to weep; and he entered into ",
+          "kind": "text"
+        },
+        {
+          "text": "his",
+          "kind": "supplied"
+        },
+        {
+          "text": " chamber, and wept there.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.43.31",
+      "edition_verse_id": "KJV1769:GEN.43.31",
+      "verse": 31,
+      "spans": [
+        {
+          "text": "And he washed his face, and went out, and refrained himself, and said, Set on bread.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.43.32",
+      "edition_verse_id": "KJV1769:GEN.43.32",
+      "verse": 32,
+      "spans": [
+        {
+          "text": "And they set on for him by himself, and for them by themselves, and for the Egyptians, which did eat with him, by themselves: because the Egyptians might not eat bread with the Hebrews; for that ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " an abomination unto the Egyptians.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.43.33",
+      "edition_verse_id": "KJV1769:GEN.43.33",
+      "verse": 33,
+      "spans": [
+        {
+          "text": "And they sat before him, the firstborn according to his birthright, and the youngest according to his youth: and the men marvelled one at another.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.43.34",
+      "edition_verse_id": "KJV1769:GEN.43.34",
+      "verse": 34,
+      "spans": [
+        {
+          "text": "And he took ",
+          "kind": "text"
+        },
+        {
+          "text": "and sent",
+          "kind": "supplied"
+        },
+        {
+          "text": " messes unto them from before him: but Benjamin’s mess was five times so much as any of theirs. And they drank, and were merry with him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

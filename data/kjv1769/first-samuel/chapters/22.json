@@ -1,0 +1,444 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "KJV1769",
+  "book_code": "1SA",
+  "chapter": 22,
+  "verses": [
+    {
+      "id": "1SA.22.1",
+      "edition_verse_id": "KJV1769:1SA.22.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "David therefore departed thence, and escaped to the cave Adullam: and when his brethren and all his father’s house heard ",
+          "kind": "text"
+        },
+        {
+          "text": "it",
+          "kind": "supplied"
+        },
+        {
+          "text": ", they went down thither to him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1SA.22.2",
+      "edition_verse_id": "KJV1769:1SA.22.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "And every one ",
+          "kind": "text"
+        },
+        {
+          "text": "that was",
+          "kind": "supplied"
+        },
+        {
+          "text": " in distress, and every one that ",
+          "kind": "text"
+        },
+        {
+          "text": "was",
+          "kind": "supplied"
+        },
+        {
+          "text": " in debt, and every one ",
+          "kind": "text"
+        },
+        {
+          "text": "that was",
+          "kind": "supplied"
+        },
+        {
+          "text": " discontented, gathered themselves unto him; and he became a captain over them: and there were with him about four hundred men.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1SA.22.3",
+      "edition_verse_id": "KJV1769:1SA.22.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "¶ And David went thence to Mizpeh of Moab: and he said unto the king of Moab, Let my father and my mother, I pray thee, come forth, ",
+          "kind": "text"
+        },
+        {
+          "text": "and be",
+          "kind": "supplied"
+        },
+        {
+          "text": " with you, till I know what God will do for me.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1SA.22.4",
+      "edition_verse_id": "KJV1769:1SA.22.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "And he brought them before the king of Moab: and they dwelt with him all the while that David was in the hold.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1SA.22.5",
+      "edition_verse_id": "KJV1769:1SA.22.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "¶ And the prophet Gad said unto David, Abide not in the hold; depart, and get thee into the land of Judah. Then David departed, and came into the forest of Hareth.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1SA.22.6",
+      "edition_verse_id": "KJV1769:1SA.22.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "¶ When Saul heard that David was discovered, and the men that ",
+          "kind": "text"
+        },
+        {
+          "text": "were",
+          "kind": "supplied"
+        },
+        {
+          "text": " with him, (now Saul abode in Gibeah under a tree in Ramah, having his spear in his hand, and all his servants ",
+          "kind": "text"
+        },
+        {
+          "text": "were",
+          "kind": "supplied"
+        },
+        {
+          "text": " standing about him;)",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1SA.22.7",
+      "edition_verse_id": "KJV1769:1SA.22.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "Then Saul said unto his servants that stood about him, Hear now, ye Benjamites; will the son of Jesse give every one of you fields and vineyards, ",
+          "kind": "text"
+        },
+        {
+          "text": "and",
+          "kind": "supplied"
+        },
+        {
+          "text": " make you all captains of thousands, and captains of hundreds;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1SA.22.8",
+      "edition_verse_id": "KJV1769:1SA.22.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "That all of you have conspired against me, and ",
+          "kind": "text"
+        },
+        {
+          "text": "there is",
+          "kind": "supplied"
+        },
+        {
+          "text": " none that sheweth me that my son hath made a league with the son of Jesse, and ",
+          "kind": "text"
+        },
+        {
+          "text": "there is",
+          "kind": "supplied"
+        },
+        {
+          "text": " none of you that is sorry for me, or sheweth unto me that my son hath stirred up my servant against me, to lie in wait, as at this day?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1SA.22.9",
+      "edition_verse_id": "KJV1769:1SA.22.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "¶ Then answered Doeg the Edomite, which was set over the servants of Saul, and said, I saw the son of Jesse coming to Nob, to Ahimelech the son of Ahitub.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1SA.22.10",
+      "edition_verse_id": "KJV1769:1SA.22.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "And he enquired of the LORD for him, and gave him victuals, and gave him the sword of Goliath the Philistine.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1SA.22.11",
+      "edition_verse_id": "KJV1769:1SA.22.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "Then the king sent to call Ahimelech the priest, the son of Ahitub, and all his father’s house, the priests that ",
+          "kind": "text"
+        },
+        {
+          "text": "were",
+          "kind": "supplied"
+        },
+        {
+          "text": " in Nob: and they came all of them to the king.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1SA.22.12",
+      "edition_verse_id": "KJV1769:1SA.22.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "And Saul said, Hear now, thou son of Ahitub. And he answered, Here I ",
+          "kind": "text"
+        },
+        {
+          "text": "am",
+          "kind": "supplied"
+        },
+        {
+          "text": ", my lord.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1SA.22.13",
+      "edition_verse_id": "KJV1769:1SA.22.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "And Saul said unto him, Why have ye conspired against me, thou and the son of Jesse, in that thou hast given him bread, and a sword, and hast enquired of God for him, that he should rise against me, to lie in wait, as at this day?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1SA.22.14",
+      "edition_verse_id": "KJV1769:1SA.22.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "Then Ahimelech answered the king, and said, And who ",
+          "kind": "text"
+        },
+        {
+          "text": "is so",
+          "kind": "supplied"
+        },
+        {
+          "text": " faithful among all thy servants as David, which is the king’s son in law, and goeth at thy bidding, and is honourable in thine house?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1SA.22.15",
+      "edition_verse_id": "KJV1769:1SA.22.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "Did I then begin to enquire of God for him? be it far from me: let not the king impute ",
+          "kind": "text"
+        },
+        {
+          "text": "any",
+          "kind": "supplied"
+        },
+        {
+          "text": " thing unto his servant, ",
+          "kind": "text"
+        },
+        {
+          "text": "nor",
+          "kind": "supplied"
+        },
+        {
+          "text": " to all the house of my father: for thy servant knew nothing of all this, less or more.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1SA.22.16",
+      "edition_verse_id": "KJV1769:1SA.22.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "And the king said, Thou shalt surely die, Ahimelech, thou, and all thy father’s house.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1SA.22.17",
+      "edition_verse_id": "KJV1769:1SA.22.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "¶ And the king said unto the footmen that stood about him, Turn, and slay the priests of the LORD; because their hand also ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " with David, and because they knew when he fled, and did not shew it to me. But the servants of the king would not put forth their hand to fall upon the priests of the LORD.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1SA.22.18",
+      "edition_verse_id": "KJV1769:1SA.22.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "And the king said to Doeg, Turn thou, and fall upon the priests. And Doeg the Edomite turned, and he fell upon the priests, and slew on that day fourscore and five persons that did wear a linen ephod.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1SA.22.19",
+      "edition_verse_id": "KJV1769:1SA.22.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "And Nob, the city of the priests, smote he with the edge of the sword, both men and women, children and sucklings, and oxen, and asses, and sheep, with the edge of the sword.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1SA.22.20",
+      "edition_verse_id": "KJV1769:1SA.22.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "¶ And one of the sons of Ahimelech the son of Ahitub, named Abiathar, escaped, and fled after David.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1SA.22.21",
+      "edition_verse_id": "KJV1769:1SA.22.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "And Abiathar shewed David that Saul had slain the LORD’s priests.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1SA.22.22",
+      "edition_verse_id": "KJV1769:1SA.22.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "And David said unto Abiathar, I knew ",
+          "kind": "text"
+        },
+        {
+          "text": "it",
+          "kind": "supplied"
+        },
+        {
+          "text": " that day, when Doeg the Edomite ",
+          "kind": "text"
+        },
+        {
+          "text": "was",
+          "kind": "supplied"
+        },
+        {
+          "text": " there, that he would surely tell Saul: I have occasioned ",
+          "kind": "text"
+        },
+        {
+          "text": "the death",
+          "kind": "supplied"
+        },
+        {
+          "text": " of all the persons of thy father’s house.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1SA.22.23",
+      "edition_verse_id": "KJV1769:1SA.22.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "Abide thou with me, fear not: for he that seeketh my life seeketh thy life: but with me thou ",
+          "kind": "text"
+        },
+        {
+          "text": "shalt be",
+          "kind": "supplied"
+        },
+        {
+          "text": " in safeguard.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "edition_id": "KJV1769",
+  "book_code": "GAL",
+  "chapter_count": 6,
+  "verse_count": 149,
+  "chapters": [
+    {
+      "chapter": 1,
+      "verse_count": 24,
+      "sha256": "13e0bd0a1c4623a39ce7d8acd2f195c231e82d6d0fe2596aace046f9d14a8efa"
+    },
+    {
+      "chapter": 2,
+      "verse_count": 21,
+      "sha256": "a345fd1566875915092412b8b3d1bbe3669fea37945de72a60f15c1f55f9ae36"
+    },
+    {
+      "chapter": 3,
+      "verse_count": 29,
+      "sha256": "90e14fe4164ad5a0e54131137f6d363952e30f2acda8df497bb1e526e2add787"
+    },
+    {
+      "chapter": 4,
+      "verse_count": 31,
+      "sha256": "a850af2ac25232aed658c05791f959f65330a318471827e25c5a70018d94d4b6"
+    },
+    {
+      "chapter": 5,
+      "verse_count": 26,
+      "sha256": "2417d4623b5ab676febfb8f5fce76360fecc69c90c82d5f9518cb6ade4e5bc66"
+    },
+    {
+      "chapter": 6,
+      "verse_count": 18,
+      "sha256": "9f7450b7e2d4bebce914ea357e92c10b5bfc762439901be7210805b57fe37e71"
+    }
+  ]
+}

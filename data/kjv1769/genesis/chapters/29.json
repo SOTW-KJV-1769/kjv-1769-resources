@@ -1,0 +1,676 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "KJV1769",
+  "book_code": "GEN",
+  "chapter": 29,
+  "verses": [
+    {
+      "id": "GEN.29.1",
+      "edition_verse_id": "KJV1769:GEN.29.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "Then Jacob went on his journey, and came into the land of the people of the east.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.29.2",
+      "edition_verse_id": "KJV1769:GEN.29.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "And he looked, and behold a well in the field, and, lo, there ",
+          "kind": "text"
+        },
+        {
+          "text": "were",
+          "kind": "supplied"
+        },
+        {
+          "text": " three flocks of sheep lying by it; for out of that well they watered the flocks: and a great stone ",
+          "kind": "text"
+        },
+        {
+          "text": "was",
+          "kind": "supplied"
+        },
+        {
+          "text": " upon the well’s mouth.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.29.3",
+      "edition_verse_id": "KJV1769:GEN.29.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "And thither were all the flocks gathered: and they rolled the stone from the well’s mouth, and watered the sheep, and put the stone again upon the well’s mouth in his place.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.29.4",
+      "edition_verse_id": "KJV1769:GEN.29.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "And Jacob said unto them, My brethren, whence ",
+          "kind": "text"
+        },
+        {
+          "text": "be",
+          "kind": "supplied"
+        },
+        {
+          "text": " ye? And they said, Of Haran ",
+          "kind": "text"
+        },
+        {
+          "text": "are",
+          "kind": "supplied"
+        },
+        {
+          "text": " we.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.29.5",
+      "edition_verse_id": "KJV1769:GEN.29.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "And he said unto them, Know ye Laban the son of Nahor? And they said, We know ",
+          "kind": "text"
+        },
+        {
+          "text": "him",
+          "kind": "supplied"
+        },
+        {
+          "text": ".",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.29.6",
+      "edition_verse_id": "KJV1769:GEN.29.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "And he said unto them, ",
+          "kind": "text"
+        },
+        {
+          "text": "Is",
+          "kind": "supplied"
+        },
+        {
+          "text": " he well? And they said, ",
+          "kind": "text"
+        },
+        {
+          "text": "He is",
+          "kind": "supplied"
+        },
+        {
+          "text": " well: and, behold, Rachel his daughter cometh with the sheep.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.29.7",
+      "edition_verse_id": "KJV1769:GEN.29.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "And he said, Lo, ",
+          "kind": "text"
+        },
+        {
+          "text": "it is",
+          "kind": "supplied"
+        },
+        {
+          "text": " yet high day, neither ",
+          "kind": "text"
+        },
+        {
+          "text": "is it",
+          "kind": "supplied"
+        },
+        {
+          "text": " time that the cattle should be gathered together: water ye the sheep, and go ",
+          "kind": "text"
+        },
+        {
+          "text": "and",
+          "kind": "supplied"
+        },
+        {
+          "text": " feed ",
+          "kind": "text"
+        },
+        {
+          "text": "them",
+          "kind": "supplied"
+        },
+        {
+          "text": ".",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.29.8",
+      "edition_verse_id": "KJV1769:GEN.29.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "And they said, We cannot, until all the flocks be gathered together, and ",
+          "kind": "text"
+        },
+        {
+          "text": "till",
+          "kind": "supplied"
+        },
+        {
+          "text": " they roll the stone from the well’s mouth; then we water the sheep.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.29.9",
+      "edition_verse_id": "KJV1769:GEN.29.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "¶ And while he yet spake with them, Rachel came with her father’s sheep: for she kept them.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.29.10",
+      "edition_verse_id": "KJV1769:GEN.29.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "And it came to pass, when Jacob saw Rachel the daughter of Laban his mother’s brother, and the sheep of Laban his mother’s brother, that Jacob went near, and rolled the stone from the well’s mouth, and watered the flock of Laban his mother’s brother.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.29.11",
+      "edition_verse_id": "KJV1769:GEN.29.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "And Jacob kissed Rachel, and lifted up his voice, and wept.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.29.12",
+      "edition_verse_id": "KJV1769:GEN.29.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "And Jacob told Rachel that he ",
+          "kind": "text"
+        },
+        {
+          "text": "was",
+          "kind": "supplied"
+        },
+        {
+          "text": " her father’s brother, and that he ",
+          "kind": "text"
+        },
+        {
+          "text": "was",
+          "kind": "supplied"
+        },
+        {
+          "text": " Rebekah’s son: and she ran and told her father.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.29.13",
+      "edition_verse_id": "KJV1769:GEN.29.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "And it came to pass, when Laban heard the tidings of Jacob his sister’s son, that he ran to meet him, and embraced him, and kissed him, and brought him to his house. And he told Laban all these things.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.29.14",
+      "edition_verse_id": "KJV1769:GEN.29.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "And Laban said to him, Surely thou ",
+          "kind": "text"
+        },
+        {
+          "text": "art",
+          "kind": "supplied"
+        },
+        {
+          "text": " my bone and my flesh. And he abode with him the space of a month.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.29.15",
+      "edition_verse_id": "KJV1769:GEN.29.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "¶ And Laban said unto Jacob, Because thou ",
+          "kind": "text"
+        },
+        {
+          "text": "art",
+          "kind": "supplied"
+        },
+        {
+          "text": " my brother, shouldest thou therefore serve me for nought? tell me, what ",
+          "kind": "text"
+        },
+        {
+          "text": "shall",
+          "kind": "supplied"
+        },
+        {
+          "text": " thy wages ",
+          "kind": "text"
+        },
+        {
+          "text": "be",
+          "kind": "supplied"
+        },
+        {
+          "text": "?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.29.16",
+      "edition_verse_id": "KJV1769:GEN.29.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "And Laban had two daughters: the name of the elder ",
+          "kind": "text"
+        },
+        {
+          "text": "was",
+          "kind": "supplied"
+        },
+        {
+          "text": " Leah, and the name of the younger ",
+          "kind": "text"
+        },
+        {
+          "text": "was",
+          "kind": "supplied"
+        },
+        {
+          "text": " Rachel.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.29.17",
+      "edition_verse_id": "KJV1769:GEN.29.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "Leah ",
+          "kind": "text"
+        },
+        {
+          "text": "was",
+          "kind": "supplied"
+        },
+        {
+          "text": " tender eyed; but Rachel was beautiful and well favoured.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.29.18",
+      "edition_verse_id": "KJV1769:GEN.29.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "And Jacob loved Rachel; and said, I will serve thee seven years for Rachel thy younger daughter.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.29.19",
+      "edition_verse_id": "KJV1769:GEN.29.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "And Laban said, ",
+          "kind": "text"
+        },
+        {
+          "text": "It is",
+          "kind": "supplied"
+        },
+        {
+          "text": " better that I give her to thee, than that I should give her to another man: abide with me.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.29.20",
+      "edition_verse_id": "KJV1769:GEN.29.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "And Jacob served seven years for Rachel; and they seemed unto him ",
+          "kind": "text"
+        },
+        {
+          "text": "but",
+          "kind": "supplied"
+        },
+        {
+          "text": " a few days, for the love he had to her.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.29.21",
+      "edition_verse_id": "KJV1769:GEN.29.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "¶ And Jacob said unto Laban, Give ",
+          "kind": "text"
+        },
+        {
+          "text": "me",
+          "kind": "supplied"
+        },
+        {
+          "text": " my wife, for my days are fulfilled, that I may go in unto her.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.29.22",
+      "edition_verse_id": "KJV1769:GEN.29.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "And Laban gathered together all the men of the place, and made a feast.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.29.23",
+      "edition_verse_id": "KJV1769:GEN.29.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "And it came to pass in the evening, that he took Leah his daughter, and brought her to him; and he went in unto her.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.29.24",
+      "edition_verse_id": "KJV1769:GEN.29.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "And Laban gave unto his daughter Leah Zilpah his maid ",
+          "kind": "text"
+        },
+        {
+          "text": "for",
+          "kind": "supplied"
+        },
+        {
+          "text": " an handmaid.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.29.25",
+      "edition_verse_id": "KJV1769:GEN.29.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "And it came to pass, that in the morning, behold, it ",
+          "kind": "text"
+        },
+        {
+          "text": "was",
+          "kind": "supplied"
+        },
+        {
+          "text": " Leah: and he said to Laban, What ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " this thou hast done unto me? did not I serve with thee for Rachel? wherefore then hast thou beguiled me?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.29.26",
+      "edition_verse_id": "KJV1769:GEN.29.26",
+      "verse": 26,
+      "spans": [
+        {
+          "text": "And Laban said, It must not be so done in our country, to give the younger before the firstborn.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.29.27",
+      "edition_verse_id": "KJV1769:GEN.29.27",
+      "verse": 27,
+      "spans": [
+        {
+          "text": "Fulfil her week, and we will give thee this also for the service which thou shalt serve with me yet seven other years.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.29.28",
+      "edition_verse_id": "KJV1769:GEN.29.28",
+      "verse": 28,
+      "spans": [
+        {
+          "text": "And Jacob did so, and fulfilled her week: and he gave him Rachel his daughter to wife also.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.29.29",
+      "edition_verse_id": "KJV1769:GEN.29.29",
+      "verse": 29,
+      "spans": [
+        {
+          "text": "And Laban gave to Rachel his daughter Bilhah his handmaid to be her maid.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.29.30",
+      "edition_verse_id": "KJV1769:GEN.29.30",
+      "verse": 30,
+      "spans": [
+        {
+          "text": "And he went in also unto Rachel, and he loved also Rachel more than Leah, and served with him yet seven other years.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.29.31",
+      "edition_verse_id": "KJV1769:GEN.29.31",
+      "verse": 31,
+      "spans": [
+        {
+          "text": "¶ And when the LORD saw that Leah ",
+          "kind": "text"
+        },
+        {
+          "text": "was",
+          "kind": "supplied"
+        },
+        {
+          "text": " hated, he opened her womb: but Rachel ",
+          "kind": "text"
+        },
+        {
+          "text": "was",
+          "kind": "supplied"
+        },
+        {
+          "text": " barren.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.29.32",
+      "edition_verse_id": "KJV1769:GEN.29.32",
+      "verse": 32,
+      "spans": [
+        {
+          "text": "And Leah conceived, and bare a son, and she called his name Reuben: for she said, Surely the LORD hath looked upon my affliction; now therefore my husband will love me.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.29.33",
+      "edition_verse_id": "KJV1769:GEN.29.33",
+      "verse": 33,
+      "spans": [
+        {
+          "text": "And she conceived again, and bare a son; and said, Because the LORD hath heard that I ",
+          "kind": "text"
+        },
+        {
+          "text": "was",
+          "kind": "supplied"
+        },
+        {
+          "text": " hated, he hath therefore given me this ",
+          "kind": "text"
+        },
+        {
+          "text": "son",
+          "kind": "supplied"
+        },
+        {
+          "text": " also: and she called his name Simeon.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.29.34",
+      "edition_verse_id": "KJV1769:GEN.29.34",
+      "verse": 34,
+      "spans": [
+        {
+          "text": "And she conceived again, and bare a son; and said, Now this time will my husband be joined unto me, because I have born him three sons: therefore was his name called Levi.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.29.35",
+      "edition_verse_id": "KJV1769:GEN.29.35",
+      "verse": 35,
+      "spans": [
+        {
+          "text": "And she conceived again, and bare a son: and she said, Now will I praise the LORD: therefore she called his name Judah; and left bearing.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

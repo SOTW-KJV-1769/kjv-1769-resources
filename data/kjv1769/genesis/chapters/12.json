@@ -1,0 +1,360 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "KJV1769",
+  "book_code": "GEN",
+  "chapter": 12,
+  "verses": [
+    {
+      "id": "GEN.12.1",
+      "edition_verse_id": "KJV1769:GEN.12.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "Now the LORD had said unto Abram, Get thee out of thy country, and from thy kindred, and from thy father’s house, unto a land that I will shew thee:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.12.2",
+      "edition_verse_id": "KJV1769:GEN.12.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "And I will make of thee a great nation, and I will bless thee, and make thy name great; and thou shalt be a blessing:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.12.3",
+      "edition_verse_id": "KJV1769:GEN.12.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "And I will bless them that bless thee, and curse him that curseth thee: and in thee shall all families of the earth be blessed.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.12.4",
+      "edition_verse_id": "KJV1769:GEN.12.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "So Abram departed, as the LORD had spoken unto him; and Lot went with him: and Abram ",
+          "kind": "text"
+        },
+        {
+          "text": "was",
+          "kind": "supplied"
+        },
+        {
+          "text": " seventy and five years old when he departed out of Haran.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.12.5",
+      "edition_verse_id": "KJV1769:GEN.12.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "And Abram took Sarai his wife, and Lot his brother’s son, and all their substance that they had gathered, and the souls that they had gotten in Haran; and they went forth to go into the land of Canaan; and into the land of Canaan they came.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.12.6",
+      "edition_verse_id": "KJV1769:GEN.12.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "¶ And Abram passed through the land unto the place of Sichem, unto the plain of Moreh. And the Canaanite ",
+          "kind": "text"
+        },
+        {
+          "text": "was",
+          "kind": "supplied"
+        },
+        {
+          "text": " then in the land.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.12.7",
+      "edition_verse_id": "KJV1769:GEN.12.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "And the LORD appeared unto Abram, and said, Unto thy seed will I give this land: and there builded he an altar unto the LORD, who appeared unto him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.12.8",
+      "edition_verse_id": "KJV1769:GEN.12.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "And he removed from thence unto a mountain on the east of Beth-el, and pitched his tent, ",
+          "kind": "text"
+        },
+        {
+          "text": "having",
+          "kind": "supplied"
+        },
+        {
+          "text": " Beth-el on the west, and Hai on the east: and there he builded an altar unto the LORD, and called upon the name of the LORD.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.12.9",
+      "edition_verse_id": "KJV1769:GEN.12.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "And Abram journeyed, going on still toward the south.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.12.10",
+      "edition_verse_id": "KJV1769:GEN.12.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "¶ And there was a famine in the land: and Abram went down into Egypt to sojourn there; for the famine ",
+          "kind": "text"
+        },
+        {
+          "text": "was",
+          "kind": "supplied"
+        },
+        {
+          "text": " grievous in the land.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.12.11",
+      "edition_verse_id": "KJV1769:GEN.12.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "And it came to pass, when he was come near to enter into Egypt, that he said unto Sarai his wife, Behold now, I know that thou ",
+          "kind": "text"
+        },
+        {
+          "text": "art",
+          "kind": "supplied"
+        },
+        {
+          "text": " a fair woman to look upon:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.12.12",
+      "edition_verse_id": "KJV1769:GEN.12.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "Therefore it shall come to pass, when the Egyptians shall see thee, that they shall say, This ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " his wife: and they will kill me, but they will save thee alive.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.12.13",
+      "edition_verse_id": "KJV1769:GEN.12.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "Say, I pray thee, thou ",
+          "kind": "text"
+        },
+        {
+          "text": "art",
+          "kind": "supplied"
+        },
+        {
+          "text": " my sister: that it may be well with me for thy sake; and my soul shall live because of thee.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.12.14",
+      "edition_verse_id": "KJV1769:GEN.12.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "¶ And it came to pass, that, when Abram was come into Egypt, the Egyptians beheld the woman that she ",
+          "kind": "text"
+        },
+        {
+          "text": "was",
+          "kind": "supplied"
+        },
+        {
+          "text": " very fair.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.12.15",
+      "edition_verse_id": "KJV1769:GEN.12.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "The princes also of Pharaoh saw her, and commended her before Pharaoh: and the woman was taken into Pharaoh’s house.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.12.16",
+      "edition_verse_id": "KJV1769:GEN.12.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "And he entreated Abram well for her sake: and he had sheep, and oxen, and he asses, and menservants, and maidservants, and she asses, and camels.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.12.17",
+      "edition_verse_id": "KJV1769:GEN.12.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "And the LORD plagued Pharaoh and his house with great plagues because of Sarai Abram’s wife.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.12.18",
+      "edition_verse_id": "KJV1769:GEN.12.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "And Pharaoh called Abram, and said, What ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " this ",
+          "kind": "text"
+        },
+        {
+          "text": "that",
+          "kind": "supplied"
+        },
+        {
+          "text": " thou hast done unto me? why didst thou not tell me that she ",
+          "kind": "text"
+        },
+        {
+          "text": "was",
+          "kind": "supplied"
+        },
+        {
+          "text": " thy wife?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.12.19",
+      "edition_verse_id": "KJV1769:GEN.12.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "Why saidst thou, She ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " my sister? so I might have taken her to me to wife: now therefore behold thy wife, take ",
+          "kind": "text"
+        },
+        {
+          "text": "her",
+          "kind": "supplied"
+        },
+        {
+          "text": ", and go thy way.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.12.20",
+      "edition_verse_id": "KJV1769:GEN.12.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "And Pharaoh commanded ",
+          "kind": "text"
+        },
+        {
+          "text": "his",
+          "kind": "supplied"
+        },
+        {
+          "text": " men concerning him: and they sent him away, and his wife, and all that he had.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

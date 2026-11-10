@@ -1,0 +1,316 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "KJV1769",
+  "book_code": "GEN",
+  "chapter": 13,
+  "verses": [
+    {
+      "id": "GEN.13.1",
+      "edition_verse_id": "KJV1769:GEN.13.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "And Abram went up out of Egypt, he, and his wife, and all that he had, and Lot with him, into the south.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.13.2",
+      "edition_verse_id": "KJV1769:GEN.13.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "And Abram ",
+          "kind": "text"
+        },
+        {
+          "text": "was",
+          "kind": "supplied"
+        },
+        {
+          "text": " very rich in cattle, in silver, and in gold.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.13.3",
+      "edition_verse_id": "KJV1769:GEN.13.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "And he went on his journeys from the south even to Beth-el, unto the place where his tent had been at the beginning, between Beth-el and Hai;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.13.4",
+      "edition_verse_id": "KJV1769:GEN.13.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "Unto the place of the altar, which he had made there at the first: and there Abram called on the name of the LORD.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.13.5",
+      "edition_verse_id": "KJV1769:GEN.13.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "¶ And Lot also, which went with Abram, had flocks, and herds, and tents.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.13.6",
+      "edition_verse_id": "KJV1769:GEN.13.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "And the land was not able to bear them, that they might dwell together: for their substance was great, so that they could not dwell together.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.13.7",
+      "edition_verse_id": "KJV1769:GEN.13.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "And there was a strife between the herdmen of Abram’s cattle and the herdmen of Lot’s cattle: and the Canaanite and the Perizzite dwelled then in the land.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.13.8",
+      "edition_verse_id": "KJV1769:GEN.13.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "And Abram said unto Lot, Let there be no strife, I pray thee, between me and thee, and between my herdmen and thy herdmen; for we ",
+          "kind": "text"
+        },
+        {
+          "text": "be",
+          "kind": "supplied"
+        },
+        {
+          "text": " brethren.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.13.9",
+      "edition_verse_id": "KJV1769:GEN.13.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "Is",
+          "kind": "supplied"
+        },
+        {
+          "text": " not the whole land before thee? separate thyself, I pray thee, from me: if ",
+          "kind": "text"
+        },
+        {
+          "text": "thou wilt take",
+          "kind": "supplied"
+        },
+        {
+          "text": " the left hand, then I will go to the right; or if ",
+          "kind": "text"
+        },
+        {
+          "text": "thou depart",
+          "kind": "supplied"
+        },
+        {
+          "text": " to the right hand, then I will go to the left.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.13.10",
+      "edition_verse_id": "KJV1769:GEN.13.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "And Lot lifted up his eyes, and beheld all the plain of Jordan, that it ",
+          "kind": "text"
+        },
+        {
+          "text": "was",
+          "kind": "supplied"
+        },
+        {
+          "text": " well watered every where, before the LORD destroyed Sodom and Gomorrah, ",
+          "kind": "text"
+        },
+        {
+          "text": "even",
+          "kind": "supplied"
+        },
+        {
+          "text": " as the garden of the LORD, like the land of Egypt, as thou comest unto Zoar.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.13.11",
+      "edition_verse_id": "KJV1769:GEN.13.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "Then Lot chose him all the plain of Jordan; and Lot journeyed east: and they separated themselves the one from the other.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.13.12",
+      "edition_verse_id": "KJV1769:GEN.13.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "Abram dwelled in the land of Canaan, and Lot dwelled in the cities of the plain, and pitched ",
+          "kind": "text"
+        },
+        {
+          "text": "his",
+          "kind": "supplied"
+        },
+        {
+          "text": " tent toward Sodom.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.13.13",
+      "edition_verse_id": "KJV1769:GEN.13.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "But the men of Sodom ",
+          "kind": "text"
+        },
+        {
+          "text": "were",
+          "kind": "supplied"
+        },
+        {
+          "text": " wicked and sinners before the LORD exceedingly.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.13.14",
+      "edition_verse_id": "KJV1769:GEN.13.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "¶ And the LORD said unto Abram, after that Lot was separated from him, Lift up now thine eyes, and look from the place where thou art northward, and southward, and eastward, and westward:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.13.15",
+      "edition_verse_id": "KJV1769:GEN.13.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "For all the land which thou seest, to thee will I give it, and to thy seed for ever.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.13.16",
+      "edition_verse_id": "KJV1769:GEN.13.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "And I will make thy seed as the dust of the earth: so that if a man can number the dust of the earth, ",
+          "kind": "text"
+        },
+        {
+          "text": "then",
+          "kind": "supplied"
+        },
+        {
+          "text": " shall thy seed also be numbered.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.13.17",
+      "edition_verse_id": "KJV1769:GEN.13.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "Arise, walk through the land in the length of it and in the breadth of it; for I will give it unto thee.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.13.18",
+      "edition_verse_id": "KJV1769:GEN.13.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "Then Abram removed ",
+          "kind": "text"
+        },
+        {
+          "text": "his",
+          "kind": "supplied"
+        },
+        {
+          "text": " tent, and came and dwelt in the plain of Mamre, which ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " in Hebron, and built there an altar unto the LORD.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

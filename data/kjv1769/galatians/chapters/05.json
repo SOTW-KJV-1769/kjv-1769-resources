@@ -1,0 +1,364 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "KJV1769",
+  "book_code": "GAL",
+  "chapter": 5,
+  "verses": [
+    {
+      "id": "GAL.5.1",
+      "edition_verse_id": "KJV1769:GAL.5.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "Stand fast therefore in the liberty wherewith Christ hath made us free, and be not entangled again with the yoke of bondage.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GAL.5.2",
+      "edition_verse_id": "KJV1769:GAL.5.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "Behold, I Paul say unto you, that if ye be circumcised, Christ shall profit you nothing.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GAL.5.3",
+      "edition_verse_id": "KJV1769:GAL.5.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "For I testify again to every man that is circumcised, that he is a debtor to do the whole law.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GAL.5.4",
+      "edition_verse_id": "KJV1769:GAL.5.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "Christ is become of no effect unto you, whosoever of you are justified by the law; ye are fallen from grace.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GAL.5.5",
+      "edition_verse_id": "KJV1769:GAL.5.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "For we through the Spirit wait for the hope of righteousness by faith.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GAL.5.6",
+      "edition_verse_id": "KJV1769:GAL.5.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "For in Jesus Christ neither circumcision availeth any thing, nor uncircumcision; but faith which worketh by love.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GAL.5.7",
+      "edition_verse_id": "KJV1769:GAL.5.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "Ye did run well; who did hinder you that ye should not obey the truth?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GAL.5.8",
+      "edition_verse_id": "KJV1769:GAL.5.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "This persuasion ",
+          "kind": "text"
+        },
+        {
+          "text": "cometh",
+          "kind": "supplied"
+        },
+        {
+          "text": " not of him that calleth you.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GAL.5.9",
+      "edition_verse_id": "KJV1769:GAL.5.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "A little leaven leaveneth the whole lump.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GAL.5.10",
+      "edition_verse_id": "KJV1769:GAL.5.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "I have confidence in you through the Lord, that ye will be none otherwise minded: but he that troubleth you shall bear his judgment, whosoever he be.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GAL.5.11",
+      "edition_verse_id": "KJV1769:GAL.5.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "And I, brethren, if I yet preach circumcision, why do I yet suffer persecution? then is the offence of the cross ceased.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GAL.5.12",
+      "edition_verse_id": "KJV1769:GAL.5.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "I would they were even cut off which trouble you.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GAL.5.13",
+      "edition_verse_id": "KJV1769:GAL.5.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "For, brethren, ye have been called unto liberty; only ",
+          "kind": "text"
+        },
+        {
+          "text": "use",
+          "kind": "supplied"
+        },
+        {
+          "text": " not liberty for an occasion to the flesh, but by love serve one another.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GAL.5.14",
+      "edition_verse_id": "KJV1769:GAL.5.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "For all the law is fulfilled in one word, ",
+          "kind": "text"
+        },
+        {
+          "text": "even",
+          "kind": "supplied"
+        },
+        {
+          "text": " in this; Thou shalt love thy neighbour as thyself.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GAL.5.15",
+      "edition_verse_id": "KJV1769:GAL.5.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "But if ye bite and devour one another, take heed that ye be not consumed one of another.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GAL.5.16",
+      "edition_verse_id": "KJV1769:GAL.5.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "This",
+          "kind": "supplied"
+        },
+        {
+          "text": " I say then, Walk in the Spirit, and ye shall not fulfil the lust of the flesh.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GAL.5.17",
+      "edition_verse_id": "KJV1769:GAL.5.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "For the flesh lusteth against the Spirit, and the Spirit against the flesh: and these are contrary the one to the other: so that ye cannot do the things that ye would.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GAL.5.18",
+      "edition_verse_id": "KJV1769:GAL.5.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "But if ye be led of the Spirit, ye are not under the law.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GAL.5.19",
+      "edition_verse_id": "KJV1769:GAL.5.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "Now the works of the flesh are manifest, which are ",
+          "kind": "text"
+        },
+        {
+          "text": "these",
+          "kind": "supplied"
+        },
+        {
+          "text": "; Adultery, fornication, uncleanness, lasciviousness,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GAL.5.20",
+      "edition_verse_id": "KJV1769:GAL.5.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "Idolatry, witchcraft, hatred, variance, emulations, wrath, strife, seditions, heresies,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GAL.5.21",
+      "edition_verse_id": "KJV1769:GAL.5.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "Envyings, murders, drunkenness, revellings, and such like: of the which I tell you before, as I have also told ",
+          "kind": "text"
+        },
+        {
+          "text": "you",
+          "kind": "supplied"
+        },
+        {
+          "text": " in time past, that they which do such things shall not inherit the kingdom of God.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GAL.5.22",
+      "edition_verse_id": "KJV1769:GAL.5.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "But the fruit of the Spirit is love, joy, peace, longsuffering, gentleness, goodness, faith,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GAL.5.23",
+      "edition_verse_id": "KJV1769:GAL.5.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "Meekness, temperance: against such there is no law.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GAL.5.24",
+      "edition_verse_id": "KJV1769:GAL.5.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "And they that are Christ’s have crucified the flesh with the affections and lusts.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GAL.5.25",
+      "edition_verse_id": "KJV1769:GAL.5.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "If we live in the Spirit, let us also walk in the Spirit.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GAL.5.26",
+      "edition_verse_id": "KJV1769:GAL.5.26",
+      "verse": 26,
+      "spans": [
+        {
+          "text": "Let us not be desirous of vain glory, provoking one another, envying one another.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

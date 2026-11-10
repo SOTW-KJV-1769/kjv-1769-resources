@@ -1,0 +1,564 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "KJV1769",
+  "book_code": "GEN",
+  "chapter": 1,
+  "verses": [
+    {
+      "id": "GEN.1.1",
+      "edition_verse_id": "KJV1769:GEN.1.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "In the beginning God created the heaven and the earth.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.1.2",
+      "edition_verse_id": "KJV1769:GEN.1.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "And the earth was without form, and void; and darkness ",
+          "kind": "text"
+        },
+        {
+          "text": "was",
+          "kind": "supplied"
+        },
+        {
+          "text": " upon the face of the deep. And the Spirit of God moved upon the face of the waters.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.1.3",
+      "edition_verse_id": "KJV1769:GEN.1.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "And God said, Let there be light: and there was light.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.1.4",
+      "edition_verse_id": "KJV1769:GEN.1.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "And God saw the light, that ",
+          "kind": "text"
+        },
+        {
+          "text": "it was",
+          "kind": "supplied"
+        },
+        {
+          "text": " good: and God divided the light from the darkness.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.1.5",
+      "edition_verse_id": "KJV1769:GEN.1.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "And God called the light Day, and the darkness he called Night. And the evening and the morning were the first day.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.1.6",
+      "edition_verse_id": "KJV1769:GEN.1.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "¶ And God said, Let there be a firmament in the midst of the waters, and let it divide the waters from the waters.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.1.7",
+      "edition_verse_id": "KJV1769:GEN.1.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "And God made the firmament, and divided the waters which ",
+          "kind": "text"
+        },
+        {
+          "text": "were",
+          "kind": "supplied"
+        },
+        {
+          "text": " under the firmament from the waters which ",
+          "kind": "text"
+        },
+        {
+          "text": "were",
+          "kind": "supplied"
+        },
+        {
+          "text": " above the firmament: and it was so.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.1.8",
+      "edition_verse_id": "KJV1769:GEN.1.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "And God called the firmament Heaven. And the evening and the morning were the second day.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.1.9",
+      "edition_verse_id": "KJV1769:GEN.1.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "¶ And God said, Let the waters under the heaven be gathered together unto one place, and let the dry ",
+          "kind": "text"
+        },
+        {
+          "text": "land",
+          "kind": "supplied"
+        },
+        {
+          "text": " appear: and it was so.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.1.10",
+      "edition_verse_id": "KJV1769:GEN.1.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "And God called the dry ",
+          "kind": "text"
+        },
+        {
+          "text": "land",
+          "kind": "supplied"
+        },
+        {
+          "text": " Earth; and the gathering together of the waters called he Seas: and God saw that ",
+          "kind": "text"
+        },
+        {
+          "text": "it was",
+          "kind": "supplied"
+        },
+        {
+          "text": " good.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.1.11",
+      "edition_verse_id": "KJV1769:GEN.1.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "And God said, Let the earth bring forth grass, the herb yielding seed, ",
+          "kind": "text"
+        },
+        {
+          "text": "and",
+          "kind": "supplied"
+        },
+        {
+          "text": " the fruit tree yielding fruit after his kind, whose seed ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " in itself, upon the earth: and it was so.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.1.12",
+      "edition_verse_id": "KJV1769:GEN.1.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "And the earth brought forth grass, ",
+          "kind": "text"
+        },
+        {
+          "text": "and",
+          "kind": "supplied"
+        },
+        {
+          "text": " herb yielding seed after his kind, and the tree yielding fruit, whose seed ",
+          "kind": "text"
+        },
+        {
+          "text": "was",
+          "kind": "supplied"
+        },
+        {
+          "text": " in itself, after his kind: and God saw that ",
+          "kind": "text"
+        },
+        {
+          "text": "it was",
+          "kind": "supplied"
+        },
+        {
+          "text": " good.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.1.13",
+      "edition_verse_id": "KJV1769:GEN.1.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "And the evening and the morning were the third day.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.1.14",
+      "edition_verse_id": "KJV1769:GEN.1.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "¶ And God said, Let there be lights in the firmament of the heaven to divide the day from the night; and let them be for signs, and for seasons, and for days, and years:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.1.15",
+      "edition_verse_id": "KJV1769:GEN.1.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "And let them be for lights in the firmament of the heaven to give light upon the earth: and it was so.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.1.16",
+      "edition_verse_id": "KJV1769:GEN.1.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "And God made two great lights; the greater light to rule the day, and the lesser light to rule the night: ",
+          "kind": "text"
+        },
+        {
+          "text": "he made",
+          "kind": "supplied"
+        },
+        {
+          "text": " the stars also.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.1.17",
+      "edition_verse_id": "KJV1769:GEN.1.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "And God set them in the firmament of the heaven to give light upon the earth,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.1.18",
+      "edition_verse_id": "KJV1769:GEN.1.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "And to rule over the day and over the night, and to divide the light from the darkness: and God saw that ",
+          "kind": "text"
+        },
+        {
+          "text": "it was",
+          "kind": "supplied"
+        },
+        {
+          "text": " good.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.1.19",
+      "edition_verse_id": "KJV1769:GEN.1.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "And the evening and the morning were the fourth day.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.1.20",
+      "edition_verse_id": "KJV1769:GEN.1.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "And God said, Let the waters bring forth abundantly the moving creature that hath life, and fowl ",
+          "kind": "text"
+        },
+        {
+          "text": "that",
+          "kind": "supplied"
+        },
+        {
+          "text": " may fly above the earth in the open firmament of heaven.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.1.21",
+      "edition_verse_id": "KJV1769:GEN.1.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "And God created great whales, and every living creature that moveth, which the waters brought forth abundantly, after their kind, and every winged fowl after his kind: and God saw that ",
+          "kind": "text"
+        },
+        {
+          "text": "it was",
+          "kind": "supplied"
+        },
+        {
+          "text": " good.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.1.22",
+      "edition_verse_id": "KJV1769:GEN.1.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "And God blessed them, saying, Be fruitful, and multiply, and fill the waters in the seas, and let fowl multiply in the earth.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.1.23",
+      "edition_verse_id": "KJV1769:GEN.1.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "And the evening and the morning were the fifth day.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.1.24",
+      "edition_verse_id": "KJV1769:GEN.1.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "¶ And God said, Let the earth bring forth the living creature after his kind, cattle, and creeping thing, and beast of the earth after his kind: and it was so.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.1.25",
+      "edition_verse_id": "KJV1769:GEN.1.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "And God made the beast of the earth after his kind, and cattle after their kind, and every thing that creepeth upon the earth after his kind: and God saw that ",
+          "kind": "text"
+        },
+        {
+          "text": "it was",
+          "kind": "supplied"
+        },
+        {
+          "text": " good.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.1.26",
+      "edition_verse_id": "KJV1769:GEN.1.26",
+      "verse": 26,
+      "spans": [
+        {
+          "text": "¶ And God said, Let us make man in our image, after our likeness: and let them have dominion over the fish of the sea, and over the fowl of the air, and over the cattle, and over all the earth, and over every creeping thing that creepeth upon the earth.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.1.27",
+      "edition_verse_id": "KJV1769:GEN.1.27",
+      "verse": 27,
+      "spans": [
+        {
+          "text": "So God created man in his ",
+          "kind": "text"
+        },
+        {
+          "text": "own",
+          "kind": "supplied"
+        },
+        {
+          "text": " image, in the image of God created he him; male and female created he them.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.1.28",
+      "edition_verse_id": "KJV1769:GEN.1.28",
+      "verse": 28,
+      "spans": [
+        {
+          "text": "And God blessed them, and God said unto them, Be fruitful, and multiply, and replenish the earth, and subdue it: and have dominion over the fish of the sea, and over the fowl of the air, and over every living thing that moveth upon the earth.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.1.29",
+      "edition_verse_id": "KJV1769:GEN.1.29",
+      "verse": 29,
+      "spans": [
+        {
+          "text": "¶ And God said, Behold, I have given you every herb bearing seed, which ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " upon the face of all the earth, and every tree, in the which ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " the fruit of a tree yielding seed; to you it shall be for meat.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.1.30",
+      "edition_verse_id": "KJV1769:GEN.1.30",
+      "verse": 30,
+      "spans": [
+        {
+          "text": "And to every beast of the earth, and to every fowl of the air, and to every thing that creepeth upon the earth, wherein ",
+          "kind": "text"
+        },
+        {
+          "text": "there is",
+          "kind": "supplied"
+        },
+        {
+          "text": " life, ",
+          "kind": "text"
+        },
+        {
+          "text": "I have given",
+          "kind": "supplied"
+        },
+        {
+          "text": " every green herb for meat: and it was so.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.1.31",
+      "edition_verse_id": "KJV1769:GEN.1.31",
+      "verse": 31,
+      "spans": [
+        {
+          "text": "And God saw every thing that he had made, and, behold, ",
+          "kind": "text"
+        },
+        {
+          "text": "it was",
+          "kind": "supplied"
+        },
+        {
+          "text": " very good. And the evening and the morning were the sixth day.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

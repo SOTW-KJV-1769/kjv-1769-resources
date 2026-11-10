@@ -1,0 +1,464 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "KJV1769",
+  "book_code": "GEN",
+  "chapter": 6,
+  "verses": [
+    {
+      "id": "GEN.6.1",
+      "edition_verse_id": "KJV1769:GEN.6.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "And it came to pass, when men began to multiply on the face of the earth, and daughters were born unto them,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.6.2",
+      "edition_verse_id": "KJV1769:GEN.6.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "That the sons of God saw the daughters of men that they ",
+          "kind": "text"
+        },
+        {
+          "text": "were",
+          "kind": "supplied"
+        },
+        {
+          "text": " fair; and they took them wives of all which they chose.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.6.3",
+      "edition_verse_id": "KJV1769:GEN.6.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "And the LORD said, My spirit shall not always strive with man, for that he also ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " flesh: yet his days shall be an hundred and twenty years.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.6.4",
+      "edition_verse_id": "KJV1769:GEN.6.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "There were giants in the earth in those days; and also after that, when the sons of God came in unto the daughters of men, and they bare ",
+          "kind": "text"
+        },
+        {
+          "text": "children",
+          "kind": "supplied"
+        },
+        {
+          "text": " to them, the same ",
+          "kind": "text"
+        },
+        {
+          "text": "became",
+          "kind": "supplied"
+        },
+        {
+          "text": " mighty men which ",
+          "kind": "text"
+        },
+        {
+          "text": "were",
+          "kind": "supplied"
+        },
+        {
+          "text": " of old, men of renown.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.6.5",
+      "edition_verse_id": "KJV1769:GEN.6.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "¶ And GOD saw that the wickedness of man ",
+          "kind": "text"
+        },
+        {
+          "text": "was",
+          "kind": "supplied"
+        },
+        {
+          "text": " great in the earth, and ",
+          "kind": "text"
+        },
+        {
+          "text": "that",
+          "kind": "supplied"
+        },
+        {
+          "text": " every imagination of the thoughts of his heart ",
+          "kind": "text"
+        },
+        {
+          "text": "was",
+          "kind": "supplied"
+        },
+        {
+          "text": " only evil continually.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.6.6",
+      "edition_verse_id": "KJV1769:GEN.6.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "And it repented the LORD that he had made man on the earth, and it grieved him at his heart.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.6.7",
+      "edition_verse_id": "KJV1769:GEN.6.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "And the LORD said, I will destroy man whom I have created from the face of the earth; both man, and beast, and the creeping thing, and the fowls of the air; for it repenteth me that I have made them.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.6.8",
+      "edition_verse_id": "KJV1769:GEN.6.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "But Noah found grace in the eyes of the LORD.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.6.9",
+      "edition_verse_id": "KJV1769:GEN.6.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "¶ These ",
+          "kind": "text"
+        },
+        {
+          "text": "are",
+          "kind": "supplied"
+        },
+        {
+          "text": " the generations of Noah: Noah was a just man ",
+          "kind": "text"
+        },
+        {
+          "text": "and",
+          "kind": "supplied"
+        },
+        {
+          "text": " perfect in his generations, ",
+          "kind": "text"
+        },
+        {
+          "text": "and",
+          "kind": "supplied"
+        },
+        {
+          "text": " Noah walked with God.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.6.10",
+      "edition_verse_id": "KJV1769:GEN.6.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "And Noah begat three sons, Shem, Ham, and Japheth.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.6.11",
+      "edition_verse_id": "KJV1769:GEN.6.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "The earth also was corrupt before God, and the earth was filled with violence.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.6.12",
+      "edition_verse_id": "KJV1769:GEN.6.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "And God looked upon the earth, and, behold, it was corrupt; for all flesh had corrupted his way upon the earth.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.6.13",
+      "edition_verse_id": "KJV1769:GEN.6.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "And God said unto Noah, The end of all flesh is come before me; for the earth is filled with violence through them; and, behold, I will destroy them with the earth.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.6.14",
+      "edition_verse_id": "KJV1769:GEN.6.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "¶ Make thee an ark of gopher wood; rooms shalt thou make in the ark, and shalt pitch it within and without with pitch.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.6.15",
+      "edition_verse_id": "KJV1769:GEN.6.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "And this ",
+          "kind": "text"
+        },
+        {
+          "text": "is the fashion",
+          "kind": "supplied"
+        },
+        {
+          "text": " which thou shalt make it ",
+          "kind": "text"
+        },
+        {
+          "text": "of:",
+          "kind": "supplied"
+        },
+        {
+          "text": " The length of the ark ",
+          "kind": "text"
+        },
+        {
+          "text": "shall be",
+          "kind": "supplied"
+        },
+        {
+          "text": " three hundred cubits, the breadth of it fifty cubits, and the height of it thirty cubits.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.6.16",
+      "edition_verse_id": "KJV1769:GEN.6.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "A window shalt thou make to the ark, and in a cubit shalt thou finish it above; and the door of the ark shalt thou set in the side thereof; ",
+          "kind": "text"
+        },
+        {
+          "text": "with",
+          "kind": "supplied"
+        },
+        {
+          "text": " lower, second, and third ",
+          "kind": "text"
+        },
+        {
+          "text": "stories",
+          "kind": "supplied"
+        },
+        {
+          "text": " shalt thou make it.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.6.17",
+      "edition_verse_id": "KJV1769:GEN.6.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "And, behold, I, even I, do bring a flood of waters upon the earth, to destroy all flesh, wherein ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " the breath of life, from under heaven; ",
+          "kind": "text"
+        },
+        {
+          "text": "and",
+          "kind": "supplied"
+        },
+        {
+          "text": " every thing that ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " in the earth shall die.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.6.18",
+      "edition_verse_id": "KJV1769:GEN.6.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "But with thee will I establish my covenant; and thou shalt come into the ark, thou, and thy sons, and thy wife, and thy sons’ wives with thee.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.6.19",
+      "edition_verse_id": "KJV1769:GEN.6.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "And of every living thing of all flesh, two of every ",
+          "kind": "text"
+        },
+        {
+          "text": "sort",
+          "kind": "supplied"
+        },
+        {
+          "text": " shalt thou bring into the ark, to keep ",
+          "kind": "text"
+        },
+        {
+          "text": "them",
+          "kind": "supplied"
+        },
+        {
+          "text": " alive with thee; they shall be male and female.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.6.20",
+      "edition_verse_id": "KJV1769:GEN.6.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "Of fowls after their kind, and of cattle after their kind, of every creeping thing of the earth after his kind, two of every ",
+          "kind": "text"
+        },
+        {
+          "text": "sort",
+          "kind": "supplied"
+        },
+        {
+          "text": " shall come unto thee, to keep ",
+          "kind": "text"
+        },
+        {
+          "text": "them",
+          "kind": "supplied"
+        },
+        {
+          "text": " alive.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.6.21",
+      "edition_verse_id": "KJV1769:GEN.6.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "And take thou unto thee of all food that is eaten, and thou shalt gather ",
+          "kind": "text"
+        },
+        {
+          "text": "it",
+          "kind": "supplied"
+        },
+        {
+          "text": " to thee; and it shall be for food for thee, and for them.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.6.22",
+      "edition_verse_id": "KJV1769:GEN.6.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "Thus did Noah; according to all that God commanded him, so did he.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

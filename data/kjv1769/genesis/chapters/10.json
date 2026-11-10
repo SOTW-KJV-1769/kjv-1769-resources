@@ -1,0 +1,472 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "KJV1769",
+  "book_code": "GEN",
+  "chapter": 10,
+  "verses": [
+    {
+      "id": "GEN.10.1",
+      "edition_verse_id": "KJV1769:GEN.10.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "Now these ",
+          "kind": "text"
+        },
+        {
+          "text": "are",
+          "kind": "supplied"
+        },
+        {
+          "text": " the generations of the sons of Noah, Shem, Ham, and Japheth: and unto them were sons born after the flood.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.10.2",
+      "edition_verse_id": "KJV1769:GEN.10.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "The sons of Japheth; Gomer, and Magog, and Madai, and Javan, and Tubal, and Meshech, and Tiras.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.10.3",
+      "edition_verse_id": "KJV1769:GEN.10.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "And the sons of Gomer; Ashkenaz, and Riphath, and Togarmah.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.10.4",
+      "edition_verse_id": "KJV1769:GEN.10.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "And the sons of Javan; Elishah, and Tarshish, Kittim, and Dodanim.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.10.5",
+      "edition_verse_id": "KJV1769:GEN.10.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "By these were the isles of the Gentiles divided in their lands; every one after his tongue, after their families, in their nations.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.10.6",
+      "edition_verse_id": "KJV1769:GEN.10.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "¶ And the sons of Ham; Cush, and Mizraim, and Phut, and Canaan.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.10.7",
+      "edition_verse_id": "KJV1769:GEN.10.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "And the sons of Cush; Seba, and Havilah, and Sabtah, and Raamah, and Sabtecha: and the sons of Raamah; Sheba, and Dedan.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.10.8",
+      "edition_verse_id": "KJV1769:GEN.10.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "And Cush begat Nimrod: he began to be a mighty one in the earth.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.10.9",
+      "edition_verse_id": "KJV1769:GEN.10.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "He was a mighty hunter before the LORD: wherefore it is said, Even as Nimrod the mighty hunter before the LORD.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.10.10",
+      "edition_verse_id": "KJV1769:GEN.10.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "And the beginning of his kingdom was Babel, and Erech, and Accad, and Calneh, in the land of Shinar.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.10.11",
+      "edition_verse_id": "KJV1769:GEN.10.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "Out of that land went forth Asshur, and builded Nineveh, and the city Rehoboth, and Calah,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.10.12",
+      "edition_verse_id": "KJV1769:GEN.10.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "And Resen between Nineveh and Calah: the same ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " a great city.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.10.13",
+      "edition_verse_id": "KJV1769:GEN.10.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "And Mizraim begat Ludim, and Anamim, and Lehabim, and Naphtuhim,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.10.14",
+      "edition_verse_id": "KJV1769:GEN.10.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "And Pathrusim, and Casluhim, (out of whom came Philistim,) and Caphtorim.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.10.15",
+      "edition_verse_id": "KJV1769:GEN.10.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "¶ And Canaan begat Sidon his firstborn, and Heth,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.10.16",
+      "edition_verse_id": "KJV1769:GEN.10.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "And the Jebusite, and the Amorite, and the Girgasite,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.10.17",
+      "edition_verse_id": "KJV1769:GEN.10.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "And the Hivite, and the Arkite, and the Sinite,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.10.18",
+      "edition_verse_id": "KJV1769:GEN.10.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "And the Arvadite, and the Zemarite, and the Hamathite: and afterward were the families of the Canaanites spread abroad.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.10.19",
+      "edition_verse_id": "KJV1769:GEN.10.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "And the border of the Canaanites was from Sidon, as thou comest to Gerar, unto Gaza; as thou goest, unto Sodom, and Gomorrah, and Admah, and Zeboim, even unto Lasha.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.10.20",
+      "edition_verse_id": "KJV1769:GEN.10.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "These ",
+          "kind": "text"
+        },
+        {
+          "text": "are",
+          "kind": "supplied"
+        },
+        {
+          "text": " the sons of Ham, after their families, after their tongues, in their countries, ",
+          "kind": "text"
+        },
+        {
+          "text": "and",
+          "kind": "supplied"
+        },
+        {
+          "text": " in their nations.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.10.21",
+      "edition_verse_id": "KJV1769:GEN.10.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "¶ Unto Shem also, the father of all the children of Eber, the brother of Japheth the elder, even to him were ",
+          "kind": "text"
+        },
+        {
+          "text": "children",
+          "kind": "supplied"
+        },
+        {
+          "text": " born.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.10.22",
+      "edition_verse_id": "KJV1769:GEN.10.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "The children of Shem; Elam, and Asshur, and Arphaxad, and Lud, and Aram.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.10.23",
+      "edition_verse_id": "KJV1769:GEN.10.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "And the children of Aram; Uz, and Hul, and Gether, and Mash.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.10.24",
+      "edition_verse_id": "KJV1769:GEN.10.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "And Arphaxad begat Salah; and Salah begat Eber.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.10.25",
+      "edition_verse_id": "KJV1769:GEN.10.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "And unto Eber were born two sons: the name of one ",
+          "kind": "text"
+        },
+        {
+          "text": "was",
+          "kind": "supplied"
+        },
+        {
+          "text": " Peleg; for in his days was the earth divided; and his brother’s name ",
+          "kind": "text"
+        },
+        {
+          "text": "was",
+          "kind": "supplied"
+        },
+        {
+          "text": " Joktan.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.10.26",
+      "edition_verse_id": "KJV1769:GEN.10.26",
+      "verse": 26,
+      "spans": [
+        {
+          "text": "And Joktan begat Almodad, and Sheleph, and Hazarmaveth, and Jerah,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.10.27",
+      "edition_verse_id": "KJV1769:GEN.10.27",
+      "verse": 27,
+      "spans": [
+        {
+          "text": "And Hadoram, and Uzal, and Diklah,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.10.28",
+      "edition_verse_id": "KJV1769:GEN.10.28",
+      "verse": 28,
+      "spans": [
+        {
+          "text": "And Obal, and Abimael, and Sheba,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.10.29",
+      "edition_verse_id": "KJV1769:GEN.10.29",
+      "verse": 29,
+      "spans": [
+        {
+          "text": "And Ophir, and Havilah, and Jobab: all these ",
+          "kind": "text"
+        },
+        {
+          "text": "were",
+          "kind": "supplied"
+        },
+        {
+          "text": " the sons of Joktan.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.10.30",
+      "edition_verse_id": "KJV1769:GEN.10.30",
+      "verse": 30,
+      "spans": [
+        {
+          "text": "And their dwelling was from Mesha, as thou goest unto Sephar a mount of the east.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.10.31",
+      "edition_verse_id": "KJV1769:GEN.10.31",
+      "verse": 31,
+      "spans": [
+        {
+          "text": "These ",
+          "kind": "text"
+        },
+        {
+          "text": "are",
+          "kind": "supplied"
+        },
+        {
+          "text": " the sons of Shem, after their families, after their tongues, in their lands, after their nations.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.10.32",
+      "edition_verse_id": "KJV1769:GEN.10.32",
+      "verse": 32,
+      "spans": [
+        {
+          "text": "These ",
+          "kind": "text"
+        },
+        {
+          "text": "are",
+          "kind": "supplied"
+        },
+        {
+          "text": " the families of the sons of Noah, after their generations, in their nations: and by these were the nations divided in the earth after the flood.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

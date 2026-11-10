@@ -1,0 +1,444 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "KJV1769",
+  "book_code": "GEN",
+  "chapter": 2,
+  "verses": [
+    {
+      "id": "GEN.2.1",
+      "edition_verse_id": "KJV1769:GEN.2.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "Thus the heavens and the earth were finished, and all the host of them.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.2.2",
+      "edition_verse_id": "KJV1769:GEN.2.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "And on the seventh day God ended his work which he had made; and he rested on the seventh day from all his work which he had made.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.2.3",
+      "edition_verse_id": "KJV1769:GEN.2.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "And God blessed the seventh day, and sanctified it: because that in it he had rested from all his work which God created and made.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.2.4",
+      "edition_verse_id": "KJV1769:GEN.2.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "¶ These ",
+          "kind": "text"
+        },
+        {
+          "text": "are",
+          "kind": "supplied"
+        },
+        {
+          "text": " the generations of the heavens and of the earth when they were created, in the day that the LORD God made the earth and the heavens,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.2.5",
+      "edition_verse_id": "KJV1769:GEN.2.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "And every plant of the field before it was in the earth, and every herb of the field before it grew: for the LORD God had not caused it to rain upon the earth, and ",
+          "kind": "text"
+        },
+        {
+          "text": "there was",
+          "kind": "supplied"
+        },
+        {
+          "text": " not a man to till the ground.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.2.6",
+      "edition_verse_id": "KJV1769:GEN.2.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "But there went up a mist from the earth, and watered the whole face of the ground.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.2.7",
+      "edition_verse_id": "KJV1769:GEN.2.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "And the LORD God formed man ",
+          "kind": "text"
+        },
+        {
+          "text": "of",
+          "kind": "supplied"
+        },
+        {
+          "text": " the dust of the ground, and breathed into his nostrils the breath of life; and man became a living soul.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.2.8",
+      "edition_verse_id": "KJV1769:GEN.2.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "¶ And the LORD God planted a garden eastward in Eden; and there he put the man whom he had formed.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.2.9",
+      "edition_verse_id": "KJV1769:GEN.2.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "And out of the ground made the LORD God to grow every tree that is pleasant to the sight, and good for food; the tree of life also in the midst of the garden, and the tree of knowledge of good and evil.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.2.10",
+      "edition_verse_id": "KJV1769:GEN.2.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "And a river went out of Eden to water the garden; and from thence it was parted, and became into four heads.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.2.11",
+      "edition_verse_id": "KJV1769:GEN.2.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "The name of the first ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " Pison: that ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " it which compasseth the whole land of Havilah, where ",
+          "kind": "text"
+        },
+        {
+          "text": "there is",
+          "kind": "supplied"
+        },
+        {
+          "text": " gold;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.2.12",
+      "edition_verse_id": "KJV1769:GEN.2.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "And the gold of that land ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " good: there ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " bdellium and the onyx stone.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.2.13",
+      "edition_verse_id": "KJV1769:GEN.2.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "And the name of the second river ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " Gihon: the same ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " it that compasseth the whole land of Ethiopia.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.2.14",
+      "edition_verse_id": "KJV1769:GEN.2.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "And the name of the third river ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " Hiddekel: that ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " it which goeth toward the east of Assyria. And the fourth river ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " Euphrates.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.2.15",
+      "edition_verse_id": "KJV1769:GEN.2.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "And the LORD God took the man, and put him into the garden of Eden to dress it and to keep it.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.2.16",
+      "edition_verse_id": "KJV1769:GEN.2.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "And the LORD God commanded the man, saying, Of every tree of the garden thou mayest freely eat:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.2.17",
+      "edition_verse_id": "KJV1769:GEN.2.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "But of the tree of the knowledge of good and evil, thou shalt not eat of it: for in the day that thou eatest thereof thou shalt surely die.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.2.18",
+      "edition_verse_id": "KJV1769:GEN.2.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "¶ And the LORD God said, ",
+          "kind": "text"
+        },
+        {
+          "text": "It is",
+          "kind": "supplied"
+        },
+        {
+          "text": " not good that the man should be alone; I will make him an help meet for him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.2.19",
+      "edition_verse_id": "KJV1769:GEN.2.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "And out of the ground the LORD God formed every beast of the field, and every fowl of the air; and brought ",
+          "kind": "text"
+        },
+        {
+          "text": "them",
+          "kind": "supplied"
+        },
+        {
+          "text": " unto Adam to see what he would call them: and whatsoever Adam called every living creature, that ",
+          "kind": "text"
+        },
+        {
+          "text": "was",
+          "kind": "supplied"
+        },
+        {
+          "text": " the name thereof.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.2.20",
+      "edition_verse_id": "KJV1769:GEN.2.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "And Adam gave names to all cattle, and to the fowl of the air, and to every beast of the field; but for Adam there was not found an help meet for him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.2.21",
+      "edition_verse_id": "KJV1769:GEN.2.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "And the LORD God caused a deep sleep to fall upon Adam, and he slept: and he took one of his ribs, and closed up the flesh instead thereof;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.2.22",
+      "edition_verse_id": "KJV1769:GEN.2.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "And the rib, which the LORD God had taken from man, made he a woman, and brought her unto the man.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.2.23",
+      "edition_verse_id": "KJV1769:GEN.2.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "And Adam said, This ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " now bone of my bones, and flesh of my flesh: she shall be called Woman, because she was taken out of Man.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.2.24",
+      "edition_verse_id": "KJV1769:GEN.2.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "Therefore shall a man leave his father and his mother, and shall cleave unto his wife: and they shall be one flesh.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.2.25",
+      "edition_verse_id": "KJV1769:GEN.2.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "And they were both naked, the man and his wife, and were not ashamed.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

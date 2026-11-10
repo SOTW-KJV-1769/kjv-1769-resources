@@ -1,0 +1,23 @@
+{
+  "edition_id": "KJV1769",
+  "book_code": "HAB",
+  "chapter_count": 3,
+  "verse_count": 56,
+  "chapters": [
+    {
+      "chapter": 1,
+      "verse_count": 17,
+      "sha256": "4693223c7d89655cca2886e237a651febad96fb486735869f21266b733bb45a6"
+    },
+    {
+      "chapter": 2,
+      "verse_count": 20,
+      "sha256": "16e29d43b5ae480077c2eed932a6f30eb35a3d4b5d1349c6ee7a8501d3efed9a"
+    },
+    {
+      "chapter": 3,
+      "verse_count": 19,
+      "sha256": "7e98e75db4d1201a24d1f8fe2f5f4febe53c8aa77aa6039f5e97430b4f0f0315"
+    }
+  ]
+}
