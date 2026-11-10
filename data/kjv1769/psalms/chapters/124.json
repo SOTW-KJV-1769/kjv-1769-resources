@@ -1,0 +1,144 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "KJV1769",
+  "book_code": "PSA",
+  "chapter": 124,
+  "verses": [
+    {
+      "id": "PSA.124.1",
+      "edition_verse_id": "KJV1769:PSA.124.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "If ",
+          "kind": "text"
+        },
+        {
+          "text": "it had not been",
+          "kind": "supplied"
+        },
+        {
+          "text": " the LORD who was on our side, now may Israel say;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.124.2",
+      "edition_verse_id": "KJV1769:PSA.124.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "If ",
+          "kind": "text"
+        },
+        {
+          "text": "it had not been",
+          "kind": "supplied"
+        },
+        {
+          "text": " the LORD who was on our side, when men rose up against us:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.124.3",
+      "edition_verse_id": "KJV1769:PSA.124.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "Then they had swallowed us up quick, when their wrath was kindled against us:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.124.4",
+      "edition_verse_id": "KJV1769:PSA.124.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "Then the waters had overwhelmed us, the stream had gone over our soul:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.124.5",
+      "edition_verse_id": "KJV1769:PSA.124.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "Then the proud waters had gone over our soul.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.124.6",
+      "edition_verse_id": "KJV1769:PSA.124.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "Blessed ",
+          "kind": "text"
+        },
+        {
+          "text": "be",
+          "kind": "supplied"
+        },
+        {
+          "text": " the LORD, who hath not given us ",
+          "kind": "text"
+        },
+        {
+          "text": "as",
+          "kind": "supplied"
+        },
+        {
+          "text": " a prey to their teeth.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.124.7",
+      "edition_verse_id": "KJV1769:PSA.124.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "Our soul is escaped as a bird out of the snare of the fowlers: the snare is broken, and we are escaped.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.124.8",
+      "edition_verse_id": "KJV1769:PSA.124.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "Our help ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " in the name of the LORD, who made heaven and earth.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

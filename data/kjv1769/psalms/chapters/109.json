@@ -1,0 +1,480 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "KJV1769",
+  "book_code": "PSA",
+  "chapter": 109,
+  "verses": [
+    {
+      "id": "PSA.109.1",
+      "edition_verse_id": "KJV1769:PSA.109.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "Hold not thy peace, O God of my praise;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.109.2",
+      "edition_verse_id": "KJV1769:PSA.109.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "For the mouth of the wicked and the mouth of the deceitful are opened against me: they have spoken against me with a lying tongue.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.109.3",
+      "edition_verse_id": "KJV1769:PSA.109.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "They compassed me about also with words of hatred; and fought against me without a cause.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.109.4",
+      "edition_verse_id": "KJV1769:PSA.109.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "For my love they are my adversaries: but I ",
+          "kind": "text"
+        },
+        {
+          "text": "give myself unto",
+          "kind": "supplied"
+        },
+        {
+          "text": " prayer.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.109.5",
+      "edition_verse_id": "KJV1769:PSA.109.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "And they have rewarded me evil for good, and hatred for my love.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.109.6",
+      "edition_verse_id": "KJV1769:PSA.109.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "Set thou a wicked man over him: and let Satan stand at his right hand.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.109.7",
+      "edition_verse_id": "KJV1769:PSA.109.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "When he shall be judged, let him be condemned: and let his prayer become sin.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.109.8",
+      "edition_verse_id": "KJV1769:PSA.109.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "Let his days be few; ",
+          "kind": "text"
+        },
+        {
+          "text": "and",
+          "kind": "supplied"
+        },
+        {
+          "text": " let another take his office.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.109.9",
+      "edition_verse_id": "KJV1769:PSA.109.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "Let his children be fatherless, and his wife a widow.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.109.10",
+      "edition_verse_id": "KJV1769:PSA.109.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "Let his children be continually vagabonds, and beg: let them seek ",
+          "kind": "text"
+        },
+        {
+          "text": "their bread",
+          "kind": "supplied"
+        },
+        {
+          "text": " also out of their desolate places.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.109.11",
+      "edition_verse_id": "KJV1769:PSA.109.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "Let the extortioner catch all that he hath; and let the strangers spoil his labour.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.109.12",
+      "edition_verse_id": "KJV1769:PSA.109.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "Let there be none to extend mercy unto him: neither let there be any to favour his fatherless children.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.109.13",
+      "edition_verse_id": "KJV1769:PSA.109.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "Let his posterity be cut off; ",
+          "kind": "text"
+        },
+        {
+          "text": "and",
+          "kind": "supplied"
+        },
+        {
+          "text": " in the generation following let their name be blotted out.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.109.14",
+      "edition_verse_id": "KJV1769:PSA.109.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "Let the iniquity of his fathers be remembered with the LORD; and let not the sin of his mother be blotted out.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.109.15",
+      "edition_verse_id": "KJV1769:PSA.109.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "Let them be before the LORD continually, that he may cut off the memory of them from the earth.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.109.16",
+      "edition_verse_id": "KJV1769:PSA.109.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "Because that he remembered not to shew mercy, but persecuted the poor and needy man, that he might even slay the broken in heart.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.109.17",
+      "edition_verse_id": "KJV1769:PSA.109.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "As he loved cursing, so let it come unto him: as he delighted not in blessing, so let it be far from him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.109.18",
+      "edition_verse_id": "KJV1769:PSA.109.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "As he clothed himself with cursing like as with his garment, so let it come into his bowels like water, and like oil into his bones.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.109.19",
+      "edition_verse_id": "KJV1769:PSA.109.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "Let it be unto him as the garment ",
+          "kind": "text"
+        },
+        {
+          "text": "which",
+          "kind": "supplied"
+        },
+        {
+          "text": " covereth him, and for a girdle wherewith he is girded continually.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.109.20",
+      "edition_verse_id": "KJV1769:PSA.109.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "Let",
+          "kind": "supplied"
+        },
+        {
+          "text": " this ",
+          "kind": "text"
+        },
+        {
+          "text": "be",
+          "kind": "supplied"
+        },
+        {
+          "text": " the reward of mine adversaries from the LORD, and of them that speak evil against my soul.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.109.21",
+      "edition_verse_id": "KJV1769:PSA.109.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "But do thou for me, O GOD the Lord, for thy name’s sake: because thy mercy ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " good, deliver thou me.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.109.22",
+      "edition_verse_id": "KJV1769:PSA.109.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "For I ",
+          "kind": "text"
+        },
+        {
+          "text": "am",
+          "kind": "supplied"
+        },
+        {
+          "text": " poor and needy, and my heart is wounded within me.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.109.23",
+      "edition_verse_id": "KJV1769:PSA.109.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "I am gone like the shadow when it declineth: I am tossed up and down as the locust.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.109.24",
+      "edition_verse_id": "KJV1769:PSA.109.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "My knees are weak through fasting; and my flesh faileth of fatness.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.109.25",
+      "edition_verse_id": "KJV1769:PSA.109.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "I became also a reproach unto them: ",
+          "kind": "text"
+        },
+        {
+          "text": "when",
+          "kind": "supplied"
+        },
+        {
+          "text": " they looked upon me they shaked their heads.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.109.26",
+      "edition_verse_id": "KJV1769:PSA.109.26",
+      "verse": 26,
+      "spans": [
+        {
+          "text": "Help me, O LORD my God: O save me according to thy mercy:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.109.27",
+      "edition_verse_id": "KJV1769:PSA.109.27",
+      "verse": 27,
+      "spans": [
+        {
+          "text": "That they may know that this ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " thy hand; ",
+          "kind": "text"
+        },
+        {
+          "text": "that",
+          "kind": "supplied"
+        },
+        {
+          "text": " thou, LORD, hast done it.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.109.28",
+      "edition_verse_id": "KJV1769:PSA.109.28",
+      "verse": 28,
+      "spans": [
+        {
+          "text": "Let them curse, but bless thou: when they arise, let them be ashamed; but let thy servant rejoice.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.109.29",
+      "edition_verse_id": "KJV1769:PSA.109.29",
+      "verse": 29,
+      "spans": [
+        {
+          "text": "Let mine adversaries be clothed with shame, and let them cover themselves with their own confusion, as with a mantle.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.109.30",
+      "edition_verse_id": "KJV1769:PSA.109.30",
+      "verse": 30,
+      "spans": [
+        {
+          "text": "I will greatly praise the LORD with my mouth; yea, I will praise him among the multitude.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.109.31",
+      "edition_verse_id": "KJV1769:PSA.109.31",
+      "verse": 31,
+      "spans": [
+        {
+          "text": "For he shall stand at the right hand of the poor, to save ",
+          "kind": "text"
+        },
+        {
+          "text": "him",
+          "kind": "supplied"
+        },
+        {
+          "text": " from those that condemn his soul.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

@@ -1,0 +1,96 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "KJV1769",
+  "book_code": "PSA",
+  "chapter": 126,
+  "verses": [
+    {
+      "id": "PSA.126.1",
+      "edition_verse_id": "KJV1769:PSA.126.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "When the LORD turned again the captivity of Zion, we were like them that dream.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.126.2",
+      "edition_verse_id": "KJV1769:PSA.126.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "Then was our mouth filled with laughter, and our tongue with singing: then said they among the heathen, The LORD hath done great things for them.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.126.3",
+      "edition_verse_id": "KJV1769:PSA.126.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "The LORD hath done great things for us; ",
+          "kind": "text"
+        },
+        {
+          "text": "whereof",
+          "kind": "supplied"
+        },
+        {
+          "text": " we are glad.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.126.4",
+      "edition_verse_id": "KJV1769:PSA.126.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "Turn again our captivity, O LORD, as the streams in the south.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.126.5",
+      "edition_verse_id": "KJV1769:PSA.126.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "They that sow in tears shall reap in joy.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.126.6",
+      "edition_verse_id": "KJV1769:PSA.126.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "He that goeth forth and weepeth, bearing precious seed, shall doubtless come again with rejoicing, bringing his sheaves ",
+          "kind": "text"
+        },
+        {
+          "text": "with him",
+          "kind": "supplied"
+        },
+        {
+          "text": ".",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

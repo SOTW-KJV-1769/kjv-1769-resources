@@ -1,0 +1,136 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "KJV1769",
+  "book_code": "PSA",
+  "chapter": 127,
+  "verses": [
+    {
+      "id": "PSA.127.1",
+      "edition_verse_id": "KJV1769:PSA.127.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "Except the LORD build the house, they labour in vain that build it: except the LORD keep the city, the watchman waketh ",
+          "kind": "text"
+        },
+        {
+          "text": "but",
+          "kind": "supplied"
+        },
+        {
+          "text": " in vain.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.127.2",
+      "edition_verse_id": "KJV1769:PSA.127.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "It is",
+          "kind": "supplied"
+        },
+        {
+          "text": " vain for you to rise up early, to sit up late, to eat the bread of sorrows: ",
+          "kind": "text"
+        },
+        {
+          "text": "for",
+          "kind": "supplied"
+        },
+        {
+          "text": " so he giveth his beloved sleep.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.127.3",
+      "edition_verse_id": "KJV1769:PSA.127.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "Lo, children ",
+          "kind": "text"
+        },
+        {
+          "text": "are",
+          "kind": "supplied"
+        },
+        {
+          "text": " an heritage of the LORD: ",
+          "kind": "text"
+        },
+        {
+          "text": "and",
+          "kind": "supplied"
+        },
+        {
+          "text": " the fruit of the womb ",
+          "kind": "text"
+        },
+        {
+          "text": "is his",
+          "kind": "supplied"
+        },
+        {
+          "text": " reward.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.127.4",
+      "edition_verse_id": "KJV1769:PSA.127.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "As arrows ",
+          "kind": "text"
+        },
+        {
+          "text": "are",
+          "kind": "supplied"
+        },
+        {
+          "text": " in the hand of a mighty man; so ",
+          "kind": "text"
+        },
+        {
+          "text": "are",
+          "kind": "supplied"
+        },
+        {
+          "text": " children of the youth.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.127.5",
+      "edition_verse_id": "KJV1769:PSA.127.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "Happy ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " the man that hath his quiver full of them: they shall not be ashamed, but they shall speak with the enemies in the gate.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

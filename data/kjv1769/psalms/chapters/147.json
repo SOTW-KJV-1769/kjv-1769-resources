@@ -1,0 +1,344 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "KJV1769",
+  "book_code": "PSA",
+  "chapter": 147,
+  "verses": [
+    {
+      "id": "PSA.147.1",
+      "edition_verse_id": "KJV1769:PSA.147.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "Praise ye the LORD: for ",
+          "kind": "text"
+        },
+        {
+          "text": "it is",
+          "kind": "supplied"
+        },
+        {
+          "text": " good to sing praises unto our God; for ",
+          "kind": "text"
+        },
+        {
+          "text": "it is",
+          "kind": "supplied"
+        },
+        {
+          "text": " pleasant; ",
+          "kind": "text"
+        },
+        {
+          "text": "and",
+          "kind": "supplied"
+        },
+        {
+          "text": " praise is comely.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.147.2",
+      "edition_verse_id": "KJV1769:PSA.147.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "The LORD doth build up Jerusalem: he gathereth together the outcasts of Israel.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.147.3",
+      "edition_verse_id": "KJV1769:PSA.147.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "He healeth the broken in heart, and bindeth up their wounds.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.147.4",
+      "edition_verse_id": "KJV1769:PSA.147.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "He telleth the number of the stars; he calleth them all by ",
+          "kind": "text"
+        },
+        {
+          "text": "their",
+          "kind": "supplied"
+        },
+        {
+          "text": " names.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.147.5",
+      "edition_verse_id": "KJV1769:PSA.147.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "Great ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " our Lord, and of great power: his understanding ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " infinite.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.147.6",
+      "edition_verse_id": "KJV1769:PSA.147.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "The LORD lifteth up the meek: he casteth the wicked down to the ground.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.147.7",
+      "edition_verse_id": "KJV1769:PSA.147.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "Sing unto the LORD with thanksgiving; sing praise upon the harp unto our God:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.147.8",
+      "edition_verse_id": "KJV1769:PSA.147.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "Who covereth the heaven with clouds, who prepareth rain for the earth, who maketh grass to grow upon the mountains.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.147.9",
+      "edition_verse_id": "KJV1769:PSA.147.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "He giveth to the beast his food, ",
+          "kind": "text"
+        },
+        {
+          "text": "and",
+          "kind": "supplied"
+        },
+        {
+          "text": " to the young ravens which cry.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.147.10",
+      "edition_verse_id": "KJV1769:PSA.147.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "He delighteth not in the strength of the horse: he taketh not pleasure in the legs of a man.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.147.11",
+      "edition_verse_id": "KJV1769:PSA.147.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "The LORD taketh pleasure in them that fear him, in those that hope in his mercy.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.147.12",
+      "edition_verse_id": "KJV1769:PSA.147.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "Praise the LORD, O Jerusalem; praise thy God, O Zion.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.147.13",
+      "edition_verse_id": "KJV1769:PSA.147.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "For he hath strengthened the bars of thy gates; he hath blessed thy children within thee.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.147.14",
+      "edition_verse_id": "KJV1769:PSA.147.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "He maketh peace ",
+          "kind": "text"
+        },
+        {
+          "text": "in",
+          "kind": "supplied"
+        },
+        {
+          "text": " thy borders, ",
+          "kind": "text"
+        },
+        {
+          "text": "and",
+          "kind": "supplied"
+        },
+        {
+          "text": " filleth thee with the finest of the wheat.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.147.15",
+      "edition_verse_id": "KJV1769:PSA.147.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "He sendeth forth his commandment ",
+          "kind": "text"
+        },
+        {
+          "text": "upon",
+          "kind": "supplied"
+        },
+        {
+          "text": " earth: his word runneth very swiftly.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.147.16",
+      "edition_verse_id": "KJV1769:PSA.147.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "He giveth snow like wool: he scattereth the hoarfrost like ashes.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.147.17",
+      "edition_verse_id": "KJV1769:PSA.147.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "He casteth forth his ice like morsels: who can stand before his cold?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.147.18",
+      "edition_verse_id": "KJV1769:PSA.147.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "He sendeth out his word, and melteth them: he causeth his wind to blow, ",
+          "kind": "text"
+        },
+        {
+          "text": "and",
+          "kind": "supplied"
+        },
+        {
+          "text": " the waters flow.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.147.19",
+      "edition_verse_id": "KJV1769:PSA.147.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "He sheweth his word unto Jacob, his statutes and his judgments unto Israel.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.147.20",
+      "edition_verse_id": "KJV1769:PSA.147.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "He hath not dealt so with any nation: and ",
+          "kind": "text"
+        },
+        {
+          "text": "as for his",
+          "kind": "supplied"
+        },
+        {
+          "text": " judgments, they have not known them. Praise ye the LORD.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

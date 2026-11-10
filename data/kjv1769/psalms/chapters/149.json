@@ -1,0 +1,152 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "KJV1769",
+  "book_code": "PSA",
+  "chapter": 149,
+  "verses": [
+    {
+      "id": "PSA.149.1",
+      "edition_verse_id": "KJV1769:PSA.149.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "Praise ye the LORD. Sing unto the LORD a new song, ",
+          "kind": "text"
+        },
+        {
+          "text": "and",
+          "kind": "supplied"
+        },
+        {
+          "text": " his praise in the congregation of saints.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.149.2",
+      "edition_verse_id": "KJV1769:PSA.149.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "Let Israel rejoice in him that made him: let the children of Zion be joyful in their King.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.149.3",
+      "edition_verse_id": "KJV1769:PSA.149.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "Let them praise his name in the dance: let them sing praises unto him with the timbrel and harp.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.149.4",
+      "edition_verse_id": "KJV1769:PSA.149.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "For the LORD taketh pleasure in his people: he will beautify the meek with salvation.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.149.5",
+      "edition_verse_id": "KJV1769:PSA.149.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "Let the saints be joyful in glory: let them sing aloud upon their beds.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.149.6",
+      "edition_verse_id": "KJV1769:PSA.149.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "Let",
+          "kind": "supplied"
+        },
+        {
+          "text": " the high ",
+          "kind": "text"
+        },
+        {
+          "text": "praises",
+          "kind": "supplied"
+        },
+        {
+          "text": " of God ",
+          "kind": "text"
+        },
+        {
+          "text": "be",
+          "kind": "supplied"
+        },
+        {
+          "text": " in their mouth, and a twoedged sword in their hand;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.149.7",
+      "edition_verse_id": "KJV1769:PSA.149.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "To execute vengeance upon the heathen, ",
+          "kind": "text"
+        },
+        {
+          "text": "and",
+          "kind": "supplied"
+        },
+        {
+          "text": " punishments upon the people;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.149.8",
+      "edition_verse_id": "KJV1769:PSA.149.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "To bind their kings with chains, and their nobles with fetters of iron;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.149.9",
+      "edition_verse_id": "KJV1769:PSA.149.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "To execute upon them the judgment written: this honour have all his saints. Praise ye the LORD.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

@@ -1,0 +1,180 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "KJV1769",
+  "book_code": "PSA",
+  "chapter": 137,
+  "verses": [
+    {
+      "id": "PSA.137.1",
+      "edition_verse_id": "KJV1769:PSA.137.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "By the rivers of Babylon, there we sat down, yea, we wept, when we remembered Zion.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.137.2",
+      "edition_verse_id": "KJV1769:PSA.137.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "We hanged our harps upon the willows in the midst thereof.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.137.3",
+      "edition_verse_id": "KJV1769:PSA.137.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "For there they that carried us away captive required of us a song; and they that wasted us ",
+          "kind": "text"
+        },
+        {
+          "text": "required of us",
+          "kind": "supplied"
+        },
+        {
+          "text": " mirth, ",
+          "kind": "text"
+        },
+        {
+          "text": "saying",
+          "kind": "supplied"
+        },
+        {
+          "text": ", Sing us ",
+          "kind": "text"
+        },
+        {
+          "text": "one",
+          "kind": "supplied"
+        },
+        {
+          "text": " of the songs of Zion.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.137.4",
+      "edition_verse_id": "KJV1769:PSA.137.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "How shall we sing the LORD’s song in a strange land?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.137.5",
+      "edition_verse_id": "KJV1769:PSA.137.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "If I forget thee, O Jerusalem, let my right hand forget ",
+          "kind": "text"
+        },
+        {
+          "text": "her cunning",
+          "kind": "supplied"
+        },
+        {
+          "text": ".",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.137.6",
+      "edition_verse_id": "KJV1769:PSA.137.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "If I do not remember thee, let my tongue cleave to the roof of my mouth; if I prefer not Jerusalem above my chief joy.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.137.7",
+      "edition_verse_id": "KJV1769:PSA.137.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "Remember, O LORD, the children of Edom in the day of Jerusalem; who said, Rase ",
+          "kind": "text"
+        },
+        {
+          "text": "it",
+          "kind": "supplied"
+        },
+        {
+          "text": ", rase ",
+          "kind": "text"
+        },
+        {
+          "text": "it, even",
+          "kind": "supplied"
+        },
+        {
+          "text": " to the foundation thereof.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.137.8",
+      "edition_verse_id": "KJV1769:PSA.137.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "O daughter of Babylon, who art to be destroyed; happy ",
+          "kind": "text"
+        },
+        {
+          "text": "shall he be",
+          "kind": "supplied"
+        },
+        {
+          "text": ", that rewardeth thee as thou hast served us.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.137.9",
+      "edition_verse_id": "KJV1769:PSA.137.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "Happy ",
+          "kind": "text"
+        },
+        {
+          "text": "shall he be",
+          "kind": "supplied"
+        },
+        {
+          "text": ", that taketh and dasheth thy little ones against the stones.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

@@ -1,0 +1,252 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "KJV1769",
+  "book_code": "PSA",
+  "chapter": 16,
+  "verses": [
+    {
+      "id": "PSA.16.1",
+      "edition_verse_id": "KJV1769:PSA.16.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "Preserve me, O God: for in thee do I put my trust.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.16.2",
+      "edition_verse_id": "KJV1769:PSA.16.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "O my soul",
+          "kind": "supplied"
+        },
+        {
+          "text": ", thou hast said unto the LORD, Thou ",
+          "kind": "text"
+        },
+        {
+          "text": "art",
+          "kind": "supplied"
+        },
+        {
+          "text": " my Lord: my goodness ",
+          "kind": "text"
+        },
+        {
+          "text": "extendeth",
+          "kind": "supplied"
+        },
+        {
+          "text": " not to thee;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.16.3",
+      "edition_verse_id": "KJV1769:PSA.16.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "But",
+          "kind": "supplied"
+        },
+        {
+          "text": " to the saints that ",
+          "kind": "text"
+        },
+        {
+          "text": "are",
+          "kind": "supplied"
+        },
+        {
+          "text": " in the earth, and ",
+          "kind": "text"
+        },
+        {
+          "text": "to",
+          "kind": "supplied"
+        },
+        {
+          "text": " the excellent, in whom ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " all my delight.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.16.4",
+      "edition_verse_id": "KJV1769:PSA.16.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "Their sorrows shall be multiplied ",
+          "kind": "text"
+        },
+        {
+          "text": "that",
+          "kind": "supplied"
+        },
+        {
+          "text": " hasten ",
+          "kind": "text"
+        },
+        {
+          "text": "after",
+          "kind": "supplied"
+        },
+        {
+          "text": " another ",
+          "kind": "text"
+        },
+        {
+          "text": "god:",
+          "kind": "supplied"
+        },
+        {
+          "text": " their drink offerings of blood will I not offer, nor take up their names into my lips.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.16.5",
+      "edition_verse_id": "KJV1769:PSA.16.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "The LORD ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " the portion of mine inheritance and of my cup: thou maintainest my lot.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.16.6",
+      "edition_verse_id": "KJV1769:PSA.16.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "The lines are fallen unto me in pleasant ",
+          "kind": "text"
+        },
+        {
+          "text": "places;",
+          "kind": "supplied"
+        },
+        {
+          "text": " yea, I have a goodly heritage.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.16.7",
+      "edition_verse_id": "KJV1769:PSA.16.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "I will bless the LORD, who hath given me counsel: my reins also instruct me in the night seasons.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.16.8",
+      "edition_verse_id": "KJV1769:PSA.16.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "I have set the LORD always before me: because ",
+          "kind": "text"
+        },
+        {
+          "text": "he is",
+          "kind": "supplied"
+        },
+        {
+          "text": " at my right hand, I shall not be moved.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.16.9",
+      "edition_verse_id": "KJV1769:PSA.16.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "Therefore my heart is glad, and my glory rejoiceth: my flesh also shall rest in hope.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.16.10",
+      "edition_verse_id": "KJV1769:PSA.16.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "For thou wilt not leave my soul in hell; neither wilt thou suffer thine Holy One to see corruption.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.16.11",
+      "edition_verse_id": "KJV1769:PSA.16.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "Thou wilt shew me the path of life: in thy presence ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " fulness of joy; at thy right hand ",
+          "kind": "text"
+        },
+        {
+          "text": "there are",
+          "kind": "supplied"
+        },
+        {
+          "text": " pleasures for evermore.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

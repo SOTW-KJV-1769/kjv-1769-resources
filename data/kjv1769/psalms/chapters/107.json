@@ -1,0 +1,732 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "KJV1769",
+  "book_code": "PSA",
+  "chapter": 107,
+  "verses": [
+    {
+      "id": "PSA.107.1",
+      "edition_verse_id": "KJV1769:PSA.107.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "O give thanks unto the LORD, for ",
+          "kind": "text"
+        },
+        {
+          "text": "he is",
+          "kind": "supplied"
+        },
+        {
+          "text": " good: for his mercy ",
+          "kind": "text"
+        },
+        {
+          "text": "endureth",
+          "kind": "supplied"
+        },
+        {
+          "text": " for ever.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.107.2",
+      "edition_verse_id": "KJV1769:PSA.107.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "Let the redeemed of the LORD say ",
+          "kind": "text"
+        },
+        {
+          "text": "so",
+          "kind": "supplied"
+        },
+        {
+          "text": ", whom he hath redeemed from the hand of the enemy;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.107.3",
+      "edition_verse_id": "KJV1769:PSA.107.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "And gathered them out of the lands, from the east, and from the west, from the north, and from the south.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.107.4",
+      "edition_verse_id": "KJV1769:PSA.107.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "They wandered in the wilderness in a solitary way; they found no city to dwell in.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.107.5",
+      "edition_verse_id": "KJV1769:PSA.107.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "Hungry and thirsty, their soul fainted in them.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.107.6",
+      "edition_verse_id": "KJV1769:PSA.107.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "Then they cried unto the LORD in their trouble, ",
+          "kind": "text"
+        },
+        {
+          "text": "and",
+          "kind": "supplied"
+        },
+        {
+          "text": " he delivered them out of their distresses.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.107.7",
+      "edition_verse_id": "KJV1769:PSA.107.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "And he led them forth by the right way, that they might go to a city of habitation.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.107.8",
+      "edition_verse_id": "KJV1769:PSA.107.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "Oh that ",
+          "kind": "text"
+        },
+        {
+          "text": "men",
+          "kind": "supplied"
+        },
+        {
+          "text": " would praise the LORD ",
+          "kind": "text"
+        },
+        {
+          "text": "for",
+          "kind": "supplied"
+        },
+        {
+          "text": " his goodness, and ",
+          "kind": "text"
+        },
+        {
+          "text": "for",
+          "kind": "supplied"
+        },
+        {
+          "text": " his wonderful works to the children of men!",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.107.9",
+      "edition_verse_id": "KJV1769:PSA.107.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "For he satisfieth the longing soul, and filleth the hungry soul with goodness.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.107.10",
+      "edition_verse_id": "KJV1769:PSA.107.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "Such as sit in darkness and in the shadow of death, ",
+          "kind": "text"
+        },
+        {
+          "text": "being",
+          "kind": "supplied"
+        },
+        {
+          "text": " bound in affliction and iron;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.107.11",
+      "edition_verse_id": "KJV1769:PSA.107.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "Because they rebelled against the words of God, and contemned the counsel of the most High:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.107.12",
+      "edition_verse_id": "KJV1769:PSA.107.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "Therefore he brought down their heart with labour; they fell down, and ",
+          "kind": "text"
+        },
+        {
+          "text": "there was",
+          "kind": "supplied"
+        },
+        {
+          "text": " none to help.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.107.13",
+      "edition_verse_id": "KJV1769:PSA.107.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "Then they cried unto the LORD in their trouble, ",
+          "kind": "text"
+        },
+        {
+          "text": "and",
+          "kind": "supplied"
+        },
+        {
+          "text": " he saved them out of their distresses.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.107.14",
+      "edition_verse_id": "KJV1769:PSA.107.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "He brought them out of darkness and the shadow of death, and brake their bands in sunder.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.107.15",
+      "edition_verse_id": "KJV1769:PSA.107.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "Oh that ",
+          "kind": "text"
+        },
+        {
+          "text": "men",
+          "kind": "supplied"
+        },
+        {
+          "text": " would praise the LORD ",
+          "kind": "text"
+        },
+        {
+          "text": "for",
+          "kind": "supplied"
+        },
+        {
+          "text": " his goodness, and ",
+          "kind": "text"
+        },
+        {
+          "text": "for",
+          "kind": "supplied"
+        },
+        {
+          "text": " his wonderful works to the children of men!",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.107.16",
+      "edition_verse_id": "KJV1769:PSA.107.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "For he hath broken the gates of brass, and cut the bars of iron in sunder.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.107.17",
+      "edition_verse_id": "KJV1769:PSA.107.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "Fools because of their transgression, and because of their iniquities, are afflicted.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.107.18",
+      "edition_verse_id": "KJV1769:PSA.107.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "Their soul abhorreth all manner of meat; and they draw near unto the gates of death.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.107.19",
+      "edition_verse_id": "KJV1769:PSA.107.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "Then they cry unto the LORD in their trouble, ",
+          "kind": "text"
+        },
+        {
+          "text": "and",
+          "kind": "supplied"
+        },
+        {
+          "text": " he saveth them out of their distresses.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.107.20",
+      "edition_verse_id": "KJV1769:PSA.107.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "He sent his word, and healed them, and delivered ",
+          "kind": "text"
+        },
+        {
+          "text": "them",
+          "kind": "supplied"
+        },
+        {
+          "text": " from their destructions.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.107.21",
+      "edition_verse_id": "KJV1769:PSA.107.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "Oh that ",
+          "kind": "text"
+        },
+        {
+          "text": "men",
+          "kind": "supplied"
+        },
+        {
+          "text": " would praise the LORD ",
+          "kind": "text"
+        },
+        {
+          "text": "for",
+          "kind": "supplied"
+        },
+        {
+          "text": " his goodness, and ",
+          "kind": "text"
+        },
+        {
+          "text": "for",
+          "kind": "supplied"
+        },
+        {
+          "text": " his wonderful works to the children of men!",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.107.22",
+      "edition_verse_id": "KJV1769:PSA.107.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "And let them sacrifice the sacrifices of thanksgiving, and declare his works with rejoicing.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.107.23",
+      "edition_verse_id": "KJV1769:PSA.107.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "They that go down to the sea in ships, that do business in great waters;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.107.24",
+      "edition_verse_id": "KJV1769:PSA.107.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "These see the works of the LORD, and his wonders in the deep.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.107.25",
+      "edition_verse_id": "KJV1769:PSA.107.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "For he commandeth, and raiseth the stormy wind, which lifteth up the waves thereof.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.107.26",
+      "edition_verse_id": "KJV1769:PSA.107.26",
+      "verse": 26,
+      "spans": [
+        {
+          "text": "They mount up to the heaven, they go down again to the depths: their soul is melted because of trouble.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.107.27",
+      "edition_verse_id": "KJV1769:PSA.107.27",
+      "verse": 27,
+      "spans": [
+        {
+          "text": "They reel to and fro, and stagger like a drunken man, and are at their wits’ end.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.107.28",
+      "edition_verse_id": "KJV1769:PSA.107.28",
+      "verse": 28,
+      "spans": [
+        {
+          "text": "Then they cry unto the LORD in their trouble, and he bringeth them out of their distresses.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.107.29",
+      "edition_verse_id": "KJV1769:PSA.107.29",
+      "verse": 29,
+      "spans": [
+        {
+          "text": "He maketh the storm a calm, so that the waves thereof are still.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.107.30",
+      "edition_verse_id": "KJV1769:PSA.107.30",
+      "verse": 30,
+      "spans": [
+        {
+          "text": "Then are they glad because they be quiet; so he bringeth them unto their desired haven.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.107.31",
+      "edition_verse_id": "KJV1769:PSA.107.31",
+      "verse": 31,
+      "spans": [
+        {
+          "text": "Oh that ",
+          "kind": "text"
+        },
+        {
+          "text": "men",
+          "kind": "supplied"
+        },
+        {
+          "text": " would praise the LORD ",
+          "kind": "text"
+        },
+        {
+          "text": "for",
+          "kind": "supplied"
+        },
+        {
+          "text": " his goodness, and ",
+          "kind": "text"
+        },
+        {
+          "text": "for",
+          "kind": "supplied"
+        },
+        {
+          "text": " his wonderful works to the children of men!",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.107.32",
+      "edition_verse_id": "KJV1769:PSA.107.32",
+      "verse": 32,
+      "spans": [
+        {
+          "text": "Let them exalt him also in the congregation of the people, and praise him in the assembly of the elders.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.107.33",
+      "edition_verse_id": "KJV1769:PSA.107.33",
+      "verse": 33,
+      "spans": [
+        {
+          "text": "He turneth rivers into a wilderness, and the watersprings into dry ground;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.107.34",
+      "edition_verse_id": "KJV1769:PSA.107.34",
+      "verse": 34,
+      "spans": [
+        {
+          "text": "A fruitful land into barrenness, for the wickedness of them that dwell therein.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.107.35",
+      "edition_verse_id": "KJV1769:PSA.107.35",
+      "verse": 35,
+      "spans": [
+        {
+          "text": "He turneth the wilderness into a standing water, and dry ground into watersprings.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.107.36",
+      "edition_verse_id": "KJV1769:PSA.107.36",
+      "verse": 36,
+      "spans": [
+        {
+          "text": "And there he maketh the hungry to dwell, that they may prepare a city for habitation;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.107.37",
+      "edition_verse_id": "KJV1769:PSA.107.37",
+      "verse": 37,
+      "spans": [
+        {
+          "text": "And sow the fields, and plant vineyards, which may yield fruits of increase.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.107.38",
+      "edition_verse_id": "KJV1769:PSA.107.38",
+      "verse": 38,
+      "spans": [
+        {
+          "text": "He blesseth them also, so that they are multiplied greatly; and suffereth not their cattle to decrease.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.107.39",
+      "edition_verse_id": "KJV1769:PSA.107.39",
+      "verse": 39,
+      "spans": [
+        {
+          "text": "Again, they are minished and brought low through oppression, affliction, and sorrow.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.107.40",
+      "edition_verse_id": "KJV1769:PSA.107.40",
+      "verse": 40,
+      "spans": [
+        {
+          "text": "He poureth contempt upon princes, and causeth them to wander in the wilderness, ",
+          "kind": "text"
+        },
+        {
+          "text": "where there is",
+          "kind": "supplied"
+        },
+        {
+          "text": " no way.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.107.41",
+      "edition_verse_id": "KJV1769:PSA.107.41",
+      "verse": 41,
+      "spans": [
+        {
+          "text": "Yet setteth he the poor on high from affliction, and maketh ",
+          "kind": "text"
+        },
+        {
+          "text": "him",
+          "kind": "supplied"
+        },
+        {
+          "text": " families like a flock.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.107.42",
+      "edition_verse_id": "KJV1769:PSA.107.42",
+      "verse": 42,
+      "spans": [
+        {
+          "text": "The righteous shall see ",
+          "kind": "text"
+        },
+        {
+          "text": "it",
+          "kind": "supplied"
+        },
+        {
+          "text": ", and rejoice: and all iniquity shall stop her mouth.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.107.43",
+      "edition_verse_id": "KJV1769:PSA.107.43",
+      "verse": 43,
+      "spans": [
+        {
+          "text": "Whoso ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " wise, and will observe these ",
+          "kind": "text"
+        },
+        {
+          "text": "things",
+          "kind": "supplied"
+        },
+        {
+          "text": ", even they shall understand the lovingkindness of the LORD.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

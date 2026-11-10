@@ -1,0 +1,160 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "KJV1769",
+  "book_code": "PSA",
+  "chapter": 53,
+  "verses": [
+    {
+      "id": "PSA.53.1",
+      "edition_verse_id": "KJV1769:PSA.53.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "The fool hath said in his heart, ",
+          "kind": "text"
+        },
+        {
+          "text": "There is",
+          "kind": "supplied"
+        },
+        {
+          "text": " no God. Corrupt are they, and have done abominable iniquity: ",
+          "kind": "text"
+        },
+        {
+          "text": "there is",
+          "kind": "supplied"
+        },
+        {
+          "text": " none that doeth good.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.53.2",
+      "edition_verse_id": "KJV1769:PSA.53.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "God looked down from heaven upon the children of men, to see if there were ",
+          "kind": "text"
+        },
+        {
+          "text": "any",
+          "kind": "supplied"
+        },
+        {
+          "text": " that did understand, that did seek God.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.53.3",
+      "edition_verse_id": "KJV1769:PSA.53.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "Every one of them is gone back: they are altogether become filthy; ",
+          "kind": "text"
+        },
+        {
+          "text": "there is",
+          "kind": "supplied"
+        },
+        {
+          "text": " none that doeth good, no, not one.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.53.4",
+      "edition_verse_id": "KJV1769:PSA.53.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "Have the workers of iniquity no knowledge? who eat up my people ",
+          "kind": "text"
+        },
+        {
+          "text": "as",
+          "kind": "supplied"
+        },
+        {
+          "text": " they eat bread: they have not called upon God.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.53.5",
+      "edition_verse_id": "KJV1769:PSA.53.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "There were they in great fear, ",
+          "kind": "text"
+        },
+        {
+          "text": "where",
+          "kind": "supplied"
+        },
+        {
+          "text": " no fear was: for God hath scattered the bones of him that encampeth ",
+          "kind": "text"
+        },
+        {
+          "text": "against",
+          "kind": "supplied"
+        },
+        {
+          "text": " thee: thou hast put ",
+          "kind": "text"
+        },
+        {
+          "text": "them",
+          "kind": "supplied"
+        },
+        {
+          "text": " to shame, because God hath despised them.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.53.6",
+      "edition_verse_id": "KJV1769:PSA.53.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "Oh that the salvation of Israel ",
+          "kind": "text"
+        },
+        {
+          "text": "were come",
+          "kind": "supplied"
+        },
+        {
+          "text": " out of Zion! When God bringeth back the captivity of his people, Jacob shall rejoice, ",
+          "kind": "text"
+        },
+        {
+          "text": "and",
+          "kind": "supplied"
+        },
+        {
+          "text": " Israel shall be glad.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

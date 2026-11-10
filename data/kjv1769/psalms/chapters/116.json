@@ -1,0 +1,324 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "KJV1769",
+  "book_code": "PSA",
+  "chapter": 116,
+  "verses": [
+    {
+      "id": "PSA.116.1",
+      "edition_verse_id": "KJV1769:PSA.116.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "I love the LORD, because he hath heard my voice ",
+          "kind": "text"
+        },
+        {
+          "text": "and",
+          "kind": "supplied"
+        },
+        {
+          "text": " my supplications.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.116.2",
+      "edition_verse_id": "KJV1769:PSA.116.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "Because he hath inclined his ear unto me, therefore will I call upon ",
+          "kind": "text"
+        },
+        {
+          "text": "him",
+          "kind": "supplied"
+        },
+        {
+          "text": " as long as I live.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.116.3",
+      "edition_verse_id": "KJV1769:PSA.116.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "The sorrows of death compassed me, and the pains of hell gat hold upon me: I found trouble and sorrow.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.116.4",
+      "edition_verse_id": "KJV1769:PSA.116.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "Then called I upon the name of the LORD; O LORD, I beseech thee, deliver my soul.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.116.5",
+      "edition_verse_id": "KJV1769:PSA.116.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "Gracious ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " the LORD, and righteous; yea, our God ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " merciful.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.116.6",
+      "edition_verse_id": "KJV1769:PSA.116.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "The LORD preserveth the simple: I was brought low, and he helped me.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.116.7",
+      "edition_verse_id": "KJV1769:PSA.116.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "Return unto thy rest, O my soul; for the LORD hath dealt bountifully with thee.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.116.8",
+      "edition_verse_id": "KJV1769:PSA.116.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "For thou hast delivered my soul from death, mine eyes from tears, ",
+          "kind": "text"
+        },
+        {
+          "text": "and",
+          "kind": "supplied"
+        },
+        {
+          "text": " my feet from falling.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.116.9",
+      "edition_verse_id": "KJV1769:PSA.116.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "I will walk before the LORD in the land of the living.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.116.10",
+      "edition_verse_id": "KJV1769:PSA.116.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "I believed, therefore have I spoken: I was greatly afflicted:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.116.11",
+      "edition_verse_id": "KJV1769:PSA.116.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "I said in my haste, All men ",
+          "kind": "text"
+        },
+        {
+          "text": "are",
+          "kind": "supplied"
+        },
+        {
+          "text": " liars.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.116.12",
+      "edition_verse_id": "KJV1769:PSA.116.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "What shall I render unto the LORD ",
+          "kind": "text"
+        },
+        {
+          "text": "for",
+          "kind": "supplied"
+        },
+        {
+          "text": " all his benefits toward me?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.116.13",
+      "edition_verse_id": "KJV1769:PSA.116.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "I will take the cup of salvation, and call upon the name of the LORD.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.116.14",
+      "edition_verse_id": "KJV1769:PSA.116.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "I will pay my vows unto the LORD now in the presence of all his people.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.116.15",
+      "edition_verse_id": "KJV1769:PSA.116.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "Precious in the sight of the LORD ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " the death of his saints.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.116.16",
+      "edition_verse_id": "KJV1769:PSA.116.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "O LORD, truly I ",
+          "kind": "text"
+        },
+        {
+          "text": "am",
+          "kind": "supplied"
+        },
+        {
+          "text": " thy servant; I ",
+          "kind": "text"
+        },
+        {
+          "text": "am",
+          "kind": "supplied"
+        },
+        {
+          "text": " thy servant, ",
+          "kind": "text"
+        },
+        {
+          "text": "and",
+          "kind": "supplied"
+        },
+        {
+          "text": " the son of thine handmaid: thou hast loosed my bonds.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.116.17",
+      "edition_verse_id": "KJV1769:PSA.116.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "I will offer to thee the sacrifice of thanksgiving, and will call upon the name of the LORD.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.116.18",
+      "edition_verse_id": "KJV1769:PSA.116.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "I will pay my vows unto the LORD now in the presence of all his people,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.116.19",
+      "edition_verse_id": "KJV1769:PSA.116.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "In the courts of the LORD’s house, in the midst of thee, O Jerusalem. Praise ye the LORD.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

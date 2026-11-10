@@ -1,0 +1,412 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "KJV1769",
+  "book_code": "PSA",
+  "chapter": 34,
+  "verses": [
+    {
+      "id": "PSA.34.1",
+      "edition_verse_id": "KJV1769:PSA.34.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "I will bless the LORD at all times: his praise ",
+          "kind": "text"
+        },
+        {
+          "text": "shall",
+          "kind": "supplied"
+        },
+        {
+          "text": " continually ",
+          "kind": "text"
+        },
+        {
+          "text": "be",
+          "kind": "supplied"
+        },
+        {
+          "text": " in my mouth.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.34.2",
+      "edition_verse_id": "KJV1769:PSA.34.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "My soul shall make her boast in the LORD: the humble shall hear ",
+          "kind": "text"
+        },
+        {
+          "text": "thereof",
+          "kind": "supplied"
+        },
+        {
+          "text": ", and be glad.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.34.3",
+      "edition_verse_id": "KJV1769:PSA.34.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "O magnify the LORD with me, and let us exalt his name together.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.34.4",
+      "edition_verse_id": "KJV1769:PSA.34.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "I sought the LORD, and he heard me, and delivered me from all my fears.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.34.5",
+      "edition_verse_id": "KJV1769:PSA.34.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "They looked unto him, and were lightened: and their faces were not ashamed.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.34.6",
+      "edition_verse_id": "KJV1769:PSA.34.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "This poor man cried, and the LORD heard ",
+          "kind": "text"
+        },
+        {
+          "text": "him",
+          "kind": "supplied"
+        },
+        {
+          "text": ", and saved him out of all his troubles.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.34.7",
+      "edition_verse_id": "KJV1769:PSA.34.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "The angel of the LORD encampeth round about them that fear him, and delivereth them.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.34.8",
+      "edition_verse_id": "KJV1769:PSA.34.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "O taste and see that the LORD ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " good: blessed ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " the man ",
+          "kind": "text"
+        },
+        {
+          "text": "that",
+          "kind": "supplied"
+        },
+        {
+          "text": " trusteth in him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.34.9",
+      "edition_verse_id": "KJV1769:PSA.34.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "O fear the LORD, ye his saints: for ",
+          "kind": "text"
+        },
+        {
+          "text": "there is",
+          "kind": "supplied"
+        },
+        {
+          "text": " no want to them that fear him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.34.10",
+      "edition_verse_id": "KJV1769:PSA.34.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "The young lions do lack, and suffer hunger: but they that seek the LORD shall not want any good ",
+          "kind": "text"
+        },
+        {
+          "text": "thing",
+          "kind": "supplied"
+        },
+        {
+          "text": ".",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.34.11",
+      "edition_verse_id": "KJV1769:PSA.34.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "Come, ye children, hearken unto me: I will teach you the fear of the LORD.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.34.12",
+      "edition_verse_id": "KJV1769:PSA.34.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "What man ",
+          "kind": "text"
+        },
+        {
+          "text": "is he that",
+          "kind": "supplied"
+        },
+        {
+          "text": " desireth life, ",
+          "kind": "text"
+        },
+        {
+          "text": "and",
+          "kind": "supplied"
+        },
+        {
+          "text": " loveth ",
+          "kind": "text"
+        },
+        {
+          "text": "many",
+          "kind": "supplied"
+        },
+        {
+          "text": " days, that he may see good?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.34.13",
+      "edition_verse_id": "KJV1769:PSA.34.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "Keep thy tongue from evil, and thy lips from speaking guile.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.34.14",
+      "edition_verse_id": "KJV1769:PSA.34.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "Depart from evil, and do good; seek peace, and pursue it.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.34.15",
+      "edition_verse_id": "KJV1769:PSA.34.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "The eyes of the LORD ",
+          "kind": "text"
+        },
+        {
+          "text": "are",
+          "kind": "supplied"
+        },
+        {
+          "text": " upon the righteous, and his ears ",
+          "kind": "text"
+        },
+        {
+          "text": "are open",
+          "kind": "supplied"
+        },
+        {
+          "text": " unto their cry.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.34.16",
+      "edition_verse_id": "KJV1769:PSA.34.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "The face of the LORD ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " against them that do evil, to cut off the remembrance of them from the earth.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.34.17",
+      "edition_verse_id": "KJV1769:PSA.34.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "The righteous",
+          "kind": "supplied"
+        },
+        {
+          "text": " cry, and the LORD heareth, and delivereth them out of all their troubles.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.34.18",
+      "edition_verse_id": "KJV1769:PSA.34.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "The LORD ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " nigh unto them that are of a broken heart; and saveth such as be of a contrite spirit.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.34.19",
+      "edition_verse_id": "KJV1769:PSA.34.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "Many ",
+          "kind": "text"
+        },
+        {
+          "text": "are",
+          "kind": "supplied"
+        },
+        {
+          "text": " the afflictions of the righteous: but the LORD delivereth him out of them all.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.34.20",
+      "edition_verse_id": "KJV1769:PSA.34.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "He keepeth all his bones: not one of them is broken.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.34.21",
+      "edition_verse_id": "KJV1769:PSA.34.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "Evil shall slay the wicked: and they that hate the righteous shall be desolate.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.34.22",
+      "edition_verse_id": "KJV1769:PSA.34.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "The LORD redeemeth the soul of his servants: and none of them that trust in him shall be desolate.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

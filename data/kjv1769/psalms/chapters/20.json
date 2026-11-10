@@ -1,0 +1,132 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "KJV1769",
+  "book_code": "PSA",
+  "chapter": 20,
+  "verses": [
+    {
+      "id": "PSA.20.1",
+      "edition_verse_id": "KJV1769:PSA.20.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "The LORD hear thee in the day of trouble; the name of the God of Jacob defend thee;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.20.2",
+      "edition_verse_id": "KJV1769:PSA.20.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "Send thee help from the sanctuary, and strengthen thee out of Zion;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.20.3",
+      "edition_verse_id": "KJV1769:PSA.20.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "Remember all thy offerings, and accept thy burnt sacrifice; Selah.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.20.4",
+      "edition_verse_id": "KJV1769:PSA.20.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "Grant thee according to thine own heart, and fulfil all thy counsel.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.20.5",
+      "edition_verse_id": "KJV1769:PSA.20.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "We will rejoice in thy salvation, and in the name of our God we will set up ",
+          "kind": "text"
+        },
+        {
+          "text": "our",
+          "kind": "supplied"
+        },
+        {
+          "text": " banners: the LORD fulfil all thy petitions.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.20.6",
+      "edition_verse_id": "KJV1769:PSA.20.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "Now know I that the LORD saveth his anointed; he will hear him from his holy heaven with the saving strength of his right hand.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.20.7",
+      "edition_verse_id": "KJV1769:PSA.20.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "Some ",
+          "kind": "text"
+        },
+        {
+          "text": "trust",
+          "kind": "supplied"
+        },
+        {
+          "text": " in chariots, and some in horses: but we will remember the name of the LORD our God.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.20.8",
+      "edition_verse_id": "KJV1769:PSA.20.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "They are brought down and fallen: but we are risen, and stand upright.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.20.9",
+      "edition_verse_id": "KJV1769:PSA.20.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "Save, LORD: let the king hear us when we call.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

@@ -1,0 +1,252 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "KJV1769",
+  "book_code": "PSA",
+  "chapter": 60,
+  "verses": [
+    {
+      "id": "PSA.60.1",
+      "edition_verse_id": "KJV1769:PSA.60.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "O God, thou hast cast us off, thou hast scattered us, thou hast been displeased; O turn thyself to us again.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.60.2",
+      "edition_verse_id": "KJV1769:PSA.60.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "Thou hast made the earth to tremble; thou hast broken it: heal the breaches thereof; for it shaketh.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.60.3",
+      "edition_verse_id": "KJV1769:PSA.60.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "Thou hast shewed thy people hard things: thou hast made us to drink the wine of astonishment.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.60.4",
+      "edition_verse_id": "KJV1769:PSA.60.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "Thou hast given a banner to them that fear thee, that it may be displayed because of the truth. Selah.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.60.5",
+      "edition_verse_id": "KJV1769:PSA.60.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "That thy beloved may be delivered; save ",
+          "kind": "text"
+        },
+        {
+          "text": "with",
+          "kind": "supplied"
+        },
+        {
+          "text": " thy right hand, and hear me.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.60.6",
+      "edition_verse_id": "KJV1769:PSA.60.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "God hath spoken in his holiness; I will rejoice, I will divide Shechem, and mete out the valley of Succoth.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.60.7",
+      "edition_verse_id": "KJV1769:PSA.60.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "Gilead ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " mine, and Manasseh ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " mine; Ephraim also ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " the strength of mine head; Judah ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " my lawgiver;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.60.8",
+      "edition_verse_id": "KJV1769:PSA.60.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "Moab ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " my washpot; over Edom will I cast out my shoe: Philistia, triumph thou because of me.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.60.9",
+      "edition_verse_id": "KJV1769:PSA.60.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "Who will bring me ",
+          "kind": "text"
+        },
+        {
+          "text": "into",
+          "kind": "supplied"
+        },
+        {
+          "text": " the strong city? who will lead me into Edom?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.60.10",
+      "edition_verse_id": "KJV1769:PSA.60.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "Wilt",
+          "kind": "supplied"
+        },
+        {
+          "text": " not thou, O God, ",
+          "kind": "text"
+        },
+        {
+          "text": "which",
+          "kind": "supplied"
+        },
+        {
+          "text": " hadst cast us off? and ",
+          "kind": "text"
+        },
+        {
+          "text": "thou",
+          "kind": "supplied"
+        },
+        {
+          "text": ", O God, ",
+          "kind": "text"
+        },
+        {
+          "text": "which",
+          "kind": "supplied"
+        },
+        {
+          "text": " didst not go out with our armies?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.60.11",
+      "edition_verse_id": "KJV1769:PSA.60.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "Give us help from trouble: for vain ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " the help of man.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.60.12",
+      "edition_verse_id": "KJV1769:PSA.60.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "Through God we shall do valiantly: for he ",
+          "kind": "text"
+        },
+        {
+          "text": "it is that",
+          "kind": "supplied"
+        },
+        {
+          "text": " shall tread down our enemies.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

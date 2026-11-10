@@ -1,0 +1,444 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "KJV1769",
+  "book_code": "PSA",
+  "chapter": 50,
+  "verses": [
+    {
+      "id": "PSA.50.1",
+      "edition_verse_id": "KJV1769:PSA.50.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "The mighty God, ",
+          "kind": "text"
+        },
+        {
+          "text": "even",
+          "kind": "supplied"
+        },
+        {
+          "text": " the LORD, hath spoken, and called the earth from the rising of the sun unto the going down thereof.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.50.2",
+      "edition_verse_id": "KJV1769:PSA.50.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "Out of Zion, the perfection of beauty, God hath shined.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.50.3",
+      "edition_verse_id": "KJV1769:PSA.50.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "Our God shall come, and shall not keep silence: a fire shall devour before him, and it shall be very tempestuous round about him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.50.4",
+      "edition_verse_id": "KJV1769:PSA.50.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "He shall call to the heavens from above, and to the earth, that he may judge his people.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.50.5",
+      "edition_verse_id": "KJV1769:PSA.50.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "Gather my saints together unto me; those that have made a covenant with me by sacrifice.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.50.6",
+      "edition_verse_id": "KJV1769:PSA.50.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "And the heavens shall declare his righteousness: for God ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " judge himself. Selah.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.50.7",
+      "edition_verse_id": "KJV1769:PSA.50.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "Hear, O my people, and I will speak; O Israel, and I will testify against thee: I ",
+          "kind": "text"
+        },
+        {
+          "text": "am",
+          "kind": "supplied"
+        },
+        {
+          "text": " God, ",
+          "kind": "text"
+        },
+        {
+          "text": "even",
+          "kind": "supplied"
+        },
+        {
+          "text": " thy God.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.50.8",
+      "edition_verse_id": "KJV1769:PSA.50.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "I will not reprove thee for thy sacrifices or thy burnt offerings, ",
+          "kind": "text"
+        },
+        {
+          "text": "to have been",
+          "kind": "supplied"
+        },
+        {
+          "text": " continually before me.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.50.9",
+      "edition_verse_id": "KJV1769:PSA.50.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "I will take no bullock out of thy house, ",
+          "kind": "text"
+        },
+        {
+          "text": "nor",
+          "kind": "supplied"
+        },
+        {
+          "text": " he goats out of thy folds.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.50.10",
+      "edition_verse_id": "KJV1769:PSA.50.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "For every beast of the forest ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " mine, ",
+          "kind": "text"
+        },
+        {
+          "text": "and",
+          "kind": "supplied"
+        },
+        {
+          "text": " the cattle upon a thousand hills.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.50.11",
+      "edition_verse_id": "KJV1769:PSA.50.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "I know all the fowls of the mountains: and the wild beasts of the field ",
+          "kind": "text"
+        },
+        {
+          "text": "are",
+          "kind": "supplied"
+        },
+        {
+          "text": " mine.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.50.12",
+      "edition_verse_id": "KJV1769:PSA.50.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "If I were hungry, I would not tell thee: for the world ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " mine, and the fulness thereof.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.50.13",
+      "edition_verse_id": "KJV1769:PSA.50.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "Will I eat the flesh of bulls, or drink the blood of goats?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.50.14",
+      "edition_verse_id": "KJV1769:PSA.50.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "Offer unto God thanksgiving; and pay thy vows unto the most High:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.50.15",
+      "edition_verse_id": "KJV1769:PSA.50.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "And call upon me in the day of trouble: I will deliver thee, and thou shalt glorify me.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.50.16",
+      "edition_verse_id": "KJV1769:PSA.50.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "But unto the wicked God saith, What hast thou to do to declare my statutes, or ",
+          "kind": "text"
+        },
+        {
+          "text": "that",
+          "kind": "supplied"
+        },
+        {
+          "text": " thou shouldest take my covenant in thy mouth?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.50.17",
+      "edition_verse_id": "KJV1769:PSA.50.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "Seeing thou hatest instruction, and castest my words behind thee.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.50.18",
+      "edition_verse_id": "KJV1769:PSA.50.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "When thou sawest a thief, then thou consentedst with him, and hast been partaker with adulterers.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.50.19",
+      "edition_verse_id": "KJV1769:PSA.50.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "Thou givest thy mouth to evil, and thy tongue frameth deceit.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.50.20",
+      "edition_verse_id": "KJV1769:PSA.50.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "Thou sittest ",
+          "kind": "text"
+        },
+        {
+          "text": "and",
+          "kind": "supplied"
+        },
+        {
+          "text": " speakest against thy brother; thou slanderest thine own mother’s son.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.50.21",
+      "edition_verse_id": "KJV1769:PSA.50.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "These ",
+          "kind": "text"
+        },
+        {
+          "text": "things",
+          "kind": "supplied"
+        },
+        {
+          "text": " hast thou done, and I kept silence; thou thoughtest that I was altogether ",
+          "kind": "text"
+        },
+        {
+          "text": "such an one",
+          "kind": "supplied"
+        },
+        {
+          "text": " as thyself: ",
+          "kind": "text"
+        },
+        {
+          "text": "but",
+          "kind": "supplied"
+        },
+        {
+          "text": " I will reprove thee, and set ",
+          "kind": "text"
+        },
+        {
+          "text": "them",
+          "kind": "supplied"
+        },
+        {
+          "text": " in order before thine eyes.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.50.22",
+      "edition_verse_id": "KJV1769:PSA.50.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "Now consider this, ye that forget God, lest I tear ",
+          "kind": "text"
+        },
+        {
+          "text": "you",
+          "kind": "supplied"
+        },
+        {
+          "text": " in pieces, and ",
+          "kind": "text"
+        },
+        {
+          "text": "there be",
+          "kind": "supplied"
+        },
+        {
+          "text": " none to deliver.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.50.23",
+      "edition_verse_id": "KJV1769:PSA.50.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "Whoso offereth praise glorifieth me: and to him that ordereth ",
+          "kind": "text"
+        },
+        {
+          "text": "his",
+          "kind": "supplied"
+        },
+        {
+          "text": " conversation ",
+          "kind": "text"
+        },
+        {
+          "text": "aright",
+          "kind": "supplied"
+        },
+        {
+          "text": " will I shew the salvation of God.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

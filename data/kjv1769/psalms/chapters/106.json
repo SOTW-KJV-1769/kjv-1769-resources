@@ -1,0 +1,744 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "KJV1769",
+  "book_code": "PSA",
+  "chapter": 106,
+  "verses": [
+    {
+      "id": "PSA.106.1",
+      "edition_verse_id": "KJV1769:PSA.106.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "Praise ye the LORD. O give thanks unto the LORD; for ",
+          "kind": "text"
+        },
+        {
+          "text": "he is",
+          "kind": "supplied"
+        },
+        {
+          "text": " good: for his mercy ",
+          "kind": "text"
+        },
+        {
+          "text": "endureth",
+          "kind": "supplied"
+        },
+        {
+          "text": " for ever.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.106.2",
+      "edition_verse_id": "KJV1769:PSA.106.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "Who can utter the mighty acts of the LORD? ",
+          "kind": "text"
+        },
+        {
+          "text": "who",
+          "kind": "supplied"
+        },
+        {
+          "text": " can shew forth all his praise?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.106.3",
+      "edition_verse_id": "KJV1769:PSA.106.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "Blessed ",
+          "kind": "text"
+        },
+        {
+          "text": "are",
+          "kind": "supplied"
+        },
+        {
+          "text": " they that keep judgment, ",
+          "kind": "text"
+        },
+        {
+          "text": "and",
+          "kind": "supplied"
+        },
+        {
+          "text": " he that doeth righteousness at all times.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.106.4",
+      "edition_verse_id": "KJV1769:PSA.106.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "Remember me, O LORD, with the favour ",
+          "kind": "text"
+        },
+        {
+          "text": "that thou bearest unto",
+          "kind": "supplied"
+        },
+        {
+          "text": " thy people: O visit me with thy salvation;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.106.5",
+      "edition_verse_id": "KJV1769:PSA.106.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "That I may see the good of thy chosen, that I may rejoice in the gladness of thy nation, that I may glory with thine inheritance.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.106.6",
+      "edition_verse_id": "KJV1769:PSA.106.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "We have sinned with our fathers, we have committed iniquity, we have done wickedly.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.106.7",
+      "edition_verse_id": "KJV1769:PSA.106.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "Our fathers understood not thy wonders in Egypt; they remembered not the multitude of thy mercies; but provoked ",
+          "kind": "text"
+        },
+        {
+          "text": "him",
+          "kind": "supplied"
+        },
+        {
+          "text": " at the sea, ",
+          "kind": "text"
+        },
+        {
+          "text": "even",
+          "kind": "supplied"
+        },
+        {
+          "text": " at the Red sea.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.106.8",
+      "edition_verse_id": "KJV1769:PSA.106.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "Nevertheless he saved them for his name’s sake, that he might make his mighty power to be known.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.106.9",
+      "edition_verse_id": "KJV1769:PSA.106.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "He rebuked the Red sea also, and it was dried up: so he led them through the depths, as through the wilderness.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.106.10",
+      "edition_verse_id": "KJV1769:PSA.106.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "And he saved them from the hand of him that hated ",
+          "kind": "text"
+        },
+        {
+          "text": "them",
+          "kind": "supplied"
+        },
+        {
+          "text": ", and redeemed them from the hand of the enemy.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.106.11",
+      "edition_verse_id": "KJV1769:PSA.106.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "And the waters covered their enemies: there was not one of them left.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.106.12",
+      "edition_verse_id": "KJV1769:PSA.106.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "Then believed they his words; they sang his praise.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.106.13",
+      "edition_verse_id": "KJV1769:PSA.106.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "They soon forgat his works; they waited not for his counsel:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.106.14",
+      "edition_verse_id": "KJV1769:PSA.106.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "But lusted exceedingly in the wilderness, and tempted God in the desert.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.106.15",
+      "edition_verse_id": "KJV1769:PSA.106.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "And he gave them their request; but sent leanness into their soul.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.106.16",
+      "edition_verse_id": "KJV1769:PSA.106.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "They envied Moses also in the camp, ",
+          "kind": "text"
+        },
+        {
+          "text": "and",
+          "kind": "supplied"
+        },
+        {
+          "text": " Aaron the saint of the LORD.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.106.17",
+      "edition_verse_id": "KJV1769:PSA.106.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "The earth opened and swallowed up Dathan, and covered the company of Abiram.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.106.18",
+      "edition_verse_id": "KJV1769:PSA.106.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "And a fire was kindled in their company; the flame burned up the wicked.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.106.19",
+      "edition_verse_id": "KJV1769:PSA.106.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "They made a calf in Horeb, and worshipped the molten image.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.106.20",
+      "edition_verse_id": "KJV1769:PSA.106.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "Thus they changed their glory into the similitude of an ox that eateth grass.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.106.21",
+      "edition_verse_id": "KJV1769:PSA.106.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "They forgat God their saviour, which had done great things in Egypt;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.106.22",
+      "edition_verse_id": "KJV1769:PSA.106.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "Wondrous works in the land of Ham, ",
+          "kind": "text"
+        },
+        {
+          "text": "and",
+          "kind": "supplied"
+        },
+        {
+          "text": " terrible things by the Red sea.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.106.23",
+      "edition_verse_id": "KJV1769:PSA.106.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "Therefore he said that he would destroy them, had not Moses his chosen stood before him in the breach, to turn away his wrath, lest he should destroy ",
+          "kind": "text"
+        },
+        {
+          "text": "them",
+          "kind": "supplied"
+        },
+        {
+          "text": ".",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.106.24",
+      "edition_verse_id": "KJV1769:PSA.106.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "Yea, they despised the pleasant land, they believed not his word:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.106.25",
+      "edition_verse_id": "KJV1769:PSA.106.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "But murmured in their tents, ",
+          "kind": "text"
+        },
+        {
+          "text": "and",
+          "kind": "supplied"
+        },
+        {
+          "text": " hearkened not unto the voice of the LORD.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.106.26",
+      "edition_verse_id": "KJV1769:PSA.106.26",
+      "verse": 26,
+      "spans": [
+        {
+          "text": "Therefore he lifted up his hand against them, to overthrow them in the wilderness:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.106.27",
+      "edition_verse_id": "KJV1769:PSA.106.27",
+      "verse": 27,
+      "spans": [
+        {
+          "text": "To overthrow their seed also among the nations, and to scatter them in the lands.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.106.28",
+      "edition_verse_id": "KJV1769:PSA.106.28",
+      "verse": 28,
+      "spans": [
+        {
+          "text": "They joined themselves also unto Baal-peor, and ate the sacrifices of the dead.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.106.29",
+      "edition_verse_id": "KJV1769:PSA.106.29",
+      "verse": 29,
+      "spans": [
+        {
+          "text": "Thus they provoked ",
+          "kind": "text"
+        },
+        {
+          "text": "him",
+          "kind": "supplied"
+        },
+        {
+          "text": " to anger with their inventions: and the plague brake in upon them.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.106.30",
+      "edition_verse_id": "KJV1769:PSA.106.30",
+      "verse": 30,
+      "spans": [
+        {
+          "text": "Then stood up Phinehas, and executed judgment: and ",
+          "kind": "text"
+        },
+        {
+          "text": "so",
+          "kind": "supplied"
+        },
+        {
+          "text": " the plague was stayed.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.106.31",
+      "edition_verse_id": "KJV1769:PSA.106.31",
+      "verse": 31,
+      "spans": [
+        {
+          "text": "And that was counted unto him for righteousness unto all generations for evermore.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.106.32",
+      "edition_verse_id": "KJV1769:PSA.106.32",
+      "verse": 32,
+      "spans": [
+        {
+          "text": "They angered ",
+          "kind": "text"
+        },
+        {
+          "text": "him",
+          "kind": "supplied"
+        },
+        {
+          "text": " also at the waters of strife, so that it went ill with Moses for their sakes:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.106.33",
+      "edition_verse_id": "KJV1769:PSA.106.33",
+      "verse": 33,
+      "spans": [
+        {
+          "text": "Because they provoked his spirit, so that he spake unadvisedly with his lips.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.106.34",
+      "edition_verse_id": "KJV1769:PSA.106.34",
+      "verse": 34,
+      "spans": [
+        {
+          "text": "They did not destroy the nations, concerning whom the LORD commanded them:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.106.35",
+      "edition_verse_id": "KJV1769:PSA.106.35",
+      "verse": 35,
+      "spans": [
+        {
+          "text": "But were mingled among the heathen, and learned their works.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.106.36",
+      "edition_verse_id": "KJV1769:PSA.106.36",
+      "verse": 36,
+      "spans": [
+        {
+          "text": "And they served their idols: which were a snare unto them.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.106.37",
+      "edition_verse_id": "KJV1769:PSA.106.37",
+      "verse": 37,
+      "spans": [
+        {
+          "text": "Yea, they sacrificed their sons and their daughters unto devils,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.106.38",
+      "edition_verse_id": "KJV1769:PSA.106.38",
+      "verse": 38,
+      "spans": [
+        {
+          "text": "And shed innocent blood, ",
+          "kind": "text"
+        },
+        {
+          "text": "even",
+          "kind": "supplied"
+        },
+        {
+          "text": " the blood of their sons and of their daughters, whom they sacrificed unto the idols of Canaan: and the land was polluted with blood.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.106.39",
+      "edition_verse_id": "KJV1769:PSA.106.39",
+      "verse": 39,
+      "spans": [
+        {
+          "text": "Thus were they defiled with their own works, and went a whoring with their own inventions.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.106.40",
+      "edition_verse_id": "KJV1769:PSA.106.40",
+      "verse": 40,
+      "spans": [
+        {
+          "text": "Therefore was the wrath of the LORD kindled against his people, insomuch that he abhorred his own inheritance.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.106.41",
+      "edition_verse_id": "KJV1769:PSA.106.41",
+      "verse": 41,
+      "spans": [
+        {
+          "text": "And he gave them into the hand of the heathen; and they that hated them ruled over them.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.106.42",
+      "edition_verse_id": "KJV1769:PSA.106.42",
+      "verse": 42,
+      "spans": [
+        {
+          "text": "Their enemies also oppressed them, and they were brought into subjection under their hand.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.106.43",
+      "edition_verse_id": "KJV1769:PSA.106.43",
+      "verse": 43,
+      "spans": [
+        {
+          "text": "Many times did he deliver them; but they provoked ",
+          "kind": "text"
+        },
+        {
+          "text": "him",
+          "kind": "supplied"
+        },
+        {
+          "text": " with their counsel, and were brought low for their iniquity.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.106.44",
+      "edition_verse_id": "KJV1769:PSA.106.44",
+      "verse": 44,
+      "spans": [
+        {
+          "text": "Nevertheless he regarded their affliction, when he heard their cry:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.106.45",
+      "edition_verse_id": "KJV1769:PSA.106.45",
+      "verse": 45,
+      "spans": [
+        {
+          "text": "And he remembered for them his covenant, and repented according to the multitude of his mercies.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.106.46",
+      "edition_verse_id": "KJV1769:PSA.106.46",
+      "verse": 46,
+      "spans": [
+        {
+          "text": "He made them also to be pitied of all those that carried them captives.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.106.47",
+      "edition_verse_id": "KJV1769:PSA.106.47",
+      "verse": 47,
+      "spans": [
+        {
+          "text": "Save us, O LORD our God, and gather us from among the heathen, to give thanks unto thy holy name, ",
+          "kind": "text"
+        },
+        {
+          "text": "and",
+          "kind": "supplied"
+        },
+        {
+          "text": " to triumph in thy praise.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.106.48",
+      "edition_verse_id": "KJV1769:PSA.106.48",
+      "verse": 48,
+      "spans": [
+        {
+          "text": "Blessed ",
+          "kind": "text"
+        },
+        {
+          "text": "be",
+          "kind": "supplied"
+        },
+        {
+          "text": " the LORD God of Israel from everlasting to everlasting: and let all the people say, Amen. Praise ye the LORD.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

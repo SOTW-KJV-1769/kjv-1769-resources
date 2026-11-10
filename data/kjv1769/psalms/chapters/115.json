@@ -1,0 +1,328 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "KJV1769",
+  "book_code": "PSA",
+  "chapter": 115,
+  "verses": [
+    {
+      "id": "PSA.115.1",
+      "edition_verse_id": "KJV1769:PSA.115.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "Not unto us, O LORD, not unto us, but unto thy name give glory, for thy mercy, ",
+          "kind": "text"
+        },
+        {
+          "text": "and",
+          "kind": "supplied"
+        },
+        {
+          "text": " for thy truth’s sake.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.115.2",
+      "edition_verse_id": "KJV1769:PSA.115.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "Wherefore should the heathen say, Where ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " now their God?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.115.3",
+      "edition_verse_id": "KJV1769:PSA.115.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "But our God ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " in the heavens: he hath done whatsoever he hath pleased.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.115.4",
+      "edition_verse_id": "KJV1769:PSA.115.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "Their idols ",
+          "kind": "text"
+        },
+        {
+          "text": "are",
+          "kind": "supplied"
+        },
+        {
+          "text": " silver and gold, the work of men’s hands.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.115.5",
+      "edition_verse_id": "KJV1769:PSA.115.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "They have mouths, but they speak not: eyes have they, but they see not:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.115.6",
+      "edition_verse_id": "KJV1769:PSA.115.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "They have ears, but they hear not: noses have they, but they smell not:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.115.7",
+      "edition_verse_id": "KJV1769:PSA.115.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "They have hands, but they handle not: feet have they, but they walk not: neither speak they through their throat.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.115.8",
+      "edition_verse_id": "KJV1769:PSA.115.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "They that make them are like unto them; ",
+          "kind": "text"
+        },
+        {
+          "text": "so is",
+          "kind": "supplied"
+        },
+        {
+          "text": " every one that trusteth in them.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.115.9",
+      "edition_verse_id": "KJV1769:PSA.115.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "O Israel, trust thou in the LORD: he ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " their help and their shield.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.115.10",
+      "edition_verse_id": "KJV1769:PSA.115.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "O house of Aaron, trust in the LORD: he ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " their help and their shield.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.115.11",
+      "edition_verse_id": "KJV1769:PSA.115.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "Ye that fear the LORD, trust in the LORD: he ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " their help and their shield.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.115.12",
+      "edition_verse_id": "KJV1769:PSA.115.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "The LORD hath been mindful of us: he will bless ",
+          "kind": "text"
+        },
+        {
+          "text": "us;",
+          "kind": "supplied"
+        },
+        {
+          "text": " he will bless the house of Israel; he will bless the house of Aaron.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.115.13",
+      "edition_verse_id": "KJV1769:PSA.115.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "He will bless them that fear the LORD, ",
+          "kind": "text"
+        },
+        {
+          "text": "both",
+          "kind": "supplied"
+        },
+        {
+          "text": " small and great.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.115.14",
+      "edition_verse_id": "KJV1769:PSA.115.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "The LORD shall increase you more and more, you and your children.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.115.15",
+      "edition_verse_id": "KJV1769:PSA.115.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "Ye ",
+          "kind": "text"
+        },
+        {
+          "text": "are",
+          "kind": "supplied"
+        },
+        {
+          "text": " blessed of the LORD which made heaven and earth.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.115.16",
+      "edition_verse_id": "KJV1769:PSA.115.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "The heaven, ",
+          "kind": "text"
+        },
+        {
+          "text": "even",
+          "kind": "supplied"
+        },
+        {
+          "text": " the heavens, ",
+          "kind": "text"
+        },
+        {
+          "text": "are",
+          "kind": "supplied"
+        },
+        {
+          "text": " the LORD’s: but the earth hath he given to the children of men.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.115.17",
+      "edition_verse_id": "KJV1769:PSA.115.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "The dead praise not the LORD, neither any that go down into silence.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.115.18",
+      "edition_verse_id": "KJV1769:PSA.115.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "But we will bless the LORD from this time forth and for evermore. Praise the LORD.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

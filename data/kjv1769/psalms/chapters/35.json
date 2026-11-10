@@ -1,0 +1,532 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "KJV1769",
+  "book_code": "PSA",
+  "chapter": 35,
+  "verses": [
+    {
+      "id": "PSA.35.1",
+      "edition_verse_id": "KJV1769:PSA.35.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "Plead ",
+          "kind": "text"
+        },
+        {
+          "text": "my cause",
+          "kind": "supplied"
+        },
+        {
+          "text": ", O LORD, with them that strive with me: fight against them that fight against me.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.35.2",
+      "edition_verse_id": "KJV1769:PSA.35.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "Take hold of shield and buckler, and stand up for mine help.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.35.3",
+      "edition_verse_id": "KJV1769:PSA.35.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "Draw out also the spear, and stop ",
+          "kind": "text"
+        },
+        {
+          "text": "the way",
+          "kind": "supplied"
+        },
+        {
+          "text": " against them that persecute me: say unto my soul, I ",
+          "kind": "text"
+        },
+        {
+          "text": "am",
+          "kind": "supplied"
+        },
+        {
+          "text": " thy salvation.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.35.4",
+      "edition_verse_id": "KJV1769:PSA.35.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "Let them be confounded and put to shame that seek after my soul: let them be turned back and brought to confusion that devise my hurt.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.35.5",
+      "edition_verse_id": "KJV1769:PSA.35.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "Let them be as chaff before the wind: and let the angel of the LORD chase ",
+          "kind": "text"
+        },
+        {
+          "text": "them",
+          "kind": "supplied"
+        },
+        {
+          "text": ".",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.35.6",
+      "edition_verse_id": "KJV1769:PSA.35.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "Let their way be dark and slippery: and let the angel of the LORD persecute them.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.35.7",
+      "edition_verse_id": "KJV1769:PSA.35.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "For without cause have they hid for me their net ",
+          "kind": "text"
+        },
+        {
+          "text": "in",
+          "kind": "supplied"
+        },
+        {
+          "text": " a pit, ",
+          "kind": "text"
+        },
+        {
+          "text": "which",
+          "kind": "supplied"
+        },
+        {
+          "text": " without cause they have digged for my soul.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.35.8",
+      "edition_verse_id": "KJV1769:PSA.35.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "Let destruction come upon him at unawares; and let his net that he hath hid catch himself: into that very destruction let him fall.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.35.9",
+      "edition_verse_id": "KJV1769:PSA.35.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "And my soul shall be joyful in the LORD: it shall rejoice in his salvation.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.35.10",
+      "edition_verse_id": "KJV1769:PSA.35.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "All my bones shall say, LORD, who ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " like unto thee, which deliverest the poor from him that is too strong for him, yea, the poor and the needy from him that spoileth him?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.35.11",
+      "edition_verse_id": "KJV1769:PSA.35.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "False witnesses did rise up; they laid to my charge ",
+          "kind": "text"
+        },
+        {
+          "text": "things",
+          "kind": "supplied"
+        },
+        {
+          "text": " that I knew not.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.35.12",
+      "edition_verse_id": "KJV1769:PSA.35.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "They rewarded me evil for good ",
+          "kind": "text"
+        },
+        {
+          "text": "to",
+          "kind": "supplied"
+        },
+        {
+          "text": " the spoiling of my soul.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.35.13",
+      "edition_verse_id": "KJV1769:PSA.35.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "But as for me, when they were sick, my clothing ",
+          "kind": "text"
+        },
+        {
+          "text": "was",
+          "kind": "supplied"
+        },
+        {
+          "text": " sackcloth: I humbled my soul with fasting; and my prayer returned into mine own bosom.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.35.14",
+      "edition_verse_id": "KJV1769:PSA.35.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "I behaved myself as though ",
+          "kind": "text"
+        },
+        {
+          "text": "he had been",
+          "kind": "supplied"
+        },
+        {
+          "text": " my friend ",
+          "kind": "text"
+        },
+        {
+          "text": "or",
+          "kind": "supplied"
+        },
+        {
+          "text": " brother: I bowed down heavily, as one that mourneth ",
+          "kind": "text"
+        },
+        {
+          "text": "for his",
+          "kind": "supplied"
+        },
+        {
+          "text": " mother.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.35.15",
+      "edition_verse_id": "KJV1769:PSA.35.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "But in mine adversity they rejoiced, and gathered themselves together: ",
+          "kind": "text"
+        },
+        {
+          "text": "yea",
+          "kind": "supplied"
+        },
+        {
+          "text": ", the abjects gathered themselves together against me, and I knew ",
+          "kind": "text"
+        },
+        {
+          "text": "it",
+          "kind": "supplied"
+        },
+        {
+          "text": " not; they did tear ",
+          "kind": "text"
+        },
+        {
+          "text": "me",
+          "kind": "supplied"
+        },
+        {
+          "text": ", and ceased not:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.35.16",
+      "edition_verse_id": "KJV1769:PSA.35.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "With hypocritical mockers in feasts, they gnashed upon me with their teeth.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.35.17",
+      "edition_verse_id": "KJV1769:PSA.35.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "Lord, how long wilt thou look on? rescue my soul from their destructions, my darling from the lions.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.35.18",
+      "edition_verse_id": "KJV1769:PSA.35.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "I will give thee thanks in the great congregation: I will praise thee among much people.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.35.19",
+      "edition_verse_id": "KJV1769:PSA.35.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "Let not them that are mine enemies wrongfully rejoice over me: ",
+          "kind": "text"
+        },
+        {
+          "text": "neither",
+          "kind": "supplied"
+        },
+        {
+          "text": " let them wink with the eye that hate me without a cause.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.35.20",
+      "edition_verse_id": "KJV1769:PSA.35.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "For they speak not peace: but they devise deceitful matters against ",
+          "kind": "text"
+        },
+        {
+          "text": "them that are",
+          "kind": "supplied"
+        },
+        {
+          "text": " quiet in the land.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.35.21",
+      "edition_verse_id": "KJV1769:PSA.35.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "Yea, they opened their mouth wide against me, ",
+          "kind": "text"
+        },
+        {
+          "text": "and",
+          "kind": "supplied"
+        },
+        {
+          "text": " said, Aha, aha, our eye hath seen ",
+          "kind": "text"
+        },
+        {
+          "text": "it",
+          "kind": "supplied"
+        },
+        {
+          "text": ".",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.35.22",
+      "edition_verse_id": "KJV1769:PSA.35.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "This",
+          "kind": "supplied"
+        },
+        {
+          "text": " thou hast seen, O LORD: keep not silence: O Lord, be not far from me.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.35.23",
+      "edition_verse_id": "KJV1769:PSA.35.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "Stir up thyself, and awake to my judgment, ",
+          "kind": "text"
+        },
+        {
+          "text": "even",
+          "kind": "supplied"
+        },
+        {
+          "text": " unto my cause, my God and my Lord.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.35.24",
+      "edition_verse_id": "KJV1769:PSA.35.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "Judge me, O LORD my God, according to thy righteousness; and let them not rejoice over me.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.35.25",
+      "edition_verse_id": "KJV1769:PSA.35.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "Let them not say in their hearts, Ah, so would we have it: let them not say, We have swallowed him up.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.35.26",
+      "edition_verse_id": "KJV1769:PSA.35.26",
+      "verse": 26,
+      "spans": [
+        {
+          "text": "Let them be ashamed and brought to confusion together that rejoice at mine hurt: let them be clothed with shame and dishonour that magnify ",
+          "kind": "text"
+        },
+        {
+          "text": "themselves",
+          "kind": "supplied"
+        },
+        {
+          "text": " against me.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.35.27",
+      "edition_verse_id": "KJV1769:PSA.35.27",
+      "verse": 27,
+      "spans": [
+        {
+          "text": "Let them shout for joy, and be glad, that favour my righteous cause: yea, let them say continually, Let the LORD be magnified, which hath pleasure in the prosperity of his servant.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.35.28",
+      "edition_verse_id": "KJV1769:PSA.35.28",
+      "verse": 28,
+      "spans": [
+        {
+          "text": "And my tongue shall speak of thy righteousness ",
+          "kind": "text"
+        },
+        {
+          "text": "and",
+          "kind": "supplied"
+        },
+        {
+          "text": " of thy praise all the day long.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

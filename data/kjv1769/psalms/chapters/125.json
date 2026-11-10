@@ -1,0 +1,140 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "KJV1769",
+  "book_code": "PSA",
+  "chapter": 125,
+  "verses": [
+    {
+      "id": "PSA.125.1",
+      "edition_verse_id": "KJV1769:PSA.125.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "They that trust in the LORD ",
+          "kind": "text"
+        },
+        {
+          "text": "shall be",
+          "kind": "supplied"
+        },
+        {
+          "text": " as mount Zion, ",
+          "kind": "text"
+        },
+        {
+          "text": "which",
+          "kind": "supplied"
+        },
+        {
+          "text": " cannot be removed, ",
+          "kind": "text"
+        },
+        {
+          "text": "but",
+          "kind": "supplied"
+        },
+        {
+          "text": " abideth for ever.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.125.2",
+      "edition_verse_id": "KJV1769:PSA.125.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "As the mountains ",
+          "kind": "text"
+        },
+        {
+          "text": "are",
+          "kind": "supplied"
+        },
+        {
+          "text": " round about Jerusalem, so the LORD ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " round about his people from henceforth even for ever.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.125.3",
+      "edition_verse_id": "KJV1769:PSA.125.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "For the rod of the wicked shall not rest upon the lot of the righteous; lest the righteous put forth their hands unto iniquity.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.125.4",
+      "edition_verse_id": "KJV1769:PSA.125.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "Do good, O LORD, unto ",
+          "kind": "text"
+        },
+        {
+          "text": "those that be",
+          "kind": "supplied"
+        },
+        {
+          "text": " good, and ",
+          "kind": "text"
+        },
+        {
+          "text": "to them that are",
+          "kind": "supplied"
+        },
+        {
+          "text": " upright in their hearts.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.125.5",
+      "edition_verse_id": "KJV1769:PSA.125.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "As for such as turn aside unto their crooked ways, the LORD shall lead them forth with the workers of iniquity: ",
+          "kind": "text"
+        },
+        {
+          "text": "but",
+          "kind": "supplied"
+        },
+        {
+          "text": " peace ",
+          "kind": "text"
+        },
+        {
+          "text": "shall be",
+          "kind": "supplied"
+        },
+        {
+          "text": " upon Israel.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

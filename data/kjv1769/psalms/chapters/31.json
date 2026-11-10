@@ -1,0 +1,388 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "KJV1769",
+  "book_code": "PSA",
+  "chapter": 31,
+  "verses": [
+    {
+      "id": "PSA.31.1",
+      "edition_verse_id": "KJV1769:PSA.31.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "In thee, O LORD, do I put my trust; let me never be ashamed: deliver me in thy righteousness.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.31.2",
+      "edition_verse_id": "KJV1769:PSA.31.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "Bow down thine ear to me; deliver me speedily: be thou my strong rock, for an house of defence to save me.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.31.3",
+      "edition_verse_id": "KJV1769:PSA.31.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "For thou ",
+          "kind": "text"
+        },
+        {
+          "text": "art",
+          "kind": "supplied"
+        },
+        {
+          "text": " my rock and my fortress; therefore for thy name’s sake lead me, and guide me.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.31.4",
+      "edition_verse_id": "KJV1769:PSA.31.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "Pull me out of the net that they have laid privily for me: for thou ",
+          "kind": "text"
+        },
+        {
+          "text": "art",
+          "kind": "supplied"
+        },
+        {
+          "text": " my strength.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.31.5",
+      "edition_verse_id": "KJV1769:PSA.31.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "Into thine hand I commit my spirit: thou hast redeemed me, O LORD God of truth.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.31.6",
+      "edition_verse_id": "KJV1769:PSA.31.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "I have hated them that regard lying vanities: but I trust in the LORD.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.31.7",
+      "edition_verse_id": "KJV1769:PSA.31.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "I will be glad and rejoice in thy mercy: for thou hast considered my trouble; thou hast known my soul in adversities;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.31.8",
+      "edition_verse_id": "KJV1769:PSA.31.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "And hast not shut me up into the hand of the enemy: thou hast set my feet in a large room.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.31.9",
+      "edition_verse_id": "KJV1769:PSA.31.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "Have mercy upon me, O LORD, for I am in trouble: mine eye is consumed with grief, ",
+          "kind": "text"
+        },
+        {
+          "text": "yea",
+          "kind": "supplied"
+        },
+        {
+          "text": ", my soul and my belly.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.31.10",
+      "edition_verse_id": "KJV1769:PSA.31.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "For my life is spent with grief, and my years with sighing: my strength faileth because of mine iniquity, and my bones are consumed.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.31.11",
+      "edition_verse_id": "KJV1769:PSA.31.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "I was a reproach among all mine enemies, but especially among my neighbours, and a fear to mine acquaintance: they that did see me without fled from me.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.31.12",
+      "edition_verse_id": "KJV1769:PSA.31.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "I am forgotten as a dead man out of mind: I am like a broken vessel.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.31.13",
+      "edition_verse_id": "KJV1769:PSA.31.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "For I have heard the slander of many: fear ",
+          "kind": "text"
+        },
+        {
+          "text": "was",
+          "kind": "supplied"
+        },
+        {
+          "text": " on every side: while they took counsel together against me, they devised to take away my life.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.31.14",
+      "edition_verse_id": "KJV1769:PSA.31.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "But I trusted in thee, O LORD: I said, Thou ",
+          "kind": "text"
+        },
+        {
+          "text": "art",
+          "kind": "supplied"
+        },
+        {
+          "text": " my God.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.31.15",
+      "edition_verse_id": "KJV1769:PSA.31.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "My times ",
+          "kind": "text"
+        },
+        {
+          "text": "are",
+          "kind": "supplied"
+        },
+        {
+          "text": " in thy hand: deliver me from the hand of mine enemies, and from them that persecute me.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.31.16",
+      "edition_verse_id": "KJV1769:PSA.31.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "Make thy face to shine upon thy servant: save me for thy mercies’ sake.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.31.17",
+      "edition_verse_id": "KJV1769:PSA.31.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "Let me not be ashamed, O LORD; for I have called upon thee: let the wicked be ashamed, ",
+          "kind": "text"
+        },
+        {
+          "text": "and",
+          "kind": "supplied"
+        },
+        {
+          "text": " let them be silent in the grave.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.31.18",
+      "edition_verse_id": "KJV1769:PSA.31.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "Let the lying lips be put to silence; which speak grievous things proudly and contemptuously against the righteous.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.31.19",
+      "edition_verse_id": "KJV1769:PSA.31.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "Oh",
+          "kind": "supplied"
+        },
+        {
+          "text": " how great ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " thy goodness, which thou hast laid up for them that fear thee; ",
+          "kind": "text"
+        },
+        {
+          "text": "which",
+          "kind": "supplied"
+        },
+        {
+          "text": " thou hast wrought for them that trust in thee before the sons of men!",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.31.20",
+      "edition_verse_id": "KJV1769:PSA.31.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "Thou shalt hide them in the secret of thy presence from the pride of man: thou shalt keep them secretly in a pavilion from the strife of tongues.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.31.21",
+      "edition_verse_id": "KJV1769:PSA.31.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "Blessed ",
+          "kind": "text"
+        },
+        {
+          "text": "be",
+          "kind": "supplied"
+        },
+        {
+          "text": " the LORD: for he hath shewed me his marvellous kindness in a strong city.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.31.22",
+      "edition_verse_id": "KJV1769:PSA.31.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "For I said in my haste, I am cut off from before thine eyes: nevertheless thou heardest the voice of my supplications when I cried unto thee.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.31.23",
+      "edition_verse_id": "KJV1769:PSA.31.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "O love the LORD, all ye his saints: ",
+          "kind": "text"
+        },
+        {
+          "text": "for",
+          "kind": "supplied"
+        },
+        {
+          "text": " the LORD preserveth the faithful, and plentifully rewardeth the proud doer.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.31.24",
+      "edition_verse_id": "KJV1769:PSA.31.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "Be of good courage, and he shall strengthen your heart, all ye that hope in the LORD.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

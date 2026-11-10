@@ -1,0 +1,316 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "KJV1769",
+  "book_code": "PSA",
+  "chapter": 19,
+  "verses": [
+    {
+      "id": "PSA.19.1",
+      "edition_verse_id": "KJV1769:PSA.19.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "The heavens declare the glory of God; and the firmament sheweth his handywork.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.19.2",
+      "edition_verse_id": "KJV1769:PSA.19.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "Day unto day uttereth speech, and night unto night sheweth knowledge.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.19.3",
+      "edition_verse_id": "KJV1769:PSA.19.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "There is",
+          "kind": "supplied"
+        },
+        {
+          "text": " no speech nor language, ",
+          "kind": "text"
+        },
+        {
+          "text": "where",
+          "kind": "supplied"
+        },
+        {
+          "text": " their voice is not heard.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.19.4",
+      "edition_verse_id": "KJV1769:PSA.19.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "Their line is gone out through all the earth, and their words to the end of the world. In them hath he set a tabernacle for the sun,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.19.5",
+      "edition_verse_id": "KJV1769:PSA.19.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "Which ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " as a bridegroom coming out of his chamber, ",
+          "kind": "text"
+        },
+        {
+          "text": "and",
+          "kind": "supplied"
+        },
+        {
+          "text": " rejoiceth as a strong man to run a race.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.19.6",
+      "edition_verse_id": "KJV1769:PSA.19.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "His going forth ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " from the end of the heaven, and his circuit unto the ends of it: and there is nothing hid from the heat thereof.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.19.7",
+      "edition_verse_id": "KJV1769:PSA.19.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "The law of the LORD ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " perfect, converting the soul: the testimony of the LORD ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " sure, making wise the simple.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.19.8",
+      "edition_verse_id": "KJV1769:PSA.19.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "The statutes of the LORD ",
+          "kind": "text"
+        },
+        {
+          "text": "are",
+          "kind": "supplied"
+        },
+        {
+          "text": " right, rejoicing the heart: the commandment of the LORD ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " pure, enlightening the eyes.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.19.9",
+      "edition_verse_id": "KJV1769:PSA.19.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "The fear of the LORD ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " clean, enduring for ever: the judgments of the LORD ",
+          "kind": "text"
+        },
+        {
+          "text": "are",
+          "kind": "supplied"
+        },
+        {
+          "text": " true ",
+          "kind": "text"
+        },
+        {
+          "text": "and",
+          "kind": "supplied"
+        },
+        {
+          "text": " righteous altogether.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.19.10",
+      "edition_verse_id": "KJV1769:PSA.19.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "More to be desired ",
+          "kind": "text"
+        },
+        {
+          "text": "are they",
+          "kind": "supplied"
+        },
+        {
+          "text": " than gold, yea, than much fine gold: sweeter also than honey and the honeycomb.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.19.11",
+      "edition_verse_id": "KJV1769:PSA.19.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "Moreover by them is thy servant warned: ",
+          "kind": "text"
+        },
+        {
+          "text": "and",
+          "kind": "supplied"
+        },
+        {
+          "text": " in keeping of them ",
+          "kind": "text"
+        },
+        {
+          "text": "there is",
+          "kind": "supplied"
+        },
+        {
+          "text": " great reward.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.19.12",
+      "edition_verse_id": "KJV1769:PSA.19.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "Who can understand ",
+          "kind": "text"
+        },
+        {
+          "text": "his",
+          "kind": "supplied"
+        },
+        {
+          "text": " errors? cleanse thou me from secret ",
+          "kind": "text"
+        },
+        {
+          "text": "faults",
+          "kind": "supplied"
+        },
+        {
+          "text": ".",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.19.13",
+      "edition_verse_id": "KJV1769:PSA.19.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "Keep back thy servant also from presumptuous ",
+          "kind": "text"
+        },
+        {
+          "text": "sins;",
+          "kind": "supplied"
+        },
+        {
+          "text": " let them not have dominion over me: then shall I be upright, and I shall be innocent from the great transgression.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.19.14",
+      "edition_verse_id": "KJV1769:PSA.19.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "Let the words of my mouth, and the meditation of my heart, be acceptable in thy sight, O LORD, my strength, and my redeemer.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

@@ -1,0 +1,320 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "KJV1769",
+  "book_code": "PSA",
+  "chapter": 51,
+  "verses": [
+    {
+      "id": "PSA.51.1",
+      "edition_verse_id": "KJV1769:PSA.51.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "Have mercy upon me, O God, according to thy lovingkindness: according unto the multitude of thy tender mercies blot out my transgressions.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.51.2",
+      "edition_verse_id": "KJV1769:PSA.51.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "Wash me throughly from mine iniquity, and cleanse me from my sin.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.51.3",
+      "edition_verse_id": "KJV1769:PSA.51.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "For I acknowledge my transgressions: and my sin ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " ever before me.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.51.4",
+      "edition_verse_id": "KJV1769:PSA.51.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "Against thee, thee only, have I sinned, and done ",
+          "kind": "text"
+        },
+        {
+          "text": "this",
+          "kind": "supplied"
+        },
+        {
+          "text": " evil in thy sight: that thou mightest be justified when thou speakest, ",
+          "kind": "text"
+        },
+        {
+          "text": "and",
+          "kind": "supplied"
+        },
+        {
+          "text": " be clear when thou judgest.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.51.5",
+      "edition_verse_id": "KJV1769:PSA.51.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "Behold, I was shapen in iniquity; and in sin did my mother conceive me.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.51.6",
+      "edition_verse_id": "KJV1769:PSA.51.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "Behold, thou desirest truth in the inward parts: and in the hidden ",
+          "kind": "text"
+        },
+        {
+          "text": "part",
+          "kind": "supplied"
+        },
+        {
+          "text": " thou shalt make me to know wisdom.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.51.7",
+      "edition_verse_id": "KJV1769:PSA.51.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "Purge me with hyssop, and I shall be clean: wash me, and I shall be whiter than snow.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.51.8",
+      "edition_verse_id": "KJV1769:PSA.51.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "Make me to hear joy and gladness; ",
+          "kind": "text"
+        },
+        {
+          "text": "that",
+          "kind": "supplied"
+        },
+        {
+          "text": " the bones ",
+          "kind": "text"
+        },
+        {
+          "text": "which",
+          "kind": "supplied"
+        },
+        {
+          "text": " thou hast broken may rejoice.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.51.9",
+      "edition_verse_id": "KJV1769:PSA.51.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "Hide thy face from my sins, and blot out all mine iniquities.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.51.10",
+      "edition_verse_id": "KJV1769:PSA.51.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "Create in me a clean heart, O God; and renew a right spirit within me.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.51.11",
+      "edition_verse_id": "KJV1769:PSA.51.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "Cast me not away from thy presence; and take not thy holy spirit from me.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.51.12",
+      "edition_verse_id": "KJV1769:PSA.51.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "Restore unto me the joy of thy salvation; and uphold me ",
+          "kind": "text"
+        },
+        {
+          "text": "with thy",
+          "kind": "supplied"
+        },
+        {
+          "text": " free spirit.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.51.13",
+      "edition_verse_id": "KJV1769:PSA.51.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "Then",
+          "kind": "supplied"
+        },
+        {
+          "text": " will I teach transgressors thy ways; and sinners shall be converted unto thee.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.51.14",
+      "edition_verse_id": "KJV1769:PSA.51.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "Deliver me from bloodguiltiness, O God, thou God of my salvation: ",
+          "kind": "text"
+        },
+        {
+          "text": "and",
+          "kind": "supplied"
+        },
+        {
+          "text": " my tongue shall sing aloud of thy righteousness.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.51.15",
+      "edition_verse_id": "KJV1769:PSA.51.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "O Lord, open thou my lips; and my mouth shall shew forth thy praise.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.51.16",
+      "edition_verse_id": "KJV1769:PSA.51.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "For thou desirest not sacrifice; else would I give ",
+          "kind": "text"
+        },
+        {
+          "text": "it:",
+          "kind": "supplied"
+        },
+        {
+          "text": " thou delightest not in burnt offering.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.51.17",
+      "edition_verse_id": "KJV1769:PSA.51.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "The sacrifices of God ",
+          "kind": "text"
+        },
+        {
+          "text": "are",
+          "kind": "supplied"
+        },
+        {
+          "text": " a broken spirit: a broken and a contrite heart, O God, thou wilt not despise.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.51.18",
+      "edition_verse_id": "KJV1769:PSA.51.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "Do good in thy good pleasure unto Zion: build thou the walls of Jerusalem.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.51.19",
+      "edition_verse_id": "KJV1769:PSA.51.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "Then shalt thou be pleased with the sacrifices of righteousness, with burnt offering and whole burnt offering: then shall they offer bullocks upon thine altar.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

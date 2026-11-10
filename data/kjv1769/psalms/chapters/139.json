@@ -1,0 +1,476 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "KJV1769",
+  "book_code": "PSA",
+  "chapter": 139,
+  "verses": [
+    {
+      "id": "PSA.139.1",
+      "edition_verse_id": "KJV1769:PSA.139.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "O LORD, thou hast searched me, and known ",
+          "kind": "text"
+        },
+        {
+          "text": "me",
+          "kind": "supplied"
+        },
+        {
+          "text": ".",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.139.2",
+      "edition_verse_id": "KJV1769:PSA.139.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "Thou knowest my downsitting and mine uprising, thou understandest my thought afar off.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.139.3",
+      "edition_verse_id": "KJV1769:PSA.139.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "Thou compassest my path and my lying down, and art acquainted ",
+          "kind": "text"
+        },
+        {
+          "text": "with",
+          "kind": "supplied"
+        },
+        {
+          "text": " all my ways.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.139.4",
+      "edition_verse_id": "KJV1769:PSA.139.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "For ",
+          "kind": "text"
+        },
+        {
+          "text": "there is",
+          "kind": "supplied"
+        },
+        {
+          "text": " not a word in my tongue, ",
+          "kind": "text"
+        },
+        {
+          "text": "but",
+          "kind": "supplied"
+        },
+        {
+          "text": ", lo, O LORD, thou knowest it altogether.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.139.5",
+      "edition_verse_id": "KJV1769:PSA.139.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "Thou hast beset me behind and before, and laid thine hand upon me.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.139.6",
+      "edition_verse_id": "KJV1769:PSA.139.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "Such",
+          "kind": "supplied"
+        },
+        {
+          "text": " knowledge ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " too wonderful for me; it is high, I cannot ",
+          "kind": "text"
+        },
+        {
+          "text": "attain",
+          "kind": "supplied"
+        },
+        {
+          "text": " unto it.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.139.7",
+      "edition_verse_id": "KJV1769:PSA.139.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "Whither shall I go from thy spirit? or whither shall I flee from thy presence?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.139.8",
+      "edition_verse_id": "KJV1769:PSA.139.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "If I ascend up into heaven, thou ",
+          "kind": "text"
+        },
+        {
+          "text": "art",
+          "kind": "supplied"
+        },
+        {
+          "text": " there: if I make my bed in hell, behold, thou ",
+          "kind": "text"
+        },
+        {
+          "text": "art there",
+          "kind": "supplied"
+        },
+        {
+          "text": ".",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.139.9",
+      "edition_verse_id": "KJV1769:PSA.139.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "If",
+          "kind": "supplied"
+        },
+        {
+          "text": " I take the wings of the morning, ",
+          "kind": "text"
+        },
+        {
+          "text": "and",
+          "kind": "supplied"
+        },
+        {
+          "text": " dwell in the uttermost parts of the sea;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.139.10",
+      "edition_verse_id": "KJV1769:PSA.139.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "Even there shall thy hand lead me, and thy right hand shall hold me.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.139.11",
+      "edition_verse_id": "KJV1769:PSA.139.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "If I say, Surely the darkness shall cover me; even the night shall be light about me.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.139.12",
+      "edition_verse_id": "KJV1769:PSA.139.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "Yea, the darkness hideth not from thee; but the night shineth as the day: the darkness and the light ",
+          "kind": "text"
+        },
+        {
+          "text": "are",
+          "kind": "supplied"
+        },
+        {
+          "text": " both alike ",
+          "kind": "text"
+        },
+        {
+          "text": "to thee",
+          "kind": "supplied"
+        },
+        {
+          "text": ".",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.139.13",
+      "edition_verse_id": "KJV1769:PSA.139.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "For thou hast possessed my reins: thou hast covered me in my mother’s womb.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.139.14",
+      "edition_verse_id": "KJV1769:PSA.139.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "I will praise thee; for I am fearfully ",
+          "kind": "text"
+        },
+        {
+          "text": "and",
+          "kind": "supplied"
+        },
+        {
+          "text": " wonderfully made: marvellous ",
+          "kind": "text"
+        },
+        {
+          "text": "are",
+          "kind": "supplied"
+        },
+        {
+          "text": " thy works; and ",
+          "kind": "text"
+        },
+        {
+          "text": "that",
+          "kind": "supplied"
+        },
+        {
+          "text": " my soul knoweth right well.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.139.15",
+      "edition_verse_id": "KJV1769:PSA.139.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "My substance was not hid from thee, when I was made in secret, ",
+          "kind": "text"
+        },
+        {
+          "text": "and",
+          "kind": "supplied"
+        },
+        {
+          "text": " curiously wrought in the lowest parts of the earth.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.139.16",
+      "edition_verse_id": "KJV1769:PSA.139.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "Thine eyes did see my substance, yet being unperfect; and in thy book all ",
+          "kind": "text"
+        },
+        {
+          "text": "my members",
+          "kind": "supplied"
+        },
+        {
+          "text": " were written, ",
+          "kind": "text"
+        },
+        {
+          "text": "which",
+          "kind": "supplied"
+        },
+        {
+          "text": " in continuance were fashioned, when ",
+          "kind": "text"
+        },
+        {
+          "text": "as yet there was",
+          "kind": "supplied"
+        },
+        {
+          "text": " none of them.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.139.17",
+      "edition_verse_id": "KJV1769:PSA.139.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "How precious also are thy thoughts unto me, O God! how great is the sum of them!",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.139.18",
+      "edition_verse_id": "KJV1769:PSA.139.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "If",
+          "kind": "supplied"
+        },
+        {
+          "text": " I should count them, they are more in number than the sand: when I awake, I am still with thee.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.139.19",
+      "edition_verse_id": "KJV1769:PSA.139.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "Surely thou wilt slay the wicked, O God: depart from me therefore, ye bloody men.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.139.20",
+      "edition_verse_id": "KJV1769:PSA.139.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "For they speak against thee wickedly, ",
+          "kind": "text"
+        },
+        {
+          "text": "and",
+          "kind": "supplied"
+        },
+        {
+          "text": " thine enemies take ",
+          "kind": "text"
+        },
+        {
+          "text": "thy name",
+          "kind": "supplied"
+        },
+        {
+          "text": " in vain.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.139.21",
+      "edition_verse_id": "KJV1769:PSA.139.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "Do not I hate them, O LORD, that hate thee? and am not I grieved with those that rise up against thee?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.139.22",
+      "edition_verse_id": "KJV1769:PSA.139.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "I hate them with perfect hatred: I count them mine enemies.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.139.23",
+      "edition_verse_id": "KJV1769:PSA.139.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "Search me, O God, and know my heart: try me, and know my thoughts:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.139.24",
+      "edition_verse_id": "KJV1769:PSA.139.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "And see if ",
+          "kind": "text"
+        },
+        {
+          "text": "there be any",
+          "kind": "supplied"
+        },
+        {
+          "text": " wicked way in me, and lead me in the way everlasting.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "KJV1769",
+  "book_code": "PSA",
+  "chapter": 150,
+  "verses": [
+    {
+      "id": "PSA.150.1",
+      "edition_verse_id": "KJV1769:PSA.150.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "Praise ye the LORD. Praise God in his sanctuary: praise him in the firmament of his power.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.150.2",
+      "edition_verse_id": "KJV1769:PSA.150.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "Praise him for his mighty acts: praise him according to his excellent greatness.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.150.3",
+      "edition_verse_id": "KJV1769:PSA.150.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "Praise him with the sound of the trumpet: praise him with the psaltery and harp.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.150.4",
+      "edition_verse_id": "KJV1769:PSA.150.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "Praise him with the timbrel and dance: praise him with stringed instruments and organs.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.150.5",
+      "edition_verse_id": "KJV1769:PSA.150.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "Praise him upon the loud cymbals: praise him upon the high sounding cymbals.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.150.6",
+      "edition_verse_id": "KJV1769:PSA.150.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "Let every thing that hath breath praise the LORD. Praise ye the LORD.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

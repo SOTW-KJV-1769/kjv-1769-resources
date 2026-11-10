@@ -1,0 +1,788 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "KJV1769",
+  "book_code": "PSA",
+  "chapter": 18,
+  "verses": [
+    {
+      "id": "PSA.18.1",
+      "edition_verse_id": "KJV1769:PSA.18.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "I will love thee, O LORD, my strength.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.18.2",
+      "edition_verse_id": "KJV1769:PSA.18.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "The LORD ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " my rock, and my fortress, and my deliverer; my God, my strength, in whom I will trust; my buckler, and the horn of my salvation, ",
+          "kind": "text"
+        },
+        {
+          "text": "and",
+          "kind": "supplied"
+        },
+        {
+          "text": " my high tower.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.18.3",
+      "edition_verse_id": "KJV1769:PSA.18.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "I will call upon the LORD, ",
+          "kind": "text"
+        },
+        {
+          "text": "who is worthy",
+          "kind": "supplied"
+        },
+        {
+          "text": " to be praised: so shall I be saved from mine enemies.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.18.4",
+      "edition_verse_id": "KJV1769:PSA.18.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "The sorrows of death compassed me, and the floods of ungodly men made me afraid.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.18.5",
+      "edition_verse_id": "KJV1769:PSA.18.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "The sorrows of hell compassed me about: the snares of death prevented me.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.18.6",
+      "edition_verse_id": "KJV1769:PSA.18.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "In my distress I called upon the LORD, and cried unto my God: he heard my voice out of his temple, and my cry came before him, ",
+          "kind": "text"
+        },
+        {
+          "text": "even",
+          "kind": "supplied"
+        },
+        {
+          "text": " into his ears.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.18.7",
+      "edition_verse_id": "KJV1769:PSA.18.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "Then the earth shook and trembled; the foundations also of the hills moved and were shaken, because he was wroth.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.18.8",
+      "edition_verse_id": "KJV1769:PSA.18.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "There went up a smoke out of his nostrils, and fire out of his mouth devoured: coals were kindled by it.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.18.9",
+      "edition_verse_id": "KJV1769:PSA.18.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "He bowed the heavens also, and came down: and darkness ",
+          "kind": "text"
+        },
+        {
+          "text": "was",
+          "kind": "supplied"
+        },
+        {
+          "text": " under his feet.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.18.10",
+      "edition_verse_id": "KJV1769:PSA.18.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "And he rode upon a cherub, and did fly: yea, he did fly upon the wings of the wind.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.18.11",
+      "edition_verse_id": "KJV1769:PSA.18.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "He made darkness his secret place; his pavilion round about him ",
+          "kind": "text"
+        },
+        {
+          "text": "were",
+          "kind": "supplied"
+        },
+        {
+          "text": " dark waters ",
+          "kind": "text"
+        },
+        {
+          "text": "and",
+          "kind": "supplied"
+        },
+        {
+          "text": " thick clouds of the skies.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.18.12",
+      "edition_verse_id": "KJV1769:PSA.18.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "At the brightness ",
+          "kind": "text"
+        },
+        {
+          "text": "that was",
+          "kind": "supplied"
+        },
+        {
+          "text": " before him his thick clouds passed, hail ",
+          "kind": "text"
+        },
+        {
+          "text": "stones",
+          "kind": "supplied"
+        },
+        {
+          "text": " and coals of fire.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.18.13",
+      "edition_verse_id": "KJV1769:PSA.18.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "The LORD also thundered in the heavens, and the Highest gave his voice; hail ",
+          "kind": "text"
+        },
+        {
+          "text": "stones",
+          "kind": "supplied"
+        },
+        {
+          "text": " and coals of fire.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.18.14",
+      "edition_verse_id": "KJV1769:PSA.18.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "Yea, he sent out his arrows, and scattered them; and he shot out lightnings, and discomfited them.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.18.15",
+      "edition_verse_id": "KJV1769:PSA.18.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "Then the channels of waters were seen, and the foundations of the world were discovered at thy rebuke, O LORD, at the blast of the breath of thy nostrils.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.18.16",
+      "edition_verse_id": "KJV1769:PSA.18.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "He sent from above, he took me, he drew me out of many waters.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.18.17",
+      "edition_verse_id": "KJV1769:PSA.18.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "He delivered me from my strong enemy, and from them which hated me: for they were too strong for me.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.18.18",
+      "edition_verse_id": "KJV1769:PSA.18.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "They prevented me in the day of my calamity: but the LORD was my stay.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.18.19",
+      "edition_verse_id": "KJV1769:PSA.18.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "He brought me forth also into a large place; he delivered me, because he delighted in me.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.18.20",
+      "edition_verse_id": "KJV1769:PSA.18.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "The LORD rewarded me according to my righteousness; according to the cleanness of my hands hath he recompensed me.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.18.21",
+      "edition_verse_id": "KJV1769:PSA.18.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "For I have kept the ways of the LORD, and have not wickedly departed from my God.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.18.22",
+      "edition_verse_id": "KJV1769:PSA.18.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "For all his judgments ",
+          "kind": "text"
+        },
+        {
+          "text": "were",
+          "kind": "supplied"
+        },
+        {
+          "text": " before me, and I did not put away his statutes from me.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.18.23",
+      "edition_verse_id": "KJV1769:PSA.18.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "I was also upright before him, and I kept myself from mine iniquity.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.18.24",
+      "edition_verse_id": "KJV1769:PSA.18.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "Therefore hath the LORD recompensed me according to my righteousness, according to the cleanness of my hands in his eyesight.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.18.25",
+      "edition_verse_id": "KJV1769:PSA.18.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "With the merciful thou wilt shew thyself merciful; with an upright man thou wilt shew thyself upright;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.18.26",
+      "edition_verse_id": "KJV1769:PSA.18.26",
+      "verse": 26,
+      "spans": [
+        {
+          "text": "With the pure thou wilt shew thyself pure; and with the froward thou wilt shew thyself froward.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.18.27",
+      "edition_verse_id": "KJV1769:PSA.18.27",
+      "verse": 27,
+      "spans": [
+        {
+          "text": "For thou wilt save the afflicted people; but wilt bring down high looks.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.18.28",
+      "edition_verse_id": "KJV1769:PSA.18.28",
+      "verse": 28,
+      "spans": [
+        {
+          "text": "For thou wilt light my candle: the LORD my God will enlighten my darkness.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.18.29",
+      "edition_verse_id": "KJV1769:PSA.18.29",
+      "verse": 29,
+      "spans": [
+        {
+          "text": "For by thee I have run through a troop; and by my God have I leaped over a wall.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.18.30",
+      "edition_verse_id": "KJV1769:PSA.18.30",
+      "verse": 30,
+      "spans": [
+        {
+          "text": "As for",
+          "kind": "supplied"
+        },
+        {
+          "text": " God, his way ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " perfect: the word of the LORD is tried: he ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " a buckler to all those that trust in him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.18.31",
+      "edition_verse_id": "KJV1769:PSA.18.31",
+      "verse": 31,
+      "spans": [
+        {
+          "text": "For who ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " God save the LORD? or who ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " a rock save our God?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.18.32",
+      "edition_verse_id": "KJV1769:PSA.18.32",
+      "verse": 32,
+      "spans": [
+        {
+          "text": "It is",
+          "kind": "supplied"
+        },
+        {
+          "text": " God that girdeth me with strength, and maketh my way perfect.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.18.33",
+      "edition_verse_id": "KJV1769:PSA.18.33",
+      "verse": 33,
+      "spans": [
+        {
+          "text": "He maketh my feet like hinds’ ",
+          "kind": "text"
+        },
+        {
+          "text": "feet",
+          "kind": "supplied"
+        },
+        {
+          "text": ", and setteth me upon my high places.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.18.34",
+      "edition_verse_id": "KJV1769:PSA.18.34",
+      "verse": 34,
+      "spans": [
+        {
+          "text": "He teacheth my hands to war, so that a bow of steel is broken by mine arms.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.18.35",
+      "edition_verse_id": "KJV1769:PSA.18.35",
+      "verse": 35,
+      "spans": [
+        {
+          "text": "Thou hast also given me the shield of thy salvation: and thy right hand hath holden me up, and thy gentleness hath made me great.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.18.36",
+      "edition_verse_id": "KJV1769:PSA.18.36",
+      "verse": 36,
+      "spans": [
+        {
+          "text": "Thou hast enlarged my steps under me, that my feet did not slip.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.18.37",
+      "edition_verse_id": "KJV1769:PSA.18.37",
+      "verse": 37,
+      "spans": [
+        {
+          "text": "I have pursued mine enemies, and overtaken them: neither did I turn again till they were consumed.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.18.38",
+      "edition_verse_id": "KJV1769:PSA.18.38",
+      "verse": 38,
+      "spans": [
+        {
+          "text": "I have wounded them that they were not able to rise: they are fallen under my feet.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.18.39",
+      "edition_verse_id": "KJV1769:PSA.18.39",
+      "verse": 39,
+      "spans": [
+        {
+          "text": "For thou hast girded me with strength unto the battle: thou hast subdued under me those that rose up against me.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.18.40",
+      "edition_verse_id": "KJV1769:PSA.18.40",
+      "verse": 40,
+      "spans": [
+        {
+          "text": "Thou hast also given me the necks of mine enemies; that I might destroy them that hate me.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.18.41",
+      "edition_verse_id": "KJV1769:PSA.18.41",
+      "verse": 41,
+      "spans": [
+        {
+          "text": "They cried, but ",
+          "kind": "text"
+        },
+        {
+          "text": "there was",
+          "kind": "supplied"
+        },
+        {
+          "text": " none to save ",
+          "kind": "text"
+        },
+        {
+          "text": "them: even",
+          "kind": "supplied"
+        },
+        {
+          "text": " unto the LORD, but he answered them not.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.18.42",
+      "edition_verse_id": "KJV1769:PSA.18.42",
+      "verse": 42,
+      "spans": [
+        {
+          "text": "Then did I beat them small as the dust before the wind: I did cast them out as the dirt in the streets.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.18.43",
+      "edition_verse_id": "KJV1769:PSA.18.43",
+      "verse": 43,
+      "spans": [
+        {
+          "text": "Thou hast delivered me from the strivings of the people; ",
+          "kind": "text"
+        },
+        {
+          "text": "and",
+          "kind": "supplied"
+        },
+        {
+          "text": " thou hast made me the head of the heathen: a people ",
+          "kind": "text"
+        },
+        {
+          "text": "whom",
+          "kind": "supplied"
+        },
+        {
+          "text": " I have not known shall serve me.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.18.44",
+      "edition_verse_id": "KJV1769:PSA.18.44",
+      "verse": 44,
+      "spans": [
+        {
+          "text": "As soon as they hear of me, they shall obey me: the strangers shall submit themselves unto me.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.18.45",
+      "edition_verse_id": "KJV1769:PSA.18.45",
+      "verse": 45,
+      "spans": [
+        {
+          "text": "The strangers shall fade away, and be afraid out of their close places.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.18.46",
+      "edition_verse_id": "KJV1769:PSA.18.46",
+      "verse": 46,
+      "spans": [
+        {
+          "text": "The LORD liveth; and blessed ",
+          "kind": "text"
+        },
+        {
+          "text": "be",
+          "kind": "supplied"
+        },
+        {
+          "text": " my rock; and let the God of my salvation be exalted.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.18.47",
+      "edition_verse_id": "KJV1769:PSA.18.47",
+      "verse": 47,
+      "spans": [
+        {
+          "text": "It is",
+          "kind": "supplied"
+        },
+        {
+          "text": " God that avengeth me, and subdueth the people under me.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.18.48",
+      "edition_verse_id": "KJV1769:PSA.18.48",
+      "verse": 48,
+      "spans": [
+        {
+          "text": "He delivereth me from mine enemies: yea, thou liftest me up above those that rise up against me: thou hast delivered me from the violent man.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.18.49",
+      "edition_verse_id": "KJV1769:PSA.18.49",
+      "verse": 49,
+      "spans": [
+        {
+          "text": "Therefore will I give thanks unto thee, O LORD, among the heathen, and sing praises unto thy name.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.18.50",
+      "edition_verse_id": "KJV1769:PSA.18.50",
+      "verse": 50,
+      "spans": [
+        {
+          "text": "Great deliverance giveth he to his king; and sheweth mercy to his anointed, to David, and to his seed for evermore.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

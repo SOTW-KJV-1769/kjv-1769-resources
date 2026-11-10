@@ -1,0 +1,548 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "KJV1769",
+  "book_code": "PSA",
+  "chapter": 22,
+  "verses": [
+    {
+      "id": "PSA.22.1",
+      "edition_verse_id": "KJV1769:PSA.22.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "My God, my God, why hast thou forsaken me? ",
+          "kind": "text"
+        },
+        {
+          "text": "why art thou so",
+          "kind": "supplied"
+        },
+        {
+          "text": " far from helping me, ",
+          "kind": "text"
+        },
+        {
+          "text": "and from",
+          "kind": "supplied"
+        },
+        {
+          "text": " the words of my roaring?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.22.2",
+      "edition_verse_id": "KJV1769:PSA.22.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "O my God, I cry in the daytime, but thou hearest not; and in the night season, and am not silent.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.22.3",
+      "edition_verse_id": "KJV1769:PSA.22.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "But thou ",
+          "kind": "text"
+        },
+        {
+          "text": "art",
+          "kind": "supplied"
+        },
+        {
+          "text": " holy, ",
+          "kind": "text"
+        },
+        {
+          "text": "O thou",
+          "kind": "supplied"
+        },
+        {
+          "text": " that inhabitest the praises of Israel.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.22.4",
+      "edition_verse_id": "KJV1769:PSA.22.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "Our fathers trusted in thee: they trusted, and thou didst deliver them.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.22.5",
+      "edition_verse_id": "KJV1769:PSA.22.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "They cried unto thee, and were delivered: they trusted in thee, and were not confounded.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.22.6",
+      "edition_verse_id": "KJV1769:PSA.22.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "But I ",
+          "kind": "text"
+        },
+        {
+          "text": "am",
+          "kind": "supplied"
+        },
+        {
+          "text": " a worm, and no man; a reproach of men, and despised of the people.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.22.7",
+      "edition_verse_id": "KJV1769:PSA.22.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "All they that see me laugh me to scorn: they shoot out the lip, they shake the head, ",
+          "kind": "text"
+        },
+        {
+          "text": "saying",
+          "kind": "supplied"
+        },
+        {
+          "text": ",",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.22.8",
+      "edition_verse_id": "KJV1769:PSA.22.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "He trusted on the LORD ",
+          "kind": "text"
+        },
+        {
+          "text": "that",
+          "kind": "supplied"
+        },
+        {
+          "text": " he would deliver him: let him deliver him, seeing he delighted in him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.22.9",
+      "edition_verse_id": "KJV1769:PSA.22.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "But thou ",
+          "kind": "text"
+        },
+        {
+          "text": "art",
+          "kind": "supplied"
+        },
+        {
+          "text": " he that took me out of the womb: thou didst make me hope ",
+          "kind": "text"
+        },
+        {
+          "text": "when I was",
+          "kind": "supplied"
+        },
+        {
+          "text": " upon my mother’s breasts.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.22.10",
+      "edition_verse_id": "KJV1769:PSA.22.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "I was cast upon thee from the womb: thou ",
+          "kind": "text"
+        },
+        {
+          "text": "art",
+          "kind": "supplied"
+        },
+        {
+          "text": " my God from my mother’s belly.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.22.11",
+      "edition_verse_id": "KJV1769:PSA.22.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "Be not far from me; for trouble ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " near; for ",
+          "kind": "text"
+        },
+        {
+          "text": "there is",
+          "kind": "supplied"
+        },
+        {
+          "text": " none to help.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.22.12",
+      "edition_verse_id": "KJV1769:PSA.22.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "Many bulls have compassed me: strong ",
+          "kind": "text"
+        },
+        {
+          "text": "bulls",
+          "kind": "supplied"
+        },
+        {
+          "text": " of Bashan have beset me round.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.22.13",
+      "edition_verse_id": "KJV1769:PSA.22.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "They gaped upon me ",
+          "kind": "text"
+        },
+        {
+          "text": "with",
+          "kind": "supplied"
+        },
+        {
+          "text": " their mouths, ",
+          "kind": "text"
+        },
+        {
+          "text": "as",
+          "kind": "supplied"
+        },
+        {
+          "text": " a ravening and a roaring lion.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.22.14",
+      "edition_verse_id": "KJV1769:PSA.22.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "I am poured out like water, and all my bones are out of joint: my heart is like wax; it is melted in the midst of my bowels.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.22.15",
+      "edition_verse_id": "KJV1769:PSA.22.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "My strength is dried up like a potsherd; and my tongue cleaveth to my jaws; and thou hast brought me into the dust of death.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.22.16",
+      "edition_verse_id": "KJV1769:PSA.22.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "For dogs have compassed me: the assembly of the wicked have inclosed me: they pierced my hands and my feet.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.22.17",
+      "edition_verse_id": "KJV1769:PSA.22.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "I may tell all my bones: they look ",
+          "kind": "text"
+        },
+        {
+          "text": "and",
+          "kind": "supplied"
+        },
+        {
+          "text": " stare upon me.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.22.18",
+      "edition_verse_id": "KJV1769:PSA.22.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "They part my garments among them, and cast lots upon my vesture.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.22.19",
+      "edition_verse_id": "KJV1769:PSA.22.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "But be not thou far from me, O LORD: O my strength, haste thee to help me.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.22.20",
+      "edition_verse_id": "KJV1769:PSA.22.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "Deliver my soul from the sword; my darling from the power of the dog.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.22.21",
+      "edition_verse_id": "KJV1769:PSA.22.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "Save me from the lion’s mouth: for thou hast heard me from the horns of the unicorns.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.22.22",
+      "edition_verse_id": "KJV1769:PSA.22.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "I will declare thy name unto my brethren: in the midst of the congregation will I praise thee.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.22.23",
+      "edition_verse_id": "KJV1769:PSA.22.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "Ye that fear the LORD, praise him; all ye the seed of Jacob, glorify him; and fear him, all ye the seed of Israel.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.22.24",
+      "edition_verse_id": "KJV1769:PSA.22.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "For he hath not despised nor abhorred the affliction of the afflicted; neither hath he hid his face from him; but when he cried unto him, he heard.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.22.25",
+      "edition_verse_id": "KJV1769:PSA.22.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "My praise ",
+          "kind": "text"
+        },
+        {
+          "text": "shall be",
+          "kind": "supplied"
+        },
+        {
+          "text": " of thee in the great congregation: I will pay my vows before them that fear him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.22.26",
+      "edition_verse_id": "KJV1769:PSA.22.26",
+      "verse": 26,
+      "spans": [
+        {
+          "text": "The meek shall eat and be satisfied: they shall praise the LORD that seek him: your heart shall live for ever.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.22.27",
+      "edition_verse_id": "KJV1769:PSA.22.27",
+      "verse": 27,
+      "spans": [
+        {
+          "text": "All the ends of the world shall remember and turn unto the LORD: and all the kindreds of the nations shall worship before thee.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.22.28",
+      "edition_verse_id": "KJV1769:PSA.22.28",
+      "verse": 28,
+      "spans": [
+        {
+          "text": "For the kingdom ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " the LORD’s: and he ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " the governor among the nations.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.22.29",
+      "edition_verse_id": "KJV1769:PSA.22.29",
+      "verse": 29,
+      "spans": [
+        {
+          "text": "All ",
+          "kind": "text"
+        },
+        {
+          "text": "they that be",
+          "kind": "supplied"
+        },
+        {
+          "text": " fat upon earth shall eat and worship: all they that go down to the dust shall bow before him: and none can keep alive his own soul.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.22.30",
+      "edition_verse_id": "KJV1769:PSA.22.30",
+      "verse": 30,
+      "spans": [
+        {
+          "text": "A seed shall serve him; it shall be accounted to the Lord for a generation.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.22.31",
+      "edition_verse_id": "KJV1769:PSA.22.31",
+      "verse": 31,
+      "spans": [
+        {
+          "text": "They shall come, and shall declare his righteousness unto a people that shall be born, that he hath done ",
+          "kind": "text"
+        },
+        {
+          "text": "this",
+          "kind": "supplied"
+        },
+        {
+          "text": ".",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

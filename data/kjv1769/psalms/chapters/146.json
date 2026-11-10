@@ -1,0 +1,192 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "KJV1769",
+  "book_code": "PSA",
+  "chapter": 146,
+  "verses": [
+    {
+      "id": "PSA.146.1",
+      "edition_verse_id": "KJV1769:PSA.146.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "Praise ye the LORD. Praise the LORD, O my soul.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.146.2",
+      "edition_verse_id": "KJV1769:PSA.146.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "While I live will I praise the LORD: I will sing praises unto my God while I have any being.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.146.3",
+      "edition_verse_id": "KJV1769:PSA.146.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "Put not your trust in princes, ",
+          "kind": "text"
+        },
+        {
+          "text": "nor",
+          "kind": "supplied"
+        },
+        {
+          "text": " in the son of man, in whom ",
+          "kind": "text"
+        },
+        {
+          "text": "there is",
+          "kind": "supplied"
+        },
+        {
+          "text": " no help.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.146.4",
+      "edition_verse_id": "KJV1769:PSA.146.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "His breath goeth forth, he returneth to his earth; in that very day his thoughts perish.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.146.5",
+      "edition_verse_id": "KJV1769:PSA.146.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "Happy ",
+          "kind": "text"
+        },
+        {
+          "text": "is he",
+          "kind": "supplied"
+        },
+        {
+          "text": " that ",
+          "kind": "text"
+        },
+        {
+          "text": "hath",
+          "kind": "supplied"
+        },
+        {
+          "text": " the God of Jacob for his help, whose hope ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " in the LORD his God:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.146.6",
+      "edition_verse_id": "KJV1769:PSA.146.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "Which made heaven, and earth, the sea, and all that therein ",
+          "kind": "text"
+        },
+        {
+          "text": "is:",
+          "kind": "supplied"
+        },
+        {
+          "text": " which keepeth truth for ever:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.146.7",
+      "edition_verse_id": "KJV1769:PSA.146.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "Which executeth judgment for the oppressed: which giveth food to the hungry. The LORD looseth the prisoners:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.146.8",
+      "edition_verse_id": "KJV1769:PSA.146.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "The LORD openeth ",
+          "kind": "text"
+        },
+        {
+          "text": "the eyes of",
+          "kind": "supplied"
+        },
+        {
+          "text": " the blind: the LORD raiseth them that are bowed down: the LORD loveth the righteous:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.146.9",
+      "edition_verse_id": "KJV1769:PSA.146.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "The LORD preserveth the strangers; he relieveth the fatherless and widow: but the way of the wicked he turneth upside down.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.146.10",
+      "edition_verse_id": "KJV1769:PSA.146.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "The LORD shall reign for ever, ",
+          "kind": "text"
+        },
+        {
+          "text": "even",
+          "kind": "supplied"
+        },
+        {
+          "text": " thy God, O Zion, unto all generations. Praise ye the LORD.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

@@ -1,0 +1,128 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "KJV1769",
+  "book_code": "PSA",
+  "chapter": 129,
+  "verses": [
+    {
+      "id": "PSA.129.1",
+      "edition_verse_id": "KJV1769:PSA.129.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "Many a time have they afflicted me from my youth, may Israel now say:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.129.2",
+      "edition_verse_id": "KJV1769:PSA.129.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "Many a time have they afflicted me from my youth: yet they have not prevailed against me.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.129.3",
+      "edition_verse_id": "KJV1769:PSA.129.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "The plowers plowed upon my back: they made long their furrows.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.129.4",
+      "edition_verse_id": "KJV1769:PSA.129.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "The LORD ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " righteous: he hath cut asunder the cords of the wicked.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.129.5",
+      "edition_verse_id": "KJV1769:PSA.129.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "Let them all be confounded and turned back that hate Zion.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.129.6",
+      "edition_verse_id": "KJV1769:PSA.129.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "Let them be as the grass ",
+          "kind": "text"
+        },
+        {
+          "text": "upon",
+          "kind": "supplied"
+        },
+        {
+          "text": " the housetops, which withereth afore it groweth up:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.129.7",
+      "edition_verse_id": "KJV1769:PSA.129.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "Wherewith the mower filleth not his hand; nor he that bindeth sheaves his bosom.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.129.8",
+      "edition_verse_id": "KJV1769:PSA.129.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "Neither do they which go by say, The blessing of the LORD ",
+          "kind": "text"
+        },
+        {
+          "text": "be",
+          "kind": "supplied"
+        },
+        {
+          "text": " upon you: we bless you in the name of the LORD.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

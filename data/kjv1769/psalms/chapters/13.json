@@ -1,0 +1,112 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "KJV1769",
+  "book_code": "PSA",
+  "chapter": 13,
+  "verses": [
+    {
+      "id": "PSA.13.1",
+      "edition_verse_id": "KJV1769:PSA.13.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "How long wilt thou forget me, O LORD? for ever? how long wilt thou hide thy face from me?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.13.2",
+      "edition_verse_id": "KJV1769:PSA.13.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "How long shall I take counsel in my soul, ",
+          "kind": "text"
+        },
+        {
+          "text": "having",
+          "kind": "supplied"
+        },
+        {
+          "text": " sorrow in my heart daily? how long shall mine enemy be exalted over me?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.13.3",
+      "edition_verse_id": "KJV1769:PSA.13.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "Consider ",
+          "kind": "text"
+        },
+        {
+          "text": "and",
+          "kind": "supplied"
+        },
+        {
+          "text": " hear me, O LORD my God: lighten mine eyes, lest I sleep the ",
+          "kind": "text"
+        },
+        {
+          "text": "sleep of",
+          "kind": "supplied"
+        },
+        {
+          "text": " death;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.13.4",
+      "edition_verse_id": "KJV1769:PSA.13.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "Lest mine enemy say, I have prevailed against him; ",
+          "kind": "text"
+        },
+        {
+          "text": "and",
+          "kind": "supplied"
+        },
+        {
+          "text": " those that trouble me rejoice when I am moved.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.13.5",
+      "edition_verse_id": "KJV1769:PSA.13.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "But I have trusted in thy mercy; my heart shall rejoice in thy salvation.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.13.6",
+      "edition_verse_id": "KJV1769:PSA.13.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "I will sing unto the LORD, because he hath dealt bountifully with me.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

@@ -1,0 +1,332 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "KJV1769",
+  "book_code": "PSA",
+  "chapter": 17,
+  "verses": [
+    {
+      "id": "PSA.17.1",
+      "edition_verse_id": "KJV1769:PSA.17.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "Hear the right, O LORD, attend unto my cry, give ear unto my prayer, ",
+          "kind": "text"
+        },
+        {
+          "text": "that goeth",
+          "kind": "supplied"
+        },
+        {
+          "text": " not out of feigned lips.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.17.2",
+      "edition_verse_id": "KJV1769:PSA.17.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "Let my sentence come forth from thy presence; let thine eyes behold the things that are equal.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.17.3",
+      "edition_verse_id": "KJV1769:PSA.17.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "Thou hast proved mine heart; thou hast visited ",
+          "kind": "text"
+        },
+        {
+          "text": "me",
+          "kind": "supplied"
+        },
+        {
+          "text": " in the night; thou hast tried me, ",
+          "kind": "text"
+        },
+        {
+          "text": "and",
+          "kind": "supplied"
+        },
+        {
+          "text": " shalt find nothing; I am purposed ",
+          "kind": "text"
+        },
+        {
+          "text": "that",
+          "kind": "supplied"
+        },
+        {
+          "text": " my mouth shall not transgress.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.17.4",
+      "edition_verse_id": "KJV1769:PSA.17.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "Concerning the works of men, by the word of thy lips I have kept ",
+          "kind": "text"
+        },
+        {
+          "text": "me from",
+          "kind": "supplied"
+        },
+        {
+          "text": " the paths of the destroyer.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.17.5",
+      "edition_verse_id": "KJV1769:PSA.17.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "Hold up my goings in thy paths, ",
+          "kind": "text"
+        },
+        {
+          "text": "that",
+          "kind": "supplied"
+        },
+        {
+          "text": " my footsteps slip not.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.17.6",
+      "edition_verse_id": "KJV1769:PSA.17.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "I have called upon thee, for thou wilt hear me, O God: incline thine ear unto me, ",
+          "kind": "text"
+        },
+        {
+          "text": "and hear",
+          "kind": "supplied"
+        },
+        {
+          "text": " my speech.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.17.7",
+      "edition_verse_id": "KJV1769:PSA.17.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "Shew thy marvellous lovingkindness, O thou that savest by thy right hand them which put their trust ",
+          "kind": "text"
+        },
+        {
+          "text": "in thee",
+          "kind": "supplied"
+        },
+        {
+          "text": " from those that rise up ",
+          "kind": "text"
+        },
+        {
+          "text": "against them",
+          "kind": "supplied"
+        },
+        {
+          "text": ".",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.17.8",
+      "edition_verse_id": "KJV1769:PSA.17.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "Keep me as the apple of the eye, hide me under the shadow of thy wings,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.17.9",
+      "edition_verse_id": "KJV1769:PSA.17.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "From the wicked that oppress me, ",
+          "kind": "text"
+        },
+        {
+          "text": "from",
+          "kind": "supplied"
+        },
+        {
+          "text": " my deadly enemies, ",
+          "kind": "text"
+        },
+        {
+          "text": "who",
+          "kind": "supplied"
+        },
+        {
+          "text": " compass me about.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.17.10",
+      "edition_verse_id": "KJV1769:PSA.17.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "They are inclosed in their own fat: with their mouth they speak proudly.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.17.11",
+      "edition_verse_id": "KJV1769:PSA.17.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "They have now compassed us in our steps: they have set their eyes bowing down to the earth;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.17.12",
+      "edition_verse_id": "KJV1769:PSA.17.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "Like as a lion ",
+          "kind": "text"
+        },
+        {
+          "text": "that",
+          "kind": "supplied"
+        },
+        {
+          "text": " is greedy of his prey, and as it were a young lion lurking in secret places.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.17.13",
+      "edition_verse_id": "KJV1769:PSA.17.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "Arise, O LORD, disappoint him, cast him down: deliver my soul from the wicked, ",
+          "kind": "text"
+        },
+        {
+          "text": "which is",
+          "kind": "supplied"
+        },
+        {
+          "text": " thy sword:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.17.14",
+      "edition_verse_id": "KJV1769:PSA.17.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "From men ",
+          "kind": "text"
+        },
+        {
+          "text": "which are",
+          "kind": "supplied"
+        },
+        {
+          "text": " thy hand, O LORD, from men of the world, ",
+          "kind": "text"
+        },
+        {
+          "text": "which have",
+          "kind": "supplied"
+        },
+        {
+          "text": " their portion in ",
+          "kind": "text"
+        },
+        {
+          "text": "this",
+          "kind": "supplied"
+        },
+        {
+          "text": " life, and whose belly thou fillest with thy hid ",
+          "kind": "text"
+        },
+        {
+          "text": "treasure:",
+          "kind": "supplied"
+        },
+        {
+          "text": " they are full of children, and leave the rest of their ",
+          "kind": "text"
+        },
+        {
+          "text": "substance",
+          "kind": "supplied"
+        },
+        {
+          "text": " to their babes.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.17.15",
+      "edition_verse_id": "KJV1769:PSA.17.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "As for me, I will behold thy face in righteousness: I shall be satisfied, when I awake, with thy likeness.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

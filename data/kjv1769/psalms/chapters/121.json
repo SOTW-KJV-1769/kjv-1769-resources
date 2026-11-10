@@ -1,0 +1,128 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "KJV1769",
+  "book_code": "PSA",
+  "chapter": 121,
+  "verses": [
+    {
+      "id": "PSA.121.1",
+      "edition_verse_id": "KJV1769:PSA.121.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "I will lift up mine eyes unto the hills, from whence cometh my help.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.121.2",
+      "edition_verse_id": "KJV1769:PSA.121.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "My help ",
+          "kind": "text"
+        },
+        {
+          "text": "cometh",
+          "kind": "supplied"
+        },
+        {
+          "text": " from the LORD, which made heaven and earth.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.121.3",
+      "edition_verse_id": "KJV1769:PSA.121.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "He will not suffer thy foot to be moved: he that keepeth thee will not slumber.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.121.4",
+      "edition_verse_id": "KJV1769:PSA.121.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "Behold, he that keepeth Israel shall neither slumber nor sleep.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.121.5",
+      "edition_verse_id": "KJV1769:PSA.121.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "The LORD ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " thy keeper: the LORD ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " thy shade upon thy right hand.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.121.6",
+      "edition_verse_id": "KJV1769:PSA.121.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "The sun shall not smite thee by day, nor the moon by night.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.121.7",
+      "edition_verse_id": "KJV1769:PSA.121.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "The LORD shall preserve thee from all evil: he shall preserve thy soul.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.121.8",
+      "edition_verse_id": "KJV1769:PSA.121.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "The LORD shall preserve thy going out and thy coming in from this time forth, and even for evermore.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

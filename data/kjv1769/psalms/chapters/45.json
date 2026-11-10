@@ -1,0 +1,340 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "KJV1769",
+  "book_code": "PSA",
+  "chapter": 45,
+  "verses": [
+    {
+      "id": "PSA.45.1",
+      "edition_verse_id": "KJV1769:PSA.45.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "My heart is inditing a good matter: I speak of the things which I have made touching the king: my tongue ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " the pen of a ready writer.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.45.2",
+      "edition_verse_id": "KJV1769:PSA.45.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "Thou art fairer than the children of men: grace is poured into thy lips: therefore God hath blessed thee for ever.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.45.3",
+      "edition_verse_id": "KJV1769:PSA.45.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "Gird thy sword upon ",
+          "kind": "text"
+        },
+        {
+          "text": "thy",
+          "kind": "supplied"
+        },
+        {
+          "text": " thigh, O ",
+          "kind": "text"
+        },
+        {
+          "text": "most",
+          "kind": "supplied"
+        },
+        {
+          "text": " mighty, with thy glory and thy majesty.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.45.4",
+      "edition_verse_id": "KJV1769:PSA.45.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "And in thy majesty ride prosperously because of truth and meekness ",
+          "kind": "text"
+        },
+        {
+          "text": "and",
+          "kind": "supplied"
+        },
+        {
+          "text": " righteousness; and thy right hand shall teach thee terrible things.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.45.5",
+      "edition_verse_id": "KJV1769:PSA.45.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "Thine arrows ",
+          "kind": "text"
+        },
+        {
+          "text": "are",
+          "kind": "supplied"
+        },
+        {
+          "text": " sharp in the heart of the king’s enemies; ",
+          "kind": "text"
+        },
+        {
+          "text": "whereby",
+          "kind": "supplied"
+        },
+        {
+          "text": " the people fall under thee.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.45.6",
+      "edition_verse_id": "KJV1769:PSA.45.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "Thy throne, O God, ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " for ever and ever: the sceptre of thy kingdom ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " a right sceptre.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.45.7",
+      "edition_verse_id": "KJV1769:PSA.45.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "Thou lovest righteousness, and hatest wickedness: therefore God, thy God, hath anointed thee with the oil of gladness above thy fellows.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.45.8",
+      "edition_verse_id": "KJV1769:PSA.45.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "All thy garments ",
+          "kind": "text"
+        },
+        {
+          "text": "smell",
+          "kind": "supplied"
+        },
+        {
+          "text": " of myrrh, and aloes, ",
+          "kind": "text"
+        },
+        {
+          "text": "and",
+          "kind": "supplied"
+        },
+        {
+          "text": " cassia, out of the ivory palaces, whereby they have made thee glad.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.45.9",
+      "edition_verse_id": "KJV1769:PSA.45.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "Kings’ daughters ",
+          "kind": "text"
+        },
+        {
+          "text": "were",
+          "kind": "supplied"
+        },
+        {
+          "text": " among thy honourable women: upon thy right hand did stand the queen in gold of Ophir.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.45.10",
+      "edition_verse_id": "KJV1769:PSA.45.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "Hearken, O daughter, and consider, and incline thine ear; forget also thine own people, and thy father’s house;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.45.11",
+      "edition_verse_id": "KJV1769:PSA.45.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "So shall the king greatly desire thy beauty: for he ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " thy Lord; and worship thou him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.45.12",
+      "edition_verse_id": "KJV1769:PSA.45.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "And the daughter of Tyre ",
+          "kind": "text"
+        },
+        {
+          "text": "shall be there",
+          "kind": "supplied"
+        },
+        {
+          "text": " with a gift; ",
+          "kind": "text"
+        },
+        {
+          "text": "even",
+          "kind": "supplied"
+        },
+        {
+          "text": " the rich among the people shall intreat thy favour.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.45.13",
+      "edition_verse_id": "KJV1769:PSA.45.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "The king’s daughter ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " all glorious within: her clothing ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " of wrought gold.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.45.14",
+      "edition_verse_id": "KJV1769:PSA.45.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "She shall be brought unto the king in raiment of needlework: the virgins her companions that follow her shall be brought unto thee.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.45.15",
+      "edition_verse_id": "KJV1769:PSA.45.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "With gladness and rejoicing shall they be brought: they shall enter into the king’s palace.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.45.16",
+      "edition_verse_id": "KJV1769:PSA.45.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "Instead of thy fathers shall be thy children, whom thou mayest make princes in all the earth.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.45.17",
+      "edition_verse_id": "KJV1769:PSA.45.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "I will make thy name to be remembered in all generations: therefore shall the people praise thee for ever and ever.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

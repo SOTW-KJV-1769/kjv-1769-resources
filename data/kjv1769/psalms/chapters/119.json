@@ -1,0 +1,2908 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "KJV1769",
+  "book_code": "PSA",
+  "chapter": 119,
+  "verses": [
+    {
+      "id": "PSA.119.1",
+      "edition_verse_id": "KJV1769:PSA.119.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "Blessed ",
+          "kind": "text"
+        },
+        {
+          "text": "are",
+          "kind": "supplied"
+        },
+        {
+          "text": " the undefiled in the way, who walk in the law of the LORD.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.119.2",
+      "edition_verse_id": "KJV1769:PSA.119.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "Blessed ",
+          "kind": "text"
+        },
+        {
+          "text": "are",
+          "kind": "supplied"
+        },
+        {
+          "text": " they that keep his testimonies, ",
+          "kind": "text"
+        },
+        {
+          "text": "and that",
+          "kind": "supplied"
+        },
+        {
+          "text": " seek him with the whole heart.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.119.3",
+      "edition_verse_id": "KJV1769:PSA.119.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "They also do no iniquity: they walk in his ways.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.119.4",
+      "edition_verse_id": "KJV1769:PSA.119.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "Thou hast commanded ",
+          "kind": "text"
+        },
+        {
+          "text": "us",
+          "kind": "supplied"
+        },
+        {
+          "text": " to keep thy precepts diligently.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.119.5",
+      "edition_verse_id": "KJV1769:PSA.119.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "O that my ways were directed to keep thy statutes!",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.119.6",
+      "edition_verse_id": "KJV1769:PSA.119.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "Then shall I not be ashamed, when I have respect unto all thy commandments.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.119.7",
+      "edition_verse_id": "KJV1769:PSA.119.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "I will praise thee with uprightness of heart, when I shall have learned thy righteous judgments.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.119.8",
+      "edition_verse_id": "KJV1769:PSA.119.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "I will keep thy statutes: O forsake me not utterly.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.119.9",
+      "edition_verse_id": "KJV1769:PSA.119.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "Wherewithal shall a young man cleanse his way? by taking heed ",
+          "kind": "text"
+        },
+        {
+          "text": "thereto",
+          "kind": "supplied"
+        },
+        {
+          "text": " according to thy word.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.119.10",
+      "edition_verse_id": "KJV1769:PSA.119.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "With my whole heart have I sought thee: O let me not wander from thy commandments.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.119.11",
+      "edition_verse_id": "KJV1769:PSA.119.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "Thy word have I hid in mine heart, that I might not sin against thee.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.119.12",
+      "edition_verse_id": "KJV1769:PSA.119.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "Blessed ",
+          "kind": "text"
+        },
+        {
+          "text": "art",
+          "kind": "supplied"
+        },
+        {
+          "text": " thou, O LORD: teach me thy statutes.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.119.13",
+      "edition_verse_id": "KJV1769:PSA.119.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "With my lips have I declared all the judgments of thy mouth.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.119.14",
+      "edition_verse_id": "KJV1769:PSA.119.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "I have rejoiced in the way of thy testimonies, as ",
+          "kind": "text"
+        },
+        {
+          "text": "much as",
+          "kind": "supplied"
+        },
+        {
+          "text": " in all riches.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.119.15",
+      "edition_verse_id": "KJV1769:PSA.119.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "I will meditate in thy precepts, and have respect unto thy ways.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.119.16",
+      "edition_verse_id": "KJV1769:PSA.119.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "I will delight myself in thy statutes: I will not forget thy word.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.119.17",
+      "edition_verse_id": "KJV1769:PSA.119.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "Deal bountifully with thy servant, ",
+          "kind": "text"
+        },
+        {
+          "text": "that",
+          "kind": "supplied"
+        },
+        {
+          "text": " I may live, and keep thy word.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.119.18",
+      "edition_verse_id": "KJV1769:PSA.119.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "Open thou mine eyes, that I may behold wondrous things out of thy law.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.119.19",
+      "edition_verse_id": "KJV1769:PSA.119.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "I ",
+          "kind": "text"
+        },
+        {
+          "text": "am",
+          "kind": "supplied"
+        },
+        {
+          "text": " a stranger in the earth: hide not thy commandments from me.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.119.20",
+      "edition_verse_id": "KJV1769:PSA.119.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "My soul breaketh for the longing ",
+          "kind": "text"
+        },
+        {
+          "text": "that it hath",
+          "kind": "supplied"
+        },
+        {
+          "text": " unto thy judgments at all times.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.119.21",
+      "edition_verse_id": "KJV1769:PSA.119.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "Thou hast rebuked the proud ",
+          "kind": "text"
+        },
+        {
+          "text": "that are",
+          "kind": "supplied"
+        },
+        {
+          "text": " cursed, which do err from thy commandments.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.119.22",
+      "edition_verse_id": "KJV1769:PSA.119.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "Remove from me reproach and contempt; for I have kept thy testimonies.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.119.23",
+      "edition_verse_id": "KJV1769:PSA.119.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "Princes also did sit ",
+          "kind": "text"
+        },
+        {
+          "text": "and",
+          "kind": "supplied"
+        },
+        {
+          "text": " speak against me: ",
+          "kind": "text"
+        },
+        {
+          "text": "but",
+          "kind": "supplied"
+        },
+        {
+          "text": " thy servant did meditate in thy statutes.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.119.24",
+      "edition_verse_id": "KJV1769:PSA.119.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "Thy testimonies also ",
+          "kind": "text"
+        },
+        {
+          "text": "are",
+          "kind": "supplied"
+        },
+        {
+          "text": " my delight ",
+          "kind": "text"
+        },
+        {
+          "text": "and",
+          "kind": "supplied"
+        },
+        {
+          "text": " my counsellors.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.119.25",
+      "edition_verse_id": "KJV1769:PSA.119.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "My soul cleaveth unto the dust: quicken thou me according to thy word.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.119.26",
+      "edition_verse_id": "KJV1769:PSA.119.26",
+      "verse": 26,
+      "spans": [
+        {
+          "text": "I have declared my ways, and thou heardest me: teach me thy statutes.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.119.27",
+      "edition_verse_id": "KJV1769:PSA.119.27",
+      "verse": 27,
+      "spans": [
+        {
+          "text": "Make me to understand the way of thy precepts: so shall I talk of thy wondrous works.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.119.28",
+      "edition_verse_id": "KJV1769:PSA.119.28",
+      "verse": 28,
+      "spans": [
+        {
+          "text": "My soul melteth for heaviness: strengthen thou me according unto thy word.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.119.29",
+      "edition_verse_id": "KJV1769:PSA.119.29",
+      "verse": 29,
+      "spans": [
+        {
+          "text": "Remove from me the way of lying: and grant me thy law graciously.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.119.30",
+      "edition_verse_id": "KJV1769:PSA.119.30",
+      "verse": 30,
+      "spans": [
+        {
+          "text": "I have chosen the way of truth: thy judgments have I laid ",
+          "kind": "text"
+        },
+        {
+          "text": "before me",
+          "kind": "supplied"
+        },
+        {
+          "text": ".",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.119.31",
+      "edition_verse_id": "KJV1769:PSA.119.31",
+      "verse": 31,
+      "spans": [
+        {
+          "text": "I have stuck unto thy testimonies: O LORD, put me not to shame.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.119.32",
+      "edition_verse_id": "KJV1769:PSA.119.32",
+      "verse": 32,
+      "spans": [
+        {
+          "text": "I will run the way of thy commandments, when thou shalt enlarge my heart.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.119.33",
+      "edition_verse_id": "KJV1769:PSA.119.33",
+      "verse": 33,
+      "spans": [
+        {
+          "text": "Teach me, O LORD, the way of thy statutes; and I shall keep it ",
+          "kind": "text"
+        },
+        {
+          "text": "unto",
+          "kind": "supplied"
+        },
+        {
+          "text": " the end.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.119.34",
+      "edition_verse_id": "KJV1769:PSA.119.34",
+      "verse": 34,
+      "spans": [
+        {
+          "text": "Give me understanding, and I shall keep thy law; yea, I shall observe it with ",
+          "kind": "text"
+        },
+        {
+          "text": "my",
+          "kind": "supplied"
+        },
+        {
+          "text": " whole heart.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.119.35",
+      "edition_verse_id": "KJV1769:PSA.119.35",
+      "verse": 35,
+      "spans": [
+        {
+          "text": "Make me to go in the path of thy commandments; for therein do I delight.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.119.36",
+      "edition_verse_id": "KJV1769:PSA.119.36",
+      "verse": 36,
+      "spans": [
+        {
+          "text": "Incline my heart unto thy testimonies, and not to covetousness.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.119.37",
+      "edition_verse_id": "KJV1769:PSA.119.37",
+      "verse": 37,
+      "spans": [
+        {
+          "text": "Turn away mine eyes from beholding vanity; ",
+          "kind": "text"
+        },
+        {
+          "text": "and",
+          "kind": "supplied"
+        },
+        {
+          "text": " quicken thou me in thy way.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.119.38",
+      "edition_verse_id": "KJV1769:PSA.119.38",
+      "verse": 38,
+      "spans": [
+        {
+          "text": "Stablish thy word unto thy servant, who ",
+          "kind": "text"
+        },
+        {
+          "text": "is devoted",
+          "kind": "supplied"
+        },
+        {
+          "text": " to thy fear.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.119.39",
+      "edition_verse_id": "KJV1769:PSA.119.39",
+      "verse": 39,
+      "spans": [
+        {
+          "text": "Turn away my reproach which I fear: for thy judgments ",
+          "kind": "text"
+        },
+        {
+          "text": "are",
+          "kind": "supplied"
+        },
+        {
+          "text": " good.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.119.40",
+      "edition_verse_id": "KJV1769:PSA.119.40",
+      "verse": 40,
+      "spans": [
+        {
+          "text": "Behold, I have longed after thy precepts: quicken me in thy righteousness.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.119.41",
+      "edition_verse_id": "KJV1769:PSA.119.41",
+      "verse": 41,
+      "spans": [
+        {
+          "text": "Let thy mercies come also unto me, O LORD, ",
+          "kind": "text"
+        },
+        {
+          "text": "even",
+          "kind": "supplied"
+        },
+        {
+          "text": " thy salvation, according to thy word.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.119.42",
+      "edition_verse_id": "KJV1769:PSA.119.42",
+      "verse": 42,
+      "spans": [
+        {
+          "text": "So shall I have wherewith to answer him that reproacheth me: for I trust in thy word.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.119.43",
+      "edition_verse_id": "KJV1769:PSA.119.43",
+      "verse": 43,
+      "spans": [
+        {
+          "text": "And take not the word of truth utterly out of my mouth; for I have hoped in thy judgments.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.119.44",
+      "edition_verse_id": "KJV1769:PSA.119.44",
+      "verse": 44,
+      "spans": [
+        {
+          "text": "So shall I keep thy law continually for ever and ever.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.119.45",
+      "edition_verse_id": "KJV1769:PSA.119.45",
+      "verse": 45,
+      "spans": [
+        {
+          "text": "And I will walk at liberty: for I seek thy precepts.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.119.46",
+      "edition_verse_id": "KJV1769:PSA.119.46",
+      "verse": 46,
+      "spans": [
+        {
+          "text": "I will speak of thy testimonies also before kings, and will not be ashamed.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.119.47",
+      "edition_verse_id": "KJV1769:PSA.119.47",
+      "verse": 47,
+      "spans": [
+        {
+          "text": "And I will delight myself in thy commandments, which I have loved.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.119.48",
+      "edition_verse_id": "KJV1769:PSA.119.48",
+      "verse": 48,
+      "spans": [
+        {
+          "text": "My hands also will I lift up unto thy commandments, which I have loved; and I will meditate in thy statutes.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.119.49",
+      "edition_verse_id": "KJV1769:PSA.119.49",
+      "verse": 49,
+      "spans": [
+        {
+          "text": "Remember the word unto thy servant, upon which thou hast caused me to hope.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.119.50",
+      "edition_verse_id": "KJV1769:PSA.119.50",
+      "verse": 50,
+      "spans": [
+        {
+          "text": "This ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " my comfort in my affliction: for thy word hath quickened me.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.119.51",
+      "edition_verse_id": "KJV1769:PSA.119.51",
+      "verse": 51,
+      "spans": [
+        {
+          "text": "The proud have had me greatly in derision: ",
+          "kind": "text"
+        },
+        {
+          "text": "yet",
+          "kind": "supplied"
+        },
+        {
+          "text": " have I not declined from thy law.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.119.52",
+      "edition_verse_id": "KJV1769:PSA.119.52",
+      "verse": 52,
+      "spans": [
+        {
+          "text": "I remembered thy judgments of old, O LORD; and have comforted myself.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.119.53",
+      "edition_verse_id": "KJV1769:PSA.119.53",
+      "verse": 53,
+      "spans": [
+        {
+          "text": "Horror hath taken hold upon me because of the wicked that forsake thy law.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.119.54",
+      "edition_verse_id": "KJV1769:PSA.119.54",
+      "verse": 54,
+      "spans": [
+        {
+          "text": "Thy statutes have been my songs in the house of my pilgrimage.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.119.55",
+      "edition_verse_id": "KJV1769:PSA.119.55",
+      "verse": 55,
+      "spans": [
+        {
+          "text": "I have remembered thy name, O LORD, in the night, and have kept thy law.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.119.56",
+      "edition_verse_id": "KJV1769:PSA.119.56",
+      "verse": 56,
+      "spans": [
+        {
+          "text": "This I had, because I kept thy precepts.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.119.57",
+      "edition_verse_id": "KJV1769:PSA.119.57",
+      "verse": 57,
+      "spans": [
+        {
+          "text": "Thou art",
+          "kind": "supplied"
+        },
+        {
+          "text": " my portion, O LORD: I have said that I would keep thy words.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.119.58",
+      "edition_verse_id": "KJV1769:PSA.119.58",
+      "verse": 58,
+      "spans": [
+        {
+          "text": "I intreated thy favour with ",
+          "kind": "text"
+        },
+        {
+          "text": "my",
+          "kind": "supplied"
+        },
+        {
+          "text": " whole heart: be merciful unto me according to thy word.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.119.59",
+      "edition_verse_id": "KJV1769:PSA.119.59",
+      "verse": 59,
+      "spans": [
+        {
+          "text": "I thought on my ways, and turned my feet unto thy testimonies.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.119.60",
+      "edition_verse_id": "KJV1769:PSA.119.60",
+      "verse": 60,
+      "spans": [
+        {
+          "text": "I made haste, and delayed not to keep thy commandments.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.119.61",
+      "edition_verse_id": "KJV1769:PSA.119.61",
+      "verse": 61,
+      "spans": [
+        {
+          "text": "The bands of the wicked have robbed me: ",
+          "kind": "text"
+        },
+        {
+          "text": "but",
+          "kind": "supplied"
+        },
+        {
+          "text": " I have not forgotten thy law.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.119.62",
+      "edition_verse_id": "KJV1769:PSA.119.62",
+      "verse": 62,
+      "spans": [
+        {
+          "text": "At midnight I will rise to give thanks unto thee because of thy righteous judgments.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.119.63",
+      "edition_verse_id": "KJV1769:PSA.119.63",
+      "verse": 63,
+      "spans": [
+        {
+          "text": "I ",
+          "kind": "text"
+        },
+        {
+          "text": "am",
+          "kind": "supplied"
+        },
+        {
+          "text": " a companion of all ",
+          "kind": "text"
+        },
+        {
+          "text": "them",
+          "kind": "supplied"
+        },
+        {
+          "text": " that fear thee, and of them that keep thy precepts.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.119.64",
+      "edition_verse_id": "KJV1769:PSA.119.64",
+      "verse": 64,
+      "spans": [
+        {
+          "text": "The earth, O LORD, is full of thy mercy: teach me thy statutes.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.119.65",
+      "edition_verse_id": "KJV1769:PSA.119.65",
+      "verse": 65,
+      "spans": [
+        {
+          "text": "Thou hast dealt well with thy servant, O LORD, according unto thy word.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.119.66",
+      "edition_verse_id": "KJV1769:PSA.119.66",
+      "verse": 66,
+      "spans": [
+        {
+          "text": "Teach me good judgment and knowledge: for I have believed thy commandments.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.119.67",
+      "edition_verse_id": "KJV1769:PSA.119.67",
+      "verse": 67,
+      "spans": [
+        {
+          "text": "Before I was afflicted I went astray: but now have I kept thy word.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.119.68",
+      "edition_verse_id": "KJV1769:PSA.119.68",
+      "verse": 68,
+      "spans": [
+        {
+          "text": "Thou ",
+          "kind": "text"
+        },
+        {
+          "text": "art",
+          "kind": "supplied"
+        },
+        {
+          "text": " good, and doest good; teach me thy statutes.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.119.69",
+      "edition_verse_id": "KJV1769:PSA.119.69",
+      "verse": 69,
+      "spans": [
+        {
+          "text": "The proud have forged a lie against me: ",
+          "kind": "text"
+        },
+        {
+          "text": "but",
+          "kind": "supplied"
+        },
+        {
+          "text": " I will keep thy precepts with ",
+          "kind": "text"
+        },
+        {
+          "text": "my",
+          "kind": "supplied"
+        },
+        {
+          "text": " whole heart.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.119.70",
+      "edition_verse_id": "KJV1769:PSA.119.70",
+      "verse": 70,
+      "spans": [
+        {
+          "text": "Their heart is as fat as grease; ",
+          "kind": "text"
+        },
+        {
+          "text": "but",
+          "kind": "supplied"
+        },
+        {
+          "text": " I delight in thy law.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.119.71",
+      "edition_verse_id": "KJV1769:PSA.119.71",
+      "verse": 71,
+      "spans": [
+        {
+          "text": "It is",
+          "kind": "supplied"
+        },
+        {
+          "text": " good for me that I have been afflicted; that I might learn thy statutes.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.119.72",
+      "edition_verse_id": "KJV1769:PSA.119.72",
+      "verse": 72,
+      "spans": [
+        {
+          "text": "The law of thy mouth ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " better unto me than thousands of gold and silver.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.119.73",
+      "edition_verse_id": "KJV1769:PSA.119.73",
+      "verse": 73,
+      "spans": [
+        {
+          "text": "Thy hands have made me and fashioned me: give me understanding, that I may learn thy commandments.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.119.74",
+      "edition_verse_id": "KJV1769:PSA.119.74",
+      "verse": 74,
+      "spans": [
+        {
+          "text": "They that fear thee will be glad when they see me; because I have hoped in thy word.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.119.75",
+      "edition_verse_id": "KJV1769:PSA.119.75",
+      "verse": 75,
+      "spans": [
+        {
+          "text": "I know, O LORD, that thy judgments ",
+          "kind": "text"
+        },
+        {
+          "text": "are",
+          "kind": "supplied"
+        },
+        {
+          "text": " right, and ",
+          "kind": "text"
+        },
+        {
+          "text": "that",
+          "kind": "supplied"
+        },
+        {
+          "text": " thou in faithfulness hast afflicted me.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.119.76",
+      "edition_verse_id": "KJV1769:PSA.119.76",
+      "verse": 76,
+      "spans": [
+        {
+          "text": "Let, I pray thee, thy merciful kindness be for my comfort, according to thy word unto thy servant.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.119.77",
+      "edition_verse_id": "KJV1769:PSA.119.77",
+      "verse": 77,
+      "spans": [
+        {
+          "text": "Let thy tender mercies come unto me, that I may live: for thy law ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " my delight.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.119.78",
+      "edition_verse_id": "KJV1769:PSA.119.78",
+      "verse": 78,
+      "spans": [
+        {
+          "text": "Let the proud be ashamed; for they dealt perversely with me without a cause: ",
+          "kind": "text"
+        },
+        {
+          "text": "but",
+          "kind": "supplied"
+        },
+        {
+          "text": " I will meditate in thy precepts.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.119.79",
+      "edition_verse_id": "KJV1769:PSA.119.79",
+      "verse": 79,
+      "spans": [
+        {
+          "text": "Let those that fear thee turn unto me, and those that have known thy testimonies.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.119.80",
+      "edition_verse_id": "KJV1769:PSA.119.80",
+      "verse": 80,
+      "spans": [
+        {
+          "text": "Let my heart be sound in thy statutes; that I be not ashamed.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.119.81",
+      "edition_verse_id": "KJV1769:PSA.119.81",
+      "verse": 81,
+      "spans": [
+        {
+          "text": "My soul fainteth for thy salvation: ",
+          "kind": "text"
+        },
+        {
+          "text": "but",
+          "kind": "supplied"
+        },
+        {
+          "text": " I hope in thy word.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.119.82",
+      "edition_verse_id": "KJV1769:PSA.119.82",
+      "verse": 82,
+      "spans": [
+        {
+          "text": "Mine eyes fail for thy word, saying, When wilt thou comfort me?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.119.83",
+      "edition_verse_id": "KJV1769:PSA.119.83",
+      "verse": 83,
+      "spans": [
+        {
+          "text": "For I am become like a bottle in the smoke; ",
+          "kind": "text"
+        },
+        {
+          "text": "yet",
+          "kind": "supplied"
+        },
+        {
+          "text": " do I not forget thy statutes.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.119.84",
+      "edition_verse_id": "KJV1769:PSA.119.84",
+      "verse": 84,
+      "spans": [
+        {
+          "text": "How many ",
+          "kind": "text"
+        },
+        {
+          "text": "are",
+          "kind": "supplied"
+        },
+        {
+          "text": " the days of thy servant? when wilt thou execute judgment on them that persecute me?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.119.85",
+      "edition_verse_id": "KJV1769:PSA.119.85",
+      "verse": 85,
+      "spans": [
+        {
+          "text": "The proud have digged pits for me, which ",
+          "kind": "text"
+        },
+        {
+          "text": "are",
+          "kind": "supplied"
+        },
+        {
+          "text": " not after thy law.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.119.86",
+      "edition_verse_id": "KJV1769:PSA.119.86",
+      "verse": 86,
+      "spans": [
+        {
+          "text": "All thy commandments ",
+          "kind": "text"
+        },
+        {
+          "text": "are",
+          "kind": "supplied"
+        },
+        {
+          "text": " faithful: they persecute me wrongfully; help thou me.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.119.87",
+      "edition_verse_id": "KJV1769:PSA.119.87",
+      "verse": 87,
+      "spans": [
+        {
+          "text": "They had almost consumed me upon earth; but I forsook not thy precepts.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.119.88",
+      "edition_verse_id": "KJV1769:PSA.119.88",
+      "verse": 88,
+      "spans": [
+        {
+          "text": "Quicken me after thy lovingkindness; so shall I keep the testimony of thy mouth.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.119.89",
+      "edition_verse_id": "KJV1769:PSA.119.89",
+      "verse": 89,
+      "spans": [
+        {
+          "text": "For ever, O LORD, thy word is settled in heaven.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.119.90",
+      "edition_verse_id": "KJV1769:PSA.119.90",
+      "verse": 90,
+      "spans": [
+        {
+          "text": "Thy faithfulness ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " unto all generations: thou hast established the earth, and it abideth.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.119.91",
+      "edition_verse_id": "KJV1769:PSA.119.91",
+      "verse": 91,
+      "spans": [
+        {
+          "text": "They continue this day according to thine ordinances: for all ",
+          "kind": "text"
+        },
+        {
+          "text": "are",
+          "kind": "supplied"
+        },
+        {
+          "text": " thy servants.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.119.92",
+      "edition_verse_id": "KJV1769:PSA.119.92",
+      "verse": 92,
+      "spans": [
+        {
+          "text": "Unless thy law ",
+          "kind": "text"
+        },
+        {
+          "text": "had been",
+          "kind": "supplied"
+        },
+        {
+          "text": " my delights, I should then have perished in mine affliction.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.119.93",
+      "edition_verse_id": "KJV1769:PSA.119.93",
+      "verse": 93,
+      "spans": [
+        {
+          "text": "I will never forget thy precepts: for with them thou hast quickened me.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.119.94",
+      "edition_verse_id": "KJV1769:PSA.119.94",
+      "verse": 94,
+      "spans": [
+        {
+          "text": "I ",
+          "kind": "text"
+        },
+        {
+          "text": "am",
+          "kind": "supplied"
+        },
+        {
+          "text": " thine, save me; for I have sought thy precepts.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.119.95",
+      "edition_verse_id": "KJV1769:PSA.119.95",
+      "verse": 95,
+      "spans": [
+        {
+          "text": "The wicked have waited for me to destroy me: ",
+          "kind": "text"
+        },
+        {
+          "text": "but",
+          "kind": "supplied"
+        },
+        {
+          "text": " I will consider thy testimonies.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.119.96",
+      "edition_verse_id": "KJV1769:PSA.119.96",
+      "verse": 96,
+      "spans": [
+        {
+          "text": "I have seen an end of all perfection: ",
+          "kind": "text"
+        },
+        {
+          "text": "but",
+          "kind": "supplied"
+        },
+        {
+          "text": " thy commandment ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " exceeding broad.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.119.97",
+      "edition_verse_id": "KJV1769:PSA.119.97",
+      "verse": 97,
+      "spans": [
+        {
+          "text": "O how love I thy law! it ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " my meditation all the day.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.119.98",
+      "edition_verse_id": "KJV1769:PSA.119.98",
+      "verse": 98,
+      "spans": [
+        {
+          "text": "Thou through thy commandments hast made me wiser than mine enemies: for they ",
+          "kind": "text"
+        },
+        {
+          "text": "are",
+          "kind": "supplied"
+        },
+        {
+          "text": " ever with me.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.119.99",
+      "edition_verse_id": "KJV1769:PSA.119.99",
+      "verse": 99,
+      "spans": [
+        {
+          "text": "I have more understanding than all my teachers: for thy testimonies ",
+          "kind": "text"
+        },
+        {
+          "text": "are",
+          "kind": "supplied"
+        },
+        {
+          "text": " my meditation.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.119.100",
+      "edition_verse_id": "KJV1769:PSA.119.100",
+      "verse": 100,
+      "spans": [
+        {
+          "text": "I understand more than the ancients, because I keep thy precepts.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.119.101",
+      "edition_verse_id": "KJV1769:PSA.119.101",
+      "verse": 101,
+      "spans": [
+        {
+          "text": "I have refrained my feet from every evil way, that I might keep thy word.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.119.102",
+      "edition_verse_id": "KJV1769:PSA.119.102",
+      "verse": 102,
+      "spans": [
+        {
+          "text": "I have not departed from thy judgments: for thou hast taught me.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.119.103",
+      "edition_verse_id": "KJV1769:PSA.119.103",
+      "verse": 103,
+      "spans": [
+        {
+          "text": "How sweet are thy words unto my taste! ",
+          "kind": "text"
+        },
+        {
+          "text": "yea, sweeter",
+          "kind": "supplied"
+        },
+        {
+          "text": " than honey to my mouth!",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.119.104",
+      "edition_verse_id": "KJV1769:PSA.119.104",
+      "verse": 104,
+      "spans": [
+        {
+          "text": "Through thy precepts I get understanding: therefore I hate every false way.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.119.105",
+      "edition_verse_id": "KJV1769:PSA.119.105",
+      "verse": 105,
+      "spans": [
+        {
+          "text": "Thy word ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " a lamp unto my feet, and a light unto my path.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.119.106",
+      "edition_verse_id": "KJV1769:PSA.119.106",
+      "verse": 106,
+      "spans": [
+        {
+          "text": "I have sworn, and I will perform ",
+          "kind": "text"
+        },
+        {
+          "text": "it",
+          "kind": "supplied"
+        },
+        {
+          "text": ", that I will keep thy righteous judgments.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.119.107",
+      "edition_verse_id": "KJV1769:PSA.119.107",
+      "verse": 107,
+      "spans": [
+        {
+          "text": "I am afflicted very much: quicken me, O LORD, according unto thy word.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.119.108",
+      "edition_verse_id": "KJV1769:PSA.119.108",
+      "verse": 108,
+      "spans": [
+        {
+          "text": "Accept, I beseech thee, the freewill offerings of my mouth, O LORD, and teach me thy judgments.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.119.109",
+      "edition_verse_id": "KJV1769:PSA.119.109",
+      "verse": 109,
+      "spans": [
+        {
+          "text": "My soul ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " continually in my hand: yet do I not forget thy law.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.119.110",
+      "edition_verse_id": "KJV1769:PSA.119.110",
+      "verse": 110,
+      "spans": [
+        {
+          "text": "The wicked have laid a snare for me: yet I erred not from thy precepts.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.119.111",
+      "edition_verse_id": "KJV1769:PSA.119.111",
+      "verse": 111,
+      "spans": [
+        {
+          "text": "Thy testimonies have I taken as an heritage for ever: for they ",
+          "kind": "text"
+        },
+        {
+          "text": "are",
+          "kind": "supplied"
+        },
+        {
+          "text": " the rejoicing of my heart.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.119.112",
+      "edition_verse_id": "KJV1769:PSA.119.112",
+      "verse": 112,
+      "spans": [
+        {
+          "text": "I have inclined mine heart to perform thy statutes alway, ",
+          "kind": "text"
+        },
+        {
+          "text": "even unto",
+          "kind": "supplied"
+        },
+        {
+          "text": " the end.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.119.113",
+      "edition_verse_id": "KJV1769:PSA.119.113",
+      "verse": 113,
+      "spans": [
+        {
+          "text": "I hate ",
+          "kind": "text"
+        },
+        {
+          "text": "vain",
+          "kind": "supplied"
+        },
+        {
+          "text": " thoughts: but thy law do I love.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.119.114",
+      "edition_verse_id": "KJV1769:PSA.119.114",
+      "verse": 114,
+      "spans": [
+        {
+          "text": "Thou ",
+          "kind": "text"
+        },
+        {
+          "text": "art",
+          "kind": "supplied"
+        },
+        {
+          "text": " my hiding place and my shield: I hope in thy word.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.119.115",
+      "edition_verse_id": "KJV1769:PSA.119.115",
+      "verse": 115,
+      "spans": [
+        {
+          "text": "Depart from me, ye evildoers: for I will keep the commandments of my God.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.119.116",
+      "edition_verse_id": "KJV1769:PSA.119.116",
+      "verse": 116,
+      "spans": [
+        {
+          "text": "Uphold me according unto thy word, that I may live: and let me not be ashamed of my hope.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.119.117",
+      "edition_verse_id": "KJV1769:PSA.119.117",
+      "verse": 117,
+      "spans": [
+        {
+          "text": "Hold thou me up, and I shall be safe: and I will have respect unto thy statutes continually.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.119.118",
+      "edition_verse_id": "KJV1769:PSA.119.118",
+      "verse": 118,
+      "spans": [
+        {
+          "text": "Thou hast trodden down all them that err from thy statutes: for their deceit ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " falsehood.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.119.119",
+      "edition_verse_id": "KJV1769:PSA.119.119",
+      "verse": 119,
+      "spans": [
+        {
+          "text": "Thou puttest away all the wicked of the earth ",
+          "kind": "text"
+        },
+        {
+          "text": "like",
+          "kind": "supplied"
+        },
+        {
+          "text": " dross: therefore I love thy testimonies.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.119.120",
+      "edition_verse_id": "KJV1769:PSA.119.120",
+      "verse": 120,
+      "spans": [
+        {
+          "text": "My flesh trembleth for fear of thee; and I am afraid of thy judgments.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.119.121",
+      "edition_verse_id": "KJV1769:PSA.119.121",
+      "verse": 121,
+      "spans": [
+        {
+          "text": "I have done judgment and justice: leave me not to mine oppressors.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.119.122",
+      "edition_verse_id": "KJV1769:PSA.119.122",
+      "verse": 122,
+      "spans": [
+        {
+          "text": "Be surety for thy servant for good: let not the proud oppress me.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.119.123",
+      "edition_verse_id": "KJV1769:PSA.119.123",
+      "verse": 123,
+      "spans": [
+        {
+          "text": "Mine eyes fail for thy salvation, and for the word of thy righteousness.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.119.124",
+      "edition_verse_id": "KJV1769:PSA.119.124",
+      "verse": 124,
+      "spans": [
+        {
+          "text": "Deal with thy servant according unto thy mercy, and teach me thy statutes.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.119.125",
+      "edition_verse_id": "KJV1769:PSA.119.125",
+      "verse": 125,
+      "spans": [
+        {
+          "text": "I ",
+          "kind": "text"
+        },
+        {
+          "text": "am",
+          "kind": "supplied"
+        },
+        {
+          "text": " thy servant; give me understanding, that I may know thy testimonies.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.119.126",
+      "edition_verse_id": "KJV1769:PSA.119.126",
+      "verse": 126,
+      "spans": [
+        {
+          "text": "It is",
+          "kind": "supplied"
+        },
+        {
+          "text": " time for ",
+          "kind": "text"
+        },
+        {
+          "text": "thee",
+          "kind": "supplied"
+        },
+        {
+          "text": ", LORD, to work: ",
+          "kind": "text"
+        },
+        {
+          "text": "for",
+          "kind": "supplied"
+        },
+        {
+          "text": " they have made void thy law.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.119.127",
+      "edition_verse_id": "KJV1769:PSA.119.127",
+      "verse": 127,
+      "spans": [
+        {
+          "text": "Therefore I love thy commandments above gold; yea, above fine gold.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.119.128",
+      "edition_verse_id": "KJV1769:PSA.119.128",
+      "verse": 128,
+      "spans": [
+        {
+          "text": "Therefore I esteem all ",
+          "kind": "text"
+        },
+        {
+          "text": "thy",
+          "kind": "supplied"
+        },
+        {
+          "text": " precepts ",
+          "kind": "text"
+        },
+        {
+          "text": "concerning",
+          "kind": "supplied"
+        },
+        {
+          "text": " all ",
+          "kind": "text"
+        },
+        {
+          "text": "things to be",
+          "kind": "supplied"
+        },
+        {
+          "text": " right; ",
+          "kind": "text"
+        },
+        {
+          "text": "and",
+          "kind": "supplied"
+        },
+        {
+          "text": " I hate every false way.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.119.129",
+      "edition_verse_id": "KJV1769:PSA.119.129",
+      "verse": 129,
+      "spans": [
+        {
+          "text": "Thy testimonies ",
+          "kind": "text"
+        },
+        {
+          "text": "are",
+          "kind": "supplied"
+        },
+        {
+          "text": " wonderful: therefore doth my soul keep them.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.119.130",
+      "edition_verse_id": "KJV1769:PSA.119.130",
+      "verse": 130,
+      "spans": [
+        {
+          "text": "The entrance of thy words giveth light; it giveth understanding unto the simple.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.119.131",
+      "edition_verse_id": "KJV1769:PSA.119.131",
+      "verse": 131,
+      "spans": [
+        {
+          "text": "I opened my mouth, and panted: for I longed for thy commandments.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.119.132",
+      "edition_verse_id": "KJV1769:PSA.119.132",
+      "verse": 132,
+      "spans": [
+        {
+          "text": "Look thou upon me, and be merciful unto me, as thou usest to do unto those that love thy name.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.119.133",
+      "edition_verse_id": "KJV1769:PSA.119.133",
+      "verse": 133,
+      "spans": [
+        {
+          "text": "Order my steps in thy word: and let not any iniquity have dominion over me.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.119.134",
+      "edition_verse_id": "KJV1769:PSA.119.134",
+      "verse": 134,
+      "spans": [
+        {
+          "text": "Deliver me from the oppression of man: so will I keep thy precepts.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.119.135",
+      "edition_verse_id": "KJV1769:PSA.119.135",
+      "verse": 135,
+      "spans": [
+        {
+          "text": "Make thy face to shine upon thy servant; and teach me thy statutes.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.119.136",
+      "edition_verse_id": "KJV1769:PSA.119.136",
+      "verse": 136,
+      "spans": [
+        {
+          "text": "Rivers of waters run down mine eyes, because they keep not thy law.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.119.137",
+      "edition_verse_id": "KJV1769:PSA.119.137",
+      "verse": 137,
+      "spans": [
+        {
+          "text": "Righteous ",
+          "kind": "text"
+        },
+        {
+          "text": "art",
+          "kind": "supplied"
+        },
+        {
+          "text": " thou, O LORD, and upright ",
+          "kind": "text"
+        },
+        {
+          "text": "are",
+          "kind": "supplied"
+        },
+        {
+          "text": " thy judgments.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.119.138",
+      "edition_verse_id": "KJV1769:PSA.119.138",
+      "verse": 138,
+      "spans": [
+        {
+          "text": "Thy testimonies ",
+          "kind": "text"
+        },
+        {
+          "text": "that",
+          "kind": "supplied"
+        },
+        {
+          "text": " thou hast commanded ",
+          "kind": "text"
+        },
+        {
+          "text": "are",
+          "kind": "supplied"
+        },
+        {
+          "text": " righteous and very faithful.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.119.139",
+      "edition_verse_id": "KJV1769:PSA.119.139",
+      "verse": 139,
+      "spans": [
+        {
+          "text": "My zeal hath consumed me, because mine enemies have forgotten thy words.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.119.140",
+      "edition_verse_id": "KJV1769:PSA.119.140",
+      "verse": 140,
+      "spans": [
+        {
+          "text": "Thy word ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " very pure: therefore thy servant loveth it.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.119.141",
+      "edition_verse_id": "KJV1769:PSA.119.141",
+      "verse": 141,
+      "spans": [
+        {
+          "text": "I ",
+          "kind": "text"
+        },
+        {
+          "text": "am",
+          "kind": "supplied"
+        },
+        {
+          "text": " small and despised: ",
+          "kind": "text"
+        },
+        {
+          "text": "yet",
+          "kind": "supplied"
+        },
+        {
+          "text": " do not I forget thy precepts.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.119.142",
+      "edition_verse_id": "KJV1769:PSA.119.142",
+      "verse": 142,
+      "spans": [
+        {
+          "text": "Thy righteousness ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " an everlasting righteousness, and thy law ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " the truth.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.119.143",
+      "edition_verse_id": "KJV1769:PSA.119.143",
+      "verse": 143,
+      "spans": [
+        {
+          "text": "Trouble and anguish have taken hold on me: ",
+          "kind": "text"
+        },
+        {
+          "text": "yet",
+          "kind": "supplied"
+        },
+        {
+          "text": " thy commandments ",
+          "kind": "text"
+        },
+        {
+          "text": "are",
+          "kind": "supplied"
+        },
+        {
+          "text": " my delights.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.119.144",
+      "edition_verse_id": "KJV1769:PSA.119.144",
+      "verse": 144,
+      "spans": [
+        {
+          "text": "The righteousness of thy testimonies ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " everlasting: give me understanding, and I shall live.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.119.145",
+      "edition_verse_id": "KJV1769:PSA.119.145",
+      "verse": 145,
+      "spans": [
+        {
+          "text": "I cried with ",
+          "kind": "text"
+        },
+        {
+          "text": "my",
+          "kind": "supplied"
+        },
+        {
+          "text": " whole heart; hear me, O LORD: I will keep thy statutes.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.119.146",
+      "edition_verse_id": "KJV1769:PSA.119.146",
+      "verse": 146,
+      "spans": [
+        {
+          "text": "I cried unto thee; save me, and I shall keep thy testimonies.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.119.147",
+      "edition_verse_id": "KJV1769:PSA.119.147",
+      "verse": 147,
+      "spans": [
+        {
+          "text": "I prevented the dawning of the morning, and cried: I hoped in thy word.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.119.148",
+      "edition_verse_id": "KJV1769:PSA.119.148",
+      "verse": 148,
+      "spans": [
+        {
+          "text": "Mine eyes prevent the ",
+          "kind": "text"
+        },
+        {
+          "text": "night",
+          "kind": "supplied"
+        },
+        {
+          "text": " watches, that I might meditate in thy word.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.119.149",
+      "edition_verse_id": "KJV1769:PSA.119.149",
+      "verse": 149,
+      "spans": [
+        {
+          "text": "Hear my voice according unto thy lovingkindness: O LORD, quicken me according to thy judgment.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.119.150",
+      "edition_verse_id": "KJV1769:PSA.119.150",
+      "verse": 150,
+      "spans": [
+        {
+          "text": "They draw nigh that follow after mischief: they are far from thy law.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.119.151",
+      "edition_verse_id": "KJV1769:PSA.119.151",
+      "verse": 151,
+      "spans": [
+        {
+          "text": "Thou ",
+          "kind": "text"
+        },
+        {
+          "text": "art",
+          "kind": "supplied"
+        },
+        {
+          "text": " near, O LORD; and all thy commandments ",
+          "kind": "text"
+        },
+        {
+          "text": "are",
+          "kind": "supplied"
+        },
+        {
+          "text": " truth.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.119.152",
+      "edition_verse_id": "KJV1769:PSA.119.152",
+      "verse": 152,
+      "spans": [
+        {
+          "text": "Concerning thy testimonies, I have known of old that thou hast founded them for ever.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.119.153",
+      "edition_verse_id": "KJV1769:PSA.119.153",
+      "verse": 153,
+      "spans": [
+        {
+          "text": "Consider mine affliction, and deliver me: for I do not forget thy law.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.119.154",
+      "edition_verse_id": "KJV1769:PSA.119.154",
+      "verse": 154,
+      "spans": [
+        {
+          "text": "Plead my cause, and deliver me: quicken me according to thy word.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.119.155",
+      "edition_verse_id": "KJV1769:PSA.119.155",
+      "verse": 155,
+      "spans": [
+        {
+          "text": "Salvation ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " far from the wicked: for they seek not thy statutes.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.119.156",
+      "edition_verse_id": "KJV1769:PSA.119.156",
+      "verse": 156,
+      "spans": [
+        {
+          "text": "Great ",
+          "kind": "text"
+        },
+        {
+          "text": "are",
+          "kind": "supplied"
+        },
+        {
+          "text": " thy tender mercies, O LORD: quicken me according to thy judgments.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.119.157",
+      "edition_verse_id": "KJV1769:PSA.119.157",
+      "verse": 157,
+      "spans": [
+        {
+          "text": "Many ",
+          "kind": "text"
+        },
+        {
+          "text": "are",
+          "kind": "supplied"
+        },
+        {
+          "text": " my persecutors and mine enemies; ",
+          "kind": "text"
+        },
+        {
+          "text": "yet",
+          "kind": "supplied"
+        },
+        {
+          "text": " do I not decline from thy testimonies.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.119.158",
+      "edition_verse_id": "KJV1769:PSA.119.158",
+      "verse": 158,
+      "spans": [
+        {
+          "text": "I beheld the transgressors, and was grieved; because they kept not thy word.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.119.159",
+      "edition_verse_id": "KJV1769:PSA.119.159",
+      "verse": 159,
+      "spans": [
+        {
+          "text": "Consider how I love thy precepts: quicken me, O LORD, according to thy lovingkindness.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.119.160",
+      "edition_verse_id": "KJV1769:PSA.119.160",
+      "verse": 160,
+      "spans": [
+        {
+          "text": "Thy word ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " true ",
+          "kind": "text"
+        },
+        {
+          "text": "from",
+          "kind": "supplied"
+        },
+        {
+          "text": " the beginning: and every one of thy righteous judgments ",
+          "kind": "text"
+        },
+        {
+          "text": "endureth",
+          "kind": "supplied"
+        },
+        {
+          "text": " for ever.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.119.161",
+      "edition_verse_id": "KJV1769:PSA.119.161",
+      "verse": 161,
+      "spans": [
+        {
+          "text": "Princes have persecuted me without a cause: but my heart standeth in awe of thy word.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.119.162",
+      "edition_verse_id": "KJV1769:PSA.119.162",
+      "verse": 162,
+      "spans": [
+        {
+          "text": "I rejoice at thy word, as one that findeth great spoil.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.119.163",
+      "edition_verse_id": "KJV1769:PSA.119.163",
+      "verse": 163,
+      "spans": [
+        {
+          "text": "I hate and abhor lying: ",
+          "kind": "text"
+        },
+        {
+          "text": "but",
+          "kind": "supplied"
+        },
+        {
+          "text": " thy law do I love.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.119.164",
+      "edition_verse_id": "KJV1769:PSA.119.164",
+      "verse": 164,
+      "spans": [
+        {
+          "text": "Seven times a day do I praise thee because of thy righteous judgments.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.119.165",
+      "edition_verse_id": "KJV1769:PSA.119.165",
+      "verse": 165,
+      "spans": [
+        {
+          "text": "Great peace have they which love thy law: and nothing shall offend them.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.119.166",
+      "edition_verse_id": "KJV1769:PSA.119.166",
+      "verse": 166,
+      "spans": [
+        {
+          "text": "LORD, I have hoped for thy salvation, and done thy commandments.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.119.167",
+      "edition_verse_id": "KJV1769:PSA.119.167",
+      "verse": 167,
+      "spans": [
+        {
+          "text": "My soul hath kept thy testimonies; and I love them exceedingly.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.119.168",
+      "edition_verse_id": "KJV1769:PSA.119.168",
+      "verse": 168,
+      "spans": [
+        {
+          "text": "I have kept thy precepts and thy testimonies: for all my ways ",
+          "kind": "text"
+        },
+        {
+          "text": "are",
+          "kind": "supplied"
+        },
+        {
+          "text": " before thee.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.119.169",
+      "edition_verse_id": "KJV1769:PSA.119.169",
+      "verse": 169,
+      "spans": [
+        {
+          "text": "Let my cry come near before thee, O LORD: give me understanding according to thy word.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.119.170",
+      "edition_verse_id": "KJV1769:PSA.119.170",
+      "verse": 170,
+      "spans": [
+        {
+          "text": "Let my supplication come before thee: deliver me according to thy word.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.119.171",
+      "edition_verse_id": "KJV1769:PSA.119.171",
+      "verse": 171,
+      "spans": [
+        {
+          "text": "My lips shall utter praise, when thou hast taught me thy statutes.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.119.172",
+      "edition_verse_id": "KJV1769:PSA.119.172",
+      "verse": 172,
+      "spans": [
+        {
+          "text": "My tongue shall speak of thy word: for all thy commandments ",
+          "kind": "text"
+        },
+        {
+          "text": "are",
+          "kind": "supplied"
+        },
+        {
+          "text": " righteousness.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.119.173",
+      "edition_verse_id": "KJV1769:PSA.119.173",
+      "verse": 173,
+      "spans": [
+        {
+          "text": "Let thine hand help me; for I have chosen thy precepts.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.119.174",
+      "edition_verse_id": "KJV1769:PSA.119.174",
+      "verse": 174,
+      "spans": [
+        {
+          "text": "I have longed for thy salvation, O LORD; and thy law ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " my delight.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.119.175",
+      "edition_verse_id": "KJV1769:PSA.119.175",
+      "verse": 175,
+      "spans": [
+        {
+          "text": "Let my soul live, and it shall praise thee; and let thy judgments help me.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.119.176",
+      "edition_verse_id": "KJV1769:PSA.119.176",
+      "verse": 176,
+      "spans": [
+        {
+          "text": "I have gone astray like a lost sheep; seek thy servant; for I do not forget thy commandments.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

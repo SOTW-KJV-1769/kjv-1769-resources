@@ -1,0 +1,212 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "KJV1769",
+  "book_code": "PSA",
+  "chapter": 42,
+  "verses": [
+    {
+      "id": "PSA.42.1",
+      "edition_verse_id": "KJV1769:PSA.42.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "As the hart panteth after the water brooks, so panteth my soul after thee, O God.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.42.2",
+      "edition_verse_id": "KJV1769:PSA.42.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "My soul thirsteth for God, for the living God: when shall I come and appear before God?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.42.3",
+      "edition_verse_id": "KJV1769:PSA.42.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "My tears have been my meat day and night, while they continually say unto me, Where ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " thy God?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.42.4",
+      "edition_verse_id": "KJV1769:PSA.42.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "When I remember these ",
+          "kind": "text"
+        },
+        {
+          "text": "things",
+          "kind": "supplied"
+        },
+        {
+          "text": ", I pour out my soul in me: for I had gone with the multitude, I went with them to the house of God, with the voice of joy and praise, with a multitude that kept holyday.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.42.5",
+      "edition_verse_id": "KJV1769:PSA.42.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "Why art thou cast down, O my soul? and ",
+          "kind": "text"
+        },
+        {
+          "text": "why",
+          "kind": "supplied"
+        },
+        {
+          "text": " art thou disquieted in me? hope thou in God: for I shall yet praise him ",
+          "kind": "text"
+        },
+        {
+          "text": "for",
+          "kind": "supplied"
+        },
+        {
+          "text": " the help of his countenance.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.42.6",
+      "edition_verse_id": "KJV1769:PSA.42.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "O my God, my soul is cast down within me: therefore will I remember thee from the land of Jordan, and of the Hermonites, from the hill Mizar.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.42.7",
+      "edition_verse_id": "KJV1769:PSA.42.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "Deep calleth unto deep at the noise of thy waterspouts: all thy waves and thy billows are gone over me.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.42.8",
+      "edition_verse_id": "KJV1769:PSA.42.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "Yet",
+          "kind": "supplied"
+        },
+        {
+          "text": " the LORD will command his lovingkindness in the daytime, and in the night his song ",
+          "kind": "text"
+        },
+        {
+          "text": "shall be",
+          "kind": "supplied"
+        },
+        {
+          "text": " with me, ",
+          "kind": "text"
+        },
+        {
+          "text": "and",
+          "kind": "supplied"
+        },
+        {
+          "text": " my prayer unto the God of my life.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.42.9",
+      "edition_verse_id": "KJV1769:PSA.42.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "I will say unto God my rock, Why hast thou forgotten me? why go I mourning because of the oppression of the enemy?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.42.10",
+      "edition_verse_id": "KJV1769:PSA.42.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "As",
+          "kind": "supplied"
+        },
+        {
+          "text": " with a sword in my bones, mine enemies reproach me; while they say daily unto me, Where ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " thy God?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.42.11",
+      "edition_verse_id": "KJV1769:PSA.42.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "Why art thou cast down, O my soul? and why art thou disquieted within me? hope thou in God: for I shall yet praise him, ",
+          "kind": "text"
+        },
+        {
+          "text": "who is",
+          "kind": "supplied"
+        },
+        {
+          "text": " the health of my countenance, and my God.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

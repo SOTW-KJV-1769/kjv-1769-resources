@@ -1,0 +1,60 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "KJV1769",
+  "book_code": "PSA",
+  "chapter": 134,
+  "verses": [
+    {
+      "id": "PSA.134.1",
+      "edition_verse_id": "KJV1769:PSA.134.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "Behold, bless ye the LORD, all ",
+          "kind": "text"
+        },
+        {
+          "text": "ye",
+          "kind": "supplied"
+        },
+        {
+          "text": " servants of the LORD, which by night stand in the house of the LORD.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.134.2",
+      "edition_verse_id": "KJV1769:PSA.134.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "Lift up your hands ",
+          "kind": "text"
+        },
+        {
+          "text": "in",
+          "kind": "supplied"
+        },
+        {
+          "text": " the sanctuary, and bless the LORD.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.134.3",
+      "edition_verse_id": "KJV1769:PSA.134.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "The LORD that made heaven and earth bless thee out of Zion.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

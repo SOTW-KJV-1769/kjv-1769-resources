@@ -1,0 +1,200 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "KJV1769",
+  "book_code": "PSA",
+  "chapter": 148,
+  "verses": [
+    {
+      "id": "PSA.148.1",
+      "edition_verse_id": "KJV1769:PSA.148.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "Praise ye the LORD. Praise ye the LORD from the heavens: praise him in the heights.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.148.2",
+      "edition_verse_id": "KJV1769:PSA.148.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "Praise ye him, all his angels: praise ye him, all his hosts.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.148.3",
+      "edition_verse_id": "KJV1769:PSA.148.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "Praise ye him, sun and moon: praise him, all ye stars of light.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.148.4",
+      "edition_verse_id": "KJV1769:PSA.148.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "Praise him, ye heavens of heavens, and ye waters that ",
+          "kind": "text"
+        },
+        {
+          "text": "be",
+          "kind": "supplied"
+        },
+        {
+          "text": " above the heavens.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.148.5",
+      "edition_verse_id": "KJV1769:PSA.148.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "Let them praise the name of the LORD: for he commanded, and they were created.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.148.6",
+      "edition_verse_id": "KJV1769:PSA.148.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "He hath also stablished them for ever and ever: he hath made a decree which shall not pass.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.148.7",
+      "edition_verse_id": "KJV1769:PSA.148.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "Praise the LORD from the earth, ye dragons, and all deeps:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.148.8",
+      "edition_verse_id": "KJV1769:PSA.148.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "Fire, and hail; snow, and vapour; stormy wind fulfilling his word:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.148.9",
+      "edition_verse_id": "KJV1769:PSA.148.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "Mountains, and all hills; fruitful trees, and all cedars:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.148.10",
+      "edition_verse_id": "KJV1769:PSA.148.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "Beasts, and all cattle; creeping things, and flying fowl:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.148.11",
+      "edition_verse_id": "KJV1769:PSA.148.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "Kings of the earth, and all people; princes, and all judges of the earth:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.148.12",
+      "edition_verse_id": "KJV1769:PSA.148.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "Both young men, and maidens; old men, and children:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.148.13",
+      "edition_verse_id": "KJV1769:PSA.148.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "Let them praise the name of the LORD: for his name alone is excellent; his glory ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " above the earth and heaven.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.148.14",
+      "edition_verse_id": "KJV1769:PSA.148.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "He also exalteth the horn of his people, the praise of all his saints; ",
+          "kind": "text"
+        },
+        {
+          "text": "even",
+          "kind": "supplied"
+        },
+        {
+          "text": " of the children of Israel, a people near unto him. Praise ye the LORD.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

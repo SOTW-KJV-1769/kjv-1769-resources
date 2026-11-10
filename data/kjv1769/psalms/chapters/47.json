@@ -1,0 +1,156 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "KJV1769",
+  "book_code": "PSA",
+  "chapter": 47,
+  "verses": [
+    {
+      "id": "PSA.47.1",
+      "edition_verse_id": "KJV1769:PSA.47.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "O clap your hands, all ye people; shout unto God with the voice of triumph.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.47.2",
+      "edition_verse_id": "KJV1769:PSA.47.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "For the LORD most high ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " terrible; ",
+          "kind": "text"
+        },
+        {
+          "text": "he is",
+          "kind": "supplied"
+        },
+        {
+          "text": " a great King over all the earth.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.47.3",
+      "edition_verse_id": "KJV1769:PSA.47.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "He shall subdue the people under us, and the nations under our feet.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.47.4",
+      "edition_verse_id": "KJV1769:PSA.47.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "He shall choose our inheritance for us, the excellency of Jacob whom he loved. Selah.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.47.5",
+      "edition_verse_id": "KJV1769:PSA.47.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "God is gone up with a shout, the LORD with the sound of a trumpet.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.47.6",
+      "edition_verse_id": "KJV1769:PSA.47.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "Sing praises to God, sing praises: sing praises unto our King, sing praises.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.47.7",
+      "edition_verse_id": "KJV1769:PSA.47.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "For God ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " the King of all the earth: sing ye praises with understanding.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.47.8",
+      "edition_verse_id": "KJV1769:PSA.47.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "God reigneth over the heathen: God sitteth upon the throne of his holiness.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.47.9",
+      "edition_verse_id": "KJV1769:PSA.47.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "The princes of the people are gathered together, ",
+          "kind": "text"
+        },
+        {
+          "text": "even",
+          "kind": "supplied"
+        },
+        {
+          "text": " the people of the God of Abraham: for the shields of the earth ",
+          "kind": "text"
+        },
+        {
+          "text": "belong",
+          "kind": "supplied"
+        },
+        {
+          "text": " unto God: he is greatly exalted.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

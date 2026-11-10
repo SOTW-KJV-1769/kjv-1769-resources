@@ -1,0 +1,456 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "KJV1769",
+  "book_code": "PSA",
+  "chapter": 55,
+  "verses": [
+    {
+      "id": "PSA.55.1",
+      "edition_verse_id": "KJV1769:PSA.55.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "Give ear to my prayer, O God; and hide not thyself from my supplication.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.55.2",
+      "edition_verse_id": "KJV1769:PSA.55.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "Attend unto me, and hear me: I mourn in my complaint, and make a noise;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.55.3",
+      "edition_verse_id": "KJV1769:PSA.55.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "Because of the voice of the enemy, because of the oppression of the wicked: for they cast iniquity upon me, and in wrath they hate me.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.55.4",
+      "edition_verse_id": "KJV1769:PSA.55.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "My heart is sore pained within me: and the terrors of death are fallen upon me.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.55.5",
+      "edition_verse_id": "KJV1769:PSA.55.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "Fearfulness and trembling are come upon me, and horror hath overwhelmed me.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.55.6",
+      "edition_verse_id": "KJV1769:PSA.55.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "And I said, Oh that I had wings like a dove! ",
+          "kind": "text"
+        },
+        {
+          "text": "for then",
+          "kind": "supplied"
+        },
+        {
+          "text": " would I fly away, and be at rest.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.55.7",
+      "edition_verse_id": "KJV1769:PSA.55.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "Lo, ",
+          "kind": "text"
+        },
+        {
+          "text": "then",
+          "kind": "supplied"
+        },
+        {
+          "text": " would I wander far off, ",
+          "kind": "text"
+        },
+        {
+          "text": "and",
+          "kind": "supplied"
+        },
+        {
+          "text": " remain in the wilderness. Selah.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.55.8",
+      "edition_verse_id": "KJV1769:PSA.55.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "I would hasten my escape from the windy storm ",
+          "kind": "text"
+        },
+        {
+          "text": "and",
+          "kind": "supplied"
+        },
+        {
+          "text": " tempest.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.55.9",
+      "edition_verse_id": "KJV1769:PSA.55.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "Destroy, O Lord, ",
+          "kind": "text"
+        },
+        {
+          "text": "and",
+          "kind": "supplied"
+        },
+        {
+          "text": " divide their tongues: for I have seen violence and strife in the city.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.55.10",
+      "edition_verse_id": "KJV1769:PSA.55.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "Day and night they go about it upon the walls thereof: mischief also and sorrow ",
+          "kind": "text"
+        },
+        {
+          "text": "are",
+          "kind": "supplied"
+        },
+        {
+          "text": " in the midst of it.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.55.11",
+      "edition_verse_id": "KJV1769:PSA.55.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "Wickedness ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " in the midst thereof: deceit and guile depart not from her streets.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.55.12",
+      "edition_verse_id": "KJV1769:PSA.55.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "For ",
+          "kind": "text"
+        },
+        {
+          "text": "it was",
+          "kind": "supplied"
+        },
+        {
+          "text": " not an enemy ",
+          "kind": "text"
+        },
+        {
+          "text": "that",
+          "kind": "supplied"
+        },
+        {
+          "text": " reproached me; then I could have borne ",
+          "kind": "text"
+        },
+        {
+          "text": "it:",
+          "kind": "supplied"
+        },
+        {
+          "text": " neither ",
+          "kind": "text"
+        },
+        {
+          "text": "was it",
+          "kind": "supplied"
+        },
+        {
+          "text": " he that hated me ",
+          "kind": "text"
+        },
+        {
+          "text": "that",
+          "kind": "supplied"
+        },
+        {
+          "text": " did magnify ",
+          "kind": "text"
+        },
+        {
+          "text": "himself",
+          "kind": "supplied"
+        },
+        {
+          "text": " against me; then I would have hid myself from him:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.55.13",
+      "edition_verse_id": "KJV1769:PSA.55.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "But ",
+          "kind": "text"
+        },
+        {
+          "text": "it was",
+          "kind": "supplied"
+        },
+        {
+          "text": " thou, a man mine equal, my guide, and mine acquaintance.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.55.14",
+      "edition_verse_id": "KJV1769:PSA.55.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "We took sweet counsel together, ",
+          "kind": "text"
+        },
+        {
+          "text": "and",
+          "kind": "supplied"
+        },
+        {
+          "text": " walked unto the house of God in company.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.55.15",
+      "edition_verse_id": "KJV1769:PSA.55.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "Let death seize upon them, ",
+          "kind": "text"
+        },
+        {
+          "text": "and",
+          "kind": "supplied"
+        },
+        {
+          "text": " let them go down quick into hell: for wickedness ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " in their dwellings, ",
+          "kind": "text"
+        },
+        {
+          "text": "and",
+          "kind": "supplied"
+        },
+        {
+          "text": " among them.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.55.16",
+      "edition_verse_id": "KJV1769:PSA.55.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "As for me, I will call upon God; and the LORD shall save me.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.55.17",
+      "edition_verse_id": "KJV1769:PSA.55.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "Evening, and morning, and at noon, will I pray, and cry aloud: and he shall hear my voice.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.55.18",
+      "edition_verse_id": "KJV1769:PSA.55.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "He hath delivered my soul in peace from the battle ",
+          "kind": "text"
+        },
+        {
+          "text": "that was",
+          "kind": "supplied"
+        },
+        {
+          "text": " against me: for there were many with me.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.55.19",
+      "edition_verse_id": "KJV1769:PSA.55.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "God shall hear, and afflict them, even he that abideth of old. Selah. Because they have no changes, therefore they fear not God.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.55.20",
+      "edition_verse_id": "KJV1769:PSA.55.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "He hath put forth his hands against such as be at peace with him: he hath broken his covenant.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.55.21",
+      "edition_verse_id": "KJV1769:PSA.55.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "The words",
+          "kind": "supplied"
+        },
+        {
+          "text": " of his mouth were smoother than butter, but war ",
+          "kind": "text"
+        },
+        {
+          "text": "was",
+          "kind": "supplied"
+        },
+        {
+          "text": " in his heart: his words were softer than oil, yet ",
+          "kind": "text"
+        },
+        {
+          "text": "were",
+          "kind": "supplied"
+        },
+        {
+          "text": " they drawn swords.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.55.22",
+      "edition_verse_id": "KJV1769:PSA.55.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "Cast thy burden upon the LORD, and he shall sustain thee: he shall never suffer the righteous to be moved.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.55.23",
+      "edition_verse_id": "KJV1769:PSA.55.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "But thou, O God, shalt bring them down into the pit of destruction: bloody and deceitful men shall not live out half their days; but I will trust in thee.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

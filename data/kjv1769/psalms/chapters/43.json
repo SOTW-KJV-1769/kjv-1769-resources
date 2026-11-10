@@ -1,0 +1,84 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "KJV1769",
+  "book_code": "PSA",
+  "chapter": 43,
+  "verses": [
+    {
+      "id": "PSA.43.1",
+      "edition_verse_id": "KJV1769:PSA.43.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "Judge me, O God, and plead my cause against an ungodly nation: O deliver me from the deceitful and unjust man.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.43.2",
+      "edition_verse_id": "KJV1769:PSA.43.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "For thou ",
+          "kind": "text"
+        },
+        {
+          "text": "art",
+          "kind": "supplied"
+        },
+        {
+          "text": " the God of my strength: why dost thou cast me off? why go I mourning because of the oppression of the enemy?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.43.3",
+      "edition_verse_id": "KJV1769:PSA.43.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "O send out thy light and thy truth: let them lead me; let them bring me unto thy holy hill, and to thy tabernacles.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.43.4",
+      "edition_verse_id": "KJV1769:PSA.43.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "Then will I go unto the altar of God, unto God my exceeding joy: yea, upon the harp will I praise thee, O God my God.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.43.5",
+      "edition_verse_id": "KJV1769:PSA.43.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "Why art thou cast down, O my soul? and why art thou disquieted within me? hope in God: for I shall yet praise him, ",
+          "kind": "text"
+        },
+        {
+          "text": "who is",
+          "kind": "supplied"
+        },
+        {
+          "text": " the health of my countenance, and my God.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

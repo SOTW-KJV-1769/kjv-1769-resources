@@ -1,0 +1,348 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "KJV1769",
+  "book_code": "PSA",
+  "chapter": 145,
+  "verses": [
+    {
+      "id": "PSA.145.1",
+      "edition_verse_id": "KJV1769:PSA.145.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "I will extol thee, my God, O king; and I will bless thy name for ever and ever.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.145.2",
+      "edition_verse_id": "KJV1769:PSA.145.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "Every day will I bless thee; and I will praise thy name for ever and ever.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.145.3",
+      "edition_verse_id": "KJV1769:PSA.145.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "Great ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " the LORD, and greatly to be praised; and his greatness ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " unsearchable.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.145.4",
+      "edition_verse_id": "KJV1769:PSA.145.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "One generation shall praise thy works to another, and shall declare thy mighty acts.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.145.5",
+      "edition_verse_id": "KJV1769:PSA.145.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "I will speak of the glorious honour of thy majesty, and of thy wondrous works.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.145.6",
+      "edition_verse_id": "KJV1769:PSA.145.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "And ",
+          "kind": "text"
+        },
+        {
+          "text": "men",
+          "kind": "supplied"
+        },
+        {
+          "text": " shall speak of the might of thy terrible acts: and I will declare thy greatness.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.145.7",
+      "edition_verse_id": "KJV1769:PSA.145.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "They shall abundantly utter the memory of thy great goodness, and shall sing of thy righteousness.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.145.8",
+      "edition_verse_id": "KJV1769:PSA.145.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "The LORD ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " gracious, and full of compassion; slow to anger, and of great mercy.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.145.9",
+      "edition_verse_id": "KJV1769:PSA.145.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "The LORD ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " good to all: and his tender mercies ",
+          "kind": "text"
+        },
+        {
+          "text": "are",
+          "kind": "supplied"
+        },
+        {
+          "text": " over all his works.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.145.10",
+      "edition_verse_id": "KJV1769:PSA.145.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "All thy works shall praise thee, O LORD; and thy saints shall bless thee.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.145.11",
+      "edition_verse_id": "KJV1769:PSA.145.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "They shall speak of the glory of thy kingdom, and talk of thy power;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.145.12",
+      "edition_verse_id": "KJV1769:PSA.145.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "To make known to the sons of men his mighty acts, and the glorious majesty of his kingdom.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.145.13",
+      "edition_verse_id": "KJV1769:PSA.145.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "Thy kingdom ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " an everlasting kingdom, and thy dominion ",
+          "kind": "text"
+        },
+        {
+          "text": "endureth",
+          "kind": "supplied"
+        },
+        {
+          "text": " throughout all generations.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.145.14",
+      "edition_verse_id": "KJV1769:PSA.145.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "The LORD upholdeth all that fall, and raiseth up all ",
+          "kind": "text"
+        },
+        {
+          "text": "those that be",
+          "kind": "supplied"
+        },
+        {
+          "text": " bowed down.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.145.15",
+      "edition_verse_id": "KJV1769:PSA.145.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "The eyes of all wait upon thee; and thou givest them their meat in due season.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.145.16",
+      "edition_verse_id": "KJV1769:PSA.145.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "Thou openest thine hand, and satisfiest the desire of every living thing.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.145.17",
+      "edition_verse_id": "KJV1769:PSA.145.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "The LORD ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " righteous in all his ways, and holy in all his works.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.145.18",
+      "edition_verse_id": "KJV1769:PSA.145.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "The LORD ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " nigh unto all them that call upon him, to all that call upon him in truth.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.145.19",
+      "edition_verse_id": "KJV1769:PSA.145.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "He will fulfil the desire of them that fear him: he also will hear their cry, and will save them.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.145.20",
+      "edition_verse_id": "KJV1769:PSA.145.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "The LORD preserveth all them that love him: but all the wicked will he destroy.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.145.21",
+      "edition_verse_id": "KJV1769:PSA.145.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "My mouth shall speak the praise of the LORD: and let all flesh bless his holy name for ever and ever.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

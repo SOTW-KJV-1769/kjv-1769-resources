@@ -1,0 +1,228 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "KJV1769",
+  "book_code": "PSA",
+  "chapter": 32,
+  "verses": [
+    {
+      "id": "PSA.32.1",
+      "edition_verse_id": "KJV1769:PSA.32.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "Blessed ",
+          "kind": "text"
+        },
+        {
+          "text": "is he whose",
+          "kind": "supplied"
+        },
+        {
+          "text": " transgression ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " forgiven, ",
+          "kind": "text"
+        },
+        {
+          "text": "whose",
+          "kind": "supplied"
+        },
+        {
+          "text": " sin ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " covered.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.32.2",
+      "edition_verse_id": "KJV1769:PSA.32.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "Blessed ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " the man unto whom the LORD imputeth not iniquity, and in whose spirit ",
+          "kind": "text"
+        },
+        {
+          "text": "there is",
+          "kind": "supplied"
+        },
+        {
+          "text": " no guile.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.32.3",
+      "edition_verse_id": "KJV1769:PSA.32.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "When I kept silence, my bones waxed old through my roaring all the day long.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.32.4",
+      "edition_verse_id": "KJV1769:PSA.32.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "For day and night thy hand was heavy upon me: my moisture is turned into the drought of summer. Selah.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.32.5",
+      "edition_verse_id": "KJV1769:PSA.32.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "I acknowledged my sin unto thee, and mine iniquity have I not hid. I said, I will confess my transgressions unto the LORD; and thou forgavest the iniquity of my sin. Selah.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.32.6",
+      "edition_verse_id": "KJV1769:PSA.32.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "For this shall every one that is godly pray unto thee in a time when thou mayest be found: surely in the floods of great waters they shall not come nigh unto him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.32.7",
+      "edition_verse_id": "KJV1769:PSA.32.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "Thou ",
+          "kind": "text"
+        },
+        {
+          "text": "art",
+          "kind": "supplied"
+        },
+        {
+          "text": " my hiding place; thou shalt preserve me from trouble; thou shalt compass me about with songs of deliverance. Selah.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.32.8",
+      "edition_verse_id": "KJV1769:PSA.32.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "I will instruct thee and teach thee in the way which thou shalt go: I will guide thee with mine eye.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.32.9",
+      "edition_verse_id": "KJV1769:PSA.32.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "Be ye not as the horse, ",
+          "kind": "text"
+        },
+        {
+          "text": "or",
+          "kind": "supplied"
+        },
+        {
+          "text": " as the mule, ",
+          "kind": "text"
+        },
+        {
+          "text": "which",
+          "kind": "supplied"
+        },
+        {
+          "text": " have no understanding: whose mouth must be held in with bit and bridle, lest they come near unto thee.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.32.10",
+      "edition_verse_id": "KJV1769:PSA.32.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "Many sorrows ",
+          "kind": "text"
+        },
+        {
+          "text": "shall be",
+          "kind": "supplied"
+        },
+        {
+          "text": " to the wicked: but he that trusteth in the LORD, mercy shall compass him about.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.32.11",
+      "edition_verse_id": "KJV1769:PSA.32.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "Be glad in the LORD, and rejoice, ye righteous: and shout for joy, all ",
+          "kind": "text"
+        },
+        {
+          "text": "ye that are",
+          "kind": "supplied"
+        },
+        {
+          "text": " upright in heart.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

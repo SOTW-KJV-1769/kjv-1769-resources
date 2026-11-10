@@ -1,0 +1,428 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "KJV1769",
+  "book_code": "PSA",
+  "chapter": 38,
+  "verses": [
+    {
+      "id": "PSA.38.1",
+      "edition_verse_id": "KJV1769:PSA.38.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "O LORD, rebuke me not in thy wrath: neither chasten me in thy hot displeasure.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.38.2",
+      "edition_verse_id": "KJV1769:PSA.38.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "For thine arrows stick fast in me, and thy hand presseth me sore.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.38.3",
+      "edition_verse_id": "KJV1769:PSA.38.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "There is",
+          "kind": "supplied"
+        },
+        {
+          "text": " no soundness in my flesh because of thine anger; neither ",
+          "kind": "text"
+        },
+        {
+          "text": "is there any",
+          "kind": "supplied"
+        },
+        {
+          "text": " rest in my bones because of my sin.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.38.4",
+      "edition_verse_id": "KJV1769:PSA.38.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "For mine iniquities are gone over mine head: as an heavy burden they are too heavy for me.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.38.5",
+      "edition_verse_id": "KJV1769:PSA.38.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "My wounds stink ",
+          "kind": "text"
+        },
+        {
+          "text": "and",
+          "kind": "supplied"
+        },
+        {
+          "text": " are corrupt because of my foolishness.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.38.6",
+      "edition_verse_id": "KJV1769:PSA.38.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "I am troubled; I am bowed down greatly; I go mourning all the day long.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.38.7",
+      "edition_verse_id": "KJV1769:PSA.38.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "For my loins are filled with a loathsome ",
+          "kind": "text"
+        },
+        {
+          "text": "disease:",
+          "kind": "supplied"
+        },
+        {
+          "text": " and ",
+          "kind": "text"
+        },
+        {
+          "text": "there is",
+          "kind": "supplied"
+        },
+        {
+          "text": " no soundness in my flesh.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.38.8",
+      "edition_verse_id": "KJV1769:PSA.38.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "I am feeble and sore broken: I have roared by reason of the disquietness of my heart.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.38.9",
+      "edition_verse_id": "KJV1769:PSA.38.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "Lord, all my desire ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " before thee; and my groaning is not hid from thee.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.38.10",
+      "edition_verse_id": "KJV1769:PSA.38.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "My heart panteth, my strength faileth me: as for the light of mine eyes, it also is gone from me.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.38.11",
+      "edition_verse_id": "KJV1769:PSA.38.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "My lovers and my friends stand aloof from my sore; and my kinsmen stand afar off.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.38.12",
+      "edition_verse_id": "KJV1769:PSA.38.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "They also that seek after my life lay snares ",
+          "kind": "text"
+        },
+        {
+          "text": "for me:",
+          "kind": "supplied"
+        },
+        {
+          "text": " and they that seek my hurt speak mischievous things, and imagine deceits all the day long.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.38.13",
+      "edition_verse_id": "KJV1769:PSA.38.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "But I, as a deaf ",
+          "kind": "text"
+        },
+        {
+          "text": "man",
+          "kind": "supplied"
+        },
+        {
+          "text": ", heard not; and ",
+          "kind": "text"
+        },
+        {
+          "text": "I was",
+          "kind": "supplied"
+        },
+        {
+          "text": " as a dumb man ",
+          "kind": "text"
+        },
+        {
+          "text": "that",
+          "kind": "supplied"
+        },
+        {
+          "text": " openeth not his mouth.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.38.14",
+      "edition_verse_id": "KJV1769:PSA.38.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "Thus I was as a man that heareth not, and in whose mouth ",
+          "kind": "text"
+        },
+        {
+          "text": "are",
+          "kind": "supplied"
+        },
+        {
+          "text": " no reproofs.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.38.15",
+      "edition_verse_id": "KJV1769:PSA.38.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "For in thee, O LORD, do I hope: thou wilt hear, O Lord my God.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.38.16",
+      "edition_verse_id": "KJV1769:PSA.38.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "For I said, ",
+          "kind": "text"
+        },
+        {
+          "text": "Hear me",
+          "kind": "supplied"
+        },
+        {
+          "text": ", lest ",
+          "kind": "text"
+        },
+        {
+          "text": "otherwise",
+          "kind": "supplied"
+        },
+        {
+          "text": " they should rejoice over me: when my foot slippeth, they magnify ",
+          "kind": "text"
+        },
+        {
+          "text": "themselves",
+          "kind": "supplied"
+        },
+        {
+          "text": " against me.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.38.17",
+      "edition_verse_id": "KJV1769:PSA.38.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "For I ",
+          "kind": "text"
+        },
+        {
+          "text": "am",
+          "kind": "supplied"
+        },
+        {
+          "text": " ready to halt, and my sorrow ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " continually before me.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.38.18",
+      "edition_verse_id": "KJV1769:PSA.38.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "For I will declare mine iniquity; I will be sorry for my sin.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.38.19",
+      "edition_verse_id": "KJV1769:PSA.38.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "But mine enemies ",
+          "kind": "text"
+        },
+        {
+          "text": "are",
+          "kind": "supplied"
+        },
+        {
+          "text": " lively, ",
+          "kind": "text"
+        },
+        {
+          "text": "and",
+          "kind": "supplied"
+        },
+        {
+          "text": " they are strong: and they that hate me wrongfully are multiplied.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.38.20",
+      "edition_verse_id": "KJV1769:PSA.38.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "They also that render evil for good are mine adversaries; because I follow ",
+          "kind": "text"
+        },
+        {
+          "text": "the thing that",
+          "kind": "supplied"
+        },
+        {
+          "text": " good ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": ".",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.38.21",
+      "edition_verse_id": "KJV1769:PSA.38.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "Forsake me not, O LORD: O my God, be not far from me.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.38.22",
+      "edition_verse_id": "KJV1769:PSA.38.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "Make haste to help me, O Lord my salvation.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

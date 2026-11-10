@@ -1,0 +1,40 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "KJV1769",
+  "book_code": "PSA",
+  "chapter": 117,
+  "verses": [
+    {
+      "id": "PSA.117.1",
+      "edition_verse_id": "KJV1769:PSA.117.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "O praise the LORD, all ye nations: praise him, all ye people.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.117.2",
+      "edition_verse_id": "KJV1769:PSA.117.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "For his merciful kindness is great toward us: and the truth of the LORD ",
+          "kind": "text"
+        },
+        {
+          "text": "endureth",
+          "kind": "supplied"
+        },
+        {
+          "text": " for ever. Praise ye the LORD.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

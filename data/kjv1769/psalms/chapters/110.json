@@ -1,0 +1,116 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "KJV1769",
+  "book_code": "PSA",
+  "chapter": 110,
+  "verses": [
+    {
+      "id": "PSA.110.1",
+      "edition_verse_id": "KJV1769:PSA.110.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "The LORD said unto my Lord, Sit thou at my right hand, until I make thine enemies thy footstool.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.110.2",
+      "edition_verse_id": "KJV1769:PSA.110.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "The LORD shall send the rod of thy strength out of Zion: rule thou in the midst of thine enemies.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.110.3",
+      "edition_verse_id": "KJV1769:PSA.110.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "Thy people ",
+          "kind": "text"
+        },
+        {
+          "text": "shall be",
+          "kind": "supplied"
+        },
+        {
+          "text": " willing in the day of thy power, in the beauties of holiness from the womb of the morning: thou hast the dew of thy youth.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.110.4",
+      "edition_verse_id": "KJV1769:PSA.110.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "The LORD hath sworn, and will not repent, Thou ",
+          "kind": "text"
+        },
+        {
+          "text": "art",
+          "kind": "supplied"
+        },
+        {
+          "text": " a priest for ever after the order of Melchizedek.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.110.5",
+      "edition_verse_id": "KJV1769:PSA.110.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "The Lord at thy right hand shall strike through kings in the day of his wrath.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.110.6",
+      "edition_verse_id": "KJV1769:PSA.110.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "He shall judge among the heathen, he shall fill ",
+          "kind": "text"
+        },
+        {
+          "text": "the places",
+          "kind": "supplied"
+        },
+        {
+          "text": " with the dead bodies; he shall wound the heads over many countries.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.110.7",
+      "edition_verse_id": "KJV1769:PSA.110.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "He shall drink of the brook in the way: therefore shall he lift up the head.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

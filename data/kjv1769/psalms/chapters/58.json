@@ -1,0 +1,236 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "KJV1769",
+  "book_code": "PSA",
+  "chapter": 58,
+  "verses": [
+    {
+      "id": "PSA.58.1",
+      "edition_verse_id": "KJV1769:PSA.58.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "Do ye indeed speak righteousness, O congregation? do ye judge uprightly, O ye sons of men?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.58.2",
+      "edition_verse_id": "KJV1769:PSA.58.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "Yea, in heart ye work wickedness; ye weigh the violence of your hands in the earth.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.58.3",
+      "edition_verse_id": "KJV1769:PSA.58.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "The wicked are estranged from the womb: they go astray as soon as they be born, speaking lies.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.58.4",
+      "edition_verse_id": "KJV1769:PSA.58.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "Their poison ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " like the poison of a serpent: ",
+          "kind": "text"
+        },
+        {
+          "text": "they are",
+          "kind": "supplied"
+        },
+        {
+          "text": " like the deaf adder ",
+          "kind": "text"
+        },
+        {
+          "text": "that",
+          "kind": "supplied"
+        },
+        {
+          "text": " stoppeth her ear;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.58.5",
+      "edition_verse_id": "KJV1769:PSA.58.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "Which will not hearken to the voice of charmers, charming never so wisely.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.58.6",
+      "edition_verse_id": "KJV1769:PSA.58.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "Break their teeth, O God, in their mouth: break out the great teeth of the young lions, O LORD.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.58.7",
+      "edition_verse_id": "KJV1769:PSA.58.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "Let them melt away as waters ",
+          "kind": "text"
+        },
+        {
+          "text": "which",
+          "kind": "supplied"
+        },
+        {
+          "text": " run continually: ",
+          "kind": "text"
+        },
+        {
+          "text": "when",
+          "kind": "supplied"
+        },
+        {
+          "text": " he bendeth ",
+          "kind": "text"
+        },
+        {
+          "text": "his bow to shoot",
+          "kind": "supplied"
+        },
+        {
+          "text": " his arrows, let them be as cut in pieces.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.58.8",
+      "edition_verse_id": "KJV1769:PSA.58.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "As a snail ",
+          "kind": "text"
+        },
+        {
+          "text": "which",
+          "kind": "supplied"
+        },
+        {
+          "text": " melteth, let ",
+          "kind": "text"
+        },
+        {
+          "text": "every one of them",
+          "kind": "supplied"
+        },
+        {
+          "text": " pass away: ",
+          "kind": "text"
+        },
+        {
+          "text": "like",
+          "kind": "supplied"
+        },
+        {
+          "text": " the untimely birth of a woman, ",
+          "kind": "text"
+        },
+        {
+          "text": "that",
+          "kind": "supplied"
+        },
+        {
+          "text": " they may not see the sun.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.58.9",
+      "edition_verse_id": "KJV1769:PSA.58.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "Before your pots can feel the thorns, he shall take them away as with a whirlwind, both living, and in ",
+          "kind": "text"
+        },
+        {
+          "text": "his",
+          "kind": "supplied"
+        },
+        {
+          "text": " wrath.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.58.10",
+      "edition_verse_id": "KJV1769:PSA.58.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "The righteous shall rejoice when he seeth the vengeance: he shall wash his feet in the blood of the wicked.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.58.11",
+      "edition_verse_id": "KJV1769:PSA.58.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "So that a man shall say, Verily ",
+          "kind": "text"
+        },
+        {
+          "text": "there is",
+          "kind": "supplied"
+        },
+        {
+          "text": " a reward for the righteous: verily he is a God that judgeth in the earth.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

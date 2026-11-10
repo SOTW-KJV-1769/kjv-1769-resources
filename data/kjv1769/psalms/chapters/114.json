@@ -1,0 +1,168 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "KJV1769",
+  "book_code": "PSA",
+  "chapter": 114,
+  "verses": [
+    {
+      "id": "PSA.114.1",
+      "edition_verse_id": "KJV1769:PSA.114.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "When Israel went out of Egypt, the house of Jacob from a people of strange language;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.114.2",
+      "edition_verse_id": "KJV1769:PSA.114.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "Judah was his sanctuary, ",
+          "kind": "text"
+        },
+        {
+          "text": "and",
+          "kind": "supplied"
+        },
+        {
+          "text": " Israel his dominion.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.114.3",
+      "edition_verse_id": "KJV1769:PSA.114.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "The sea saw ",
+          "kind": "text"
+        },
+        {
+          "text": "it",
+          "kind": "supplied"
+        },
+        {
+          "text": ", and fled: Jordan was driven back.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.114.4",
+      "edition_verse_id": "KJV1769:PSA.114.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "The mountains skipped like rams, ",
+          "kind": "text"
+        },
+        {
+          "text": "and",
+          "kind": "supplied"
+        },
+        {
+          "text": " the little hills like lambs.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.114.5",
+      "edition_verse_id": "KJV1769:PSA.114.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "What ",
+          "kind": "text"
+        },
+        {
+          "text": "ailed",
+          "kind": "supplied"
+        },
+        {
+          "text": " thee, O thou sea, that thou fleddest? thou Jordan, ",
+          "kind": "text"
+        },
+        {
+          "text": "that",
+          "kind": "supplied"
+        },
+        {
+          "text": " thou wast driven back?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.114.6",
+      "edition_verse_id": "KJV1769:PSA.114.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "Ye mountains, ",
+          "kind": "text"
+        },
+        {
+          "text": "that",
+          "kind": "supplied"
+        },
+        {
+          "text": " ye skipped like rams; ",
+          "kind": "text"
+        },
+        {
+          "text": "and",
+          "kind": "supplied"
+        },
+        {
+          "text": " ye little hills, like lambs?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.114.7",
+      "edition_verse_id": "KJV1769:PSA.114.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "Tremble, thou earth, at the presence of the Lord, at the presence of the God of Jacob;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.114.8",
+      "edition_verse_id": "KJV1769:PSA.114.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "Which turned the rock ",
+          "kind": "text"
+        },
+        {
+          "text": "into",
+          "kind": "supplied"
+        },
+        {
+          "text": " a standing water, the flint into a fountain of waters.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

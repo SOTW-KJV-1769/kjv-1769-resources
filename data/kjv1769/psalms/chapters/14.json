@@ -1,0 +1,172 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "KJV1769",
+  "book_code": "PSA",
+  "chapter": 14,
+  "verses": [
+    {
+      "id": "PSA.14.1",
+      "edition_verse_id": "KJV1769:PSA.14.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "The fool hath said in his heart, ",
+          "kind": "text"
+        },
+        {
+          "text": "There is",
+          "kind": "supplied"
+        },
+        {
+          "text": " no God. They are corrupt, they have done abominable works, ",
+          "kind": "text"
+        },
+        {
+          "text": "there is",
+          "kind": "supplied"
+        },
+        {
+          "text": " none that doeth good.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.14.2",
+      "edition_verse_id": "KJV1769:PSA.14.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "The LORD looked down from heaven upon the children of men, to see if there were any that did understand, ",
+          "kind": "text"
+        },
+        {
+          "text": "and",
+          "kind": "supplied"
+        },
+        {
+          "text": " seek God.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.14.3",
+      "edition_verse_id": "KJV1769:PSA.14.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "They are all gone aside, they are ",
+          "kind": "text"
+        },
+        {
+          "text": "all",
+          "kind": "supplied"
+        },
+        {
+          "text": " together become filthy: ",
+          "kind": "text"
+        },
+        {
+          "text": "there is",
+          "kind": "supplied"
+        },
+        {
+          "text": " none that doeth good, no, not one.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.14.4",
+      "edition_verse_id": "KJV1769:PSA.14.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "Have all the workers of iniquity no knowledge? who eat up my people ",
+          "kind": "text"
+        },
+        {
+          "text": "as",
+          "kind": "supplied"
+        },
+        {
+          "text": " they eat bread, and call not upon the LORD.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.14.5",
+      "edition_verse_id": "KJV1769:PSA.14.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "There were they in great fear: for God ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " in the generation of the righteous.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.14.6",
+      "edition_verse_id": "KJV1769:PSA.14.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "Ye have shamed the counsel of the poor, because the LORD ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " his refuge.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.14.7",
+      "edition_verse_id": "KJV1769:PSA.14.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "Oh that the salvation of Israel ",
+          "kind": "text"
+        },
+        {
+          "text": "were come",
+          "kind": "supplied"
+        },
+        {
+          "text": " out of Zion! when the LORD bringeth back the captivity of his people, Jacob shall rejoice, ",
+          "kind": "text"
+        },
+        {
+          "text": "and",
+          "kind": "supplied"
+        },
+        {
+          "text": " Israel shall be glad.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

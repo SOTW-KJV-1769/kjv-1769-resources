@@ -1,0 +1,236 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "KJV1769",
+  "book_code": "PSA",
+  "chapter": 46,
+  "verses": [
+    {
+      "id": "PSA.46.1",
+      "edition_verse_id": "KJV1769:PSA.46.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "God ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " our refuge and strength, a very present help in trouble.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.46.2",
+      "edition_verse_id": "KJV1769:PSA.46.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "Therefore will not we fear, though the earth be removed, and though the mountains be carried into the midst of the sea;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.46.3",
+      "edition_verse_id": "KJV1769:PSA.46.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "Though",
+          "kind": "supplied"
+        },
+        {
+          "text": " the waters thereof roar ",
+          "kind": "text"
+        },
+        {
+          "text": "and",
+          "kind": "supplied"
+        },
+        {
+          "text": " be troubled, ",
+          "kind": "text"
+        },
+        {
+          "text": "though",
+          "kind": "supplied"
+        },
+        {
+          "text": " the mountains shake with the swelling thereof. Selah.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.46.4",
+      "edition_verse_id": "KJV1769:PSA.46.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "There is",
+          "kind": "supplied"
+        },
+        {
+          "text": " a river, the streams whereof shall make glad the city of God, the holy ",
+          "kind": "text"
+        },
+        {
+          "text": "place",
+          "kind": "supplied"
+        },
+        {
+          "text": " of the tabernacles of the most High.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.46.5",
+      "edition_verse_id": "KJV1769:PSA.46.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "God ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " in the midst of her; she shall not be moved: God shall help her, ",
+          "kind": "text"
+        },
+        {
+          "text": "and that",
+          "kind": "supplied"
+        },
+        {
+          "text": " right early.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.46.6",
+      "edition_verse_id": "KJV1769:PSA.46.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "The heathen raged, the kingdoms were moved: he uttered his voice, the earth melted.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.46.7",
+      "edition_verse_id": "KJV1769:PSA.46.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "The LORD of hosts ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " with us; the God of Jacob ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " our refuge. Selah.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.46.8",
+      "edition_verse_id": "KJV1769:PSA.46.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "Come, behold the works of the LORD, what desolations he hath made in the earth.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.46.9",
+      "edition_verse_id": "KJV1769:PSA.46.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "He maketh wars to cease unto the end of the earth; he breaketh the bow, and cutteth the spear in sunder; he burneth the chariot in the fire.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.46.10",
+      "edition_verse_id": "KJV1769:PSA.46.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "Be still, and know that I ",
+          "kind": "text"
+        },
+        {
+          "text": "am",
+          "kind": "supplied"
+        },
+        {
+          "text": " God: I will be exalted among the heathen, I will be exalted in the earth.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.46.11",
+      "edition_verse_id": "KJV1769:PSA.46.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "The LORD of hosts ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " with us; the God of Jacob ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " our refuge. Selah.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

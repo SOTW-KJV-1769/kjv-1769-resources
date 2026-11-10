@@ -1,0 +1,264 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "KJV1769",
+  "book_code": "PSA",
+  "chapter": 48,
+  "verses": [
+    {
+      "id": "PSA.48.1",
+      "edition_verse_id": "KJV1769:PSA.48.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "Great ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " the LORD, and greatly to be praised in the city of our God, ",
+          "kind": "text"
+        },
+        {
+          "text": "in",
+          "kind": "supplied"
+        },
+        {
+          "text": " the mountain of his holiness.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.48.2",
+      "edition_verse_id": "KJV1769:PSA.48.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "Beautiful for situation, the joy of the whole earth, ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " mount Zion, ",
+          "kind": "text"
+        },
+        {
+          "text": "on",
+          "kind": "supplied"
+        },
+        {
+          "text": " the sides of the north, the city of the great King.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.48.3",
+      "edition_verse_id": "KJV1769:PSA.48.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "God is known in her palaces for a refuge.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.48.4",
+      "edition_verse_id": "KJV1769:PSA.48.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "For, lo, the kings were assembled, they passed by together.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.48.5",
+      "edition_verse_id": "KJV1769:PSA.48.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "They saw ",
+          "kind": "text"
+        },
+        {
+          "text": "it, and",
+          "kind": "supplied"
+        },
+        {
+          "text": " so they marvelled; they were troubled, ",
+          "kind": "text"
+        },
+        {
+          "text": "and",
+          "kind": "supplied"
+        },
+        {
+          "text": " hasted away.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.48.6",
+      "edition_verse_id": "KJV1769:PSA.48.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "Fear took hold upon them there, ",
+          "kind": "text"
+        },
+        {
+          "text": "and",
+          "kind": "supplied"
+        },
+        {
+          "text": " pain, as of a woman in travail.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.48.7",
+      "edition_verse_id": "KJV1769:PSA.48.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "Thou breakest the ships of Tarshish with an east wind.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.48.8",
+      "edition_verse_id": "KJV1769:PSA.48.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "As we have heard, so have we seen in the city of the LORD of hosts, in the city of our God: God will establish it for ever. Selah.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.48.9",
+      "edition_verse_id": "KJV1769:PSA.48.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "We have thought of thy lovingkindness, O God, in the midst of thy temple.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.48.10",
+      "edition_verse_id": "KJV1769:PSA.48.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "According to thy name, O God, so ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " thy praise unto the ends of the earth: thy right hand is full of righteousness.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.48.11",
+      "edition_verse_id": "KJV1769:PSA.48.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "Let mount Zion rejoice, let the daughters of Judah be glad, because of thy judgments.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.48.12",
+      "edition_verse_id": "KJV1769:PSA.48.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "Walk about Zion, and go round about her: tell the towers thereof.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.48.13",
+      "edition_verse_id": "KJV1769:PSA.48.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "Mark ye well her bulwarks, consider her palaces; that ye may tell ",
+          "kind": "text"
+        },
+        {
+          "text": "it",
+          "kind": "supplied"
+        },
+        {
+          "text": " to the generation following.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.48.14",
+      "edition_verse_id": "KJV1769:PSA.48.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "For this God ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " our God for ever and ever: he will be our guide ",
+          "kind": "text"
+        },
+        {
+          "text": "even",
+          "kind": "supplied"
+        },
+        {
+          "text": " unto death.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

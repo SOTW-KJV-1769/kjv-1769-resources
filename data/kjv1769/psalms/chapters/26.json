@@ -1,0 +1,176 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "KJV1769",
+  "book_code": "PSA",
+  "chapter": 26,
+  "verses": [
+    {
+      "id": "PSA.26.1",
+      "edition_verse_id": "KJV1769:PSA.26.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "Judge me, O LORD; for I have walked in mine integrity: I have trusted also in the LORD; ",
+          "kind": "text"
+        },
+        {
+          "text": "therefore",
+          "kind": "supplied"
+        },
+        {
+          "text": " I shall not slide.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.26.2",
+      "edition_verse_id": "KJV1769:PSA.26.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "Examine me, O LORD, and prove me; try my reins and my heart.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.26.3",
+      "edition_verse_id": "KJV1769:PSA.26.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "For thy lovingkindness ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " before mine eyes: and I have walked in thy truth.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.26.4",
+      "edition_verse_id": "KJV1769:PSA.26.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "I have not sat with vain persons, neither will I go in with dissemblers.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.26.5",
+      "edition_verse_id": "KJV1769:PSA.26.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "I have hated the congregation of evil doers; and will not sit with the wicked.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.26.6",
+      "edition_verse_id": "KJV1769:PSA.26.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "I will wash mine hands in innocency: so will I compass thine altar, O LORD:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.26.7",
+      "edition_verse_id": "KJV1769:PSA.26.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "That I may publish with the voice of thanksgiving, and tell of all thy wondrous works.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.26.8",
+      "edition_verse_id": "KJV1769:PSA.26.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "LORD, I have loved the habitation of thy house, and the place where thine honour dwelleth.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.26.9",
+      "edition_verse_id": "KJV1769:PSA.26.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "Gather not my soul with sinners, nor my life with bloody men:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.26.10",
+      "edition_verse_id": "KJV1769:PSA.26.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "In whose hands ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " mischief, and their right hand is full of bribes.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.26.11",
+      "edition_verse_id": "KJV1769:PSA.26.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "But as for me, I will walk in mine integrity: redeem me, and be merciful unto me.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.26.12",
+      "edition_verse_id": "KJV1769:PSA.26.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "My foot standeth in an even place: in the congregations will I bless the LORD.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

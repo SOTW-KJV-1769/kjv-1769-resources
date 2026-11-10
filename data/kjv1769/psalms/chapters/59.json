@@ -1,0 +1,348 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "KJV1769",
+  "book_code": "PSA",
+  "chapter": 59,
+  "verses": [
+    {
+      "id": "PSA.59.1",
+      "edition_verse_id": "KJV1769:PSA.59.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "Deliver me from mine enemies, O my God: defend me from them that rise up against me.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.59.2",
+      "edition_verse_id": "KJV1769:PSA.59.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "Deliver me from the workers of iniquity, and save me from bloody men.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.59.3",
+      "edition_verse_id": "KJV1769:PSA.59.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "For, lo, they lie in wait for my soul: the mighty are gathered against me; not ",
+          "kind": "text"
+        },
+        {
+          "text": "for",
+          "kind": "supplied"
+        },
+        {
+          "text": " my transgression, nor ",
+          "kind": "text"
+        },
+        {
+          "text": "for",
+          "kind": "supplied"
+        },
+        {
+          "text": " my sin, O LORD.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.59.4",
+      "edition_verse_id": "KJV1769:PSA.59.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "They run and prepare themselves without ",
+          "kind": "text"
+        },
+        {
+          "text": "my",
+          "kind": "supplied"
+        },
+        {
+          "text": " fault: awake to help me, and behold.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.59.5",
+      "edition_verse_id": "KJV1769:PSA.59.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "Thou therefore, O LORD God of hosts, the God of Israel, awake to visit all the heathen: be not merciful to any wicked transgressors. Selah.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.59.6",
+      "edition_verse_id": "KJV1769:PSA.59.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "They return at evening: they make a noise like a dog, and go round about the city.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.59.7",
+      "edition_verse_id": "KJV1769:PSA.59.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "Behold, they belch out with their mouth: swords ",
+          "kind": "text"
+        },
+        {
+          "text": "are",
+          "kind": "supplied"
+        },
+        {
+          "text": " in their lips: for who, ",
+          "kind": "text"
+        },
+        {
+          "text": "say they",
+          "kind": "supplied"
+        },
+        {
+          "text": ", doth hear?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.59.8",
+      "edition_verse_id": "KJV1769:PSA.59.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "But thou, O LORD, shalt laugh at them; thou shalt have all the heathen in derision.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.59.9",
+      "edition_verse_id": "KJV1769:PSA.59.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "Because of",
+          "kind": "supplied"
+        },
+        {
+          "text": " his strength will I wait upon thee: for God ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " my defence.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.59.10",
+      "edition_verse_id": "KJV1769:PSA.59.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "The God of my mercy shall prevent me: God shall let me see ",
+          "kind": "text"
+        },
+        {
+          "text": "my desire",
+          "kind": "supplied"
+        },
+        {
+          "text": " upon mine enemies.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.59.11",
+      "edition_verse_id": "KJV1769:PSA.59.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "Slay them not, lest my people forget: scatter them by thy power; and bring them down, O Lord our shield.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.59.12",
+      "edition_verse_id": "KJV1769:PSA.59.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "For",
+          "kind": "supplied"
+        },
+        {
+          "text": " the sin of their mouth ",
+          "kind": "text"
+        },
+        {
+          "text": "and",
+          "kind": "supplied"
+        },
+        {
+          "text": " the words of their lips let them even be taken in their pride: and for cursing and lying ",
+          "kind": "text"
+        },
+        {
+          "text": "which",
+          "kind": "supplied"
+        },
+        {
+          "text": " they speak.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.59.13",
+      "edition_verse_id": "KJV1769:PSA.59.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "Consume ",
+          "kind": "text"
+        },
+        {
+          "text": "them",
+          "kind": "supplied"
+        },
+        {
+          "text": " in wrath, consume ",
+          "kind": "text"
+        },
+        {
+          "text": "them",
+          "kind": "supplied"
+        },
+        {
+          "text": ", that they ",
+          "kind": "text"
+        },
+        {
+          "text": "may",
+          "kind": "supplied"
+        },
+        {
+          "text": " not ",
+          "kind": "text"
+        },
+        {
+          "text": "be:",
+          "kind": "supplied"
+        },
+        {
+          "text": " and let them know that God ruleth in Jacob unto the ends of the earth. Selah.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.59.14",
+      "edition_verse_id": "KJV1769:PSA.59.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "And at evening let them return; ",
+          "kind": "text"
+        },
+        {
+          "text": "and",
+          "kind": "supplied"
+        },
+        {
+          "text": " let them make a noise like a dog, and go round about the city.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.59.15",
+      "edition_verse_id": "KJV1769:PSA.59.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "Let them wander up and down for meat, and grudge if they be not satisfied.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.59.16",
+      "edition_verse_id": "KJV1769:PSA.59.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "But I will sing of thy power; yea, I will sing aloud of thy mercy in the morning: for thou hast been my defence and refuge in the day of my trouble.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.59.17",
+      "edition_verse_id": "KJV1769:PSA.59.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "Unto thee, O my strength, will I sing: for God ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " my defence, ",
+          "kind": "text"
+        },
+        {
+          "text": "and",
+          "kind": "supplied"
+        },
+        {
+          "text": " the God of my mercy.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

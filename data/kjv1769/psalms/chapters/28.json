@@ -1,0 +1,164 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "KJV1769",
+  "book_code": "PSA",
+  "chapter": 28,
+  "verses": [
+    {
+      "id": "PSA.28.1",
+      "edition_verse_id": "KJV1769:PSA.28.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "Unto thee will I cry, O LORD my rock; be not silent to me: lest, ",
+          "kind": "text"
+        },
+        {
+          "text": "if",
+          "kind": "supplied"
+        },
+        {
+          "text": " thou be silent to me, I become like them that go down into the pit.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.28.2",
+      "edition_verse_id": "KJV1769:PSA.28.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "Hear the voice of my supplications, when I cry unto thee, when I lift up my hands toward thy holy oracle.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.28.3",
+      "edition_verse_id": "KJV1769:PSA.28.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "Draw me not away with the wicked, and with the workers of iniquity, which speak peace to their neighbours, but mischief ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " in their hearts.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.28.4",
+      "edition_verse_id": "KJV1769:PSA.28.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "Give them according to their deeds, and according to the wickedness of their endeavours: give them after the work of their hands; render to them their desert.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.28.5",
+      "edition_verse_id": "KJV1769:PSA.28.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "Because they regard not the works of the LORD, nor the operation of his hands, he shall destroy them, and not build them up.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.28.6",
+      "edition_verse_id": "KJV1769:PSA.28.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "Blessed ",
+          "kind": "text"
+        },
+        {
+          "text": "be",
+          "kind": "supplied"
+        },
+        {
+          "text": " the LORD, because he hath heard the voice of my supplications.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.28.7",
+      "edition_verse_id": "KJV1769:PSA.28.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "The LORD ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " my strength and my shield; my heart trusted in him, and I am helped: therefore my heart greatly rejoiceth; and with my song will I praise him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.28.8",
+      "edition_verse_id": "KJV1769:PSA.28.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "The LORD ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " their strength, and he ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " the saving strength of his anointed.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.28.9",
+      "edition_verse_id": "KJV1769:PSA.28.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "Save thy people, and bless thine inheritance: feed them also, and lift them up for ever.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

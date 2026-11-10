@@ -1,0 +1,124 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "KJV1769",
+  "book_code": "PSA",
+  "chapter": 120,
+  "verses": [
+    {
+      "id": "PSA.120.1",
+      "edition_verse_id": "KJV1769:PSA.120.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "In my distress I cried unto the LORD, and he heard me.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.120.2",
+      "edition_verse_id": "KJV1769:PSA.120.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "Deliver my soul, O LORD, from lying lips, ",
+          "kind": "text"
+        },
+        {
+          "text": "and",
+          "kind": "supplied"
+        },
+        {
+          "text": " from a deceitful tongue.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.120.3",
+      "edition_verse_id": "KJV1769:PSA.120.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "What shall be given unto thee? or what shall be done unto thee, thou false tongue?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.120.4",
+      "edition_verse_id": "KJV1769:PSA.120.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "Sharp arrows of the mighty, with coals of juniper.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.120.5",
+      "edition_verse_id": "KJV1769:PSA.120.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "Woe is me, that I sojourn in Mesech, ",
+          "kind": "text"
+        },
+        {
+          "text": "that",
+          "kind": "supplied"
+        },
+        {
+          "text": " I dwell in the tents of Kedar!",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.120.6",
+      "edition_verse_id": "KJV1769:PSA.120.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "My soul hath long dwelt with him that hateth peace.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.120.7",
+      "edition_verse_id": "KJV1769:PSA.120.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "I ",
+          "kind": "text"
+        },
+        {
+          "text": "am for",
+          "kind": "supplied"
+        },
+        {
+          "text": " peace: but when I speak, they ",
+          "kind": "text"
+        },
+        {
+          "text": "are",
+          "kind": "supplied"
+        },
+        {
+          "text": " for war.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

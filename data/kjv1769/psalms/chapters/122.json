@@ -1,0 +1,132 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "KJV1769",
+  "book_code": "PSA",
+  "chapter": 122,
+  "verses": [
+    {
+      "id": "PSA.122.1",
+      "edition_verse_id": "KJV1769:PSA.122.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "I was glad when they said unto me, Let us go into the house of the LORD.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.122.2",
+      "edition_verse_id": "KJV1769:PSA.122.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "Our feet shall stand within thy gates, O Jerusalem.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.122.3",
+      "edition_verse_id": "KJV1769:PSA.122.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "Jerusalem is builded as a city that is compact together:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.122.4",
+      "edition_verse_id": "KJV1769:PSA.122.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "Whither the tribes go up, the tribes of the LORD, unto the testimony of Israel, to give thanks unto the name of the LORD.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.122.5",
+      "edition_verse_id": "KJV1769:PSA.122.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "For there are set thrones of judgment, the thrones of the house of David.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.122.6",
+      "edition_verse_id": "KJV1769:PSA.122.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "Pray for the peace of Jerusalem: they shall prosper that love thee.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.122.7",
+      "edition_verse_id": "KJV1769:PSA.122.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "Peace be within thy walls, ",
+          "kind": "text"
+        },
+        {
+          "text": "and",
+          "kind": "supplied"
+        },
+        {
+          "text": " prosperity within thy palaces.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.122.8",
+      "edition_verse_id": "KJV1769:PSA.122.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "For my brethren and companions’ sakes, I will now say, Peace ",
+          "kind": "text"
+        },
+        {
+          "text": "be",
+          "kind": "supplied"
+        },
+        {
+          "text": " within thee.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.122.9",
+      "edition_verse_id": "KJV1769:PSA.122.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "Because of the house of the LORD our God I will seek thy good.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

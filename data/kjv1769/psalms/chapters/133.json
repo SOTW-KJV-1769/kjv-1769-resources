@@ -1,0 +1,80 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "KJV1769",
+  "book_code": "PSA",
+  "chapter": 133,
+  "verses": [
+    {
+      "id": "PSA.133.1",
+      "edition_verse_id": "KJV1769:PSA.133.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "Behold, how good and how pleasant ",
+          "kind": "text"
+        },
+        {
+          "text": "it is",
+          "kind": "supplied"
+        },
+        {
+          "text": " for brethren to dwell together in unity!",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.133.2",
+      "edition_verse_id": "KJV1769:PSA.133.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "It is",
+          "kind": "supplied"
+        },
+        {
+          "text": " like the precious ointment upon the head, that ran down upon the beard, ",
+          "kind": "text"
+        },
+        {
+          "text": "even",
+          "kind": "supplied"
+        },
+        {
+          "text": " Aaron’s beard: that went down to the skirts of his garments;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.133.3",
+      "edition_verse_id": "KJV1769:PSA.133.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "As the dew of Hermon, ",
+          "kind": "text"
+        },
+        {
+          "text": "and as the dew",
+          "kind": "supplied"
+        },
+        {
+          "text": " that descended upon the mountains of Zion: for there the LORD commanded the blessing, ",
+          "kind": "text"
+        },
+        {
+          "text": "even",
+          "kind": "supplied"
+        },
+        {
+          "text": " life for evermore.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

@@ -1,0 +1,380 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "KJV1769",
+  "book_code": "PSA",
+  "chapter": 44,
+  "verses": [
+    {
+      "id": "PSA.44.1",
+      "edition_verse_id": "KJV1769:PSA.44.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "We have heard with our ears, O God, our fathers have told us, ",
+          "kind": "text"
+        },
+        {
+          "text": "what",
+          "kind": "supplied"
+        },
+        {
+          "text": " work thou didst in their days, in the times of old.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.44.2",
+      "edition_verse_id": "KJV1769:PSA.44.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "How",
+          "kind": "supplied"
+        },
+        {
+          "text": " thou didst drive out the heathen with thy hand, and plantedst them; ",
+          "kind": "text"
+        },
+        {
+          "text": "how",
+          "kind": "supplied"
+        },
+        {
+          "text": " thou didst afflict the people, and cast them out.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.44.3",
+      "edition_verse_id": "KJV1769:PSA.44.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "For they got not the land in possession by their own sword, neither did their own arm save them: but thy right hand, and thine arm, and the light of thy countenance, because thou hadst a favour unto them.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.44.4",
+      "edition_verse_id": "KJV1769:PSA.44.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "Thou art my King, O God: command deliverances for Jacob.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.44.5",
+      "edition_verse_id": "KJV1769:PSA.44.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "Through thee will we push down our enemies: through thy name will we tread them under that rise up against us.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.44.6",
+      "edition_verse_id": "KJV1769:PSA.44.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "For I will not trust in my bow, neither shall my sword save me.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.44.7",
+      "edition_verse_id": "KJV1769:PSA.44.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "But thou hast saved us from our enemies, and hast put them to shame that hated us.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.44.8",
+      "edition_verse_id": "KJV1769:PSA.44.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "In God we boast all the day long, and praise thy name for ever. Selah.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.44.9",
+      "edition_verse_id": "KJV1769:PSA.44.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "But thou hast cast off, and put us to shame; and goest not forth with our armies.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.44.10",
+      "edition_verse_id": "KJV1769:PSA.44.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "Thou makest us to turn back from the enemy: and they which hate us spoil for themselves.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.44.11",
+      "edition_verse_id": "KJV1769:PSA.44.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "Thou hast given us like sheep ",
+          "kind": "text"
+        },
+        {
+          "text": "appointed",
+          "kind": "supplied"
+        },
+        {
+          "text": " for meat; and hast scattered us among the heathen.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.44.12",
+      "edition_verse_id": "KJV1769:PSA.44.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "Thou sellest thy people for nought, and dost not increase ",
+          "kind": "text"
+        },
+        {
+          "text": "thy wealth",
+          "kind": "supplied"
+        },
+        {
+          "text": " by their price.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.44.13",
+      "edition_verse_id": "KJV1769:PSA.44.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "Thou makest us a reproach to our neighbours, a scorn and a derision to them that are round about us.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.44.14",
+      "edition_verse_id": "KJV1769:PSA.44.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "Thou makest us a byword among the heathen, a shaking of the head among the people.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.44.15",
+      "edition_verse_id": "KJV1769:PSA.44.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "My confusion ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " continually before me, and the shame of my face hath covered me,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.44.16",
+      "edition_verse_id": "KJV1769:PSA.44.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "For the voice of him that reproacheth and blasphemeth; by reason of the enemy and avenger.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.44.17",
+      "edition_verse_id": "KJV1769:PSA.44.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "All this is come upon us; yet have we not forgotten thee, neither have we dealt falsely in thy covenant.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.44.18",
+      "edition_verse_id": "KJV1769:PSA.44.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "Our heart is not turned back, neither have our steps declined from thy way;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.44.19",
+      "edition_verse_id": "KJV1769:PSA.44.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "Though thou hast sore broken us in the place of dragons, and covered us with the shadow of death.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.44.20",
+      "edition_verse_id": "KJV1769:PSA.44.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "If we have forgotten the name of our God, or stretched out our hands to a strange god;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.44.21",
+      "edition_verse_id": "KJV1769:PSA.44.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "Shall not God search this out? for he knoweth the secrets of the heart.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.44.22",
+      "edition_verse_id": "KJV1769:PSA.44.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "Yea, for thy sake are we killed all the day long; we are counted as sheep for the slaughter.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.44.23",
+      "edition_verse_id": "KJV1769:PSA.44.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "Awake, why sleepest thou, O Lord? arise, cast ",
+          "kind": "text"
+        },
+        {
+          "text": "us",
+          "kind": "supplied"
+        },
+        {
+          "text": " not off for ever.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.44.24",
+      "edition_verse_id": "KJV1769:PSA.44.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "Wherefore hidest thou thy face, ",
+          "kind": "text"
+        },
+        {
+          "text": "and",
+          "kind": "supplied"
+        },
+        {
+          "text": " forgettest our affliction and our oppression?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.44.25",
+      "edition_verse_id": "KJV1769:PSA.44.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "For our soul is bowed down to the dust: our belly cleaveth unto the earth.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.44.26",
+      "edition_verse_id": "KJV1769:PSA.44.26",
+      "verse": 26,
+      "spans": [
+        {
+          "text": "Arise for our help, and redeem us for thy mercies’ sake.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

@@ -1,0 +1,176 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "KJV1769",
+  "book_code": "PSA",
+  "chapter": 12,
+  "verses": [
+    {
+      "id": "PSA.12.1",
+      "edition_verse_id": "KJV1769:PSA.12.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "Help, LORD; for the godly man ceaseth; for the faithful fail from among the children of men.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.12.2",
+      "edition_verse_id": "KJV1769:PSA.12.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "They speak vanity every one with his neighbour: ",
+          "kind": "text"
+        },
+        {
+          "text": "with",
+          "kind": "supplied"
+        },
+        {
+          "text": " flattering lips ",
+          "kind": "text"
+        },
+        {
+          "text": "and",
+          "kind": "supplied"
+        },
+        {
+          "text": " with a double heart do they speak.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.12.3",
+      "edition_verse_id": "KJV1769:PSA.12.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "The LORD shall cut off all flattering lips, ",
+          "kind": "text"
+        },
+        {
+          "text": "and",
+          "kind": "supplied"
+        },
+        {
+          "text": " the tongue that speaketh proud things:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.12.4",
+      "edition_verse_id": "KJV1769:PSA.12.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "Who have said, With our tongue will we prevail; our lips ",
+          "kind": "text"
+        },
+        {
+          "text": "are",
+          "kind": "supplied"
+        },
+        {
+          "text": " our own: who ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " lord over us?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.12.5",
+      "edition_verse_id": "KJV1769:PSA.12.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "For the oppression of the poor, for the sighing of the needy, now will I arise, saith the LORD; I will set ",
+          "kind": "text"
+        },
+        {
+          "text": "him",
+          "kind": "supplied"
+        },
+        {
+          "text": " in safety ",
+          "kind": "text"
+        },
+        {
+          "text": "from him that",
+          "kind": "supplied"
+        },
+        {
+          "text": " puffeth at him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.12.6",
+      "edition_verse_id": "KJV1769:PSA.12.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "The words of the LORD ",
+          "kind": "text"
+        },
+        {
+          "text": "are",
+          "kind": "supplied"
+        },
+        {
+          "text": " pure words: ",
+          "kind": "text"
+        },
+        {
+          "text": "as",
+          "kind": "supplied"
+        },
+        {
+          "text": " silver tried in a furnace of earth, purified seven times.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.12.7",
+      "edition_verse_id": "KJV1769:PSA.12.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "Thou shalt keep them, O LORD, thou shalt preserve them from this generation for ever.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.12.8",
+      "edition_verse_id": "KJV1769:PSA.12.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "The wicked walk on every side, when the vilest men are exalted.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

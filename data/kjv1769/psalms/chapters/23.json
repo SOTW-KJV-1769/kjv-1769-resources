@@ -1,0 +1,96 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "KJV1769",
+  "book_code": "PSA",
+  "chapter": 23,
+  "verses": [
+    {
+      "id": "PSA.23.1",
+      "edition_verse_id": "KJV1769:PSA.23.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "The LORD ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " my shepherd; I shall not want.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.23.2",
+      "edition_verse_id": "KJV1769:PSA.23.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "He maketh me to lie down in green pastures: he leadeth me beside the still waters.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.23.3",
+      "edition_verse_id": "KJV1769:PSA.23.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "He restoreth my soul: he leadeth me in the paths of righteousness for his name’s sake.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.23.4",
+      "edition_verse_id": "KJV1769:PSA.23.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "Yea, though I walk through the valley of the shadow of death, I will fear no evil: for thou ",
+          "kind": "text"
+        },
+        {
+          "text": "art",
+          "kind": "supplied"
+        },
+        {
+          "text": " with me; thy rod and thy staff they comfort me.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.23.5",
+      "edition_verse_id": "KJV1769:PSA.23.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "Thou preparest a table before me in the presence of mine enemies: thou anointest my head with oil; my cup runneth over.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.23.6",
+      "edition_verse_id": "KJV1769:PSA.23.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "Surely goodness and mercy shall follow me all the days of my life: and I will dwell in the house of the LORD for ever.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

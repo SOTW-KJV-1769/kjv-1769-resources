@@ -1,0 +1,168 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "KJV1769",
+  "book_code": "PSA",
+  "chapter": 24,
+  "verses": [
+    {
+      "id": "PSA.24.1",
+      "edition_verse_id": "KJV1769:PSA.24.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "The earth ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " the LORD’s, and the fulness thereof; the world, and they that dwell therein.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.24.2",
+      "edition_verse_id": "KJV1769:PSA.24.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "For he hath founded it upon the seas, and established it upon the floods.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.24.3",
+      "edition_verse_id": "KJV1769:PSA.24.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "Who shall ascend into the hill of the LORD? or who shall stand in his holy place?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.24.4",
+      "edition_verse_id": "KJV1769:PSA.24.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "He that hath clean hands, and a pure heart; who hath not lifted up his soul unto vanity, nor sworn deceitfully.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.24.5",
+      "edition_verse_id": "KJV1769:PSA.24.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "He shall receive the blessing from the LORD, and righteousness from the God of his salvation.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.24.6",
+      "edition_verse_id": "KJV1769:PSA.24.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "This ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " the generation of them that seek him, that seek thy face, O Jacob. Selah.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.24.7",
+      "edition_verse_id": "KJV1769:PSA.24.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "Lift up your heads, O ye gates; and be ye lift up, ye everlasting doors; and the King of glory shall come in.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.24.8",
+      "edition_verse_id": "KJV1769:PSA.24.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "Who ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " this King of glory? The LORD strong and mighty, the LORD mighty in battle.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.24.9",
+      "edition_verse_id": "KJV1769:PSA.24.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "Lift up your heads, O ye gates; even lift ",
+          "kind": "text"
+        },
+        {
+          "text": "them",
+          "kind": "supplied"
+        },
+        {
+          "text": " up, ye everlasting doors; and the King of glory shall come in.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.24.10",
+      "edition_verse_id": "KJV1769:PSA.24.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "Who is this King of glory? The LORD of hosts, he ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " the King of glory. Selah.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

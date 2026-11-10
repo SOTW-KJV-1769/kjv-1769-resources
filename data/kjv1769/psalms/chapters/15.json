@@ -1,0 +1,100 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "KJV1769",
+  "book_code": "PSA",
+  "chapter": 15,
+  "verses": [
+    {
+      "id": "PSA.15.1",
+      "edition_verse_id": "KJV1769:PSA.15.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "LORD, who shall abide in thy tabernacle? who shall dwell in thy holy hill?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.15.2",
+      "edition_verse_id": "KJV1769:PSA.15.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "He that walketh uprightly, and worketh righteousness, and speaketh the truth in his heart.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.15.3",
+      "edition_verse_id": "KJV1769:PSA.15.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "He that",
+          "kind": "supplied"
+        },
+        {
+          "text": " backbiteth not with his tongue, nor doeth evil to his neighbour, nor taketh up a reproach against his neighbour.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.15.4",
+      "edition_verse_id": "KJV1769:PSA.15.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "In whose eyes a vile person is contemned; but he honoureth them that fear the LORD. ",
+          "kind": "text"
+        },
+        {
+          "text": "He that",
+          "kind": "supplied"
+        },
+        {
+          "text": " sweareth to ",
+          "kind": "text"
+        },
+        {
+          "text": "his own",
+          "kind": "supplied"
+        },
+        {
+          "text": " hurt, and changeth not.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.15.5",
+      "edition_verse_id": "KJV1769:PSA.15.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "He that",
+          "kind": "supplied"
+        },
+        {
+          "text": " putteth not out his money to usury, nor taketh reward against the innocent. He that doeth these ",
+          "kind": "text"
+        },
+        {
+          "text": "things",
+          "kind": "supplied"
+        },
+        {
+          "text": " shall never be moved.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

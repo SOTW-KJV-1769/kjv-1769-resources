@@ -1,0 +1,548 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "KJV1769",
+  "book_code": "PSA",
+  "chapter": 118,
+  "verses": [
+    {
+      "id": "PSA.118.1",
+      "edition_verse_id": "KJV1769:PSA.118.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "O give thanks unto the LORD; for ",
+          "kind": "text"
+        },
+        {
+          "text": "he is",
+          "kind": "supplied"
+        },
+        {
+          "text": " good: because his mercy ",
+          "kind": "text"
+        },
+        {
+          "text": "endureth",
+          "kind": "supplied"
+        },
+        {
+          "text": " for ever.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.118.2",
+      "edition_verse_id": "KJV1769:PSA.118.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "Let Israel now say, that his mercy ",
+          "kind": "text"
+        },
+        {
+          "text": "endureth",
+          "kind": "supplied"
+        },
+        {
+          "text": " for ever.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.118.3",
+      "edition_verse_id": "KJV1769:PSA.118.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "Let the house of Aaron now say, that his mercy ",
+          "kind": "text"
+        },
+        {
+          "text": "endureth",
+          "kind": "supplied"
+        },
+        {
+          "text": " for ever.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.118.4",
+      "edition_verse_id": "KJV1769:PSA.118.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "Let them now that fear the LORD say, that his mercy ",
+          "kind": "text"
+        },
+        {
+          "text": "endureth",
+          "kind": "supplied"
+        },
+        {
+          "text": " for ever.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.118.5",
+      "edition_verse_id": "KJV1769:PSA.118.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "I called upon the LORD in distress: the LORD answered me, ",
+          "kind": "text"
+        },
+        {
+          "text": "and set me",
+          "kind": "supplied"
+        },
+        {
+          "text": " in a large place.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.118.6",
+      "edition_verse_id": "KJV1769:PSA.118.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "The LORD ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " on my side; I will not fear: what can man do unto me?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.118.7",
+      "edition_verse_id": "KJV1769:PSA.118.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "The LORD taketh my part with them that help me: therefore shall I see ",
+          "kind": "text"
+        },
+        {
+          "text": "my desire",
+          "kind": "supplied"
+        },
+        {
+          "text": " upon them that hate me.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.118.8",
+      "edition_verse_id": "KJV1769:PSA.118.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "It is",
+          "kind": "supplied"
+        },
+        {
+          "text": " better to trust in the LORD than to put confidence in man.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.118.9",
+      "edition_verse_id": "KJV1769:PSA.118.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "It is",
+          "kind": "supplied"
+        },
+        {
+          "text": " better to trust in the LORD than to put confidence in princes.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.118.10",
+      "edition_verse_id": "KJV1769:PSA.118.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "All nations compassed me about: but in the name of the LORD will I destroy them.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.118.11",
+      "edition_verse_id": "KJV1769:PSA.118.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "They compassed me about; yea, they compassed me about: but in the name of the LORD I will destroy them.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.118.12",
+      "edition_verse_id": "KJV1769:PSA.118.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "They compassed me about like bees; they are quenched as the fire of thorns: for in the name of the LORD I will destroy them.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.118.13",
+      "edition_verse_id": "KJV1769:PSA.118.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "Thou hast thrust sore at me that I might fall: but the LORD helped me.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.118.14",
+      "edition_verse_id": "KJV1769:PSA.118.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "The LORD ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " my strength and song, and is become my salvation.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.118.15",
+      "edition_verse_id": "KJV1769:PSA.118.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "The voice of rejoicing and salvation ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " in the tabernacles of the righteous: the right hand of the LORD doeth valiantly.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.118.16",
+      "edition_verse_id": "KJV1769:PSA.118.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "The right hand of the LORD is exalted: the right hand of the LORD doeth valiantly.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.118.17",
+      "edition_verse_id": "KJV1769:PSA.118.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "I shall not die, but live, and declare the works of the LORD.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.118.18",
+      "edition_verse_id": "KJV1769:PSA.118.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "The LORD hath chastened me sore: but he hath not given me over unto death.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.118.19",
+      "edition_verse_id": "KJV1769:PSA.118.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "Open to me the gates of righteousness: I will go into them, ",
+          "kind": "text"
+        },
+        {
+          "text": "and",
+          "kind": "supplied"
+        },
+        {
+          "text": " I will praise the LORD:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.118.20",
+      "edition_verse_id": "KJV1769:PSA.118.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "This gate of the LORD, into which the righteous shall enter.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.118.21",
+      "edition_verse_id": "KJV1769:PSA.118.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "I will praise thee: for thou hast heard me, and art become my salvation.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.118.22",
+      "edition_verse_id": "KJV1769:PSA.118.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "The stone ",
+          "kind": "text"
+        },
+        {
+          "text": "which",
+          "kind": "supplied"
+        },
+        {
+          "text": " the builders refused is become the head ",
+          "kind": "text"
+        },
+        {
+          "text": "stone",
+          "kind": "supplied"
+        },
+        {
+          "text": " of the corner.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.118.23",
+      "edition_verse_id": "KJV1769:PSA.118.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "This is the LORD’s doing; it ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " marvellous in our eyes.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.118.24",
+      "edition_verse_id": "KJV1769:PSA.118.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "This ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " the day ",
+          "kind": "text"
+        },
+        {
+          "text": "which",
+          "kind": "supplied"
+        },
+        {
+          "text": " the LORD hath made; we will rejoice and be glad in it.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.118.25",
+      "edition_verse_id": "KJV1769:PSA.118.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "Save now, I beseech thee, O LORD: O LORD, I beseech thee, send now prosperity.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.118.26",
+      "edition_verse_id": "KJV1769:PSA.118.26",
+      "verse": 26,
+      "spans": [
+        {
+          "text": "Blessed ",
+          "kind": "text"
+        },
+        {
+          "text": "be",
+          "kind": "supplied"
+        },
+        {
+          "text": " he that cometh in the name of the LORD: we have blessed you out of the house of the LORD.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.118.27",
+      "edition_verse_id": "KJV1769:PSA.118.27",
+      "verse": 27,
+      "spans": [
+        {
+          "text": "God ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " the LORD, which hath shewed us light: bind the sacrifice with cords, ",
+          "kind": "text"
+        },
+        {
+          "text": "even",
+          "kind": "supplied"
+        },
+        {
+          "text": " unto the horns of the altar.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.118.28",
+      "edition_verse_id": "KJV1769:PSA.118.28",
+      "verse": 28,
+      "spans": [
+        {
+          "text": "Thou ",
+          "kind": "text"
+        },
+        {
+          "text": "art",
+          "kind": "supplied"
+        },
+        {
+          "text": " my God, and I will praise thee: ",
+          "kind": "text"
+        },
+        {
+          "text": "thou art",
+          "kind": "supplied"
+        },
+        {
+          "text": " my God, I will exalt thee.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.118.29",
+      "edition_verse_id": "KJV1769:PSA.118.29",
+      "verse": 29,
+      "spans": [
+        {
+          "text": "O give thanks unto the LORD; for ",
+          "kind": "text"
+        },
+        {
+          "text": "he is",
+          "kind": "supplied"
+        },
+        {
+          "text": " good: for his mercy ",
+          "kind": "text"
+        },
+        {
+          "text": "endureth",
+          "kind": "supplied"
+        },
+        {
+          "text": " for ever.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}
