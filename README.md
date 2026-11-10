@@ -16,4 +16,4 @@ A standalone, text-only Scripture translation foundation built from the owner-ve
 
 **Presented by the Servants of the Way Digital Library.** Source edition record: https://ebible.org/Scriptures/details.php?id=eng-kjv2006. Public-domain Scripture text outside the United Kingdom, subject to UK Crown printing-rights restrictions described by the source.
 
-No scanned page PDFs, Strong’s numbers, original-language conclusions, or historical-commentary text are published as part of the KJV chapter records. These other resources remain separately governed and will be connected by a future UI. This release does not change the ASV repository or CGBC player.
+No scanned page PDFs, Strong’s numbers, original-language conclusions, or historical-commentary text are published as part of the KJV chapter records. 
