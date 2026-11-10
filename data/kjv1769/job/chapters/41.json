@@ -1,0 +1,588 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "KJV1769",
+  "book_code": "JOB",
+  "chapter": 41,
+  "verses": [
+    {
+      "id": "JOB.41.1",
+      "edition_verse_id": "KJV1769:JOB.41.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "Canst thou draw out leviathan with an hook? or his tongue with a cord ",
+          "kind": "text"
+        },
+        {
+          "text": "which",
+          "kind": "supplied"
+        },
+        {
+          "text": " thou lettest down?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOB.41.2",
+      "edition_verse_id": "KJV1769:JOB.41.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "Canst thou put an hook into his nose? or bore his jaw through with a thorn?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.41.3",
+      "edition_verse_id": "KJV1769:JOB.41.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "Will he make many supplications unto thee? will he speak soft ",
+          "kind": "text"
+        },
+        {
+          "text": "words",
+          "kind": "supplied"
+        },
+        {
+          "text": " unto thee?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.41.4",
+      "edition_verse_id": "KJV1769:JOB.41.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "Will he make a covenant with thee? wilt thou take him for a servant for ever?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.41.5",
+      "edition_verse_id": "KJV1769:JOB.41.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "Wilt thou play with him as ",
+          "kind": "text"
+        },
+        {
+          "text": "with",
+          "kind": "supplied"
+        },
+        {
+          "text": " a bird? or wilt thou bind him for thy maidens?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.41.6",
+      "edition_verse_id": "KJV1769:JOB.41.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "Shall the companions make a banquet of him? shall they part him among the merchants?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.41.7",
+      "edition_verse_id": "KJV1769:JOB.41.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "Canst thou fill his skin with barbed irons? or his head with fish spears?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.41.8",
+      "edition_verse_id": "KJV1769:JOB.41.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "Lay thine hand upon him, remember the battle, do no more.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.41.9",
+      "edition_verse_id": "KJV1769:JOB.41.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "Behold, the hope of him is in vain: shall not ",
+          "kind": "text"
+        },
+        {
+          "text": "one",
+          "kind": "supplied"
+        },
+        {
+          "text": " be cast down even at the sight of him?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.41.10",
+      "edition_verse_id": "KJV1769:JOB.41.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "None ",
+          "kind": "text"
+        },
+        {
+          "text": "is so",
+          "kind": "supplied"
+        },
+        {
+          "text": " fierce that dare stir him up: who then is able to stand before me?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.41.11",
+      "edition_verse_id": "KJV1769:JOB.41.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "Who hath prevented me, that I should repay ",
+          "kind": "text"
+        },
+        {
+          "text": "him? whatsoever is",
+          "kind": "supplied"
+        },
+        {
+          "text": " under the whole heaven is mine.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOB.41.12",
+      "edition_verse_id": "KJV1769:JOB.41.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "I will not conceal his parts, nor his power, nor his comely proportion.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.41.13",
+      "edition_verse_id": "KJV1769:JOB.41.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "Who can discover the face of his garment? ",
+          "kind": "text"
+        },
+        {
+          "text": "or",
+          "kind": "supplied"
+        },
+        {
+          "text": " who can come ",
+          "kind": "text"
+        },
+        {
+          "text": "to him",
+          "kind": "supplied"
+        },
+        {
+          "text": " with his double bridle?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.41.14",
+      "edition_verse_id": "KJV1769:JOB.41.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "Who can open the doors of his face? his teeth ",
+          "kind": "text"
+        },
+        {
+          "text": "are",
+          "kind": "supplied"
+        },
+        {
+          "text": " terrible round about.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.41.15",
+      "edition_verse_id": "KJV1769:JOB.41.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "His",
+          "kind": "supplied"
+        },
+        {
+          "text": " scales ",
+          "kind": "text"
+        },
+        {
+          "text": "are his",
+          "kind": "supplied"
+        },
+        {
+          "text": " pride, shut up together ",
+          "kind": "text"
+        },
+        {
+          "text": "as with",
+          "kind": "supplied"
+        },
+        {
+          "text": " a close seal.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.41.16",
+      "edition_verse_id": "KJV1769:JOB.41.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "One is so near to another, that no air can come between them.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.41.17",
+      "edition_verse_id": "KJV1769:JOB.41.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "They are joined one to another, they stick together, that they cannot be sundered.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.41.18",
+      "edition_verse_id": "KJV1769:JOB.41.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "By his neesings a light doth shine, and his eyes ",
+          "kind": "text"
+        },
+        {
+          "text": "are",
+          "kind": "supplied"
+        },
+        {
+          "text": " like the eyelids of the morning.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.41.19",
+      "edition_verse_id": "KJV1769:JOB.41.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "Out of his mouth go burning lamps, ",
+          "kind": "text"
+        },
+        {
+          "text": "and",
+          "kind": "supplied"
+        },
+        {
+          "text": " sparks of fire leap out.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.41.20",
+      "edition_verse_id": "KJV1769:JOB.41.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "Out of his nostrils goeth smoke, as ",
+          "kind": "text"
+        },
+        {
+          "text": "out",
+          "kind": "supplied"
+        },
+        {
+          "text": " of a seething pot or caldron.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.41.21",
+      "edition_verse_id": "KJV1769:JOB.41.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "His breath kindleth coals, and a flame goeth out of his mouth.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.41.22",
+      "edition_verse_id": "KJV1769:JOB.41.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "In his neck remaineth strength, and sorrow is turned into joy before him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.41.23",
+      "edition_verse_id": "KJV1769:JOB.41.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "The flakes of his flesh are joined together: they are firm in themselves; they cannot be moved.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.41.24",
+      "edition_verse_id": "KJV1769:JOB.41.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "His heart is as firm as a stone; yea, as hard as a piece of the nether ",
+          "kind": "text"
+        },
+        {
+          "text": "millstone",
+          "kind": "supplied"
+        },
+        {
+          "text": ".",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.41.25",
+      "edition_verse_id": "KJV1769:JOB.41.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "When he raiseth up himself, the mighty are afraid: by reason of breakings they purify themselves.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.41.26",
+      "edition_verse_id": "KJV1769:JOB.41.26",
+      "verse": 26,
+      "spans": [
+        {
+          "text": "The sword of him that layeth at him cannot hold: the spear, the dart, nor the habergeon.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.41.27",
+      "edition_verse_id": "KJV1769:JOB.41.27",
+      "verse": 27,
+      "spans": [
+        {
+          "text": "He esteemeth iron as straw, ",
+          "kind": "text"
+        },
+        {
+          "text": "and",
+          "kind": "supplied"
+        },
+        {
+          "text": " brass as rotten wood.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.41.28",
+      "edition_verse_id": "KJV1769:JOB.41.28",
+      "verse": 28,
+      "spans": [
+        {
+          "text": "The arrow cannot make him flee: slingstones are turned with him into stubble.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.41.29",
+      "edition_verse_id": "KJV1769:JOB.41.29",
+      "verse": 29,
+      "spans": [
+        {
+          "text": "Darts are counted as stubble: he laugheth at the shaking of a spear.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.41.30",
+      "edition_verse_id": "KJV1769:JOB.41.30",
+      "verse": 30,
+      "spans": [
+        {
+          "text": "Sharp stones ",
+          "kind": "text"
+        },
+        {
+          "text": "are",
+          "kind": "supplied"
+        },
+        {
+          "text": " under him: he spreadeth sharp pointed things upon the mire.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.41.31",
+      "edition_verse_id": "KJV1769:JOB.41.31",
+      "verse": 31,
+      "spans": [
+        {
+          "text": "He maketh the deep to boil like a pot: he maketh the sea like a pot of ointment.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.41.32",
+      "edition_verse_id": "KJV1769:JOB.41.32",
+      "verse": 32,
+      "spans": [
+        {
+          "text": "He maketh a path to shine after him; ",
+          "kind": "text"
+        },
+        {
+          "text": "one",
+          "kind": "supplied"
+        },
+        {
+          "text": " would think the deep ",
+          "kind": "text"
+        },
+        {
+          "text": "to be",
+          "kind": "supplied"
+        },
+        {
+          "text": " hoary.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.41.33",
+      "edition_verse_id": "KJV1769:JOB.41.33",
+      "verse": 33,
+      "spans": [
+        {
+          "text": "Upon earth there is not his like, who is made without fear.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.41.34",
+      "edition_verse_id": "KJV1769:JOB.41.34",
+      "verse": 34,
+      "spans": [
+        {
+          "text": "He beholdeth all high ",
+          "kind": "text"
+        },
+        {
+          "text": "things:",
+          "kind": "supplied"
+        },
+        {
+          "text": " he ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " a king over all the children of pride.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

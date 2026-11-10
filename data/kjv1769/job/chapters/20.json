@@ -1,0 +1,564 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "KJV1769",
+  "book_code": "JOB",
+  "chapter": 20,
+  "verses": [
+    {
+      "id": "JOB.20.1",
+      "edition_verse_id": "KJV1769:JOB.20.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "Then answered Zophar the Naamathite, and said,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOB.20.2",
+      "edition_verse_id": "KJV1769:JOB.20.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "Therefore do my thoughts cause me to answer, and for ",
+          "kind": "text"
+        },
+        {
+          "text": "this",
+          "kind": "supplied"
+        },
+        {
+          "text": " I make haste.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.20.3",
+      "edition_verse_id": "KJV1769:JOB.20.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "I have heard the check of my reproach, and the spirit of my understanding causeth me to answer.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.20.4",
+      "edition_verse_id": "KJV1769:JOB.20.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "Knowest thou ",
+          "kind": "text"
+        },
+        {
+          "text": "not",
+          "kind": "supplied"
+        },
+        {
+          "text": " this of old, since man was placed upon earth,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.20.5",
+      "edition_verse_id": "KJV1769:JOB.20.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "That the triumphing of the wicked ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " short, and the joy of the hypocrite ",
+          "kind": "text"
+        },
+        {
+          "text": "but",
+          "kind": "supplied"
+        },
+        {
+          "text": " for a moment?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.20.6",
+      "edition_verse_id": "KJV1769:JOB.20.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "Though his excellency mount up to the heavens, and his head reach unto the clouds;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.20.7",
+      "edition_verse_id": "KJV1769:JOB.20.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "Yet",
+          "kind": "supplied"
+        },
+        {
+          "text": " he shall perish for ever like his own dung: they which have seen him shall say, Where ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " he?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.20.8",
+      "edition_verse_id": "KJV1769:JOB.20.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "He shall fly away as a dream, and shall not be found: yea, he shall be chased away as a vision of the night.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.20.9",
+      "edition_verse_id": "KJV1769:JOB.20.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "The eye also ",
+          "kind": "text"
+        },
+        {
+          "text": "which",
+          "kind": "supplied"
+        },
+        {
+          "text": " saw him shall ",
+          "kind": "text"
+        },
+        {
+          "text": "see him",
+          "kind": "supplied"
+        },
+        {
+          "text": " no more; neither shall his place any more behold him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.20.10",
+      "edition_verse_id": "KJV1769:JOB.20.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "His children shall seek to please the poor, and his hands shall restore their goods.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOB.20.11",
+      "edition_verse_id": "KJV1769:JOB.20.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "His bones are full ",
+          "kind": "text"
+        },
+        {
+          "text": "of the sin",
+          "kind": "supplied"
+        },
+        {
+          "text": " of his youth, which shall lie down with him in the dust.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.20.12",
+      "edition_verse_id": "KJV1769:JOB.20.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "Though wickedness be sweet in his mouth, ",
+          "kind": "text"
+        },
+        {
+          "text": "though",
+          "kind": "supplied"
+        },
+        {
+          "text": " he hide it under his tongue;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.20.13",
+      "edition_verse_id": "KJV1769:JOB.20.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "Though",
+          "kind": "supplied"
+        },
+        {
+          "text": " he spare it, and forsake it not; but keep it still within his mouth:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.20.14",
+      "edition_verse_id": "KJV1769:JOB.20.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "Yet",
+          "kind": "supplied"
+        },
+        {
+          "text": " his meat in his bowels is turned, ",
+          "kind": "text"
+        },
+        {
+          "text": "it is",
+          "kind": "supplied"
+        },
+        {
+          "text": " the gall of asps within him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.20.15",
+      "edition_verse_id": "KJV1769:JOB.20.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "He hath swallowed down riches, and he shall vomit them up again: God shall cast them out of his belly.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.20.16",
+      "edition_verse_id": "KJV1769:JOB.20.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "He shall suck the poison of asps: the viper’s tongue shall slay him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.20.17",
+      "edition_verse_id": "KJV1769:JOB.20.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "He shall not see the rivers, the floods, the brooks of honey and butter.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.20.18",
+      "edition_verse_id": "KJV1769:JOB.20.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "That which he laboured for shall he restore, and shall not swallow ",
+          "kind": "text"
+        },
+        {
+          "text": "it",
+          "kind": "supplied"
+        },
+        {
+          "text": " down: according to ",
+          "kind": "text"
+        },
+        {
+          "text": "his",
+          "kind": "supplied"
+        },
+        {
+          "text": " substance ",
+          "kind": "text"
+        },
+        {
+          "text": "shall",
+          "kind": "supplied"
+        },
+        {
+          "text": " the restitution ",
+          "kind": "text"
+        },
+        {
+          "text": "be",
+          "kind": "supplied"
+        },
+        {
+          "text": ", and he shall not rejoice ",
+          "kind": "text"
+        },
+        {
+          "text": "therein",
+          "kind": "supplied"
+        },
+        {
+          "text": ".",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.20.19",
+      "edition_verse_id": "KJV1769:JOB.20.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "Because he hath oppressed ",
+          "kind": "text"
+        },
+        {
+          "text": "and",
+          "kind": "supplied"
+        },
+        {
+          "text": " hath forsaken the poor; ",
+          "kind": "text"
+        },
+        {
+          "text": "because",
+          "kind": "supplied"
+        },
+        {
+          "text": " he hath violently taken away an house which he builded not;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.20.20",
+      "edition_verse_id": "KJV1769:JOB.20.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "Surely he shall not feel quietness in his belly, he shall not save of that which he desired.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.20.21",
+      "edition_verse_id": "KJV1769:JOB.20.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "There shall none of his meat be left; therefore shall no man look for his goods.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.20.22",
+      "edition_verse_id": "KJV1769:JOB.20.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "In the fulness of his sufficiency he shall be in straits: every hand of the wicked shall come upon him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.20.23",
+      "edition_verse_id": "KJV1769:JOB.20.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "When",
+          "kind": "supplied"
+        },
+        {
+          "text": " he is about to fill his belly, ",
+          "kind": "text"
+        },
+        {
+          "text": "God",
+          "kind": "supplied"
+        },
+        {
+          "text": " shall cast the fury of his wrath upon him, and shall rain ",
+          "kind": "text"
+        },
+        {
+          "text": "it",
+          "kind": "supplied"
+        },
+        {
+          "text": " upon him while he is eating.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOB.20.24",
+      "edition_verse_id": "KJV1769:JOB.20.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "He shall flee from the iron weapon, ",
+          "kind": "text"
+        },
+        {
+          "text": "and",
+          "kind": "supplied"
+        },
+        {
+          "text": " the bow of steel shall strike him through.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.20.25",
+      "edition_verse_id": "KJV1769:JOB.20.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "It is drawn, and cometh out of the body; yea, the glittering sword cometh out of his gall: terrors ",
+          "kind": "text"
+        },
+        {
+          "text": "are",
+          "kind": "supplied"
+        },
+        {
+          "text": " upon him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.20.26",
+      "edition_verse_id": "KJV1769:JOB.20.26",
+      "verse": 26,
+      "spans": [
+        {
+          "text": "All darkness ",
+          "kind": "text"
+        },
+        {
+          "text": "shall be",
+          "kind": "supplied"
+        },
+        {
+          "text": " hid in his secret places: a fire not blown shall consume him; it shall go ill with him that is left in his tabernacle.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.20.27",
+      "edition_verse_id": "KJV1769:JOB.20.27",
+      "verse": 27,
+      "spans": [
+        {
+          "text": "The heaven shall reveal his iniquity; and the earth shall rise up against him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.20.28",
+      "edition_verse_id": "KJV1769:JOB.20.28",
+      "verse": 28,
+      "spans": [
+        {
+          "text": "The increase of his house shall depart, ",
+          "kind": "text"
+        },
+        {
+          "text": "and his goods",
+          "kind": "supplied"
+        },
+        {
+          "text": " shall flow away in the day of his wrath.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.20.29",
+      "edition_verse_id": "KJV1769:JOB.20.29",
+      "verse": 29,
+      "spans": [
+        {
+          "text": "This ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " the portion of a wicked man from God, and the heritage appointed unto him by God.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

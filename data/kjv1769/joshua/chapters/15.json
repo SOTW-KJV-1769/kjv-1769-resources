@@ -1,0 +1,1012 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "KJV1769",
+  "book_code": "JOS",
+  "chapter": 15,
+  "verses": [
+    {
+      "id": "JOS.15.1",
+      "edition_verse_id": "KJV1769:JOS.15.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "This",
+          "kind": "supplied"
+        },
+        {
+          "text": " then was the lot of the tribe of the children of Judah by their families; ",
+          "kind": "text"
+        },
+        {
+          "text": "even",
+          "kind": "supplied"
+        },
+        {
+          "text": " to the border of Edom the wilderness of Zin southward ",
+          "kind": "text"
+        },
+        {
+          "text": "was",
+          "kind": "supplied"
+        },
+        {
+          "text": " the uttermost part of the south coast.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOS.15.2",
+      "edition_verse_id": "KJV1769:JOS.15.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "And their south border was from the shore of the salt sea, from the bay that looketh southward:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOS.15.3",
+      "edition_verse_id": "KJV1769:JOS.15.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "And it went out to the south side to Maaleh-acrabbim, and passed along to Zin, and ascended up on the south side unto Kadesh-barnea, and passed along to Hezron, and went up to Adar, and fetched a compass to Karkaa:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOS.15.4",
+      "edition_verse_id": "KJV1769:JOS.15.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "From thence",
+          "kind": "supplied"
+        },
+        {
+          "text": " it passed toward Azmon, and went out unto the river of Egypt; and the goings out of that coast were at the sea: this shall be your south coast.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOS.15.5",
+      "edition_verse_id": "KJV1769:JOS.15.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "And the east border ",
+          "kind": "text"
+        },
+        {
+          "text": "was",
+          "kind": "supplied"
+        },
+        {
+          "text": " the salt sea, ",
+          "kind": "text"
+        },
+        {
+          "text": "even",
+          "kind": "supplied"
+        },
+        {
+          "text": " unto the end of Jordan. And ",
+          "kind": "text"
+        },
+        {
+          "text": "their",
+          "kind": "supplied"
+        },
+        {
+          "text": " border in the north quarter ",
+          "kind": "text"
+        },
+        {
+          "text": "was",
+          "kind": "supplied"
+        },
+        {
+          "text": " from the bay of the sea at the uttermost part of Jordan:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOS.15.6",
+      "edition_verse_id": "KJV1769:JOS.15.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "And the border went up to Beth-hogla, and passed along by the north of Beth-arabah; and the border went up to the stone of Bohan the son of Reuben:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOS.15.7",
+      "edition_verse_id": "KJV1769:JOS.15.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "And the border went up toward Debir from the valley of Achor, and so northward, looking toward Gilgal, that ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " before the going up to Adummim, which ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " on the south side of the river: and the border passed toward the waters of En-shemesh, and the goings out thereof were at En-rogel:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOS.15.8",
+      "edition_verse_id": "KJV1769:JOS.15.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "And the border went up by the valley of the son of Hinnom unto the south side of the Jebusite; the same ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " Jerusalem: and the border went up to the top of the mountain that ",
+          "kind": "text"
+        },
+        {
+          "text": "lieth",
+          "kind": "supplied"
+        },
+        {
+          "text": " before the valley of Hinnom westward, which ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " at the end of the valley of the giants northward:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOS.15.9",
+      "edition_verse_id": "KJV1769:JOS.15.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "And the border was drawn from the top of the hill unto the fountain of the water of Nephtoah, and went out to the cities of mount Ephron; and the border was drawn to Baalah, which ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " Kirjath-jearim:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOS.15.10",
+      "edition_verse_id": "KJV1769:JOS.15.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "And the border compassed from Baalah westward unto mount Seir, and passed along unto the side of mount Jearim, which ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " Chesalon, on the north side, and went down to Beth-shemesh, and passed on to Timnah:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOS.15.11",
+      "edition_verse_id": "KJV1769:JOS.15.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "And the border went out unto the side of Ekron northward: and the border was drawn to Shicron, and passed along to mount Baalah, and went out unto Jabneel; and the goings out of the border were at the sea.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOS.15.12",
+      "edition_verse_id": "KJV1769:JOS.15.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "And the west border ",
+          "kind": "text"
+        },
+        {
+          "text": "was",
+          "kind": "supplied"
+        },
+        {
+          "text": " to the great sea, and the coast ",
+          "kind": "text"
+        },
+        {
+          "text": "thereof",
+          "kind": "supplied"
+        },
+        {
+          "text": ". This ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " the coast of the children of Judah round about according to their families.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOS.15.13",
+      "edition_verse_id": "KJV1769:JOS.15.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "¶ And unto Caleb the son of Jephunneh he gave a part among the children of Judah, according to the commandment of the LORD to Joshua, ",
+          "kind": "text"
+        },
+        {
+          "text": "even",
+          "kind": "supplied"
+        },
+        {
+          "text": " the city of Arba the father of Anak, which ",
+          "kind": "text"
+        },
+        {
+          "text": "city is",
+          "kind": "supplied"
+        },
+        {
+          "text": " Hebron.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOS.15.14",
+      "edition_verse_id": "KJV1769:JOS.15.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "And Caleb drove thence the three sons of Anak, Sheshai, and Ahiman, and Talmai, the children of Anak.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOS.15.15",
+      "edition_verse_id": "KJV1769:JOS.15.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "And he went up thence to the inhabitants of Debir: and the name of Debir before ",
+          "kind": "text"
+        },
+        {
+          "text": "was",
+          "kind": "supplied"
+        },
+        {
+          "text": " Kirjath-sepher.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOS.15.16",
+      "edition_verse_id": "KJV1769:JOS.15.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "¶ And Caleb said, He that smiteth Kirjath-sepher, and taketh it, to him will I give Achsah my daughter to wife.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOS.15.17",
+      "edition_verse_id": "KJV1769:JOS.15.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "And Othniel the son of Kenaz, the brother of Caleb, took it: and he gave him Achsah his daughter to wife.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOS.15.18",
+      "edition_verse_id": "KJV1769:JOS.15.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "And it came to pass, as she came ",
+          "kind": "text"
+        },
+        {
+          "text": "unto him",
+          "kind": "supplied"
+        },
+        {
+          "text": ", that she moved him to ask of her father a field: and she lighted off ",
+          "kind": "text"
+        },
+        {
+          "text": "her",
+          "kind": "supplied"
+        },
+        {
+          "text": " ass; and Caleb said unto her, What wouldest thou?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOS.15.19",
+      "edition_verse_id": "KJV1769:JOS.15.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "Who answered, Give me a blessing; for thou hast given me a south land; give me also springs of water. And he gave her the upper springs, and the nether springs.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOS.15.20",
+      "edition_verse_id": "KJV1769:JOS.15.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "This ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " the inheritance of the tribe of the children of Judah according to their families.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOS.15.21",
+      "edition_verse_id": "KJV1769:JOS.15.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "And the uttermost cities of the tribe of the children of Judah toward the coast of Edom southward were Kabzeel, and Eder, and Jagur,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOS.15.22",
+      "edition_verse_id": "KJV1769:JOS.15.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "And Kinah, and Dimonah, and Adadah,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOS.15.23",
+      "edition_verse_id": "KJV1769:JOS.15.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "And Kedesh, and Hazor, and Ithnan,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOS.15.24",
+      "edition_verse_id": "KJV1769:JOS.15.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "Ziph, and Telem, and Bealoth,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOS.15.25",
+      "edition_verse_id": "KJV1769:JOS.15.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "And Hazor, Hadattah, and Kerioth, ",
+          "kind": "text"
+        },
+        {
+          "text": "and",
+          "kind": "supplied"
+        },
+        {
+          "text": " Hezron, which ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " Hazor,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOS.15.26",
+      "edition_verse_id": "KJV1769:JOS.15.26",
+      "verse": 26,
+      "spans": [
+        {
+          "text": "Amam, and Shema, and Moladah,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOS.15.27",
+      "edition_verse_id": "KJV1769:JOS.15.27",
+      "verse": 27,
+      "spans": [
+        {
+          "text": "And Hazar-gaddah, and Heshmon, and Beth-palet,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOS.15.28",
+      "edition_verse_id": "KJV1769:JOS.15.28",
+      "verse": 28,
+      "spans": [
+        {
+          "text": "And Hazar-shual, and Beer-sheba, and Bizjothjah,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOS.15.29",
+      "edition_verse_id": "KJV1769:JOS.15.29",
+      "verse": 29,
+      "spans": [
+        {
+          "text": "Baalah, and Iim, and Azem,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOS.15.30",
+      "edition_verse_id": "KJV1769:JOS.15.30",
+      "verse": 30,
+      "spans": [
+        {
+          "text": "And Eltolad, and Chesil, and Hormah,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOS.15.31",
+      "edition_verse_id": "KJV1769:JOS.15.31",
+      "verse": 31,
+      "spans": [
+        {
+          "text": "And Ziklag, and Madmannah, and Sansannah,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOS.15.32",
+      "edition_verse_id": "KJV1769:JOS.15.32",
+      "verse": 32,
+      "spans": [
+        {
+          "text": "And Lebaoth, and Shilhim, and Ain, and Rimmon: all the cities ",
+          "kind": "text"
+        },
+        {
+          "text": "are",
+          "kind": "supplied"
+        },
+        {
+          "text": " twenty and nine, with their villages:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOS.15.33",
+      "edition_verse_id": "KJV1769:JOS.15.33",
+      "verse": 33,
+      "spans": [
+        {
+          "text": "And",
+          "kind": "supplied"
+        },
+        {
+          "text": " in the valley, Eshtaol, and Zoreah, and Ashnah,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOS.15.34",
+      "edition_verse_id": "KJV1769:JOS.15.34",
+      "verse": 34,
+      "spans": [
+        {
+          "text": "And Zanoah, and En-gannim, Tappuah, and Enam,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOS.15.35",
+      "edition_verse_id": "KJV1769:JOS.15.35",
+      "verse": 35,
+      "spans": [
+        {
+          "text": "Jarmuth, and Adullam, Socoh, and Azekah,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOS.15.36",
+      "edition_verse_id": "KJV1769:JOS.15.36",
+      "verse": 36,
+      "spans": [
+        {
+          "text": "And Sharaim, and Adithaim, and Gederah, and Gederothaim; fourteen cities with their villages:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOS.15.37",
+      "edition_verse_id": "KJV1769:JOS.15.37",
+      "verse": 37,
+      "spans": [
+        {
+          "text": "Zenan, and Hadashah, and Migdal-gad,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOS.15.38",
+      "edition_verse_id": "KJV1769:JOS.15.38",
+      "verse": 38,
+      "spans": [
+        {
+          "text": "And Dilean, and Mizpeh, and Joktheel,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOS.15.39",
+      "edition_verse_id": "KJV1769:JOS.15.39",
+      "verse": 39,
+      "spans": [
+        {
+          "text": "Lachish, and Bozkath, and Eglon,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOS.15.40",
+      "edition_verse_id": "KJV1769:JOS.15.40",
+      "verse": 40,
+      "spans": [
+        {
+          "text": "And Cabbon, and Lahmam, and Kithlish,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOS.15.41",
+      "edition_verse_id": "KJV1769:JOS.15.41",
+      "verse": 41,
+      "spans": [
+        {
+          "text": "And Gederoth, Beth-dagon, and Naamah, and Makkedah; sixteen cities with their villages:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOS.15.42",
+      "edition_verse_id": "KJV1769:JOS.15.42",
+      "verse": 42,
+      "spans": [
+        {
+          "text": "Libnah, and Ether, and Ashan,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOS.15.43",
+      "edition_verse_id": "KJV1769:JOS.15.43",
+      "verse": 43,
+      "spans": [
+        {
+          "text": "And Jiphtah, and Ashnah, and Nezib,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOS.15.44",
+      "edition_verse_id": "KJV1769:JOS.15.44",
+      "verse": 44,
+      "spans": [
+        {
+          "text": "And Keilah, and Achzib, and Mareshah; nine cities with their villages:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOS.15.45",
+      "edition_verse_id": "KJV1769:JOS.15.45",
+      "verse": 45,
+      "spans": [
+        {
+          "text": "Ekron, with her towns and her villages:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOS.15.46",
+      "edition_verse_id": "KJV1769:JOS.15.46",
+      "verse": 46,
+      "spans": [
+        {
+          "text": "From Ekron even unto the sea, all that ",
+          "kind": "text"
+        },
+        {
+          "text": "lay",
+          "kind": "supplied"
+        },
+        {
+          "text": " near Ashdod, with their villages:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOS.15.47",
+      "edition_verse_id": "KJV1769:JOS.15.47",
+      "verse": 47,
+      "spans": [
+        {
+          "text": "Ashdod with her towns and her villages, Gaza with her towns and her villages, unto the river of Egypt, and the great sea, and the border ",
+          "kind": "text"
+        },
+        {
+          "text": "thereof:",
+          "kind": "supplied"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOS.15.48",
+      "edition_verse_id": "KJV1769:JOS.15.48",
+      "verse": 48,
+      "spans": [
+        {
+          "text": "¶ And in the mountains, Shamir, and Jattir, and Socoh,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOS.15.49",
+      "edition_verse_id": "KJV1769:JOS.15.49",
+      "verse": 49,
+      "spans": [
+        {
+          "text": "And Dannah, and Kirjath-sannah, which ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " Debir,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOS.15.50",
+      "edition_verse_id": "KJV1769:JOS.15.50",
+      "verse": 50,
+      "spans": [
+        {
+          "text": "And Anab, and Eshtemoh, and Anim,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOS.15.51",
+      "edition_verse_id": "KJV1769:JOS.15.51",
+      "verse": 51,
+      "spans": [
+        {
+          "text": "And Goshen, and Holon, and Giloh; eleven cities with their villages:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOS.15.52",
+      "edition_verse_id": "KJV1769:JOS.15.52",
+      "verse": 52,
+      "spans": [
+        {
+          "text": "Arab, and Dumah, and Eshean,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOS.15.53",
+      "edition_verse_id": "KJV1769:JOS.15.53",
+      "verse": 53,
+      "spans": [
+        {
+          "text": "And Janum, and Beth-tappuah, and Aphekah,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOS.15.54",
+      "edition_verse_id": "KJV1769:JOS.15.54",
+      "verse": 54,
+      "spans": [
+        {
+          "text": "And Humtah, and Kirjath-arba, which ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " Hebron, and Zior; nine cities with their villages:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOS.15.55",
+      "edition_verse_id": "KJV1769:JOS.15.55",
+      "verse": 55,
+      "spans": [
+        {
+          "text": "Maon, Carmel, and Ziph, and Juttah,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOS.15.56",
+      "edition_verse_id": "KJV1769:JOS.15.56",
+      "verse": 56,
+      "spans": [
+        {
+          "text": "And Jezreel, and Jokdeam, and Zanoah,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOS.15.57",
+      "edition_verse_id": "KJV1769:JOS.15.57",
+      "verse": 57,
+      "spans": [
+        {
+          "text": "Cain, Gibeah, and Timnah; ten cities with their villages:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOS.15.58",
+      "edition_verse_id": "KJV1769:JOS.15.58",
+      "verse": 58,
+      "spans": [
+        {
+          "text": "Halhul, Beth-zur, and Gedor,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOS.15.59",
+      "edition_verse_id": "KJV1769:JOS.15.59",
+      "verse": 59,
+      "spans": [
+        {
+          "text": "And Maarath, and Beth-anoth, and Eltekon; six cities with their villages:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOS.15.60",
+      "edition_verse_id": "KJV1769:JOS.15.60",
+      "verse": 60,
+      "spans": [
+        {
+          "text": "Kirjath-baal, which ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " Kirjath-jearim, and Rabbah; two cities with their villages:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOS.15.61",
+      "edition_verse_id": "KJV1769:JOS.15.61",
+      "verse": 61,
+      "spans": [
+        {
+          "text": "In the wilderness, Beth-arabah, Middin, and Secacah,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOS.15.62",
+      "edition_verse_id": "KJV1769:JOS.15.62",
+      "verse": 62,
+      "spans": [
+        {
+          "text": "And Nibshan, and the city of Salt, and En-gedi; six cities with their villages.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOS.15.63",
+      "edition_verse_id": "KJV1769:JOS.15.63",
+      "verse": 63,
+      "spans": [
+        {
+          "text": "¶ As for the Jebusites the inhabitants of Jerusalem, the children of Judah could not drive them out: but the Jebusites dwell with the children of Judah at Jerusalem unto this day.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    }
+  ]
+}

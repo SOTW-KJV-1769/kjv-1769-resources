@@ -1,0 +1,168 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "KJV1769",
+  "book_code": "JON",
+  "chapter": 3,
+  "verses": [
+    {
+      "id": "JON.3.1",
+      "edition_verse_id": "KJV1769:JON.3.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "And the word of the LORD came unto Jonah the second time, saying,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JON.3.2",
+      "edition_verse_id": "KJV1769:JON.3.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "Arise, go unto Nineveh, that great city, and preach unto it the preaching that I bid thee.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JON.3.3",
+      "edition_verse_id": "KJV1769:JON.3.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "So Jonah arose, and went unto Nineveh, according to the word of the LORD. Now Nineveh was an exceeding great city of three days’ journey.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JON.3.4",
+      "edition_verse_id": "KJV1769:JON.3.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "And Jonah began to enter into the city a day’s journey, and he cried, and said, Yet forty days, and Nineveh shall be overthrown.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JON.3.5",
+      "edition_verse_id": "KJV1769:JON.3.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "¶ So the people of Nineveh believed God, and proclaimed a fast, and put on sackcloth, from the greatest of them even to the least of them.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JON.3.6",
+      "edition_verse_id": "KJV1769:JON.3.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "For word came unto the king of Nineveh, and he arose from his throne, and he laid his robe from him, and covered ",
+          "kind": "text"
+        },
+        {
+          "text": "him",
+          "kind": "supplied"
+        },
+        {
+          "text": " with sackcloth, and sat in ashes.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JON.3.7",
+      "edition_verse_id": "KJV1769:JON.3.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "And he caused ",
+          "kind": "text"
+        },
+        {
+          "text": "it",
+          "kind": "supplied"
+        },
+        {
+          "text": " to be proclaimed and published through Nineveh by the decree of the king and his nobles, saying, Let neither man nor beast, herd nor flock, taste any thing: let them not feed, nor drink water:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JON.3.8",
+      "edition_verse_id": "KJV1769:JON.3.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "But let man and beast be covered with sackcloth, and cry mightily unto God: yea, let them turn every one from his evil way, and from the violence that ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " in their hands.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JON.3.9",
+      "edition_verse_id": "KJV1769:JON.3.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "Who can tell ",
+          "kind": "text"
+        },
+        {
+          "text": "if",
+          "kind": "supplied"
+        },
+        {
+          "text": " God will turn and repent, and turn away from his fierce anger, that we perish not?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JON.3.10",
+      "edition_verse_id": "KJV1769:JON.3.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "¶ And God saw their works, that they turned from their evil way; and God repented of the evil, that he had said that he would do unto them; and he did ",
+          "kind": "text"
+        },
+        {
+          "text": "it",
+          "kind": "supplied"
+        },
+        {
+          "text": " not.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    }
+  ]
+}

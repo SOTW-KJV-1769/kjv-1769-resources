@@ -1,0 +1,584 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "KJV1769",
+  "book_code": "JOB",
+  "chapter": 30,
+  "verses": [
+    {
+      "id": "JOB.30.1",
+      "edition_verse_id": "KJV1769:JOB.30.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "But now ",
+          "kind": "text"
+        },
+        {
+          "text": "they that are",
+          "kind": "supplied"
+        },
+        {
+          "text": " younger than I have me in derision, whose fathers I would have disdained to have set with the dogs of my flock.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOB.30.2",
+      "edition_verse_id": "KJV1769:JOB.30.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "Yea, whereto ",
+          "kind": "text"
+        },
+        {
+          "text": "might",
+          "kind": "supplied"
+        },
+        {
+          "text": " the strength of their hands ",
+          "kind": "text"
+        },
+        {
+          "text": "profit",
+          "kind": "supplied"
+        },
+        {
+          "text": " me, in whom old age was perished?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.30.3",
+      "edition_verse_id": "KJV1769:JOB.30.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "For want and famine ",
+          "kind": "text"
+        },
+        {
+          "text": "they were",
+          "kind": "supplied"
+        },
+        {
+          "text": " solitary; fleeing into the wilderness in former time desolate and waste.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.30.4",
+      "edition_verse_id": "KJV1769:JOB.30.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "Who cut up mallows by the bushes, and juniper roots ",
+          "kind": "text"
+        },
+        {
+          "text": "for",
+          "kind": "supplied"
+        },
+        {
+          "text": " their meat.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.30.5",
+      "edition_verse_id": "KJV1769:JOB.30.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "They were driven forth from among ",
+          "kind": "text"
+        },
+        {
+          "text": "men",
+          "kind": "supplied"
+        },
+        {
+          "text": ", (they cried after them as ",
+          "kind": "text"
+        },
+        {
+          "text": "after",
+          "kind": "supplied"
+        },
+        {
+          "text": " a thief;)",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.30.6",
+      "edition_verse_id": "KJV1769:JOB.30.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "To dwell in the clifts of the valleys, ",
+          "kind": "text"
+        },
+        {
+          "text": "in",
+          "kind": "supplied"
+        },
+        {
+          "text": " caves of the earth, and ",
+          "kind": "text"
+        },
+        {
+          "text": "in",
+          "kind": "supplied"
+        },
+        {
+          "text": " the rocks.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.30.7",
+      "edition_verse_id": "KJV1769:JOB.30.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "Among the bushes they brayed; under the nettles they were gathered together.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.30.8",
+      "edition_verse_id": "KJV1769:JOB.30.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "They were",
+          "kind": "supplied"
+        },
+        {
+          "text": " children of fools, yea, children of base men: they were viler than the earth.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.30.9",
+      "edition_verse_id": "KJV1769:JOB.30.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "And now am I their song, yea, I am their byword.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.30.10",
+      "edition_verse_id": "KJV1769:JOB.30.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "They abhor me, they flee far from me, and spare not to spit in my face.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.30.11",
+      "edition_verse_id": "KJV1769:JOB.30.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "Because he hath loosed my cord, and afflicted me, they have also let loose the bridle before me.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.30.12",
+      "edition_verse_id": "KJV1769:JOB.30.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "Upon ",
+          "kind": "text"
+        },
+        {
+          "text": "my",
+          "kind": "supplied"
+        },
+        {
+          "text": " right ",
+          "kind": "text"
+        },
+        {
+          "text": "hand",
+          "kind": "supplied"
+        },
+        {
+          "text": " rise the youth; they push away my feet, and they raise up against me the ways of their destruction.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.30.13",
+      "edition_verse_id": "KJV1769:JOB.30.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "They mar my path, they set forward my calamity, they have no helper.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.30.14",
+      "edition_verse_id": "KJV1769:JOB.30.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "They came ",
+          "kind": "text"
+        },
+        {
+          "text": "upon me",
+          "kind": "supplied"
+        },
+        {
+          "text": " as a wide breaking in ",
+          "kind": "text"
+        },
+        {
+          "text": "of waters:",
+          "kind": "supplied"
+        },
+        {
+          "text": " in the desolation they rolled themselves ",
+          "kind": "text"
+        },
+        {
+          "text": "upon me",
+          "kind": "supplied"
+        },
+        {
+          "text": ".",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.30.15",
+      "edition_verse_id": "KJV1769:JOB.30.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "Terrors are turned upon me: they pursue my soul as the wind: and my welfare passeth away as a cloud.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOB.30.16",
+      "edition_verse_id": "KJV1769:JOB.30.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "And now my soul is poured out upon me; the days of affliction have taken hold upon me.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.30.17",
+      "edition_verse_id": "KJV1769:JOB.30.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "My bones are pierced in me in the night season: and my sinews take no rest.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.30.18",
+      "edition_verse_id": "KJV1769:JOB.30.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "By the great force ",
+          "kind": "text"
+        },
+        {
+          "text": "of my disease",
+          "kind": "supplied"
+        },
+        {
+          "text": " is my garment changed: it bindeth me about as the collar of my coat.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.30.19",
+      "edition_verse_id": "KJV1769:JOB.30.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "He hath cast me into the mire, and I am become like dust and ashes.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.30.20",
+      "edition_verse_id": "KJV1769:JOB.30.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "I cry unto thee, and thou dost not hear me: I stand up, and thou regardest me ",
+          "kind": "text"
+        },
+        {
+          "text": "not",
+          "kind": "supplied"
+        },
+        {
+          "text": ".",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.30.21",
+      "edition_verse_id": "KJV1769:JOB.30.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "Thou art become cruel to me: with thy strong hand thou opposest thyself against me.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.30.22",
+      "edition_verse_id": "KJV1769:JOB.30.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "Thou liftest me up to the wind; thou causest me to ride ",
+          "kind": "text"
+        },
+        {
+          "text": "upon it",
+          "kind": "supplied"
+        },
+        {
+          "text": ", and dissolvest my substance.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.30.23",
+      "edition_verse_id": "KJV1769:JOB.30.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "For I know ",
+          "kind": "text"
+        },
+        {
+          "text": "that",
+          "kind": "supplied"
+        },
+        {
+          "text": " thou wilt bring me ",
+          "kind": "text"
+        },
+        {
+          "text": "to",
+          "kind": "supplied"
+        },
+        {
+          "text": " death, and ",
+          "kind": "text"
+        },
+        {
+          "text": "to",
+          "kind": "supplied"
+        },
+        {
+          "text": " the house appointed for all living.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.30.24",
+      "edition_verse_id": "KJV1769:JOB.30.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "Howbeit he will not stretch out ",
+          "kind": "text"
+        },
+        {
+          "text": "his",
+          "kind": "supplied"
+        },
+        {
+          "text": " hand to the grave, though they cry in his destruction.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.30.25",
+      "edition_verse_id": "KJV1769:JOB.30.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "Did not I weep for him that was in trouble? was ",
+          "kind": "text"
+        },
+        {
+          "text": "not",
+          "kind": "supplied"
+        },
+        {
+          "text": " my soul grieved for the poor?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.30.26",
+      "edition_verse_id": "KJV1769:JOB.30.26",
+      "verse": 26,
+      "spans": [
+        {
+          "text": "When I looked for good, then evil came ",
+          "kind": "text"
+        },
+        {
+          "text": "unto me:",
+          "kind": "supplied"
+        },
+        {
+          "text": " and when I waited for light, there came darkness.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.30.27",
+      "edition_verse_id": "KJV1769:JOB.30.27",
+      "verse": 27,
+      "spans": [
+        {
+          "text": "My bowels boiled, and rested not: the days of affliction prevented me.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.30.28",
+      "edition_verse_id": "KJV1769:JOB.30.28",
+      "verse": 28,
+      "spans": [
+        {
+          "text": "I went mourning without the sun: I stood up, ",
+          "kind": "text"
+        },
+        {
+          "text": "and",
+          "kind": "supplied"
+        },
+        {
+          "text": " I cried in the congregation.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.30.29",
+      "edition_verse_id": "KJV1769:JOB.30.29",
+      "verse": 29,
+      "spans": [
+        {
+          "text": "I am a brother to dragons, and a companion to owls.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.30.30",
+      "edition_verse_id": "KJV1769:JOB.30.30",
+      "verse": 30,
+      "spans": [
+        {
+          "text": "My skin is black upon me, and my bones are burned with heat.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.30.31",
+      "edition_verse_id": "KJV1769:JOB.30.31",
+      "verse": 31,
+      "spans": [
+        {
+          "text": "My harp also is ",
+          "kind": "text"
+        },
+        {
+          "text": "turned",
+          "kind": "supplied"
+        },
+        {
+          "text": " to mourning, and my organ into the voice of them that weep.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

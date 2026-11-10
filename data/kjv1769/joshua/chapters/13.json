@@ -1,0 +1,668 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "KJV1769",
+  "book_code": "JOS",
+  "chapter": 13,
+  "verses": [
+    {
+      "id": "JOS.13.1",
+      "edition_verse_id": "KJV1769:JOS.13.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "Now Joshua was old ",
+          "kind": "text"
+        },
+        {
+          "text": "and",
+          "kind": "supplied"
+        },
+        {
+          "text": " stricken in years; and the LORD said unto him, Thou art old ",
+          "kind": "text"
+        },
+        {
+          "text": "and",
+          "kind": "supplied"
+        },
+        {
+          "text": " stricken in years, and there remaineth yet very much land to be possessed.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOS.13.2",
+      "edition_verse_id": "KJV1769:JOS.13.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "This ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " the land that yet remaineth: all the borders of the Philistines, and all Geshuri,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOS.13.3",
+      "edition_verse_id": "KJV1769:JOS.13.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "From Sihor, which ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " before Egypt, even unto the borders of Ekron northward, ",
+          "kind": "text"
+        },
+        {
+          "text": "which",
+          "kind": "supplied"
+        },
+        {
+          "text": " is counted to the Canaanite: five lords of the Philistines; the Gazathites, and the Ashdothites, the Eshkalonites, the Gittites, and the Ekronites; also the Avites:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOS.13.4",
+      "edition_verse_id": "KJV1769:JOS.13.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "From the south, all the land of the Canaanites, and Mearah that ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " beside the Sidonians, unto Aphek, to the borders of the Amorites:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOS.13.5",
+      "edition_verse_id": "KJV1769:JOS.13.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "And the land of the Giblites, and all Lebanon, toward the sunrising, from Baal-gad under mount Hermon unto the entering into Hamath.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOS.13.6",
+      "edition_verse_id": "KJV1769:JOS.13.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "All the inhabitants of the hill country from Lebanon unto Misrephoth-maim, ",
+          "kind": "text"
+        },
+        {
+          "text": "and",
+          "kind": "supplied"
+        },
+        {
+          "text": " all the Sidonians, them will I drive out from before the children of Israel: only divide thou it by lot unto the Israelites for an inheritance, as I have commanded thee.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOS.13.7",
+      "edition_verse_id": "KJV1769:JOS.13.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "Now therefore divide this land for an inheritance unto the nine tribes, and the half tribe of Manasseh,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOS.13.8",
+      "edition_verse_id": "KJV1769:JOS.13.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "With whom the Reubenites and the Gadites have received their inheritance, which Moses gave them, beyond Jordan eastward, ",
+          "kind": "text"
+        },
+        {
+          "text": "even",
+          "kind": "supplied"
+        },
+        {
+          "text": " as Moses the servant of the LORD gave them;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOS.13.9",
+      "edition_verse_id": "KJV1769:JOS.13.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "From Aroer, that ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " upon the bank of the river Arnon, and the city that ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " in the midst of the river, and all the plain of Medeba unto Dibon;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOS.13.10",
+      "edition_verse_id": "KJV1769:JOS.13.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "And all the cities of Sihon king of the Amorites, which reigned in Heshbon, unto the border of the children of Ammon;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOS.13.11",
+      "edition_verse_id": "KJV1769:JOS.13.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "And Gilead, and the border of the Geshurites and Maachathites, and all mount Hermon, and all Bashan unto Salcah;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOS.13.12",
+      "edition_verse_id": "KJV1769:JOS.13.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "All the kingdom of Og in Bashan, which reigned in Ashtaroth and in Edrei, who remained of the remnant of the giants: for these did Moses smite, and cast them out.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOS.13.13",
+      "edition_verse_id": "KJV1769:JOS.13.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "Nevertheless the children of Israel expelled not the Geshurites, nor the Maachathites: but the Geshurites and the Maachathites dwell among the Israelites until this day.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOS.13.14",
+      "edition_verse_id": "KJV1769:JOS.13.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "Only unto the tribe of Levi he gave none inheritance; the sacrifices of the LORD God of Israel made by fire ",
+          "kind": "text"
+        },
+        {
+          "text": "are",
+          "kind": "supplied"
+        },
+        {
+          "text": " their inheritance, as he said unto them.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOS.13.15",
+      "edition_verse_id": "KJV1769:JOS.13.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "¶ And Moses gave unto the tribe of the children of Reuben ",
+          "kind": "text"
+        },
+        {
+          "text": "inheritance",
+          "kind": "supplied"
+        },
+        {
+          "text": " according to their families.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOS.13.16",
+      "edition_verse_id": "KJV1769:JOS.13.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "And their coast was from Aroer, that ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " on the bank of the river Arnon, and the city that ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " in the midst of the river, and all the plain by Medeba;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOS.13.17",
+      "edition_verse_id": "KJV1769:JOS.13.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "Heshbon, and all her cities that ",
+          "kind": "text"
+        },
+        {
+          "text": "are",
+          "kind": "supplied"
+        },
+        {
+          "text": " in the plain; Dibon, and Bamoth-baal, and Beth-baal-meon,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOS.13.18",
+      "edition_verse_id": "KJV1769:JOS.13.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "And Jahazah, and Kedemoth, and Mephaath,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOS.13.19",
+      "edition_verse_id": "KJV1769:JOS.13.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "And Kirjathaim, and Sibmah, and Zareth-shahar in the mount of the valley,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOS.13.20",
+      "edition_verse_id": "KJV1769:JOS.13.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "And Beth-peor, and Ashdoth-pisgah, and Beth-jeshimoth,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOS.13.21",
+      "edition_verse_id": "KJV1769:JOS.13.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "And all the cities of the plain, and all the kingdom of Sihon king of the Amorites, which reigned in Heshbon, whom Moses smote with the princes of Midian, Evi, and Rekem, and Zur, and Hur, and Reba, ",
+          "kind": "text"
+        },
+        {
+          "text": "which were",
+          "kind": "supplied"
+        },
+        {
+          "text": " dukes of Sihon, dwelling in the country.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOS.13.22",
+      "edition_verse_id": "KJV1769:JOS.13.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "¶ Balaam also the son of Beor, the soothsayer, did the children of Israel slay with the sword among them that were slain by them.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOS.13.23",
+      "edition_verse_id": "KJV1769:JOS.13.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "And the border of the children of Reuben was Jordan, and the border ",
+          "kind": "text"
+        },
+        {
+          "text": "thereof",
+          "kind": "supplied"
+        },
+        {
+          "text": ". This ",
+          "kind": "text"
+        },
+        {
+          "text": "was",
+          "kind": "supplied"
+        },
+        {
+          "text": " the inheritance of the children of Reuben after their families, the cities and the villages thereof.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOS.13.24",
+      "edition_verse_id": "KJV1769:JOS.13.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "And Moses gave ",
+          "kind": "text"
+        },
+        {
+          "text": "inheritance",
+          "kind": "supplied"
+        },
+        {
+          "text": " unto the tribe of Gad, ",
+          "kind": "text"
+        },
+        {
+          "text": "even",
+          "kind": "supplied"
+        },
+        {
+          "text": " unto the children of Gad according to their families.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOS.13.25",
+      "edition_verse_id": "KJV1769:JOS.13.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "And their coast was Jazer, and all the cities of Gilead, and half the land of the children of Ammon, unto Aroer that ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " before Rabbah;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOS.13.26",
+      "edition_verse_id": "KJV1769:JOS.13.26",
+      "verse": 26,
+      "spans": [
+        {
+          "text": "And from Heshbon unto Ramath-mizpeh, and Betonim; and from Mahanaim unto the border of Debir;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOS.13.27",
+      "edition_verse_id": "KJV1769:JOS.13.27",
+      "verse": 27,
+      "spans": [
+        {
+          "text": "And in the valley, Beth-aram, and Beth-nimrah, and Succoth, and Zaphon, the rest of the kingdom of Sihon king of Heshbon, Jordan and ",
+          "kind": "text"
+        },
+        {
+          "text": "his",
+          "kind": "supplied"
+        },
+        {
+          "text": " border, ",
+          "kind": "text"
+        },
+        {
+          "text": "even",
+          "kind": "supplied"
+        },
+        {
+          "text": " unto the edge of the sea of Chinnereth on the other side Jordan eastward.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOS.13.28",
+      "edition_verse_id": "KJV1769:JOS.13.28",
+      "verse": 28,
+      "spans": [
+        {
+          "text": "This ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " the inheritance of the children of Gad after their families, the cities, and their villages.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOS.13.29",
+      "edition_verse_id": "KJV1769:JOS.13.29",
+      "verse": 29,
+      "spans": [
+        {
+          "text": "¶ And Moses gave ",
+          "kind": "text"
+        },
+        {
+          "text": "inheritance",
+          "kind": "supplied"
+        },
+        {
+          "text": " unto the half tribe of Manasseh: and ",
+          "kind": "text"
+        },
+        {
+          "text": "this",
+          "kind": "supplied"
+        },
+        {
+          "text": " was ",
+          "kind": "text"
+        },
+        {
+          "text": "the possession",
+          "kind": "supplied"
+        },
+        {
+          "text": " of the half tribe of the children of Manasseh by their families.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOS.13.30",
+      "edition_verse_id": "KJV1769:JOS.13.30",
+      "verse": 30,
+      "spans": [
+        {
+          "text": "And their coast was from Mahanaim, all Bashan, all the kingdom of Og king of Bashan, and all the towns of Jair, which ",
+          "kind": "text"
+        },
+        {
+          "text": "are",
+          "kind": "supplied"
+        },
+        {
+          "text": " in Bashan, threescore cities:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOS.13.31",
+      "edition_verse_id": "KJV1769:JOS.13.31",
+      "verse": 31,
+      "spans": [
+        {
+          "text": "And half Gilead, and Ashtaroth, and Edrei, cities of the kingdom of Og in Bashan, ",
+          "kind": "text"
+        },
+        {
+          "text": "were pertaining",
+          "kind": "supplied"
+        },
+        {
+          "text": " unto the children of Machir the son of Manasseh, ",
+          "kind": "text"
+        },
+        {
+          "text": "even",
+          "kind": "supplied"
+        },
+        {
+          "text": " to the one half of the children of Machir by their families.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOS.13.32",
+      "edition_verse_id": "KJV1769:JOS.13.32",
+      "verse": 32,
+      "spans": [
+        {
+          "text": "These ",
+          "kind": "text"
+        },
+        {
+          "text": "are the countries",
+          "kind": "supplied"
+        },
+        {
+          "text": " which Moses did distribute for inheritance in the plains of Moab, on the other side Jordan, by Jericho, eastward.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOS.13.33",
+      "edition_verse_id": "KJV1769:JOS.13.33",
+      "verse": 33,
+      "spans": [
+        {
+          "text": "But unto the tribe of Levi Moses gave not ",
+          "kind": "text"
+        },
+        {
+          "text": "any",
+          "kind": "supplied"
+        },
+        {
+          "text": " inheritance: the LORD God of Israel ",
+          "kind": "text"
+        },
+        {
+          "text": "was",
+          "kind": "supplied"
+        },
+        {
+          "text": " their inheritance, as he said unto them.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

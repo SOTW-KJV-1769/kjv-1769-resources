@@ -1,0 +1,536 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "KJV1769",
+  "book_code": "JOB",
+  "chapter": 24,
+  "verses": [
+    {
+      "id": "JOB.24.1",
+      "edition_verse_id": "KJV1769:JOB.24.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "Why, seeing times are not hidden from the Almighty, do they that know him not see his days?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOB.24.2",
+      "edition_verse_id": "KJV1769:JOB.24.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "Some",
+          "kind": "supplied"
+        },
+        {
+          "text": " remove the landmarks; they violently take away flocks, and feed ",
+          "kind": "text"
+        },
+        {
+          "text": "thereof",
+          "kind": "supplied"
+        },
+        {
+          "text": ".",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.24.3",
+      "edition_verse_id": "KJV1769:JOB.24.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "They drive away the ass of the fatherless, they take the widow’s ox for a pledge.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.24.4",
+      "edition_verse_id": "KJV1769:JOB.24.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "They turn the needy out of the way: the poor of the earth hide themselves together.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.24.5",
+      "edition_verse_id": "KJV1769:JOB.24.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "Behold, ",
+          "kind": "text"
+        },
+        {
+          "text": "as",
+          "kind": "supplied"
+        },
+        {
+          "text": " wild asses in the desert, go they forth to their work; rising betimes for a prey: the wilderness ",
+          "kind": "text"
+        },
+        {
+          "text": "yieldeth",
+          "kind": "supplied"
+        },
+        {
+          "text": " food for them ",
+          "kind": "text"
+        },
+        {
+          "text": "and",
+          "kind": "supplied"
+        },
+        {
+          "text": " for ",
+          "kind": "text"
+        },
+        {
+          "text": "their",
+          "kind": "supplied"
+        },
+        {
+          "text": " children.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.24.6",
+      "edition_verse_id": "KJV1769:JOB.24.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "They reap ",
+          "kind": "text"
+        },
+        {
+          "text": "every one",
+          "kind": "supplied"
+        },
+        {
+          "text": " his corn in the field: and they gather the vintage of the wicked.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.24.7",
+      "edition_verse_id": "KJV1769:JOB.24.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "They cause the naked to lodge without clothing, that ",
+          "kind": "text"
+        },
+        {
+          "text": "they have",
+          "kind": "supplied"
+        },
+        {
+          "text": " no covering in the cold.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.24.8",
+      "edition_verse_id": "KJV1769:JOB.24.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "They are wet with the showers of the mountains, and embrace the rock for want of a shelter.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.24.9",
+      "edition_verse_id": "KJV1769:JOB.24.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "They pluck the fatherless from the breast, and take a pledge of the poor.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.24.10",
+      "edition_verse_id": "KJV1769:JOB.24.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "They cause ",
+          "kind": "text"
+        },
+        {
+          "text": "him",
+          "kind": "supplied"
+        },
+        {
+          "text": " to go naked without clothing, and they take away the sheaf ",
+          "kind": "text"
+        },
+        {
+          "text": "from",
+          "kind": "supplied"
+        },
+        {
+          "text": " the hungry;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.24.11",
+      "edition_verse_id": "KJV1769:JOB.24.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "Which",
+          "kind": "supplied"
+        },
+        {
+          "text": " make oil within their walls, ",
+          "kind": "text"
+        },
+        {
+          "text": "and",
+          "kind": "supplied"
+        },
+        {
+          "text": " tread ",
+          "kind": "text"
+        },
+        {
+          "text": "their",
+          "kind": "supplied"
+        },
+        {
+          "text": " winepresses, and suffer thirst.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.24.12",
+      "edition_verse_id": "KJV1769:JOB.24.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "Men groan from out of the city, and the soul of the wounded crieth out: yet God layeth not folly ",
+          "kind": "text"
+        },
+        {
+          "text": "to them",
+          "kind": "supplied"
+        },
+        {
+          "text": ".",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.24.13",
+      "edition_verse_id": "KJV1769:JOB.24.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "They are of those that rebel against the light; they know not the ways thereof, nor abide in the paths thereof.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOB.24.14",
+      "edition_verse_id": "KJV1769:JOB.24.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "The murderer rising with the light killeth the poor and needy, and in the night is as a thief.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.24.15",
+      "edition_verse_id": "KJV1769:JOB.24.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "The eye also of the adulterer waiteth for the twilight, saying, No eye shall see me: and disguiseth ",
+          "kind": "text"
+        },
+        {
+          "text": "his",
+          "kind": "supplied"
+        },
+        {
+          "text": " face.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.24.16",
+      "edition_verse_id": "KJV1769:JOB.24.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "In the dark they dig through houses, ",
+          "kind": "text"
+        },
+        {
+          "text": "which",
+          "kind": "supplied"
+        },
+        {
+          "text": " they had marked for themselves in the daytime: they know not the light.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.24.17",
+      "edition_verse_id": "KJV1769:JOB.24.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "For the morning ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " to them even as the shadow of death: if ",
+          "kind": "text"
+        },
+        {
+          "text": "one",
+          "kind": "supplied"
+        },
+        {
+          "text": " know ",
+          "kind": "text"
+        },
+        {
+          "text": "them, they are in",
+          "kind": "supplied"
+        },
+        {
+          "text": " the terrors of the shadow of death.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.24.18",
+      "edition_verse_id": "KJV1769:JOB.24.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "He ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " swift as the waters; their portion is cursed in the earth: he beholdeth not the way of the vineyards.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOB.24.19",
+      "edition_verse_id": "KJV1769:JOB.24.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "Drought and heat consume the snow waters: ",
+          "kind": "text"
+        },
+        {
+          "text": "so doth",
+          "kind": "supplied"
+        },
+        {
+          "text": " the grave ",
+          "kind": "text"
+        },
+        {
+          "text": "those which",
+          "kind": "supplied"
+        },
+        {
+          "text": " have sinned.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.24.20",
+      "edition_verse_id": "KJV1769:JOB.24.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "The womb shall forget him; the worm shall feed sweetly on him; he shall be no more remembered; and wickedness shall be broken as a tree.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.24.21",
+      "edition_verse_id": "KJV1769:JOB.24.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "He evil entreateth the barren ",
+          "kind": "text"
+        },
+        {
+          "text": "that",
+          "kind": "supplied"
+        },
+        {
+          "text": " beareth not: and doeth not good to the widow.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.24.22",
+      "edition_verse_id": "KJV1769:JOB.24.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "He draweth also the mighty with his power: he riseth up, and no ",
+          "kind": "text"
+        },
+        {
+          "text": "man",
+          "kind": "supplied"
+        },
+        {
+          "text": " is sure of life.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.24.23",
+      "edition_verse_id": "KJV1769:JOB.24.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "Though",
+          "kind": "supplied"
+        },
+        {
+          "text": " it be given him ",
+          "kind": "text"
+        },
+        {
+          "text": "to be",
+          "kind": "supplied"
+        },
+        {
+          "text": " in safety, whereon he resteth; yet his eyes ",
+          "kind": "text"
+        },
+        {
+          "text": "are",
+          "kind": "supplied"
+        },
+        {
+          "text": " upon their ways.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.24.24",
+      "edition_verse_id": "KJV1769:JOB.24.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "They are exalted for a little while, but are gone and brought low; they are taken out of the way as all ",
+          "kind": "text"
+        },
+        {
+          "text": "other",
+          "kind": "supplied"
+        },
+        {
+          "text": ", and cut off as the tops of the ears of corn.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.24.25",
+      "edition_verse_id": "KJV1769:JOB.24.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "And if ",
+          "kind": "text"
+        },
+        {
+          "text": "it be",
+          "kind": "supplied"
+        },
+        {
+          "text": " not ",
+          "kind": "text"
+        },
+        {
+          "text": "so",
+          "kind": "supplied"
+        },
+        {
+          "text": " now, who will make me a liar, and make my speech nothing worth?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

@@ -1,0 +1,428 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "KJV1769",
+  "book_code": "JOB",
+  "chapter": 27,
+  "verses": [
+    {
+      "id": "JOB.27.1",
+      "edition_verse_id": "KJV1769:JOB.27.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "Moreover Job continued his parable, and said,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOB.27.2",
+      "edition_verse_id": "KJV1769:JOB.27.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "As",
+          "kind": "supplied"
+        },
+        {
+          "text": " God liveth, ",
+          "kind": "text"
+        },
+        {
+          "text": "who",
+          "kind": "supplied"
+        },
+        {
+          "text": " hath taken away my judgment; and the Almighty, ",
+          "kind": "text"
+        },
+        {
+          "text": "who",
+          "kind": "supplied"
+        },
+        {
+          "text": " hath vexed my soul;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.27.3",
+      "edition_verse_id": "KJV1769:JOB.27.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "All the while my breath ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " in me, and the spirit of God ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " in my nostrils;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.27.4",
+      "edition_verse_id": "KJV1769:JOB.27.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "My lips shall not speak wickedness, nor my tongue utter deceit.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.27.5",
+      "edition_verse_id": "KJV1769:JOB.27.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "God forbid that I should justify you: till I die I will not remove mine integrity from me.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.27.6",
+      "edition_verse_id": "KJV1769:JOB.27.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "My righteousness I hold fast, and will not let it go: my heart shall not reproach ",
+          "kind": "text"
+        },
+        {
+          "text": "me",
+          "kind": "supplied"
+        },
+        {
+          "text": " so long as I live.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.27.7",
+      "edition_verse_id": "KJV1769:JOB.27.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "Let mine enemy be as the wicked, and he that riseth up against me as the unrighteous.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOB.27.8",
+      "edition_verse_id": "KJV1769:JOB.27.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "For what ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " the hope of the hypocrite, though he hath gained, when God taketh away his soul?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.27.9",
+      "edition_verse_id": "KJV1769:JOB.27.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "Will God hear his cry when trouble cometh upon him?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.27.10",
+      "edition_verse_id": "KJV1769:JOB.27.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "Will he delight himself in the Almighty? will he always call upon God?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.27.11",
+      "edition_verse_id": "KJV1769:JOB.27.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "I will teach you by the hand of God: ",
+          "kind": "text"
+        },
+        {
+          "text": "that",
+          "kind": "supplied"
+        },
+        {
+          "text": " which ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " with the Almighty will I not conceal.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOB.27.12",
+      "edition_verse_id": "KJV1769:JOB.27.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "Behold, all ye yourselves have seen ",
+          "kind": "text"
+        },
+        {
+          "text": "it;",
+          "kind": "supplied"
+        },
+        {
+          "text": " why then are ye thus altogether vain?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.27.13",
+      "edition_verse_id": "KJV1769:JOB.27.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "This ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " the portion of a wicked man with God, and the heritage of oppressors, ",
+          "kind": "text"
+        },
+        {
+          "text": "which",
+          "kind": "supplied"
+        },
+        {
+          "text": " they shall receive of the Almighty.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.27.14",
+      "edition_verse_id": "KJV1769:JOB.27.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "If his children be multiplied, ",
+          "kind": "text"
+        },
+        {
+          "text": "it is",
+          "kind": "supplied"
+        },
+        {
+          "text": " for the sword: and his offspring shall not be satisfied with bread.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.27.15",
+      "edition_verse_id": "KJV1769:JOB.27.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "Those that remain of him shall be buried in death: and his widows shall not weep.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.27.16",
+      "edition_verse_id": "KJV1769:JOB.27.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "Though he heap up silver as the dust, and prepare raiment as the clay;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.27.17",
+      "edition_verse_id": "KJV1769:JOB.27.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "He may prepare ",
+          "kind": "text"
+        },
+        {
+          "text": "it",
+          "kind": "supplied"
+        },
+        {
+          "text": ", but the just shall put ",
+          "kind": "text"
+        },
+        {
+          "text": "it",
+          "kind": "supplied"
+        },
+        {
+          "text": " on, and the innocent shall divide the silver.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.27.18",
+      "edition_verse_id": "KJV1769:JOB.27.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "He buildeth his house as a moth, and as a booth ",
+          "kind": "text"
+        },
+        {
+          "text": "that",
+          "kind": "supplied"
+        },
+        {
+          "text": " the keeper maketh.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.27.19",
+      "edition_verse_id": "KJV1769:JOB.27.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "The rich man shall lie down, but he shall not be gathered: he openeth his eyes, and he ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " not.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.27.20",
+      "edition_verse_id": "KJV1769:JOB.27.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "Terrors take hold on him as waters, a tempest stealeth him away in the night.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.27.21",
+      "edition_verse_id": "KJV1769:JOB.27.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "The east wind carrieth him away, and he departeth: and as a storm hurleth him out of his place.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.27.22",
+      "edition_verse_id": "KJV1769:JOB.27.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "For ",
+          "kind": "text"
+        },
+        {
+          "text": "God",
+          "kind": "supplied"
+        },
+        {
+          "text": " shall cast upon him, and not spare: he would fain flee out of his hand.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.27.23",
+      "edition_verse_id": "KJV1769:JOB.27.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "Men",
+          "kind": "supplied"
+        },
+        {
+          "text": " shall clap their hands at him, and shall hiss him out of his place.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

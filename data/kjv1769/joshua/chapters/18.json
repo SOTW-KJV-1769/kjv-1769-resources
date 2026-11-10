@@ -1,0 +1,528 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "KJV1769",
+  "book_code": "JOS",
+  "chapter": 18,
+  "verses": [
+    {
+      "id": "JOS.18.1",
+      "edition_verse_id": "KJV1769:JOS.18.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "And the whole congregation of the children of Israel assembled together at Shiloh, and set up the tabernacle of the congregation there. And the land was subdued before them.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOS.18.2",
+      "edition_verse_id": "KJV1769:JOS.18.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "And there remained among the children of Israel seven tribes, which had not yet received their inheritance.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOS.18.3",
+      "edition_verse_id": "KJV1769:JOS.18.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "And Joshua said unto the children of Israel, How long ",
+          "kind": "text"
+        },
+        {
+          "text": "are",
+          "kind": "supplied"
+        },
+        {
+          "text": " ye slack to go to possess the land, which the LORD God of your fathers hath given you?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOS.18.4",
+      "edition_verse_id": "KJV1769:JOS.18.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "Give out from among you three men for ",
+          "kind": "text"
+        },
+        {
+          "text": "each",
+          "kind": "supplied"
+        },
+        {
+          "text": " tribe: and I will send them, and they shall rise, and go through the land, and describe it according to the inheritance of them; and they shall come ",
+          "kind": "text"
+        },
+        {
+          "text": "again",
+          "kind": "supplied"
+        },
+        {
+          "text": " to me.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOS.18.5",
+      "edition_verse_id": "KJV1769:JOS.18.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "And they shall divide it into seven parts: Judah shall abide in their coast on the south, and the house of Joseph shall abide in their coasts on the north.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOS.18.6",
+      "edition_verse_id": "KJV1769:JOS.18.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "Ye shall therefore describe the land ",
+          "kind": "text"
+        },
+        {
+          "text": "into",
+          "kind": "supplied"
+        },
+        {
+          "text": " seven parts, and bring ",
+          "kind": "text"
+        },
+        {
+          "text": "the description",
+          "kind": "supplied"
+        },
+        {
+          "text": " hither to me, that I may cast lots for you here before the LORD our God.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOS.18.7",
+      "edition_verse_id": "KJV1769:JOS.18.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "But the Levites have no part among you; for the priesthood of the LORD ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " their inheritance: and Gad, and Reuben, and half the tribe of Manasseh, have received their inheritance beyond Jordan on the east, which Moses the servant of the LORD gave them.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOS.18.8",
+      "edition_verse_id": "KJV1769:JOS.18.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "¶ And the men arose, and went away: and Joshua charged them that went to describe the land, saying, Go and walk through the land, and describe it, and come again to me, that I may here cast lots for you before the LORD in Shiloh.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOS.18.9",
+      "edition_verse_id": "KJV1769:JOS.18.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "And the men went and passed through the land, and described it by cities into seven parts in a book, and came ",
+          "kind": "text"
+        },
+        {
+          "text": "again",
+          "kind": "supplied"
+        },
+        {
+          "text": " to Joshua to the host at Shiloh.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOS.18.10",
+      "edition_verse_id": "KJV1769:JOS.18.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "¶ And Joshua cast lots for them in Shiloh before the LORD: and there Joshua divided the land unto the children of Israel according to their divisions.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOS.18.11",
+      "edition_verse_id": "KJV1769:JOS.18.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "¶ And the lot of the tribe of the children of Benjamin came up according to their families: and the coast of their lot came forth between the children of Judah and the children of Joseph.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOS.18.12",
+      "edition_verse_id": "KJV1769:JOS.18.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "And their border on the north side was from Jordan; and the border went up to the side of Jericho on the north side, and went up through the mountains westward; and the goings out thereof were at the wilderness of Beth-aven.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOS.18.13",
+      "edition_verse_id": "KJV1769:JOS.18.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "And the border went over from thence toward Luz, to the side of Luz, which ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " Beth-el, southward; and the border descended to Ataroth-adar, near the hill that ",
+          "kind": "text"
+        },
+        {
+          "text": "lieth",
+          "kind": "supplied"
+        },
+        {
+          "text": " on the south side of the nether Beth-horon.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOS.18.14",
+      "edition_verse_id": "KJV1769:JOS.18.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "And the border was drawn ",
+          "kind": "text"
+        },
+        {
+          "text": "thence",
+          "kind": "supplied"
+        },
+        {
+          "text": ", and compassed the corner of the sea southward, from the hill that ",
+          "kind": "text"
+        },
+        {
+          "text": "lieth",
+          "kind": "supplied"
+        },
+        {
+          "text": " before Beth-horon southward; and the goings out thereof were at Kirjath-baal, which ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " Kirjath-jearim, a city of the children of Judah: this ",
+          "kind": "text"
+        },
+        {
+          "text": "was",
+          "kind": "supplied"
+        },
+        {
+          "text": " the west quarter.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOS.18.15",
+      "edition_verse_id": "KJV1769:JOS.18.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "And the south quarter ",
+          "kind": "text"
+        },
+        {
+          "text": "was",
+          "kind": "supplied"
+        },
+        {
+          "text": " from the end of Kirjath-jearim, and the border went out on the west, and went out to the well of waters of Nephtoah:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOS.18.16",
+      "edition_verse_id": "KJV1769:JOS.18.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "And the border came down to the end of the mountain that ",
+          "kind": "text"
+        },
+        {
+          "text": "lieth",
+          "kind": "supplied"
+        },
+        {
+          "text": " before the valley of the son of Hinnom, ",
+          "kind": "text"
+        },
+        {
+          "text": "and",
+          "kind": "supplied"
+        },
+        {
+          "text": " which ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " in the valley of the giants on the north, and descended to the valley of Hinnom, to the side of Jebusi on the south, and descended to En-rogel,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOS.18.17",
+      "edition_verse_id": "KJV1769:JOS.18.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "And was drawn from the north, and went forth to En-shemesh, and went forth toward Geliloth, which ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " over against the going up of Adummim, and descended to the stone of Bohan the son of Reuben,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOS.18.18",
+      "edition_verse_id": "KJV1769:JOS.18.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "And passed along toward the side over against Arabah northward, and went down unto Arabah:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOS.18.19",
+      "edition_verse_id": "KJV1769:JOS.18.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "And the border passed along to the side of Beth-hoglah northward: and the outgoings of the border were at the north bay of the salt sea at the south end of Jordan: this ",
+          "kind": "text"
+        },
+        {
+          "text": "was",
+          "kind": "supplied"
+        },
+        {
+          "text": " the south coast.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOS.18.20",
+      "edition_verse_id": "KJV1769:JOS.18.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "And Jordan was the border of it on the east side. This ",
+          "kind": "text"
+        },
+        {
+          "text": "was",
+          "kind": "supplied"
+        },
+        {
+          "text": " the inheritance of the children of Benjamin, by the coasts thereof round about, according to their families.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOS.18.21",
+      "edition_verse_id": "KJV1769:JOS.18.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "Now the cities of the tribe of the children of Benjamin according to their families were Jericho, and Beth-hoglah, and the valley of Keziz,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOS.18.22",
+      "edition_verse_id": "KJV1769:JOS.18.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "And Beth-arabah, and Zemaraim, and Beth-el,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOS.18.23",
+      "edition_verse_id": "KJV1769:JOS.18.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "And Avim, and Parah, and Ophrah,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOS.18.24",
+      "edition_verse_id": "KJV1769:JOS.18.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "And Chephar-haammonai, and Ophni, and Gaba; twelve cities with their villages:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOS.18.25",
+      "edition_verse_id": "KJV1769:JOS.18.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "Gibeon, and Ramah, and Beeroth,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOS.18.26",
+      "edition_verse_id": "KJV1769:JOS.18.26",
+      "verse": 26,
+      "spans": [
+        {
+          "text": "And Mizpeh, and Chephirah, and Mozah,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOS.18.27",
+      "edition_verse_id": "KJV1769:JOS.18.27",
+      "verse": 27,
+      "spans": [
+        {
+          "text": "And Rekem, and Irpeel, and Taralah,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOS.18.28",
+      "edition_verse_id": "KJV1769:JOS.18.28",
+      "verse": 28,
+      "spans": [
+        {
+          "text": "And Zelah, Eleph, and Jebusi, which ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " Jerusalem, Gibeath, ",
+          "kind": "text"
+        },
+        {
+          "text": "and",
+          "kind": "supplied"
+        },
+        {
+          "text": " Kirjath; fourteen cities with their villages. This ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " the inheritance of the children of Benjamin according to their families.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

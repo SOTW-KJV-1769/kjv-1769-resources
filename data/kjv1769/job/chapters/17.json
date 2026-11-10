@@ -1,0 +1,340 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "KJV1769",
+  "book_code": "JOB",
+  "chapter": 17,
+  "verses": [
+    {
+      "id": "JOB.17.1",
+      "edition_verse_id": "KJV1769:JOB.17.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "My breath is corrupt, my days are extinct, the graves ",
+          "kind": "text"
+        },
+        {
+          "text": "are ready",
+          "kind": "supplied"
+        },
+        {
+          "text": " for me.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOB.17.2",
+      "edition_verse_id": "KJV1769:JOB.17.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "Are there",
+          "kind": "supplied"
+        },
+        {
+          "text": " not mockers with me? and doth not mine eye continue in their provocation?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.17.3",
+      "edition_verse_id": "KJV1769:JOB.17.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "Lay down now, put me in a surety with thee; who ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " he ",
+          "kind": "text"
+        },
+        {
+          "text": "that",
+          "kind": "supplied"
+        },
+        {
+          "text": " will strike hands with me?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.17.4",
+      "edition_verse_id": "KJV1769:JOB.17.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "For thou hast hid their heart from understanding: therefore shalt thou not exalt ",
+          "kind": "text"
+        },
+        {
+          "text": "them",
+          "kind": "supplied"
+        },
+        {
+          "text": ".",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.17.5",
+      "edition_verse_id": "KJV1769:JOB.17.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "He that speaketh flattery to ",
+          "kind": "text"
+        },
+        {
+          "text": "his",
+          "kind": "supplied"
+        },
+        {
+          "text": " friends, even the eyes of his children shall fail.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.17.6",
+      "edition_verse_id": "KJV1769:JOB.17.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "He hath made me also a byword of the people; and aforetime I was as a tabret.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.17.7",
+      "edition_verse_id": "KJV1769:JOB.17.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "Mine eye also is dim by reason of sorrow, and all my members ",
+          "kind": "text"
+        },
+        {
+          "text": "are",
+          "kind": "supplied"
+        },
+        {
+          "text": " as a shadow.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.17.8",
+      "edition_verse_id": "KJV1769:JOB.17.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "Upright ",
+          "kind": "text"
+        },
+        {
+          "text": "men",
+          "kind": "supplied"
+        },
+        {
+          "text": " shall be astonied at this, and the innocent shall stir up himself against the hypocrite.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.17.9",
+      "edition_verse_id": "KJV1769:JOB.17.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "The righteous also shall hold on his way, and he that hath clean hands shall be stronger and stronger.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.17.10",
+      "edition_verse_id": "KJV1769:JOB.17.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "But as for you all, do ye return, and come now: for I cannot find ",
+          "kind": "text"
+        },
+        {
+          "text": "one",
+          "kind": "supplied"
+        },
+        {
+          "text": " wise ",
+          "kind": "text"
+        },
+        {
+          "text": "man",
+          "kind": "supplied"
+        },
+        {
+          "text": " among you.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOB.17.11",
+      "edition_verse_id": "KJV1769:JOB.17.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "My days are past, my purposes are broken off, ",
+          "kind": "text"
+        },
+        {
+          "text": "even",
+          "kind": "supplied"
+        },
+        {
+          "text": " the thoughts of my heart.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.17.12",
+      "edition_verse_id": "KJV1769:JOB.17.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "They change the night into day: the light ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " short because of darkness.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.17.13",
+      "edition_verse_id": "KJV1769:JOB.17.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "If I wait, the grave ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " mine house: I have made my bed in the darkness.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.17.14",
+      "edition_verse_id": "KJV1769:JOB.17.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "I have said to corruption, Thou ",
+          "kind": "text"
+        },
+        {
+          "text": "art",
+          "kind": "supplied"
+        },
+        {
+          "text": " my father: to the worm, ",
+          "kind": "text"
+        },
+        {
+          "text": "Thou art",
+          "kind": "supplied"
+        },
+        {
+          "text": " my mother, and my sister.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.17.15",
+      "edition_verse_id": "KJV1769:JOB.17.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "And where ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " now my hope? as for my hope, who shall see it?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.17.16",
+      "edition_verse_id": "KJV1769:JOB.17.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "They shall go down to the bars of the pit, when ",
+          "kind": "text"
+        },
+        {
+          "text": "our",
+          "kind": "supplied"
+        },
+        {
+          "text": " rest together ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " in the dust.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

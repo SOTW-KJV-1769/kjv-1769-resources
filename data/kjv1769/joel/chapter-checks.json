@@ -1,0 +1,23 @@
+{
+  "edition_id": "KJV1769",
+  "book_code": "JOL",
+  "chapter_count": 3,
+  "verse_count": 73,
+  "chapters": [
+    {
+      "chapter": 1,
+      "verse_count": 20,
+      "sha256": "679679dcee5c4160368637c2a3b979e96b94984a90cf482c1b18dabc68bb6a00"
+    },
+    {
+      "chapter": 2,
+      "verse_count": 32,
+      "sha256": "db3b5ddffaa8848701237bc0be6aacd1314a4b59715403c7dae89685fecf9ddb"
+    },
+    {
+      "chapter": 3,
+      "verse_count": 21,
+      "sha256": "04e091676b24fb59e8d1fcdcaf3b0c8d4b6bc33f0f2c7b1c76afc04bd72091ee"
+    }
+  ]
+}

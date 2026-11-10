@@ -1,0 +1,628 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "KJV1769",
+  "book_code": "JOB",
+  "chapter": 36,
+  "verses": [
+    {
+      "id": "JOB.36.1",
+      "edition_verse_id": "KJV1769:JOB.36.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "Elihu also proceeded, and said,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOB.36.2",
+      "edition_verse_id": "KJV1769:JOB.36.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "Suffer me a little, and I will shew thee that ",
+          "kind": "text"
+        },
+        {
+          "text": "I have",
+          "kind": "supplied"
+        },
+        {
+          "text": " yet to speak on God’s behalf.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.36.3",
+      "edition_verse_id": "KJV1769:JOB.36.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "I will fetch my knowledge from afar, and will ascribe righteousness to my Maker.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.36.4",
+      "edition_verse_id": "KJV1769:JOB.36.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "For truly my words ",
+          "kind": "text"
+        },
+        {
+          "text": "shall",
+          "kind": "supplied"
+        },
+        {
+          "text": " not ",
+          "kind": "text"
+        },
+        {
+          "text": "be",
+          "kind": "supplied"
+        },
+        {
+          "text": " false: he that is perfect in knowledge ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " with thee.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.36.5",
+      "edition_verse_id": "KJV1769:JOB.36.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "Behold, God ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " mighty, and despiseth not ",
+          "kind": "text"
+        },
+        {
+          "text": "any: he is",
+          "kind": "supplied"
+        },
+        {
+          "text": " mighty in strength ",
+          "kind": "text"
+        },
+        {
+          "text": "and",
+          "kind": "supplied"
+        },
+        {
+          "text": " wisdom.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOB.36.6",
+      "edition_verse_id": "KJV1769:JOB.36.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "He preserveth not the life of the wicked: but giveth right to the poor.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.36.7",
+      "edition_verse_id": "KJV1769:JOB.36.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "He withdraweth not his eyes from the righteous: but with kings ",
+          "kind": "text"
+        },
+        {
+          "text": "are they",
+          "kind": "supplied"
+        },
+        {
+          "text": " on the throne; yea, he doth establish them for ever, and they are exalted.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.36.8",
+      "edition_verse_id": "KJV1769:JOB.36.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "And if ",
+          "kind": "text"
+        },
+        {
+          "text": "they be",
+          "kind": "supplied"
+        },
+        {
+          "text": " bound in fetters, ",
+          "kind": "text"
+        },
+        {
+          "text": "and",
+          "kind": "supplied"
+        },
+        {
+          "text": " be holden in cords of affliction;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.36.9",
+      "edition_verse_id": "KJV1769:JOB.36.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "Then he sheweth them their work, and their transgressions that they have exceeded.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.36.10",
+      "edition_verse_id": "KJV1769:JOB.36.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "He openeth also their ear to discipline, and commandeth that they return from iniquity.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.36.11",
+      "edition_verse_id": "KJV1769:JOB.36.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "If they obey and serve ",
+          "kind": "text"
+        },
+        {
+          "text": "him",
+          "kind": "supplied"
+        },
+        {
+          "text": ", they shall spend their days in prosperity, and their years in pleasures.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.36.12",
+      "edition_verse_id": "KJV1769:JOB.36.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "But if they obey not, they shall perish by the sword, and they shall die without knowledge.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.36.13",
+      "edition_verse_id": "KJV1769:JOB.36.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "But the hypocrites in heart heap up wrath: they cry not when he bindeth them.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.36.14",
+      "edition_verse_id": "KJV1769:JOB.36.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "They die in youth, and their life ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " among the unclean.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.36.15",
+      "edition_verse_id": "KJV1769:JOB.36.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "He delivereth the poor in his affliction, and openeth their ears in oppression.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOB.36.16",
+      "edition_verse_id": "KJV1769:JOB.36.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "Even so would he have removed thee out of the strait ",
+          "kind": "text"
+        },
+        {
+          "text": "into",
+          "kind": "supplied"
+        },
+        {
+          "text": " a broad place, where ",
+          "kind": "text"
+        },
+        {
+          "text": "there is",
+          "kind": "supplied"
+        },
+        {
+          "text": " no straitness; and that which should be set on thy table ",
+          "kind": "text"
+        },
+        {
+          "text": "should be",
+          "kind": "supplied"
+        },
+        {
+          "text": " full of fatness.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.36.17",
+      "edition_verse_id": "KJV1769:JOB.36.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "But thou hast fulfilled the judgment of the wicked: judgment and justice take hold ",
+          "kind": "text"
+        },
+        {
+          "text": "on thee",
+          "kind": "supplied"
+        },
+        {
+          "text": ".",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.36.18",
+      "edition_verse_id": "KJV1769:JOB.36.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "Because ",
+          "kind": "text"
+        },
+        {
+          "text": "there is",
+          "kind": "supplied"
+        },
+        {
+          "text": " wrath, ",
+          "kind": "text"
+        },
+        {
+          "text": "beware",
+          "kind": "supplied"
+        },
+        {
+          "text": " lest he take thee away with ",
+          "kind": "text"
+        },
+        {
+          "text": "his",
+          "kind": "supplied"
+        },
+        {
+          "text": " stroke: then a great ransom cannot deliver thee.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.36.19",
+      "edition_verse_id": "KJV1769:JOB.36.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "Will he esteem thy riches? ",
+          "kind": "text"
+        },
+        {
+          "text": "no",
+          "kind": "supplied"
+        },
+        {
+          "text": ", not gold, nor all the forces of strength.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.36.20",
+      "edition_verse_id": "KJV1769:JOB.36.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "Desire not the night, when people are cut off in their place.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.36.21",
+      "edition_verse_id": "KJV1769:JOB.36.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "Take heed, regard not iniquity: for this hast thou chosen rather than affliction.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.36.22",
+      "edition_verse_id": "KJV1769:JOB.36.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "Behold, God exalteth by his power: who teacheth like him?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.36.23",
+      "edition_verse_id": "KJV1769:JOB.36.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "Who hath enjoined him his way? or who can say, Thou hast wrought iniquity?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.36.24",
+      "edition_verse_id": "KJV1769:JOB.36.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "Remember that thou magnify his work, which men behold.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOB.36.25",
+      "edition_verse_id": "KJV1769:JOB.36.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "Every man may see it; man may behold ",
+          "kind": "text"
+        },
+        {
+          "text": "it",
+          "kind": "supplied"
+        },
+        {
+          "text": " afar off.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.36.26",
+      "edition_verse_id": "KJV1769:JOB.36.26",
+      "verse": 26,
+      "spans": [
+        {
+          "text": "Behold, God ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " great, and we know ",
+          "kind": "text"
+        },
+        {
+          "text": "him",
+          "kind": "supplied"
+        },
+        {
+          "text": " not, neither can the number of his years be searched out.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.36.27",
+      "edition_verse_id": "KJV1769:JOB.36.27",
+      "verse": 27,
+      "spans": [
+        {
+          "text": "For he maketh small the drops of water: they pour down rain according to the vapour thereof:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.36.28",
+      "edition_verse_id": "KJV1769:JOB.36.28",
+      "verse": 28,
+      "spans": [
+        {
+          "text": "Which the clouds do drop ",
+          "kind": "text"
+        },
+        {
+          "text": "and",
+          "kind": "supplied"
+        },
+        {
+          "text": " distil upon man abundantly.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.36.29",
+      "edition_verse_id": "KJV1769:JOB.36.29",
+      "verse": 29,
+      "spans": [
+        {
+          "text": "Also can ",
+          "kind": "text"
+        },
+        {
+          "text": "any",
+          "kind": "supplied"
+        },
+        {
+          "text": " understand the spreadings of the clouds, ",
+          "kind": "text"
+        },
+        {
+          "text": "or",
+          "kind": "supplied"
+        },
+        {
+          "text": " the noise of his tabernacle?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.36.30",
+      "edition_verse_id": "KJV1769:JOB.36.30",
+      "verse": 30,
+      "spans": [
+        {
+          "text": "Behold, he spreadeth his light upon it, and covereth the bottom of the sea.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.36.31",
+      "edition_verse_id": "KJV1769:JOB.36.31",
+      "verse": 31,
+      "spans": [
+        {
+          "text": "For by them judgeth he the people; he giveth meat in abundance.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.36.32",
+      "edition_verse_id": "KJV1769:JOB.36.32",
+      "verse": 32,
+      "spans": [
+        {
+          "text": "With clouds he covereth the light; and commandeth it ",
+          "kind": "text"
+        },
+        {
+          "text": "not to shine",
+          "kind": "supplied"
+        },
+        {
+          "text": " by ",
+          "kind": "text"
+        },
+        {
+          "text": "the cloud",
+          "kind": "supplied"
+        },
+        {
+          "text": " that cometh betwixt.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.36.33",
+      "edition_verse_id": "KJV1769:JOB.36.33",
+      "verse": 33,
+      "spans": [
+        {
+          "text": "The noise thereof sheweth concerning it, the cattle also concerning the vapour.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

@@ -1,0 +1,524 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "KJV1769",
+  "book_code": "JHN",
+  "chapter": 20,
+  "verses": [
+    {
+      "id": "JHN.20.1",
+      "edition_verse_id": "KJV1769:JHN.20.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "The first ",
+          "kind": "text"
+        },
+        {
+          "text": "day",
+          "kind": "supplied"
+        },
+        {
+          "text": " of the week cometh Mary Magdalene early, when it was yet dark, unto the sepulchre, and seeth the stone taken away from the sepulchre.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JHN.20.2",
+      "edition_verse_id": "KJV1769:JHN.20.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "Then she runneth, and cometh to Simon Peter, and to the other disciple, whom Jesus loved, and saith unto them, They have taken away the Lord out of the sepulchre, and we know not where they have laid him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.20.3",
+      "edition_verse_id": "KJV1769:JHN.20.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "Peter therefore went forth, and that other disciple, and came to the sepulchre.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.20.4",
+      "edition_verse_id": "KJV1769:JHN.20.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "So they ran both together: and the other disciple did outrun Peter, and came first to the sepulchre.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.20.5",
+      "edition_verse_id": "KJV1769:JHN.20.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "And he stooping down, ",
+          "kind": "text"
+        },
+        {
+          "text": "and looking in",
+          "kind": "supplied"
+        },
+        {
+          "text": ", saw the linen clothes lying; yet went he not in.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.20.6",
+      "edition_verse_id": "KJV1769:JHN.20.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "Then cometh Simon Peter following him, and went into the sepulchre, and seeth the linen clothes lie,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.20.7",
+      "edition_verse_id": "KJV1769:JHN.20.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "And the napkin, that was about his head, not lying with the linen clothes, but wrapped together in a place by itself.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.20.8",
+      "edition_verse_id": "KJV1769:JHN.20.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "Then went in also that other disciple, which came first to the sepulchre, and he saw, and believed.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.20.9",
+      "edition_verse_id": "KJV1769:JHN.20.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "For as yet they knew not the scripture, that he must rise again from the dead.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.20.10",
+      "edition_verse_id": "KJV1769:JHN.20.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "Then the disciples went away again unto their own home.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.20.11",
+      "edition_verse_id": "KJV1769:JHN.20.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "¶ But Mary stood without at the sepulchre weeping: and as she wept, she stooped down, ",
+          "kind": "text"
+        },
+        {
+          "text": "and looked",
+          "kind": "supplied"
+        },
+        {
+          "text": " into the sepulchre,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JHN.20.12",
+      "edition_verse_id": "KJV1769:JHN.20.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "And seeth two angels in white sitting, the one at the head, and the other at the feet, where the body of Jesus had lain.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.20.13",
+      "edition_verse_id": "KJV1769:JHN.20.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "And they say unto her, Woman, why weepest thou? She saith unto them, Because they have taken away my Lord, and I know not where they have laid him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.20.14",
+      "edition_verse_id": "KJV1769:JHN.20.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "And when she had thus said, she turned herself back, and saw Jesus standing, and knew not that it was Jesus.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.20.15",
+      "edition_verse_id": "KJV1769:JHN.20.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "Jesus saith unto her, Woman, why weepest thou? whom seekest thou? She, supposing him to be the gardener, saith unto him, Sir, if thou have borne him hence, tell me where thou hast laid him, and I will take him away.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.20.16",
+      "edition_verse_id": "KJV1769:JHN.20.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "Jesus saith unto her, Mary. She turned herself, and saith unto him, Rabboni; which is to say, Master.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.20.17",
+      "edition_verse_id": "KJV1769:JHN.20.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "Jesus saith unto her, Touch me not; for I am not yet ascended to my Father: but go to my brethren, and say unto them, I ascend unto my Father, and your Father; and ",
+          "kind": "text"
+        },
+        {
+          "text": "to",
+          "kind": "supplied"
+        },
+        {
+          "text": " my God, and your God.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.20.18",
+      "edition_verse_id": "KJV1769:JHN.20.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "Mary Magdalene came and told the disciples that she had seen the Lord, and ",
+          "kind": "text"
+        },
+        {
+          "text": "that",
+          "kind": "supplied"
+        },
+        {
+          "text": " he had spoken these things unto her.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.20.19",
+      "edition_verse_id": "KJV1769:JHN.20.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "¶ Then the same day at evening, being the first ",
+          "kind": "text"
+        },
+        {
+          "text": "day",
+          "kind": "supplied"
+        },
+        {
+          "text": " of the week, when the doors were shut where the disciples were assembled for fear of the Jews, came Jesus and stood in the midst, and saith unto them, Peace ",
+          "kind": "text"
+        },
+        {
+          "text": "be",
+          "kind": "supplied"
+        },
+        {
+          "text": " unto you.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JHN.20.20",
+      "edition_verse_id": "KJV1769:JHN.20.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "And when he had so said, he shewed unto them ",
+          "kind": "text"
+        },
+        {
+          "text": "his",
+          "kind": "supplied"
+        },
+        {
+          "text": " hands and his side. Then were the disciples glad, when they saw the Lord.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.20.21",
+      "edition_verse_id": "KJV1769:JHN.20.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "Then said Jesus to them again, Peace ",
+          "kind": "text"
+        },
+        {
+          "text": "be",
+          "kind": "supplied"
+        },
+        {
+          "text": " unto you: as ",
+          "kind": "text"
+        },
+        {
+          "text": "my",
+          "kind": "supplied"
+        },
+        {
+          "text": " Father hath sent me, even so send I you.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.20.22",
+      "edition_verse_id": "KJV1769:JHN.20.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "And when he had said this, he breathed on ",
+          "kind": "text"
+        },
+        {
+          "text": "them",
+          "kind": "supplied"
+        },
+        {
+          "text": ", and saith unto them, Receive ye the Holy Ghost:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.20.23",
+      "edition_verse_id": "KJV1769:JHN.20.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "Whose soever sins ye remit, they are remitted unto them; ",
+          "kind": "text"
+        },
+        {
+          "text": "and",
+          "kind": "supplied"
+        },
+        {
+          "text": " whose soever ",
+          "kind": "text"
+        },
+        {
+          "text": "sins",
+          "kind": "supplied"
+        },
+        {
+          "text": " ye retain, they are retained.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.20.24",
+      "edition_verse_id": "KJV1769:JHN.20.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "¶ But Thomas, one of the twelve, called Didymus, was not with them when Jesus came.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JHN.20.25",
+      "edition_verse_id": "KJV1769:JHN.20.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "The other disciples therefore said unto him, We have seen the Lord. But he said unto them, Except I shall see in his hands the print of the nails, and put my finger into the print of the nails, and thrust my hand into his side, I will not believe.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.20.26",
+      "edition_verse_id": "KJV1769:JHN.20.26",
+      "verse": 26,
+      "spans": [
+        {
+          "text": "¶ And after eight days again his disciples were within, and Thomas with them: ",
+          "kind": "text"
+        },
+        {
+          "text": "then",
+          "kind": "supplied"
+        },
+        {
+          "text": " came Jesus, the doors being shut, and stood in the midst, and said, Peace ",
+          "kind": "text"
+        },
+        {
+          "text": "be",
+          "kind": "supplied"
+        },
+        {
+          "text": " unto you.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JHN.20.27",
+      "edition_verse_id": "KJV1769:JHN.20.27",
+      "verse": 27,
+      "spans": [
+        {
+          "text": "Then saith he to Thomas, Reach hither thy finger, and behold my hands; and reach hither thy hand, and thrust ",
+          "kind": "text"
+        },
+        {
+          "text": "it",
+          "kind": "supplied"
+        },
+        {
+          "text": " into my side: and be not faithless, but believing.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.20.28",
+      "edition_verse_id": "KJV1769:JHN.20.28",
+      "verse": 28,
+      "spans": [
+        {
+          "text": "And Thomas answered and said unto him, My Lord and my God.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.20.29",
+      "edition_verse_id": "KJV1769:JHN.20.29",
+      "verse": 29,
+      "spans": [
+        {
+          "text": "Jesus saith unto him, Thomas, because thou hast seen me, thou hast believed: blessed ",
+          "kind": "text"
+        },
+        {
+          "text": "are",
+          "kind": "supplied"
+        },
+        {
+          "text": " they that have not seen, and ",
+          "kind": "text"
+        },
+        {
+          "text": "yet",
+          "kind": "supplied"
+        },
+        {
+          "text": " have believed.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.20.30",
+      "edition_verse_id": "KJV1769:JHN.20.30",
+      "verse": 30,
+      "spans": [
+        {
+          "text": "¶ And many other signs truly did Jesus in the presence of his disciples, which are not written in this book:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JHN.20.31",
+      "edition_verse_id": "KJV1769:JHN.20.31",
+      "verse": 31,
+      "spans": [
+        {
+          "text": "But these are written, that ye might believe that Jesus is the Christ, the Son of God; and that believing ye might have life through his name.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

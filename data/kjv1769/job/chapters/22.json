@@ -1,0 +1,468 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "KJV1769",
+  "book_code": "JOB",
+  "chapter": 22,
+  "verses": [
+    {
+      "id": "JOB.22.1",
+      "edition_verse_id": "KJV1769:JOB.22.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "Then Eliphaz the Temanite answered and said,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOB.22.2",
+      "edition_verse_id": "KJV1769:JOB.22.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "Can a man be profitable unto God, as he that is wise may be profitable unto himself?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.22.3",
+      "edition_verse_id": "KJV1769:JOB.22.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "Is it",
+          "kind": "supplied"
+        },
+        {
+          "text": " any pleasure to the Almighty, that thou art righteous? or ",
+          "kind": "text"
+        },
+        {
+          "text": "is it",
+          "kind": "supplied"
+        },
+        {
+          "text": " gain ",
+          "kind": "text"
+        },
+        {
+          "text": "to him",
+          "kind": "supplied"
+        },
+        {
+          "text": ", that thou makest thy ways perfect?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.22.4",
+      "edition_verse_id": "KJV1769:JOB.22.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "Will he reprove thee for fear of thee? will he enter with thee into judgment?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.22.5",
+      "edition_verse_id": "KJV1769:JOB.22.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "Is",
+          "kind": "supplied"
+        },
+        {
+          "text": " not thy wickedness great? and thine iniquities infinite?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOB.22.6",
+      "edition_verse_id": "KJV1769:JOB.22.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "For thou hast taken a pledge from thy brother for nought, and stripped the naked of their clothing.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.22.7",
+      "edition_verse_id": "KJV1769:JOB.22.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "Thou hast not given water to the weary to drink, and thou hast withholden bread from the hungry.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.22.8",
+      "edition_verse_id": "KJV1769:JOB.22.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "But ",
+          "kind": "text"
+        },
+        {
+          "text": "as for",
+          "kind": "supplied"
+        },
+        {
+          "text": " the mighty man, he had the earth; and the honourable man dwelt in it.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.22.9",
+      "edition_verse_id": "KJV1769:JOB.22.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "Thou hast sent widows away empty, and the arms of the fatherless have been broken.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.22.10",
+      "edition_verse_id": "KJV1769:JOB.22.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "Therefore snares ",
+          "kind": "text"
+        },
+        {
+          "text": "are",
+          "kind": "supplied"
+        },
+        {
+          "text": " round about thee, and sudden fear troubleth thee;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.22.11",
+      "edition_verse_id": "KJV1769:JOB.22.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "Or darkness, ",
+          "kind": "text"
+        },
+        {
+          "text": "that",
+          "kind": "supplied"
+        },
+        {
+          "text": " thou canst not see; and abundance of waters cover thee.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.22.12",
+      "edition_verse_id": "KJV1769:JOB.22.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "Is",
+          "kind": "supplied"
+        },
+        {
+          "text": " not God in the height of heaven? and behold the height of the stars, how high they are!",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.22.13",
+      "edition_verse_id": "KJV1769:JOB.22.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "And thou sayest, How doth God know? can he judge through the dark cloud?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.22.14",
+      "edition_verse_id": "KJV1769:JOB.22.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "Thick clouds ",
+          "kind": "text"
+        },
+        {
+          "text": "are",
+          "kind": "supplied"
+        },
+        {
+          "text": " a covering to him, that he seeth not; and he walketh in the circuit of heaven.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.22.15",
+      "edition_verse_id": "KJV1769:JOB.22.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "Hast thou marked the old way which wicked men have trodden?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOB.22.16",
+      "edition_verse_id": "KJV1769:JOB.22.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "Which were cut down out of time, whose foundation was overflown with a flood:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.22.17",
+      "edition_verse_id": "KJV1769:JOB.22.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "Which said unto God, Depart from us: and what can the Almighty do for them?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.22.18",
+      "edition_verse_id": "KJV1769:JOB.22.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "Yet he filled their houses with good ",
+          "kind": "text"
+        },
+        {
+          "text": "things:",
+          "kind": "supplied"
+        },
+        {
+          "text": " but the counsel of the wicked is far from me.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.22.19",
+      "edition_verse_id": "KJV1769:JOB.22.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "The righteous see ",
+          "kind": "text"
+        },
+        {
+          "text": "it",
+          "kind": "supplied"
+        },
+        {
+          "text": ", and are glad: and the innocent laugh them to scorn.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.22.20",
+      "edition_verse_id": "KJV1769:JOB.22.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "Whereas our substance is not cut down, but the remnant of them the fire consumeth.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.22.21",
+      "edition_verse_id": "KJV1769:JOB.22.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "Acquaint now thyself with him, and be at peace: thereby good shall come unto thee.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOB.22.22",
+      "edition_verse_id": "KJV1769:JOB.22.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "Receive, I pray thee, the law from his mouth, and lay up his words in thine heart.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.22.23",
+      "edition_verse_id": "KJV1769:JOB.22.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "If thou return to the Almighty, thou shalt be built up, thou shalt put away iniquity far from thy tabernacles.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.22.24",
+      "edition_verse_id": "KJV1769:JOB.22.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "Then shalt thou lay up gold as dust, and the ",
+          "kind": "text"
+        },
+        {
+          "text": "gold",
+          "kind": "supplied"
+        },
+        {
+          "text": " of Ophir as the stones of the brooks.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.22.25",
+      "edition_verse_id": "KJV1769:JOB.22.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "Yea, the Almighty shall be thy defence, and thou shalt have plenty of silver.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.22.26",
+      "edition_verse_id": "KJV1769:JOB.22.26",
+      "verse": 26,
+      "spans": [
+        {
+          "text": "For then shalt thou have thy delight in the Almighty, and shalt lift up thy face unto God.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.22.27",
+      "edition_verse_id": "KJV1769:JOB.22.27",
+      "verse": 27,
+      "spans": [
+        {
+          "text": "Thou shalt make thy prayer unto him, and he shall hear thee, and thou shalt pay thy vows.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.22.28",
+      "edition_verse_id": "KJV1769:JOB.22.28",
+      "verse": 28,
+      "spans": [
+        {
+          "text": "Thou shalt also decree a thing, and it shall be established unto thee: and the light shall shine upon thy ways.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.22.29",
+      "edition_verse_id": "KJV1769:JOB.22.29",
+      "verse": 29,
+      "spans": [
+        {
+          "text": "When ",
+          "kind": "text"
+        },
+        {
+          "text": "men",
+          "kind": "supplied"
+        },
+        {
+          "text": " are cast down, then thou shalt say, ",
+          "kind": "text"
+        },
+        {
+          "text": "There is",
+          "kind": "supplied"
+        },
+        {
+          "text": " lifting up; and he shall save the humble person.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.22.30",
+      "edition_verse_id": "KJV1769:JOB.22.30",
+      "verse": 30,
+      "spans": [
+        {
+          "text": "He shall deliver the island of the innocent: and it is delivered by the pureness of thine hands.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

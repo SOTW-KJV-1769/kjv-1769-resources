@@ -1,0 +1,404 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "KJV1769",
+  "book_code": "JOB",
+  "chapter": 32,
+  "verses": [
+    {
+      "id": "JOB.32.1",
+      "edition_verse_id": "KJV1769:JOB.32.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "So these three men ceased to answer Job, because he ",
+          "kind": "text"
+        },
+        {
+          "text": "was",
+          "kind": "supplied"
+        },
+        {
+          "text": " righteous in his own eyes.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOB.32.2",
+      "edition_verse_id": "KJV1769:JOB.32.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "Then was kindled the wrath of Elihu the son of Barachel the Buzite, of the kindred of Ram: against Job was his wrath kindled, because he justified himself rather than God.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.32.3",
+      "edition_verse_id": "KJV1769:JOB.32.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "Also against his three friends was his wrath kindled, because they had found no answer, and ",
+          "kind": "text"
+        },
+        {
+          "text": "yet",
+          "kind": "supplied"
+        },
+        {
+          "text": " had condemned Job.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.32.4",
+      "edition_verse_id": "KJV1769:JOB.32.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "Now Elihu had waited till Job had spoken, because they ",
+          "kind": "text"
+        },
+        {
+          "text": "were",
+          "kind": "supplied"
+        },
+        {
+          "text": " elder than he.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.32.5",
+      "edition_verse_id": "KJV1769:JOB.32.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "When Elihu saw that ",
+          "kind": "text"
+        },
+        {
+          "text": "there was",
+          "kind": "supplied"
+        },
+        {
+          "text": " no answer in the mouth of ",
+          "kind": "text"
+        },
+        {
+          "text": "these",
+          "kind": "supplied"
+        },
+        {
+          "text": " three men, then his wrath was kindled.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.32.6",
+      "edition_verse_id": "KJV1769:JOB.32.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "And Elihu the son of Barachel the Buzite answered and said, I ",
+          "kind": "text"
+        },
+        {
+          "text": "am",
+          "kind": "supplied"
+        },
+        {
+          "text": " young, and ye ",
+          "kind": "text"
+        },
+        {
+          "text": "are",
+          "kind": "supplied"
+        },
+        {
+          "text": " very old; wherefore I was afraid, and durst not shew you mine opinion.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOB.32.7",
+      "edition_verse_id": "KJV1769:JOB.32.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "I said, Days should speak, and multitude of years should teach wisdom.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.32.8",
+      "edition_verse_id": "KJV1769:JOB.32.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "But ",
+          "kind": "text"
+        },
+        {
+          "text": "there is",
+          "kind": "supplied"
+        },
+        {
+          "text": " a spirit in man: and the inspiration of the Almighty giveth them understanding.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.32.9",
+      "edition_verse_id": "KJV1769:JOB.32.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "Great men are not ",
+          "kind": "text"
+        },
+        {
+          "text": "always",
+          "kind": "supplied"
+        },
+        {
+          "text": " wise: neither do the aged understand judgment.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.32.10",
+      "edition_verse_id": "KJV1769:JOB.32.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "Therefore I said, Hearken to me; I also will shew mine opinion.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.32.11",
+      "edition_verse_id": "KJV1769:JOB.32.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "Behold, I waited for your words; I gave ear to your reasons, whilst ye searched out what to say.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.32.12",
+      "edition_verse_id": "KJV1769:JOB.32.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "Yea, I attended unto you, and, behold, ",
+          "kind": "text"
+        },
+        {
+          "text": "there was",
+          "kind": "supplied"
+        },
+        {
+          "text": " none of you that convinced Job, ",
+          "kind": "text"
+        },
+        {
+          "text": "or",
+          "kind": "supplied"
+        },
+        {
+          "text": " that answered his words:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.32.13",
+      "edition_verse_id": "KJV1769:JOB.32.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "Lest ye should say, We have found out wisdom: God thrusteth him down, not man.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.32.14",
+      "edition_verse_id": "KJV1769:JOB.32.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "Now he hath not directed ",
+          "kind": "text"
+        },
+        {
+          "text": "his",
+          "kind": "supplied"
+        },
+        {
+          "text": " words against me: neither will I answer him with your speeches.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.32.15",
+      "edition_verse_id": "KJV1769:JOB.32.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "They were amazed, they answered no more: they left off speaking.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOB.32.16",
+      "edition_verse_id": "KJV1769:JOB.32.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "When I had waited, (for they spake not, but stood still, ",
+          "kind": "text"
+        },
+        {
+          "text": "and",
+          "kind": "supplied"
+        },
+        {
+          "text": " answered no more;)",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.32.17",
+      "edition_verse_id": "KJV1769:JOB.32.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "I said",
+          "kind": "supplied"
+        },
+        {
+          "text": ", I will answer also my part, I also will shew mine opinion.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.32.18",
+      "edition_verse_id": "KJV1769:JOB.32.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "For I am full of matter, the spirit within me constraineth me.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.32.19",
+      "edition_verse_id": "KJV1769:JOB.32.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "Behold, my belly ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " as wine ",
+          "kind": "text"
+        },
+        {
+          "text": "which",
+          "kind": "supplied"
+        },
+        {
+          "text": " hath no vent; it is ready to burst like new bottles.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.32.20",
+      "edition_verse_id": "KJV1769:JOB.32.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "I will speak, that I may be refreshed: I will open my lips and answer.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.32.21",
+      "edition_verse_id": "KJV1769:JOB.32.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "Let me not, I pray you, accept any man’s person, neither let me give flattering titles unto man.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.32.22",
+      "edition_verse_id": "KJV1769:JOB.32.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "For I know not to give flattering titles; ",
+          "kind": "text"
+        },
+        {
+          "text": "in so doing",
+          "kind": "supplied"
+        },
+        {
+          "text": " my maker would soon take me away.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

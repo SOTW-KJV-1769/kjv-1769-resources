@@ -1,0 +1,588 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "KJV1769",
+  "book_code": "JOS",
+  "chapter": 8,
+  "verses": [
+    {
+      "id": "JOS.8.1",
+      "edition_verse_id": "KJV1769:JOS.8.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "And the LORD said unto Joshua, Fear not, neither be thou dismayed: take all the people of war with thee, and arise, go up to Ai: see, I have given into thy hand the king of Ai, and his people, and his city, and his land:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOS.8.2",
+      "edition_verse_id": "KJV1769:JOS.8.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "And thou shalt do to Ai and her king as thou didst unto Jericho and her king: only the spoil thereof, and the cattle thereof, shall ye take for a prey unto yourselves: lay thee an ambush for the city behind it.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOS.8.3",
+      "edition_verse_id": "KJV1769:JOS.8.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "¶ So Joshua arose, and all the people of war, to go up against Ai: and Joshua chose out thirty thousand mighty men of valour, and sent them away by night.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOS.8.4",
+      "edition_verse_id": "KJV1769:JOS.8.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "And he commanded them, saying, Behold, ye shall lie in wait against the city, ",
+          "kind": "text"
+        },
+        {
+          "text": "even",
+          "kind": "supplied"
+        },
+        {
+          "text": " behind the city: go not very far from the city, but be ye all ready:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOS.8.5",
+      "edition_verse_id": "KJV1769:JOS.8.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "And I, and all the people that ",
+          "kind": "text"
+        },
+        {
+          "text": "are",
+          "kind": "supplied"
+        },
+        {
+          "text": " with me, will approach unto the city: and it shall come to pass, when they come out against us, as at the first, that we will flee before them,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOS.8.6",
+      "edition_verse_id": "KJV1769:JOS.8.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "(For they will come out after us) till we have drawn them from the city; for they will say, They flee before us, as at the first: therefore we will flee before them.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOS.8.7",
+      "edition_verse_id": "KJV1769:JOS.8.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "Then ye shall rise up from the ambush, and seize upon the city: for the LORD your God will deliver it into your hand.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOS.8.8",
+      "edition_verse_id": "KJV1769:JOS.8.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "And it shall be, when ye have taken the city, ",
+          "kind": "text"
+        },
+        {
+          "text": "that",
+          "kind": "supplied"
+        },
+        {
+          "text": " ye shall set the city on fire: according to the commandment of the LORD shall ye do. See, I have commanded you.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOS.8.9",
+      "edition_verse_id": "KJV1769:JOS.8.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "¶ Joshua therefore sent them forth: and they went to lie in ambush, and abode between Beth-el and Ai, on the west side of Ai: but Joshua lodged that night among the people.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOS.8.10",
+      "edition_verse_id": "KJV1769:JOS.8.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "And Joshua rose up early in the morning, and numbered the people, and went up, he and the elders of Israel, before the people to Ai.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOS.8.11",
+      "edition_verse_id": "KJV1769:JOS.8.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "And all the people, ",
+          "kind": "text"
+        },
+        {
+          "text": "even the people",
+          "kind": "supplied"
+        },
+        {
+          "text": " of war that ",
+          "kind": "text"
+        },
+        {
+          "text": "were",
+          "kind": "supplied"
+        },
+        {
+          "text": " with him, went up, and drew nigh, and came before the city, and pitched on the north side of Ai: now ",
+          "kind": "text"
+        },
+        {
+          "text": "there was",
+          "kind": "supplied"
+        },
+        {
+          "text": " a valley between them and Ai.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOS.8.12",
+      "edition_verse_id": "KJV1769:JOS.8.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "And he took about five thousand men, and set them to lie in ambush between Beth-el and Ai, on the west side of the city.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOS.8.13",
+      "edition_verse_id": "KJV1769:JOS.8.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "And when they had set the people, ",
+          "kind": "text"
+        },
+        {
+          "text": "even",
+          "kind": "supplied"
+        },
+        {
+          "text": " all the host that ",
+          "kind": "text"
+        },
+        {
+          "text": "was",
+          "kind": "supplied"
+        },
+        {
+          "text": " on the north of the city, and their liers in wait on the west of the city, Joshua went that night into the midst of the valley.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOS.8.14",
+      "edition_verse_id": "KJV1769:JOS.8.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "¶ And it came to pass, when the king of Ai saw ",
+          "kind": "text"
+        },
+        {
+          "text": "it",
+          "kind": "supplied"
+        },
+        {
+          "text": ", that they hasted and rose up early, and the men of the city went out against Israel to battle, he and all his people, at a time appointed, before the plain; but he wist not that ",
+          "kind": "text"
+        },
+        {
+          "text": "there were",
+          "kind": "supplied"
+        },
+        {
+          "text": " liers in ambush against him behind the city.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOS.8.15",
+      "edition_verse_id": "KJV1769:JOS.8.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "And Joshua and all Israel made as if they were beaten before them, and fled by the way of the wilderness.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOS.8.16",
+      "edition_verse_id": "KJV1769:JOS.8.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "And all the people that ",
+          "kind": "text"
+        },
+        {
+          "text": "were",
+          "kind": "supplied"
+        },
+        {
+          "text": " in Ai were called together to pursue after them: and they pursued after Joshua, and were drawn away from the city.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOS.8.17",
+      "edition_verse_id": "KJV1769:JOS.8.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "And there was not a man left in Ai or Beth-el, that went not out after Israel: and they left the city open, and pursued after Israel.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOS.8.18",
+      "edition_verse_id": "KJV1769:JOS.8.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "And the LORD said unto Joshua, Stretch out the spear that ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " in thy hand toward Ai; for I will give it into thine hand. And Joshua stretched out the spear that ",
+          "kind": "text"
+        },
+        {
+          "text": "he had",
+          "kind": "supplied"
+        },
+        {
+          "text": " in his hand toward the city.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOS.8.19",
+      "edition_verse_id": "KJV1769:JOS.8.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "And the ambush arose quickly out of their place, and they ran as soon as he had stretched out his hand: and they entered into the city, and took it, and hasted and set the city on fire.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOS.8.20",
+      "edition_verse_id": "KJV1769:JOS.8.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "And when the men of Ai looked behind them, they saw, and, behold, the smoke of the city ascended up to heaven, and they had no power to flee this way or that way: and the people that fled to the wilderness turned back upon the pursuers.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOS.8.21",
+      "edition_verse_id": "KJV1769:JOS.8.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "And when Joshua and all Israel saw that the ambush had taken the city, and that the smoke of the city ascended, then they turned again, and slew the men of Ai.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOS.8.22",
+      "edition_verse_id": "KJV1769:JOS.8.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "And the other issued out of the city against them; so they were in the midst of Israel, some on this side, and some on that side: and they smote them, so that they let none of them remain or escape.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOS.8.23",
+      "edition_verse_id": "KJV1769:JOS.8.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "And the king of Ai they took alive, and brought him to Joshua.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOS.8.24",
+      "edition_verse_id": "KJV1769:JOS.8.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "And it came to pass, when Israel had made an end of slaying all the inhabitants of Ai in the field, in the wilderness wherein they chased them, and when they were all fallen on the edge of the sword, until they were consumed, that all the Israelites returned unto Ai, and smote it with the edge of the sword.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOS.8.25",
+      "edition_verse_id": "KJV1769:JOS.8.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "And ",
+          "kind": "text"
+        },
+        {
+          "text": "so",
+          "kind": "supplied"
+        },
+        {
+          "text": " it was, ",
+          "kind": "text"
+        },
+        {
+          "text": "that",
+          "kind": "supplied"
+        },
+        {
+          "text": " all that fell that day, both of men and women, ",
+          "kind": "text"
+        },
+        {
+          "text": "were",
+          "kind": "supplied"
+        },
+        {
+          "text": " twelve thousand, ",
+          "kind": "text"
+        },
+        {
+          "text": "even",
+          "kind": "supplied"
+        },
+        {
+          "text": " all the men of Ai.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOS.8.26",
+      "edition_verse_id": "KJV1769:JOS.8.26",
+      "verse": 26,
+      "spans": [
+        {
+          "text": "For Joshua drew not his hand back, wherewith he stretched out the spear, until he had utterly destroyed all the inhabitants of Ai.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOS.8.27",
+      "edition_verse_id": "KJV1769:JOS.8.27",
+      "verse": 27,
+      "spans": [
+        {
+          "text": "Only the cattle and the spoil of that city Israel took for a prey unto themselves, according unto the word of the LORD which he commanded Joshua.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOS.8.28",
+      "edition_verse_id": "KJV1769:JOS.8.28",
+      "verse": 28,
+      "spans": [
+        {
+          "text": "And Joshua burnt Ai, and made it an heap for ever, ",
+          "kind": "text"
+        },
+        {
+          "text": "even",
+          "kind": "supplied"
+        },
+        {
+          "text": " a desolation unto this day.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOS.8.29",
+      "edition_verse_id": "KJV1769:JOS.8.29",
+      "verse": 29,
+      "spans": [
+        {
+          "text": "And the king of Ai he hanged on a tree until eventide: and as soon as the sun was down, Joshua commanded that they should take his carcase down from the tree, and cast it at the entering of the gate of the city, and raise thereon a great heap of stones, ",
+          "kind": "text"
+        },
+        {
+          "text": "that remaineth",
+          "kind": "supplied"
+        },
+        {
+          "text": " unto this day.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOS.8.30",
+      "edition_verse_id": "KJV1769:JOS.8.30",
+      "verse": 30,
+      "spans": [
+        {
+          "text": "¶ Then Joshua built an altar unto the LORD God of Israel in mount Ebal,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOS.8.31",
+      "edition_verse_id": "KJV1769:JOS.8.31",
+      "verse": 31,
+      "spans": [
+        {
+          "text": "As Moses the servant of the LORD commanded the children of Israel, as it is written in the book of the law of Moses, an altar of whole stones, over which no man hath lift up ",
+          "kind": "text"
+        },
+        {
+          "text": "any",
+          "kind": "supplied"
+        },
+        {
+          "text": " iron: and they offered thereon burnt offerings unto the LORD, and sacrificed peace offerings.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOS.8.32",
+      "edition_verse_id": "KJV1769:JOS.8.32",
+      "verse": 32,
+      "spans": [
+        {
+          "text": "¶ And he wrote there upon the stones a copy of the law of Moses, which he wrote in the presence of the children of Israel.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOS.8.33",
+      "edition_verse_id": "KJV1769:JOS.8.33",
+      "verse": 33,
+      "spans": [
+        {
+          "text": "And all Israel, and their elders, and officers, and their judges, stood on this side the ark and on that side before the priests the Levites, which bare the ark of the covenant of the LORD, as well the stranger, as he that was born among them; half of them over against mount Gerizim, and half of them over against mount Ebal; as Moses the servant of the LORD had commanded before, that they should bless the people of Israel.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOS.8.34",
+      "edition_verse_id": "KJV1769:JOS.8.34",
+      "verse": 34,
+      "spans": [
+        {
+          "text": "And afterward he read all the words of the law, the blessings and cursings, according to all that is written in the book of the law.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOS.8.35",
+      "edition_verse_id": "KJV1769:JOS.8.35",
+      "verse": 35,
+      "spans": [
+        {
+          "text": "There was not a word of all that Moses commanded, which Joshua read not before all the congregation of Israel, with the women, and the little ones, and the strangers that were conversant among them.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

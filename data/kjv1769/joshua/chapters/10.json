@@ -1,0 +1,684 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "KJV1769",
+  "book_code": "JOS",
+  "chapter": 10,
+  "verses": [
+    {
+      "id": "JOS.10.1",
+      "edition_verse_id": "KJV1769:JOS.10.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "Now it came to pass, when Adoni-zedek king of Jerusalem had heard how Joshua had taken Ai, and had utterly destroyed it; as he had done to Jericho and her king, so he had done to Ai and her king; and how the inhabitants of Gibeon had made peace with Israel, and were among them;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOS.10.2",
+      "edition_verse_id": "KJV1769:JOS.10.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "That they feared greatly, because Gibeon ",
+          "kind": "text"
+        },
+        {
+          "text": "was",
+          "kind": "supplied"
+        },
+        {
+          "text": " a great city, as one of the royal cities, and because it ",
+          "kind": "text"
+        },
+        {
+          "text": "was",
+          "kind": "supplied"
+        },
+        {
+          "text": " greater than Ai, and all the men thereof ",
+          "kind": "text"
+        },
+        {
+          "text": "were",
+          "kind": "supplied"
+        },
+        {
+          "text": " mighty.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOS.10.3",
+      "edition_verse_id": "KJV1769:JOS.10.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "Wherefore Adoni-zedek king of Jerusalem sent unto Hoham king of Hebron, and unto Piram king of Jarmuth, and unto Japhia king of Lachish, and unto Debir king of Eglon, saying,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOS.10.4",
+      "edition_verse_id": "KJV1769:JOS.10.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "Come up unto me, and help me, that we may smite Gibeon: for it hath made peace with Joshua and with the children of Israel.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOS.10.5",
+      "edition_verse_id": "KJV1769:JOS.10.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "Therefore the five kings of the Amorites, the king of Jerusalem, the king of Hebron, the king of Jarmuth, the king of Lachish, the king of Eglon, gathered themselves together, and went up, they and all their hosts, and encamped before Gibeon, and made war against it.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOS.10.6",
+      "edition_verse_id": "KJV1769:JOS.10.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "¶ And the men of Gibeon sent unto Joshua to the camp to Gilgal, saying, Slack not thy hand from thy servants; come up to us quickly, and save us, and help us: for all the kings of the Amorites that dwell in the mountains are gathered together against us.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOS.10.7",
+      "edition_verse_id": "KJV1769:JOS.10.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "So Joshua ascended from Gilgal, he, and all the people of war with him, and all the mighty men of valour.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOS.10.8",
+      "edition_verse_id": "KJV1769:JOS.10.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "¶ And the LORD said unto Joshua, Fear them not: for I have delivered them into thine hand; there shall not a man of them stand before thee.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOS.10.9",
+      "edition_verse_id": "KJV1769:JOS.10.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "Joshua therefore came unto them suddenly, ",
+          "kind": "text"
+        },
+        {
+          "text": "and",
+          "kind": "supplied"
+        },
+        {
+          "text": " went up from Gilgal all night.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOS.10.10",
+      "edition_verse_id": "KJV1769:JOS.10.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "And the LORD discomfited them before Israel, and slew them with a great slaughter at Gibeon, and chased them along the way that goeth up to Beth-horon, and smote them to Azekah, and unto Makkedah.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOS.10.11",
+      "edition_verse_id": "KJV1769:JOS.10.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "And it came to pass, as they fled from before Israel, ",
+          "kind": "text"
+        },
+        {
+          "text": "and",
+          "kind": "supplied"
+        },
+        {
+          "text": " were in the going down to Beth-horon, that the LORD cast down great stones from heaven upon them unto Azekah, and they died: ",
+          "kind": "text"
+        },
+        {
+          "text": "they were",
+          "kind": "supplied"
+        },
+        {
+          "text": " more which died with hailstones than ",
+          "kind": "text"
+        },
+        {
+          "text": "they",
+          "kind": "supplied"
+        },
+        {
+          "text": " whom the children of Israel slew with the sword.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOS.10.12",
+      "edition_verse_id": "KJV1769:JOS.10.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "¶ Then spake Joshua to the LORD in the day when the LORD delivered up the Amorites before the children of Israel, and he said in the sight of Israel, Sun, stand thou still upon Gibeon; and thou, Moon, in the valley of Ajalon.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOS.10.13",
+      "edition_verse_id": "KJV1769:JOS.10.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "And the sun stood still, and the moon stayed, until the people had avenged themselves upon their enemies. ",
+          "kind": "text"
+        },
+        {
+          "text": "Is",
+          "kind": "supplied"
+        },
+        {
+          "text": " not this written in the book of Jasher? So the sun stood still in the midst of heaven, and hasted not to go down about a whole day.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOS.10.14",
+      "edition_verse_id": "KJV1769:JOS.10.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "And there was no day like that before it or after it, that the LORD hearkened unto the voice of a man: for the LORD fought for Israel.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOS.10.15",
+      "edition_verse_id": "KJV1769:JOS.10.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "¶ And Joshua returned, and all Israel with him, unto the camp to Gilgal.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOS.10.16",
+      "edition_verse_id": "KJV1769:JOS.10.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "But these five kings fled, and hid themselves in a cave at Makkedah.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOS.10.17",
+      "edition_verse_id": "KJV1769:JOS.10.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "And it was told Joshua, saying, The five kings are found hid in a cave at Makkedah.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOS.10.18",
+      "edition_verse_id": "KJV1769:JOS.10.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "And Joshua said, Roll great stones upon the mouth of the cave, and set men by it for to keep them:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOS.10.19",
+      "edition_verse_id": "KJV1769:JOS.10.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "And stay ye not, ",
+          "kind": "text"
+        },
+        {
+          "text": "but",
+          "kind": "supplied"
+        },
+        {
+          "text": " pursue after your enemies, and smite the hindmost of them; suffer them not to enter into their cities: for the LORD your God hath delivered them into your hand.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOS.10.20",
+      "edition_verse_id": "KJV1769:JOS.10.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "And it came to pass, when Joshua and the children of Israel had made an end of slaying them with a very great slaughter, till they were consumed, that the rest ",
+          "kind": "text"
+        },
+        {
+          "text": "which",
+          "kind": "supplied"
+        },
+        {
+          "text": " remained of them entered into fenced cities.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOS.10.21",
+      "edition_verse_id": "KJV1769:JOS.10.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "And all the people returned to the camp to Joshua at Makkedah in peace: none moved his tongue against any of the children of Israel.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOS.10.22",
+      "edition_verse_id": "KJV1769:JOS.10.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "Then said Joshua, Open the mouth of the cave, and bring out those five kings unto me out of the cave.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOS.10.23",
+      "edition_verse_id": "KJV1769:JOS.10.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "And they did so, and brought forth those five kings unto him out of the cave, the king of Jerusalem, the king of Hebron, the king of Jarmuth, the king of Lachish, ",
+          "kind": "text"
+        },
+        {
+          "text": "and",
+          "kind": "supplied"
+        },
+        {
+          "text": " the king of Eglon.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOS.10.24",
+      "edition_verse_id": "KJV1769:JOS.10.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "And it came to pass, when they brought out those kings unto Joshua, that Joshua called for all the men of Israel, and said unto the captains of the men of war which went with him, Come near, put your feet upon the necks of these kings. And they came near, and put their feet upon the necks of them.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOS.10.25",
+      "edition_verse_id": "KJV1769:JOS.10.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "And Joshua said unto them, Fear not, nor be dismayed, be strong and of good courage: for thus shall the LORD do to all your enemies against whom ye fight.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOS.10.26",
+      "edition_verse_id": "KJV1769:JOS.10.26",
+      "verse": 26,
+      "spans": [
+        {
+          "text": "And afterward Joshua smote them, and slew them, and hanged them on five trees: and they were hanging upon the trees until the evening.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOS.10.27",
+      "edition_verse_id": "KJV1769:JOS.10.27",
+      "verse": 27,
+      "spans": [
+        {
+          "text": "And it came to pass at the time of the going down of the sun, ",
+          "kind": "text"
+        },
+        {
+          "text": "that",
+          "kind": "supplied"
+        },
+        {
+          "text": " Joshua commanded, and they took them down off the trees, and cast them into the cave wherein they had been hid, and laid great stones in the cave’s mouth, ",
+          "kind": "text"
+        },
+        {
+          "text": "which remain",
+          "kind": "supplied"
+        },
+        {
+          "text": " until this very day.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOS.10.28",
+      "edition_verse_id": "KJV1769:JOS.10.28",
+      "verse": 28,
+      "spans": [
+        {
+          "text": "¶ And that day Joshua took Makkedah, and smote it with the edge of the sword, and the king thereof he utterly destroyed, them, and all the souls that ",
+          "kind": "text"
+        },
+        {
+          "text": "were",
+          "kind": "supplied"
+        },
+        {
+          "text": " therein; he let none remain: and he did to the king of Makkedah as he did unto the king of Jericho.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOS.10.29",
+      "edition_verse_id": "KJV1769:JOS.10.29",
+      "verse": 29,
+      "spans": [
+        {
+          "text": "Then Joshua passed from Makkedah, and all Israel with him, unto Libnah, and fought against Libnah:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOS.10.30",
+      "edition_verse_id": "KJV1769:JOS.10.30",
+      "verse": 30,
+      "spans": [
+        {
+          "text": "And the LORD delivered it also, and the king thereof, into the hand of Israel; and he smote it with the edge of the sword, and all the souls that ",
+          "kind": "text"
+        },
+        {
+          "text": "were",
+          "kind": "supplied"
+        },
+        {
+          "text": " therein; he let none remain in it; but did unto the king thereof as he did unto the king of Jericho.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOS.10.31",
+      "edition_verse_id": "KJV1769:JOS.10.31",
+      "verse": 31,
+      "spans": [
+        {
+          "text": "¶ And Joshua passed from Libnah, and all Israel with him, unto Lachish, and encamped against it, and fought against it:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOS.10.32",
+      "edition_verse_id": "KJV1769:JOS.10.32",
+      "verse": 32,
+      "spans": [
+        {
+          "text": "And the LORD delivered Lachish into the hand of Israel, which took it on the second day, and smote it with the edge of the sword, and all the souls that ",
+          "kind": "text"
+        },
+        {
+          "text": "were",
+          "kind": "supplied"
+        },
+        {
+          "text": " therein, according to all that he had done to Libnah.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOS.10.33",
+      "edition_verse_id": "KJV1769:JOS.10.33",
+      "verse": 33,
+      "spans": [
+        {
+          "text": "¶ Then Horam king of Gezer came up to help Lachish; and Joshua smote him and his people, until he had left him none remaining.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOS.10.34",
+      "edition_verse_id": "KJV1769:JOS.10.34",
+      "verse": 34,
+      "spans": [
+        {
+          "text": "¶ And from Lachish Joshua passed unto Eglon, and all Israel with him; and they encamped against it, and fought against it:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOS.10.35",
+      "edition_verse_id": "KJV1769:JOS.10.35",
+      "verse": 35,
+      "spans": [
+        {
+          "text": "And they took it on that day, and smote it with the edge of the sword, and all the souls that ",
+          "kind": "text"
+        },
+        {
+          "text": "were",
+          "kind": "supplied"
+        },
+        {
+          "text": " therein he utterly destroyed that day, according to all that he had done to Lachish.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOS.10.36",
+      "edition_verse_id": "KJV1769:JOS.10.36",
+      "verse": 36,
+      "spans": [
+        {
+          "text": "And Joshua went up from Eglon, and all Israel with him, unto Hebron; and they fought against it:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOS.10.37",
+      "edition_verse_id": "KJV1769:JOS.10.37",
+      "verse": 37,
+      "spans": [
+        {
+          "text": "And they took it, and smote it with the edge of the sword, and the king thereof, and all the cities thereof, and all the souls that ",
+          "kind": "text"
+        },
+        {
+          "text": "were",
+          "kind": "supplied"
+        },
+        {
+          "text": " therein; he left none remaining, according to all that he had done to Eglon; but destroyed it utterly, and all the souls that ",
+          "kind": "text"
+        },
+        {
+          "text": "were",
+          "kind": "supplied"
+        },
+        {
+          "text": " therein.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOS.10.38",
+      "edition_verse_id": "KJV1769:JOS.10.38",
+      "verse": 38,
+      "spans": [
+        {
+          "text": "¶ And Joshua returned, and all Israel with him, to Debir; and fought against it:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOS.10.39",
+      "edition_verse_id": "KJV1769:JOS.10.39",
+      "verse": 39,
+      "spans": [
+        {
+          "text": "And he took it, and the king thereof, and all the cities thereof; and they smote them with the edge of the sword, and utterly destroyed all the souls that ",
+          "kind": "text"
+        },
+        {
+          "text": "were",
+          "kind": "supplied"
+        },
+        {
+          "text": " therein; he left none remaining: as he had done to Hebron, so he did to Debir, and to the king thereof; as he had done also to Libnah, and to her king.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOS.10.40",
+      "edition_verse_id": "KJV1769:JOS.10.40",
+      "verse": 40,
+      "spans": [
+        {
+          "text": "¶ So Joshua smote all the country of the hills, and of the south, and of the vale, and of the springs, and all their kings: he left none remaining, but utterly destroyed all that breathed, as the LORD God of Israel commanded.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOS.10.41",
+      "edition_verse_id": "KJV1769:JOS.10.41",
+      "verse": 41,
+      "spans": [
+        {
+          "text": "And Joshua smote them from Kadesh-barnea even unto Gaza, and all the country of Goshen, even unto Gibeon.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOS.10.42",
+      "edition_verse_id": "KJV1769:JOS.10.42",
+      "verse": 42,
+      "spans": [
+        {
+          "text": "And all these kings and their land did Joshua take at one time, because the LORD God of Israel fought for Israel.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOS.10.43",
+      "edition_verse_id": "KJV1769:JOS.10.43",
+      "verse": 43,
+      "spans": [
+        {
+          "text": "And Joshua returned, and all Israel with him, unto the camp to Gilgal.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

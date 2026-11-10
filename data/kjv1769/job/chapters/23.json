@@ -1,0 +1,368 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "KJV1769",
+  "book_code": "JOB",
+  "chapter": 23,
+  "verses": [
+    {
+      "id": "JOB.23.1",
+      "edition_verse_id": "KJV1769:JOB.23.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "Then Job answered and said,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOB.23.2",
+      "edition_verse_id": "KJV1769:JOB.23.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "Even to day ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " my complaint bitter: my stroke is heavier than my groaning.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.23.3",
+      "edition_verse_id": "KJV1769:JOB.23.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "Oh that I knew where I might find him! ",
+          "kind": "text"
+        },
+        {
+          "text": "that",
+          "kind": "supplied"
+        },
+        {
+          "text": " I might come ",
+          "kind": "text"
+        },
+        {
+          "text": "even",
+          "kind": "supplied"
+        },
+        {
+          "text": " to his seat!",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.23.4",
+      "edition_verse_id": "KJV1769:JOB.23.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "I would order ",
+          "kind": "text"
+        },
+        {
+          "text": "my",
+          "kind": "supplied"
+        },
+        {
+          "text": " cause before him, and fill my mouth with arguments.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.23.5",
+      "edition_verse_id": "KJV1769:JOB.23.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "I would know the words ",
+          "kind": "text"
+        },
+        {
+          "text": "which",
+          "kind": "supplied"
+        },
+        {
+          "text": " he would answer me, and understand what he would say unto me.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.23.6",
+      "edition_verse_id": "KJV1769:JOB.23.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "Will he plead against me with ",
+          "kind": "text"
+        },
+        {
+          "text": "his",
+          "kind": "supplied"
+        },
+        {
+          "text": " great power? No; but he would put ",
+          "kind": "text"
+        },
+        {
+          "text": "strength",
+          "kind": "supplied"
+        },
+        {
+          "text": " in me.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.23.7",
+      "edition_verse_id": "KJV1769:JOB.23.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "There the righteous might dispute with him; so should I be delivered for ever from my judge.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.23.8",
+      "edition_verse_id": "KJV1769:JOB.23.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "Behold, I go forward, but he ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " not ",
+          "kind": "text"
+        },
+        {
+          "text": "there;",
+          "kind": "supplied"
+        },
+        {
+          "text": " and backward, but I cannot perceive him:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOB.23.9",
+      "edition_verse_id": "KJV1769:JOB.23.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "On the left hand, where he doth work, but I cannot behold ",
+          "kind": "text"
+        },
+        {
+          "text": "him:",
+          "kind": "supplied"
+        },
+        {
+          "text": " he hideth himself on the right hand, that I cannot see ",
+          "kind": "text"
+        },
+        {
+          "text": "him:",
+          "kind": "supplied"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.23.10",
+      "edition_verse_id": "KJV1769:JOB.23.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "But he knoweth the way that I take: ",
+          "kind": "text"
+        },
+        {
+          "text": "when",
+          "kind": "supplied"
+        },
+        {
+          "text": " he hath tried me, I shall come forth as gold.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.23.11",
+      "edition_verse_id": "KJV1769:JOB.23.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "My foot hath held his steps, his way have I kept, and not declined.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.23.12",
+      "edition_verse_id": "KJV1769:JOB.23.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "Neither have I gone back from the commandment of his lips; I have esteemed the words of his mouth more than my necessary ",
+          "kind": "text"
+        },
+        {
+          "text": "food",
+          "kind": "supplied"
+        },
+        {
+          "text": ".",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.23.13",
+      "edition_verse_id": "KJV1769:JOB.23.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "But he ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " in one ",
+          "kind": "text"
+        },
+        {
+          "text": "mind",
+          "kind": "supplied"
+        },
+        {
+          "text": ", and who can turn him? and ",
+          "kind": "text"
+        },
+        {
+          "text": "what",
+          "kind": "supplied"
+        },
+        {
+          "text": " his soul desireth, even ",
+          "kind": "text"
+        },
+        {
+          "text": "that",
+          "kind": "supplied"
+        },
+        {
+          "text": " he doeth.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOB.23.14",
+      "edition_verse_id": "KJV1769:JOB.23.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "For he performeth ",
+          "kind": "text"
+        },
+        {
+          "text": "the thing that is",
+          "kind": "supplied"
+        },
+        {
+          "text": " appointed for me: and many such ",
+          "kind": "text"
+        },
+        {
+          "text": "things are",
+          "kind": "supplied"
+        },
+        {
+          "text": " with him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.23.15",
+      "edition_verse_id": "KJV1769:JOB.23.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "Therefore am I troubled at his presence: when I consider, I am afraid of him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.23.16",
+      "edition_verse_id": "KJV1769:JOB.23.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "For God maketh my heart soft, and the Almighty troubleth me:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.23.17",
+      "edition_verse_id": "KJV1769:JOB.23.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "Because I was not cut off before the darkness, ",
+          "kind": "text"
+        },
+        {
+          "text": "neither",
+          "kind": "supplied"
+        },
+        {
+          "text": " hath he covered the darkness from my face.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

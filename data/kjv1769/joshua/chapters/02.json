@@ -1,0 +1,436 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "KJV1769",
+  "book_code": "JOS",
+  "chapter": 2,
+  "verses": [
+    {
+      "id": "JOS.2.1",
+      "edition_verse_id": "KJV1769:JOS.2.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "And Joshua the son of Nun sent out of Shittim two men to spy secretly, saying, Go view the land, even Jericho. And they went, and came into an harlot’s house, named Rahab, and lodged there.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOS.2.2",
+      "edition_verse_id": "KJV1769:JOS.2.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "And it was told the king of Jericho, saying, Behold, there came men in hither to night of the children of Israel to search out the country.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOS.2.3",
+      "edition_verse_id": "KJV1769:JOS.2.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "And the king of Jericho sent unto Rahab, saying, Bring forth the men that are come to thee, which are entered into thine house: for they be come to search out all the country.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOS.2.4",
+      "edition_verse_id": "KJV1769:JOS.2.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "And the woman took the two men, and hid them, and said thus, There came men unto me, but I wist not whence they ",
+          "kind": "text"
+        },
+        {
+          "text": "were:",
+          "kind": "supplied"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOS.2.5",
+      "edition_verse_id": "KJV1769:JOS.2.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "And it came to pass ",
+          "kind": "text"
+        },
+        {
+          "text": "about the time",
+          "kind": "supplied"
+        },
+        {
+          "text": " of shutting of the gate, when it was dark, that the men went out: whither the men went I wot not: pursue after them quickly; for ye shall overtake them.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOS.2.6",
+      "edition_verse_id": "KJV1769:JOS.2.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "But she had brought them up to the roof of the house, and hid them with the stalks of flax, which she had laid in order upon the roof.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOS.2.7",
+      "edition_verse_id": "KJV1769:JOS.2.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "And the men pursued after them the way to Jordan unto the fords: and as soon as they which pursued after them were gone out, they shut the gate.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOS.2.8",
+      "edition_verse_id": "KJV1769:JOS.2.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "¶ And before they were laid down, she came up unto them upon the roof;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOS.2.9",
+      "edition_verse_id": "KJV1769:JOS.2.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "And she said unto the men, I know that the LORD hath given you the land, and that your terror is fallen upon us, and that all the inhabitants of the land faint because of you.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOS.2.10",
+      "edition_verse_id": "KJV1769:JOS.2.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "For we have heard how the LORD dried up the water of the Red sea for you, when ye came out of Egypt; and what ye did unto the two kings of the Amorites, that ",
+          "kind": "text"
+        },
+        {
+          "text": "were",
+          "kind": "supplied"
+        },
+        {
+          "text": " on the other side Jordan, Sihon and Og, whom ye utterly destroyed.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOS.2.11",
+      "edition_verse_id": "KJV1769:JOS.2.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "And as soon as we had heard ",
+          "kind": "text"
+        },
+        {
+          "text": "these things",
+          "kind": "supplied"
+        },
+        {
+          "text": ", our hearts did melt, neither did there remain any more courage in any man, because of you: for the LORD your God, he ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " God in heaven above, and in earth beneath.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOS.2.12",
+      "edition_verse_id": "KJV1769:JOS.2.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "Now therefore, I pray you, swear unto me by the LORD, since I have shewed you kindness, that ye will also shew kindness unto my father’s house, and give me a true token:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOS.2.13",
+      "edition_verse_id": "KJV1769:JOS.2.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "And ",
+          "kind": "text"
+        },
+        {
+          "text": "that",
+          "kind": "supplied"
+        },
+        {
+          "text": " ye will save alive my father, and my mother, and my brethren, and my sisters, and all that they have, and deliver our lives from death.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOS.2.14",
+      "edition_verse_id": "KJV1769:JOS.2.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "And the men answered her, Our life for yours, if ye utter not this our business. And it shall be, when the LORD hath given us the land, that we will deal kindly and truly with thee.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOS.2.15",
+      "edition_verse_id": "KJV1769:JOS.2.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "Then she let them down by a cord through the window: for her house ",
+          "kind": "text"
+        },
+        {
+          "text": "was",
+          "kind": "supplied"
+        },
+        {
+          "text": " upon the town wall, and she dwelt upon the wall.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOS.2.16",
+      "edition_verse_id": "KJV1769:JOS.2.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "And she said unto them, Get you to the mountain, lest the pursuers meet you; and hide yourselves there three days, until the pursuers be returned: and afterward may ye go your way.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOS.2.17",
+      "edition_verse_id": "KJV1769:JOS.2.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "And the men said unto her, We ",
+          "kind": "text"
+        },
+        {
+          "text": "will be",
+          "kind": "supplied"
+        },
+        {
+          "text": " blameless of this thine oath which thou hast made us swear.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOS.2.18",
+      "edition_verse_id": "KJV1769:JOS.2.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "Behold, ",
+          "kind": "text"
+        },
+        {
+          "text": "when",
+          "kind": "supplied"
+        },
+        {
+          "text": " we come into the land, thou shalt bind this line of scarlet thread in the window which thou didst let us down by: and thou shalt bring thy father, and thy mother, and thy brethren, and all thy father’s household, home unto thee.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOS.2.19",
+      "edition_verse_id": "KJV1769:JOS.2.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "And it shall be, ",
+          "kind": "text"
+        },
+        {
+          "text": "that",
+          "kind": "supplied"
+        },
+        {
+          "text": " whosoever shall go out of the doors of thy house into the street, his blood ",
+          "kind": "text"
+        },
+        {
+          "text": "shall be",
+          "kind": "supplied"
+        },
+        {
+          "text": " upon his head, and we ",
+          "kind": "text"
+        },
+        {
+          "text": "will be",
+          "kind": "supplied"
+        },
+        {
+          "text": " guiltless: and whosoever shall be with thee in the house, his blood ",
+          "kind": "text"
+        },
+        {
+          "text": "shall be",
+          "kind": "supplied"
+        },
+        {
+          "text": " on our head, if ",
+          "kind": "text"
+        },
+        {
+          "text": "any",
+          "kind": "supplied"
+        },
+        {
+          "text": " hand be upon him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOS.2.20",
+      "edition_verse_id": "KJV1769:JOS.2.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "And if thou utter this our business, then we will be quit of thine oath which thou hast made us to swear.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOS.2.21",
+      "edition_verse_id": "KJV1769:JOS.2.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "And she said, According unto your words, so ",
+          "kind": "text"
+        },
+        {
+          "text": "be",
+          "kind": "supplied"
+        },
+        {
+          "text": " it. And she sent them away, and they departed: and she bound the scarlet line in the window.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOS.2.22",
+      "edition_verse_id": "KJV1769:JOS.2.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "And they went, and came unto the mountain, and abode there three days, until the pursuers were returned: and the pursuers sought ",
+          "kind": "text"
+        },
+        {
+          "text": "them",
+          "kind": "supplied"
+        },
+        {
+          "text": " throughout all the way, but found ",
+          "kind": "text"
+        },
+        {
+          "text": "them",
+          "kind": "supplied"
+        },
+        {
+          "text": " not.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOS.2.23",
+      "edition_verse_id": "KJV1769:JOS.2.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "¶ So the two men returned, and descended from the mountain, and passed over, and came to Joshua the son of Nun, and told him all ",
+          "kind": "text"
+        },
+        {
+          "text": "things",
+          "kind": "supplied"
+        },
+        {
+          "text": " that befell them:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOS.2.24",
+      "edition_verse_id": "KJV1769:JOS.2.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "And they said unto Joshua, Truly the LORD hath delivered into our hands all the land; for even all the inhabitants of the country do faint because of us.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

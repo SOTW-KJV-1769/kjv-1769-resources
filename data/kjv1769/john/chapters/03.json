@@ -1,0 +1,496 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "KJV1769",
+  "book_code": "JHN",
+  "chapter": 3,
+  "verses": [
+    {
+      "id": "JHN.3.1",
+      "edition_verse_id": "KJV1769:JHN.3.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "There was a man of the Pharisees, named Nicodemus, a ruler of the Jews:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JHN.3.2",
+      "edition_verse_id": "KJV1769:JHN.3.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "The same came to Jesus by night, and said unto him, Rabbi, we know that thou art a teacher come from God: for no man can do these miracles that thou doest, except God be with him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.3.3",
+      "edition_verse_id": "KJV1769:JHN.3.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "Jesus answered and said unto him, Verily, verily, I say unto thee, Except a man be born again, he cannot see the kingdom of God.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.3.4",
+      "edition_verse_id": "KJV1769:JHN.3.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "Nicodemus saith unto him, How can a man be born when he is old? can he enter the second time into his mother’s womb, and be born?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.3.5",
+      "edition_verse_id": "KJV1769:JHN.3.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "Jesus answered, Verily, verily, I say unto thee, Except a man be born of water and ",
+          "kind": "text"
+        },
+        {
+          "text": "of",
+          "kind": "supplied"
+        },
+        {
+          "text": " the Spirit, he cannot enter into the kingdom of God.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.3.6",
+      "edition_verse_id": "KJV1769:JHN.3.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "That which is born of the flesh is flesh; and that which is born of the Spirit is spirit.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.3.7",
+      "edition_verse_id": "KJV1769:JHN.3.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "Marvel not that I said unto thee, Ye must be born again.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.3.8",
+      "edition_verse_id": "KJV1769:JHN.3.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "The wind bloweth where it listeth, and thou hearest the sound thereof, but canst not tell whence it cometh, and whither it goeth: so is every one that is born of the Spirit.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.3.9",
+      "edition_verse_id": "KJV1769:JHN.3.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "Nicodemus answered and said unto him, How can these things be?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.3.10",
+      "edition_verse_id": "KJV1769:JHN.3.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "Jesus answered and said unto him, Art thou a master of Israel, and knowest not these things?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.3.11",
+      "edition_verse_id": "KJV1769:JHN.3.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "Verily, verily, I say unto thee, We speak that we do know, and testify that we have seen; and ye receive not our witness.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.3.12",
+      "edition_verse_id": "KJV1769:JHN.3.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "If I have told you earthly things, and ye believe not, how shall ye believe, if I tell you ",
+          "kind": "text"
+        },
+        {
+          "text": "of",
+          "kind": "supplied"
+        },
+        {
+          "text": " heavenly things?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.3.13",
+      "edition_verse_id": "KJV1769:JHN.3.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "And no man hath ascended up to heaven, but he that came down from heaven, ",
+          "kind": "text"
+        },
+        {
+          "text": "even",
+          "kind": "supplied"
+        },
+        {
+          "text": " the Son of man which is in heaven.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.3.14",
+      "edition_verse_id": "KJV1769:JHN.3.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "¶ And as Moses lifted up the serpent in the wilderness, even so must the Son of man be lifted up:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JHN.3.15",
+      "edition_verse_id": "KJV1769:JHN.3.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "That whosoever believeth in him should not perish, but have eternal life.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.3.16",
+      "edition_verse_id": "KJV1769:JHN.3.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "¶ For God so loved the world, that he gave his only begotten Son, that whosoever believeth in him should not perish, but have everlasting life.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JHN.3.17",
+      "edition_verse_id": "KJV1769:JHN.3.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "For God sent not his Son into the world to condemn the world; but that the world through him might be saved.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.3.18",
+      "edition_verse_id": "KJV1769:JHN.3.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "¶ He that believeth on him is not condemned: but he that believeth not is condemned already, because he hath not believed in the name of the only begotten Son of God.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JHN.3.19",
+      "edition_verse_id": "KJV1769:JHN.3.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "And this is the condemnation, that light is come into the world, and men loved darkness rather than light, because their deeds were evil.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.3.20",
+      "edition_verse_id": "KJV1769:JHN.3.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "For every one that doeth evil hateth the light, neither cometh to the light, lest his deeds should be reproved.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.3.21",
+      "edition_verse_id": "KJV1769:JHN.3.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "But he that doeth truth cometh to the light, that his deeds may be made manifest, that they are wrought in God.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.3.22",
+      "edition_verse_id": "KJV1769:JHN.3.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "¶ After these things came Jesus and his disciples into the land of Judæa; and there he tarried with them, and baptized.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JHN.3.23",
+      "edition_verse_id": "KJV1769:JHN.3.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "¶ And John also was baptizing in Ænon near to Salim, because there was much water there: and they came, and were baptized.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JHN.3.24",
+      "edition_verse_id": "KJV1769:JHN.3.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "For John was not yet cast into prison.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.3.25",
+      "edition_verse_id": "KJV1769:JHN.3.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "¶ Then there arose a question between ",
+          "kind": "text"
+        },
+        {
+          "text": "some",
+          "kind": "supplied"
+        },
+        {
+          "text": " of John’s disciples and the Jews about purifying.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JHN.3.26",
+      "edition_verse_id": "KJV1769:JHN.3.26",
+      "verse": 26,
+      "spans": [
+        {
+          "text": "And they came unto John, and said unto him, Rabbi, he that was with thee beyond Jordan, to whom thou barest witness, behold, the same baptizeth, and all ",
+          "kind": "text"
+        },
+        {
+          "text": "men",
+          "kind": "supplied"
+        },
+        {
+          "text": " come to him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.3.27",
+      "edition_verse_id": "KJV1769:JHN.3.27",
+      "verse": 27,
+      "spans": [
+        {
+          "text": "John answered and said, A man can receive nothing, except it be given him from heaven.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.3.28",
+      "edition_verse_id": "KJV1769:JHN.3.28",
+      "verse": 28,
+      "spans": [
+        {
+          "text": "Ye yourselves bear me witness, that I said, I am not the Christ, but that I am sent before him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.3.29",
+      "edition_verse_id": "KJV1769:JHN.3.29",
+      "verse": 29,
+      "spans": [
+        {
+          "text": "He that hath the bride is the bridegroom: but the friend of the bridegroom, which standeth and heareth him, rejoiceth greatly because of the bridegroom’s voice: this my joy therefore is fulfilled.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.3.30",
+      "edition_verse_id": "KJV1769:JHN.3.30",
+      "verse": 30,
+      "spans": [
+        {
+          "text": "He must increase, but I ",
+          "kind": "text"
+        },
+        {
+          "text": "must",
+          "kind": "supplied"
+        },
+        {
+          "text": " decrease.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.3.31",
+      "edition_verse_id": "KJV1769:JHN.3.31",
+      "verse": 31,
+      "spans": [
+        {
+          "text": "He that cometh from above is above all: he that is of the earth is earthly, and speaketh of the earth: he that cometh from heaven is above all.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.3.32",
+      "edition_verse_id": "KJV1769:JHN.3.32",
+      "verse": 32,
+      "spans": [
+        {
+          "text": "And what he hath seen and heard, that he testifieth; and no man receiveth his testimony.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.3.33",
+      "edition_verse_id": "KJV1769:JHN.3.33",
+      "verse": 33,
+      "spans": [
+        {
+          "text": "He that hath received his testimony hath set to his seal that God is true.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.3.34",
+      "edition_verse_id": "KJV1769:JHN.3.34",
+      "verse": 34,
+      "spans": [
+        {
+          "text": "For he whom God hath sent speaketh the words of God: for God giveth not the Spirit by measure ",
+          "kind": "text"
+        },
+        {
+          "text": "unto him",
+          "kind": "supplied"
+        },
+        {
+          "text": ".",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.3.35",
+      "edition_verse_id": "KJV1769:JHN.3.35",
+      "verse": 35,
+      "spans": [
+        {
+          "text": "The Father loveth the Son, and hath given all things into his hand.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.3.36",
+      "edition_verse_id": "KJV1769:JHN.3.36",
+      "verse": 36,
+      "spans": [
+        {
+          "text": "He that believeth on the Son hath everlasting life: and he that believeth not the Son shall not see life; but the wrath of God abideth on him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

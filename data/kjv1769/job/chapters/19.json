@@ -1,0 +1,492 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "KJV1769",
+  "book_code": "JOB",
+  "chapter": 19,
+  "verses": [
+    {
+      "id": "JOB.19.1",
+      "edition_verse_id": "KJV1769:JOB.19.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "Then Job answered and said,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOB.19.2",
+      "edition_verse_id": "KJV1769:JOB.19.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "How long will ye vex my soul, and break me in pieces with words?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.19.3",
+      "edition_verse_id": "KJV1769:JOB.19.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "These ten times have ye reproached me: ye are not ashamed ",
+          "kind": "text"
+        },
+        {
+          "text": "that",
+          "kind": "supplied"
+        },
+        {
+          "text": " ye make yourselves strange to me.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.19.4",
+      "edition_verse_id": "KJV1769:JOB.19.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "And be it indeed ",
+          "kind": "text"
+        },
+        {
+          "text": "that",
+          "kind": "supplied"
+        },
+        {
+          "text": " I have erred, mine error remaineth with myself.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.19.5",
+      "edition_verse_id": "KJV1769:JOB.19.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "If indeed ye will magnify ",
+          "kind": "text"
+        },
+        {
+          "text": "yourselves",
+          "kind": "supplied"
+        },
+        {
+          "text": " against me, and plead against me my reproach:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.19.6",
+      "edition_verse_id": "KJV1769:JOB.19.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "Know now that God hath overthrown me, and hath compassed me with his net.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.19.7",
+      "edition_verse_id": "KJV1769:JOB.19.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "Behold, I cry out of wrong, but I am not heard: I cry aloud, but ",
+          "kind": "text"
+        },
+        {
+          "text": "there is",
+          "kind": "supplied"
+        },
+        {
+          "text": " no judgment.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.19.8",
+      "edition_verse_id": "KJV1769:JOB.19.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "He hath fenced up my way that I cannot pass, and he hath set darkness in my paths.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOB.19.9",
+      "edition_verse_id": "KJV1769:JOB.19.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "He hath stripped me of my glory, and taken the crown ",
+          "kind": "text"
+        },
+        {
+          "text": "from",
+          "kind": "supplied"
+        },
+        {
+          "text": " my head.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.19.10",
+      "edition_verse_id": "KJV1769:JOB.19.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "He hath destroyed me on every side, and I am gone: and mine hope hath he removed like a tree.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.19.11",
+      "edition_verse_id": "KJV1769:JOB.19.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "He hath also kindled his wrath against me, and he counteth me unto him as ",
+          "kind": "text"
+        },
+        {
+          "text": "one of",
+          "kind": "supplied"
+        },
+        {
+          "text": " his enemies.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.19.12",
+      "edition_verse_id": "KJV1769:JOB.19.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "His troops come together, and raise up their way against me, and encamp round about my tabernacle.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.19.13",
+      "edition_verse_id": "KJV1769:JOB.19.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "He hath put my brethren far from me, and mine acquaintance are verily estranged from me.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.19.14",
+      "edition_verse_id": "KJV1769:JOB.19.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "My kinsfolk have failed, and my familiar friends have forgotten me.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.19.15",
+      "edition_verse_id": "KJV1769:JOB.19.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "They that dwell in mine house, and my maids, count me for a stranger: I am an alien in their sight.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.19.16",
+      "edition_verse_id": "KJV1769:JOB.19.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "I called my servant, and he gave ",
+          "kind": "text"
+        },
+        {
+          "text": "me",
+          "kind": "supplied"
+        },
+        {
+          "text": " no answer; I intreated him with my mouth.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.19.17",
+      "edition_verse_id": "KJV1769:JOB.19.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "My breath is strange to my wife, though I intreated for the children’s ",
+          "kind": "text"
+        },
+        {
+          "text": "sake",
+          "kind": "supplied"
+        },
+        {
+          "text": " of mine own body.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.19.18",
+      "edition_verse_id": "KJV1769:JOB.19.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "Yea, young children despised me; I arose, and they spake against me.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.19.19",
+      "edition_verse_id": "KJV1769:JOB.19.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "All my inward friends abhorred me: and they whom I loved are turned against me.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.19.20",
+      "edition_verse_id": "KJV1769:JOB.19.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "My bone cleaveth to my skin and to my flesh, and I am escaped with the skin of my teeth.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.19.21",
+      "edition_verse_id": "KJV1769:JOB.19.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "Have pity upon me, have pity upon me, O ye my friends; for the hand of God hath touched me.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.19.22",
+      "edition_verse_id": "KJV1769:JOB.19.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "Why do ye persecute me as God, and are not satisfied with my flesh?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.19.23",
+      "edition_verse_id": "KJV1769:JOB.19.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "Oh that my words were now written! oh that they were printed in a book!",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOB.19.24",
+      "edition_verse_id": "KJV1769:JOB.19.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "That they were graven with an iron pen and lead in the rock for ever!",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.19.25",
+      "edition_verse_id": "KJV1769:JOB.19.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "For I know ",
+          "kind": "text"
+        },
+        {
+          "text": "that",
+          "kind": "supplied"
+        },
+        {
+          "text": " my redeemer liveth, and ",
+          "kind": "text"
+        },
+        {
+          "text": "that",
+          "kind": "supplied"
+        },
+        {
+          "text": " he shall stand at the latter ",
+          "kind": "text"
+        },
+        {
+          "text": "day",
+          "kind": "supplied"
+        },
+        {
+          "text": " upon the earth:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.19.26",
+      "edition_verse_id": "KJV1769:JOB.19.26",
+      "verse": 26,
+      "spans": [
+        {
+          "text": "And ",
+          "kind": "text"
+        },
+        {
+          "text": "though",
+          "kind": "supplied"
+        },
+        {
+          "text": " after my skin ",
+          "kind": "text"
+        },
+        {
+          "text": "worms",
+          "kind": "supplied"
+        },
+        {
+          "text": " destroy this ",
+          "kind": "text"
+        },
+        {
+          "text": "body",
+          "kind": "supplied"
+        },
+        {
+          "text": ", yet in my flesh shall I see God:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.19.27",
+      "edition_verse_id": "KJV1769:JOB.19.27",
+      "verse": 27,
+      "spans": [
+        {
+          "text": "Whom I shall see for myself, and mine eyes shall behold, and not another; ",
+          "kind": "text"
+        },
+        {
+          "text": "though",
+          "kind": "supplied"
+        },
+        {
+          "text": " my reins be consumed within me.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.19.28",
+      "edition_verse_id": "KJV1769:JOB.19.28",
+      "verse": 28,
+      "spans": [
+        {
+          "text": "But ye should say, Why persecute we him, seeing the root of the matter is found in me?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.19.29",
+      "edition_verse_id": "KJV1769:JOB.19.29",
+      "verse": 29,
+      "spans": [
+        {
+          "text": "Be ye afraid of the sword: for wrath ",
+          "kind": "text"
+        },
+        {
+          "text": "bringeth",
+          "kind": "supplied"
+        },
+        {
+          "text": " the punishments of the sword, that ye may know ",
+          "kind": "text"
+        },
+        {
+          "text": "there is",
+          "kind": "supplied"
+        },
+        {
+          "text": " a judgment.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

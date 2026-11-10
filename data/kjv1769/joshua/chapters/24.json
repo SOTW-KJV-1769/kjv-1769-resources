@@ -1,0 +1,540 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "KJV1769",
+  "book_code": "JOS",
+  "chapter": 24,
+  "verses": [
+    {
+      "id": "JOS.24.1",
+      "edition_verse_id": "KJV1769:JOS.24.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "And Joshua gathered all the tribes of Israel to Shechem, and called for the elders of Israel, and for their heads, and for their judges, and for their officers; and they presented themselves before God.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOS.24.2",
+      "edition_verse_id": "KJV1769:JOS.24.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "And Joshua said unto all the people, Thus saith the LORD God of Israel, Your fathers dwelt on the other side of the flood in old time, ",
+          "kind": "text"
+        },
+        {
+          "text": "even",
+          "kind": "supplied"
+        },
+        {
+          "text": " Terah, the father of Abraham, and the father of Nachor: and they served other gods.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOS.24.3",
+      "edition_verse_id": "KJV1769:JOS.24.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "And I took your father Abraham from the other side of the flood, and led him throughout all the land of Canaan, and multiplied his seed, and gave him Isaac.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOS.24.4",
+      "edition_verse_id": "KJV1769:JOS.24.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "And I gave unto Isaac Jacob and Esau: and I gave unto Esau mount Seir, to possess it; but Jacob and his children went down into Egypt.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOS.24.5",
+      "edition_verse_id": "KJV1769:JOS.24.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "I sent Moses also and Aaron, and I plagued Egypt, according to that which I did among them: and afterward I brought you out.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOS.24.6",
+      "edition_verse_id": "KJV1769:JOS.24.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "And I brought your fathers out of Egypt: and ye came unto the sea; and the Egyptians pursued after your fathers with chariots and horsemen unto the Red sea.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOS.24.7",
+      "edition_verse_id": "KJV1769:JOS.24.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "And when they cried unto the LORD, he put darkness between you and the Egyptians, and brought the sea upon them, and covered them; and your eyes have seen what I have done in Egypt: and ye dwelt in the wilderness a long season.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOS.24.8",
+      "edition_verse_id": "KJV1769:JOS.24.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "And I brought you into the land of the Amorites, which dwelt on the other side Jordan; and they fought with you: and I gave them into your hand, that ye might possess their land; and I destroyed them from before you.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOS.24.9",
+      "edition_verse_id": "KJV1769:JOS.24.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "Then Balak the son of Zippor, king of Moab, arose and warred against Israel, and sent and called Balaam the son of Beor to curse you:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOS.24.10",
+      "edition_verse_id": "KJV1769:JOS.24.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "But I would not hearken unto Balaam; therefore he blessed you still: so I delivered you out of his hand.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOS.24.11",
+      "edition_verse_id": "KJV1769:JOS.24.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "And ye went over Jordan, and came unto Jericho: and the men of Jericho fought against you, the Amorites, and the Perizzites, and the Canaanites, and the Hittites, and the Girgashites, the Hivites, and the Jebusites; and I delivered them into your hand.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOS.24.12",
+      "edition_verse_id": "KJV1769:JOS.24.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "And I sent the hornet before you, which drave them out from before you, ",
+          "kind": "text"
+        },
+        {
+          "text": "even",
+          "kind": "supplied"
+        },
+        {
+          "text": " the two kings of the Amorites; ",
+          "kind": "text"
+        },
+        {
+          "text": "but",
+          "kind": "supplied"
+        },
+        {
+          "text": " not with thy sword, nor with thy bow.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOS.24.13",
+      "edition_verse_id": "KJV1769:JOS.24.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "And I have given you a land for which ye did not labour, and cities which ye built not, and ye dwell in them; of the vineyards and oliveyards which ye planted not do ye eat.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOS.24.14",
+      "edition_verse_id": "KJV1769:JOS.24.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "¶ Now therefore fear the LORD, and serve him in sincerity and in truth: and put away the gods which your fathers served on the other side of the flood, and in Egypt; and serve ye the LORD.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOS.24.15",
+      "edition_verse_id": "KJV1769:JOS.24.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "And if it seem evil unto you to serve the LORD, choose you this day whom ye will serve; whether the gods which your fathers served that ",
+          "kind": "text"
+        },
+        {
+          "text": "were",
+          "kind": "supplied"
+        },
+        {
+          "text": " on the other side of the flood, or the gods of the Amorites, in whose land ye dwell: but as for me and my house, we will serve the LORD.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOS.24.16",
+      "edition_verse_id": "KJV1769:JOS.24.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "And the people answered and said, God forbid that we should forsake the LORD, to serve other gods;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOS.24.17",
+      "edition_verse_id": "KJV1769:JOS.24.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "For the LORD our God, he ",
+          "kind": "text"
+        },
+        {
+          "text": "it is",
+          "kind": "supplied"
+        },
+        {
+          "text": " that brought us up and our fathers out of the land of Egypt, from the house of bondage, and which did those great signs in our sight, and preserved us in all the way wherein we went, and among all the people through whom we passed:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOS.24.18",
+      "edition_verse_id": "KJV1769:JOS.24.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "And the LORD drave out from before us all the people, even the Amorites which dwelt in the land: ",
+          "kind": "text"
+        },
+        {
+          "text": "therefore",
+          "kind": "supplied"
+        },
+        {
+          "text": " will we also serve the LORD; for he ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " our God.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOS.24.19",
+      "edition_verse_id": "KJV1769:JOS.24.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "And Joshua said unto the people, Ye cannot serve the LORD: for he ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " an holy God; he ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " a jealous God; he will not forgive your transgressions nor your sins.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOS.24.20",
+      "edition_verse_id": "KJV1769:JOS.24.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "If ye forsake the LORD, and serve strange gods, then he will turn and do you hurt, and consume you, after that he hath done you good.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOS.24.21",
+      "edition_verse_id": "KJV1769:JOS.24.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "And the people said unto Joshua, Nay; but we will serve the LORD.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOS.24.22",
+      "edition_verse_id": "KJV1769:JOS.24.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "And Joshua said unto the people, Ye ",
+          "kind": "text"
+        },
+        {
+          "text": "are",
+          "kind": "supplied"
+        },
+        {
+          "text": " witnesses against yourselves that ye have chosen you the LORD, to serve him. And they said, ",
+          "kind": "text"
+        },
+        {
+          "text": "We are",
+          "kind": "supplied"
+        },
+        {
+          "text": " witnesses.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOS.24.23",
+      "edition_verse_id": "KJV1769:JOS.24.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "Now therefore put away, ",
+          "kind": "text"
+        },
+        {
+          "text": "said he",
+          "kind": "supplied"
+        },
+        {
+          "text": ", the strange gods which ",
+          "kind": "text"
+        },
+        {
+          "text": "are",
+          "kind": "supplied"
+        },
+        {
+          "text": " among you, and incline your heart unto the LORD God of Israel.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOS.24.24",
+      "edition_verse_id": "KJV1769:JOS.24.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "And the people said unto Joshua, The LORD our God will we serve, and his voice will we obey.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOS.24.25",
+      "edition_verse_id": "KJV1769:JOS.24.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "So Joshua made a covenant with the people that day, and set them a statute and an ordinance in Shechem.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOS.24.26",
+      "edition_verse_id": "KJV1769:JOS.24.26",
+      "verse": 26,
+      "spans": [
+        {
+          "text": "¶ And Joshua wrote these words in the book of the law of God, and took a great stone, and set it up there under an oak, that ",
+          "kind": "text"
+        },
+        {
+          "text": "was",
+          "kind": "supplied"
+        },
+        {
+          "text": " by the sanctuary of the LORD.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOS.24.27",
+      "edition_verse_id": "KJV1769:JOS.24.27",
+      "verse": 27,
+      "spans": [
+        {
+          "text": "And Joshua said unto all the people, Behold, this stone shall be a witness unto us; for it hath heard all the words of the LORD which he spake unto us: it shall be therefore a witness unto you, lest ye deny your God.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOS.24.28",
+      "edition_verse_id": "KJV1769:JOS.24.28",
+      "verse": 28,
+      "spans": [
+        {
+          "text": "So Joshua let the people depart, every man unto his inheritance.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOS.24.29",
+      "edition_verse_id": "KJV1769:JOS.24.29",
+      "verse": 29,
+      "spans": [
+        {
+          "text": "¶ And it came to pass after these things, that Joshua the son of Nun, the servant of the LORD, died, ",
+          "kind": "text"
+        },
+        {
+          "text": "being",
+          "kind": "supplied"
+        },
+        {
+          "text": " an hundred and ten years old.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOS.24.30",
+      "edition_verse_id": "KJV1769:JOS.24.30",
+      "verse": 30,
+      "spans": [
+        {
+          "text": "And they buried him in the border of his inheritance in Timnath-serah, which ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " in mount Ephraim, on the north side of the hill of Gaash.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOS.24.31",
+      "edition_verse_id": "KJV1769:JOS.24.31",
+      "verse": 31,
+      "spans": [
+        {
+          "text": "And Israel served the LORD all the days of Joshua, and all the days of the elders that overlived Joshua, and which had known all the works of the LORD, that he had done for Israel.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOS.24.32",
+      "edition_verse_id": "KJV1769:JOS.24.32",
+      "verse": 32,
+      "spans": [
+        {
+          "text": "¶ And the bones of Joseph, which the children of Israel brought up out of Egypt, buried they in Shechem, in a parcel of ground which Jacob bought of the sons of Hamor the father of Shechem for an hundred pieces of silver: and it became the inheritance of the children of Joseph.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOS.24.33",
+      "edition_verse_id": "KJV1769:JOS.24.33",
+      "verse": 33,
+      "spans": [
+        {
+          "text": "And Eleazar the son of Aaron died; and they buried him in a hill ",
+          "kind": "text"
+        },
+        {
+          "text": "that pertained to",
+          "kind": "supplied"
+        },
+        {
+          "text": " Phinehas his son, which was given him in mount Ephraim.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

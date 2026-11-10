@@ -1,0 +1,520 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "KJV1769",
+  "book_code": "JOB",
+  "chapter": 33,
+  "verses": [
+    {
+      "id": "JOB.33.1",
+      "edition_verse_id": "KJV1769:JOB.33.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "Wherefore, Job, I pray thee, hear my speeches, and hearken to all my words.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOB.33.2",
+      "edition_verse_id": "KJV1769:JOB.33.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "Behold, now I have opened my mouth, my tongue hath spoken in my mouth.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.33.3",
+      "edition_verse_id": "KJV1769:JOB.33.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "My words ",
+          "kind": "text"
+        },
+        {
+          "text": "shall be of",
+          "kind": "supplied"
+        },
+        {
+          "text": " the uprightness of my heart: and my lips shall utter knowledge clearly.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.33.4",
+      "edition_verse_id": "KJV1769:JOB.33.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "The Spirit of God hath made me, and the breath of the Almighty hath given me life.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.33.5",
+      "edition_verse_id": "KJV1769:JOB.33.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "If thou canst answer me, set ",
+          "kind": "text"
+        },
+        {
+          "text": "thy words",
+          "kind": "supplied"
+        },
+        {
+          "text": " in order before me, stand up.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.33.6",
+      "edition_verse_id": "KJV1769:JOB.33.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "Behold, I ",
+          "kind": "text"
+        },
+        {
+          "text": "am",
+          "kind": "supplied"
+        },
+        {
+          "text": " according to thy wish in God’s stead: I also am formed out of the clay.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.33.7",
+      "edition_verse_id": "KJV1769:JOB.33.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "Behold, my terror shall not make thee afraid, neither shall my hand be heavy upon thee.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.33.8",
+      "edition_verse_id": "KJV1769:JOB.33.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "Surely thou hast spoken in mine hearing, and I have heard the voice of ",
+          "kind": "text"
+        },
+        {
+          "text": "thy",
+          "kind": "supplied"
+        },
+        {
+          "text": " words, ",
+          "kind": "text"
+        },
+        {
+          "text": "saying",
+          "kind": "supplied"
+        },
+        {
+          "text": ",",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOB.33.9",
+      "edition_verse_id": "KJV1769:JOB.33.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "I am clean without transgression, I ",
+          "kind": "text"
+        },
+        {
+          "text": "am",
+          "kind": "supplied"
+        },
+        {
+          "text": " innocent; neither ",
+          "kind": "text"
+        },
+        {
+          "text": "is there",
+          "kind": "supplied"
+        },
+        {
+          "text": " iniquity in me.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.33.10",
+      "edition_verse_id": "KJV1769:JOB.33.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "Behold, he findeth occasions against me, he counteth me for his enemy,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.33.11",
+      "edition_verse_id": "KJV1769:JOB.33.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "He putteth my feet in the stocks, he marketh all my paths.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.33.12",
+      "edition_verse_id": "KJV1769:JOB.33.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "Behold, ",
+          "kind": "text"
+        },
+        {
+          "text": "in",
+          "kind": "supplied"
+        },
+        {
+          "text": " this thou art not just: I will answer thee, that God is greater than man.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.33.13",
+      "edition_verse_id": "KJV1769:JOB.33.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "Why dost thou strive against him? for he giveth not account of any of his matters.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.33.14",
+      "edition_verse_id": "KJV1769:JOB.33.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "For God speaketh once, yea twice, ",
+          "kind": "text"
+        },
+        {
+          "text": "yet man",
+          "kind": "supplied"
+        },
+        {
+          "text": " perceiveth it not.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOB.33.15",
+      "edition_verse_id": "KJV1769:JOB.33.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "In a dream, in a vision of the night, when deep sleep falleth upon men, in slumberings upon the bed;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.33.16",
+      "edition_verse_id": "KJV1769:JOB.33.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "Then he openeth the ears of men, and sealeth their instruction,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.33.17",
+      "edition_verse_id": "KJV1769:JOB.33.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "That he may withdraw man ",
+          "kind": "text"
+        },
+        {
+          "text": "from his",
+          "kind": "supplied"
+        },
+        {
+          "text": " purpose, and hide pride from man.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.33.18",
+      "edition_verse_id": "KJV1769:JOB.33.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "He keepeth back his soul from the pit, and his life from perishing by the sword.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.33.19",
+      "edition_verse_id": "KJV1769:JOB.33.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "He is chastened also with pain upon his bed, and the multitude of his bones with strong ",
+          "kind": "text"
+        },
+        {
+          "text": "pain:",
+          "kind": "supplied"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOB.33.20",
+      "edition_verse_id": "KJV1769:JOB.33.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "So that his life abhorreth bread, and his soul dainty meat.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.33.21",
+      "edition_verse_id": "KJV1769:JOB.33.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "His flesh is consumed away, that it cannot be seen; and his bones ",
+          "kind": "text"
+        },
+        {
+          "text": "that",
+          "kind": "supplied"
+        },
+        {
+          "text": " were not seen stick out.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.33.22",
+      "edition_verse_id": "KJV1769:JOB.33.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "Yea, his soul draweth near unto the grave, and his life to the destroyers.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.33.23",
+      "edition_verse_id": "KJV1769:JOB.33.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "If there be a messenger with him, an interpreter, one among a thousand, to shew unto man his uprightness:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.33.24",
+      "edition_verse_id": "KJV1769:JOB.33.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "Then he is gracious unto him, and saith, Deliver him from going down to the pit: I have found a ransom.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.33.25",
+      "edition_verse_id": "KJV1769:JOB.33.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "His flesh shall be fresher than a child’s: he shall return to the days of his youth:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.33.26",
+      "edition_verse_id": "KJV1769:JOB.33.26",
+      "verse": 26,
+      "spans": [
+        {
+          "text": "He shall pray unto God, and he will be favourable unto him: and he shall see his face with joy: for he will render unto man his righteousness.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.33.27",
+      "edition_verse_id": "KJV1769:JOB.33.27",
+      "verse": 27,
+      "spans": [
+        {
+          "text": "He looketh upon men, and ",
+          "kind": "text"
+        },
+        {
+          "text": "if any",
+          "kind": "supplied"
+        },
+        {
+          "text": " say, I have sinned, and perverted ",
+          "kind": "text"
+        },
+        {
+          "text": "that which was",
+          "kind": "supplied"
+        },
+        {
+          "text": " right, and it profited me not;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.33.28",
+      "edition_verse_id": "KJV1769:JOB.33.28",
+      "verse": 28,
+      "spans": [
+        {
+          "text": "He will deliver his soul from going into the pit, and his life shall see the light.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.33.29",
+      "edition_verse_id": "KJV1769:JOB.33.29",
+      "verse": 29,
+      "spans": [
+        {
+          "text": "Lo, all these ",
+          "kind": "text"
+        },
+        {
+          "text": "things",
+          "kind": "supplied"
+        },
+        {
+          "text": " worketh God oftentimes with man,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOB.33.30",
+      "edition_verse_id": "KJV1769:JOB.33.30",
+      "verse": 30,
+      "spans": [
+        {
+          "text": "To bring back his soul from the pit, to be enlightened with the light of the living.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.33.31",
+      "edition_verse_id": "KJV1769:JOB.33.31",
+      "verse": 31,
+      "spans": [
+        {
+          "text": "Mark well, O Job, hearken unto me: hold thy peace, and I will speak.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.33.32",
+      "edition_verse_id": "KJV1769:JOB.33.32",
+      "verse": 32,
+      "spans": [
+        {
+          "text": "If thou hast any thing to say, answer me: speak, for I desire to justify thee.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.33.33",
+      "edition_verse_id": "KJV1769:JOB.33.33",
+      "verse": 33,
+      "spans": [
+        {
+          "text": "If not, hearken unto me: hold thy peace, and I shall teach thee wisdom.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

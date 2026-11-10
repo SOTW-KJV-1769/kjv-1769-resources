@@ -1,0 +1,952 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "KJV1769",
+  "book_code": "JHN",
+  "chapter": 6,
+  "verses": [
+    {
+      "id": "JHN.6.1",
+      "edition_verse_id": "KJV1769:JHN.6.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "After these things Jesus went over the sea of Galilee, which is ",
+          "kind": "text"
+        },
+        {
+          "text": "the sea",
+          "kind": "supplied"
+        },
+        {
+          "text": " of Tiberias.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JHN.6.2",
+      "edition_verse_id": "KJV1769:JHN.6.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "And a great multitude followed him, because they saw his miracles which he did on them that were diseased.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.6.3",
+      "edition_verse_id": "KJV1769:JHN.6.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "And Jesus went up into a mountain, and there he sat with his disciples.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.6.4",
+      "edition_verse_id": "KJV1769:JHN.6.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "And the passover, a feast of the Jews, was nigh.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.6.5",
+      "edition_verse_id": "KJV1769:JHN.6.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "¶ When Jesus then lifted up ",
+          "kind": "text"
+        },
+        {
+          "text": "his",
+          "kind": "supplied"
+        },
+        {
+          "text": " eyes, and saw a great company come unto him, he saith unto Philip, Whence shall we buy bread, that these may eat?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JHN.6.6",
+      "edition_verse_id": "KJV1769:JHN.6.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "And this he said to prove him: for he himself knew what he would do.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.6.7",
+      "edition_verse_id": "KJV1769:JHN.6.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "Philip answered him, Two hundred pennyworth of bread is not sufficient for them, that every one of them may take a little.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.6.8",
+      "edition_verse_id": "KJV1769:JHN.6.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "One of his disciples, Andrew, Simon Peter’s brother, saith unto him,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.6.9",
+      "edition_verse_id": "KJV1769:JHN.6.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "There is a lad here, which hath five barley loaves, and two small fishes: but what are they among so many?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.6.10",
+      "edition_verse_id": "KJV1769:JHN.6.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "And Jesus said, Make the men sit down. Now there was much grass in the place. So the men sat down, in number about five thousand.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.6.11",
+      "edition_verse_id": "KJV1769:JHN.6.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "And Jesus took the loaves; and when he had given thanks, he distributed to the disciples, and the disciples to them that were set down; and likewise of the fishes as much as they would.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.6.12",
+      "edition_verse_id": "KJV1769:JHN.6.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "When they were filled, he said unto his disciples, Gather up the fragments that remain, that nothing be lost.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.6.13",
+      "edition_verse_id": "KJV1769:JHN.6.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "Therefore they gathered ",
+          "kind": "text"
+        },
+        {
+          "text": "them",
+          "kind": "supplied"
+        },
+        {
+          "text": " together, and filled twelve baskets with the fragments of the five barley loaves, which remained over and above unto them that had eaten.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.6.14",
+      "edition_verse_id": "KJV1769:JHN.6.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "Then those men, when they had seen the miracle that Jesus did, said, This is of a truth that prophet that should come into the world.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.6.15",
+      "edition_verse_id": "KJV1769:JHN.6.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "¶ When Jesus therefore perceived that they would come and take him by force, to make him a king, he departed again into a mountain himself alone.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JHN.6.16",
+      "edition_verse_id": "KJV1769:JHN.6.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "And when even was ",
+          "kind": "text"
+        },
+        {
+          "text": "now",
+          "kind": "supplied"
+        },
+        {
+          "text": " come, his disciples went down unto the sea,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.6.17",
+      "edition_verse_id": "KJV1769:JHN.6.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "And entered into a ship, and went over the sea toward Capernaum. And it was now dark, and Jesus was not come to them.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.6.18",
+      "edition_verse_id": "KJV1769:JHN.6.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "And the sea arose by reason of a great wind that blew.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.6.19",
+      "edition_verse_id": "KJV1769:JHN.6.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "So when they had rowed about five and twenty or thirty furlongs, they see Jesus walking on the sea, and drawing nigh unto the ship: and they were afraid.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.6.20",
+      "edition_verse_id": "KJV1769:JHN.6.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "But he saith unto them, It is I; be not afraid.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.6.21",
+      "edition_verse_id": "KJV1769:JHN.6.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "Then they willingly received him into the ship: and immediately the ship was at the land whither they went.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.6.22",
+      "edition_verse_id": "KJV1769:JHN.6.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "¶ The day following, when the people which stood on the other side of the sea saw that there was none other boat there, save that one whereinto his disciples were entered, and that Jesus went not with his disciples into the boat, but ",
+          "kind": "text"
+        },
+        {
+          "text": "that",
+          "kind": "supplied"
+        },
+        {
+          "text": " his disciples were gone away alone;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JHN.6.23",
+      "edition_verse_id": "KJV1769:JHN.6.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "(Howbeit there came other boats from Tiberias nigh unto the place where they did eat bread, after that the Lord had given thanks:)",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.6.24",
+      "edition_verse_id": "KJV1769:JHN.6.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "When the people therefore saw that Jesus was not there, neither his disciples, they also took shipping, and came to Capernaum, seeking for Jesus.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.6.25",
+      "edition_verse_id": "KJV1769:JHN.6.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "And when they had found him on the other side of the sea, they said unto him, Rabbi, when camest thou hither?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.6.26",
+      "edition_verse_id": "KJV1769:JHN.6.26",
+      "verse": 26,
+      "spans": [
+        {
+          "text": "Jesus answered them and said, Verily, verily, I say unto you, Ye seek me, not because ye saw the miracles, but because ye did eat of the loaves, and were filled.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.6.27",
+      "edition_verse_id": "KJV1769:JHN.6.27",
+      "verse": 27,
+      "spans": [
+        {
+          "text": "Labour not for the meat which perisheth, but for that meat which endureth unto everlasting life, which the Son of man shall give unto you: for him hath God the Father sealed.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.6.28",
+      "edition_verse_id": "KJV1769:JHN.6.28",
+      "verse": 28,
+      "spans": [
+        {
+          "text": "Then said they unto him, What shall we do, that we might work the works of God?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.6.29",
+      "edition_verse_id": "KJV1769:JHN.6.29",
+      "verse": 29,
+      "spans": [
+        {
+          "text": "Jesus answered and said unto them, This is the work of God, that ye believe on him whom he hath sent.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.6.30",
+      "edition_verse_id": "KJV1769:JHN.6.30",
+      "verse": 30,
+      "spans": [
+        {
+          "text": "They said therefore unto him, What sign shewest thou then, that we may see, and believe thee? what dost thou work?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.6.31",
+      "edition_verse_id": "KJV1769:JHN.6.31",
+      "verse": 31,
+      "spans": [
+        {
+          "text": "Our fathers did eat manna in the desert; as it is written, He gave them bread from heaven to eat.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.6.32",
+      "edition_verse_id": "KJV1769:JHN.6.32",
+      "verse": 32,
+      "spans": [
+        {
+          "text": "Then Jesus said unto them, Verily, verily, I say unto you, Moses gave you not that bread from heaven; but my Father giveth you the true bread from heaven.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.6.33",
+      "edition_verse_id": "KJV1769:JHN.6.33",
+      "verse": 33,
+      "spans": [
+        {
+          "text": "For the bread of God is he which cometh down from heaven, and giveth life unto the world.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.6.34",
+      "edition_verse_id": "KJV1769:JHN.6.34",
+      "verse": 34,
+      "spans": [
+        {
+          "text": "Then said they unto him, Lord, evermore give us this bread.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.6.35",
+      "edition_verse_id": "KJV1769:JHN.6.35",
+      "verse": 35,
+      "spans": [
+        {
+          "text": "And Jesus said unto them, I am the bread of life: he that cometh to me shall never hunger; and he that believeth on me shall never thirst.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.6.36",
+      "edition_verse_id": "KJV1769:JHN.6.36",
+      "verse": 36,
+      "spans": [
+        {
+          "text": "But I said unto you, That ye also have seen me, and believe not.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.6.37",
+      "edition_verse_id": "KJV1769:JHN.6.37",
+      "verse": 37,
+      "spans": [
+        {
+          "text": "All that the Father giveth me shall come to me; and him that cometh to me I will in no wise cast out.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.6.38",
+      "edition_verse_id": "KJV1769:JHN.6.38",
+      "verse": 38,
+      "spans": [
+        {
+          "text": "For I came down from heaven, not to do mine own will, but the will of him that sent me.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.6.39",
+      "edition_verse_id": "KJV1769:JHN.6.39",
+      "verse": 39,
+      "spans": [
+        {
+          "text": "And this is the Father’s will which hath sent me, that of all which he hath given me I should lose nothing, but should raise it up again at the last day.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.6.40",
+      "edition_verse_id": "KJV1769:JHN.6.40",
+      "verse": 40,
+      "spans": [
+        {
+          "text": "And this is the will of him that sent me, that every one which seeth the Son, and believeth on him, may have everlasting life: and I will raise him up at the last day.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.6.41",
+      "edition_verse_id": "KJV1769:JHN.6.41",
+      "verse": 41,
+      "spans": [
+        {
+          "text": "The Jews then murmured at him, because he said, I am the bread which came down from heaven.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.6.42",
+      "edition_verse_id": "KJV1769:JHN.6.42",
+      "verse": 42,
+      "spans": [
+        {
+          "text": "And they said, Is not this Jesus, the son of Joseph, whose father and mother we know? how is it then that he saith, I came down from heaven?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.6.43",
+      "edition_verse_id": "KJV1769:JHN.6.43",
+      "verse": 43,
+      "spans": [
+        {
+          "text": "Jesus therefore answered and said unto them, Murmur not among yourselves.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.6.44",
+      "edition_verse_id": "KJV1769:JHN.6.44",
+      "verse": 44,
+      "spans": [
+        {
+          "text": "No man can come to me, except the Father which hath sent me draw him: and I will raise him up at the last day.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.6.45",
+      "edition_verse_id": "KJV1769:JHN.6.45",
+      "verse": 45,
+      "spans": [
+        {
+          "text": "It is written in the prophets, And they shall be all taught of God. Every man therefore that hath heard, and hath learned of the Father, cometh unto me.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.6.46",
+      "edition_verse_id": "KJV1769:JHN.6.46",
+      "verse": 46,
+      "spans": [
+        {
+          "text": "Not that any man hath seen the Father, save he which is of God, he hath seen the Father.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.6.47",
+      "edition_verse_id": "KJV1769:JHN.6.47",
+      "verse": 47,
+      "spans": [
+        {
+          "text": "Verily, verily, I say unto you, He that believeth on me hath everlasting life.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.6.48",
+      "edition_verse_id": "KJV1769:JHN.6.48",
+      "verse": 48,
+      "spans": [
+        {
+          "text": "I am that bread of life.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.6.49",
+      "edition_verse_id": "KJV1769:JHN.6.49",
+      "verse": 49,
+      "spans": [
+        {
+          "text": "Your fathers did eat manna in the wilderness, and are dead.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.6.50",
+      "edition_verse_id": "KJV1769:JHN.6.50",
+      "verse": 50,
+      "spans": [
+        {
+          "text": "This is the bread which cometh down from heaven, that a man may eat thereof, and not die.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.6.51",
+      "edition_verse_id": "KJV1769:JHN.6.51",
+      "verse": 51,
+      "spans": [
+        {
+          "text": "I am the living bread which came down from heaven: if any man eat of this bread, he shall live for ever: and the bread that I will give is my flesh, which I will give for the life of the world.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.6.52",
+      "edition_verse_id": "KJV1769:JHN.6.52",
+      "verse": 52,
+      "spans": [
+        {
+          "text": "The Jews therefore strove among themselves, saying, How can this man give us ",
+          "kind": "text"
+        },
+        {
+          "text": "his",
+          "kind": "supplied"
+        },
+        {
+          "text": " flesh to eat?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.6.53",
+      "edition_verse_id": "KJV1769:JHN.6.53",
+      "verse": 53,
+      "spans": [
+        {
+          "text": "Then Jesus said unto them, Verily, verily, I say unto you, Except ye eat the flesh of the Son of man, and drink his blood, ye have no life in you.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.6.54",
+      "edition_verse_id": "KJV1769:JHN.6.54",
+      "verse": 54,
+      "spans": [
+        {
+          "text": "Whoso eateth my flesh, and drinketh my blood, hath eternal life; and I will raise him up at the last day.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.6.55",
+      "edition_verse_id": "KJV1769:JHN.6.55",
+      "verse": 55,
+      "spans": [
+        {
+          "text": "For my flesh is meat indeed, and my blood is drink indeed.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.6.56",
+      "edition_verse_id": "KJV1769:JHN.6.56",
+      "verse": 56,
+      "spans": [
+        {
+          "text": "He that eateth my flesh, and drinketh my blood, dwelleth in me, and I in him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.6.57",
+      "edition_verse_id": "KJV1769:JHN.6.57",
+      "verse": 57,
+      "spans": [
+        {
+          "text": "As the living Father hath sent me, and I live by the Father: so he that eateth me, even he shall live by me.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.6.58",
+      "edition_verse_id": "KJV1769:JHN.6.58",
+      "verse": 58,
+      "spans": [
+        {
+          "text": "This is that bread which came down from heaven: not as your fathers did eat manna, and are dead: he that eateth of this bread shall live for ever.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.6.59",
+      "edition_verse_id": "KJV1769:JHN.6.59",
+      "verse": 59,
+      "spans": [
+        {
+          "text": "These things said he in the synagogue, as he taught in Capernaum.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.6.60",
+      "edition_verse_id": "KJV1769:JHN.6.60",
+      "verse": 60,
+      "spans": [
+        {
+          "text": "Many therefore of his disciples, when they had heard ",
+          "kind": "text"
+        },
+        {
+          "text": "this",
+          "kind": "supplied"
+        },
+        {
+          "text": ", said, This is an hard saying; who can hear it?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.6.61",
+      "edition_verse_id": "KJV1769:JHN.6.61",
+      "verse": 61,
+      "spans": [
+        {
+          "text": "When Jesus knew in himself that his disciples murmured at it, he said unto them, Doth this offend you?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.6.62",
+      "edition_verse_id": "KJV1769:JHN.6.62",
+      "verse": 62,
+      "spans": [
+        {
+          "text": "What",
+          "kind": "supplied"
+        },
+        {
+          "text": " and if ye shall see the Son of man ascend up where he was before?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.6.63",
+      "edition_verse_id": "KJV1769:JHN.6.63",
+      "verse": 63,
+      "spans": [
+        {
+          "text": "It is the spirit that quickeneth; the flesh profiteth nothing: the words that I speak unto you, ",
+          "kind": "text"
+        },
+        {
+          "text": "they",
+          "kind": "supplied"
+        },
+        {
+          "text": " are spirit, and ",
+          "kind": "text"
+        },
+        {
+          "text": "they",
+          "kind": "supplied"
+        },
+        {
+          "text": " are life.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.6.64",
+      "edition_verse_id": "KJV1769:JHN.6.64",
+      "verse": 64,
+      "spans": [
+        {
+          "text": "But there are some of you that believe not. For Jesus knew from the beginning who they were that believed not, and who should betray him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.6.65",
+      "edition_verse_id": "KJV1769:JHN.6.65",
+      "verse": 65,
+      "spans": [
+        {
+          "text": "And he said, Therefore said I unto you, that no man can come unto me, except it were given unto him of my Father.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.6.66",
+      "edition_verse_id": "KJV1769:JHN.6.66",
+      "verse": 66,
+      "spans": [
+        {
+          "text": "¶ From that ",
+          "kind": "text"
+        },
+        {
+          "text": "time",
+          "kind": "supplied"
+        },
+        {
+          "text": " many of his disciples went back, and walked no more with him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JHN.6.67",
+      "edition_verse_id": "KJV1769:JHN.6.67",
+      "verse": 67,
+      "spans": [
+        {
+          "text": "Then said Jesus unto the twelve, Will ye also go away?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.6.68",
+      "edition_verse_id": "KJV1769:JHN.6.68",
+      "verse": 68,
+      "spans": [
+        {
+          "text": "Then Simon Peter answered him, Lord, to whom shall we go? thou hast the words of eternal life.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.6.69",
+      "edition_verse_id": "KJV1769:JHN.6.69",
+      "verse": 69,
+      "spans": [
+        {
+          "text": "And we believe and are sure that thou art that Christ, the Son of the living God.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.6.70",
+      "edition_verse_id": "KJV1769:JHN.6.70",
+      "verse": 70,
+      "spans": [
+        {
+          "text": "Jesus answered them, Have not I chosen you twelve, and one of you is a devil?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.6.71",
+      "edition_verse_id": "KJV1769:JHN.6.71",
+      "verse": 71,
+      "spans": [
+        {
+          "text": "He spake of Judas Iscariot ",
+          "kind": "text"
+        },
+        {
+          "text": "the son",
+          "kind": "supplied"
+        },
+        {
+          "text": " of Simon: for he it was that should betray him, being one of the twelve.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

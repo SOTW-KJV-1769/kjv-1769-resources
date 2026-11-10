@@ -1,0 +1,396 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "KJV1769",
+  "book_code": "JHN",
+  "chapter": 15,
+  "verses": [
+    {
+      "id": "JHN.15.1",
+      "edition_verse_id": "KJV1769:JHN.15.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "I am the true vine, and my Father is the husbandman.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JHN.15.2",
+      "edition_verse_id": "KJV1769:JHN.15.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "Every branch in me that beareth not fruit he taketh away: and every ",
+          "kind": "text"
+        },
+        {
+          "text": "branch",
+          "kind": "supplied"
+        },
+        {
+          "text": " that beareth fruit, he purgeth it, that it may bring forth more fruit.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.15.3",
+      "edition_verse_id": "KJV1769:JHN.15.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "Now ye are clean through the word which I have spoken unto you.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.15.4",
+      "edition_verse_id": "KJV1769:JHN.15.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "Abide in me, and I in you. As the branch cannot bear fruit of itself, except it abide in the vine; no more can ye, except ye abide in me.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.15.5",
+      "edition_verse_id": "KJV1769:JHN.15.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "I am the vine, ye ",
+          "kind": "text"
+        },
+        {
+          "text": "are",
+          "kind": "supplied"
+        },
+        {
+          "text": " the branches: He that abideth in me, and I in him, the same bringeth forth much fruit: for without me ye can do nothing.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.15.6",
+      "edition_verse_id": "KJV1769:JHN.15.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "If a man abide not in me, he is cast forth as a branch, and is withered; and men gather them, and cast ",
+          "kind": "text"
+        },
+        {
+          "text": "them",
+          "kind": "supplied"
+        },
+        {
+          "text": " into the fire, and they are burned.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.15.7",
+      "edition_verse_id": "KJV1769:JHN.15.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "If ye abide in me, and my words abide in you, ye shall ask what ye will, and it shall be done unto you.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.15.8",
+      "edition_verse_id": "KJV1769:JHN.15.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "Herein is my Father glorified, that ye bear much fruit; so shall ye be my disciples.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.15.9",
+      "edition_verse_id": "KJV1769:JHN.15.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "As the Father hath loved me, so have I loved you: continue ye in my love.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.15.10",
+      "edition_verse_id": "KJV1769:JHN.15.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "If ye keep my commandments, ye shall abide in my love; even as I have kept my Father’s commandments, and abide in his love.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.15.11",
+      "edition_verse_id": "KJV1769:JHN.15.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "These things have I spoken unto you, that my joy might remain in you, and ",
+          "kind": "text"
+        },
+        {
+          "text": "that",
+          "kind": "supplied"
+        },
+        {
+          "text": " your joy might be full.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.15.12",
+      "edition_verse_id": "KJV1769:JHN.15.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "This is my commandment, That ye love one another, as I have loved you.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.15.13",
+      "edition_verse_id": "KJV1769:JHN.15.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "Greater love hath no man than this, that a man lay down his life for his friends.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.15.14",
+      "edition_verse_id": "KJV1769:JHN.15.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "Ye are my friends, if ye do whatsoever I command you.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.15.15",
+      "edition_verse_id": "KJV1769:JHN.15.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "Henceforth I call you not servants; for the servant knoweth not what his lord doeth: but I have called you friends; for all things that I have heard of my Father I have made known unto you.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.15.16",
+      "edition_verse_id": "KJV1769:JHN.15.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "Ye have not chosen me, but I have chosen you, and ordained you, that ye should go and bring forth fruit, and ",
+          "kind": "text"
+        },
+        {
+          "text": "that",
+          "kind": "supplied"
+        },
+        {
+          "text": " your fruit should remain: that whatsoever ye shall ask of the Father in my name, he may give it you.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.15.17",
+      "edition_verse_id": "KJV1769:JHN.15.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "These things I command you, that ye love one another.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.15.18",
+      "edition_verse_id": "KJV1769:JHN.15.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "If the world hate you, ye know that it hated me before ",
+          "kind": "text"
+        },
+        {
+          "text": "it hated",
+          "kind": "supplied"
+        },
+        {
+          "text": " you.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.15.19",
+      "edition_verse_id": "KJV1769:JHN.15.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "If ye were of the world, the world would love his own: but because ye are not of the world, but I have chosen you out of the world, therefore the world hateth you.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.15.20",
+      "edition_verse_id": "KJV1769:JHN.15.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "Remember the word that I said unto you, The servant is not greater than his lord. If they have persecuted me, they will also persecute you; if they have kept my saying, they will keep yours also.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.15.21",
+      "edition_verse_id": "KJV1769:JHN.15.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "But all these things will they do unto you for my name’s sake, because they know not him that sent me.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.15.22",
+      "edition_verse_id": "KJV1769:JHN.15.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "If I had not come and spoken unto them, they had not had sin: but now they have no cloke for their sin.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.15.23",
+      "edition_verse_id": "KJV1769:JHN.15.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "He that hateth me hateth my Father also.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.15.24",
+      "edition_verse_id": "KJV1769:JHN.15.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "If I had not done among them the works which none other man did, they had not had sin: but now have they both seen and hated both me and my Father.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.15.25",
+      "edition_verse_id": "KJV1769:JHN.15.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "But ",
+          "kind": "text"
+        },
+        {
+          "text": "this cometh to pass",
+          "kind": "supplied"
+        },
+        {
+          "text": ", that the word might be fulfilled that is written in their law, They hated me without a cause.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.15.26",
+      "edition_verse_id": "KJV1769:JHN.15.26",
+      "verse": 26,
+      "spans": [
+        {
+          "text": "But when the Comforter is come, whom I will send unto you from the Father, ",
+          "kind": "text"
+        },
+        {
+          "text": "even",
+          "kind": "supplied"
+        },
+        {
+          "text": " the Spirit of truth, which proceedeth from the Father, he shall testify of me:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.15.27",
+      "edition_verse_id": "KJV1769:JHN.15.27",
+      "verse": 27,
+      "spans": [
+        {
+          "text": "And ye also shall bear witness, because ye have been with me from the beginning.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

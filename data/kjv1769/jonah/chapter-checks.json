@@ -1,0 +1,28 @@
+{
+  "edition_id": "KJV1769",
+  "book_code": "JON",
+  "chapter_count": 4,
+  "verse_count": 48,
+  "chapters": [
+    {
+      "chapter": 1,
+      "verse_count": 17,
+      "sha256": "a73780d88ca02f5ef249362d3ca931b265d718cbfbce2cf343a391d4b68b9c18"
+    },
+    {
+      "chapter": 2,
+      "verse_count": 10,
+      "sha256": "cf386e8673fc84e18b1f160004cc42df5b968007a1522134c95e80f5568a67b7"
+    },
+    {
+      "chapter": 3,
+      "verse_count": 10,
+      "sha256": "f1557549c490b26276a6014cc56c06be5ecb054642a5765b1518a18b9022f852"
+    },
+    {
+      "chapter": 4,
+      "verse_count": 11,
+      "sha256": "e254b81b5a379137252a4393a89290eb852d8e0b451cf1463dd779ab286771eb"
+    }
+  ]
+}

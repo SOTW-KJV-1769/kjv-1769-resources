@@ -1,0 +1,348 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "KJV1769",
+  "book_code": "JHN",
+  "chapter": 2,
+  "verses": [
+    {
+      "id": "JHN.2.1",
+      "edition_verse_id": "KJV1769:JHN.2.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "And the third day there was a marriage in Cana of Galilee; and the mother of Jesus was there:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JHN.2.2",
+      "edition_verse_id": "KJV1769:JHN.2.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "And both Jesus was called, and his disciples, to the marriage.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.2.3",
+      "edition_verse_id": "KJV1769:JHN.2.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "And when they wanted wine, the mother of Jesus saith unto him, They have no wine.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.2.4",
+      "edition_verse_id": "KJV1769:JHN.2.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "Jesus saith unto her, Woman, what have I to do with thee? mine hour is not yet come.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.2.5",
+      "edition_verse_id": "KJV1769:JHN.2.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "His mother saith unto the servants, Whatsoever he saith unto you, do ",
+          "kind": "text"
+        },
+        {
+          "text": "it",
+          "kind": "supplied"
+        },
+        {
+          "text": ".",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.2.6",
+      "edition_verse_id": "KJV1769:JHN.2.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "And there were set there six waterpots of stone, after the manner of the purifying of the Jews, containing two or three firkins apiece.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.2.7",
+      "edition_verse_id": "KJV1769:JHN.2.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "Jesus saith unto them, Fill the waterpots with water. And they filled them up to the brim.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.2.8",
+      "edition_verse_id": "KJV1769:JHN.2.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "And he saith unto them, Draw out now, and bear unto the governor of the feast. And they bare ",
+          "kind": "text"
+        },
+        {
+          "text": "it",
+          "kind": "supplied"
+        },
+        {
+          "text": ".",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.2.9",
+      "edition_verse_id": "KJV1769:JHN.2.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "When the ruler of the feast had tasted the water that was made wine, and knew not whence it was: (but the servants which drew the water knew;) the governor of the feast called the bridegroom,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.2.10",
+      "edition_verse_id": "KJV1769:JHN.2.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "And saith unto him, Every man at the beginning doth set forth good wine; and when men have well drunk, then that which is worse: ",
+          "kind": "text"
+        },
+        {
+          "text": "but",
+          "kind": "supplied"
+        },
+        {
+          "text": " thou hast kept the good wine until now.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.2.11",
+      "edition_verse_id": "KJV1769:JHN.2.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "This beginning of miracles did Jesus in Cana of Galilee, and manifested forth his glory; and his disciples believed on him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.2.12",
+      "edition_verse_id": "KJV1769:JHN.2.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "¶ After this he went down to Capernaum, he, and his mother, and his brethren, and his disciples: and they continued there not many days.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JHN.2.13",
+      "edition_verse_id": "KJV1769:JHN.2.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "¶ And the Jews’ passover was at hand, and Jesus went up to Jerusalem,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JHN.2.14",
+      "edition_verse_id": "KJV1769:JHN.2.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "And found in the temple those that sold oxen and sheep and doves, and the changers of money sitting:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.2.15",
+      "edition_verse_id": "KJV1769:JHN.2.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "And when he had made a scourge of small cords, he drove them all out of the temple, and the sheep, and the oxen; and poured out the changers’ money, and overthrew the tables;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.2.16",
+      "edition_verse_id": "KJV1769:JHN.2.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "And said unto them that sold doves, Take these things hence; make not my Father’s house an house of merchandise.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.2.17",
+      "edition_verse_id": "KJV1769:JHN.2.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "And his disciples remembered that it was written, The zeal of thine house hath eaten me up.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.2.18",
+      "edition_verse_id": "KJV1769:JHN.2.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "¶ Then answered the Jews and said unto him, What sign shewest thou unto us, seeing that thou doest these things?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JHN.2.19",
+      "edition_verse_id": "KJV1769:JHN.2.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "Jesus answered and said unto them, Destroy this temple, and in three days I will raise it up.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.2.20",
+      "edition_verse_id": "KJV1769:JHN.2.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "Then said the Jews, Forty and six years was this temple in building, and wilt thou rear it up in three days?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.2.21",
+      "edition_verse_id": "KJV1769:JHN.2.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "But he spake of the temple of his body.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.2.22",
+      "edition_verse_id": "KJV1769:JHN.2.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "When therefore he was risen from the dead, his disciples remembered that he had said this unto them; and they believed the scripture, and the word which Jesus had said.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.2.23",
+      "edition_verse_id": "KJV1769:JHN.2.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "¶ Now when he was in Jerusalem at the passover, in the feast ",
+          "kind": "text"
+        },
+        {
+          "text": "day",
+          "kind": "supplied"
+        },
+        {
+          "text": ", many believed in his name, when they saw the miracles which he did.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JHN.2.24",
+      "edition_verse_id": "KJV1769:JHN.2.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "But Jesus did not commit himself unto them, because he knew all ",
+          "kind": "text"
+        },
+        {
+          "text": "men",
+          "kind": "supplied"
+        },
+        {
+          "text": ",",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.2.25",
+      "edition_verse_id": "KJV1769:JHN.2.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "And needed not that any should testify of man: for he knew what was in man.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

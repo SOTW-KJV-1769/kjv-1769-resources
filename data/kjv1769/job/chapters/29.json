@@ -1,0 +1,520 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "KJV1769",
+  "book_code": "JOB",
+  "chapter": 29,
+  "verses": [
+    {
+      "id": "JOB.29.1",
+      "edition_verse_id": "KJV1769:JOB.29.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "Moreover Job continued his parable, and said,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOB.29.2",
+      "edition_verse_id": "KJV1769:JOB.29.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "Oh that I were as ",
+          "kind": "text"
+        },
+        {
+          "text": "in",
+          "kind": "supplied"
+        },
+        {
+          "text": " months past, as ",
+          "kind": "text"
+        },
+        {
+          "text": "in",
+          "kind": "supplied"
+        },
+        {
+          "text": " the days ",
+          "kind": "text"
+        },
+        {
+          "text": "when",
+          "kind": "supplied"
+        },
+        {
+          "text": " God preserved me;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.29.3",
+      "edition_verse_id": "KJV1769:JOB.29.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "When his candle shined upon my head, ",
+          "kind": "text"
+        },
+        {
+          "text": "and when",
+          "kind": "supplied"
+        },
+        {
+          "text": " by his light I walked ",
+          "kind": "text"
+        },
+        {
+          "text": "through",
+          "kind": "supplied"
+        },
+        {
+          "text": " darkness;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.29.4",
+      "edition_verse_id": "KJV1769:JOB.29.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "As I was in the days of my youth, when the secret of God ",
+          "kind": "text"
+        },
+        {
+          "text": "was",
+          "kind": "supplied"
+        },
+        {
+          "text": " upon my tabernacle;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.29.5",
+      "edition_verse_id": "KJV1769:JOB.29.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "When the Almighty ",
+          "kind": "text"
+        },
+        {
+          "text": "was",
+          "kind": "supplied"
+        },
+        {
+          "text": " yet with me, ",
+          "kind": "text"
+        },
+        {
+          "text": "when",
+          "kind": "supplied"
+        },
+        {
+          "text": " my children ",
+          "kind": "text"
+        },
+        {
+          "text": "were",
+          "kind": "supplied"
+        },
+        {
+          "text": " about me;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.29.6",
+      "edition_verse_id": "KJV1769:JOB.29.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "When I washed my steps with butter, and the rock poured me out rivers of oil;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.29.7",
+      "edition_verse_id": "KJV1769:JOB.29.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "When I went out to the gate through the city, ",
+          "kind": "text"
+        },
+        {
+          "text": "when",
+          "kind": "supplied"
+        },
+        {
+          "text": " I prepared my seat in the street!",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOB.29.8",
+      "edition_verse_id": "KJV1769:JOB.29.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "The young men saw me, and hid themselves: and the aged arose, ",
+          "kind": "text"
+        },
+        {
+          "text": "and",
+          "kind": "supplied"
+        },
+        {
+          "text": " stood up.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.29.9",
+      "edition_verse_id": "KJV1769:JOB.29.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "The princes refrained talking, and laid ",
+          "kind": "text"
+        },
+        {
+          "text": "their",
+          "kind": "supplied"
+        },
+        {
+          "text": " hand on their mouth.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.29.10",
+      "edition_verse_id": "KJV1769:JOB.29.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "The nobles held their peace, and their tongue cleaved to the roof of their mouth.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.29.11",
+      "edition_verse_id": "KJV1769:JOB.29.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "When the ear heard ",
+          "kind": "text"
+        },
+        {
+          "text": "me",
+          "kind": "supplied"
+        },
+        {
+          "text": ", then it blessed me; and when the eye saw ",
+          "kind": "text"
+        },
+        {
+          "text": "me",
+          "kind": "supplied"
+        },
+        {
+          "text": ", it gave witness to me:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.29.12",
+      "edition_verse_id": "KJV1769:JOB.29.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "Because I delivered the poor that cried, and the fatherless, and ",
+          "kind": "text"
+        },
+        {
+          "text": "him that had",
+          "kind": "supplied"
+        },
+        {
+          "text": " none to help him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.29.13",
+      "edition_verse_id": "KJV1769:JOB.29.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "The blessing of him that was ready to perish came upon me: and I caused the widow’s heart to sing for joy.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.29.14",
+      "edition_verse_id": "KJV1769:JOB.29.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "I put on righteousness, and it clothed me: my judgment ",
+          "kind": "text"
+        },
+        {
+          "text": "was",
+          "kind": "supplied"
+        },
+        {
+          "text": " as a robe and a diadem.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.29.15",
+      "edition_verse_id": "KJV1769:JOB.29.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "I was eyes to the blind, and feet ",
+          "kind": "text"
+        },
+        {
+          "text": "was",
+          "kind": "supplied"
+        },
+        {
+          "text": " I to the lame.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.29.16",
+      "edition_verse_id": "KJV1769:JOB.29.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "I ",
+          "kind": "text"
+        },
+        {
+          "text": "was",
+          "kind": "supplied"
+        },
+        {
+          "text": " a father to the poor: and the cause ",
+          "kind": "text"
+        },
+        {
+          "text": "which",
+          "kind": "supplied"
+        },
+        {
+          "text": " I knew not I searched out.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.29.17",
+      "edition_verse_id": "KJV1769:JOB.29.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "And I brake the jaws of the wicked, and plucked the spoil out of his teeth.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.29.18",
+      "edition_verse_id": "KJV1769:JOB.29.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "Then I said, I shall die in my nest, and I shall multiply ",
+          "kind": "text"
+        },
+        {
+          "text": "my",
+          "kind": "supplied"
+        },
+        {
+          "text": " days as the sand.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOB.29.19",
+      "edition_verse_id": "KJV1769:JOB.29.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "My root ",
+          "kind": "text"
+        },
+        {
+          "text": "was",
+          "kind": "supplied"
+        },
+        {
+          "text": " spread out by the waters, and the dew lay all night upon my branch.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.29.20",
+      "edition_verse_id": "KJV1769:JOB.29.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "My glory ",
+          "kind": "text"
+        },
+        {
+          "text": "was",
+          "kind": "supplied"
+        },
+        {
+          "text": " fresh in me, and my bow was renewed in my hand.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.29.21",
+      "edition_verse_id": "KJV1769:JOB.29.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "Unto me ",
+          "kind": "text"
+        },
+        {
+          "text": "men",
+          "kind": "supplied"
+        },
+        {
+          "text": " gave ear, and waited, and kept silence at my counsel.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.29.22",
+      "edition_verse_id": "KJV1769:JOB.29.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "After my words they spake not again; and my speech dropped upon them.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.29.23",
+      "edition_verse_id": "KJV1769:JOB.29.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "And they waited for me as for the rain; and they opened their mouth wide ",
+          "kind": "text"
+        },
+        {
+          "text": "as",
+          "kind": "supplied"
+        },
+        {
+          "text": " for the latter rain.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.29.24",
+      "edition_verse_id": "KJV1769:JOB.29.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "If",
+          "kind": "supplied"
+        },
+        {
+          "text": " I laughed on them, they believed ",
+          "kind": "text"
+        },
+        {
+          "text": "it",
+          "kind": "supplied"
+        },
+        {
+          "text": " not; and the light of my countenance they cast not down.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.29.25",
+      "edition_verse_id": "KJV1769:JOB.29.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "I chose out their way, and sat chief, and dwelt as a king in the army, as one ",
+          "kind": "text"
+        },
+        {
+          "text": "that",
+          "kind": "supplied"
+        },
+        {
+          "text": " comforteth the mourners.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

@@ -1,0 +1,824 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "KJV1769",
+  "book_code": "JHN",
+  "chapter": 11,
+  "verses": [
+    {
+      "id": "JHN.11.1",
+      "edition_verse_id": "KJV1769:JHN.11.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "Now a certain ",
+          "kind": "text"
+        },
+        {
+          "text": "man",
+          "kind": "supplied"
+        },
+        {
+          "text": " was sick, ",
+          "kind": "text"
+        },
+        {
+          "text": "named",
+          "kind": "supplied"
+        },
+        {
+          "text": " Lazarus, of Bethany, the town of Mary and her sister Martha.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JHN.11.2",
+      "edition_verse_id": "KJV1769:JHN.11.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "(It was ",
+          "kind": "text"
+        },
+        {
+          "text": "that",
+          "kind": "supplied"
+        },
+        {
+          "text": " Mary which anointed the Lord with ointment, and wiped his feet with her hair, whose brother Lazarus was sick.)",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.11.3",
+      "edition_verse_id": "KJV1769:JHN.11.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "Therefore his sisters sent unto him, saying, Lord, behold, he whom thou lovest is sick.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.11.4",
+      "edition_verse_id": "KJV1769:JHN.11.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "When Jesus heard ",
+          "kind": "text"
+        },
+        {
+          "text": "that",
+          "kind": "supplied"
+        },
+        {
+          "text": ", he said, This sickness is not unto death, but for the glory of God, that the Son of God might be glorified thereby.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.11.5",
+      "edition_verse_id": "KJV1769:JHN.11.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "Now Jesus loved Martha, and her sister, and Lazarus.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.11.6",
+      "edition_verse_id": "KJV1769:JHN.11.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "When he had heard therefore that he was sick, he abode two days still in the same place where he was.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.11.7",
+      "edition_verse_id": "KJV1769:JHN.11.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "Then after that saith he to ",
+          "kind": "text"
+        },
+        {
+          "text": "his",
+          "kind": "supplied"
+        },
+        {
+          "text": " disciples, Let us go into Judæa again.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.11.8",
+      "edition_verse_id": "KJV1769:JHN.11.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "His",
+          "kind": "supplied"
+        },
+        {
+          "text": " disciples say unto him, Master, the Jews of late sought to stone thee; and goest thou thither again?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.11.9",
+      "edition_verse_id": "KJV1769:JHN.11.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "Jesus answered, Are there not twelve hours in the day? If any man walk in the day, he stumbleth not, because he seeth the light of this world.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.11.10",
+      "edition_verse_id": "KJV1769:JHN.11.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "But if a man walk in the night, he stumbleth, because there is no light in him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.11.11",
+      "edition_verse_id": "KJV1769:JHN.11.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "These things said he: and after that he saith unto them, Our friend Lazarus sleepeth; but I go, that I may awake him out of sleep.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.11.12",
+      "edition_verse_id": "KJV1769:JHN.11.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "Then said his disciples, Lord, if he sleep, he shall do well.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.11.13",
+      "edition_verse_id": "KJV1769:JHN.11.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "Howbeit Jesus spake of his death: but they thought that he had spoken of taking of rest in sleep.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.11.14",
+      "edition_verse_id": "KJV1769:JHN.11.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "Then said Jesus unto them plainly, Lazarus is dead.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.11.15",
+      "edition_verse_id": "KJV1769:JHN.11.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "And I am glad for your sakes that I was not there, to the intent ye may believe; nevertheless let us go unto him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.11.16",
+      "edition_verse_id": "KJV1769:JHN.11.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "Then said Thomas, which is called Didymus, unto his fellowdisciples, Let us also go, that we may die with him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.11.17",
+      "edition_verse_id": "KJV1769:JHN.11.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "Then when Jesus came, he found that he had ",
+          "kind": "text"
+        },
+        {
+          "text": "lain",
+          "kind": "supplied"
+        },
+        {
+          "text": " in the grave four days already.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.11.18",
+      "edition_verse_id": "KJV1769:JHN.11.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "Now Bethany was nigh unto Jerusalem, about fifteen furlongs off:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.11.19",
+      "edition_verse_id": "KJV1769:JHN.11.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "And many of the Jews came to Martha and Mary, to comfort them concerning their brother.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.11.20",
+      "edition_verse_id": "KJV1769:JHN.11.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "Then Martha, as soon as she heard that Jesus was coming, went and met him: but Mary sat ",
+          "kind": "text"
+        },
+        {
+          "text": "still",
+          "kind": "supplied"
+        },
+        {
+          "text": " in the house.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.11.21",
+      "edition_verse_id": "KJV1769:JHN.11.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "Then said Martha unto Jesus, Lord, if thou hadst been here, my brother had not died.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.11.22",
+      "edition_verse_id": "KJV1769:JHN.11.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "But I know, that even now, whatsoever thou wilt ask of God, God will give ",
+          "kind": "text"
+        },
+        {
+          "text": "it",
+          "kind": "supplied"
+        },
+        {
+          "text": " thee.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.11.23",
+      "edition_verse_id": "KJV1769:JHN.11.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "Jesus saith unto her, Thy brother shall rise again.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.11.24",
+      "edition_verse_id": "KJV1769:JHN.11.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "Martha saith unto him, I know that he shall rise again in the resurrection at the last day.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.11.25",
+      "edition_verse_id": "KJV1769:JHN.11.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "Jesus said unto her, I am the resurrection, and the life: he that believeth in me, though he were dead, yet shall he live:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.11.26",
+      "edition_verse_id": "KJV1769:JHN.11.26",
+      "verse": 26,
+      "spans": [
+        {
+          "text": "And whosoever liveth and believeth in me shall never die. Believest thou this?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.11.27",
+      "edition_verse_id": "KJV1769:JHN.11.27",
+      "verse": 27,
+      "spans": [
+        {
+          "text": "She saith unto him, Yea, Lord: I believe that thou art the Christ, the Son of God, which should come into the world.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.11.28",
+      "edition_verse_id": "KJV1769:JHN.11.28",
+      "verse": 28,
+      "spans": [
+        {
+          "text": "And when she had so said, she went her way, and called Mary her sister secretly, saying, The Master is come, and calleth for thee.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.11.29",
+      "edition_verse_id": "KJV1769:JHN.11.29",
+      "verse": 29,
+      "spans": [
+        {
+          "text": "As soon as she heard ",
+          "kind": "text"
+        },
+        {
+          "text": "that",
+          "kind": "supplied"
+        },
+        {
+          "text": ", she arose quickly, and came unto him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.11.30",
+      "edition_verse_id": "KJV1769:JHN.11.30",
+      "verse": 30,
+      "spans": [
+        {
+          "text": "Now Jesus was not yet come into the town, but was in that place where Martha met him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.11.31",
+      "edition_verse_id": "KJV1769:JHN.11.31",
+      "verse": 31,
+      "spans": [
+        {
+          "text": "The Jews then which were with her in the house, and comforted her, when they saw Mary, that she rose up hastily and went out, followed her, saying, She goeth unto the grave to weep there.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.11.32",
+      "edition_verse_id": "KJV1769:JHN.11.32",
+      "verse": 32,
+      "spans": [
+        {
+          "text": "Then when Mary was come where Jesus was, and saw him, she fell down at his feet, saying unto him, Lord, if thou hadst been here, my brother had not died.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.11.33",
+      "edition_verse_id": "KJV1769:JHN.11.33",
+      "verse": 33,
+      "spans": [
+        {
+          "text": "When Jesus therefore saw her weeping, and the Jews also weeping which came with her, he groaned in the spirit, and was troubled,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.11.34",
+      "edition_verse_id": "KJV1769:JHN.11.34",
+      "verse": 34,
+      "spans": [
+        {
+          "text": "And said, Where have ye laid him? They said unto him, Lord, come and see.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.11.35",
+      "edition_verse_id": "KJV1769:JHN.11.35",
+      "verse": 35,
+      "spans": [
+        {
+          "text": "Jesus wept.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.11.36",
+      "edition_verse_id": "KJV1769:JHN.11.36",
+      "verse": 36,
+      "spans": [
+        {
+          "text": "Then said the Jews, Behold how he loved him!",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.11.37",
+      "edition_verse_id": "KJV1769:JHN.11.37",
+      "verse": 37,
+      "spans": [
+        {
+          "text": "And some of them said, Could not this man, which opened the eyes of the blind, have caused that even this man should not have died?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.11.38",
+      "edition_verse_id": "KJV1769:JHN.11.38",
+      "verse": 38,
+      "spans": [
+        {
+          "text": "Jesus therefore again groaning in himself cometh to the grave. It was a cave, and a stone lay upon it.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.11.39",
+      "edition_verse_id": "KJV1769:JHN.11.39",
+      "verse": 39,
+      "spans": [
+        {
+          "text": "Jesus said, Take ye away the stone. Martha, the sister of him that was dead, saith unto him, Lord, by this time he stinketh: for he hath been ",
+          "kind": "text"
+        },
+        {
+          "text": "dead",
+          "kind": "supplied"
+        },
+        {
+          "text": " four days.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.11.40",
+      "edition_verse_id": "KJV1769:JHN.11.40",
+      "verse": 40,
+      "spans": [
+        {
+          "text": "Jesus saith unto her, Said I not unto thee, that, if thou wouldest believe, thou shouldest see the glory of God?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.11.41",
+      "edition_verse_id": "KJV1769:JHN.11.41",
+      "verse": 41,
+      "spans": [
+        {
+          "text": "Then they took away the stone ",
+          "kind": "text"
+        },
+        {
+          "text": "from the place",
+          "kind": "supplied"
+        },
+        {
+          "text": " where the dead was laid. And Jesus lifted up ",
+          "kind": "text"
+        },
+        {
+          "text": "his",
+          "kind": "supplied"
+        },
+        {
+          "text": " eyes, and said, Father, I thank thee that thou hast heard me.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.11.42",
+      "edition_verse_id": "KJV1769:JHN.11.42",
+      "verse": 42,
+      "spans": [
+        {
+          "text": "And I knew that thou hearest me always: but because of the people which stand by I said ",
+          "kind": "text"
+        },
+        {
+          "text": "it",
+          "kind": "supplied"
+        },
+        {
+          "text": ", that they may believe that thou hast sent me.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.11.43",
+      "edition_verse_id": "KJV1769:JHN.11.43",
+      "verse": 43,
+      "spans": [
+        {
+          "text": "And when he thus had spoken, he cried with a loud voice, Lazarus, come forth.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.11.44",
+      "edition_verse_id": "KJV1769:JHN.11.44",
+      "verse": 44,
+      "spans": [
+        {
+          "text": "And he that was dead came forth, bound hand and foot with graveclothes: and his face was bound about with a napkin. Jesus saith unto them, Loose him, and let him go.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.11.45",
+      "edition_verse_id": "KJV1769:JHN.11.45",
+      "verse": 45,
+      "spans": [
+        {
+          "text": "Then many of the Jews which came to Mary, and had seen the things which Jesus did, believed on him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.11.46",
+      "edition_verse_id": "KJV1769:JHN.11.46",
+      "verse": 46,
+      "spans": [
+        {
+          "text": "But some of them went their ways to the Pharisees, and told them what things Jesus had done.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.11.47",
+      "edition_verse_id": "KJV1769:JHN.11.47",
+      "verse": 47,
+      "spans": [
+        {
+          "text": "¶ Then gathered the chief priests and the Pharisees a council, and said, What do we? for this man doeth many miracles.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JHN.11.48",
+      "edition_verse_id": "KJV1769:JHN.11.48",
+      "verse": 48,
+      "spans": [
+        {
+          "text": "If we let him thus alone, all ",
+          "kind": "text"
+        },
+        {
+          "text": "men",
+          "kind": "supplied"
+        },
+        {
+          "text": " will believe on him: and the Romans shall come and take away both our place and nation.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.11.49",
+      "edition_verse_id": "KJV1769:JHN.11.49",
+      "verse": 49,
+      "spans": [
+        {
+          "text": "And one of them, ",
+          "kind": "text"
+        },
+        {
+          "text": "named",
+          "kind": "supplied"
+        },
+        {
+          "text": " Caiaphas, being the high priest that same year, said unto them, Ye know nothing at all,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.11.50",
+      "edition_verse_id": "KJV1769:JHN.11.50",
+      "verse": 50,
+      "spans": [
+        {
+          "text": "Nor consider that it is expedient for us, that one man should die for the people, and that the whole nation perish not.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.11.51",
+      "edition_verse_id": "KJV1769:JHN.11.51",
+      "verse": 51,
+      "spans": [
+        {
+          "text": "And this spake he not of himself: but being high priest that year, he prophesied that Jesus should die for that nation;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.11.52",
+      "edition_verse_id": "KJV1769:JHN.11.52",
+      "verse": 52,
+      "spans": [
+        {
+          "text": "And not for that nation only, but that also he should gather together in one the children of God that were scattered abroad.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.11.53",
+      "edition_verse_id": "KJV1769:JHN.11.53",
+      "verse": 53,
+      "spans": [
+        {
+          "text": "Then from that day forth they took counsel together for to put him to death.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.11.54",
+      "edition_verse_id": "KJV1769:JHN.11.54",
+      "verse": 54,
+      "spans": [
+        {
+          "text": "Jesus therefore walked no more openly among the Jews; but went thence unto a country near to the wilderness, into a city called Ephraim, and there continued with his disciples.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.11.55",
+      "edition_verse_id": "KJV1769:JHN.11.55",
+      "verse": 55,
+      "spans": [
+        {
+          "text": "¶ And the Jews’ passover was nigh at hand: and many went out of the country up to Jerusalem before the passover, to purify themselves.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JHN.11.56",
+      "edition_verse_id": "KJV1769:JHN.11.56",
+      "verse": 56,
+      "spans": [
+        {
+          "text": "Then sought they for Jesus, and spake among themselves, as they stood in the temple, What think ye, that he will not come to the feast?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.11.57",
+      "edition_verse_id": "KJV1769:JHN.11.57",
+      "verse": 57,
+      "spans": [
+        {
+          "text": "Now both the chief priests and the Pharisees had given a commandment, that, if any man knew where he were, he should shew ",
+          "kind": "text"
+        },
+        {
+          "text": "it",
+          "kind": "supplied"
+        },
+        {
+          "text": ", that they might take him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

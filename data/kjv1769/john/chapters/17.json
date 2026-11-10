@@ -1,0 +1,352 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "KJV1769",
+  "book_code": "JHN",
+  "chapter": 17,
+  "verses": [
+    {
+      "id": "JHN.17.1",
+      "edition_verse_id": "KJV1769:JHN.17.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "These words spake Jesus, and lifted up his eyes to heaven, and said, Father, the hour is come; glorify thy Son, that thy Son also may glorify thee:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JHN.17.2",
+      "edition_verse_id": "KJV1769:JHN.17.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "As thou hast given him power over all flesh, that he should give eternal life to as many as thou hast given him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.17.3",
+      "edition_verse_id": "KJV1769:JHN.17.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "And this is life eternal, that they might know thee the only true God, and Jesus Christ, whom thou hast sent.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.17.4",
+      "edition_verse_id": "KJV1769:JHN.17.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "I have glorified thee on the earth: I have finished the work which thou gavest me to do.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.17.5",
+      "edition_verse_id": "KJV1769:JHN.17.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "And now, O Father, glorify thou me with thine own self with the glory which I had with thee before the world was.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.17.6",
+      "edition_verse_id": "KJV1769:JHN.17.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "I have manifested thy name unto the men which thou gavest me out of the world: thine they were, and thou gavest them me; and they have kept thy word.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.17.7",
+      "edition_verse_id": "KJV1769:JHN.17.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "Now they have known that all things whatsoever thou hast given me are of thee.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.17.8",
+      "edition_verse_id": "KJV1769:JHN.17.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "For I have given unto them the words which thou gavest me; and they have received ",
+          "kind": "text"
+        },
+        {
+          "text": "them",
+          "kind": "supplied"
+        },
+        {
+          "text": ", and have known surely that I came out from thee, and they have believed that thou didst send me.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.17.9",
+      "edition_verse_id": "KJV1769:JHN.17.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "I pray for them: I pray not for the world, but for them which thou hast given me; for they are thine.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.17.10",
+      "edition_verse_id": "KJV1769:JHN.17.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "And all mine are thine, and thine are mine; and I am glorified in them.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.17.11",
+      "edition_verse_id": "KJV1769:JHN.17.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "And now I am no more in the world, but these are in the world, and I come to thee. Holy Father, keep through thine own name those whom thou hast given me, that they may be one, as we ",
+          "kind": "text"
+        },
+        {
+          "text": "are",
+          "kind": "supplied"
+        },
+        {
+          "text": ".",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.17.12",
+      "edition_verse_id": "KJV1769:JHN.17.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "While I was with them in the world, I kept them in thy name: those that thou gavest me I have kept, and none of them is lost, but the son of perdition; that the scripture might be fulfilled.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.17.13",
+      "edition_verse_id": "KJV1769:JHN.17.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "And now come I to thee; and these things I speak in the world, that they might have my joy fulfilled in themselves.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.17.14",
+      "edition_verse_id": "KJV1769:JHN.17.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "I have given them thy word; and the world hath hated them, because they are not of the world, even as I am not of the world.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.17.15",
+      "edition_verse_id": "KJV1769:JHN.17.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "I pray not that thou shouldest take them out of the world, but that thou shouldest keep them from the evil.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.17.16",
+      "edition_verse_id": "KJV1769:JHN.17.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "They are not of the world, even as I am not of the world.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.17.17",
+      "edition_verse_id": "KJV1769:JHN.17.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "Sanctify them through thy truth: thy word is truth.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.17.18",
+      "edition_verse_id": "KJV1769:JHN.17.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "As thou hast sent me into the world, even so have I also sent them into the world.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.17.19",
+      "edition_verse_id": "KJV1769:JHN.17.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "And for their sakes I sanctify myself, that they also might be sanctified through the truth.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.17.20",
+      "edition_verse_id": "KJV1769:JHN.17.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "Neither pray I for these alone, but for them also which shall believe on me through their word;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.17.21",
+      "edition_verse_id": "KJV1769:JHN.17.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "That they all may be one; as thou, Father, ",
+          "kind": "text"
+        },
+        {
+          "text": "art",
+          "kind": "supplied"
+        },
+        {
+          "text": " in me, and I in thee, that they also may be one in us: that the world may believe that thou hast sent me.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.17.22",
+      "edition_verse_id": "KJV1769:JHN.17.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "And the glory which thou gavest me I have given them; that they may be one, even as we are one:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.17.23",
+      "edition_verse_id": "KJV1769:JHN.17.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "I in them, and thou in me, that they may be made perfect in one; and that the world may know that thou hast sent me, and hast loved them, as thou hast loved me.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.17.24",
+      "edition_verse_id": "KJV1769:JHN.17.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "Father, I will that they also, whom thou hast given me, be with me where I am; that they may behold my glory, which thou hast given me: for thou lovedst me before the foundation of the world.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.17.25",
+      "edition_verse_id": "KJV1769:JHN.17.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "O righteous Father, the world hath not known thee: but I have known thee, and these have known that thou hast sent me.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.17.26",
+      "edition_verse_id": "KJV1769:JHN.17.26",
+      "verse": 26,
+      "spans": [
+        {
+          "text": "And I have declared unto them thy name, and will declare ",
+          "kind": "text"
+        },
+        {
+          "text": "it",
+          "kind": "supplied"
+        },
+        {
+          "text": ": that the love wherewith thou hast loved me may be in them, and I in them.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

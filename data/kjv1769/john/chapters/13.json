@@ -1,0 +1,576 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "KJV1769",
+  "book_code": "JHN",
+  "chapter": 13,
+  "verses": [
+    {
+      "id": "JHN.13.1",
+      "edition_verse_id": "KJV1769:JHN.13.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "Now before the feast of the passover, when Jesus knew that his hour was come that he should depart out of this world unto the Father, having loved his own which were in the world, he loved them unto the end.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JHN.13.2",
+      "edition_verse_id": "KJV1769:JHN.13.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "And supper being ended, the devil having now put into the heart of Judas Iscariot, Simon’s ",
+          "kind": "text"
+        },
+        {
+          "text": "son",
+          "kind": "supplied"
+        },
+        {
+          "text": ", to betray him;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.13.3",
+      "edition_verse_id": "KJV1769:JHN.13.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "Jesus knowing that the Father had given all things into his hands, and that he was come from God, and went to God;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.13.4",
+      "edition_verse_id": "KJV1769:JHN.13.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "He riseth from supper, and laid aside his garments; and took a towel, and girded himself.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.13.5",
+      "edition_verse_id": "KJV1769:JHN.13.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "After that he poureth water into a bason, and began to wash the disciples’ feet, and to wipe ",
+          "kind": "text"
+        },
+        {
+          "text": "them",
+          "kind": "supplied"
+        },
+        {
+          "text": " with the towel wherewith he was girded.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.13.6",
+      "edition_verse_id": "KJV1769:JHN.13.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "Then cometh he to Simon Peter: and Peter saith unto him, Lord, dost thou wash my feet?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.13.7",
+      "edition_verse_id": "KJV1769:JHN.13.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "Jesus answered and said unto him, What I do thou knowest not now; but thou shalt know hereafter.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.13.8",
+      "edition_verse_id": "KJV1769:JHN.13.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "Peter saith unto him, Thou shalt never wash my feet. Jesus answered him, If I wash thee not, thou hast no part with me.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.13.9",
+      "edition_verse_id": "KJV1769:JHN.13.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "Simon Peter saith unto him, Lord, not my feet only, but also ",
+          "kind": "text"
+        },
+        {
+          "text": "my",
+          "kind": "supplied"
+        },
+        {
+          "text": " hands and ",
+          "kind": "text"
+        },
+        {
+          "text": "my",
+          "kind": "supplied"
+        },
+        {
+          "text": " head.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.13.10",
+      "edition_verse_id": "KJV1769:JHN.13.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "Jesus saith to him, He that is washed needeth not save to wash ",
+          "kind": "text"
+        },
+        {
+          "text": "his",
+          "kind": "supplied"
+        },
+        {
+          "text": " feet, but is clean every whit: and ye are clean, but not all.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.13.11",
+      "edition_verse_id": "KJV1769:JHN.13.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "For he knew who should betray him; therefore said he, Ye are not all clean.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.13.12",
+      "edition_verse_id": "KJV1769:JHN.13.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "So after he had washed their feet, and had taken his garments, and was set down again, he said unto them, Know ye what I have done to you?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.13.13",
+      "edition_verse_id": "KJV1769:JHN.13.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "Ye call me Master and Lord: and ye say well; for ",
+          "kind": "text"
+        },
+        {
+          "text": "so",
+          "kind": "supplied"
+        },
+        {
+          "text": " I am.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.13.14",
+      "edition_verse_id": "KJV1769:JHN.13.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "If I then, ",
+          "kind": "text"
+        },
+        {
+          "text": "your",
+          "kind": "supplied"
+        },
+        {
+          "text": " Lord and Master, have washed your feet; ye also ought to wash one another’s feet.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.13.15",
+      "edition_verse_id": "KJV1769:JHN.13.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "For I have given you an example, that ye should do as I have done to you.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.13.16",
+      "edition_verse_id": "KJV1769:JHN.13.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "Verily, verily, I say unto you, The servant is not greater than his lord; neither he that is sent greater than he that sent him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.13.17",
+      "edition_verse_id": "KJV1769:JHN.13.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "If ye know these things, happy are ye if ye do them.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.13.18",
+      "edition_verse_id": "KJV1769:JHN.13.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "¶ I speak not of you all: I know whom I have chosen: but that the scripture may be fulfilled, He that eateth bread with me hath lifted up his heel against me.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JHN.13.19",
+      "edition_verse_id": "KJV1769:JHN.13.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "Now I tell you before it come, that, when it is come to pass, ye may believe that I am ",
+          "kind": "text"
+        },
+        {
+          "text": "he",
+          "kind": "supplied"
+        },
+        {
+          "text": ".",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.13.20",
+      "edition_verse_id": "KJV1769:JHN.13.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "Verily, verily, I say unto you, He that receiveth whomsoever I send receiveth me; and he that receiveth me receiveth him that sent me.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.13.21",
+      "edition_verse_id": "KJV1769:JHN.13.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "When Jesus had thus said, he was troubled in spirit, and testified, and said, Verily, verily, I say unto you, that one of you shall betray me.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.13.22",
+      "edition_verse_id": "KJV1769:JHN.13.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "Then the disciples looked one on another, doubting of whom he spake.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.13.23",
+      "edition_verse_id": "KJV1769:JHN.13.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "Now there was leaning on Jesus’ bosom one of his disciples, whom Jesus loved.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.13.24",
+      "edition_verse_id": "KJV1769:JHN.13.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "Simon Peter therefore beckoned to him, that he should ask who it should be of whom he spake.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.13.25",
+      "edition_verse_id": "KJV1769:JHN.13.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "He then lying on Jesus’ breast saith unto him, Lord, who is it?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.13.26",
+      "edition_verse_id": "KJV1769:JHN.13.26",
+      "verse": 26,
+      "spans": [
+        {
+          "text": "Jesus answered, He it is, to whom I shall give a sop, when I have dipped ",
+          "kind": "text"
+        },
+        {
+          "text": "it",
+          "kind": "supplied"
+        },
+        {
+          "text": ". And when he had dipped the sop, he gave ",
+          "kind": "text"
+        },
+        {
+          "text": "it",
+          "kind": "supplied"
+        },
+        {
+          "text": " to Judas Iscariot, ",
+          "kind": "text"
+        },
+        {
+          "text": "the son",
+          "kind": "supplied"
+        },
+        {
+          "text": " of Simon.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.13.27",
+      "edition_verse_id": "KJV1769:JHN.13.27",
+      "verse": 27,
+      "spans": [
+        {
+          "text": "And after the sop Satan entered into him. Then said Jesus unto him, That thou doest, do quickly.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.13.28",
+      "edition_verse_id": "KJV1769:JHN.13.28",
+      "verse": 28,
+      "spans": [
+        {
+          "text": "Now no man at the table knew for what intent he spake this unto him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.13.29",
+      "edition_verse_id": "KJV1769:JHN.13.29",
+      "verse": 29,
+      "spans": [
+        {
+          "text": "For some ",
+          "kind": "text"
+        },
+        {
+          "text": "of them",
+          "kind": "supplied"
+        },
+        {
+          "text": " thought, because Judas had the bag, that Jesus had said unto him, Buy ",
+          "kind": "text"
+        },
+        {
+          "text": "those things",
+          "kind": "supplied"
+        },
+        {
+          "text": " that we have need of against the feast; or, that he should give something to the poor.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.13.30",
+      "edition_verse_id": "KJV1769:JHN.13.30",
+      "verse": 30,
+      "spans": [
+        {
+          "text": "He then having received the sop went immediately out: and it was night.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.13.31",
+      "edition_verse_id": "KJV1769:JHN.13.31",
+      "verse": 31,
+      "spans": [
+        {
+          "text": "¶ Therefore, when he was gone out, Jesus said, Now is the Son of man glorified, and God is glorified in him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JHN.13.32",
+      "edition_verse_id": "KJV1769:JHN.13.32",
+      "verse": 32,
+      "spans": [
+        {
+          "text": "If God be glorified in him, God shall also glorify him in himself, and shall straightway glorify him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.13.33",
+      "edition_verse_id": "KJV1769:JHN.13.33",
+      "verse": 33,
+      "spans": [
+        {
+          "text": "Little children, yet a little while I am with you. Ye shall seek me: and as I said unto the Jews, Whither I go, ye cannot come; so now I say to you.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.13.34",
+      "edition_verse_id": "KJV1769:JHN.13.34",
+      "verse": 34,
+      "spans": [
+        {
+          "text": "A new commandment I give unto you, That ye love one another; as I have loved you, that ye also love one another.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.13.35",
+      "edition_verse_id": "KJV1769:JHN.13.35",
+      "verse": 35,
+      "spans": [
+        {
+          "text": "By this shall all ",
+          "kind": "text"
+        },
+        {
+          "text": "men",
+          "kind": "supplied"
+        },
+        {
+          "text": " know that ye are my disciples, if ye have love one to another.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.13.36",
+      "edition_verse_id": "KJV1769:JHN.13.36",
+      "verse": 36,
+      "spans": [
+        {
+          "text": "¶ Simon Peter said unto him, Lord, whither goest thou? Jesus answered him, Whither I go, thou canst not follow me now; but thou shalt follow me afterwards.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JHN.13.37",
+      "edition_verse_id": "KJV1769:JHN.13.37",
+      "verse": 37,
+      "spans": [
+        {
+          "text": "Peter said unto him, Lord, why cannot I follow thee now? I will lay down my life for thy sake.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.13.38",
+      "edition_verse_id": "KJV1769:JHN.13.38",
+      "verse": 38,
+      "spans": [
+        {
+          "text": "Jesus answered him, Wilt thou lay down thy life for my sake? Verily, verily, I say unto thee, The cock shall not crow, till thou hast denied me thrice.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

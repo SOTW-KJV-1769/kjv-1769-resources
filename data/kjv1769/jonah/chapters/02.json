@@ -1,0 +1,176 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "KJV1769",
+  "book_code": "JON",
+  "chapter": 2,
+  "verses": [
+    {
+      "id": "JON.2.1",
+      "edition_verse_id": "KJV1769:JON.2.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "Then Jonah prayed unto the LORD his God out of the fish’s belly,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JON.2.2",
+      "edition_verse_id": "KJV1769:JON.2.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "And said, I cried by reason of mine affliction unto the LORD, and he heard me; out of the belly of hell cried I, ",
+          "kind": "text"
+        },
+        {
+          "text": "and",
+          "kind": "supplied"
+        },
+        {
+          "text": " thou heardest my voice.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JON.2.3",
+      "edition_verse_id": "KJV1769:JON.2.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "For thou hadst cast me into the deep, in the midst of the seas; and the floods compassed me about: all thy billows and thy waves passed over me.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JON.2.4",
+      "edition_verse_id": "KJV1769:JON.2.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "Then I said, I am cast out of thy sight; yet I will look again toward thy holy temple.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JON.2.5",
+      "edition_verse_id": "KJV1769:JON.2.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "The waters compassed me about, ",
+          "kind": "text"
+        },
+        {
+          "text": "even",
+          "kind": "supplied"
+        },
+        {
+          "text": " to the soul: the depth closed me round about, the weeds were wrapped about my head.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JON.2.6",
+      "edition_verse_id": "KJV1769:JON.2.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "I went down to the bottoms of the mountains; the earth with her bars ",
+          "kind": "text"
+        },
+        {
+          "text": "was",
+          "kind": "supplied"
+        },
+        {
+          "text": " about me for ever: yet hast thou brought up my life from corruption, O LORD my God.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JON.2.7",
+      "edition_verse_id": "KJV1769:JON.2.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "When my soul fainted within me I remembered the LORD: and my prayer came in unto thee, into thine holy temple.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JON.2.8",
+      "edition_verse_id": "KJV1769:JON.2.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "They that observe lying vanities forsake their own mercy.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JON.2.9",
+      "edition_verse_id": "KJV1769:JON.2.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "But I will sacrifice unto thee with the voice of thanksgiving; I will pay ",
+          "kind": "text"
+        },
+        {
+          "text": "that",
+          "kind": "supplied"
+        },
+        {
+          "text": " that I have vowed. Salvation ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " of the LORD.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JON.2.10",
+      "edition_verse_id": "KJV1769:JON.2.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "¶ And the LORD spake unto the fish, and it vomited out Jonah upon the dry ",
+          "kind": "text"
+        },
+        {
+          "text": "land",
+          "kind": "supplied"
+        },
+        {
+          "text": ".",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    }
+  ]
+}

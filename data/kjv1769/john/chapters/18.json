@@ -1,0 +1,568 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "KJV1769",
+  "book_code": "JHN",
+  "chapter": 18,
+  "verses": [
+    {
+      "id": "JHN.18.1",
+      "edition_verse_id": "KJV1769:JHN.18.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "When Jesus had spoken these words, he went forth with his disciples over the brook Cedron, where was a garden, into the which he entered, and his disciples.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JHN.18.2",
+      "edition_verse_id": "KJV1769:JHN.18.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "And Judas also, which betrayed him, knew the place: for Jesus ofttimes resorted thither with his disciples.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.18.3",
+      "edition_verse_id": "KJV1769:JHN.18.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "Judas then, having received a band ",
+          "kind": "text"
+        },
+        {
+          "text": "of men",
+          "kind": "supplied"
+        },
+        {
+          "text": " and officers from the chief priests and Pharisees, cometh thither with lanterns and torches and weapons.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.18.4",
+      "edition_verse_id": "KJV1769:JHN.18.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "Jesus therefore, knowing all things that should come upon him, went forth, and said unto them, Whom seek ye?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.18.5",
+      "edition_verse_id": "KJV1769:JHN.18.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "They answered him, Jesus of Nazareth. Jesus saith unto them, I am ",
+          "kind": "text"
+        },
+        {
+          "text": "he",
+          "kind": "supplied"
+        },
+        {
+          "text": ". And Judas also, which betrayed him, stood with them.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.18.6",
+      "edition_verse_id": "KJV1769:JHN.18.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "As soon then as he had said unto them, I am ",
+          "kind": "text"
+        },
+        {
+          "text": "he",
+          "kind": "supplied"
+        },
+        {
+          "text": ", they went backward, and fell to the ground.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.18.7",
+      "edition_verse_id": "KJV1769:JHN.18.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "Then asked he them again, Whom seek ye? And they said, Jesus of Nazareth.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.18.8",
+      "edition_verse_id": "KJV1769:JHN.18.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "Jesus answered, I have told you that I am ",
+          "kind": "text"
+        },
+        {
+          "text": "he",
+          "kind": "supplied"
+        },
+        {
+          "text": ": if therefore ye seek me, let these go their way:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.18.9",
+      "edition_verse_id": "KJV1769:JHN.18.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "That the saying might be fulfilled, which he spake, Of them which thou gavest me have I lost none.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.18.10",
+      "edition_verse_id": "KJV1769:JHN.18.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "Then Simon Peter having a sword drew it, and smote the high priest’s servant, and cut off his right ear. The servant’s name was Malchus.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.18.11",
+      "edition_verse_id": "KJV1769:JHN.18.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "Then said Jesus unto Peter, Put up thy sword into the sheath: the cup which my Father hath given me, shall I not drink it?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.18.12",
+      "edition_verse_id": "KJV1769:JHN.18.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "Then the band and the captain and officers of the Jews took Jesus, and bound him,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.18.13",
+      "edition_verse_id": "KJV1769:JHN.18.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "And led him away to Annas first; for he was father in law to Caiaphas, which was the high priest that same year.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.18.14",
+      "edition_verse_id": "KJV1769:JHN.18.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "Now Caiaphas was he, which gave counsel to the Jews, that it was expedient that one man should die for the people.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.18.15",
+      "edition_verse_id": "KJV1769:JHN.18.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "¶ And Simon Peter followed Jesus, and ",
+          "kind": "text"
+        },
+        {
+          "text": "so did",
+          "kind": "supplied"
+        },
+        {
+          "text": " another disciple: that disciple was known unto the high priest, and went in with Jesus into the palace of the high priest.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JHN.18.16",
+      "edition_verse_id": "KJV1769:JHN.18.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "But Peter stood at the door without. Then went out that other disciple, which was known unto the high priest, and spake unto her that kept the door, and brought in Peter.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.18.17",
+      "edition_verse_id": "KJV1769:JHN.18.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "Then saith the damsel that kept the door unto Peter, Art not thou also ",
+          "kind": "text"
+        },
+        {
+          "text": "one",
+          "kind": "supplied"
+        },
+        {
+          "text": " of this man’s disciples? He saith, I am not.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.18.18",
+      "edition_verse_id": "KJV1769:JHN.18.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "And the servants and officers stood there, who had made a fire of coals; for it was cold: and they warmed themselves: and Peter stood with them, and warmed himself.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.18.19",
+      "edition_verse_id": "KJV1769:JHN.18.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "¶ The high priest then asked Jesus of his disciples, and of his doctrine.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JHN.18.20",
+      "edition_verse_id": "KJV1769:JHN.18.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "Jesus answered him, I spake openly to the world; I ever taught in the synagogue, and in the temple, whither the Jews always resort; and in secret have I said nothing.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.18.21",
+      "edition_verse_id": "KJV1769:JHN.18.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "Why askest thou me? ask them which heard me, what I have said unto them: behold, they know what I said.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.18.22",
+      "edition_verse_id": "KJV1769:JHN.18.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "And when he had thus spoken, one of the officers which stood by struck Jesus with the palm of his hand, saying, Answerest thou the high priest so?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.18.23",
+      "edition_verse_id": "KJV1769:JHN.18.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "Jesus answered him, If I have spoken evil, bear witness of the evil: but if well, why smitest thou me?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.18.24",
+      "edition_verse_id": "KJV1769:JHN.18.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "Now Annas had sent him bound unto Caiaphas the high priest.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.18.25",
+      "edition_verse_id": "KJV1769:JHN.18.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "And Simon Peter stood and warmed himself. They said therefore unto him, Art not thou also ",
+          "kind": "text"
+        },
+        {
+          "text": "one",
+          "kind": "supplied"
+        },
+        {
+          "text": " of his disciples? He denied ",
+          "kind": "text"
+        },
+        {
+          "text": "it",
+          "kind": "supplied"
+        },
+        {
+          "text": ", and said, I am not.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.18.26",
+      "edition_verse_id": "KJV1769:JHN.18.26",
+      "verse": 26,
+      "spans": [
+        {
+          "text": "One of the servants of the high priest, being ",
+          "kind": "text"
+        },
+        {
+          "text": "his",
+          "kind": "supplied"
+        },
+        {
+          "text": " kinsman whose ear Peter cut off, saith, Did not I see thee in the garden with him?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.18.27",
+      "edition_verse_id": "KJV1769:JHN.18.27",
+      "verse": 27,
+      "spans": [
+        {
+          "text": "Peter then denied again: and immediately the cock crew.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.18.28",
+      "edition_verse_id": "KJV1769:JHN.18.28",
+      "verse": 28,
+      "spans": [
+        {
+          "text": "¶ Then led they Jesus from Caiaphas unto the hall of judgment: and it was early; and they themselves went not into the judgment hall, lest they should be defiled; but that they might eat the passover.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JHN.18.29",
+      "edition_verse_id": "KJV1769:JHN.18.29",
+      "verse": 29,
+      "spans": [
+        {
+          "text": "Pilate then went out unto them, and said, What accusation bring ye against this man?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.18.30",
+      "edition_verse_id": "KJV1769:JHN.18.30",
+      "verse": 30,
+      "spans": [
+        {
+          "text": "They answered and said unto him, If he were not a malefactor, we would not have delivered him up unto thee.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.18.31",
+      "edition_verse_id": "KJV1769:JHN.18.31",
+      "verse": 31,
+      "spans": [
+        {
+          "text": "Then said Pilate unto them, Take ye him, and judge him according to your law. The Jews therefore said unto him, It is not lawful for us to put any man to death:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.18.32",
+      "edition_verse_id": "KJV1769:JHN.18.32",
+      "verse": 32,
+      "spans": [
+        {
+          "text": "That the saying of Jesus might be fulfilled, which he spake, signifying what death he should die.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.18.33",
+      "edition_verse_id": "KJV1769:JHN.18.33",
+      "verse": 33,
+      "spans": [
+        {
+          "text": "Then Pilate entered into the judgment hall again, and called Jesus, and said unto him, Art thou the King of the Jews?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.18.34",
+      "edition_verse_id": "KJV1769:JHN.18.34",
+      "verse": 34,
+      "spans": [
+        {
+          "text": "Jesus answered him, Sayest thou this thing of thyself, or did others tell it thee of me?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.18.35",
+      "edition_verse_id": "KJV1769:JHN.18.35",
+      "verse": 35,
+      "spans": [
+        {
+          "text": "Pilate answered, Am I a Jew? Thine own nation and the chief priests have delivered thee unto me: what hast thou done?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.18.36",
+      "edition_verse_id": "KJV1769:JHN.18.36",
+      "verse": 36,
+      "spans": [
+        {
+          "text": "Jesus answered, My kingdom is not of this world: if my kingdom were of this world, then would my servants fight, that I should not be delivered to the Jews: but now is my kingdom not from hence.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.18.37",
+      "edition_verse_id": "KJV1769:JHN.18.37",
+      "verse": 37,
+      "spans": [
+        {
+          "text": "Pilate therefore said unto him, Art thou a king then? Jesus answered, Thou sayest that I am a king. To this end was I born, and for this cause came I into the world, that I should bear witness unto the truth. Every one that is of the truth heareth my voice.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.18.38",
+      "edition_verse_id": "KJV1769:JHN.18.38",
+      "verse": 38,
+      "spans": [
+        {
+          "text": "Pilate saith unto him, What is truth? And when he had said this, he went out again unto the Jews, and saith unto them, I find in him no fault ",
+          "kind": "text"
+        },
+        {
+          "text": "at all",
+          "kind": "supplied"
+        },
+        {
+          "text": ".",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.18.39",
+      "edition_verse_id": "KJV1769:JHN.18.39",
+      "verse": 39,
+      "spans": [
+        {
+          "text": "But ye have a custom, that I should release unto you one at the passover: will ye therefore that I release unto you the King of the Jews?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.18.40",
+      "edition_verse_id": "KJV1769:JHN.18.40",
+      "verse": 40,
+      "spans": [
+        {
+          "text": "Then cried they all again, saying, Not this man, but Barabbas. Now Barabbas was a robber.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

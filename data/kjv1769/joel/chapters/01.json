@@ -1,0 +1,320 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "KJV1769",
+  "book_code": "JOL",
+  "chapter": 1,
+  "verses": [
+    {
+      "id": "JOL.1.1",
+      "edition_verse_id": "KJV1769:JOL.1.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "The word of the LORD that came to Joel the son of Pethuel.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOL.1.2",
+      "edition_verse_id": "KJV1769:JOL.1.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "Hear this, ye old men, and give ear, all ye inhabitants of the land. Hath this been in your days, or even in the days of your fathers?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOL.1.3",
+      "edition_verse_id": "KJV1769:JOL.1.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "Tell ye your children of it, and ",
+          "kind": "text"
+        },
+        {
+          "text": "let",
+          "kind": "supplied"
+        },
+        {
+          "text": " your children ",
+          "kind": "text"
+        },
+        {
+          "text": "tell",
+          "kind": "supplied"
+        },
+        {
+          "text": " their children, and their children another generation.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOL.1.4",
+      "edition_verse_id": "KJV1769:JOL.1.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "That which the palmerworm hath left hath the locust eaten; and that which the locust hath left hath the cankerworm eaten; and that which the cankerworm hath left hath the caterpiller eaten.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOL.1.5",
+      "edition_verse_id": "KJV1769:JOL.1.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "Awake, ye drunkards, and weep; and howl, all ye drinkers of wine, because of the new wine; for it is cut off from your mouth.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOL.1.6",
+      "edition_verse_id": "KJV1769:JOL.1.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "For a nation is come up upon my land, strong, and without number, whose teeth ",
+          "kind": "text"
+        },
+        {
+          "text": "are",
+          "kind": "supplied"
+        },
+        {
+          "text": " the teeth of a lion, and he hath the cheek teeth of a great lion.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOL.1.7",
+      "edition_verse_id": "KJV1769:JOL.1.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "He hath laid my vine waste, and barked my fig tree: he hath made it clean bare, and cast ",
+          "kind": "text"
+        },
+        {
+          "text": "it",
+          "kind": "supplied"
+        },
+        {
+          "text": " away; the branches thereof are made white.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOL.1.8",
+      "edition_verse_id": "KJV1769:JOL.1.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "¶ Lament like a virgin girded with sackcloth for the husband of her youth.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOL.1.9",
+      "edition_verse_id": "KJV1769:JOL.1.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "The meat offering and the drink offering is cut off from the house of the LORD; the priests, the LORD’s ministers, mourn.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOL.1.10",
+      "edition_verse_id": "KJV1769:JOL.1.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "The field is wasted, the land mourneth; for the corn is wasted: the new wine is dried up, the oil languisheth.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOL.1.11",
+      "edition_verse_id": "KJV1769:JOL.1.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "Be ye ashamed, O ye husbandmen; howl, O ye vinedressers, for the wheat and for the barley; because the harvest of the field is perished.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOL.1.12",
+      "edition_verse_id": "KJV1769:JOL.1.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "The vine is dried up, and the fig tree languisheth; the pomegranate tree, the palm tree also, and the apple tree, ",
+          "kind": "text"
+        },
+        {
+          "text": "even",
+          "kind": "supplied"
+        },
+        {
+          "text": " all the trees of the field, are withered: because joy is withered away from the sons of men.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOL.1.13",
+      "edition_verse_id": "KJV1769:JOL.1.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "Gird yourselves, and lament, ye priests: howl, ye ministers of the altar: come, lie all night in sackcloth, ye ministers of my God: for the meat offering and the drink offering is withholden from the house of your God.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOL.1.14",
+      "edition_verse_id": "KJV1769:JOL.1.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "¶ Sanctify ye a fast, call a solemn assembly, gather the elders ",
+          "kind": "text"
+        },
+        {
+          "text": "and",
+          "kind": "supplied"
+        },
+        {
+          "text": " all the inhabitants of the land ",
+          "kind": "text"
+        },
+        {
+          "text": "into",
+          "kind": "supplied"
+        },
+        {
+          "text": " the house of the LORD your God, and cry unto the LORD,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOL.1.15",
+      "edition_verse_id": "KJV1769:JOL.1.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "Alas for the day! for the day of the LORD ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " at hand, and as a destruction from the Almighty shall it come.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOL.1.16",
+      "edition_verse_id": "KJV1769:JOL.1.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "Is not the meat cut off before our eyes, ",
+          "kind": "text"
+        },
+        {
+          "text": "yea",
+          "kind": "supplied"
+        },
+        {
+          "text": ", joy and gladness from the house of our God?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOL.1.17",
+      "edition_verse_id": "KJV1769:JOL.1.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "The seed is rotten under their clods, the garners are laid desolate, the barns are broken down; for the corn is withered.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOL.1.18",
+      "edition_verse_id": "KJV1769:JOL.1.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "How do the beasts groan! the herds of cattle are perplexed, because they have no pasture; yea, the flocks of sheep are made desolate.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOL.1.19",
+      "edition_verse_id": "KJV1769:JOL.1.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "O LORD, to thee will I cry: for the fire hath devoured the pastures of the wilderness, and the flame hath burned all the trees of the field.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOL.1.20",
+      "edition_verse_id": "KJV1769:JOL.1.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "The beasts of the field cry also unto thee: for the rivers of waters are dried up, and the fire hath devoured the pastures of the wilderness.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

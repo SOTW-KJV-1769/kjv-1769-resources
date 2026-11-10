@@ -1,0 +1,112 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "KJV1769",
+  "book_code": "JOB",
+  "chapter": 25,
+  "verses": [
+    {
+      "id": "JOB.25.1",
+      "edition_verse_id": "KJV1769:JOB.25.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "Then answered Bildad the Shuhite, and said,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOB.25.2",
+      "edition_verse_id": "KJV1769:JOB.25.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "Dominion and fear ",
+          "kind": "text"
+        },
+        {
+          "text": "are",
+          "kind": "supplied"
+        },
+        {
+          "text": " with him, he maketh peace in his high places.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.25.3",
+      "edition_verse_id": "KJV1769:JOB.25.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "Is there any number of his armies? and upon whom doth not his light arise?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.25.4",
+      "edition_verse_id": "KJV1769:JOB.25.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "How then can man be justified with God? or how can he be clean ",
+          "kind": "text"
+        },
+        {
+          "text": "that is",
+          "kind": "supplied"
+        },
+        {
+          "text": " born of a woman?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.25.5",
+      "edition_verse_id": "KJV1769:JOB.25.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "Behold even to the moon, and it shineth not; yea, the stars are not pure in his sight.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.25.6",
+      "edition_verse_id": "KJV1769:JOB.25.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "How much less man, ",
+          "kind": "text"
+        },
+        {
+          "text": "that is",
+          "kind": "supplied"
+        },
+        {
+          "text": " a worm? and the son of man, ",
+          "kind": "text"
+        },
+        {
+          "text": "which is",
+          "kind": "supplied"
+        },
+        {
+          "text": " a worm?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

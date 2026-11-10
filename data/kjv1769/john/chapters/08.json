@@ -1,0 +1,860 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "KJV1769",
+  "book_code": "JHN",
+  "chapter": 8,
+  "verses": [
+    {
+      "id": "JHN.8.1",
+      "edition_verse_id": "KJV1769:JHN.8.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "Jesus went unto the mount of Olives.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JHN.8.2",
+      "edition_verse_id": "KJV1769:JHN.8.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "And early in the morning he came again into the temple, and all the people came unto him; and he sat down, and taught them.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.8.3",
+      "edition_verse_id": "KJV1769:JHN.8.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "And the scribes and Pharisees brought unto him a woman taken in adultery; and when they had set her in the midst,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.8.4",
+      "edition_verse_id": "KJV1769:JHN.8.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "They say unto him, Master, this woman was taken in adultery, in the very act.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.8.5",
+      "edition_verse_id": "KJV1769:JHN.8.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "Now Moses in the law commanded us, that such should be stoned: but what sayest thou?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.8.6",
+      "edition_verse_id": "KJV1769:JHN.8.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "This they said, tempting him, that they might have to accuse him. But Jesus stooped down, and with ",
+          "kind": "text"
+        },
+        {
+          "text": "his",
+          "kind": "supplied"
+        },
+        {
+          "text": " finger wrote on the ground, ",
+          "kind": "text"
+        },
+        {
+          "text": "as though he heard them not",
+          "kind": "supplied"
+        },
+        {
+          "text": ".",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.8.7",
+      "edition_verse_id": "KJV1769:JHN.8.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "So when they continued asking him, he lifted up himself, and said unto them, He that is without sin among you, let him first cast a stone at her.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.8.8",
+      "edition_verse_id": "KJV1769:JHN.8.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "And again he stooped down, and wrote on the ground.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.8.9",
+      "edition_verse_id": "KJV1769:JHN.8.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "And they which heard ",
+          "kind": "text"
+        },
+        {
+          "text": "it",
+          "kind": "supplied"
+        },
+        {
+          "text": ", being convicted by ",
+          "kind": "text"
+        },
+        {
+          "text": "their own",
+          "kind": "supplied"
+        },
+        {
+          "text": " conscience, went out one by one, beginning at the eldest, ",
+          "kind": "text"
+        },
+        {
+          "text": "even",
+          "kind": "supplied"
+        },
+        {
+          "text": " unto the last: and Jesus was left alone, and the woman standing in the midst.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.8.10",
+      "edition_verse_id": "KJV1769:JHN.8.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "When Jesus had lifted up himself, and saw none but the woman, he said unto her, Woman, where are those thine accusers? hath no man condemned thee?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.8.11",
+      "edition_verse_id": "KJV1769:JHN.8.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "She said, No man, Lord. And Jesus said unto her, Neither do I condemn thee: go, and sin no more.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.8.12",
+      "edition_verse_id": "KJV1769:JHN.8.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "¶ Then spake Jesus again unto them, saying, I am the light of the world: he that followeth me shall not walk in darkness, but shall have the light of life.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JHN.8.13",
+      "edition_verse_id": "KJV1769:JHN.8.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "The Pharisees therefore said unto him, Thou bearest record of thyself; thy record is not true.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.8.14",
+      "edition_verse_id": "KJV1769:JHN.8.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "Jesus answered and said unto them, Though I bear record of myself, ",
+          "kind": "text"
+        },
+        {
+          "text": "yet",
+          "kind": "supplied"
+        },
+        {
+          "text": " my record is true: for I know whence I came, and whither I go; but ye cannot tell whence I come, and whither I go.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.8.15",
+      "edition_verse_id": "KJV1769:JHN.8.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "Ye judge after the flesh; I judge no man.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.8.16",
+      "edition_verse_id": "KJV1769:JHN.8.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "And yet if I judge, my judgment is true: for I am not alone, but I and the Father that sent me.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.8.17",
+      "edition_verse_id": "KJV1769:JHN.8.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "It is also written in your law, that the testimony of two men is true.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.8.18",
+      "edition_verse_id": "KJV1769:JHN.8.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "I am one that bear witness of myself, and the Father that sent me beareth witness of me.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.8.19",
+      "edition_verse_id": "KJV1769:JHN.8.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "Then said they unto him, Where is thy Father? Jesus answered, Ye neither know me, nor my Father: if ye had known me, ye should have known my Father also.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.8.20",
+      "edition_verse_id": "KJV1769:JHN.8.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "These words spake Jesus in the treasury, as he taught in the temple: and no man laid hands on him; for his hour was not yet come.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.8.21",
+      "edition_verse_id": "KJV1769:JHN.8.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "Then said Jesus again unto them, I go my way, and ye shall seek me, and shall die in your sins: whither I go, ye cannot come.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.8.22",
+      "edition_verse_id": "KJV1769:JHN.8.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "Then said the Jews, Will he kill himself? because he saith, Whither I go, ye cannot come.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.8.23",
+      "edition_verse_id": "KJV1769:JHN.8.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "And he said unto them, Ye are from beneath; I am from above: ye are of this world; I am not of this world.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.8.24",
+      "edition_verse_id": "KJV1769:JHN.8.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "I said therefore unto you, that ye shall die in your sins: for if ye believe not that I am ",
+          "kind": "text"
+        },
+        {
+          "text": "he",
+          "kind": "supplied"
+        },
+        {
+          "text": ", ye shall die in your sins.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.8.25",
+      "edition_verse_id": "KJV1769:JHN.8.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "Then said they unto him, Who art thou? And Jesus saith unto them, Even ",
+          "kind": "text"
+        },
+        {
+          "text": "the same",
+          "kind": "supplied"
+        },
+        {
+          "text": " that I said unto you from the beginning.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.8.26",
+      "edition_verse_id": "KJV1769:JHN.8.26",
+      "verse": 26,
+      "spans": [
+        {
+          "text": "I have many things to say and to judge of you: but he that sent me is true; and I speak to the world those things which I have heard of him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.8.27",
+      "edition_verse_id": "KJV1769:JHN.8.27",
+      "verse": 27,
+      "spans": [
+        {
+          "text": "They understood not that he spake to them of the Father.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.8.28",
+      "edition_verse_id": "KJV1769:JHN.8.28",
+      "verse": 28,
+      "spans": [
+        {
+          "text": "Then said Jesus unto them, When ye have lifted up the Son of man, then shall ye know that I am ",
+          "kind": "text"
+        },
+        {
+          "text": "he",
+          "kind": "supplied"
+        },
+        {
+          "text": ", and ",
+          "kind": "text"
+        },
+        {
+          "text": "that",
+          "kind": "supplied"
+        },
+        {
+          "text": " I do nothing of myself; but as my Father hath taught me, I speak these things.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.8.29",
+      "edition_verse_id": "KJV1769:JHN.8.29",
+      "verse": 29,
+      "spans": [
+        {
+          "text": "And he that sent me is with me: the Father hath not left me alone; for I do always those things that please him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.8.30",
+      "edition_verse_id": "KJV1769:JHN.8.30",
+      "verse": 30,
+      "spans": [
+        {
+          "text": "As he spake these words, many believed on him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.8.31",
+      "edition_verse_id": "KJV1769:JHN.8.31",
+      "verse": 31,
+      "spans": [
+        {
+          "text": "Then said Jesus to those Jews which believed on him, If ye continue in my word, ",
+          "kind": "text"
+        },
+        {
+          "text": "then",
+          "kind": "supplied"
+        },
+        {
+          "text": " are ye my disciples indeed;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.8.32",
+      "edition_verse_id": "KJV1769:JHN.8.32",
+      "verse": 32,
+      "spans": [
+        {
+          "text": "And ye shall know the truth, and the truth shall make you free.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.8.33",
+      "edition_verse_id": "KJV1769:JHN.8.33",
+      "verse": 33,
+      "spans": [
+        {
+          "text": "¶ They answered him, We be Abraham’s seed, and were never in bondage to any man: how sayest thou, Ye shall be made free?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JHN.8.34",
+      "edition_verse_id": "KJV1769:JHN.8.34",
+      "verse": 34,
+      "spans": [
+        {
+          "text": "Jesus answered them, Verily, verily, I say unto you, Whosoever committeth sin is the servant of sin.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.8.35",
+      "edition_verse_id": "KJV1769:JHN.8.35",
+      "verse": 35,
+      "spans": [
+        {
+          "text": "And the servant abideth not in the house for ever: ",
+          "kind": "text"
+        },
+        {
+          "text": "but",
+          "kind": "supplied"
+        },
+        {
+          "text": " the Son abideth ever.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.8.36",
+      "edition_verse_id": "KJV1769:JHN.8.36",
+      "verse": 36,
+      "spans": [
+        {
+          "text": "If the Son therefore shall make you free, ye shall be free indeed.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.8.37",
+      "edition_verse_id": "KJV1769:JHN.8.37",
+      "verse": 37,
+      "spans": [
+        {
+          "text": "I know that ye are Abraham’s seed; but ye seek to kill me, because my word hath no place in you.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.8.38",
+      "edition_verse_id": "KJV1769:JHN.8.38",
+      "verse": 38,
+      "spans": [
+        {
+          "text": "I speak that which I have seen with my Father: and ye do that which ye have seen with your father.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.8.39",
+      "edition_verse_id": "KJV1769:JHN.8.39",
+      "verse": 39,
+      "spans": [
+        {
+          "text": "They answered and said unto him, Abraham is our father. Jesus saith unto them, If ye were Abraham’s children, ye would do the works of Abraham.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.8.40",
+      "edition_verse_id": "KJV1769:JHN.8.40",
+      "verse": 40,
+      "spans": [
+        {
+          "text": "But now ye seek to kill me, a man that hath told you the truth, which I have heard of God: this did not Abraham.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.8.41",
+      "edition_verse_id": "KJV1769:JHN.8.41",
+      "verse": 41,
+      "spans": [
+        {
+          "text": "Ye do the deeds of your father. Then said they to him, We be not born of fornication; we have one Father, ",
+          "kind": "text"
+        },
+        {
+          "text": "even",
+          "kind": "supplied"
+        },
+        {
+          "text": " God.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.8.42",
+      "edition_verse_id": "KJV1769:JHN.8.42",
+      "verse": 42,
+      "spans": [
+        {
+          "text": "Jesus said unto them, If God were your Father, ye would love me: for I proceeded forth and came from God; neither came I of myself, but he sent me.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.8.43",
+      "edition_verse_id": "KJV1769:JHN.8.43",
+      "verse": 43,
+      "spans": [
+        {
+          "text": "Why do ye not understand my speech? ",
+          "kind": "text"
+        },
+        {
+          "text": "even",
+          "kind": "supplied"
+        },
+        {
+          "text": " because ye cannot hear my word.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.8.44",
+      "edition_verse_id": "KJV1769:JHN.8.44",
+      "verse": 44,
+      "spans": [
+        {
+          "text": "Ye are of ",
+          "kind": "text"
+        },
+        {
+          "text": "your",
+          "kind": "supplied"
+        },
+        {
+          "text": " father the devil, and the lusts of your father ye will do. He was a murderer from the beginning, and abode not in the truth, because there is no truth in him. When he speaketh a lie, he speaketh of his own: for he is a liar, and the father of it.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.8.45",
+      "edition_verse_id": "KJV1769:JHN.8.45",
+      "verse": 45,
+      "spans": [
+        {
+          "text": "And because I tell ",
+          "kind": "text"
+        },
+        {
+          "text": "you",
+          "kind": "supplied"
+        },
+        {
+          "text": " the truth, ye believe me not.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.8.46",
+      "edition_verse_id": "KJV1769:JHN.8.46",
+      "verse": 46,
+      "spans": [
+        {
+          "text": "Which of you convinceth me of sin? And if I say the truth, why do ye not believe me?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.8.47",
+      "edition_verse_id": "KJV1769:JHN.8.47",
+      "verse": 47,
+      "spans": [
+        {
+          "text": "He that is of God heareth God’s words: ye therefore hear ",
+          "kind": "text"
+        },
+        {
+          "text": "them",
+          "kind": "supplied"
+        },
+        {
+          "text": " not, because ye are not of God.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.8.48",
+      "edition_verse_id": "KJV1769:JHN.8.48",
+      "verse": 48,
+      "spans": [
+        {
+          "text": "Then answered the Jews, and said unto him, Say we not well that thou art a Samaritan, and hast a devil?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.8.49",
+      "edition_verse_id": "KJV1769:JHN.8.49",
+      "verse": 49,
+      "spans": [
+        {
+          "text": "Jesus answered, I have not a devil; but I honour my Father, and ye do dishonour me.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.8.50",
+      "edition_verse_id": "KJV1769:JHN.8.50",
+      "verse": 50,
+      "spans": [
+        {
+          "text": "And I seek not mine own glory: there is one that seeketh and judgeth.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.8.51",
+      "edition_verse_id": "KJV1769:JHN.8.51",
+      "verse": 51,
+      "spans": [
+        {
+          "text": "Verily, verily, I say unto you, If a man keep my saying, he shall never see death.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.8.52",
+      "edition_verse_id": "KJV1769:JHN.8.52",
+      "verse": 52,
+      "spans": [
+        {
+          "text": "Then said the Jews unto him, Now we know that thou hast a devil. Abraham is dead, and the prophets; and thou sayest, If a man keep my saying, he shall never taste of death.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.8.53",
+      "edition_verse_id": "KJV1769:JHN.8.53",
+      "verse": 53,
+      "spans": [
+        {
+          "text": "Art thou greater than our father Abraham, which is dead? and the prophets are dead: whom makest thou thyself?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.8.54",
+      "edition_verse_id": "KJV1769:JHN.8.54",
+      "verse": 54,
+      "spans": [
+        {
+          "text": "Jesus answered, If I honour myself, my honour is nothing: it is my Father that honoureth me; of whom ye say, that he is your God:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.8.55",
+      "edition_verse_id": "KJV1769:JHN.8.55",
+      "verse": 55,
+      "spans": [
+        {
+          "text": "Yet ye have not known him; but I know him: and if I should say, I know him not, I shall be a liar like unto you: but I know him, and keep his saying.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.8.56",
+      "edition_verse_id": "KJV1769:JHN.8.56",
+      "verse": 56,
+      "spans": [
+        {
+          "text": "Your father Abraham rejoiced to see my day: and he saw ",
+          "kind": "text"
+        },
+        {
+          "text": "it",
+          "kind": "supplied"
+        },
+        {
+          "text": ", and was glad.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.8.57",
+      "edition_verse_id": "KJV1769:JHN.8.57",
+      "verse": 57,
+      "spans": [
+        {
+          "text": "Then said the Jews unto him, Thou art not yet fifty years old, and hast thou seen Abraham?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.8.58",
+      "edition_verse_id": "KJV1769:JHN.8.58",
+      "verse": 58,
+      "spans": [
+        {
+          "text": "Jesus said unto them, Verily, verily, I say unto you, Before Abraham was, I am.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.8.59",
+      "edition_verse_id": "KJV1769:JHN.8.59",
+      "verse": 59,
+      "spans": [
+        {
+          "text": "Then took they up stones to cast at him: but Jesus hid himself, and went out of the temple, going through the midst of them, and so passed by.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}
