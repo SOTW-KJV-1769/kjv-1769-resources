@@ -1,0 +1,572 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "KJV1769",
+  "book_code": "MRK",
+  "chapter": 7,
+  "verses": [
+    {
+      "id": "MRK.7.1",
+      "edition_verse_id": "KJV1769:MRK.7.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "Then came together unto him the Pharisees, and certain of the scribes, which came from Jerusalem.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MRK.7.2",
+      "edition_verse_id": "KJV1769:MRK.7.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "And when they saw some of his disciples eat bread with defiled, that is to say, with unwashen, hands, they found fault.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.7.3",
+      "edition_verse_id": "KJV1769:MRK.7.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "For the Pharisees, and all the Jews, except they wash ",
+          "kind": "text"
+        },
+        {
+          "text": "their",
+          "kind": "supplied"
+        },
+        {
+          "text": " hands oft, eat not, holding the tradition of the elders.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.7.4",
+      "edition_verse_id": "KJV1769:MRK.7.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "And ",
+          "kind": "text"
+        },
+        {
+          "text": "when they come",
+          "kind": "supplied"
+        },
+        {
+          "text": " from the market, except they wash, they eat not. And many other things there be, which they have received to hold, ",
+          "kind": "text"
+        },
+        {
+          "text": "as",
+          "kind": "supplied"
+        },
+        {
+          "text": " the washing of cups, and pots, brasen vessels, and of tables.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.7.5",
+      "edition_verse_id": "KJV1769:MRK.7.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "Then the Pharisees and scribes asked him, Why walk not thy disciples according to the tradition of the elders, but eat bread with unwashen hands?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.7.6",
+      "edition_verse_id": "KJV1769:MRK.7.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "He answered and said unto them, Well hath Esaias prophesied of you hypocrites, as it is written, This people honoureth me with ",
+          "kind": "text"
+        },
+        {
+          "text": "their",
+          "kind": "supplied"
+        },
+        {
+          "text": " lips, but their heart is far from me.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.7.7",
+      "edition_verse_id": "KJV1769:MRK.7.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "Howbeit in vain do they worship me, teaching ",
+          "kind": "text"
+        },
+        {
+          "text": "for",
+          "kind": "supplied"
+        },
+        {
+          "text": " doctrines the commandments of men.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.7.8",
+      "edition_verse_id": "KJV1769:MRK.7.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "For laying aside the commandment of God, ye hold the tradition of men, ",
+          "kind": "text"
+        },
+        {
+          "text": "as",
+          "kind": "supplied"
+        },
+        {
+          "text": " the washing of pots and cups: and many other such like things ye do.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.7.9",
+      "edition_verse_id": "KJV1769:MRK.7.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "And he said unto them, Full well ye reject the commandment of God, that ye may keep your own tradition.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.7.10",
+      "edition_verse_id": "KJV1769:MRK.7.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "For Moses said, Honour thy father and thy mother; and, Whoso curseth father or mother, let him die the death:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.7.11",
+      "edition_verse_id": "KJV1769:MRK.7.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "But ye say, If a man shall say to his father or mother, ",
+          "kind": "text"
+        },
+        {
+          "text": "It is",
+          "kind": "supplied"
+        },
+        {
+          "text": " Corban, that is to say, a gift, by whatsoever thou mightest be profited by me; ",
+          "kind": "text"
+        },
+        {
+          "text": "he shall be free",
+          "kind": "supplied"
+        },
+        {
+          "text": ".",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.7.12",
+      "edition_verse_id": "KJV1769:MRK.7.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "And ye suffer him no more to do ought for his father or his mother;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.7.13",
+      "edition_verse_id": "KJV1769:MRK.7.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "Making the word of God of none effect through your tradition, which ye have delivered: and many such like things do ye.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.7.14",
+      "edition_verse_id": "KJV1769:MRK.7.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "¶ And when he had called all the people ",
+          "kind": "text"
+        },
+        {
+          "text": "unto him",
+          "kind": "supplied"
+        },
+        {
+          "text": ", he said unto them, Hearken unto me every one ",
+          "kind": "text"
+        },
+        {
+          "text": "of you",
+          "kind": "supplied"
+        },
+        {
+          "text": ", and understand:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MRK.7.15",
+      "edition_verse_id": "KJV1769:MRK.7.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "There is nothing from without a man, that entering into him can defile him: but the things which come out of him, those are they that defile the man.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.7.16",
+      "edition_verse_id": "KJV1769:MRK.7.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "If any man have ears to hear, let him hear.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.7.17",
+      "edition_verse_id": "KJV1769:MRK.7.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "And when he was entered into the house from the people, his disciples asked him concerning the parable.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.7.18",
+      "edition_verse_id": "KJV1769:MRK.7.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "And he saith unto them, Are ye so without understanding also? Do ye not perceive, that whatsoever thing from without entereth into the man, ",
+          "kind": "text"
+        },
+        {
+          "text": "it",
+          "kind": "supplied"
+        },
+        {
+          "text": " cannot defile him;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.7.19",
+      "edition_verse_id": "KJV1769:MRK.7.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "Because it entereth not into his heart, but into the belly, and goeth out into the draught, purging all meats?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.7.20",
+      "edition_verse_id": "KJV1769:MRK.7.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "And he said, That which cometh out of the man, that defileth the man.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.7.21",
+      "edition_verse_id": "KJV1769:MRK.7.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "For from within, out of the heart of men, proceed evil thoughts, adulteries, fornications, murders,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.7.22",
+      "edition_verse_id": "KJV1769:MRK.7.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "Thefts, covetousness, wickedness, deceit, lasciviousness, an evil eye, blasphemy, pride, foolishness:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.7.23",
+      "edition_verse_id": "KJV1769:MRK.7.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "All these evil things come from within, and defile the man.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.7.24",
+      "edition_verse_id": "KJV1769:MRK.7.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "¶ And from thence he arose, and went into the borders of Tyre and Sidon, and entered into an house, and would have no man know ",
+          "kind": "text"
+        },
+        {
+          "text": "it",
+          "kind": "supplied"
+        },
+        {
+          "text": ": but he could not be hid.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MRK.7.25",
+      "edition_verse_id": "KJV1769:MRK.7.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "For a ",
+          "kind": "text"
+        },
+        {
+          "text": "certain",
+          "kind": "supplied"
+        },
+        {
+          "text": " woman, whose young daughter had an unclean spirit, heard of him, and came and fell at his feet:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.7.26",
+      "edition_verse_id": "KJV1769:MRK.7.26",
+      "verse": 26,
+      "spans": [
+        {
+          "text": "The woman was a Greek, a Syrophenician by nation; and she besought him that he would cast forth the devil out of her daughter.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.7.27",
+      "edition_verse_id": "KJV1769:MRK.7.27",
+      "verse": 27,
+      "spans": [
+        {
+          "text": "But Jesus said unto her, Let the children first be filled: for it is not meet to take the children’s bread, and to cast ",
+          "kind": "text"
+        },
+        {
+          "text": "it",
+          "kind": "supplied"
+        },
+        {
+          "text": " unto the dogs.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.7.28",
+      "edition_verse_id": "KJV1769:MRK.7.28",
+      "verse": 28,
+      "spans": [
+        {
+          "text": "And she answered and said unto him, Yes, Lord: yet the dogs under the table eat of the children’s crumbs.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.7.29",
+      "edition_verse_id": "KJV1769:MRK.7.29",
+      "verse": 29,
+      "spans": [
+        {
+          "text": "And he said unto her, For this saying go thy way; the devil is gone out of thy daughter.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.7.30",
+      "edition_verse_id": "KJV1769:MRK.7.30",
+      "verse": 30,
+      "spans": [
+        {
+          "text": "And when she was come to her house, she found the devil gone out, and her daughter laid upon the bed.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.7.31",
+      "edition_verse_id": "KJV1769:MRK.7.31",
+      "verse": 31,
+      "spans": [
+        {
+          "text": "¶ And again, departing from the coasts of Tyre and Sidon, he came unto the sea of Galilee, through the midst of the coasts of Decapolis.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MRK.7.32",
+      "edition_verse_id": "KJV1769:MRK.7.32",
+      "verse": 32,
+      "spans": [
+        {
+          "text": "And they bring unto him one that was deaf, and had an impediment in his speech; and they beseech him to put his hand upon him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.7.33",
+      "edition_verse_id": "KJV1769:MRK.7.33",
+      "verse": 33,
+      "spans": [
+        {
+          "text": "And he took him aside from the multitude, and put his fingers into his ears, and he spit, and touched his tongue;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.7.34",
+      "edition_verse_id": "KJV1769:MRK.7.34",
+      "verse": 34,
+      "spans": [
+        {
+          "text": "And looking up to heaven, he sighed, and saith unto him, Ephphatha, that is, Be opened.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.7.35",
+      "edition_verse_id": "KJV1769:MRK.7.35",
+      "verse": 35,
+      "spans": [
+        {
+          "text": "And straightway his ears were opened, and the string of his tongue was loosed, and he spake plain.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.7.36",
+      "edition_verse_id": "KJV1769:MRK.7.36",
+      "verse": 36,
+      "spans": [
+        {
+          "text": "And he charged them that they should tell no man: but the more he charged them, so much the more a great deal they published ",
+          "kind": "text"
+        },
+        {
+          "text": "it",
+          "kind": "supplied"
+        },
+        {
+          "text": ";",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.7.37",
+      "edition_verse_id": "KJV1769:MRK.7.37",
+      "verse": 37,
+      "spans": [
+        {
+          "text": "And were beyond measure astonished, saying, He hath done all things well: he maketh both the deaf to hear, and the dumb to speak.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

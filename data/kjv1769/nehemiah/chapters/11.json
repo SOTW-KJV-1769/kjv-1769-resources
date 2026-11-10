@@ -1,0 +1,732 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "KJV1769",
+  "book_code": "NEH",
+  "chapter": 11,
+  "verses": [
+    {
+      "id": "NEH.11.1",
+      "edition_verse_id": "KJV1769:NEH.11.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "And the rulers of the people dwelt at Jerusalem: the rest of the people also cast lots, to bring one of ten to dwell in Jerusalem the holy city, and nine parts ",
+          "kind": "text"
+        },
+        {
+          "text": "to dwell",
+          "kind": "supplied"
+        },
+        {
+          "text": " in ",
+          "kind": "text"
+        },
+        {
+          "text": "other",
+          "kind": "supplied"
+        },
+        {
+          "text": " cities.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "NEH.11.2",
+      "edition_verse_id": "KJV1769:NEH.11.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "And the people blessed all the men, that willingly offered themselves to dwell at Jerusalem.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NEH.11.3",
+      "edition_verse_id": "KJV1769:NEH.11.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "¶ Now these ",
+          "kind": "text"
+        },
+        {
+          "text": "are",
+          "kind": "supplied"
+        },
+        {
+          "text": " the chief of the province that dwelt in Jerusalem: but in the cities of Judah dwelt every one in his possession in their cities, ",
+          "kind": "text"
+        },
+        {
+          "text": "to wit",
+          "kind": "supplied"
+        },
+        {
+          "text": ", Israel, the priests, and the Levites, and the Nethinims, and the children of Solomon’s servants.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "NEH.11.4",
+      "edition_verse_id": "KJV1769:NEH.11.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "And at Jerusalem dwelt ",
+          "kind": "text"
+        },
+        {
+          "text": "certain",
+          "kind": "supplied"
+        },
+        {
+          "text": " of the children of Judah, and of the children of Benjamin. Of the children of Judah; Athaiah the son of Uzziah, the son of Zechariah, the son of Amariah, the son of Shephatiah, the son of Mahalaleel, of the children of Perez;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NEH.11.5",
+      "edition_verse_id": "KJV1769:NEH.11.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "And Maaseiah the son of Baruch, the son of Col-hozeh, the son of Hazaiah, the son of Adaiah, the son of Joiarib, the son of Zechariah, the son of Shiloni.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NEH.11.6",
+      "edition_verse_id": "KJV1769:NEH.11.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "All the sons of Perez that dwelt at Jerusalem ",
+          "kind": "text"
+        },
+        {
+          "text": "were",
+          "kind": "supplied"
+        },
+        {
+          "text": " four hundred threescore and eight valiant men.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NEH.11.7",
+      "edition_verse_id": "KJV1769:NEH.11.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "And these ",
+          "kind": "text"
+        },
+        {
+          "text": "are",
+          "kind": "supplied"
+        },
+        {
+          "text": " the sons of Benjamin; Sallu the son of Meshullam, the son of Joed, the son of Pedaiah, the son of Kolaiah, the son of Maaseiah, the son of Ithiel, the son of Jesaiah.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NEH.11.8",
+      "edition_verse_id": "KJV1769:NEH.11.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "And after him Gabbai, Sallai, nine hundred twenty and eight.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NEH.11.9",
+      "edition_verse_id": "KJV1769:NEH.11.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "And Joel the son of Zichri ",
+          "kind": "text"
+        },
+        {
+          "text": "was",
+          "kind": "supplied"
+        },
+        {
+          "text": " their overseer: and Judah the son of Senuah ",
+          "kind": "text"
+        },
+        {
+          "text": "was",
+          "kind": "supplied"
+        },
+        {
+          "text": " second over the city.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NEH.11.10",
+      "edition_verse_id": "KJV1769:NEH.11.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "Of the priests: Jedaiah the son of Joiarib, Jachin.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NEH.11.11",
+      "edition_verse_id": "KJV1769:NEH.11.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "Seraiah the son of Hilkiah, the son of Meshullam, the son of Zadok, the son of Meraioth, the son of Ahitub, ",
+          "kind": "text"
+        },
+        {
+          "text": "was",
+          "kind": "supplied"
+        },
+        {
+          "text": " the ruler of the house of God.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NEH.11.12",
+      "edition_verse_id": "KJV1769:NEH.11.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "And their brethren that did the work of the house ",
+          "kind": "text"
+        },
+        {
+          "text": "were",
+          "kind": "supplied"
+        },
+        {
+          "text": " eight hundred twenty and two: and Adaiah the son of Jeroham, the son of Pelaliah, the son of Amzi, the son of Zechariah, the son of Pashur, the son of Malchiah,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NEH.11.13",
+      "edition_verse_id": "KJV1769:NEH.11.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "And his brethren, chief of the fathers, two hundred forty and two: and Amashai the son of Azareel, the son of Ahasai, the son of Meshillemoth, the son of Immer,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NEH.11.14",
+      "edition_verse_id": "KJV1769:NEH.11.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "And their brethren, mighty men of valour, an hundred twenty and eight: and their overseer ",
+          "kind": "text"
+        },
+        {
+          "text": "was",
+          "kind": "supplied"
+        },
+        {
+          "text": " Zabdiel, the son of ",
+          "kind": "text"
+        },
+        {
+          "text": "one of",
+          "kind": "supplied"
+        },
+        {
+          "text": " the great men.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NEH.11.15",
+      "edition_verse_id": "KJV1769:NEH.11.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "Also of the Levites: Shemaiah the son of Hashub, the son of Azrikam, the son of Hashabiah, the son of Bunni;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NEH.11.16",
+      "edition_verse_id": "KJV1769:NEH.11.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "And Shabbethai and Jozabad, of the chief of the Levites, ",
+          "kind": "text"
+        },
+        {
+          "text": "had",
+          "kind": "supplied"
+        },
+        {
+          "text": " the oversight of the outward business of the house of God.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NEH.11.17",
+      "edition_verse_id": "KJV1769:NEH.11.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "And Mattaniah the son of Micha, the son of Zabdi, the son of Asaph, ",
+          "kind": "text"
+        },
+        {
+          "text": "was",
+          "kind": "supplied"
+        },
+        {
+          "text": " the principal to begin the thanksgiving in prayer: and Bakbukiah the second among his brethren, and Abda the son of Shammua, the son of Galal, the son of Jeduthun.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NEH.11.18",
+      "edition_verse_id": "KJV1769:NEH.11.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "All the Levites in the holy city ",
+          "kind": "text"
+        },
+        {
+          "text": "were",
+          "kind": "supplied"
+        },
+        {
+          "text": " two hundred fourscore and four.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NEH.11.19",
+      "edition_verse_id": "KJV1769:NEH.11.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "Moreover the porters, Akkub, Talmon, and their brethren that kept the gates, ",
+          "kind": "text"
+        },
+        {
+          "text": "were",
+          "kind": "supplied"
+        },
+        {
+          "text": " an hundred seventy and two.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NEH.11.20",
+      "edition_verse_id": "KJV1769:NEH.11.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "¶ And the residue of Israel, of the priests, ",
+          "kind": "text"
+        },
+        {
+          "text": "and",
+          "kind": "supplied"
+        },
+        {
+          "text": " the Levites, ",
+          "kind": "text"
+        },
+        {
+          "text": "were",
+          "kind": "supplied"
+        },
+        {
+          "text": " in all the cities of Judah, every one in his inheritance.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "NEH.11.21",
+      "edition_verse_id": "KJV1769:NEH.11.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "But the Nethinims dwelt in Ophel: and Ziha and Gispa ",
+          "kind": "text"
+        },
+        {
+          "text": "were",
+          "kind": "supplied"
+        },
+        {
+          "text": " over the Nethinims.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NEH.11.22",
+      "edition_verse_id": "KJV1769:NEH.11.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "The overseer also of the Levites at Jerusalem ",
+          "kind": "text"
+        },
+        {
+          "text": "was",
+          "kind": "supplied"
+        },
+        {
+          "text": " Uzzi the son of Bani, the son of Hashabiah, the son of Mattaniah, the son of Micha. Of the sons of Asaph, the singers ",
+          "kind": "text"
+        },
+        {
+          "text": "were",
+          "kind": "supplied"
+        },
+        {
+          "text": " over the business of the house of God.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NEH.11.23",
+      "edition_verse_id": "KJV1769:NEH.11.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "For ",
+          "kind": "text"
+        },
+        {
+          "text": "it was",
+          "kind": "supplied"
+        },
+        {
+          "text": " the king’s commandment concerning them, that a certain portion should be for the singers, due for every day.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NEH.11.24",
+      "edition_verse_id": "KJV1769:NEH.11.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "And Pethahiah the son of Meshezabeel, of the children of Zerah the son of Judah, ",
+          "kind": "text"
+        },
+        {
+          "text": "was",
+          "kind": "supplied"
+        },
+        {
+          "text": " at the king’s hand in all matters concerning the people.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NEH.11.25",
+      "edition_verse_id": "KJV1769:NEH.11.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "And for the villages, with their fields, ",
+          "kind": "text"
+        },
+        {
+          "text": "some",
+          "kind": "supplied"
+        },
+        {
+          "text": " of the children of Judah dwelt at Kirjath-arba, and ",
+          "kind": "text"
+        },
+        {
+          "text": "in",
+          "kind": "supplied"
+        },
+        {
+          "text": " the villages thereof, and at Dibon, and ",
+          "kind": "text"
+        },
+        {
+          "text": "in",
+          "kind": "supplied"
+        },
+        {
+          "text": " the villages thereof, and at Jekabzeel, and ",
+          "kind": "text"
+        },
+        {
+          "text": "in",
+          "kind": "supplied"
+        },
+        {
+          "text": " the villages thereof,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NEH.11.26",
+      "edition_verse_id": "KJV1769:NEH.11.26",
+      "verse": 26,
+      "spans": [
+        {
+          "text": "And at Jeshua, and at Moladah, and at Beth-phelet,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NEH.11.27",
+      "edition_verse_id": "KJV1769:NEH.11.27",
+      "verse": 27,
+      "spans": [
+        {
+          "text": "And at Hazar-shual, and at Beer-sheba, and ",
+          "kind": "text"
+        },
+        {
+          "text": "in",
+          "kind": "supplied"
+        },
+        {
+          "text": " the villages thereof,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NEH.11.28",
+      "edition_verse_id": "KJV1769:NEH.11.28",
+      "verse": 28,
+      "spans": [
+        {
+          "text": "And at Ziklag, and at Mekonah, and in the villages thereof,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NEH.11.29",
+      "edition_verse_id": "KJV1769:NEH.11.29",
+      "verse": 29,
+      "spans": [
+        {
+          "text": "And at En-rimmon, and at Zareah, and at Jarmuth,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NEH.11.30",
+      "edition_verse_id": "KJV1769:NEH.11.30",
+      "verse": 30,
+      "spans": [
+        {
+          "text": "Zanoah, Adullam, and ",
+          "kind": "text"
+        },
+        {
+          "text": "in",
+          "kind": "supplied"
+        },
+        {
+          "text": " their villages, at Lachish, and the fields thereof, at Azekah, and ",
+          "kind": "text"
+        },
+        {
+          "text": "in",
+          "kind": "supplied"
+        },
+        {
+          "text": " the villages thereof. And they dwelt from Beer-sheba unto the valley of Hinnom.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NEH.11.31",
+      "edition_verse_id": "KJV1769:NEH.11.31",
+      "verse": 31,
+      "spans": [
+        {
+          "text": "The children also of Benjamin from Geba ",
+          "kind": "text"
+        },
+        {
+          "text": "dwelt",
+          "kind": "supplied"
+        },
+        {
+          "text": " at Michmash, and Aija, and Beth-el, and ",
+          "kind": "text"
+        },
+        {
+          "text": "in",
+          "kind": "supplied"
+        },
+        {
+          "text": " their villages,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NEH.11.32",
+      "edition_verse_id": "KJV1769:NEH.11.32",
+      "verse": 32,
+      "spans": [
+        {
+          "text": "And",
+          "kind": "supplied"
+        },
+        {
+          "text": " at Anathoth, Nob, Ananiah,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NEH.11.33",
+      "edition_verse_id": "KJV1769:NEH.11.33",
+      "verse": 33,
+      "spans": [
+        {
+          "text": "Hazor, Ramah, Gittaim,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NEH.11.34",
+      "edition_verse_id": "KJV1769:NEH.11.34",
+      "verse": 34,
+      "spans": [
+        {
+          "text": "Hadid, Zeboim, Neballat,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NEH.11.35",
+      "edition_verse_id": "KJV1769:NEH.11.35",
+      "verse": 35,
+      "spans": [
+        {
+          "text": "Lod, and Ono, the valley of craftsmen.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NEH.11.36",
+      "edition_verse_id": "KJV1769:NEH.11.36",
+      "verse": 36,
+      "spans": [
+        {
+          "text": "And of the Levites ",
+          "kind": "text"
+        },
+        {
+          "text": "were",
+          "kind": "supplied"
+        },
+        {
+          "text": " divisions ",
+          "kind": "text"
+        },
+        {
+          "text": "in",
+          "kind": "supplied"
+        },
+        {
+          "text": " Judah, ",
+          "kind": "text"
+        },
+        {
+          "text": "and",
+          "kind": "supplied"
+        },
+        {
+          "text": " in Benjamin.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

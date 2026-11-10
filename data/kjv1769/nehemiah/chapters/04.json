@@ -1,0 +1,428 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "KJV1769",
+  "book_code": "NEH",
+  "chapter": 4,
+  "verses": [
+    {
+      "id": "NEH.4.1",
+      "edition_verse_id": "KJV1769:NEH.4.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "But it came to pass, that when Sanballat heard that we builded the wall, he was wroth, and took great indignation, and mocked the Jews.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "NEH.4.2",
+      "edition_verse_id": "KJV1769:NEH.4.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "And he spake before his brethren and the army of Samaria, and said, What do these feeble Jews? will they fortify themselves? will they sacrifice? will they make an end in a day? will they revive the stones out of the heaps of the rubbish which are burned?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NEH.4.3",
+      "edition_verse_id": "KJV1769:NEH.4.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "Now Tobiah the Ammonite ",
+          "kind": "text"
+        },
+        {
+          "text": "was",
+          "kind": "supplied"
+        },
+        {
+          "text": " by him, and he said, Even that which they build, if a fox go up, he shall even break down their stone wall.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NEH.4.4",
+      "edition_verse_id": "KJV1769:NEH.4.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "Hear, O our God; for we are despised: and turn their reproach upon their own head, and give them for a prey in the land of captivity:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NEH.4.5",
+      "edition_verse_id": "KJV1769:NEH.4.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "And cover not their iniquity, and let not their sin be blotted out from before thee: for they have provoked ",
+          "kind": "text"
+        },
+        {
+          "text": "thee",
+          "kind": "supplied"
+        },
+        {
+          "text": " to anger before the builders.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NEH.4.6",
+      "edition_verse_id": "KJV1769:NEH.4.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "So built we the wall; and all the wall was joined together unto the half thereof: for the people had a mind to work.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NEH.4.7",
+      "edition_verse_id": "KJV1769:NEH.4.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "¶ But it came to pass, ",
+          "kind": "text"
+        },
+        {
+          "text": "that",
+          "kind": "supplied"
+        },
+        {
+          "text": " when Sanballat, and Tobiah, and the Arabians, and the Ammonites, and the Ashdodites, heard that the walls of Jerusalem were made up, ",
+          "kind": "text"
+        },
+        {
+          "text": "and",
+          "kind": "supplied"
+        },
+        {
+          "text": " that the breaches began to be stopped, then they were very wroth,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "NEH.4.8",
+      "edition_verse_id": "KJV1769:NEH.4.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "And conspired all of them together to come ",
+          "kind": "text"
+        },
+        {
+          "text": "and",
+          "kind": "supplied"
+        },
+        {
+          "text": " to fight against Jerusalem, and to hinder it.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NEH.4.9",
+      "edition_verse_id": "KJV1769:NEH.4.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "Nevertheless we made our prayer unto our God, and set a watch against them day and night, because of them.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NEH.4.10",
+      "edition_verse_id": "KJV1769:NEH.4.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "And Judah said, The strength of the bearers of burdens is decayed, and ",
+          "kind": "text"
+        },
+        {
+          "text": "there is",
+          "kind": "supplied"
+        },
+        {
+          "text": " much rubbish; so that we are not able to build the wall.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NEH.4.11",
+      "edition_verse_id": "KJV1769:NEH.4.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "And our adversaries said, They shall not know, neither see, till we come in the midst among them, and slay them, and cause the work to cease.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NEH.4.12",
+      "edition_verse_id": "KJV1769:NEH.4.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "And it came to pass, that when the Jews which dwelt by them came, they said unto us ten times, From all places whence ye shall return unto us ",
+          "kind": "text"
+        },
+        {
+          "text": "they will be upon you",
+          "kind": "supplied"
+        },
+        {
+          "text": ".",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NEH.4.13",
+      "edition_verse_id": "KJV1769:NEH.4.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "¶ Therefore set I in the lower places behind the wall, ",
+          "kind": "text"
+        },
+        {
+          "text": "and",
+          "kind": "supplied"
+        },
+        {
+          "text": " on the higher places, I even set the people after their families with their swords, their spears, and their bows.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "NEH.4.14",
+      "edition_verse_id": "KJV1769:NEH.4.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "And I looked, and rose up, and said unto the nobles, and to the rulers, and to the rest of the people, Be not ye afraid of them: remember the Lord, ",
+          "kind": "text"
+        },
+        {
+          "text": "which is",
+          "kind": "supplied"
+        },
+        {
+          "text": " great and terrible, and fight for your brethren, your sons, and your daughters, your wives, and your houses.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NEH.4.15",
+      "edition_verse_id": "KJV1769:NEH.4.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "And it came to pass, when our enemies heard that it was known unto us, and God had brought their counsel to nought, that we returned all of us to the wall, every one unto his work.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NEH.4.16",
+      "edition_verse_id": "KJV1769:NEH.4.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "And it came to pass from that time forth, ",
+          "kind": "text"
+        },
+        {
+          "text": "that",
+          "kind": "supplied"
+        },
+        {
+          "text": " the half of my servants wrought in the work, and the other half of them held both the spears, the shields, and the bows, and the habergeons; and the rulers ",
+          "kind": "text"
+        },
+        {
+          "text": "were",
+          "kind": "supplied"
+        },
+        {
+          "text": " behind all the house of Judah.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "NEH.4.17",
+      "edition_verse_id": "KJV1769:NEH.4.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "They which builded on the wall, and they that bare burdens, with those that laded, ",
+          "kind": "text"
+        },
+        {
+          "text": "every one",
+          "kind": "supplied"
+        },
+        {
+          "text": " with one of his hands wrought in the work, and with the other ",
+          "kind": "text"
+        },
+        {
+          "text": "hand",
+          "kind": "supplied"
+        },
+        {
+          "text": " held a weapon.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NEH.4.18",
+      "edition_verse_id": "KJV1769:NEH.4.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "For the builders, every one had his sword girded by his side, and ",
+          "kind": "text"
+        },
+        {
+          "text": "so",
+          "kind": "supplied"
+        },
+        {
+          "text": " builded. And he that sounded the trumpet ",
+          "kind": "text"
+        },
+        {
+          "text": "was",
+          "kind": "supplied"
+        },
+        {
+          "text": " by me.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NEH.4.19",
+      "edition_verse_id": "KJV1769:NEH.4.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "¶ And I said unto the nobles, and to the rulers, and to the rest of the people, The work ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " great and large, and we are separated upon the wall, one far from another.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "NEH.4.20",
+      "edition_verse_id": "KJV1769:NEH.4.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "In what place ",
+          "kind": "text"
+        },
+        {
+          "text": "therefore",
+          "kind": "supplied"
+        },
+        {
+          "text": " ye hear the sound of the trumpet, resort ye thither unto us: our God shall fight for us.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NEH.4.21",
+      "edition_verse_id": "KJV1769:NEH.4.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "So we laboured in the work: and half of them held the spears from the rising of the morning till the stars appeared.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NEH.4.22",
+      "edition_verse_id": "KJV1769:NEH.4.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "Likewise at the same time said I unto the people, Let every one with his servant lodge within Jerusalem, that in the night they may be a guard to us, and labour on the day.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NEH.4.23",
+      "edition_verse_id": "KJV1769:NEH.4.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "So neither I, nor my brethren, nor my servants, nor the men of the guard which followed me, none of us put off our clothes, ",
+          "kind": "text"
+        },
+        {
+          "text": "saving that",
+          "kind": "supplied"
+        },
+        {
+          "text": " every one put them off for washing.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

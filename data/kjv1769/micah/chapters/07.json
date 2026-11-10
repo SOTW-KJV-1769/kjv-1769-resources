@@ -1,0 +1,456 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "KJV1769",
+  "book_code": "MIC",
+  "chapter": 7,
+  "verses": [
+    {
+      "id": "MIC.7.1",
+      "edition_verse_id": "KJV1769:MIC.7.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "Woe is me! for I am as when they have gathered the summer fruits, as the grapegleanings of the vintage: ",
+          "kind": "text"
+        },
+        {
+          "text": "there is",
+          "kind": "supplied"
+        },
+        {
+          "text": " no cluster to eat: my soul desired the firstripe fruit.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MIC.7.2",
+      "edition_verse_id": "KJV1769:MIC.7.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "The good ",
+          "kind": "text"
+        },
+        {
+          "text": "man",
+          "kind": "supplied"
+        },
+        {
+          "text": " is perished out of the earth: and ",
+          "kind": "text"
+        },
+        {
+          "text": "there is",
+          "kind": "supplied"
+        },
+        {
+          "text": " none upright among men: they all lie in wait for blood; they hunt every man his brother with a net.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MIC.7.3",
+      "edition_verse_id": "KJV1769:MIC.7.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "¶ That they may do evil with both hands earnestly, the prince asketh, and the judge ",
+          "kind": "text"
+        },
+        {
+          "text": "asketh",
+          "kind": "supplied"
+        },
+        {
+          "text": " for a reward; and the great ",
+          "kind": "text"
+        },
+        {
+          "text": "man",
+          "kind": "supplied"
+        },
+        {
+          "text": ", he uttereth his mischievous desire: so they wrap it up.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MIC.7.4",
+      "edition_verse_id": "KJV1769:MIC.7.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "The best of them ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " as a brier: the most upright ",
+          "kind": "text"
+        },
+        {
+          "text": "is sharper",
+          "kind": "supplied"
+        },
+        {
+          "text": " than a thorn hedge: the day of thy watchmen ",
+          "kind": "text"
+        },
+        {
+          "text": "and",
+          "kind": "supplied"
+        },
+        {
+          "text": " thy visitation cometh; now shall be their perplexity.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MIC.7.5",
+      "edition_verse_id": "KJV1769:MIC.7.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "¶ Trust ye not in a friend, put ye not confidence in a guide: keep the doors of thy mouth from her that lieth in thy bosom.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MIC.7.6",
+      "edition_verse_id": "KJV1769:MIC.7.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "For the son dishonoureth the father, the daughter riseth up against her mother, the daughter in law against her mother in law; a man’s enemies ",
+          "kind": "text"
+        },
+        {
+          "text": "are",
+          "kind": "supplied"
+        },
+        {
+          "text": " the men of his own house.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MIC.7.7",
+      "edition_verse_id": "KJV1769:MIC.7.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "Therefore I will look unto the LORD; I will wait for the God of my salvation: my God will hear me.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MIC.7.8",
+      "edition_verse_id": "KJV1769:MIC.7.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "¶ Rejoice not against me, O mine enemy: when I fall, I shall arise; when I sit in darkness, the LORD ",
+          "kind": "text"
+        },
+        {
+          "text": "shall be",
+          "kind": "supplied"
+        },
+        {
+          "text": " a light unto me.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MIC.7.9",
+      "edition_verse_id": "KJV1769:MIC.7.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "I will bear the indignation of the LORD, because I have sinned against him, until he plead my cause, and execute judgment for me: he will bring me forth to the light, ",
+          "kind": "text"
+        },
+        {
+          "text": "and",
+          "kind": "supplied"
+        },
+        {
+          "text": " I shall behold his righteousness.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MIC.7.10",
+      "edition_verse_id": "KJV1769:MIC.7.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "Then ",
+          "kind": "text"
+        },
+        {
+          "text": "she that is",
+          "kind": "supplied"
+        },
+        {
+          "text": " mine enemy shall see ",
+          "kind": "text"
+        },
+        {
+          "text": "it",
+          "kind": "supplied"
+        },
+        {
+          "text": ", and shame shall cover her which said unto me, Where is the LORD thy God? mine eyes shall behold her: now shall she be trodden down as the mire of the streets.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MIC.7.11",
+      "edition_verse_id": "KJV1769:MIC.7.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "In",
+          "kind": "supplied"
+        },
+        {
+          "text": " the day that thy walls are to be built, ",
+          "kind": "text"
+        },
+        {
+          "text": "in",
+          "kind": "supplied"
+        },
+        {
+          "text": " that day shall the decree be far removed.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MIC.7.12",
+      "edition_verse_id": "KJV1769:MIC.7.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "In",
+          "kind": "supplied"
+        },
+        {
+          "text": " that day ",
+          "kind": "text"
+        },
+        {
+          "text": "also",
+          "kind": "supplied"
+        },
+        {
+          "text": " he shall come even to thee from Assyria, and ",
+          "kind": "text"
+        },
+        {
+          "text": "from",
+          "kind": "supplied"
+        },
+        {
+          "text": " the fortified cities, and from the fortress even to the river, and from sea to sea, and ",
+          "kind": "text"
+        },
+        {
+          "text": "from",
+          "kind": "supplied"
+        },
+        {
+          "text": " mountain to mountain.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MIC.7.13",
+      "edition_verse_id": "KJV1769:MIC.7.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "Notwithstanding the land shall be desolate because of them that dwell therein, for the fruit of their doings.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MIC.7.14",
+      "edition_verse_id": "KJV1769:MIC.7.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "¶ Feed thy people with thy rod, the flock of thine heritage, which dwell solitarily ",
+          "kind": "text"
+        },
+        {
+          "text": "in",
+          "kind": "supplied"
+        },
+        {
+          "text": " the wood, in the midst of Carmel: let them feed ",
+          "kind": "text"
+        },
+        {
+          "text": "in",
+          "kind": "supplied"
+        },
+        {
+          "text": " Bashan and Gilead, as in the days of old.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MIC.7.15",
+      "edition_verse_id": "KJV1769:MIC.7.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "According to the days of thy coming out of the land of Egypt will I shew unto him marvellous ",
+          "kind": "text"
+        },
+        {
+          "text": "things",
+          "kind": "supplied"
+        },
+        {
+          "text": ".",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MIC.7.16",
+      "edition_verse_id": "KJV1769:MIC.7.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "¶ The nations shall see and be confounded at all their might: they shall lay ",
+          "kind": "text"
+        },
+        {
+          "text": "their",
+          "kind": "supplied"
+        },
+        {
+          "text": " hand upon ",
+          "kind": "text"
+        },
+        {
+          "text": "their",
+          "kind": "supplied"
+        },
+        {
+          "text": " mouth, their ears shall be deaf.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MIC.7.17",
+      "edition_verse_id": "KJV1769:MIC.7.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "They shall lick the dust like a serpent, they shall move out of their holes like worms of the earth: they shall be afraid of the LORD our God, and shall fear because of thee.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MIC.7.18",
+      "edition_verse_id": "KJV1769:MIC.7.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "Who ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " a God like unto thee, that pardoneth iniquity, and passeth by the transgression of the remnant of his heritage? he retaineth not his anger for ever, because he delighteth ",
+          "kind": "text"
+        },
+        {
+          "text": "in",
+          "kind": "supplied"
+        },
+        {
+          "text": " mercy.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MIC.7.19",
+      "edition_verse_id": "KJV1769:MIC.7.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "He will turn again, he will have compassion upon us; he will subdue our iniquities; and thou wilt cast all their sins into the depths of the sea.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MIC.7.20",
+      "edition_verse_id": "KJV1769:MIC.7.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "Thou wilt perform the truth to Jacob, ",
+          "kind": "text"
+        },
+        {
+          "text": "and",
+          "kind": "supplied"
+        },
+        {
+          "text": " the mercy to Abraham, which thou hast sworn unto our fathers from the days of old.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

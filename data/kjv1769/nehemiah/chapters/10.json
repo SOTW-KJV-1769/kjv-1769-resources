@@ -1,0 +1,572 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "KJV1769",
+  "book_code": "NEH",
+  "chapter": 10,
+  "verses": [
+    {
+      "id": "NEH.10.1",
+      "edition_verse_id": "KJV1769:NEH.10.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "Now those that sealed ",
+          "kind": "text"
+        },
+        {
+          "text": "were",
+          "kind": "supplied"
+        },
+        {
+          "text": ", Nehemiah, the Tirshatha, the son of Hachaliah, and Zidkijah,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "NEH.10.2",
+      "edition_verse_id": "KJV1769:NEH.10.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "Seraiah, Azariah, Jeremiah,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NEH.10.3",
+      "edition_verse_id": "KJV1769:NEH.10.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "Pashur, Amariah, Malchijah,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NEH.10.4",
+      "edition_verse_id": "KJV1769:NEH.10.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "Hattush, Shebaniah, Malluch,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NEH.10.5",
+      "edition_verse_id": "KJV1769:NEH.10.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "Harim, Meremoth, Obadiah,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NEH.10.6",
+      "edition_verse_id": "KJV1769:NEH.10.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "Daniel, Ginnethon, Baruch,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NEH.10.7",
+      "edition_verse_id": "KJV1769:NEH.10.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "Meshullam, Abijah, Mijamin,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NEH.10.8",
+      "edition_verse_id": "KJV1769:NEH.10.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "Maaziah, Bilgai, Shemaiah: these ",
+          "kind": "text"
+        },
+        {
+          "text": "were",
+          "kind": "supplied"
+        },
+        {
+          "text": " the priests.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NEH.10.9",
+      "edition_verse_id": "KJV1769:NEH.10.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "And the Levites: both Jeshua the son of Azaniah, Binnui of the sons of Henadad, Kadmiel;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NEH.10.10",
+      "edition_verse_id": "KJV1769:NEH.10.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "And their brethren, Shebaniah, Hodijah, Kelita, Pelaiah, Hanan,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NEH.10.11",
+      "edition_verse_id": "KJV1769:NEH.10.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "Micha, Rehob, Hashabiah,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NEH.10.12",
+      "edition_verse_id": "KJV1769:NEH.10.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "Zaccur, Sherebiah, Shebaniah,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NEH.10.13",
+      "edition_verse_id": "KJV1769:NEH.10.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "Hodijah, Bani, Beninu.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NEH.10.14",
+      "edition_verse_id": "KJV1769:NEH.10.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "The chief of the people; Parosh, Pahath-moab, Elam, Zatthu, Bani,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NEH.10.15",
+      "edition_verse_id": "KJV1769:NEH.10.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "Bunni, Azgad, Bebai,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NEH.10.16",
+      "edition_verse_id": "KJV1769:NEH.10.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "Adonijah, Bigvai, Adin,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NEH.10.17",
+      "edition_verse_id": "KJV1769:NEH.10.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "Ater, Hizkijah, Azzur,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NEH.10.18",
+      "edition_verse_id": "KJV1769:NEH.10.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "Hodijah, Hashum, Bezai,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NEH.10.19",
+      "edition_verse_id": "KJV1769:NEH.10.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "Hariph, Anathoth, Nebai,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NEH.10.20",
+      "edition_verse_id": "KJV1769:NEH.10.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "Magpiash, Meshullam, Hezir,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NEH.10.21",
+      "edition_verse_id": "KJV1769:NEH.10.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "Meshezabeel, Zadok, Jaddua,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NEH.10.22",
+      "edition_verse_id": "KJV1769:NEH.10.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "Pelatiah, Hanan, Anaiah,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NEH.10.23",
+      "edition_verse_id": "KJV1769:NEH.10.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "Hoshea, Hananiah, Hashub,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NEH.10.24",
+      "edition_verse_id": "KJV1769:NEH.10.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "Hallohesh, Pileha, Shobek,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NEH.10.25",
+      "edition_verse_id": "KJV1769:NEH.10.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "Rehum, Hashabnah, Maaseiah,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NEH.10.26",
+      "edition_verse_id": "KJV1769:NEH.10.26",
+      "verse": 26,
+      "spans": [
+        {
+          "text": "And Ahijah, Hanan, Anan,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NEH.10.27",
+      "edition_verse_id": "KJV1769:NEH.10.27",
+      "verse": 27,
+      "spans": [
+        {
+          "text": "Malluch, Harim, Baanah.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NEH.10.28",
+      "edition_verse_id": "KJV1769:NEH.10.28",
+      "verse": 28,
+      "spans": [
+        {
+          "text": "¶ And the rest of the people, the priests, the Levites, the porters, the singers, the Nethinims, and all they that had separated themselves from the people of the lands unto the law of God, their wives, their sons, and their daughters, every one having knowledge, and having understanding;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "NEH.10.29",
+      "edition_verse_id": "KJV1769:NEH.10.29",
+      "verse": 29,
+      "spans": [
+        {
+          "text": "They clave to their brethren, their nobles, and entered into a curse, and into an oath, to walk in God’s law, which was given by Moses the servant of God, and to observe and do all the commandments of the LORD our Lord, and his judgments and his statutes;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NEH.10.30",
+      "edition_verse_id": "KJV1769:NEH.10.30",
+      "verse": 30,
+      "spans": [
+        {
+          "text": "And that we would not give our daughters unto the people of the land, nor take their daughters for our sons:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NEH.10.31",
+      "edition_verse_id": "KJV1769:NEH.10.31",
+      "verse": 31,
+      "spans": [
+        {
+          "text": "And ",
+          "kind": "text"
+        },
+        {
+          "text": "if",
+          "kind": "supplied"
+        },
+        {
+          "text": " the people of the land bring ware or any victuals on the sabbath day to sell, ",
+          "kind": "text"
+        },
+        {
+          "text": "that",
+          "kind": "supplied"
+        },
+        {
+          "text": " we would not buy it of them on the sabbath, or on the holy day: and ",
+          "kind": "text"
+        },
+        {
+          "text": "that",
+          "kind": "supplied"
+        },
+        {
+          "text": " we would leave the seventh year, and the exaction of every debt.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NEH.10.32",
+      "edition_verse_id": "KJV1769:NEH.10.32",
+      "verse": 32,
+      "spans": [
+        {
+          "text": "Also we made ordinances for us, to charge ourselves yearly with the third part of a shekel for the service of the house of our God;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "NEH.10.33",
+      "edition_verse_id": "KJV1769:NEH.10.33",
+      "verse": 33,
+      "spans": [
+        {
+          "text": "For the shewbread, and for the continual meat offering, and for the continual burnt offering, of the sabbaths, of the new moons, for the set feasts, and for the holy ",
+          "kind": "text"
+        },
+        {
+          "text": "things",
+          "kind": "supplied"
+        },
+        {
+          "text": ", and for the sin offerings to make an atonement for Israel, and ",
+          "kind": "text"
+        },
+        {
+          "text": "for",
+          "kind": "supplied"
+        },
+        {
+          "text": " all the work of the house of our God.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NEH.10.34",
+      "edition_verse_id": "KJV1769:NEH.10.34",
+      "verse": 34,
+      "spans": [
+        {
+          "text": "And we cast the lots among the priests, the Levites, and the people, for the wood offering, to bring ",
+          "kind": "text"
+        },
+        {
+          "text": "it",
+          "kind": "supplied"
+        },
+        {
+          "text": " into the house of our God, after the houses of our fathers, at times appointed year by year, to burn upon the altar of the LORD our God, as ",
+          "kind": "text"
+        },
+        {
+          "text": "it is",
+          "kind": "supplied"
+        },
+        {
+          "text": " written in the law:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NEH.10.35",
+      "edition_verse_id": "KJV1769:NEH.10.35",
+      "verse": 35,
+      "spans": [
+        {
+          "text": "And to bring the firstfruits of our ground, and the firstfruits of all fruit of all trees, year by year, unto the house of the LORD:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NEH.10.36",
+      "edition_verse_id": "KJV1769:NEH.10.36",
+      "verse": 36,
+      "spans": [
+        {
+          "text": "Also the firstborn of our sons, and of our cattle, as ",
+          "kind": "text"
+        },
+        {
+          "text": "it is",
+          "kind": "supplied"
+        },
+        {
+          "text": " written in the law, and the firstlings of our herds and of our flocks, to bring to the house of our God, unto the priests that minister in the house of our God:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NEH.10.37",
+      "edition_verse_id": "KJV1769:NEH.10.37",
+      "verse": 37,
+      "spans": [
+        {
+          "text": "And ",
+          "kind": "text"
+        },
+        {
+          "text": "that",
+          "kind": "supplied"
+        },
+        {
+          "text": " we should bring the firstfruits of our dough, and our offerings, and the fruit of all manner of trees, of wine and of oil, unto the priests, to the chambers of the house of our God; and the tithes of our ground unto the Levites, that the same Levites might have the tithes in all the cities of our tillage.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NEH.10.38",
+      "edition_verse_id": "KJV1769:NEH.10.38",
+      "verse": 38,
+      "spans": [
+        {
+          "text": "And the priest the son of Aaron shall be with the Levites, when the Levites take tithes: and the Levites shall bring up the tithe of the tithes unto the house of our God, to the chambers, into the treasure house.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NEH.10.39",
+      "edition_verse_id": "KJV1769:NEH.10.39",
+      "verse": 39,
+      "spans": [
+        {
+          "text": "For the children of Israel and the children of Levi shall bring the offering of the corn, of the new wine, and the oil, unto the chambers, where ",
+          "kind": "text"
+        },
+        {
+          "text": "are",
+          "kind": "supplied"
+        },
+        {
+          "text": " the vessels of the sanctuary, and the priests that minister, and the porters, and the singers: and we will not forsake the house of our God.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

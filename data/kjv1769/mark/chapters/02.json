@@ -1,0 +1,400 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "KJV1769",
+  "book_code": "MRK",
+  "chapter": 2,
+  "verses": [
+    {
+      "id": "MRK.2.1",
+      "edition_verse_id": "KJV1769:MRK.2.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "And again he entered into Capernaum after ",
+          "kind": "text"
+        },
+        {
+          "text": "some",
+          "kind": "supplied"
+        },
+        {
+          "text": " days; and it was noised that he was in the house.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MRK.2.2",
+      "edition_verse_id": "KJV1769:MRK.2.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "And straightway many were gathered together, insomuch that there was no room to receive ",
+          "kind": "text"
+        },
+        {
+          "text": "them",
+          "kind": "supplied"
+        },
+        {
+          "text": ", no, not so much as about the door: and he preached the word unto them.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.2.3",
+      "edition_verse_id": "KJV1769:MRK.2.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "And they come unto him, bringing one sick of the palsy, which was borne of four.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.2.4",
+      "edition_verse_id": "KJV1769:MRK.2.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "And when they could not come nigh unto him for the press, they uncovered the roof where he was: and when they had broken ",
+          "kind": "text"
+        },
+        {
+          "text": "it",
+          "kind": "supplied"
+        },
+        {
+          "text": " up, they let down the bed wherein the sick of the palsy lay.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.2.5",
+      "edition_verse_id": "KJV1769:MRK.2.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "When Jesus saw their faith, he said unto the sick of the palsy, Son, thy sins be forgiven thee.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.2.6",
+      "edition_verse_id": "KJV1769:MRK.2.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "But there were certain of the scribes sitting there, and reasoning in their hearts,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.2.7",
+      "edition_verse_id": "KJV1769:MRK.2.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "Why doth this ",
+          "kind": "text"
+        },
+        {
+          "text": "man",
+          "kind": "supplied"
+        },
+        {
+          "text": " thus speak blasphemies? who can forgive sins but God only?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.2.8",
+      "edition_verse_id": "KJV1769:MRK.2.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "And immediately when Jesus perceived in his spirit that they so reasoned within themselves, he said unto them, Why reason ye these things in your hearts?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.2.9",
+      "edition_verse_id": "KJV1769:MRK.2.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "Whether is it easier to say to the sick of the palsy, ",
+          "kind": "text"
+        },
+        {
+          "text": "Thy",
+          "kind": "supplied"
+        },
+        {
+          "text": " sins be forgiven thee; or to say, Arise, and take up thy bed, and walk?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.2.10",
+      "edition_verse_id": "KJV1769:MRK.2.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "But that ye may know that the Son of man hath power on earth to forgive sins, (he saith to the sick of the palsy,)",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.2.11",
+      "edition_verse_id": "KJV1769:MRK.2.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "I say unto thee, Arise, and take up thy bed, and go thy way into thine house.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.2.12",
+      "edition_verse_id": "KJV1769:MRK.2.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "And immediately he arose, took up the bed, and went forth before them all; insomuch that they were all amazed, and glorified God, saying, We never saw it on this fashion.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.2.13",
+      "edition_verse_id": "KJV1769:MRK.2.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "And he went forth again by the sea side; and all the multitude resorted unto him, and he taught them.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.2.14",
+      "edition_verse_id": "KJV1769:MRK.2.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "And as he passed by, he saw Levi the ",
+          "kind": "text"
+        },
+        {
+          "text": "son",
+          "kind": "supplied"
+        },
+        {
+          "text": " of Alphæus sitting at the receipt of custom, and said unto him, Follow me. And he arose and followed him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.2.15",
+      "edition_verse_id": "KJV1769:MRK.2.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "And it came to pass, that, as Jesus sat at meat in his house, many publicans and sinners sat also together with Jesus and his disciples: for there were many, and they followed him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.2.16",
+      "edition_verse_id": "KJV1769:MRK.2.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "And when the scribes and Pharisees saw him eat with publicans and sinners, they said unto his disciples, How is it that he eateth and drinketh with publicans and sinners?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.2.17",
+      "edition_verse_id": "KJV1769:MRK.2.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "When Jesus heard ",
+          "kind": "text"
+        },
+        {
+          "text": "it",
+          "kind": "supplied"
+        },
+        {
+          "text": ", he saith unto them, They that are whole have no need of the physician, but they that are sick: I came not to call the righteous, but sinners to repentance.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.2.18",
+      "edition_verse_id": "KJV1769:MRK.2.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "And the disciples of John and of the Pharisees used to fast: and they come and say unto him, Why do the disciples of John and of the Pharisees fast, but thy disciples fast not?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.2.19",
+      "edition_verse_id": "KJV1769:MRK.2.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "And Jesus said unto them, Can the children of the bridechamber fast, while the bridegroom is with them? as long as they have the bridegroom with them, they cannot fast.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.2.20",
+      "edition_verse_id": "KJV1769:MRK.2.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "But the days will come, when the bridegroom shall be taken away from them, and then shall they fast in those days.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.2.21",
+      "edition_verse_id": "KJV1769:MRK.2.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "No man also seweth a piece of new cloth on an old garment: else the new piece that filled it up taketh away from the old, and the rent is made worse.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.2.22",
+      "edition_verse_id": "KJV1769:MRK.2.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "And no man putteth new wine into old bottles: else the new wine doth burst the bottles, and the wine is spilled, and the bottles will be marred: but new wine must be put into new bottles.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.2.23",
+      "edition_verse_id": "KJV1769:MRK.2.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "And it came to pass, that he went through the corn fields on the sabbath day; and his disciples began, as they went, to pluck the ears of corn.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.2.24",
+      "edition_verse_id": "KJV1769:MRK.2.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "And the Pharisees said unto him, Behold, why do they on the sabbath day that which is not lawful?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.2.25",
+      "edition_verse_id": "KJV1769:MRK.2.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "And he said unto them, Have ye never read what David did, when he had need, and was an hungred, he, and they that were with him?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.2.26",
+      "edition_verse_id": "KJV1769:MRK.2.26",
+      "verse": 26,
+      "spans": [
+        {
+          "text": "How he went into the house of God in the days of Abiathar the high priest, and did eat the shewbread, which is not lawful to eat but for the priests, and gave also to them which were with him?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.2.27",
+      "edition_verse_id": "KJV1769:MRK.2.27",
+      "verse": 27,
+      "spans": [
+        {
+          "text": "And he said unto them, The sabbath was made for man, and not man for the sabbath:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.2.28",
+      "edition_verse_id": "KJV1769:MRK.2.28",
+      "verse": 28,
+      "spans": [
+        {
+          "text": "Therefore the Son of man is Lord also of the sabbath.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

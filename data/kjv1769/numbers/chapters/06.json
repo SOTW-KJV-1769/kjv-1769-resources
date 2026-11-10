@@ -1,0 +1,500 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "KJV1769",
+  "book_code": "NUM",
+  "chapter": 6,
+  "verses": [
+    {
+      "id": "NUM.6.1",
+      "edition_verse_id": "KJV1769:NUM.6.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "And the LORD spake unto Moses, saying,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "NUM.6.2",
+      "edition_verse_id": "KJV1769:NUM.6.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "Speak unto the children of Israel, and say unto them, When either man or woman shall separate ",
+          "kind": "text"
+        },
+        {
+          "text": "themselves",
+          "kind": "supplied"
+        },
+        {
+          "text": " to vow a vow of a Nazarite, to separate ",
+          "kind": "text"
+        },
+        {
+          "text": "themselves",
+          "kind": "supplied"
+        },
+        {
+          "text": " unto the LORD:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.6.3",
+      "edition_verse_id": "KJV1769:NUM.6.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "He shall separate ",
+          "kind": "text"
+        },
+        {
+          "text": "himself",
+          "kind": "supplied"
+        },
+        {
+          "text": " from wine and strong drink, and shall drink no vinegar of wine, or vinegar of strong drink, neither shall he drink any liquor of grapes, nor eat moist grapes, or dried.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.6.4",
+      "edition_verse_id": "KJV1769:NUM.6.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "All the days of his separation shall he eat nothing that is made of the vine tree, from the kernels even to the husk.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.6.5",
+      "edition_verse_id": "KJV1769:NUM.6.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "All the days of the vow of his separation there shall no razor come upon his head: until the days be fulfilled, in the which he separateth ",
+          "kind": "text"
+        },
+        {
+          "text": "himself",
+          "kind": "supplied"
+        },
+        {
+          "text": " unto the LORD, he shall be holy, ",
+          "kind": "text"
+        },
+        {
+          "text": "and",
+          "kind": "supplied"
+        },
+        {
+          "text": " shall let the locks of the hair of his head grow.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.6.6",
+      "edition_verse_id": "KJV1769:NUM.6.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "All the days that he separateth ",
+          "kind": "text"
+        },
+        {
+          "text": "himself",
+          "kind": "supplied"
+        },
+        {
+          "text": " unto the LORD he shall come at no dead body.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.6.7",
+      "edition_verse_id": "KJV1769:NUM.6.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "He shall not make himself unclean for his father, or for his mother, for his brother, or for his sister, when they die: because the consecration of his God ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " upon his head.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.6.8",
+      "edition_verse_id": "KJV1769:NUM.6.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "All the days of his separation he ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " holy unto the LORD.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.6.9",
+      "edition_verse_id": "KJV1769:NUM.6.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "And if any man die very suddenly by him, and he hath defiled the head of his consecration; then he shall shave his head in the day of his cleansing, on the seventh day shall he shave it.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.6.10",
+      "edition_verse_id": "KJV1769:NUM.6.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "And on the eighth day he shall bring two turtles, or two young pigeons, to the priest, to the door of the tabernacle of the congregation:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.6.11",
+      "edition_verse_id": "KJV1769:NUM.6.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "And the priest shall offer the one for a sin offering, and the other for a burnt offering, and make an atonement for him, for that he sinned by the dead, and shall hallow his head that same day.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.6.12",
+      "edition_verse_id": "KJV1769:NUM.6.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "And he shall consecrate unto the LORD the days of his separation, and shall bring a lamb of the first year for a trespass offering: but the days that were before shall be lost, because his separation was defiled.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.6.13",
+      "edition_verse_id": "KJV1769:NUM.6.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "¶ And this ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " the law of the Nazarite, when the days of his separation are fulfilled: he shall be brought unto the door of the tabernacle of the congregation:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "NUM.6.14",
+      "edition_verse_id": "KJV1769:NUM.6.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "And he shall offer his offering unto the LORD, one he lamb of the first year without blemish for a burnt offering, and one ewe lamb of the first year without blemish for a sin offering, and one ram without blemish for peace offerings,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.6.15",
+      "edition_verse_id": "KJV1769:NUM.6.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "And a basket of unleavened bread, cakes of fine flour mingled with oil, and wafers of unleavened bread anointed with oil, and their meat offering, and their drink offerings.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.6.16",
+      "edition_verse_id": "KJV1769:NUM.6.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "And the priest shall bring ",
+          "kind": "text"
+        },
+        {
+          "text": "them",
+          "kind": "supplied"
+        },
+        {
+          "text": " before the LORD, and shall offer his sin offering, and his burnt offering:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.6.17",
+      "edition_verse_id": "KJV1769:NUM.6.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "And he shall offer the ram ",
+          "kind": "text"
+        },
+        {
+          "text": "for",
+          "kind": "supplied"
+        },
+        {
+          "text": " a sacrifice of peace offerings unto the LORD, with the basket of unleavened bread: the priest shall offer also his meat offering, and his drink offering.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.6.18",
+      "edition_verse_id": "KJV1769:NUM.6.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "And the Nazarite shall shave the head of his separation ",
+          "kind": "text"
+        },
+        {
+          "text": "at",
+          "kind": "supplied"
+        },
+        {
+          "text": " the door of the tabernacle of the congregation, and shall take the hair of the head of his separation, and put ",
+          "kind": "text"
+        },
+        {
+          "text": "it",
+          "kind": "supplied"
+        },
+        {
+          "text": " in the fire which ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " under the sacrifice of the peace offerings.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.6.19",
+      "edition_verse_id": "KJV1769:NUM.6.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "And the priest shall take the sodden shoulder of the ram, and one unleavened cake out of the basket, and one unleavened wafer, and shall put ",
+          "kind": "text"
+        },
+        {
+          "text": "them",
+          "kind": "supplied"
+        },
+        {
+          "text": " upon the hands of the Nazarite, after ",
+          "kind": "text"
+        },
+        {
+          "text": "the hair of",
+          "kind": "supplied"
+        },
+        {
+          "text": " his separation is shaven:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.6.20",
+      "edition_verse_id": "KJV1769:NUM.6.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "And the priest shall wave them ",
+          "kind": "text"
+        },
+        {
+          "text": "for",
+          "kind": "supplied"
+        },
+        {
+          "text": " a wave offering before the LORD: this ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " holy for the priest, with the wave breast and heave shoulder: and after that the Nazarite may drink wine.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.6.21",
+      "edition_verse_id": "KJV1769:NUM.6.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "This ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " the law of the Nazarite who hath vowed, ",
+          "kind": "text"
+        },
+        {
+          "text": "and of",
+          "kind": "supplied"
+        },
+        {
+          "text": " his offering unto the LORD for his separation, beside ",
+          "kind": "text"
+        },
+        {
+          "text": "that",
+          "kind": "supplied"
+        },
+        {
+          "text": " that his hand shall get: according to the vow which he vowed, so he must do after the law of his separation.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.6.22",
+      "edition_verse_id": "KJV1769:NUM.6.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "¶ And the LORD spake unto Moses, saying,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "NUM.6.23",
+      "edition_verse_id": "KJV1769:NUM.6.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "Speak unto Aaron and unto his sons, saying, On this wise ye shall bless the children of Israel, saying unto them,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.6.24",
+      "edition_verse_id": "KJV1769:NUM.6.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "The LORD bless thee, and keep thee:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.6.25",
+      "edition_verse_id": "KJV1769:NUM.6.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "The LORD make his face shine upon thee, and be gracious unto thee:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.6.26",
+      "edition_verse_id": "KJV1769:NUM.6.26",
+      "verse": 26,
+      "spans": [
+        {
+          "text": "The LORD lift up his countenance upon thee, and give thee peace.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.6.27",
+      "edition_verse_id": "KJV1769:NUM.6.27",
+      "verse": 27,
+      "spans": [
+        {
+          "text": "And they shall put my name upon the children of Israel; and I will bless them.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "edition_id": "KJV1769",
+  "book_code": "MIC",
+  "chapter_count": 7,
+  "verse_count": 105,
+  "chapters": [
+    {
+      "chapter": 1,
+      "verse_count": 16,
+      "sha256": "3be855a1a82e97dd572f80a9a1ad9287301000057e6f83b9c2880c272166b969"
+    },
+    {
+      "chapter": 2,
+      "verse_count": 13,
+      "sha256": "a49a96f2a866d8cd80f0de48c35a8059bd7afd6c735c5321cb9f749f952eec3e"
+    },
+    {
+      "chapter": 3,
+      "verse_count": 12,
+      "sha256": "148a3336e129084874c9cf33a5007ba516621081d073b72f90fe0090c797216c"
+    },
+    {
+      "chapter": 4,
+      "verse_count": 13,
+      "sha256": "c0350c92c55a380971d5842a5c0113a737e1435b8be410c087a6e2b8b182b136"
+    },
+    {
+      "chapter": 5,
+      "verse_count": 15,
+      "sha256": "1d5db2b748d28c235b1e68830a327f114ce3b5e9cbfd1d95c6780e8b2a320d86"
+    },
+    {
+      "chapter": 6,
+      "verse_count": 16,
+      "sha256": "bce2e80d758e61e8f29a2f94077432bd3732382b47d1412b296a23610e1324da"
+    },
+    {
+      "chapter": 7,
+      "verse_count": 20,
+      "sha256": "5013610b54221755a3c1256a7e625367b6c32448822d026da36f7654b0d73536"
+    }
+  ]
+}

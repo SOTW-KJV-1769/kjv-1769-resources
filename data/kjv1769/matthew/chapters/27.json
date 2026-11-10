@@ -1,0 +1,968 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "KJV1769",
+  "book_code": "MAT",
+  "chapter": 27,
+  "verses": [
+    {
+      "id": "MAT.27.1",
+      "edition_verse_id": "KJV1769:MAT.27.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "When the morning was come, all the chief priests and elders of the people took counsel against Jesus to put him to death:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MAT.27.2",
+      "edition_verse_id": "KJV1769:MAT.27.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "And when they had bound him, they led ",
+          "kind": "text"
+        },
+        {
+          "text": "him",
+          "kind": "supplied"
+        },
+        {
+          "text": " away, and delivered him to Pontius Pilate the governor.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.27.3",
+      "edition_verse_id": "KJV1769:MAT.27.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "¶ Then Judas, which had betrayed him, when he saw that he was condemned, repented himself, and brought again the thirty pieces of silver to the chief priests and elders,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MAT.27.4",
+      "edition_verse_id": "KJV1769:MAT.27.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "Saying, I have sinned in that I have betrayed the innocent blood. And they said, What ",
+          "kind": "text"
+        },
+        {
+          "text": "is that",
+          "kind": "supplied"
+        },
+        {
+          "text": " to us? see thou ",
+          "kind": "text"
+        },
+        {
+          "text": "to that",
+          "kind": "supplied"
+        },
+        {
+          "text": ".",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.27.5",
+      "edition_verse_id": "KJV1769:MAT.27.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "And he cast down the pieces of silver in the temple, and departed, and went and hanged himself.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.27.6",
+      "edition_verse_id": "KJV1769:MAT.27.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "And the chief priests took the silver pieces, and said, It is not lawful for to put them into the treasury, because it is the price of blood.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.27.7",
+      "edition_verse_id": "KJV1769:MAT.27.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "And they took counsel, and bought with them the potter’s field, to bury strangers in.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.27.8",
+      "edition_verse_id": "KJV1769:MAT.27.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "Wherefore that field was called, The field of blood, unto this day.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.27.9",
+      "edition_verse_id": "KJV1769:MAT.27.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "Then was fulfilled that which was spoken by Jeremy the prophet, saying, And they took the thirty pieces of silver, the price of him that was valued, whom they of the children of Israel did value;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.27.10",
+      "edition_verse_id": "KJV1769:MAT.27.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "And gave them for the potter’s field, as the Lord appointed me.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.27.11",
+      "edition_verse_id": "KJV1769:MAT.27.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "And Jesus stood before the governor: and the governor asked him, saying, Art thou the King of the Jews? And Jesus said unto him, Thou sayest.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.27.12",
+      "edition_verse_id": "KJV1769:MAT.27.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "And when he was accused of the chief priests and elders, he answered nothing.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.27.13",
+      "edition_verse_id": "KJV1769:MAT.27.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "Then said Pilate unto him, Hearest thou not how many things they witness against thee?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.27.14",
+      "edition_verse_id": "KJV1769:MAT.27.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "And he answered him to never a word; insomuch that the governor marvelled greatly.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.27.15",
+      "edition_verse_id": "KJV1769:MAT.27.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "Now at ",
+          "kind": "text"
+        },
+        {
+          "text": "that",
+          "kind": "supplied"
+        },
+        {
+          "text": " feast the governor was wont to release unto the people a prisoner, whom they would.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.27.16",
+      "edition_verse_id": "KJV1769:MAT.27.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "And they had then a notable prisoner, called Barabbas.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.27.17",
+      "edition_verse_id": "KJV1769:MAT.27.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "Therefore when they were gathered together, Pilate said unto them, Whom will ye that I release unto you? Barabbas, or Jesus which is called Christ?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.27.18",
+      "edition_verse_id": "KJV1769:MAT.27.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "For he knew that for envy they had delivered him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.27.19",
+      "edition_verse_id": "KJV1769:MAT.27.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "¶ When he was set down on the judgment seat, his wife sent unto him, saying, Have thou nothing to do with that just man: for I have suffered many things this day in a dream because of him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MAT.27.20",
+      "edition_verse_id": "KJV1769:MAT.27.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "But the chief priests and elders persuaded the multitude that they should ask Barabbas, and destroy Jesus.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.27.21",
+      "edition_verse_id": "KJV1769:MAT.27.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "The governor answered and said unto them, Whether of the twain will ye that I release unto you? They said, Barabbas.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.27.22",
+      "edition_verse_id": "KJV1769:MAT.27.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "Pilate saith unto them, What shall I do then with Jesus which is called Christ? ",
+          "kind": "text"
+        },
+        {
+          "text": "They",
+          "kind": "supplied"
+        },
+        {
+          "text": " all say unto him, Let him be crucified.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.27.23",
+      "edition_verse_id": "KJV1769:MAT.27.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "And the governor said, Why, what evil hath he done? But they cried out the more, saying, Let him be crucified.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.27.24",
+      "edition_verse_id": "KJV1769:MAT.27.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "¶ When Pilate saw that he could prevail nothing, but ",
+          "kind": "text"
+        },
+        {
+          "text": "that",
+          "kind": "supplied"
+        },
+        {
+          "text": " rather a tumult was made, he took water, and washed ",
+          "kind": "text"
+        },
+        {
+          "text": "his",
+          "kind": "supplied"
+        },
+        {
+          "text": " hands before the multitude, saying, I am innocent of the blood of this just person: see ye ",
+          "kind": "text"
+        },
+        {
+          "text": "to it",
+          "kind": "supplied"
+        },
+        {
+          "text": ".",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MAT.27.25",
+      "edition_verse_id": "KJV1769:MAT.27.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "Then answered all the people, and said, His blood ",
+          "kind": "text"
+        },
+        {
+          "text": "be",
+          "kind": "supplied"
+        },
+        {
+          "text": " on us, and on our children.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.27.26",
+      "edition_verse_id": "KJV1769:MAT.27.26",
+      "verse": 26,
+      "spans": [
+        {
+          "text": "¶ Then released he Barabbas unto them: and when he had scourged Jesus, he delivered ",
+          "kind": "text"
+        },
+        {
+          "text": "him",
+          "kind": "supplied"
+        },
+        {
+          "text": " to be crucified.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MAT.27.27",
+      "edition_verse_id": "KJV1769:MAT.27.27",
+      "verse": 27,
+      "spans": [
+        {
+          "text": "Then the soldiers of the governor took Jesus into the common hall, and gathered unto him the whole band ",
+          "kind": "text"
+        },
+        {
+          "text": "of soldiers",
+          "kind": "supplied"
+        },
+        {
+          "text": ".",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.27.28",
+      "edition_verse_id": "KJV1769:MAT.27.28",
+      "verse": 28,
+      "spans": [
+        {
+          "text": "And they stripped him, and put on him a scarlet robe.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.27.29",
+      "edition_verse_id": "KJV1769:MAT.27.29",
+      "verse": 29,
+      "spans": [
+        {
+          "text": "¶ And when they had platted a crown of thorns, they put ",
+          "kind": "text"
+        },
+        {
+          "text": "it",
+          "kind": "supplied"
+        },
+        {
+          "text": " upon his head, and a reed in his right hand: and they bowed the knee before him, and mocked him, saying, Hail, King of the Jews!",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MAT.27.30",
+      "edition_verse_id": "KJV1769:MAT.27.30",
+      "verse": 30,
+      "spans": [
+        {
+          "text": "And they spit upon him, and took the reed, and smote him on the head.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.27.31",
+      "edition_verse_id": "KJV1769:MAT.27.31",
+      "verse": 31,
+      "spans": [
+        {
+          "text": "And after that they had mocked him, they took the robe off from him, and put his own raiment on him, and led him away to crucify ",
+          "kind": "text"
+        },
+        {
+          "text": "him",
+          "kind": "supplied"
+        },
+        {
+          "text": ".",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.27.32",
+      "edition_verse_id": "KJV1769:MAT.27.32",
+      "verse": 32,
+      "spans": [
+        {
+          "text": "And as they came out, they found a man of Cyrene, Simon by name: him they compelled to bear his cross.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.27.33",
+      "edition_verse_id": "KJV1769:MAT.27.33",
+      "verse": 33,
+      "spans": [
+        {
+          "text": "And when they were come unto a place called Golgotha, that is to say, a place of a skull,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.27.34",
+      "edition_verse_id": "KJV1769:MAT.27.34",
+      "verse": 34,
+      "spans": [
+        {
+          "text": "¶ They gave him vinegar to drink mingled with gall: and when he had tasted ",
+          "kind": "text"
+        },
+        {
+          "text": "thereof",
+          "kind": "supplied"
+        },
+        {
+          "text": ", he would not drink.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MAT.27.35",
+      "edition_verse_id": "KJV1769:MAT.27.35",
+      "verse": 35,
+      "spans": [
+        {
+          "text": "And they crucified him, and parted his garments, casting lots: that it might be fulfilled which was spoken by the prophet, They parted my garments among them, and upon my vesture did they cast lots.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.27.36",
+      "edition_verse_id": "KJV1769:MAT.27.36",
+      "verse": 36,
+      "spans": [
+        {
+          "text": "And sitting down they watched him there;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.27.37",
+      "edition_verse_id": "KJV1769:MAT.27.37",
+      "verse": 37,
+      "spans": [
+        {
+          "text": "And set up over his head his accusation written, THIS IS JESUS THE KING OF THE JEWS.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.27.38",
+      "edition_verse_id": "KJV1769:MAT.27.38",
+      "verse": 38,
+      "spans": [
+        {
+          "text": "Then were there two thieves crucified with him, one on the right hand, and another on the left.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.27.39",
+      "edition_verse_id": "KJV1769:MAT.27.39",
+      "verse": 39,
+      "spans": [
+        {
+          "text": "¶ And they that passed by reviled him, wagging their heads,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MAT.27.40",
+      "edition_verse_id": "KJV1769:MAT.27.40",
+      "verse": 40,
+      "spans": [
+        {
+          "text": "And saying, Thou that destroyest the temple, and buildest ",
+          "kind": "text"
+        },
+        {
+          "text": "it",
+          "kind": "supplied"
+        },
+        {
+          "text": " in three days, save thyself. If thou be the Son of God, come down from the cross.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.27.41",
+      "edition_verse_id": "KJV1769:MAT.27.41",
+      "verse": 41,
+      "spans": [
+        {
+          "text": "Likewise also the chief priests mocking ",
+          "kind": "text"
+        },
+        {
+          "text": "him",
+          "kind": "supplied"
+        },
+        {
+          "text": ", with the scribes and elders, said,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.27.42",
+      "edition_verse_id": "KJV1769:MAT.27.42",
+      "verse": 42,
+      "spans": [
+        {
+          "text": "He saved others; himself he cannot save. If he be the King of Israel, let him now come down from the cross, and we will believe him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.27.43",
+      "edition_verse_id": "KJV1769:MAT.27.43",
+      "verse": 43,
+      "spans": [
+        {
+          "text": "He trusted in God; let him deliver him now, if he will have him: for he said, I am the Son of God.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.27.44",
+      "edition_verse_id": "KJV1769:MAT.27.44",
+      "verse": 44,
+      "spans": [
+        {
+          "text": "The thieves also, which were crucified with him, cast the same in his teeth.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.27.45",
+      "edition_verse_id": "KJV1769:MAT.27.45",
+      "verse": 45,
+      "spans": [
+        {
+          "text": "Now from the sixth hour there was darkness over all the land unto the ninth hour.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.27.46",
+      "edition_verse_id": "KJV1769:MAT.27.46",
+      "verse": 46,
+      "spans": [
+        {
+          "text": "And about the ninth hour Jesus cried with a loud voice, saying, Eli, Eli, lama sabachthani? that is to say, My God, my God, why hast thou forsaken me?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.27.47",
+      "edition_verse_id": "KJV1769:MAT.27.47",
+      "verse": 47,
+      "spans": [
+        {
+          "text": "Some of them that stood there, when they heard ",
+          "kind": "text"
+        },
+        {
+          "text": "that",
+          "kind": "supplied"
+        },
+        {
+          "text": ", said, This ",
+          "kind": "text"
+        },
+        {
+          "text": "man",
+          "kind": "supplied"
+        },
+        {
+          "text": " calleth for Elias.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.27.48",
+      "edition_verse_id": "KJV1769:MAT.27.48",
+      "verse": 48,
+      "spans": [
+        {
+          "text": "And straightway one of them ran, and took a spunge, and filled ",
+          "kind": "text"
+        },
+        {
+          "text": "it",
+          "kind": "supplied"
+        },
+        {
+          "text": " with vinegar, and put ",
+          "kind": "text"
+        },
+        {
+          "text": "it",
+          "kind": "supplied"
+        },
+        {
+          "text": " on a reed, and gave him to drink.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.27.49",
+      "edition_verse_id": "KJV1769:MAT.27.49",
+      "verse": 49,
+      "spans": [
+        {
+          "text": "The rest said, Let be, let us see whether Elias will come to save him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.27.50",
+      "edition_verse_id": "KJV1769:MAT.27.50",
+      "verse": 50,
+      "spans": [
+        {
+          "text": "¶ Jesus, when he had cried again with a loud voice, yielded up the ghost.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MAT.27.51",
+      "edition_verse_id": "KJV1769:MAT.27.51",
+      "verse": 51,
+      "spans": [
+        {
+          "text": "And, behold, the veil of the temple was rent in twain from the top to the bottom; and the earth did quake, and the rocks rent;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.27.52",
+      "edition_verse_id": "KJV1769:MAT.27.52",
+      "verse": 52,
+      "spans": [
+        {
+          "text": "And the graves were opened; and many bodies of the saints which slept arose,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.27.53",
+      "edition_verse_id": "KJV1769:MAT.27.53",
+      "verse": 53,
+      "spans": [
+        {
+          "text": "And came out of the graves after his resurrection, and went into the holy city, and appeared unto many.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.27.54",
+      "edition_verse_id": "KJV1769:MAT.27.54",
+      "verse": 54,
+      "spans": [
+        {
+          "text": "Now when the centurion, and they that were with him, watching Jesus, saw the earthquake, and those things that were done, they feared greatly, saying, Truly this was the Son of God.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.27.55",
+      "edition_verse_id": "KJV1769:MAT.27.55",
+      "verse": 55,
+      "spans": [
+        {
+          "text": "And many women were there beholding afar off, which followed Jesus from Galilee, ministering unto him:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.27.56",
+      "edition_verse_id": "KJV1769:MAT.27.56",
+      "verse": 56,
+      "spans": [
+        {
+          "text": "Among which was Mary Magdalene, and Mary the mother of James and Joses, and the mother of Zebedee’s children.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.27.57",
+      "edition_verse_id": "KJV1769:MAT.27.57",
+      "verse": 57,
+      "spans": [
+        {
+          "text": "When the even was come, there came a rich man of Arimathæa, named Joseph, who also himself was Jesus’ disciple:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.27.58",
+      "edition_verse_id": "KJV1769:MAT.27.58",
+      "verse": 58,
+      "spans": [
+        {
+          "text": "He went to Pilate, and begged the body of Jesus. Then Pilate commanded the body to be delivered.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.27.59",
+      "edition_verse_id": "KJV1769:MAT.27.59",
+      "verse": 59,
+      "spans": [
+        {
+          "text": "And when Joseph had taken the body, he wrapped it in a clean linen cloth,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.27.60",
+      "edition_verse_id": "KJV1769:MAT.27.60",
+      "verse": 60,
+      "spans": [
+        {
+          "text": "And laid it in his own new tomb, which he had hewn out in the rock: and he rolled a great stone to the door of the sepulchre, and departed.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.27.61",
+      "edition_verse_id": "KJV1769:MAT.27.61",
+      "verse": 61,
+      "spans": [
+        {
+          "text": "And there was Mary Magdalene, and the other Mary, sitting over against the sepulchre.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.27.62",
+      "edition_verse_id": "KJV1769:MAT.27.62",
+      "verse": 62,
+      "spans": [
+        {
+          "text": "¶ Now the next day, that followed the day of the preparation, the chief priests and Pharisees came together unto Pilate,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MAT.27.63",
+      "edition_verse_id": "KJV1769:MAT.27.63",
+      "verse": 63,
+      "spans": [
+        {
+          "text": "Saying, Sir, we remember that that deceiver said, while he was yet alive, After three days I will rise again.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.27.64",
+      "edition_verse_id": "KJV1769:MAT.27.64",
+      "verse": 64,
+      "spans": [
+        {
+          "text": "Command therefore that the sepulchre be made sure until the third day, lest his disciples come by night, and steal him away, and say unto the people, He is risen from the dead: so the last error shall be worse than the first.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.27.65",
+      "edition_verse_id": "KJV1769:MAT.27.65",
+      "verse": 65,
+      "spans": [
+        {
+          "text": "Pilate said unto them, Ye have a watch: go your way, make ",
+          "kind": "text"
+        },
+        {
+          "text": "it",
+          "kind": "supplied"
+        },
+        {
+          "text": " as sure as ye can.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.27.66",
+      "edition_verse_id": "KJV1769:MAT.27.66",
+      "verse": 66,
+      "spans": [
+        {
+          "text": "So they went, and made the sepulchre sure, sealing the stone, and setting a watch.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

@@ -1,0 +1,96 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "KJV1769",
+  "book_code": "MAL",
+  "chapter": 4,
+  "verses": [
+    {
+      "id": "MAL.4.1",
+      "edition_verse_id": "KJV1769:MAL.4.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "For, behold, the day cometh, that shall burn as an oven; and all the proud, yea, and all that do wickedly, shall be stubble: and the day that cometh shall burn them up, saith the LORD of hosts, that it shall leave them neither root nor branch.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MAL.4.2",
+      "edition_verse_id": "KJV1769:MAL.4.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "¶ But unto you that fear my name shall the Sun of righteousness arise with healing in his wings; and ye shall go forth, and grow up as calves of the stall.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MAL.4.3",
+      "edition_verse_id": "KJV1769:MAL.4.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "And ye shall tread down the wicked; for they shall be ashes under the soles of your feet in the day that I shall do ",
+          "kind": "text"
+        },
+        {
+          "text": "this",
+          "kind": "supplied"
+        },
+        {
+          "text": ", saith the LORD of hosts.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAL.4.4",
+      "edition_verse_id": "KJV1769:MAL.4.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "¶ Remember ye the law of Moses my servant, which I commanded unto him in Horeb for all Israel, ",
+          "kind": "text"
+        },
+        {
+          "text": "with",
+          "kind": "supplied"
+        },
+        {
+          "text": " the statutes and judgments.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MAL.4.5",
+      "edition_verse_id": "KJV1769:MAL.4.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "¶ Behold, I will send you Elijah the prophet before the coming of the great and dreadful day of the LORD:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MAL.4.6",
+      "edition_verse_id": "KJV1769:MAL.4.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "And he shall turn the heart of the fathers to the children, and the heart of the children to their fathers, lest I come and smite the earth with a curse.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

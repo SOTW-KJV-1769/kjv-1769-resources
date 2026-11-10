@@ -1,0 +1,408 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "KJV1769",
+  "book_code": "NAM",
+  "chapter": 3,
+  "verses": [
+    {
+      "id": "NAM.3.1",
+      "edition_verse_id": "KJV1769:NAM.3.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "Woe to the bloody city! it ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " all full of lies ",
+          "kind": "text"
+        },
+        {
+          "text": "and",
+          "kind": "supplied"
+        },
+        {
+          "text": " robbery; the prey departeth not;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "NAM.3.2",
+      "edition_verse_id": "KJV1769:NAM.3.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "The noise of a whip, and the noise of the rattling of the wheels, and of the pransing horses, and of the jumping chariots.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NAM.3.3",
+      "edition_verse_id": "KJV1769:NAM.3.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "The horseman lifteth up both the bright sword and the glittering spear: and ",
+          "kind": "text"
+        },
+        {
+          "text": "there is",
+          "kind": "supplied"
+        },
+        {
+          "text": " a multitude of slain, and a great number of carcases; and ",
+          "kind": "text"
+        },
+        {
+          "text": "there is",
+          "kind": "supplied"
+        },
+        {
+          "text": " none end of ",
+          "kind": "text"
+        },
+        {
+          "text": "their",
+          "kind": "supplied"
+        },
+        {
+          "text": " corpses; they stumble upon their corpses:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NAM.3.4",
+      "edition_verse_id": "KJV1769:NAM.3.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "Because of the multitude of the whoredoms of the wellfavoured harlot, the mistress of witchcrafts, that selleth nations through her whoredoms, and families through her witchcrafts.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NAM.3.5",
+      "edition_verse_id": "KJV1769:NAM.3.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "Behold, I ",
+          "kind": "text"
+        },
+        {
+          "text": "am",
+          "kind": "supplied"
+        },
+        {
+          "text": " against thee, saith the LORD of hosts; and I will discover thy skirts upon thy face, and I will shew the nations thy nakedness, and the kingdoms thy shame.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NAM.3.6",
+      "edition_verse_id": "KJV1769:NAM.3.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "And I will cast abominable filth upon thee, and make thee vile, and will set thee as a gazingstock.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NAM.3.7",
+      "edition_verse_id": "KJV1769:NAM.3.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "And it shall come to pass, ",
+          "kind": "text"
+        },
+        {
+          "text": "that",
+          "kind": "supplied"
+        },
+        {
+          "text": " all they that look upon thee shall flee from thee, and say, Nineveh is laid waste: who will bemoan her? whence shall I seek comforters for thee?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NAM.3.8",
+      "edition_verse_id": "KJV1769:NAM.3.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "Art thou better than populous No, that was situate among the rivers, ",
+          "kind": "text"
+        },
+        {
+          "text": "that had",
+          "kind": "supplied"
+        },
+        {
+          "text": " the waters round about it, whose rampart ",
+          "kind": "text"
+        },
+        {
+          "text": "was",
+          "kind": "supplied"
+        },
+        {
+          "text": " the sea, ",
+          "kind": "text"
+        },
+        {
+          "text": "and",
+          "kind": "supplied"
+        },
+        {
+          "text": " her wall ",
+          "kind": "text"
+        },
+        {
+          "text": "was",
+          "kind": "supplied"
+        },
+        {
+          "text": " from the sea?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "NAM.3.9",
+      "edition_verse_id": "KJV1769:NAM.3.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "Ethiopia and Egypt ",
+          "kind": "text"
+        },
+        {
+          "text": "were",
+          "kind": "supplied"
+        },
+        {
+          "text": " her strength, and ",
+          "kind": "text"
+        },
+        {
+          "text": "it was",
+          "kind": "supplied"
+        },
+        {
+          "text": " infinite; Put and Lubim were thy helpers.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NAM.3.10",
+      "edition_verse_id": "KJV1769:NAM.3.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "Yet ",
+          "kind": "text"
+        },
+        {
+          "text": "was",
+          "kind": "supplied"
+        },
+        {
+          "text": " she carried away, she went into captivity: her young children also were dashed in pieces at the top of all the streets: and they cast lots for her honourable men, and all her great men were bound in chains.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NAM.3.11",
+      "edition_verse_id": "KJV1769:NAM.3.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "Thou also shalt be drunken: thou shalt be hid, thou also shalt seek strength because of the enemy.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NAM.3.12",
+      "edition_verse_id": "KJV1769:NAM.3.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "All thy strong holds ",
+          "kind": "text"
+        },
+        {
+          "text": "shall be like",
+          "kind": "supplied"
+        },
+        {
+          "text": " fig trees with the firstripe figs: if they be shaken, they shall even fall into the mouth of the eater.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NAM.3.13",
+      "edition_verse_id": "KJV1769:NAM.3.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "Behold, thy people in the midst of thee ",
+          "kind": "text"
+        },
+        {
+          "text": "are",
+          "kind": "supplied"
+        },
+        {
+          "text": " women: the gates of thy land shall be set wide open unto thine enemies: the fire shall devour thy bars.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NAM.3.14",
+      "edition_verse_id": "KJV1769:NAM.3.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "Draw thee waters for the siege, fortify thy strong holds: go into clay, and tread the morter, make strong the brickkiln.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NAM.3.15",
+      "edition_verse_id": "KJV1769:NAM.3.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "There shall the fire devour thee; the sword shall cut thee off, it shall eat thee up like the cankerworm: make thyself many as the cankerworm, make thyself many as the locusts.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NAM.3.16",
+      "edition_verse_id": "KJV1769:NAM.3.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "Thou hast multiplied thy merchants above the stars of heaven: the cankerworm spoileth, and flieth away.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NAM.3.17",
+      "edition_verse_id": "KJV1769:NAM.3.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "Thy crowned ",
+          "kind": "text"
+        },
+        {
+          "text": "are",
+          "kind": "supplied"
+        },
+        {
+          "text": " as the locusts, and thy captains as the great grasshoppers, which camp in the hedges in the cold day, ",
+          "kind": "text"
+        },
+        {
+          "text": "but",
+          "kind": "supplied"
+        },
+        {
+          "text": " when the sun ariseth they flee away, and their place is not known where they ",
+          "kind": "text"
+        },
+        {
+          "text": "are",
+          "kind": "supplied"
+        },
+        {
+          "text": ".",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NAM.3.18",
+      "edition_verse_id": "KJV1769:NAM.3.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "Thy shepherds slumber, O king of Assyria: thy nobles shall dwell ",
+          "kind": "text"
+        },
+        {
+          "text": "in the dust:",
+          "kind": "supplied"
+        },
+        {
+          "text": " thy people is scattered upon the mountains, and no man gathereth ",
+          "kind": "text"
+        },
+        {
+          "text": "them",
+          "kind": "supplied"
+        },
+        {
+          "text": ".",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NAM.3.19",
+      "edition_verse_id": "KJV1769:NAM.3.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "There is",
+          "kind": "supplied"
+        },
+        {
+          "text": " no healing of thy bruise; thy wound is grievous: all that hear the bruit of thee shall clap the hands over thee: for upon whom hath not thy wickedness passed continually?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

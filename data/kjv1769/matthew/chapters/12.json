@@ -1,0 +1,760 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "KJV1769",
+  "book_code": "MAT",
+  "chapter": 12,
+  "verses": [
+    {
+      "id": "MAT.12.1",
+      "edition_verse_id": "KJV1769:MAT.12.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "At that time Jesus went on the sabbath day through the corn; and his disciples were an hungred, and began to pluck the ears of corn, and to eat.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MAT.12.2",
+      "edition_verse_id": "KJV1769:MAT.12.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "But when the Pharisees saw ",
+          "kind": "text"
+        },
+        {
+          "text": "it",
+          "kind": "supplied"
+        },
+        {
+          "text": ", they said unto him, Behold, thy disciples do that which is not lawful to do upon the sabbath day.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.12.3",
+      "edition_verse_id": "KJV1769:MAT.12.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "But he said unto them, Have ye not read what David did, when he was an hungred, and they that were with him;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.12.4",
+      "edition_verse_id": "KJV1769:MAT.12.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "How he entered into the house of God, and did eat the shewbread, which was not lawful for him to eat, neither for them which were with him, but only for the priests?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.12.5",
+      "edition_verse_id": "KJV1769:MAT.12.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "Or have ye not read in the law, how that on the sabbath days the priests in the temple profane the sabbath, and are blameless?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.12.6",
+      "edition_verse_id": "KJV1769:MAT.12.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "But I say unto you, That in this place is ",
+          "kind": "text"
+        },
+        {
+          "text": "one",
+          "kind": "supplied"
+        },
+        {
+          "text": " greater than the temple.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.12.7",
+      "edition_verse_id": "KJV1769:MAT.12.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "But if ye had known what ",
+          "kind": "text"
+        },
+        {
+          "text": "this",
+          "kind": "supplied"
+        },
+        {
+          "text": " meaneth, I will have mercy, and not sacrifice, ye would not have condemned the guiltless.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.12.8",
+      "edition_verse_id": "KJV1769:MAT.12.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "For the Son of man is Lord even of the sabbath day.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.12.9",
+      "edition_verse_id": "KJV1769:MAT.12.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "And when he was departed thence, he went into their synagogue:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.12.10",
+      "edition_verse_id": "KJV1769:MAT.12.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "¶ And, behold, there was a man which had ",
+          "kind": "text"
+        },
+        {
+          "text": "his",
+          "kind": "supplied"
+        },
+        {
+          "text": " hand withered. And they asked him, saying, Is it lawful to heal on the sabbath days? that they might accuse him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MAT.12.11",
+      "edition_verse_id": "KJV1769:MAT.12.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "And he said unto them, What man shall there be among you, that shall have one sheep, and if it fall into a pit on the sabbath day, will he not lay hold on it, and lift ",
+          "kind": "text"
+        },
+        {
+          "text": "it",
+          "kind": "supplied"
+        },
+        {
+          "text": " out?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.12.12",
+      "edition_verse_id": "KJV1769:MAT.12.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "How much then is a man better than a sheep? Wherefore it is lawful to do well on the sabbath days.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.12.13",
+      "edition_verse_id": "KJV1769:MAT.12.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "Then saith he to the man, Stretch forth thine hand. And he stretched ",
+          "kind": "text"
+        },
+        {
+          "text": "it",
+          "kind": "supplied"
+        },
+        {
+          "text": " forth; and it was restored whole, like as the other.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.12.14",
+      "edition_verse_id": "KJV1769:MAT.12.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "¶ Then the Pharisees went out, and held a council against him, how they might destroy him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MAT.12.15",
+      "edition_verse_id": "KJV1769:MAT.12.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "But when Jesus knew ",
+          "kind": "text"
+        },
+        {
+          "text": "it",
+          "kind": "supplied"
+        },
+        {
+          "text": ", he withdrew himself from thence: and great multitudes followed him, and he healed them all;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.12.16",
+      "edition_verse_id": "KJV1769:MAT.12.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "And charged them that they should not make him known:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.12.17",
+      "edition_verse_id": "KJV1769:MAT.12.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "That it might be fulfilled which was spoken by Esaias the prophet, saying,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.12.18",
+      "edition_verse_id": "KJV1769:MAT.12.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "Behold my servant, whom I have chosen; my beloved, in whom my soul is well pleased: I will put my spirit upon him, and he shall shew judgment to the Gentiles.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.12.19",
+      "edition_verse_id": "KJV1769:MAT.12.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "He shall not strive, nor cry; neither shall any man hear his voice in the streets.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.12.20",
+      "edition_verse_id": "KJV1769:MAT.12.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "A bruised reed shall he not break, and smoking flax shall he not quench, till he send forth judgment unto victory.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.12.21",
+      "edition_verse_id": "KJV1769:MAT.12.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "And in his name shall the Gentiles trust.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.12.22",
+      "edition_verse_id": "KJV1769:MAT.12.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "¶ Then was brought unto him one possessed with a devil, blind, and dumb: and he healed him, insomuch that the blind and dumb both spake and saw.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MAT.12.23",
+      "edition_verse_id": "KJV1769:MAT.12.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "And all the people were amazed, and said, Is not this the son of David?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.12.24",
+      "edition_verse_id": "KJV1769:MAT.12.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "But when the Pharisees heard ",
+          "kind": "text"
+        },
+        {
+          "text": "it",
+          "kind": "supplied"
+        },
+        {
+          "text": ", they said, This ",
+          "kind": "text"
+        },
+        {
+          "text": "fellow",
+          "kind": "supplied"
+        },
+        {
+          "text": " doth not cast out devils, but by Beelzebub the prince of the devils.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.12.25",
+      "edition_verse_id": "KJV1769:MAT.12.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "And Jesus knew their thoughts, and said unto them, Every kingdom divided against itself is brought to desolation; and every city or house divided against itself shall not stand:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.12.26",
+      "edition_verse_id": "KJV1769:MAT.12.26",
+      "verse": 26,
+      "spans": [
+        {
+          "text": "And if Satan cast out Satan, he is divided against himself; how shall then his kingdom stand?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.12.27",
+      "edition_verse_id": "KJV1769:MAT.12.27",
+      "verse": 27,
+      "spans": [
+        {
+          "text": "And if I by Beelzebub cast out devils, by whom do your children cast ",
+          "kind": "text"
+        },
+        {
+          "text": "them",
+          "kind": "supplied"
+        },
+        {
+          "text": " out? therefore they shall be your judges.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.12.28",
+      "edition_verse_id": "KJV1769:MAT.12.28",
+      "verse": 28,
+      "spans": [
+        {
+          "text": "But if I cast out devils by the Spirit of God, then the kingdom of God is come unto you.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.12.29",
+      "edition_verse_id": "KJV1769:MAT.12.29",
+      "verse": 29,
+      "spans": [
+        {
+          "text": "Or else how can one enter into a strong man’s house, and spoil his goods, except he first bind the strong man? and then he will spoil his house.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.12.30",
+      "edition_verse_id": "KJV1769:MAT.12.30",
+      "verse": 30,
+      "spans": [
+        {
+          "text": "He that is not with me is against me; and he that gathereth not with me scattereth abroad.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.12.31",
+      "edition_verse_id": "KJV1769:MAT.12.31",
+      "verse": 31,
+      "spans": [
+        {
+          "text": "¶ Wherefore I say unto you, All manner of sin and blasphemy shall be forgiven unto men: but the blasphemy ",
+          "kind": "text"
+        },
+        {
+          "text": "against",
+          "kind": "supplied"
+        },
+        {
+          "text": " the ",
+          "kind": "text"
+        },
+        {
+          "text": "Holy",
+          "kind": "supplied"
+        },
+        {
+          "text": " Ghost shall not be forgiven unto men.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MAT.12.32",
+      "edition_verse_id": "KJV1769:MAT.12.32",
+      "verse": 32,
+      "spans": [
+        {
+          "text": "And whosoever speaketh a word against the Son of man, it shall be forgiven him: but whosoever speaketh against the Holy Ghost, it shall not be forgiven him, neither in this world, neither in the ",
+          "kind": "text"
+        },
+        {
+          "text": "world",
+          "kind": "supplied"
+        },
+        {
+          "text": " to come.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.12.33",
+      "edition_verse_id": "KJV1769:MAT.12.33",
+      "verse": 33,
+      "spans": [
+        {
+          "text": "Either make the tree good, and his fruit good; or else make the tree corrupt, and his fruit corrupt: for the tree is known by ",
+          "kind": "text"
+        },
+        {
+          "text": "his",
+          "kind": "supplied"
+        },
+        {
+          "text": " fruit.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.12.34",
+      "edition_verse_id": "KJV1769:MAT.12.34",
+      "verse": 34,
+      "spans": [
+        {
+          "text": "O generation of vipers, how can ye, being evil, speak good things? for out of the abundance of the heart the mouth speaketh.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.12.35",
+      "edition_verse_id": "KJV1769:MAT.12.35",
+      "verse": 35,
+      "spans": [
+        {
+          "text": "A good man out of the good treasure of the heart bringeth forth good things: and an evil man out of the evil treasure bringeth forth evil things.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.12.36",
+      "edition_verse_id": "KJV1769:MAT.12.36",
+      "verse": 36,
+      "spans": [
+        {
+          "text": "But I say unto you, That every idle word that men shall speak, they shall give account thereof in the day of judgment.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.12.37",
+      "edition_verse_id": "KJV1769:MAT.12.37",
+      "verse": 37,
+      "spans": [
+        {
+          "text": "For by thy words thou shalt be justified, and by thy words thou shalt be condemned.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.12.38",
+      "edition_verse_id": "KJV1769:MAT.12.38",
+      "verse": 38,
+      "spans": [
+        {
+          "text": "¶ Then certain of the scribes and of the Pharisees answered, saying, Master, we would see a sign from thee.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MAT.12.39",
+      "edition_verse_id": "KJV1769:MAT.12.39",
+      "verse": 39,
+      "spans": [
+        {
+          "text": "But he answered and said unto them, An evil and adulterous generation seeketh after a sign; and there shall no sign be given to it, but the sign of the prophet Jonas:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.12.40",
+      "edition_verse_id": "KJV1769:MAT.12.40",
+      "verse": 40,
+      "spans": [
+        {
+          "text": "For as Jonas was three days and three nights in the whale’s belly; so shall the Son of man be three days and three nights in the heart of the earth.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.12.41",
+      "edition_verse_id": "KJV1769:MAT.12.41",
+      "verse": 41,
+      "spans": [
+        {
+          "text": "The men of Nineveh shall rise in judgment with this generation, and shall condemn it: because they repented at the preaching of Jonas; and, behold, a greater than Jonas ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " here.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.12.42",
+      "edition_verse_id": "KJV1769:MAT.12.42",
+      "verse": 42,
+      "spans": [
+        {
+          "text": "The queen of the south shall rise up in the judgment with this generation, and shall condemn it: for she came from the uttermost parts of the earth to hear the wisdom of Solomon; and, behold, a greater than Solomon ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " here.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.12.43",
+      "edition_verse_id": "KJV1769:MAT.12.43",
+      "verse": 43,
+      "spans": [
+        {
+          "text": "When the unclean spirit is gone out of a man, he walketh through dry places, seeking rest, and findeth none.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.12.44",
+      "edition_verse_id": "KJV1769:MAT.12.44",
+      "verse": 44,
+      "spans": [
+        {
+          "text": "Then he saith, I will return into my house from whence I came out; and when he is come, he findeth ",
+          "kind": "text"
+        },
+        {
+          "text": "it",
+          "kind": "supplied"
+        },
+        {
+          "text": " empty, swept, and garnished.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.12.45",
+      "edition_verse_id": "KJV1769:MAT.12.45",
+      "verse": 45,
+      "spans": [
+        {
+          "text": "Then goeth he, and taketh with himself seven other spirits more wicked than himself, and they enter in and dwell there: and the last ",
+          "kind": "text"
+        },
+        {
+          "text": "state",
+          "kind": "supplied"
+        },
+        {
+          "text": " of that man is worse than the first. Even so shall it be also unto this wicked generation.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.12.46",
+      "edition_verse_id": "KJV1769:MAT.12.46",
+      "verse": 46,
+      "spans": [
+        {
+          "text": "¶ While he yet talked to the people, behold, ",
+          "kind": "text"
+        },
+        {
+          "text": "his",
+          "kind": "supplied"
+        },
+        {
+          "text": " mother and his brethren stood without, desiring to speak with him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MAT.12.47",
+      "edition_verse_id": "KJV1769:MAT.12.47",
+      "verse": 47,
+      "spans": [
+        {
+          "text": "Then one said unto him, Behold, thy mother and thy brethren stand without, desiring to speak with thee.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.12.48",
+      "edition_verse_id": "KJV1769:MAT.12.48",
+      "verse": 48,
+      "spans": [
+        {
+          "text": "But he answered and said unto him that told him, Who is my mother? and who are my brethren?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.12.49",
+      "edition_verse_id": "KJV1769:MAT.12.49",
+      "verse": 49,
+      "spans": [
+        {
+          "text": "And he stretched forth his hand toward his disciples, and said, Behold my mother and my brethren!",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.12.50",
+      "edition_verse_id": "KJV1769:MAT.12.50",
+      "verse": 50,
+      "spans": [
+        {
+          "text": "For whosoever shall do the will of my Father which is in heaven, the same is my brother, and sister, and mother.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

@@ -1,0 +1,1164 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "KJV1769",
+  "book_code": "MAT",
+  "chapter": 26,
+  "verses": [
+    {
+      "id": "MAT.26.1",
+      "edition_verse_id": "KJV1769:MAT.26.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "And it came to pass, when Jesus had finished all these sayings, he said unto his disciples,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MAT.26.2",
+      "edition_verse_id": "KJV1769:MAT.26.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "Ye know that after two days is ",
+          "kind": "text"
+        },
+        {
+          "text": "the feast of",
+          "kind": "supplied"
+        },
+        {
+          "text": " the passover, and the Son of man is betrayed to be crucified.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.26.3",
+      "edition_verse_id": "KJV1769:MAT.26.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "Then assembled together the chief priests, and the scribes, and the elders of the people, unto the palace of the high priest, who was called Caiaphas,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.26.4",
+      "edition_verse_id": "KJV1769:MAT.26.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "And consulted that they might take Jesus by subtilty, and kill ",
+          "kind": "text"
+        },
+        {
+          "text": "him",
+          "kind": "supplied"
+        },
+        {
+          "text": ".",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.26.5",
+      "edition_verse_id": "KJV1769:MAT.26.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "But they said, Not on the feast ",
+          "kind": "text"
+        },
+        {
+          "text": "day",
+          "kind": "supplied"
+        },
+        {
+          "text": ", lest there be an uproar among the people.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.26.6",
+      "edition_verse_id": "KJV1769:MAT.26.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "¶ Now when Jesus was in Bethany, in the house of Simon the leper,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MAT.26.7",
+      "edition_verse_id": "KJV1769:MAT.26.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "There came unto him a woman having an alabaster box of very precious ointment, and poured it on his head, as he sat ",
+          "kind": "text"
+        },
+        {
+          "text": "at meat",
+          "kind": "supplied"
+        },
+        {
+          "text": ".",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.26.8",
+      "edition_verse_id": "KJV1769:MAT.26.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "But when his disciples saw ",
+          "kind": "text"
+        },
+        {
+          "text": "it",
+          "kind": "supplied"
+        },
+        {
+          "text": ", they had indignation, saying, To what purpose ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " this waste?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.26.9",
+      "edition_verse_id": "KJV1769:MAT.26.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "For this ointment might have been sold for much, and given to the poor.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.26.10",
+      "edition_verse_id": "KJV1769:MAT.26.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "When Jesus understood ",
+          "kind": "text"
+        },
+        {
+          "text": "it",
+          "kind": "supplied"
+        },
+        {
+          "text": ", he said unto them, Why trouble ye the woman? for she hath wrought a good work upon me.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.26.11",
+      "edition_verse_id": "KJV1769:MAT.26.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "For ye have the poor always with you; but me ye have not always.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.26.12",
+      "edition_verse_id": "KJV1769:MAT.26.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "For in that she hath poured this ointment on my body, she did ",
+          "kind": "text"
+        },
+        {
+          "text": "it",
+          "kind": "supplied"
+        },
+        {
+          "text": " for my burial.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.26.13",
+      "edition_verse_id": "KJV1769:MAT.26.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "Verily I say unto you, Wheresoever this gospel shall be preached in the whole world, ",
+          "kind": "text"
+        },
+        {
+          "text": "there",
+          "kind": "supplied"
+        },
+        {
+          "text": " shall also this, that this woman hath done, be told for a memorial of her.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.26.14",
+      "edition_verse_id": "KJV1769:MAT.26.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "¶ Then one of the twelve, called Judas Iscariot, went unto the chief priests,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MAT.26.15",
+      "edition_verse_id": "KJV1769:MAT.26.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "And said ",
+          "kind": "text"
+        },
+        {
+          "text": "unto them",
+          "kind": "supplied"
+        },
+        {
+          "text": ", What will ye give me, and I will deliver him unto you? And they covenanted with him for thirty pieces of silver.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.26.16",
+      "edition_verse_id": "KJV1769:MAT.26.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "And from that time he sought opportunity to betray him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.26.17",
+      "edition_verse_id": "KJV1769:MAT.26.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "¶ Now the first ",
+          "kind": "text"
+        },
+        {
+          "text": "day",
+          "kind": "supplied"
+        },
+        {
+          "text": " of the feast of unleavened bread the disciples came to Jesus, saying unto him, Where wilt thou that we prepare for thee to eat the passover?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MAT.26.18",
+      "edition_verse_id": "KJV1769:MAT.26.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "And he said, Go into the city to such a man, and say unto him, The Master saith, My time is at hand; I will keep the passover at thy house with my disciples.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.26.19",
+      "edition_verse_id": "KJV1769:MAT.26.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "And the disciples did as Jesus had appointed them; and they made ready the passover.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.26.20",
+      "edition_verse_id": "KJV1769:MAT.26.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "Now when the even was come, he sat down with the twelve.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.26.21",
+      "edition_verse_id": "KJV1769:MAT.26.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "And as they did eat, he said, Verily I say unto you, that one of you shall betray me.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.26.22",
+      "edition_verse_id": "KJV1769:MAT.26.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "And they were exceeding sorrowful, and began every one of them to say unto him, Lord, is it I?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.26.23",
+      "edition_verse_id": "KJV1769:MAT.26.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "And he answered and said, He that dippeth ",
+          "kind": "text"
+        },
+        {
+          "text": "his",
+          "kind": "supplied"
+        },
+        {
+          "text": " hand with me in the dish, the same shall betray me.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.26.24",
+      "edition_verse_id": "KJV1769:MAT.26.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "The Son of man goeth as it is written of him: but woe unto that man by whom the Son of man is betrayed! it had been good for that man if he had not been born.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.26.25",
+      "edition_verse_id": "KJV1769:MAT.26.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "Then Judas, which betrayed him, answered and said, Master, is it I? He said unto him, Thou hast said.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.26.26",
+      "edition_verse_id": "KJV1769:MAT.26.26",
+      "verse": 26,
+      "spans": [
+        {
+          "text": "¶ And as they were eating, Jesus took bread, and blessed ",
+          "kind": "text"
+        },
+        {
+          "text": "it",
+          "kind": "supplied"
+        },
+        {
+          "text": ", and brake ",
+          "kind": "text"
+        },
+        {
+          "text": "it",
+          "kind": "supplied"
+        },
+        {
+          "text": ", and gave ",
+          "kind": "text"
+        },
+        {
+          "text": "it",
+          "kind": "supplied"
+        },
+        {
+          "text": " to the disciples, and said, Take, eat; this is my body.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MAT.26.27",
+      "edition_verse_id": "KJV1769:MAT.26.27",
+      "verse": 27,
+      "spans": [
+        {
+          "text": "And he took the cup, and gave thanks, and gave ",
+          "kind": "text"
+        },
+        {
+          "text": "it",
+          "kind": "supplied"
+        },
+        {
+          "text": " to them, saying, Drink ye all of it;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.26.28",
+      "edition_verse_id": "KJV1769:MAT.26.28",
+      "verse": 28,
+      "spans": [
+        {
+          "text": "For this is my blood of the new testament, which is shed for many for the remission of sins.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.26.29",
+      "edition_verse_id": "KJV1769:MAT.26.29",
+      "verse": 29,
+      "spans": [
+        {
+          "text": "But I say unto you, I will not drink henceforth of this fruit of the vine, until that day when I drink it new with you in my Father’s kingdom.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.26.30",
+      "edition_verse_id": "KJV1769:MAT.26.30",
+      "verse": 30,
+      "spans": [
+        {
+          "text": "And when they had sung an hymn, they went out into the mount of Olives.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.26.31",
+      "edition_verse_id": "KJV1769:MAT.26.31",
+      "verse": 31,
+      "spans": [
+        {
+          "text": "Then saith Jesus unto them, All ye shall be offended because of me this night: for it is written, I will smite the shepherd, and the sheep of the flock shall be scattered abroad.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.26.32",
+      "edition_verse_id": "KJV1769:MAT.26.32",
+      "verse": 32,
+      "spans": [
+        {
+          "text": "But after I am risen again, I will go before you into Galilee.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.26.33",
+      "edition_verse_id": "KJV1769:MAT.26.33",
+      "verse": 33,
+      "spans": [
+        {
+          "text": "Peter answered and said unto him, Though all ",
+          "kind": "text"
+        },
+        {
+          "text": "men",
+          "kind": "supplied"
+        },
+        {
+          "text": " shall be offended because of thee, ",
+          "kind": "text"
+        },
+        {
+          "text": "yet",
+          "kind": "supplied"
+        },
+        {
+          "text": " will I never be offended.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.26.34",
+      "edition_verse_id": "KJV1769:MAT.26.34",
+      "verse": 34,
+      "spans": [
+        {
+          "text": "Jesus said unto him, Verily I say unto thee, That this night, before the cock crow, thou shalt deny me thrice.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.26.35",
+      "edition_verse_id": "KJV1769:MAT.26.35",
+      "verse": 35,
+      "spans": [
+        {
+          "text": "Peter said unto him, Though I should die with thee, yet will I not deny thee. Likewise also said all the disciples.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.26.36",
+      "edition_verse_id": "KJV1769:MAT.26.36",
+      "verse": 36,
+      "spans": [
+        {
+          "text": "¶ Then cometh Jesus with them unto a place called Gethsemane, and saith unto the disciples, Sit ye here, while I go and pray yonder.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MAT.26.37",
+      "edition_verse_id": "KJV1769:MAT.26.37",
+      "verse": 37,
+      "spans": [
+        {
+          "text": "And he took with him Peter and the two sons of Zebedee, and began to be sorrowful and very heavy.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.26.38",
+      "edition_verse_id": "KJV1769:MAT.26.38",
+      "verse": 38,
+      "spans": [
+        {
+          "text": "Then saith he unto them, My soul is exceeding sorrowful, even unto death: tarry ye here, and watch with me.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.26.39",
+      "edition_verse_id": "KJV1769:MAT.26.39",
+      "verse": 39,
+      "spans": [
+        {
+          "text": "And he went a little further, and fell on his face, and prayed, saying, O my Father, if it be possible, let this cup pass from me: nevertheless not as I will, but as thou ",
+          "kind": "text"
+        },
+        {
+          "text": "wilt",
+          "kind": "supplied"
+        },
+        {
+          "text": ".",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.26.40",
+      "edition_verse_id": "KJV1769:MAT.26.40",
+      "verse": 40,
+      "spans": [
+        {
+          "text": "And he cometh unto the disciples, and findeth them asleep, and saith unto Peter, What, could ye not watch with me one hour?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.26.41",
+      "edition_verse_id": "KJV1769:MAT.26.41",
+      "verse": 41,
+      "spans": [
+        {
+          "text": "Watch and pray, that ye enter not into temptation: the spirit indeed ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " willing, but the flesh ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " weak.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.26.42",
+      "edition_verse_id": "KJV1769:MAT.26.42",
+      "verse": 42,
+      "spans": [
+        {
+          "text": "He went away again the second time, and prayed, saying, O my Father, if this cup may not pass away from me, except I drink it, thy will be done.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.26.43",
+      "edition_verse_id": "KJV1769:MAT.26.43",
+      "verse": 43,
+      "spans": [
+        {
+          "text": "And he came and found them asleep again: for their eyes were heavy.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.26.44",
+      "edition_verse_id": "KJV1769:MAT.26.44",
+      "verse": 44,
+      "spans": [
+        {
+          "text": "And he left them, and went away again, and prayed the third time, saying the same words.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.26.45",
+      "edition_verse_id": "KJV1769:MAT.26.45",
+      "verse": 45,
+      "spans": [
+        {
+          "text": "Then cometh he to his disciples, and saith unto them, Sleep on now, and take your rest: behold, the hour is at hand, and the Son of man is betrayed into the hands of sinners.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.26.46",
+      "edition_verse_id": "KJV1769:MAT.26.46",
+      "verse": 46,
+      "spans": [
+        {
+          "text": "Rise, let us be going: behold, he is at hand that doth betray me.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.26.47",
+      "edition_verse_id": "KJV1769:MAT.26.47",
+      "verse": 47,
+      "spans": [
+        {
+          "text": "¶ And while he yet spake, lo, Judas, one of the twelve, came, and with him a great multitude with swords and staves, from the chief priests and elders of the people.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MAT.26.48",
+      "edition_verse_id": "KJV1769:MAT.26.48",
+      "verse": 48,
+      "spans": [
+        {
+          "text": "Now he that betrayed him gave them a sign, saying, Whomsoever I shall kiss, that same is he: hold him fast.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.26.49",
+      "edition_verse_id": "KJV1769:MAT.26.49",
+      "verse": 49,
+      "spans": [
+        {
+          "text": "And forthwith he came to Jesus, and said, Hail, master; and kissed him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.26.50",
+      "edition_verse_id": "KJV1769:MAT.26.50",
+      "verse": 50,
+      "spans": [
+        {
+          "text": "And Jesus said unto him, Friend, wherefore art thou come? Then came they, and laid hands on Jesus, and took him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.26.51",
+      "edition_verse_id": "KJV1769:MAT.26.51",
+      "verse": 51,
+      "spans": [
+        {
+          "text": "And, behold, one of them which were with Jesus stretched out ",
+          "kind": "text"
+        },
+        {
+          "text": "his",
+          "kind": "supplied"
+        },
+        {
+          "text": " hand, and drew his sword, and struck a servant of the high priest’s, and smote off his ear.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.26.52",
+      "edition_verse_id": "KJV1769:MAT.26.52",
+      "verse": 52,
+      "spans": [
+        {
+          "text": "Then said Jesus unto him, Put up again thy sword into his place: for all they that take the sword shall perish with the sword.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.26.53",
+      "edition_verse_id": "KJV1769:MAT.26.53",
+      "verse": 53,
+      "spans": [
+        {
+          "text": "Thinkest thou that I cannot now pray to my Father, and he shall presently give me more than twelve legions of angels?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.26.54",
+      "edition_verse_id": "KJV1769:MAT.26.54",
+      "verse": 54,
+      "spans": [
+        {
+          "text": "But how then shall the scriptures be fulfilled, that thus it must be?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.26.55",
+      "edition_verse_id": "KJV1769:MAT.26.55",
+      "verse": 55,
+      "spans": [
+        {
+          "text": "In that same hour said Jesus to the multitudes, Are ye come out as against a thief with swords and staves for to take me? I sat daily with you teaching in the temple, and ye laid no hold on me.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.26.56",
+      "edition_verse_id": "KJV1769:MAT.26.56",
+      "verse": 56,
+      "spans": [
+        {
+          "text": "But all this was done, that the scriptures of the prophets might be fulfilled. Then all the disciples forsook him, and fled.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.26.57",
+      "edition_verse_id": "KJV1769:MAT.26.57",
+      "verse": 57,
+      "spans": [
+        {
+          "text": "¶ And they that had laid hold on Jesus led ",
+          "kind": "text"
+        },
+        {
+          "text": "him",
+          "kind": "supplied"
+        },
+        {
+          "text": " away to Caiaphas the high priest, where the scribes and the elders were assembled.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MAT.26.58",
+      "edition_verse_id": "KJV1769:MAT.26.58",
+      "verse": 58,
+      "spans": [
+        {
+          "text": "But Peter followed him afar off unto the high priest’s palace, and went in, and sat with the servants, to see the end.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.26.59",
+      "edition_verse_id": "KJV1769:MAT.26.59",
+      "verse": 59,
+      "spans": [
+        {
+          "text": "Now the chief priests, and elders, and all the council, sought false witness against Jesus, to put him to death;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.26.60",
+      "edition_verse_id": "KJV1769:MAT.26.60",
+      "verse": 60,
+      "spans": [
+        {
+          "text": "But found none: yea, though many false witnesses came, ",
+          "kind": "text"
+        },
+        {
+          "text": "yet",
+          "kind": "supplied"
+        },
+        {
+          "text": " found they none. At the last came two false witnesses,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.26.61",
+      "edition_verse_id": "KJV1769:MAT.26.61",
+      "verse": 61,
+      "spans": [
+        {
+          "text": "And said, This ",
+          "kind": "text"
+        },
+        {
+          "text": "fellow",
+          "kind": "supplied"
+        },
+        {
+          "text": " said, I am able to destroy the temple of God, and to build it in three days.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.26.62",
+      "edition_verse_id": "KJV1769:MAT.26.62",
+      "verse": 62,
+      "spans": [
+        {
+          "text": "And the high priest arose, and said unto him, Answerest thou nothing? what ",
+          "kind": "text"
+        },
+        {
+          "text": "is it which",
+          "kind": "supplied"
+        },
+        {
+          "text": " these witness against thee?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.26.63",
+      "edition_verse_id": "KJV1769:MAT.26.63",
+      "verse": 63,
+      "spans": [
+        {
+          "text": "But Jesus held his peace. And the high priest answered and said unto him, I adjure thee by the living God, that thou tell us whether thou be the Christ, the Son of God.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.26.64",
+      "edition_verse_id": "KJV1769:MAT.26.64",
+      "verse": 64,
+      "spans": [
+        {
+          "text": "Jesus saith unto him, Thou hast said: nevertheless I say unto you, Hereafter shall ye see the Son of man sitting on the right hand of power, and coming in the clouds of heaven.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.26.65",
+      "edition_verse_id": "KJV1769:MAT.26.65",
+      "verse": 65,
+      "spans": [
+        {
+          "text": "Then the high priest rent his clothes, saying, He hath spoken blasphemy; what further need have we of witnesses? behold, now ye have heard his blasphemy.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.26.66",
+      "edition_verse_id": "KJV1769:MAT.26.66",
+      "verse": 66,
+      "spans": [
+        {
+          "text": "What think ye? They answered and said, He is guilty of death.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.26.67",
+      "edition_verse_id": "KJV1769:MAT.26.67",
+      "verse": 67,
+      "spans": [
+        {
+          "text": "Then did they spit in his face, and buffeted him; and others smote him with the palms of their hands,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.26.68",
+      "edition_verse_id": "KJV1769:MAT.26.68",
+      "verse": 68,
+      "spans": [
+        {
+          "text": "Saying, Prophesy unto us, thou Christ, Who is he that smote thee?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.26.69",
+      "edition_verse_id": "KJV1769:MAT.26.69",
+      "verse": 69,
+      "spans": [
+        {
+          "text": "¶ Now Peter sat without in the palace: and a damsel came unto him, saying, Thou also wast with Jesus of Galilee.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MAT.26.70",
+      "edition_verse_id": "KJV1769:MAT.26.70",
+      "verse": 70,
+      "spans": [
+        {
+          "text": "But he denied before ",
+          "kind": "text"
+        },
+        {
+          "text": "them",
+          "kind": "supplied"
+        },
+        {
+          "text": " all, saying, I know not what thou sayest.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.26.71",
+      "edition_verse_id": "KJV1769:MAT.26.71",
+      "verse": 71,
+      "spans": [
+        {
+          "text": "And when he was gone out into the porch, another ",
+          "kind": "text"
+        },
+        {
+          "text": "maid",
+          "kind": "supplied"
+        },
+        {
+          "text": " saw him, and said unto them that were there, This ",
+          "kind": "text"
+        },
+        {
+          "text": "fellow",
+          "kind": "supplied"
+        },
+        {
+          "text": " was also with Jesus of Nazareth.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.26.72",
+      "edition_verse_id": "KJV1769:MAT.26.72",
+      "verse": 72,
+      "spans": [
+        {
+          "text": "And again he denied with an oath, I do not know the man.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.26.73",
+      "edition_verse_id": "KJV1769:MAT.26.73",
+      "verse": 73,
+      "spans": [
+        {
+          "text": "And after a while came unto ",
+          "kind": "text"
+        },
+        {
+          "text": "him",
+          "kind": "supplied"
+        },
+        {
+          "text": " they that stood by, and said to Peter, Surely thou also art ",
+          "kind": "text"
+        },
+        {
+          "text": "one",
+          "kind": "supplied"
+        },
+        {
+          "text": " of them; for thy speech bewrayeth thee.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.26.74",
+      "edition_verse_id": "KJV1769:MAT.26.74",
+      "verse": 74,
+      "spans": [
+        {
+          "text": "Then began he to curse and to swear, ",
+          "kind": "text"
+        },
+        {
+          "text": "saying",
+          "kind": "supplied"
+        },
+        {
+          "text": ", I know not the man. And immediately the cock crew.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.26.75",
+      "edition_verse_id": "KJV1769:MAT.26.75",
+      "verse": 75,
+      "spans": [
+        {
+          "text": "And Peter remembered the word of Jesus, which said unto him, Before the cock crow, thou shalt deny me thrice. And he went out, and wept bitterly.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

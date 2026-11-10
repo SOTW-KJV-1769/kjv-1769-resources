@@ -1,0 +1,308 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "KJV1769",
+  "book_code": "MRK",
+  "chapter": 16,
+  "verses": [
+    {
+      "id": "MRK.16.1",
+      "edition_verse_id": "KJV1769:MRK.16.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "And when the sabbath was past, Mary Magdalene, and Mary the ",
+          "kind": "text"
+        },
+        {
+          "text": "mother",
+          "kind": "supplied"
+        },
+        {
+          "text": " of James, and Salome, had bought sweet spices, that they might come and anoint him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MRK.16.2",
+      "edition_verse_id": "KJV1769:MRK.16.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "And very early in the morning the first ",
+          "kind": "text"
+        },
+        {
+          "text": "day",
+          "kind": "supplied"
+        },
+        {
+          "text": " of the week, they came unto the sepulchre at the rising of the sun.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.16.3",
+      "edition_verse_id": "KJV1769:MRK.16.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "And they said among themselves, Who shall roll us away the stone from the door of the sepulchre?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.16.4",
+      "edition_verse_id": "KJV1769:MRK.16.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "And when they looked, they saw that the stone was rolled away: for it was very great.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.16.5",
+      "edition_verse_id": "KJV1769:MRK.16.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "And entering into the sepulchre, they saw a young man sitting on the right side, clothed in a long white garment; and they were affrighted.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.16.6",
+      "edition_verse_id": "KJV1769:MRK.16.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "And he saith unto them, Be not affrighted: Ye seek Jesus of Nazareth, which was crucified: he is risen; he is not here: behold the place where they laid him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.16.7",
+      "edition_verse_id": "KJV1769:MRK.16.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "But go your way, tell his disciples and Peter that he goeth before you into Galilee: there shall ye see him, as he said unto you.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.16.8",
+      "edition_verse_id": "KJV1769:MRK.16.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "And they went out quickly, and fled from the sepulchre; for they trembled and were amazed: neither said they any thing to any ",
+          "kind": "text"
+        },
+        {
+          "text": "man",
+          "kind": "supplied"
+        },
+        {
+          "text": "; for they were afraid.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.16.9",
+      "edition_verse_id": "KJV1769:MRK.16.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "¶ Now when ",
+          "kind": "text"
+        },
+        {
+          "text": "Jesus",
+          "kind": "supplied"
+        },
+        {
+          "text": " was risen early the first ",
+          "kind": "text"
+        },
+        {
+          "text": "day",
+          "kind": "supplied"
+        },
+        {
+          "text": " of the week, he appeared first to Mary Magdalene, out of whom he had cast seven devils.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MRK.16.10",
+      "edition_verse_id": "KJV1769:MRK.16.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "And",
+          "kind": "supplied"
+        },
+        {
+          "text": " she went and told them that had been with him, as they mourned and wept.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.16.11",
+      "edition_verse_id": "KJV1769:MRK.16.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "And they, when they had heard that he was alive, and had been seen of her, believed not.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.16.12",
+      "edition_verse_id": "KJV1769:MRK.16.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "¶ After that he appeared in another form unto two of them, as they walked, and went into the country.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MRK.16.13",
+      "edition_verse_id": "KJV1769:MRK.16.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "And they went and told ",
+          "kind": "text"
+        },
+        {
+          "text": "it",
+          "kind": "supplied"
+        },
+        {
+          "text": " unto the residue: neither believed they them.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.16.14",
+      "edition_verse_id": "KJV1769:MRK.16.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "¶ Afterward he appeared unto the eleven as they sat at meat, and upbraided them with their unbelief and hardness of heart, because they believed not them which had seen him after he was risen.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MRK.16.15",
+      "edition_verse_id": "KJV1769:MRK.16.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "And he said unto them, Go ye into all the world, and preach the gospel to every creature.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.16.16",
+      "edition_verse_id": "KJV1769:MRK.16.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "He that believeth and is baptized shall be saved; but he that believeth not shall be damned.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.16.17",
+      "edition_verse_id": "KJV1769:MRK.16.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "And these signs shall follow them that believe; In my name shall they cast out devils; they shall speak with new tongues;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.16.18",
+      "edition_verse_id": "KJV1769:MRK.16.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "They shall take up serpents; and if they drink any deadly thing, it shall not hurt them; they shall lay hands on the sick, and they shall recover.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.16.19",
+      "edition_verse_id": "KJV1769:MRK.16.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "¶ So then after the Lord had spoken unto them, he was received up into heaven, and sat on the right hand of God.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MRK.16.20",
+      "edition_verse_id": "KJV1769:MRK.16.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "And they went forth, and preached every where, the Lord working with ",
+          "kind": "text"
+        },
+        {
+          "text": "them",
+          "kind": "supplied"
+        },
+        {
+          "text": ", and confirming the word with signs following. Amen.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

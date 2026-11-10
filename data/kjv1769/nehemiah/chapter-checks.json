@@ -1,0 +1,73 @@
+{
+  "edition_id": "KJV1769",
+  "book_code": "NEH",
+  "chapter_count": 13,
+  "verse_count": 406,
+  "chapters": [
+    {
+      "chapter": 1,
+      "verse_count": 11,
+      "sha256": "d585f93fc0d8bc48baacfb809fcc0ce2f9a9917cb1cac8a2605daabcf467e569"
+    },
+    {
+      "chapter": 2,
+      "verse_count": 20,
+      "sha256": "35105c5b64e6b31bcfa22c97d8fa8cea848e15946831ce7dc454a6c39207867b"
+    },
+    {
+      "chapter": 3,
+      "verse_count": 32,
+      "sha256": "4d14516c9c34807f0af797116477721364318e9e03308b272a3925da1e30cfa9"
+    },
+    {
+      "chapter": 4,
+      "verse_count": 23,
+      "sha256": "32778a92c9aa8d75188aabe57abfbe4cc9ece50f18ca98c1c3a7dd0c1a69aac6"
+    },
+    {
+      "chapter": 5,
+      "verse_count": 19,
+      "sha256": "172f6744f1890e0ec1aad01f03a6ab567567f5a1a440391e7dfeb251606e82b0"
+    },
+    {
+      "chapter": 6,
+      "verse_count": 19,
+      "sha256": "4eb32b06cbd575cc395962ba7cad5f18a75cd83e3e3d28bc86b6a7840a8df9ee"
+    },
+    {
+      "chapter": 7,
+      "verse_count": 73,
+      "sha256": "664f8a113f5fdba728d498609b4354b3a8faab4400b6667f1a68e2e9c0912923"
+    },
+    {
+      "chapter": 8,
+      "verse_count": 18,
+      "sha256": "3e026ab4654d2119130d399220518e3ac46e8086c98559886f037b16aa2bdf44"
+    },
+    {
+      "chapter": 9,
+      "verse_count": 38,
+      "sha256": "abce51cabaa5dbcd58f0c060686fccb6f891b085ebc8b2311c46efcc20d4052e"
+    },
+    {
+      "chapter": 10,
+      "verse_count": 39,
+      "sha256": "6592c67ef9223107ad9811bc549638eb6a582933eff2aca6fb176c13075d7907"
+    },
+    {
+      "chapter": 11,
+      "verse_count": 36,
+      "sha256": "d40945df693a81c544320e65a55ad8b20c36a22cc16203e83b7d65f3038c43ae"
+    },
+    {
+      "chapter": 12,
+      "verse_count": 47,
+      "sha256": "2ca166861674810c34bca24feb701a3ae338c0007369456cf9b875ea9159d018"
+    },
+    {
+      "chapter": 13,
+      "verse_count": 31,
+      "sha256": "9bcfdcd663d96711a6c196d7761d6d4728475bfd67829121d261164f7f90f247"
+    }
+  ]
+}

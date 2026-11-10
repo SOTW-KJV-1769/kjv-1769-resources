@@ -1,0 +1,720 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "KJV1769",
+  "book_code": "MAT",
+  "chapter": 25,
+  "verses": [
+    {
+      "id": "MAT.25.1",
+      "edition_verse_id": "KJV1769:MAT.25.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "Then shall the kingdom of heaven be likened unto ten virgins, which took their lamps, and went forth to meet the bridegroom.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MAT.25.2",
+      "edition_verse_id": "KJV1769:MAT.25.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "And five of them were wise, and five ",
+          "kind": "text"
+        },
+        {
+          "text": "were",
+          "kind": "supplied"
+        },
+        {
+          "text": " foolish.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.25.3",
+      "edition_verse_id": "KJV1769:MAT.25.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "They that ",
+          "kind": "text"
+        },
+        {
+          "text": "were",
+          "kind": "supplied"
+        },
+        {
+          "text": " foolish took their lamps, and took no oil with them:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.25.4",
+      "edition_verse_id": "KJV1769:MAT.25.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "But the wise took oil in their vessels with their lamps.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.25.5",
+      "edition_verse_id": "KJV1769:MAT.25.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "While the bridegroom tarried, they all slumbered and slept.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.25.6",
+      "edition_verse_id": "KJV1769:MAT.25.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "And at midnight there was a cry made, Behold, the bridegroom cometh; go ye out to meet him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.25.7",
+      "edition_verse_id": "KJV1769:MAT.25.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "Then all those virgins arose, and trimmed their lamps.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.25.8",
+      "edition_verse_id": "KJV1769:MAT.25.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "And the foolish said unto the wise, Give us of your oil; for our lamps are gone out.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.25.9",
+      "edition_verse_id": "KJV1769:MAT.25.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "But the wise answered, saying, ",
+          "kind": "text"
+        },
+        {
+          "text": "Not so",
+          "kind": "supplied"
+        },
+        {
+          "text": "; lest there be not enough for us and you: but go ye rather to them that sell, and buy for yourselves.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.25.10",
+      "edition_verse_id": "KJV1769:MAT.25.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "And while they went to buy, the bridegroom came; and they that were ready went in with him to the marriage: and the door was shut.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.25.11",
+      "edition_verse_id": "KJV1769:MAT.25.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "Afterward came also the other virgins, saying, Lord, Lord, open to us.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.25.12",
+      "edition_verse_id": "KJV1769:MAT.25.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "But he answered and said, Verily I say unto you, I know you not.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.25.13",
+      "edition_verse_id": "KJV1769:MAT.25.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "Watch therefore, for ye know neither the day nor the hour wherein the Son of man cometh.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.25.14",
+      "edition_verse_id": "KJV1769:MAT.25.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "¶ For ",
+          "kind": "text"
+        },
+        {
+          "text": "the kingdom of heaven is",
+          "kind": "supplied"
+        },
+        {
+          "text": " as a man travelling into a far country, ",
+          "kind": "text"
+        },
+        {
+          "text": "who",
+          "kind": "supplied"
+        },
+        {
+          "text": " called his own servants, and delivered unto them his goods.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MAT.25.15",
+      "edition_verse_id": "KJV1769:MAT.25.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "And unto one he gave five talents, to another two, and to another one; to every man according to his several ability; and straightway took his journey.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.25.16",
+      "edition_verse_id": "KJV1769:MAT.25.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "Then he that had received the five talents went and traded with the same, and made ",
+          "kind": "text"
+        },
+        {
+          "text": "them",
+          "kind": "supplied"
+        },
+        {
+          "text": " other five talents.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.25.17",
+      "edition_verse_id": "KJV1769:MAT.25.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "And likewise he that ",
+          "kind": "text"
+        },
+        {
+          "text": "had received",
+          "kind": "supplied"
+        },
+        {
+          "text": " two, he also gained other two.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.25.18",
+      "edition_verse_id": "KJV1769:MAT.25.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "But he that had received one went and digged in the earth, and hid his lord’s money.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.25.19",
+      "edition_verse_id": "KJV1769:MAT.25.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "After a long time the lord of those servants cometh, and reckoneth with them.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.25.20",
+      "edition_verse_id": "KJV1769:MAT.25.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "And so he that had received five talents came and brought other five talents, saying, Lord, thou deliveredst unto me five talents: behold, I have gained beside them five talents more.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.25.21",
+      "edition_verse_id": "KJV1769:MAT.25.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "His lord said unto him, Well done, ",
+          "kind": "text"
+        },
+        {
+          "text": "thou",
+          "kind": "supplied"
+        },
+        {
+          "text": " good and faithful servant: thou hast been faithful over a few things, I will make thee ruler over many things: enter thou into the joy of thy lord.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.25.22",
+      "edition_verse_id": "KJV1769:MAT.25.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "He also that had received two talents came and said, Lord, thou deliveredst unto me two talents: behold, I have gained two other talents beside them.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.25.23",
+      "edition_verse_id": "KJV1769:MAT.25.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "His lord said unto him, Well done, good and faithful servant; thou hast been faithful over a few things, I will make thee ruler over many things: enter thou into the joy of thy lord.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.25.24",
+      "edition_verse_id": "KJV1769:MAT.25.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "Then he which had received the one talent came and said, Lord, I knew thee that thou art an hard man, reaping where thou hast not sown, and gathering where thou hast not strawed:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.25.25",
+      "edition_verse_id": "KJV1769:MAT.25.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "And I was afraid, and went and hid thy talent in the earth: lo, ",
+          "kind": "text"
+        },
+        {
+          "text": "there",
+          "kind": "supplied"
+        },
+        {
+          "text": " thou hast ",
+          "kind": "text"
+        },
+        {
+          "text": "that is",
+          "kind": "supplied"
+        },
+        {
+          "text": " thine.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.25.26",
+      "edition_verse_id": "KJV1769:MAT.25.26",
+      "verse": 26,
+      "spans": [
+        {
+          "text": "His lord answered and said unto him, ",
+          "kind": "text"
+        },
+        {
+          "text": "Thou",
+          "kind": "supplied"
+        },
+        {
+          "text": " wicked and slothful servant, thou knewest that I reap where I sowed not, and gather where I have not strawed:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.25.27",
+      "edition_verse_id": "KJV1769:MAT.25.27",
+      "verse": 27,
+      "spans": [
+        {
+          "text": "Thou oughtest therefore to have put my money to the exchangers, and ",
+          "kind": "text"
+        },
+        {
+          "text": "then",
+          "kind": "supplied"
+        },
+        {
+          "text": " at my coming I should have received mine own with usury.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.25.28",
+      "edition_verse_id": "KJV1769:MAT.25.28",
+      "verse": 28,
+      "spans": [
+        {
+          "text": "Take therefore the talent from him, and give ",
+          "kind": "text"
+        },
+        {
+          "text": "it",
+          "kind": "supplied"
+        },
+        {
+          "text": " unto him which hath ten talents.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.25.29",
+      "edition_verse_id": "KJV1769:MAT.25.29",
+      "verse": 29,
+      "spans": [
+        {
+          "text": "For unto every one that hath shall be given, and he shall have abundance: but from him that hath not shall be taken away even that which he hath.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.25.30",
+      "edition_verse_id": "KJV1769:MAT.25.30",
+      "verse": 30,
+      "spans": [
+        {
+          "text": "And cast ye the unprofitable servant into outer darkness: there shall be weeping and gnashing of teeth.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.25.31",
+      "edition_verse_id": "KJV1769:MAT.25.31",
+      "verse": 31,
+      "spans": [
+        {
+          "text": "¶ When the Son of man shall come in his glory, and all the holy angels with him, then shall he sit upon the throne of his glory:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MAT.25.32",
+      "edition_verse_id": "KJV1769:MAT.25.32",
+      "verse": 32,
+      "spans": [
+        {
+          "text": "And before him shall be gathered all nations: and he shall separate them one from another, as a shepherd divideth ",
+          "kind": "text"
+        },
+        {
+          "text": "his",
+          "kind": "supplied"
+        },
+        {
+          "text": " sheep from the goats:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.25.33",
+      "edition_verse_id": "KJV1769:MAT.25.33",
+      "verse": 33,
+      "spans": [
+        {
+          "text": "And he shall set the sheep on his right hand, but the goats on the left.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.25.34",
+      "edition_verse_id": "KJV1769:MAT.25.34",
+      "verse": 34,
+      "spans": [
+        {
+          "text": "Then shall the King say unto them on his right hand, Come, ye blessed of my Father, inherit the kingdom prepared for you from the foundation of the world:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.25.35",
+      "edition_verse_id": "KJV1769:MAT.25.35",
+      "verse": 35,
+      "spans": [
+        {
+          "text": "For I was an hungred, and ye gave me meat: I was thirsty, and ye gave me drink: I was a stranger, and ye took me in:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.25.36",
+      "edition_verse_id": "KJV1769:MAT.25.36",
+      "verse": 36,
+      "spans": [
+        {
+          "text": "Naked, and ye clothed me: I was sick, and ye visited me: I was in prison, and ye came unto me.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.25.37",
+      "edition_verse_id": "KJV1769:MAT.25.37",
+      "verse": 37,
+      "spans": [
+        {
+          "text": "Then shall the righteous answer him, saying, Lord, when saw we thee an hungred, and fed ",
+          "kind": "text"
+        },
+        {
+          "text": "thee",
+          "kind": "supplied"
+        },
+        {
+          "text": "? or thirsty, and gave thee drink?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.25.38",
+      "edition_verse_id": "KJV1769:MAT.25.38",
+      "verse": 38,
+      "spans": [
+        {
+          "text": "When saw we thee a stranger, and took thee in? or naked, and clothed ",
+          "kind": "text"
+        },
+        {
+          "text": "thee",
+          "kind": "supplied"
+        },
+        {
+          "text": "?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.25.39",
+      "edition_verse_id": "KJV1769:MAT.25.39",
+      "verse": 39,
+      "spans": [
+        {
+          "text": "Or when saw we thee sick, or in prison, and came unto thee?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.25.40",
+      "edition_verse_id": "KJV1769:MAT.25.40",
+      "verse": 40,
+      "spans": [
+        {
+          "text": "And the King shall answer and say unto them, Verily I say unto you, Inasmuch as ye have done ",
+          "kind": "text"
+        },
+        {
+          "text": "it",
+          "kind": "supplied"
+        },
+        {
+          "text": " unto one of the least of these my brethren, ye have done ",
+          "kind": "text"
+        },
+        {
+          "text": "it",
+          "kind": "supplied"
+        },
+        {
+          "text": " unto me.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.25.41",
+      "edition_verse_id": "KJV1769:MAT.25.41",
+      "verse": 41,
+      "spans": [
+        {
+          "text": "Then shall he say also unto them on the left hand, Depart from me, ye cursed, into everlasting fire, prepared for the devil and his angels:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.25.42",
+      "edition_verse_id": "KJV1769:MAT.25.42",
+      "verse": 42,
+      "spans": [
+        {
+          "text": "For I was an hungred, and ye gave me no meat: I was thirsty, and ye gave me no drink:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.25.43",
+      "edition_verse_id": "KJV1769:MAT.25.43",
+      "verse": 43,
+      "spans": [
+        {
+          "text": "I was a stranger, and ye took me not in: naked, and ye clothed me not: sick, and in prison, and ye visited me not.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.25.44",
+      "edition_verse_id": "KJV1769:MAT.25.44",
+      "verse": 44,
+      "spans": [
+        {
+          "text": "Then shall they also answer him, saying, Lord, when saw we thee an hungred, or athirst, or a stranger, or naked, or sick, or in prison, and did not minister unto thee?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.25.45",
+      "edition_verse_id": "KJV1769:MAT.25.45",
+      "verse": 45,
+      "spans": [
+        {
+          "text": "Then shall he answer them, saying, Verily I say unto you, Inasmuch as ye did ",
+          "kind": "text"
+        },
+        {
+          "text": "it",
+          "kind": "supplied"
+        },
+        {
+          "text": " not to one of the least of these, ye did ",
+          "kind": "text"
+        },
+        {
+          "text": "it",
+          "kind": "supplied"
+        },
+        {
+          "text": " not to me.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.25.46",
+      "edition_verse_id": "KJV1769:MAT.25.46",
+      "verse": 46,
+      "spans": [
+        {
+          "text": "And these shall go away into everlasting punishment: but the righteous into life eternal.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

@@ -1,0 +1,316 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "KJV1769",
+  "book_code": "MAT",
+  "chapter": 2,
+  "verses": [
+    {
+      "id": "MAT.2.1",
+      "edition_verse_id": "KJV1769:MAT.2.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "Now when Jesus was born in Bethlehem of Judaea in the days of Herod the king, behold, there came wise men from the east to Jerusalem,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MAT.2.2",
+      "edition_verse_id": "KJV1769:MAT.2.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "Saying, Where is he that is born King of the Jews? for we have seen his star in the east, and are come to worship him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.2.3",
+      "edition_verse_id": "KJV1769:MAT.2.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "When Herod the king had heard ",
+          "kind": "text"
+        },
+        {
+          "text": "these things",
+          "kind": "supplied"
+        },
+        {
+          "text": ", he was troubled, and all Jerusalem with him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.2.4",
+      "edition_verse_id": "KJV1769:MAT.2.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "And when he had gathered all the chief priests and scribes of the people together, he demanded of them where Christ should be born.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.2.5",
+      "edition_verse_id": "KJV1769:MAT.2.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "And they said unto him, In Bethlehem of Judaea: for thus it is written by the prophet,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.2.6",
+      "edition_verse_id": "KJV1769:MAT.2.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "And thou Bethlehem, ",
+          "kind": "text"
+        },
+        {
+          "text": "in",
+          "kind": "supplied"
+        },
+        {
+          "text": " the land of Juda, art not the least among the princes of Juda: for out of thee shall come a Governor, that shall rule my people Israel.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.2.7",
+      "edition_verse_id": "KJV1769:MAT.2.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "Then Herod, when he had privily called the wise men, enquired of them diligently what time the star appeared.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.2.8",
+      "edition_verse_id": "KJV1769:MAT.2.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "And he sent them to Bethlehem, and said, Go and search diligently for the young child; and when ye have found ",
+          "kind": "text"
+        },
+        {
+          "text": "him",
+          "kind": "supplied"
+        },
+        {
+          "text": ", bring me word again, that I may come and worship him also.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.2.9",
+      "edition_verse_id": "KJV1769:MAT.2.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "When they had heard the king, they departed; and, lo, the star, which they saw in the east, went before them, till it came and stood over where the young child was.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.2.10",
+      "edition_verse_id": "KJV1769:MAT.2.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "When they saw the star, they rejoiced with exceeding great joy.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.2.11",
+      "edition_verse_id": "KJV1769:MAT.2.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "¶ And when they were come into the house, they saw the young child with Mary his mother, and fell down, and worshipped him: and when they had opened their treasures, they presented unto him gifts; gold, and frankincense, and myrrh.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MAT.2.12",
+      "edition_verse_id": "KJV1769:MAT.2.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "And being warned of God in a dream that they should not return to Herod, they departed into their own country another way.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.2.13",
+      "edition_verse_id": "KJV1769:MAT.2.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "And when they were departed, behold, the angel of the Lord appeareth to Joseph in a dream, saying, Arise, and take the young child and his mother, and flee into Egypt, and be thou there until I bring thee word: for Herod will seek the young child to destroy him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.2.14",
+      "edition_verse_id": "KJV1769:MAT.2.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "When he arose, he took the young child and his mother by night, and departed into Egypt:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.2.15",
+      "edition_verse_id": "KJV1769:MAT.2.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "And was there until the death of Herod: that it might be fulfilled which was spoken of the Lord by the prophet, saying, Out of Egypt have I called my son.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.2.16",
+      "edition_verse_id": "KJV1769:MAT.2.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "¶ Then Herod, when he saw that he was mocked of the wise men, was exceeding wroth, and sent forth, and slew all the children that were in Bethlehem, and in all the coasts thereof, from two years old and under, according to the time which he had diligently enquired of the wise men.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MAT.2.17",
+      "edition_verse_id": "KJV1769:MAT.2.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "Then was fulfilled that which was spoken by Jeremy the prophet, saying,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.2.18",
+      "edition_verse_id": "KJV1769:MAT.2.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "In Rama was there a voice heard, lamentation, and weeping, and great mourning, Rachel weeping ",
+          "kind": "text"
+        },
+        {
+          "text": "for",
+          "kind": "supplied"
+        },
+        {
+          "text": " her children, and would not be comforted, because they are not.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.2.19",
+      "edition_verse_id": "KJV1769:MAT.2.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "¶ But when Herod was dead, behold, an angel of the Lord appeareth in a dream to Joseph in Egypt,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MAT.2.20",
+      "edition_verse_id": "KJV1769:MAT.2.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "Saying, Arise, and take the young child and his mother, and go into the land of Israel: for they are dead which sought the young child’s life.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.2.21",
+      "edition_verse_id": "KJV1769:MAT.2.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "And he arose, and took the young child and his mother, and came into the land of Israel.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.2.22",
+      "edition_verse_id": "KJV1769:MAT.2.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "But when he heard that Archelaus did reign in Judaea in the room of his father Herod, he was afraid to go thither: notwithstanding, being warned of God in a dream, he turned aside into the parts of Galilee:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.2.23",
+      "edition_verse_id": "KJV1769:MAT.2.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "And he came and dwelt in a city called Nazareth: that it might be fulfilled which was spoken by the prophets, He shall be called a Nazarene.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

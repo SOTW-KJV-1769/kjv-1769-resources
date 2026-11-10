@@ -1,0 +1,552 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "KJV1769",
+  "book_code": "NUM",
+  "chapter": 5,
+  "verses": [
+    {
+      "id": "NUM.5.1",
+      "edition_verse_id": "KJV1769:NUM.5.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "And the LORD spake unto Moses, saying,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "NUM.5.2",
+      "edition_verse_id": "KJV1769:NUM.5.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "Command the children of Israel, that they put out of the camp every leper, and every one that hath an issue, and whosoever is defiled by the dead:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.5.3",
+      "edition_verse_id": "KJV1769:NUM.5.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "Both male and female shall ye put out, without the camp shall ye put them; that they defile not their camps, in the midst whereof I dwell.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.5.4",
+      "edition_verse_id": "KJV1769:NUM.5.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "And the children of Israel did so, and put them out without the camp: as the LORD spake unto Moses, so did the children of Israel.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.5.5",
+      "edition_verse_id": "KJV1769:NUM.5.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "¶ And the LORD spake unto Moses, saying,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "NUM.5.6",
+      "edition_verse_id": "KJV1769:NUM.5.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "Speak unto the children of Israel, When a man or woman shall commit any sin that men commit, to do a trespass against the LORD, and that person be guilty;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.5.7",
+      "edition_verse_id": "KJV1769:NUM.5.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "Then they shall confess their sin which they have done: and he shall recompense his trespass with the principal thereof, and add unto it the fifth ",
+          "kind": "text"
+        },
+        {
+          "text": "part",
+          "kind": "supplied"
+        },
+        {
+          "text": " thereof, and give ",
+          "kind": "text"
+        },
+        {
+          "text": "it",
+          "kind": "supplied"
+        },
+        {
+          "text": " unto ",
+          "kind": "text"
+        },
+        {
+          "text": "him",
+          "kind": "supplied"
+        },
+        {
+          "text": " against whom he hath trespassed.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.5.8",
+      "edition_verse_id": "KJV1769:NUM.5.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "But if the man have no kinsman to recompense the trespass unto, let the trespass be recompensed unto the LORD, ",
+          "kind": "text"
+        },
+        {
+          "text": "even",
+          "kind": "supplied"
+        },
+        {
+          "text": " to the priest; beside the ram of the atonement, whereby an atonement shall be made for him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.5.9",
+      "edition_verse_id": "KJV1769:NUM.5.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "And every offering of all the holy things of the children of Israel, which they bring unto the priest, shall be his.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.5.10",
+      "edition_verse_id": "KJV1769:NUM.5.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "And every man’s hallowed things shall be his: whatsoever any man giveth the priest, it shall be his.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.5.11",
+      "edition_verse_id": "KJV1769:NUM.5.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "¶ And the LORD spake unto Moses, saying,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "NUM.5.12",
+      "edition_verse_id": "KJV1769:NUM.5.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "Speak unto the children of Israel, and say unto them, If any man’s wife go aside, and commit a trespass against him,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.5.13",
+      "edition_verse_id": "KJV1769:NUM.5.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "And a man lie with her carnally, and it be hid from the eyes of her husband, and be kept close, and she be defiled, and ",
+          "kind": "text"
+        },
+        {
+          "text": "there be",
+          "kind": "supplied"
+        },
+        {
+          "text": " no witness against her, neither she be taken ",
+          "kind": "text"
+        },
+        {
+          "text": "with the manner;",
+          "kind": "supplied"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.5.14",
+      "edition_verse_id": "KJV1769:NUM.5.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "And the spirit of jealousy come upon him, and he be jealous of his wife, and she be defiled: or if the spirit of jealousy come upon him, and he be jealous of his wife, and she be not defiled:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.5.15",
+      "edition_verse_id": "KJV1769:NUM.5.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "Then shall the man bring his wife unto the priest, and he shall bring her offering for her, the tenth ",
+          "kind": "text"
+        },
+        {
+          "text": "part",
+          "kind": "supplied"
+        },
+        {
+          "text": " of an ephah of barley meal; he shall pour no oil upon it, nor put frankincense thereon; for it ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " an offering of jealousy, an offering of memorial, bringing iniquity to remembrance.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.5.16",
+      "edition_verse_id": "KJV1769:NUM.5.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "And the priest shall bring her near, and set her before the LORD:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.5.17",
+      "edition_verse_id": "KJV1769:NUM.5.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "And the priest shall take holy water in an earthen vessel; and of the dust that is in the floor of the tabernacle the priest shall take, and put ",
+          "kind": "text"
+        },
+        {
+          "text": "it",
+          "kind": "supplied"
+        },
+        {
+          "text": " into the water:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.5.18",
+      "edition_verse_id": "KJV1769:NUM.5.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "And the priest shall set the woman before the LORD, and uncover the woman’s head, and put the offering of memorial in her hands, which ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " the jealousy offering: and the priest shall have in his hand the bitter water that causeth the curse:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.5.19",
+      "edition_verse_id": "KJV1769:NUM.5.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "And the priest shall charge her by an oath, and say unto the woman, If no man have lain with thee, and if thou hast not gone aside to uncleanness ",
+          "kind": "text"
+        },
+        {
+          "text": "with another",
+          "kind": "supplied"
+        },
+        {
+          "text": " instead of thy husband, be thou free from this bitter water that causeth the curse:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.5.20",
+      "edition_verse_id": "KJV1769:NUM.5.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "But if thou hast gone aside ",
+          "kind": "text"
+        },
+        {
+          "text": "to another",
+          "kind": "supplied"
+        },
+        {
+          "text": " instead of thy husband, and if thou be defiled, and some man have lain with thee beside thine husband:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.5.21",
+      "edition_verse_id": "KJV1769:NUM.5.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "Then the priest shall charge the woman with an oath of cursing, and the priest shall say unto the woman, The LORD make thee a curse and an oath among thy people, when the LORD doth make thy thigh to rot, and thy belly to swell;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.5.22",
+      "edition_verse_id": "KJV1769:NUM.5.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "And this water that causeth the curse shall go into thy bowels, to make ",
+          "kind": "text"
+        },
+        {
+          "text": "thy",
+          "kind": "supplied"
+        },
+        {
+          "text": " belly to swell, and ",
+          "kind": "text"
+        },
+        {
+          "text": "thy",
+          "kind": "supplied"
+        },
+        {
+          "text": " thigh to rot: And the woman shall say, Amen, amen.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.5.23",
+      "edition_verse_id": "KJV1769:NUM.5.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "And the priest shall write these curses in a book, and he shall blot ",
+          "kind": "text"
+        },
+        {
+          "text": "them",
+          "kind": "supplied"
+        },
+        {
+          "text": " out with the bitter water:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.5.24",
+      "edition_verse_id": "KJV1769:NUM.5.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "And he shall cause the woman to drink the bitter water that causeth the curse: and the water that causeth the curse shall enter into her, ",
+          "kind": "text"
+        },
+        {
+          "text": "and become",
+          "kind": "supplied"
+        },
+        {
+          "text": " bitter.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.5.25",
+      "edition_verse_id": "KJV1769:NUM.5.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "Then the priest shall take the jealousy offering out of the woman’s hand, and shall wave the offering before the LORD, and offer it upon the altar:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.5.26",
+      "edition_verse_id": "KJV1769:NUM.5.26",
+      "verse": 26,
+      "spans": [
+        {
+          "text": "And the priest shall take an handful of the offering, ",
+          "kind": "text"
+        },
+        {
+          "text": "even",
+          "kind": "supplied"
+        },
+        {
+          "text": " the memorial thereof, and burn ",
+          "kind": "text"
+        },
+        {
+          "text": "it",
+          "kind": "supplied"
+        },
+        {
+          "text": " upon the altar, and afterward shall cause the woman to drink the water.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.5.27",
+      "edition_verse_id": "KJV1769:NUM.5.27",
+      "verse": 27,
+      "spans": [
+        {
+          "text": "And when he hath made her to drink the water, then it shall come to pass, ",
+          "kind": "text"
+        },
+        {
+          "text": "that",
+          "kind": "supplied"
+        },
+        {
+          "text": ", if she be defiled, and have done trespass against her husband, that the water that causeth the curse shall enter into her, ",
+          "kind": "text"
+        },
+        {
+          "text": "and become",
+          "kind": "supplied"
+        },
+        {
+          "text": " bitter, and her belly shall swell, and her thigh shall rot: and the woman shall be a curse among her people.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.5.28",
+      "edition_verse_id": "KJV1769:NUM.5.28",
+      "verse": 28,
+      "spans": [
+        {
+          "text": "And if the woman be not defiled, but be clean; then she shall be free, and shall conceive seed.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.5.29",
+      "edition_verse_id": "KJV1769:NUM.5.29",
+      "verse": 29,
+      "spans": [
+        {
+          "text": "This ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " the law of jealousies, when a wife goeth aside ",
+          "kind": "text"
+        },
+        {
+          "text": "to another",
+          "kind": "supplied"
+        },
+        {
+          "text": " instead of her husband, and is defiled;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.5.30",
+      "edition_verse_id": "KJV1769:NUM.5.30",
+      "verse": 30,
+      "spans": [
+        {
+          "text": "Or when the spirit of jealousy cometh upon him, and he be jealous over his wife, and shall set the woman before the LORD, and the priest shall execute upon her all this law.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.5.31",
+      "edition_verse_id": "KJV1769:NUM.5.31",
+      "verse": 31,
+      "spans": [
+        {
+          "text": "Then shall the man be guiltless from iniquity, and this woman shall bear her iniquity.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

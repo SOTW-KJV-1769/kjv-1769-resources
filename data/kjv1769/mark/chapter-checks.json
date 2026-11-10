@@ -1,0 +1,88 @@
+{
+  "edition_id": "KJV1769",
+  "book_code": "MRK",
+  "chapter_count": 16,
+  "verse_count": 678,
+  "chapters": [
+    {
+      "chapter": 1,
+      "verse_count": 45,
+      "sha256": "e6f5fef4e31ba71bb364ae9a1a14ef720b4952e5a067a4ec1e354d752c23727e"
+    },
+    {
+      "chapter": 2,
+      "verse_count": 28,
+      "sha256": "e5a6f552f98d07a92005764085516ea66d447f9d9c2256f8aaa4838f43168689"
+    },
+    {
+      "chapter": 3,
+      "verse_count": 35,
+      "sha256": "02c1301552daa840b1f7b10e5673d419bc133a0cdbf5465c74e3dfb8eeb6cf87"
+    },
+    {
+      "chapter": 4,
+      "verse_count": 41,
+      "sha256": "79988ff48b12ed1fa89b444c5e5ec18cd9f21b2ba447d16ad43e68ad0ce6f0e8"
+    },
+    {
+      "chapter": 5,
+      "verse_count": 43,
+      "sha256": "08069cdd9a1a8f5c03ae693b554f43d7d92f05a404e82aa5fb57e7bc9acd10ce"
+    },
+    {
+      "chapter": 6,
+      "verse_count": 56,
+      "sha256": "60ed01fe8bf56ea22e36ef2cb615a7f7e551ebbc64b4fd5188430c56cf51b1f2"
+    },
+    {
+      "chapter": 7,
+      "verse_count": 37,
+      "sha256": "17a12d3f701c4ac3ad874d6c5aba23747adbdde566ad7ee3db0ad0e1a10edf4f"
+    },
+    {
+      "chapter": 8,
+      "verse_count": 38,
+      "sha256": "db6d79433237a7fc98d3fda3d7353b7e1643baefa1920692b38035330ccf9d4c"
+    },
+    {
+      "chapter": 9,
+      "verse_count": 50,
+      "sha256": "3af74403fd8b739f3fbcbcf56c0de35c7cec903b03b0f24135fb10eab8641348"
+    },
+    {
+      "chapter": 10,
+      "verse_count": 52,
+      "sha256": "15576f3322ab5d6463c197755b58115c759aebaa90034fa13e792b8c5b9785ba"
+    },
+    {
+      "chapter": 11,
+      "verse_count": 33,
+      "sha256": "a30702a04381b39ee2b8a14b23b6f2885d5a57655a2594e4a4608693c58a680f"
+    },
+    {
+      "chapter": 12,
+      "verse_count": 44,
+      "sha256": "2def42126b7b5b27e6913eb17a139fcb1fd67714c21065d2c69668f6eae9765f"
+    },
+    {
+      "chapter": 13,
+      "verse_count": 37,
+      "sha256": "fe5c543b43197cc9da29a54821420345bc683cab313bfc24f98466a7e8f7ff7b"
+    },
+    {
+      "chapter": 14,
+      "verse_count": 72,
+      "sha256": "2dd4995c62c579a6c98b67cd62161874fdae7e5957b7b8b0aad4a5e8fd3e7e56"
+    },
+    {
+      "chapter": 15,
+      "verse_count": 47,
+      "sha256": "56ebf8111c3c4f6316f7b9c16e87061a17d380aa47b7fd8916f7fb48a2a95e8c"
+    },
+    {
+      "chapter": 16,
+      "verse_count": 20,
+      "sha256": "19460dbd9f2bdb9d48260de8fccaf2cfae79d6537f57d6b49c61ce5bf650c4f7"
+    }
+  ]
+}

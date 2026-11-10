@@ -1,0 +1,832 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "KJV1769",
+  "book_code": "MRK",
+  "chapter": 6,
+  "verses": [
+    {
+      "id": "MRK.6.1",
+      "edition_verse_id": "KJV1769:MRK.6.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "And he went out from thence, and came into his own country; and his disciples follow him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MRK.6.2",
+      "edition_verse_id": "KJV1769:MRK.6.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "And when the sabbath day was come, he began to teach in the synagogue: and many hearing ",
+          "kind": "text"
+        },
+        {
+          "text": "him",
+          "kind": "supplied"
+        },
+        {
+          "text": " were astonished, saying, From whence hath this ",
+          "kind": "text"
+        },
+        {
+          "text": "man",
+          "kind": "supplied"
+        },
+        {
+          "text": " these things? and what wisdom ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " this which is given unto him, that even such mighty works are wrought by his hands?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.6.3",
+      "edition_verse_id": "KJV1769:MRK.6.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "Is not this the carpenter, the son of Mary, the brother of James, and Joses, and of Juda, and Simon? and are not his sisters here with us? And they were offended at him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.6.4",
+      "edition_verse_id": "KJV1769:MRK.6.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "But Jesus said unto them, A prophet is not without honour, but in his own country, and among his own kin, and in his own house.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.6.5",
+      "edition_verse_id": "KJV1769:MRK.6.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "And he could there do no mighty work, save that he laid his hands upon a few sick folk, and healed ",
+          "kind": "text"
+        },
+        {
+          "text": "them",
+          "kind": "supplied"
+        },
+        {
+          "text": ".",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.6.6",
+      "edition_verse_id": "KJV1769:MRK.6.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "And he marvelled because of their unbelief. And he went round about the villages, teaching.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.6.7",
+      "edition_verse_id": "KJV1769:MRK.6.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "¶ And he called ",
+          "kind": "text"
+        },
+        {
+          "text": "unto him",
+          "kind": "supplied"
+        },
+        {
+          "text": " the twelve, and began to send them forth by two and two; and gave them power over unclean spirits;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MRK.6.8",
+      "edition_verse_id": "KJV1769:MRK.6.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "And commanded them that they should take nothing for ",
+          "kind": "text"
+        },
+        {
+          "text": "their",
+          "kind": "supplied"
+        },
+        {
+          "text": " journey, save a staff only; no scrip, no bread, no money in ",
+          "kind": "text"
+        },
+        {
+          "text": "their",
+          "kind": "supplied"
+        },
+        {
+          "text": " purse:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.6.9",
+      "edition_verse_id": "KJV1769:MRK.6.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "But ",
+          "kind": "text"
+        },
+        {
+          "text": "be",
+          "kind": "supplied"
+        },
+        {
+          "text": " shod with sandals; and not put on two coats.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.6.10",
+      "edition_verse_id": "KJV1769:MRK.6.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "And he said unto them, In what place soever ye enter into an house, there abide till ye depart from that place.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.6.11",
+      "edition_verse_id": "KJV1769:MRK.6.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "And whosoever shall not receive you, nor hear you, when ye depart thence, shake off the dust under your feet for a testimony against them. Verily I say unto you, It shall be more tolerable for Sodom and Gomorrha in the day of judgment, than for that city.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.6.12",
+      "edition_verse_id": "KJV1769:MRK.6.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "And they went out, and preached that men should repent.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.6.13",
+      "edition_verse_id": "KJV1769:MRK.6.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "And they cast out many devils, and anointed with oil many that were sick, and healed ",
+          "kind": "text"
+        },
+        {
+          "text": "them",
+          "kind": "supplied"
+        },
+        {
+          "text": ".",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.6.14",
+      "edition_verse_id": "KJV1769:MRK.6.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "And king Herod heard ",
+          "kind": "text"
+        },
+        {
+          "text": "of him",
+          "kind": "supplied"
+        },
+        {
+          "text": "; (for his name was spread abroad:) and he said, That John the Baptist was risen from the dead, and therefore mighty works do shew forth themselves in him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.6.15",
+      "edition_verse_id": "KJV1769:MRK.6.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "Others said, That it is Elias. And others said, That it is a prophet, or as one of the prophets.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.6.16",
+      "edition_verse_id": "KJV1769:MRK.6.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "But when Herod heard ",
+          "kind": "text"
+        },
+        {
+          "text": "thereof",
+          "kind": "supplied"
+        },
+        {
+          "text": ", he said, It is John, whom I beheaded: he is risen from the dead.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.6.17",
+      "edition_verse_id": "KJV1769:MRK.6.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "For Herod himself had sent forth and laid hold upon John, and bound him in prison for Herodias’ sake, his brother Philip’s wife: for he had married her.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.6.18",
+      "edition_verse_id": "KJV1769:MRK.6.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "For John had said unto Herod, It is not lawful for thee to have thy brother’s wife.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.6.19",
+      "edition_verse_id": "KJV1769:MRK.6.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "Therefore Herodias had a quarrel against him, and would have killed him; but she could not:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.6.20",
+      "edition_verse_id": "KJV1769:MRK.6.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "For Herod feared John, knowing that he was a just man and an holy, and observed him; and when he heard him, he did many things, and heard him gladly.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.6.21",
+      "edition_verse_id": "KJV1769:MRK.6.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "And when a convenient day was come, that Herod on his birthday made a supper to his lords, high captains, and chief ",
+          "kind": "text"
+        },
+        {
+          "text": "estates",
+          "kind": "supplied"
+        },
+        {
+          "text": " of Galilee;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.6.22",
+      "edition_verse_id": "KJV1769:MRK.6.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "And when the daughter of the said Herodias came in, and danced, and pleased Herod and them that sat with him, the king said unto the damsel, Ask of me whatsoever thou wilt, and I will give ",
+          "kind": "text"
+        },
+        {
+          "text": "it",
+          "kind": "supplied"
+        },
+        {
+          "text": " thee.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.6.23",
+      "edition_verse_id": "KJV1769:MRK.6.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "And he sware unto her, Whatsoever thou shalt ask of me, I will give ",
+          "kind": "text"
+        },
+        {
+          "text": "it",
+          "kind": "supplied"
+        },
+        {
+          "text": " thee, unto the half of my kingdom.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.6.24",
+      "edition_verse_id": "KJV1769:MRK.6.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "And she went forth, and said unto her mother, What shall I ask? And she said, The head of John the Baptist.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.6.25",
+      "edition_verse_id": "KJV1769:MRK.6.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "And she came in straightway with haste unto the king, and asked, saying, I will that thou give me by and by in a charger the head of John the Baptist.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.6.26",
+      "edition_verse_id": "KJV1769:MRK.6.26",
+      "verse": 26,
+      "spans": [
+        {
+          "text": "And the king was exceeding sorry; ",
+          "kind": "text"
+        },
+        {
+          "text": "yet",
+          "kind": "supplied"
+        },
+        {
+          "text": " for his oath’s sake, and for their sakes which sat with him, he would not reject her.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.6.27",
+      "edition_verse_id": "KJV1769:MRK.6.27",
+      "verse": 27,
+      "spans": [
+        {
+          "text": "And immediately the king sent an executioner, and commanded his head to be brought: and he went and beheaded him in the prison,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.6.28",
+      "edition_verse_id": "KJV1769:MRK.6.28",
+      "verse": 28,
+      "spans": [
+        {
+          "text": "And brought his head in a charger, and gave it to the damsel: and the damsel gave it to her mother.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.6.29",
+      "edition_verse_id": "KJV1769:MRK.6.29",
+      "verse": 29,
+      "spans": [
+        {
+          "text": "And when his disciples heard ",
+          "kind": "text"
+        },
+        {
+          "text": "of it",
+          "kind": "supplied"
+        },
+        {
+          "text": ", they came and took up his corpse, and laid it in a tomb.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.6.30",
+      "edition_verse_id": "KJV1769:MRK.6.30",
+      "verse": 30,
+      "spans": [
+        {
+          "text": "And the apostles gathered themselves together unto Jesus, and told him all things, both what they had done, and what they had taught.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.6.31",
+      "edition_verse_id": "KJV1769:MRK.6.31",
+      "verse": 31,
+      "spans": [
+        {
+          "text": "And he said unto them, Come ye yourselves apart into a desert place, and rest a while: for there were many coming and going, and they had no leisure so much as to eat.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.6.32",
+      "edition_verse_id": "KJV1769:MRK.6.32",
+      "verse": 32,
+      "spans": [
+        {
+          "text": "And they departed into a desert place by ship privately.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.6.33",
+      "edition_verse_id": "KJV1769:MRK.6.33",
+      "verse": 33,
+      "spans": [
+        {
+          "text": "And the people saw them departing, and many knew him, and ran afoot thither out of all cities, and outwent them, and came together unto him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.6.34",
+      "edition_verse_id": "KJV1769:MRK.6.34",
+      "verse": 34,
+      "spans": [
+        {
+          "text": "And Jesus, when he came out, saw much people, and was moved with compassion toward them, because they were as sheep not having a shepherd: and he began to teach them many things.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.6.35",
+      "edition_verse_id": "KJV1769:MRK.6.35",
+      "verse": 35,
+      "spans": [
+        {
+          "text": "And when the day was now far spent, his disciples came unto him, and said, This is a desert place, and now the time ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " far passed:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.6.36",
+      "edition_verse_id": "KJV1769:MRK.6.36",
+      "verse": 36,
+      "spans": [
+        {
+          "text": "Send them away, that they may go into the country round about, and into the villages, and buy themselves bread: for they have nothing to eat.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.6.37",
+      "edition_verse_id": "KJV1769:MRK.6.37",
+      "verse": 37,
+      "spans": [
+        {
+          "text": "He answered and said unto them, Give ye them to eat. And they say unto him, Shall we go and buy two hundred pennyworth of bread, and give them to eat?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.6.38",
+      "edition_verse_id": "KJV1769:MRK.6.38",
+      "verse": 38,
+      "spans": [
+        {
+          "text": "He saith unto them, How many loaves have ye? go and see. And when they knew, they say, Five, and two fishes.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.6.39",
+      "edition_verse_id": "KJV1769:MRK.6.39",
+      "verse": 39,
+      "spans": [
+        {
+          "text": "And he commanded them to make all sit down by companies upon the green grass.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.6.40",
+      "edition_verse_id": "KJV1769:MRK.6.40",
+      "verse": 40,
+      "spans": [
+        {
+          "text": "And they sat down in ranks, by hundreds, and by fifties.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.6.41",
+      "edition_verse_id": "KJV1769:MRK.6.41",
+      "verse": 41,
+      "spans": [
+        {
+          "text": "And when he had taken the five loaves and the two fishes, he looked up to heaven, and blessed, and brake the loaves, and gave ",
+          "kind": "text"
+        },
+        {
+          "text": "them",
+          "kind": "supplied"
+        },
+        {
+          "text": " to his disciples to set before them; and the two fishes divided he among them all.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.6.42",
+      "edition_verse_id": "KJV1769:MRK.6.42",
+      "verse": 42,
+      "spans": [
+        {
+          "text": "And they did all eat, and were filled.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.6.43",
+      "edition_verse_id": "KJV1769:MRK.6.43",
+      "verse": 43,
+      "spans": [
+        {
+          "text": "And they took up twelve baskets full of the fragments, and of the fishes.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.6.44",
+      "edition_verse_id": "KJV1769:MRK.6.44",
+      "verse": 44,
+      "spans": [
+        {
+          "text": "And they that did eat of the loaves were about five thousand men.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.6.45",
+      "edition_verse_id": "KJV1769:MRK.6.45",
+      "verse": 45,
+      "spans": [
+        {
+          "text": "And straightway he constrained his disciples to get into the ship, and to go to the other side before unto Bethsaida, while he sent away the people.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.6.46",
+      "edition_verse_id": "KJV1769:MRK.6.46",
+      "verse": 46,
+      "spans": [
+        {
+          "text": "And when he had sent them away, he departed into a mountain to pray.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.6.47",
+      "edition_verse_id": "KJV1769:MRK.6.47",
+      "verse": 47,
+      "spans": [
+        {
+          "text": "And when even was come, the ship was in the midst of the sea, and he alone on the land.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.6.48",
+      "edition_verse_id": "KJV1769:MRK.6.48",
+      "verse": 48,
+      "spans": [
+        {
+          "text": "And he saw them toiling in rowing; for the wind was contrary unto them: and about the fourth watch of the night he cometh unto them, walking upon the sea, and would have passed by them.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.6.49",
+      "edition_verse_id": "KJV1769:MRK.6.49",
+      "verse": 49,
+      "spans": [
+        {
+          "text": "But when they saw him walking upon the sea, they supposed it had been a spirit, and cried out:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.6.50",
+      "edition_verse_id": "KJV1769:MRK.6.50",
+      "verse": 50,
+      "spans": [
+        {
+          "text": "For they all saw him, and were troubled. And immediately he talked with them, and saith unto them, Be of good cheer: it is I; be not afraid.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.6.51",
+      "edition_verse_id": "KJV1769:MRK.6.51",
+      "verse": 51,
+      "spans": [
+        {
+          "text": "And he went up unto them into the ship; and the wind ceased: and they were sore amazed in themselves beyond measure, and wondered.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.6.52",
+      "edition_verse_id": "KJV1769:MRK.6.52",
+      "verse": 52,
+      "spans": [
+        {
+          "text": "For they considered not ",
+          "kind": "text"
+        },
+        {
+          "text": "the miracle",
+          "kind": "supplied"
+        },
+        {
+          "text": " of the loaves: for their heart was hardened.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.6.53",
+      "edition_verse_id": "KJV1769:MRK.6.53",
+      "verse": 53,
+      "spans": [
+        {
+          "text": "And when they had passed over, they came into the land of Gennesaret, and drew to the shore.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.6.54",
+      "edition_verse_id": "KJV1769:MRK.6.54",
+      "verse": 54,
+      "spans": [
+        {
+          "text": "And when they were come out of the ship, straightway they knew him,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.6.55",
+      "edition_verse_id": "KJV1769:MRK.6.55",
+      "verse": 55,
+      "spans": [
+        {
+          "text": "And ran through that whole region round about, and began to carry about in beds those that were sick, where they heard he was.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.6.56",
+      "edition_verse_id": "KJV1769:MRK.6.56",
+      "verse": 56,
+      "spans": [
+        {
+          "text": "And whithersoever he entered, into villages, or cities, or country, they laid the sick in the streets, and besought him that they might touch if it were but the border of his garment: and as many as touched him were made whole.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

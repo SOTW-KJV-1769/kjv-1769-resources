@@ -1,0 +1,736 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "KJV1769",
+  "book_code": "MAT",
+  "chapter": 5,
+  "verses": [
+    {
+      "id": "MAT.5.1",
+      "edition_verse_id": "KJV1769:MAT.5.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "And seeing the multitudes, he went up into a mountain: and when he was set, his disciples came unto him:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MAT.5.2",
+      "edition_verse_id": "KJV1769:MAT.5.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "And he opened his mouth, and taught them, saying,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.5.3",
+      "edition_verse_id": "KJV1769:MAT.5.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "Blessed ",
+          "kind": "text"
+        },
+        {
+          "text": "are",
+          "kind": "supplied"
+        },
+        {
+          "text": " the poor in spirit: for theirs is the kingdom of heaven.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.5.4",
+      "edition_verse_id": "KJV1769:MAT.5.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "Blessed ",
+          "kind": "text"
+        },
+        {
+          "text": "are",
+          "kind": "supplied"
+        },
+        {
+          "text": " they that mourn: for they shall be comforted.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.5.5",
+      "edition_verse_id": "KJV1769:MAT.5.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "Blessed ",
+          "kind": "text"
+        },
+        {
+          "text": "are",
+          "kind": "supplied"
+        },
+        {
+          "text": " the meek: for they shall inherit the earth.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.5.6",
+      "edition_verse_id": "KJV1769:MAT.5.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "Blessed ",
+          "kind": "text"
+        },
+        {
+          "text": "are",
+          "kind": "supplied"
+        },
+        {
+          "text": " they which do hunger and thirst after righteousness: for they shall be filled.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.5.7",
+      "edition_verse_id": "KJV1769:MAT.5.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "Blessed ",
+          "kind": "text"
+        },
+        {
+          "text": "are",
+          "kind": "supplied"
+        },
+        {
+          "text": " the merciful: for they shall obtain mercy.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.5.8",
+      "edition_verse_id": "KJV1769:MAT.5.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "Blessed ",
+          "kind": "text"
+        },
+        {
+          "text": "are",
+          "kind": "supplied"
+        },
+        {
+          "text": " the pure in heart: for they shall see God.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.5.9",
+      "edition_verse_id": "KJV1769:MAT.5.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "Blessed ",
+          "kind": "text"
+        },
+        {
+          "text": "are",
+          "kind": "supplied"
+        },
+        {
+          "text": " the peacemakers: for they shall be called the children of God.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.5.10",
+      "edition_verse_id": "KJV1769:MAT.5.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "Blessed ",
+          "kind": "text"
+        },
+        {
+          "text": "are",
+          "kind": "supplied"
+        },
+        {
+          "text": " they which are persecuted for righteousness’ sake: for theirs is the kingdom of heaven.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.5.11",
+      "edition_verse_id": "KJV1769:MAT.5.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "Blessed are ye, when ",
+          "kind": "text"
+        },
+        {
+          "text": "men",
+          "kind": "supplied"
+        },
+        {
+          "text": " shall revile you, and persecute ",
+          "kind": "text"
+        },
+        {
+          "text": "you",
+          "kind": "supplied"
+        },
+        {
+          "text": ", and shall say all manner of evil against you falsely, for my sake.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.5.12",
+      "edition_verse_id": "KJV1769:MAT.5.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "Rejoice, and be exceeding glad: for great ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " your reward in heaven: for so persecuted they the prophets which were before you.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.5.13",
+      "edition_verse_id": "KJV1769:MAT.5.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "¶ Ye are the salt of the earth: but if the salt have lost his savour, wherewith shall it be salted? it is thenceforth good for nothing, but to be cast out, and to be trodden under foot of men.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MAT.5.14",
+      "edition_verse_id": "KJV1769:MAT.5.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "Ye are the light of the world. A city that is set on an hill cannot be hid.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.5.15",
+      "edition_verse_id": "KJV1769:MAT.5.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "Neither do men light a candle, and put it under a bushel, but on a candlestick; and it giveth light unto all that are in the house.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.5.16",
+      "edition_verse_id": "KJV1769:MAT.5.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "Let your light so shine before men, that they may see your good works, and glorify your Father which is in heaven.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.5.17",
+      "edition_verse_id": "KJV1769:MAT.5.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "¶ Think not that I am come to destroy the law, or the prophets: I am not come to destroy, but to fulfil.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MAT.5.18",
+      "edition_verse_id": "KJV1769:MAT.5.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "For verily I say unto you, Till heaven and earth pass, one jot or one tittle shall in no wise pass from the law, till all be fulfilled.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.5.19",
+      "edition_verse_id": "KJV1769:MAT.5.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "Whosoever therefore shall break one of these least commandments, and shall teach men so, he shall be called the least in the kingdom of heaven: but whosoever shall do and teach ",
+          "kind": "text"
+        },
+        {
+          "text": "them",
+          "kind": "supplied"
+        },
+        {
+          "text": ", the same shall be called great in the kingdom of heaven.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.5.20",
+      "edition_verse_id": "KJV1769:MAT.5.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "For I say unto you, That except your righteousness shall exceed ",
+          "kind": "text"
+        },
+        {
+          "text": "the righteousness",
+          "kind": "supplied"
+        },
+        {
+          "text": " of the scribes and Pharisees, ye shall in no case enter into the kingdom of heaven.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.5.21",
+      "edition_verse_id": "KJV1769:MAT.5.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "¶ Ye have heard that it was said by them of old time, Thou shalt not kill; and whosoever shall kill shall be in danger of the judgment:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MAT.5.22",
+      "edition_verse_id": "KJV1769:MAT.5.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "But I say unto you, That whosoever is angry with his brother without a cause shall be in danger of the judgment: and whosoever shall say to his brother, Raca, shall be in danger of the council: but whosoever shall say, Thou fool, shall be in danger of hell fire.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.5.23",
+      "edition_verse_id": "KJV1769:MAT.5.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "Therefore if thou bring thy gift to the altar, and there rememberest that thy brother hath ought against thee;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.5.24",
+      "edition_verse_id": "KJV1769:MAT.5.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "Leave there thy gift before the altar, and go thy way; first be reconciled to thy brother, and then come and offer thy gift.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.5.25",
+      "edition_verse_id": "KJV1769:MAT.5.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "Agree with thine adversary quickly, whiles thou art in the way with him; lest at any time the adversary deliver thee to the judge, and the judge deliver thee to the officer, and thou be cast into prison.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.5.26",
+      "edition_verse_id": "KJV1769:MAT.5.26",
+      "verse": 26,
+      "spans": [
+        {
+          "text": "Verily I say unto thee, Thou shalt by no means come out thence, till thou hast paid the uttermost farthing.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.5.27",
+      "edition_verse_id": "KJV1769:MAT.5.27",
+      "verse": 27,
+      "spans": [
+        {
+          "text": "¶ Ye have heard that it was said by them of old time, Thou shalt not commit adultery:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MAT.5.28",
+      "edition_verse_id": "KJV1769:MAT.5.28",
+      "verse": 28,
+      "spans": [
+        {
+          "text": "But I say unto you, That whosoever looketh on a woman to lust after her hath committed adultery with her already in his heart.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.5.29",
+      "edition_verse_id": "KJV1769:MAT.5.29",
+      "verse": 29,
+      "spans": [
+        {
+          "text": "And if thy right eye offend thee, pluck it out, and cast ",
+          "kind": "text"
+        },
+        {
+          "text": "it",
+          "kind": "supplied"
+        },
+        {
+          "text": " from thee: for it is profitable for thee that one of thy members should perish, and not ",
+          "kind": "text"
+        },
+        {
+          "text": "that",
+          "kind": "supplied"
+        },
+        {
+          "text": " thy whole body should be cast into hell.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.5.30",
+      "edition_verse_id": "KJV1769:MAT.5.30",
+      "verse": 30,
+      "spans": [
+        {
+          "text": "And if thy right hand offend thee, cut it off, and cast ",
+          "kind": "text"
+        },
+        {
+          "text": "it",
+          "kind": "supplied"
+        },
+        {
+          "text": " from thee: for it is profitable for thee that one of thy members should perish, and not ",
+          "kind": "text"
+        },
+        {
+          "text": "that",
+          "kind": "supplied"
+        },
+        {
+          "text": " thy whole body should be cast into hell.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.5.31",
+      "edition_verse_id": "KJV1769:MAT.5.31",
+      "verse": 31,
+      "spans": [
+        {
+          "text": "It hath been said, Whosoever shall put away his wife, let him give her a writing of divorcement:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.5.32",
+      "edition_verse_id": "KJV1769:MAT.5.32",
+      "verse": 32,
+      "spans": [
+        {
+          "text": "But I say unto you, That whosoever shall put away his wife, saving for the cause of fornication, causeth her to commit adultery: and whosoever shall marry her that is divorced committeth adultery.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.5.33",
+      "edition_verse_id": "KJV1769:MAT.5.33",
+      "verse": 33,
+      "spans": [
+        {
+          "text": "¶ Again, ye have heard that it hath been said by them of old time, Thou shalt not forswear thyself, but shalt perform unto the Lord thine oaths:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MAT.5.34",
+      "edition_verse_id": "KJV1769:MAT.5.34",
+      "verse": 34,
+      "spans": [
+        {
+          "text": "But I say unto you, Swear not at all; neither by heaven; for it is God’s throne:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.5.35",
+      "edition_verse_id": "KJV1769:MAT.5.35",
+      "verse": 35,
+      "spans": [
+        {
+          "text": "Nor by the earth; for it is his footstool: neither by Jerusalem; for it is the city of the great King.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.5.36",
+      "edition_verse_id": "KJV1769:MAT.5.36",
+      "verse": 36,
+      "spans": [
+        {
+          "text": "Neither shalt thou swear by thy head, because thou canst not make one hair white or black.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.5.37",
+      "edition_verse_id": "KJV1769:MAT.5.37",
+      "verse": 37,
+      "spans": [
+        {
+          "text": "But let your communication be, Yea, yea; Nay, nay: for whatsoever is more than these cometh of evil.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.5.38",
+      "edition_verse_id": "KJV1769:MAT.5.38",
+      "verse": 38,
+      "spans": [
+        {
+          "text": "¶ Ye have heard that it hath been said, An eye for an eye, and a tooth for a tooth:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MAT.5.39",
+      "edition_verse_id": "KJV1769:MAT.5.39",
+      "verse": 39,
+      "spans": [
+        {
+          "text": "But I say unto you, That ye resist not evil: but whosoever shall smite thee on thy right cheek, turn to him the other also.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.5.40",
+      "edition_verse_id": "KJV1769:MAT.5.40",
+      "verse": 40,
+      "spans": [
+        {
+          "text": "And if any man will sue thee at the law, and take away thy coat, let him have ",
+          "kind": "text"
+        },
+        {
+          "text": "thy",
+          "kind": "supplied"
+        },
+        {
+          "text": " cloke also.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.5.41",
+      "edition_verse_id": "KJV1769:MAT.5.41",
+      "verse": 41,
+      "spans": [
+        {
+          "text": "And whosoever shall compel thee to go a mile, go with him twain.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.5.42",
+      "edition_verse_id": "KJV1769:MAT.5.42",
+      "verse": 42,
+      "spans": [
+        {
+          "text": "Give to him that asketh thee, and from him that would borrow of thee turn not thou away.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.5.43",
+      "edition_verse_id": "KJV1769:MAT.5.43",
+      "verse": 43,
+      "spans": [
+        {
+          "text": "¶ Ye have heard that it hath been said, Thou shalt love thy neighbour, and hate thine enemy.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MAT.5.44",
+      "edition_verse_id": "KJV1769:MAT.5.44",
+      "verse": 44,
+      "spans": [
+        {
+          "text": "But I say unto you, Love your enemies, bless them that curse you, do good to them that hate you, and pray for them which despitefully use you, and persecute you;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.5.45",
+      "edition_verse_id": "KJV1769:MAT.5.45",
+      "verse": 45,
+      "spans": [
+        {
+          "text": "That ye may be the children of your Father which is in heaven: for he maketh his sun to rise on the evil and on the good, and sendeth rain on the just and on the unjust.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.5.46",
+      "edition_verse_id": "KJV1769:MAT.5.46",
+      "verse": 46,
+      "spans": [
+        {
+          "text": "For if ye love them which love you, what reward have ye? do not even the publicans the same?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.5.47",
+      "edition_verse_id": "KJV1769:MAT.5.47",
+      "verse": 47,
+      "spans": [
+        {
+          "text": "And if ye salute your brethren only, what do ye more ",
+          "kind": "text"
+        },
+        {
+          "text": "than others",
+          "kind": "supplied"
+        },
+        {
+          "text": "? do not even the publicans so?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.5.48",
+      "edition_verse_id": "KJV1769:MAT.5.48",
+      "verse": 48,
+      "spans": [
+        {
+          "text": "Be ye therefore perfect, even as your Father which is in heaven is perfect.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

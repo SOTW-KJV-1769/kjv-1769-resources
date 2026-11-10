@@ -1,0 +1,464 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "KJV1769",
+  "book_code": "NEH",
+  "chapter": 3,
+  "verses": [
+    {
+      "id": "NEH.3.1",
+      "edition_verse_id": "KJV1769:NEH.3.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "Then Eliashib the high priest rose up with his brethren the priests, and they builded the sheep gate; they sanctified it, and set up the doors of it; even unto the tower of Meah they sanctified it, unto the tower of Hananeel.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "NEH.3.2",
+      "edition_verse_id": "KJV1769:NEH.3.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "And next unto him builded the men of Jericho. And next to them builded Zaccur the son of Imri.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NEH.3.3",
+      "edition_verse_id": "KJV1769:NEH.3.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "But the fish gate did the sons of Hassenaah build, who ",
+          "kind": "text"
+        },
+        {
+          "text": "also",
+          "kind": "supplied"
+        },
+        {
+          "text": " laid the beams thereof, and set up the doors thereof, the locks thereof, and the bars thereof.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NEH.3.4",
+      "edition_verse_id": "KJV1769:NEH.3.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "And next unto them repaired Meremoth the son of Urijah, the son of Koz. And next unto them repaired Meshullam the son of Berechiah, the son of Meshezabeel. And next unto them repaired Zadok the son of Baana.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NEH.3.5",
+      "edition_verse_id": "KJV1769:NEH.3.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "And next unto them the Tekoites repaired; but their nobles put not their necks to the work of their Lord.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NEH.3.6",
+      "edition_verse_id": "KJV1769:NEH.3.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "Moreover the old gate repaired Jehoiada the son of Paseah, and Meshullam the son of Besodeiah; they laid the beams thereof, and set up the doors thereof, and the locks thereof, and the bars thereof.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NEH.3.7",
+      "edition_verse_id": "KJV1769:NEH.3.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "And next unto them repaired Melatiah the Gibeonite, and Jadon the Meronothite, the men of Gibeon, and of Mizpah, unto the throne of the governor on this side the river.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NEH.3.8",
+      "edition_verse_id": "KJV1769:NEH.3.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "Next unto him repaired Uzziel the son of Harhaiah, of the goldsmiths. Next unto him also repaired Hananiah the son of ",
+          "kind": "text"
+        },
+        {
+          "text": "one of",
+          "kind": "supplied"
+        },
+        {
+          "text": " the apothecaries, and they fortified Jerusalem unto the broad wall.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NEH.3.9",
+      "edition_verse_id": "KJV1769:NEH.3.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "And next unto them repaired Rephaiah the son of Hur, the ruler of the half part of Jerusalem.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NEH.3.10",
+      "edition_verse_id": "KJV1769:NEH.3.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "And next unto them repaired Jedaiah the son of Harumaph, even over against his house. And next unto him repaired Hattush the son of Hashabniah.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NEH.3.11",
+      "edition_verse_id": "KJV1769:NEH.3.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "Malchijah the son of Harim, and Hashub the son of Pahath-moab, repaired the other piece, and the tower of the furnaces.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NEH.3.12",
+      "edition_verse_id": "KJV1769:NEH.3.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "And next unto him repaired Shallum the son of Halohesh, the ruler of the half part of Jerusalem, he and his daughters.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NEH.3.13",
+      "edition_verse_id": "KJV1769:NEH.3.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "The valley gate repaired Hanun, and the inhabitants of Zanoah; they built it, and set up the doors thereof, the locks thereof, and the bars thereof, and a thousand cubits on the wall unto the dung gate.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NEH.3.14",
+      "edition_verse_id": "KJV1769:NEH.3.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "But the dung gate repaired Malchiah the son of Rechab, the ruler of part of Beth-haccerem; he built it, and set up the doors thereof, the locks thereof, and the bars thereof.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NEH.3.15",
+      "edition_verse_id": "KJV1769:NEH.3.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "But the gate of the fountain repaired Shallun the son of Col-hozeh, the ruler of part of Mizpah; he built it, and covered it, and set up the doors thereof, the locks thereof, and the bars thereof, and the wall of the pool of Siloah by the king’s garden, and unto the stairs that go down from the city of David.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NEH.3.16",
+      "edition_verse_id": "KJV1769:NEH.3.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "After him repaired Nehemiah the son of Azbuk, the ruler of the half part of Beth-zur, unto ",
+          "kind": "text"
+        },
+        {
+          "text": "the place",
+          "kind": "supplied"
+        },
+        {
+          "text": " over against the sepulchres of David, and to the pool that was made, and unto the house of the mighty.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NEH.3.17",
+      "edition_verse_id": "KJV1769:NEH.3.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "After him repaired the Levites, Rehum the son of Bani. Next unto him repaired Hashabiah, the ruler of the half part of Keilah, in his part.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NEH.3.18",
+      "edition_verse_id": "KJV1769:NEH.3.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "After him repaired their brethren, Bavai the son of Henadad, the ruler of the half part of Keilah.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NEH.3.19",
+      "edition_verse_id": "KJV1769:NEH.3.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "And next to him repaired Ezer the son of Jeshua, the ruler of Mizpah, another piece over against the going up to the armoury at the turning ",
+          "kind": "text"
+        },
+        {
+          "text": "of the wall",
+          "kind": "supplied"
+        },
+        {
+          "text": ".",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NEH.3.20",
+      "edition_verse_id": "KJV1769:NEH.3.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "After him Baruch the son of Zabbai earnestly repaired the other piece, from the turning ",
+          "kind": "text"
+        },
+        {
+          "text": "of the wall",
+          "kind": "supplied"
+        },
+        {
+          "text": " unto the door of the house of Eliashib the high priest.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NEH.3.21",
+      "edition_verse_id": "KJV1769:NEH.3.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "After him repaired Meremoth the son of Urijah the son of Koz another piece, from the door of the house of Eliashib even to the end of the house of Eliashib.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NEH.3.22",
+      "edition_verse_id": "KJV1769:NEH.3.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "And after him repaired the priests, the men of the plain.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NEH.3.23",
+      "edition_verse_id": "KJV1769:NEH.3.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "After him repaired Benjamin and Hashub over against their house. After him repaired Azariah the son of Maaseiah the son of Ananiah by his house.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NEH.3.24",
+      "edition_verse_id": "KJV1769:NEH.3.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "After him repaired Binnui the son of Henadad another piece, from the house of Azariah unto the turning ",
+          "kind": "text"
+        },
+        {
+          "text": "of the wall",
+          "kind": "supplied"
+        },
+        {
+          "text": ", even unto the corner.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NEH.3.25",
+      "edition_verse_id": "KJV1769:NEH.3.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "Palal the son of Uzai, over against the turning ",
+          "kind": "text"
+        },
+        {
+          "text": "of the wall",
+          "kind": "supplied"
+        },
+        {
+          "text": ", and the tower which lieth out from the king’s high house, that ",
+          "kind": "text"
+        },
+        {
+          "text": "was",
+          "kind": "supplied"
+        },
+        {
+          "text": " by the court of the prison. After him Pedaiah the son of Parosh.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NEH.3.26",
+      "edition_verse_id": "KJV1769:NEH.3.26",
+      "verse": 26,
+      "spans": [
+        {
+          "text": "Moreover the Nethinims dwelt in Ophel, unto ",
+          "kind": "text"
+        },
+        {
+          "text": "the place",
+          "kind": "supplied"
+        },
+        {
+          "text": " over against the water gate toward the east, and the tower that lieth out.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NEH.3.27",
+      "edition_verse_id": "KJV1769:NEH.3.27",
+      "verse": 27,
+      "spans": [
+        {
+          "text": "After them the Tekoites repaired another piece, over against the great tower that lieth out, even unto the wall of Ophel.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NEH.3.28",
+      "edition_verse_id": "KJV1769:NEH.3.28",
+      "verse": 28,
+      "spans": [
+        {
+          "text": "From above the horse gate repaired the priests, every one over against his house.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NEH.3.29",
+      "edition_verse_id": "KJV1769:NEH.3.29",
+      "verse": 29,
+      "spans": [
+        {
+          "text": "After them repaired Zadok the son of Immer over against his house. After him repaired also Shemaiah the son of Shechaniah, the keeper of the east gate.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NEH.3.30",
+      "edition_verse_id": "KJV1769:NEH.3.30",
+      "verse": 30,
+      "spans": [
+        {
+          "text": "After him repaired Hananiah the son of Shelemiah, and Hanun the sixth son of Zalaph, another piece. After him repaired Meshullam the son of Berechiah over against his chamber.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NEH.3.31",
+      "edition_verse_id": "KJV1769:NEH.3.31",
+      "verse": 31,
+      "spans": [
+        {
+          "text": "After him repaired Malchiah the goldsmith’s son unto the place of the Nethinims, and of the merchants, over against the gate Miphkad, and to the going up of the corner.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NEH.3.32",
+      "edition_verse_id": "KJV1769:NEH.3.32",
+      "verse": 32,
+      "spans": [
+        {
+          "text": "And between the going up of the corner unto the sheep gate repaired the goldsmiths and the merchants.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

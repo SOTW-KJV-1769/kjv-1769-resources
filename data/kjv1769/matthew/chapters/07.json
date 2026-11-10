@@ -1,0 +1,412 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "KJV1769",
+  "book_code": "MAT",
+  "chapter": 7,
+  "verses": [
+    {
+      "id": "MAT.7.1",
+      "edition_verse_id": "KJV1769:MAT.7.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "Judge not, that ye be not judged.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MAT.7.2",
+      "edition_verse_id": "KJV1769:MAT.7.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "For with what judgment ye judge, ye shall be judged: and with what measure ye mete, it shall be measured to you again.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.7.3",
+      "edition_verse_id": "KJV1769:MAT.7.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "And why beholdest thou the mote that is in thy brother’s eye, but considerest not the beam that is in thine own eye?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.7.4",
+      "edition_verse_id": "KJV1769:MAT.7.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "Or how wilt thou say to thy brother, Let me pull out the mote out of thine eye; and, behold, a beam ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " in thine own eye?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.7.5",
+      "edition_verse_id": "KJV1769:MAT.7.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "Thou hypocrite, first cast out the beam out of thine own eye; and then shalt thou see clearly to cast out the mote out of thy brother’s eye.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.7.6",
+      "edition_verse_id": "KJV1769:MAT.7.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "¶ Give not that which is holy unto the dogs, neither cast ye your pearls before swine, lest they trample them under their feet, and turn again and rend you.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MAT.7.7",
+      "edition_verse_id": "KJV1769:MAT.7.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "¶ Ask, and it shall be given you; seek, and ye shall find; knock, and it shall be opened unto you:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MAT.7.8",
+      "edition_verse_id": "KJV1769:MAT.7.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "For every one that asketh receiveth; and he that seeketh findeth; and to him that knocketh it shall be opened.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.7.9",
+      "edition_verse_id": "KJV1769:MAT.7.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "Or what man is there of you, whom if his son ask bread, will he give him a stone?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.7.10",
+      "edition_verse_id": "KJV1769:MAT.7.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "Or if he ask a fish, will he give him a serpent?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.7.11",
+      "edition_verse_id": "KJV1769:MAT.7.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "If ye then, being evil, know how to give good gifts unto your children, how much more shall your Father which is in heaven give good things to them that ask him?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.7.12",
+      "edition_verse_id": "KJV1769:MAT.7.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "Therefore all things whatsoever ye would that men should do to you, do ye even so to them: for this is the law and the prophets.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.7.13",
+      "edition_verse_id": "KJV1769:MAT.7.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "¶ Enter ye in at the strait gate: for wide ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " the gate, and broad ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " the way, that leadeth to destruction, and many there be which go in thereat:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MAT.7.14",
+      "edition_verse_id": "KJV1769:MAT.7.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "Because strait ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " the gate, and narrow ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " the way, which leadeth unto life, and few there be that find it.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.7.15",
+      "edition_verse_id": "KJV1769:MAT.7.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "¶ Beware of false prophets, which come to you in sheep’s clothing, but inwardly they are ravening wolves.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MAT.7.16",
+      "edition_verse_id": "KJV1769:MAT.7.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "Ye shall know them by their fruits. Do men gather grapes of thorns, or figs of thistles?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.7.17",
+      "edition_verse_id": "KJV1769:MAT.7.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "Even so every good tree bringeth forth good fruit; but a corrupt tree bringeth forth evil fruit.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.7.18",
+      "edition_verse_id": "KJV1769:MAT.7.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "A good tree cannot bring forth evil fruit, neither ",
+          "kind": "text"
+        },
+        {
+          "text": "can",
+          "kind": "supplied"
+        },
+        {
+          "text": " a corrupt tree bring forth good fruit.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.7.19",
+      "edition_verse_id": "KJV1769:MAT.7.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "Every tree that bringeth not forth good fruit is hewn down, and cast into the fire.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.7.20",
+      "edition_verse_id": "KJV1769:MAT.7.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "Wherefore by their fruits ye shall know them.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.7.21",
+      "edition_verse_id": "KJV1769:MAT.7.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "¶ Not every one that saith unto me, Lord, Lord, shall enter into the kingdom of heaven; but he that doeth the will of my Father which is in heaven.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MAT.7.22",
+      "edition_verse_id": "KJV1769:MAT.7.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "Many will say to me in that day, Lord, Lord, have we not prophesied in thy name? and in thy name have cast out devils? and in thy name done many wonderful works?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.7.23",
+      "edition_verse_id": "KJV1769:MAT.7.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "And then will I profess unto them, I never knew you: depart from me, ye that work iniquity.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.7.24",
+      "edition_verse_id": "KJV1769:MAT.7.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "¶ Therefore whosoever heareth these sayings of mine, and doeth them, I will liken him unto a wise man, which built his house upon a rock:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MAT.7.25",
+      "edition_verse_id": "KJV1769:MAT.7.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "And the rain descended, and the floods came, and the winds blew, and beat upon that house; and it fell not: for it was founded upon a rock.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.7.26",
+      "edition_verse_id": "KJV1769:MAT.7.26",
+      "verse": 26,
+      "spans": [
+        {
+          "text": "And every one that heareth these sayings of mine, and doeth them not, shall be likened unto a foolish man, which built his house upon the sand:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.7.27",
+      "edition_verse_id": "KJV1769:MAT.7.27",
+      "verse": 27,
+      "spans": [
+        {
+          "text": "And the rain descended, and the floods came, and the winds blew, and beat upon that house; and it fell: and great was the fall of it.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.7.28",
+      "edition_verse_id": "KJV1769:MAT.7.28",
+      "verse": 28,
+      "spans": [
+        {
+          "text": "And it came to pass, when Jesus had ended these sayings, the people were astonished at his doctrine:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.7.29",
+      "edition_verse_id": "KJV1769:MAT.7.29",
+      "verse": 29,
+      "spans": [
+        {
+          "text": "For he taught them as ",
+          "kind": "text"
+        },
+        {
+          "text": "one",
+          "kind": "supplied"
+        },
+        {
+          "text": " having authority, and not as the scribes.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

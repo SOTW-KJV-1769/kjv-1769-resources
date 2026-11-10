@@ -1,0 +1,428 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "KJV1769",
+  "book_code": "MAT",
+  "chapter": 11,
+  "verses": [
+    {
+      "id": "MAT.11.1",
+      "edition_verse_id": "KJV1769:MAT.11.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "And it came to pass, when Jesus had made an end of commanding his twelve disciples, he departed thence to teach and to preach in their cities.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MAT.11.2",
+      "edition_verse_id": "KJV1769:MAT.11.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "Now when John had heard in the prison the works of Christ, he sent two of his disciples,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.11.3",
+      "edition_verse_id": "KJV1769:MAT.11.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "And said unto him, Art thou he that should come, or do we look for another?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.11.4",
+      "edition_verse_id": "KJV1769:MAT.11.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "Jesus answered and said unto them, Go and shew John again those things which ye do hear and see:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.11.5",
+      "edition_verse_id": "KJV1769:MAT.11.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "The blind receive their sight, and the lame walk, the lepers are cleansed, and the deaf hear, the dead are raised up, and the poor have the gospel preached to them.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.11.6",
+      "edition_verse_id": "KJV1769:MAT.11.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "And blessed is ",
+          "kind": "text"
+        },
+        {
+          "text": "he",
+          "kind": "supplied"
+        },
+        {
+          "text": ", whosoever shall not be offended in me.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.11.7",
+      "edition_verse_id": "KJV1769:MAT.11.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "¶ And as they departed, Jesus began to say unto the multitudes concerning John, What went ye out into the wilderness to see? A reed shaken with the wind?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MAT.11.8",
+      "edition_verse_id": "KJV1769:MAT.11.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "But what went ye out for to see? A man clothed in soft raiment? behold, they that wear soft ",
+          "kind": "text"
+        },
+        {
+          "text": "clothing",
+          "kind": "supplied"
+        },
+        {
+          "text": " are in kings’ houses.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.11.9",
+      "edition_verse_id": "KJV1769:MAT.11.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "But what went ye out for to see? A prophet? yea, I say unto you, and more than a prophet.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.11.10",
+      "edition_verse_id": "KJV1769:MAT.11.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "For this is ",
+          "kind": "text"
+        },
+        {
+          "text": "he",
+          "kind": "supplied"
+        },
+        {
+          "text": ", of whom it is written, Behold, I send my messenger before thy face, which shall prepare thy way before thee.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.11.11",
+      "edition_verse_id": "KJV1769:MAT.11.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "Verily I say unto you, Among them that are born of women there hath not risen a greater than John the Baptist: notwithstanding he that is least in the kingdom of heaven is greater than he.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.11.12",
+      "edition_verse_id": "KJV1769:MAT.11.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "And from the days of John the Baptist until now the kingdom of heaven suffereth violence, and the violent take it by force.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.11.13",
+      "edition_verse_id": "KJV1769:MAT.11.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "For all the prophets and the law prophesied until John.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.11.14",
+      "edition_verse_id": "KJV1769:MAT.11.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "And if ye will receive ",
+          "kind": "text"
+        },
+        {
+          "text": "it",
+          "kind": "supplied"
+        },
+        {
+          "text": ", this is Elias, which was for to come.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.11.15",
+      "edition_verse_id": "KJV1769:MAT.11.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "He that hath ears to hear, let him hear.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.11.16",
+      "edition_verse_id": "KJV1769:MAT.11.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "¶ But whereunto shall I liken this generation? It is like unto children sitting in the markets, and calling unto their fellows,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MAT.11.17",
+      "edition_verse_id": "KJV1769:MAT.11.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "And saying, We have piped unto you, and ye have not danced; we have mourned unto you, and ye have not lamented.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.11.18",
+      "edition_verse_id": "KJV1769:MAT.11.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "For John came neither eating nor drinking, and they say, He hath a devil.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.11.19",
+      "edition_verse_id": "KJV1769:MAT.11.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "The Son of man came eating and drinking, and they say, Behold a man gluttonous, and a winebibber, a friend of publicans and sinners. But wisdom is justified of her children.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.11.20",
+      "edition_verse_id": "KJV1769:MAT.11.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "¶ Then began he to upbraid the cities wherein most of his mighty works were done, because they repented not:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MAT.11.21",
+      "edition_verse_id": "KJV1769:MAT.11.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "Woe unto thee, Chorazin! woe unto thee, Bethsaida! for if the mighty works, which were done in you, had been done in Tyre and Sidon, they would have repented long ago in sackcloth and ashes.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.11.22",
+      "edition_verse_id": "KJV1769:MAT.11.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "But I say unto you, It shall be more tolerable for Tyre and Sidon at the day of judgment, than for you.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.11.23",
+      "edition_verse_id": "KJV1769:MAT.11.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "And thou, Capernaum, which art exalted unto heaven, shalt be brought down to hell: for if the mighty works, which have been done in thee, had been done in Sodom, it would have remained until this day.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.11.24",
+      "edition_verse_id": "KJV1769:MAT.11.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "But I say unto you, That it shall be more tolerable for the land of Sodom in the day of judgment, than for thee.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.11.25",
+      "edition_verse_id": "KJV1769:MAT.11.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "¶ At that time Jesus answered and said, I thank thee, O Father, Lord of heaven and earth, because thou hast hid these things from the wise and prudent, and hast revealed them unto babes.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MAT.11.26",
+      "edition_verse_id": "KJV1769:MAT.11.26",
+      "verse": 26,
+      "spans": [
+        {
+          "text": "Even so, Father: for so it seemed good in thy sight.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.11.27",
+      "edition_verse_id": "KJV1769:MAT.11.27",
+      "verse": 27,
+      "spans": [
+        {
+          "text": "All things are delivered unto me of my Father: and no man knoweth the Son, but the Father; neither knoweth any man the Father, save the Son, and ",
+          "kind": "text"
+        },
+        {
+          "text": "he",
+          "kind": "supplied"
+        },
+        {
+          "text": " to whomsoever the Son will reveal ",
+          "kind": "text"
+        },
+        {
+          "text": "him.",
+          "kind": "supplied"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.11.28",
+      "edition_verse_id": "KJV1769:MAT.11.28",
+      "verse": 28,
+      "spans": [
+        {
+          "text": "¶ Come unto me, all ",
+          "kind": "text"
+        },
+        {
+          "text": "ye",
+          "kind": "supplied"
+        },
+        {
+          "text": " that labour and are heavy laden, and I will give you rest.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MAT.11.29",
+      "edition_verse_id": "KJV1769:MAT.11.29",
+      "verse": 29,
+      "spans": [
+        {
+          "text": "Take my yoke upon you, and learn of me; for I am meek and lowly in heart: and ye shall find rest unto your souls.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.11.30",
+      "edition_verse_id": "KJV1769:MAT.11.30",
+      "verse": 30,
+      "spans": [
+        {
+          "text": "For my yoke ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " easy, and my burden is light.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

@@ -1,0 +1,604 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "KJV1769",
+  "book_code": "MRK",
+  "chapter": 1,
+  "verses": [
+    {
+      "id": "MRK.1.1",
+      "edition_verse_id": "KJV1769:MRK.1.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "The beginning of the gospel of Jesus Christ, the Son of God;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MRK.1.2",
+      "edition_verse_id": "KJV1769:MRK.1.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "As it is written in the prophets, Behold, I send my messenger before thy face, which shall prepare thy way before thee.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.1.3",
+      "edition_verse_id": "KJV1769:MRK.1.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "The voice of one crying in the wilderness, Prepare ye the way of the Lord, make his paths straight.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.1.4",
+      "edition_verse_id": "KJV1769:MRK.1.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "John did baptize in the wilderness, and preach the baptism of repentance for the remission of sins.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.1.5",
+      "edition_verse_id": "KJV1769:MRK.1.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "And there went out unto him all the land of Judæa, and they of Jerusalem, and were all baptized of him in the river of Jordan, confessing their sins.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.1.6",
+      "edition_verse_id": "KJV1769:MRK.1.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "And John was clothed with camel’s hair, and with a girdle of a skin about his loins; and he did eat locusts and wild honey;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.1.7",
+      "edition_verse_id": "KJV1769:MRK.1.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "And preached, saying, There cometh one mightier than I after me, the latchet of whose shoes I am not worthy to stoop down and unloose.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.1.8",
+      "edition_verse_id": "KJV1769:MRK.1.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "I indeed have baptized you with water: but he shall baptize you with the Holy Ghost.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.1.9",
+      "edition_verse_id": "KJV1769:MRK.1.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "And it came to pass in those days, that Jesus came from Nazareth of Galilee, and was baptized of John in Jordan.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.1.10",
+      "edition_verse_id": "KJV1769:MRK.1.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "And straightway coming up out of the water, he saw the heavens opened, and the Spirit like a dove descending upon him:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.1.11",
+      "edition_verse_id": "KJV1769:MRK.1.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "And there came a voice from heaven, ",
+          "kind": "text"
+        },
+        {
+          "text": "saying",
+          "kind": "supplied"
+        },
+        {
+          "text": ", Thou art my beloved Son, in whom I am well pleased.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.1.12",
+      "edition_verse_id": "KJV1769:MRK.1.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "And immediately the Spirit driveth him into the wilderness.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.1.13",
+      "edition_verse_id": "KJV1769:MRK.1.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "And he was there in the wilderness forty days, tempted of Satan; and was with the wild beasts; and the angels ministered unto him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.1.14",
+      "edition_verse_id": "KJV1769:MRK.1.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "Now after that John was put in prison, Jesus came into Galilee, preaching the gospel of the kingdom of God,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.1.15",
+      "edition_verse_id": "KJV1769:MRK.1.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "And saying, The time is fulfilled, and the kingdom of God is at hand: repent ye, and believe the gospel.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.1.16",
+      "edition_verse_id": "KJV1769:MRK.1.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "Now as he walked by the sea of Galilee, he saw Simon and Andrew his brother casting a net into the sea: for they were fishers.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.1.17",
+      "edition_verse_id": "KJV1769:MRK.1.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "And Jesus said unto them, Come ye after me, and I will make you to become fishers of men.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.1.18",
+      "edition_verse_id": "KJV1769:MRK.1.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "And straightway they forsook their nets, and followed him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.1.19",
+      "edition_verse_id": "KJV1769:MRK.1.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "And when he had gone a little further thence, he saw James the ",
+          "kind": "text"
+        },
+        {
+          "text": "son",
+          "kind": "supplied"
+        },
+        {
+          "text": " of Zebedee, and John his brother, who also were in the ship mending their nets.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.1.20",
+      "edition_verse_id": "KJV1769:MRK.1.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "And straightway he called them: and they left their father Zebedee in the ship with the hired servants, and went after him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.1.21",
+      "edition_verse_id": "KJV1769:MRK.1.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "And they went into Capernaum; and straightway on the sabbath day he entered into the synagogue, and taught.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.1.22",
+      "edition_verse_id": "KJV1769:MRK.1.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "And they were astonished at his doctrine: for he taught them as one that had authority, and not as the scribes.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.1.23",
+      "edition_verse_id": "KJV1769:MRK.1.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "And there was in their synagogue a man with an unclean spirit; and he cried out,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.1.24",
+      "edition_verse_id": "KJV1769:MRK.1.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "Saying, Let ",
+          "kind": "text"
+        },
+        {
+          "text": "us",
+          "kind": "supplied"
+        },
+        {
+          "text": " alone; what have we to do with thee, thou Jesus of Nazareth? art thou come to destroy us? I know thee who thou art, the Holy One of God.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.1.25",
+      "edition_verse_id": "KJV1769:MRK.1.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "And Jesus rebuked him, saying, Hold thy peace, and come out of him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.1.26",
+      "edition_verse_id": "KJV1769:MRK.1.26",
+      "verse": 26,
+      "spans": [
+        {
+          "text": "And when the unclean spirit had torn him, and cried with a loud voice, he came out of him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.1.27",
+      "edition_verse_id": "KJV1769:MRK.1.27",
+      "verse": 27,
+      "spans": [
+        {
+          "text": "And they were all amazed, insomuch that they questioned among themselves, saying, What thing is this? what new doctrine ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " this? for with authority commandeth he even the unclean spirits, and they do obey him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.1.28",
+      "edition_verse_id": "KJV1769:MRK.1.28",
+      "verse": 28,
+      "spans": [
+        {
+          "text": "And immediately his fame spread abroad throughout all the region round about Galilee.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.1.29",
+      "edition_verse_id": "KJV1769:MRK.1.29",
+      "verse": 29,
+      "spans": [
+        {
+          "text": "And forthwith, when they were come out of the synagogue, they entered into the house of Simon and Andrew, with James and John.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.1.30",
+      "edition_verse_id": "KJV1769:MRK.1.30",
+      "verse": 30,
+      "spans": [
+        {
+          "text": "But Simon’s wife’s mother lay sick of a fever, and anon they tell him of her.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.1.31",
+      "edition_verse_id": "KJV1769:MRK.1.31",
+      "verse": 31,
+      "spans": [
+        {
+          "text": "And he came and took her by the hand, and lifted her up; and immediately the fever left her, and she ministered unto them.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.1.32",
+      "edition_verse_id": "KJV1769:MRK.1.32",
+      "verse": 32,
+      "spans": [
+        {
+          "text": "And at even, when the sun did set, they brought unto him all that were diseased, and them that were possessed with devils.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.1.33",
+      "edition_verse_id": "KJV1769:MRK.1.33",
+      "verse": 33,
+      "spans": [
+        {
+          "text": "And all the city was gathered together at the door.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.1.34",
+      "edition_verse_id": "KJV1769:MRK.1.34",
+      "verse": 34,
+      "spans": [
+        {
+          "text": "And he healed many that were sick of divers diseases, and cast out many devils; and suffered not the devils to speak, because they knew him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.1.35",
+      "edition_verse_id": "KJV1769:MRK.1.35",
+      "verse": 35,
+      "spans": [
+        {
+          "text": "And in the morning, rising up a great while before day, he went out, and departed into a solitary place, and there prayed.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.1.36",
+      "edition_verse_id": "KJV1769:MRK.1.36",
+      "verse": 36,
+      "spans": [
+        {
+          "text": "And Simon and they that were with him followed after him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.1.37",
+      "edition_verse_id": "KJV1769:MRK.1.37",
+      "verse": 37,
+      "spans": [
+        {
+          "text": "And when they had found him, they said unto him, All ",
+          "kind": "text"
+        },
+        {
+          "text": "men",
+          "kind": "supplied"
+        },
+        {
+          "text": " seek for thee.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.1.38",
+      "edition_verse_id": "KJV1769:MRK.1.38",
+      "verse": 38,
+      "spans": [
+        {
+          "text": "And he said unto them, Let us go into the next towns, that I may preach there also: for therefore came I forth.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.1.39",
+      "edition_verse_id": "KJV1769:MRK.1.39",
+      "verse": 39,
+      "spans": [
+        {
+          "text": "And he preached in their synagogues throughout all Galilee, and cast out devils.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.1.40",
+      "edition_verse_id": "KJV1769:MRK.1.40",
+      "verse": 40,
+      "spans": [
+        {
+          "text": "And there came a leper to him, beseeching him, and kneeling down to him, and saying unto him, If thou wilt, thou canst make me clean.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.1.41",
+      "edition_verse_id": "KJV1769:MRK.1.41",
+      "verse": 41,
+      "spans": [
+        {
+          "text": "And Jesus, moved with compassion, put forth ",
+          "kind": "text"
+        },
+        {
+          "text": "his",
+          "kind": "supplied"
+        },
+        {
+          "text": " hand, and touched him, and saith unto him, I will; be thou clean.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.1.42",
+      "edition_verse_id": "KJV1769:MRK.1.42",
+      "verse": 42,
+      "spans": [
+        {
+          "text": "And as soon as he had spoken, immediately the leprosy departed from him, and he was cleansed.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.1.43",
+      "edition_verse_id": "KJV1769:MRK.1.43",
+      "verse": 43,
+      "spans": [
+        {
+          "text": "And he straitly charged him, and forthwith sent him away;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.1.44",
+      "edition_verse_id": "KJV1769:MRK.1.44",
+      "verse": 44,
+      "spans": [
+        {
+          "text": "And saith unto him, See thou say nothing to any man: but go thy way, shew thyself to the priest, and offer for thy cleansing those things which Moses commanded, for a testimony unto them.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.1.45",
+      "edition_verse_id": "KJV1769:MRK.1.45",
+      "verse": 45,
+      "spans": [
+        {
+          "text": "But he went out, and began to publish ",
+          "kind": "text"
+        },
+        {
+          "text": "it",
+          "kind": "supplied"
+        },
+        {
+          "text": " much, and to blaze abroad the matter, insomuch that Jesus could no more openly enter into the city, but was without in desert places: and they came to him from every quarter.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

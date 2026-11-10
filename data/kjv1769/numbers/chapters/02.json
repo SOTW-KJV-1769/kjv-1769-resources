@@ -1,0 +1,716 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "KJV1769",
+  "book_code": "NUM",
+  "chapter": 2,
+  "verses": [
+    {
+      "id": "NUM.2.1",
+      "edition_verse_id": "KJV1769:NUM.2.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "And the LORD spake unto Moses and unto Aaron, saying,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "NUM.2.2",
+      "edition_verse_id": "KJV1769:NUM.2.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "Every man of the children of Israel shall pitch by his own standard, with the ensign of their father’s house: far off about the tabernacle of the congregation shall they pitch.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.2.3",
+      "edition_verse_id": "KJV1769:NUM.2.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "And on the east side toward the rising of the sun shall they of the standard of the camp of Judah pitch throughout their armies: and Nahshon the son of Amminadab ",
+          "kind": "text"
+        },
+        {
+          "text": "shall be",
+          "kind": "supplied"
+        },
+        {
+          "text": " captain of the children of Judah.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "NUM.2.4",
+      "edition_verse_id": "KJV1769:NUM.2.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "And his host, and those that were numbered of them, ",
+          "kind": "text"
+        },
+        {
+          "text": "were",
+          "kind": "supplied"
+        },
+        {
+          "text": " threescore and fourteen thousand and six hundred.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.2.5",
+      "edition_verse_id": "KJV1769:NUM.2.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "And those that do pitch next unto him ",
+          "kind": "text"
+        },
+        {
+          "text": "shall be",
+          "kind": "supplied"
+        },
+        {
+          "text": " the tribe of Issachar: and Nethaneel the son of Zuar ",
+          "kind": "text"
+        },
+        {
+          "text": "shall be",
+          "kind": "supplied"
+        },
+        {
+          "text": " captain of the children of Issachar.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.2.6",
+      "edition_verse_id": "KJV1769:NUM.2.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "And his host, and those that were numbered thereof, ",
+          "kind": "text"
+        },
+        {
+          "text": "were",
+          "kind": "supplied"
+        },
+        {
+          "text": " fifty and four thousand and four hundred.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.2.7",
+      "edition_verse_id": "KJV1769:NUM.2.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "Then",
+          "kind": "supplied"
+        },
+        {
+          "text": " the tribe of Zebulun: and Eliab the son of Helon ",
+          "kind": "text"
+        },
+        {
+          "text": "shall be",
+          "kind": "supplied"
+        },
+        {
+          "text": " captain of the children of Zebulun.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.2.8",
+      "edition_verse_id": "KJV1769:NUM.2.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "And his host, and those that were numbered thereof, ",
+          "kind": "text"
+        },
+        {
+          "text": "were",
+          "kind": "supplied"
+        },
+        {
+          "text": " fifty and seven thousand and four hundred.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.2.9",
+      "edition_verse_id": "KJV1769:NUM.2.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "All that were numbered in the camp of Judah ",
+          "kind": "text"
+        },
+        {
+          "text": "were",
+          "kind": "supplied"
+        },
+        {
+          "text": " an hundred thousand and fourscore thousand and six thousand and four hundred, throughout their armies. These shall first set forth.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.2.10",
+      "edition_verse_id": "KJV1769:NUM.2.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "¶ On the south side ",
+          "kind": "text"
+        },
+        {
+          "text": "shall be",
+          "kind": "supplied"
+        },
+        {
+          "text": " the standard of the camp of Reuben according to their armies: and the captain of the children of Reuben ",
+          "kind": "text"
+        },
+        {
+          "text": "shall be",
+          "kind": "supplied"
+        },
+        {
+          "text": " Elizur the son of Shedeur.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "NUM.2.11",
+      "edition_verse_id": "KJV1769:NUM.2.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "And his host, and those that were numbered thereof, ",
+          "kind": "text"
+        },
+        {
+          "text": "were",
+          "kind": "supplied"
+        },
+        {
+          "text": " forty and six thousand and five hundred.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.2.12",
+      "edition_verse_id": "KJV1769:NUM.2.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "And those which pitch by him ",
+          "kind": "text"
+        },
+        {
+          "text": "shall be",
+          "kind": "supplied"
+        },
+        {
+          "text": " the tribe of Simeon: and the captain of the children of Simeon ",
+          "kind": "text"
+        },
+        {
+          "text": "shall be",
+          "kind": "supplied"
+        },
+        {
+          "text": " Shelumiel the son of Zurishaddai.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.2.13",
+      "edition_verse_id": "KJV1769:NUM.2.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "And his host, and those that were numbered of them, ",
+          "kind": "text"
+        },
+        {
+          "text": "were",
+          "kind": "supplied"
+        },
+        {
+          "text": " fifty and nine thousand and three hundred.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.2.14",
+      "edition_verse_id": "KJV1769:NUM.2.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "Then the tribe of Gad: and the captain of the sons of Gad ",
+          "kind": "text"
+        },
+        {
+          "text": "shall be",
+          "kind": "supplied"
+        },
+        {
+          "text": " Eliasaph the son of Reuel.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.2.15",
+      "edition_verse_id": "KJV1769:NUM.2.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "And his host, and those that were numbered of them, ",
+          "kind": "text"
+        },
+        {
+          "text": "were",
+          "kind": "supplied"
+        },
+        {
+          "text": " forty and five thousand and six hundred and fifty.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.2.16",
+      "edition_verse_id": "KJV1769:NUM.2.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "All that were numbered in the camp of Reuben ",
+          "kind": "text"
+        },
+        {
+          "text": "were",
+          "kind": "supplied"
+        },
+        {
+          "text": " an hundred thousand and fifty and one thousand and four hundred and fifty, throughout their armies. And they shall set forth in the second rank.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.2.17",
+      "edition_verse_id": "KJV1769:NUM.2.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "¶ Then the tabernacle of the congregation shall set forward with the camp of the Levites in the midst of the camp: as they encamp, so shall they set forward, every man in his place by their standards.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "NUM.2.18",
+      "edition_verse_id": "KJV1769:NUM.2.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "¶ On the west side ",
+          "kind": "text"
+        },
+        {
+          "text": "shall be",
+          "kind": "supplied"
+        },
+        {
+          "text": " the standard of the camp of Ephraim according to their armies: and the captain of the sons of Ephraim ",
+          "kind": "text"
+        },
+        {
+          "text": "shall be",
+          "kind": "supplied"
+        },
+        {
+          "text": " Elishama the son of Ammihud.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "NUM.2.19",
+      "edition_verse_id": "KJV1769:NUM.2.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "And his host, and those that were numbered of them, ",
+          "kind": "text"
+        },
+        {
+          "text": "were",
+          "kind": "supplied"
+        },
+        {
+          "text": " forty thousand and five hundred.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.2.20",
+      "edition_verse_id": "KJV1769:NUM.2.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "And by him ",
+          "kind": "text"
+        },
+        {
+          "text": "shall be",
+          "kind": "supplied"
+        },
+        {
+          "text": " the tribe of Manasseh: and the captain of the children of Manasseh ",
+          "kind": "text"
+        },
+        {
+          "text": "shall be",
+          "kind": "supplied"
+        },
+        {
+          "text": " Gamaliel the son of Pedahzur.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.2.21",
+      "edition_verse_id": "KJV1769:NUM.2.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "And his host, and those that were numbered of them, ",
+          "kind": "text"
+        },
+        {
+          "text": "were",
+          "kind": "supplied"
+        },
+        {
+          "text": " thirty and two thousand and two hundred.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.2.22",
+      "edition_verse_id": "KJV1769:NUM.2.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "Then the tribe of Benjamin: and the captain of the sons of Benjamin ",
+          "kind": "text"
+        },
+        {
+          "text": "shall be",
+          "kind": "supplied"
+        },
+        {
+          "text": " Abidan the son of Gideoni.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.2.23",
+      "edition_verse_id": "KJV1769:NUM.2.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "And his host, and those that were numbered of them, ",
+          "kind": "text"
+        },
+        {
+          "text": "were",
+          "kind": "supplied"
+        },
+        {
+          "text": " thirty and five thousand and four hundred.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.2.24",
+      "edition_verse_id": "KJV1769:NUM.2.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "All that were numbered of the camp of Ephraim ",
+          "kind": "text"
+        },
+        {
+          "text": "were",
+          "kind": "supplied"
+        },
+        {
+          "text": " an hundred thousand and eight thousand and an hundred, throughout their armies. And they shall go forward in the third rank.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.2.25",
+      "edition_verse_id": "KJV1769:NUM.2.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "¶ The standard of the camp of Dan ",
+          "kind": "text"
+        },
+        {
+          "text": "shall be",
+          "kind": "supplied"
+        },
+        {
+          "text": " on the north side by their armies: and the captain of the children of Dan ",
+          "kind": "text"
+        },
+        {
+          "text": "shall be",
+          "kind": "supplied"
+        },
+        {
+          "text": " Ahiezer the son of Ammishaddai.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "NUM.2.26",
+      "edition_verse_id": "KJV1769:NUM.2.26",
+      "verse": 26,
+      "spans": [
+        {
+          "text": "And his host, and those that were numbered of them, ",
+          "kind": "text"
+        },
+        {
+          "text": "were",
+          "kind": "supplied"
+        },
+        {
+          "text": " threescore and two thousand and seven hundred.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.2.27",
+      "edition_verse_id": "KJV1769:NUM.2.27",
+      "verse": 27,
+      "spans": [
+        {
+          "text": "And those that encamp by him ",
+          "kind": "text"
+        },
+        {
+          "text": "shall be",
+          "kind": "supplied"
+        },
+        {
+          "text": " the tribe of Asher: and the captain of the children of Asher ",
+          "kind": "text"
+        },
+        {
+          "text": "shall be",
+          "kind": "supplied"
+        },
+        {
+          "text": " Pagiel the son of Ocran.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.2.28",
+      "edition_verse_id": "KJV1769:NUM.2.28",
+      "verse": 28,
+      "spans": [
+        {
+          "text": "And his host, and those that were numbered of them, ",
+          "kind": "text"
+        },
+        {
+          "text": "were",
+          "kind": "supplied"
+        },
+        {
+          "text": " forty and one thousand and five hundred.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.2.29",
+      "edition_verse_id": "KJV1769:NUM.2.29",
+      "verse": 29,
+      "spans": [
+        {
+          "text": "¶ Then the tribe of Naphtali: and the captain of the children of Naphtali ",
+          "kind": "text"
+        },
+        {
+          "text": "shall be",
+          "kind": "supplied"
+        },
+        {
+          "text": " Ahira the son of Enan.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "NUM.2.30",
+      "edition_verse_id": "KJV1769:NUM.2.30",
+      "verse": 30,
+      "spans": [
+        {
+          "text": "And his host, and those that were numbered of them, ",
+          "kind": "text"
+        },
+        {
+          "text": "were",
+          "kind": "supplied"
+        },
+        {
+          "text": " fifty and three thousand and four hundred.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.2.31",
+      "edition_verse_id": "KJV1769:NUM.2.31",
+      "verse": 31,
+      "spans": [
+        {
+          "text": "All they that were numbered in the camp of Dan ",
+          "kind": "text"
+        },
+        {
+          "text": "were",
+          "kind": "supplied"
+        },
+        {
+          "text": " an hundred thousand and fifty and seven thousand and six hundred. They shall go hindmost with their standards.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.2.32",
+      "edition_verse_id": "KJV1769:NUM.2.32",
+      "verse": 32,
+      "spans": [
+        {
+          "text": "¶ These ",
+          "kind": "text"
+        },
+        {
+          "text": "are",
+          "kind": "supplied"
+        },
+        {
+          "text": " those which were numbered of the children of Israel by the house of their fathers: all those that were numbered of the camps throughout their hosts ",
+          "kind": "text"
+        },
+        {
+          "text": "were",
+          "kind": "supplied"
+        },
+        {
+          "text": " six hundred thousand and three thousand and five hundred and fifty.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "NUM.2.33",
+      "edition_verse_id": "KJV1769:NUM.2.33",
+      "verse": 33,
+      "spans": [
+        {
+          "text": "But the Levites were not numbered among the children of Israel; as the LORD commanded Moses.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.2.34",
+      "edition_verse_id": "KJV1769:NUM.2.34",
+      "verse": 34,
+      "spans": [
+        {
+          "text": "And the children of Israel did according to all that the LORD commanded Moses: so they pitched by their standards, and so they set forward, every one after their families, according to the house of their fathers.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

@@ -1,0 +1,428 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "KJV1769",
+  "book_code": "MAT",
+  "chapter": 16,
+  "verses": [
+    {
+      "id": "MAT.16.1",
+      "edition_verse_id": "KJV1769:MAT.16.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "The Pharisees also with the Sadducees came, and tempting desired him that he would shew them a sign from heaven.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MAT.16.2",
+      "edition_verse_id": "KJV1769:MAT.16.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "He answered and said unto them, When it is evening, ye say, ",
+          "kind": "text"
+        },
+        {
+          "text": "It will be",
+          "kind": "supplied"
+        },
+        {
+          "text": " fair weather: for the sky is red.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.16.3",
+      "edition_verse_id": "KJV1769:MAT.16.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "And in the morning, ",
+          "kind": "text"
+        },
+        {
+          "text": "It will be",
+          "kind": "supplied"
+        },
+        {
+          "text": " foul weather to day: for the sky is red and lowring. O ",
+          "kind": "text"
+        },
+        {
+          "text": "ye",
+          "kind": "supplied"
+        },
+        {
+          "text": " hypocrites, ye can discern the face of the sky; but can ye not ",
+          "kind": "text"
+        },
+        {
+          "text": "discern",
+          "kind": "supplied"
+        },
+        {
+          "text": " the signs of the times?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.16.4",
+      "edition_verse_id": "KJV1769:MAT.16.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "A wicked and adulterous generation seeketh after a sign; and there shall no sign be given unto it, but the sign of the prophet Jonas. And he left them, and departed.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.16.5",
+      "edition_verse_id": "KJV1769:MAT.16.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "And when his disciples were come to the other side, they had forgotten to take bread.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.16.6",
+      "edition_verse_id": "KJV1769:MAT.16.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "¶ Then Jesus said unto them, Take heed and beware of the leaven of the Pharisees and of the Sadducees.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MAT.16.7",
+      "edition_verse_id": "KJV1769:MAT.16.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "And they reasoned among themselves, saying, ",
+          "kind": "text"
+        },
+        {
+          "text": "It is",
+          "kind": "supplied"
+        },
+        {
+          "text": " because we have taken no bread.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.16.8",
+      "edition_verse_id": "KJV1769:MAT.16.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "Which",
+          "kind": "supplied"
+        },
+        {
+          "text": " when Jesus perceived, he said unto them, O ye of little faith, why reason ye among yourselves, because ye have brought no bread?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.16.9",
+      "edition_verse_id": "KJV1769:MAT.16.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "Do ye not yet understand, neither remember the five loaves of the five thousand, and how many baskets ye took up?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.16.10",
+      "edition_verse_id": "KJV1769:MAT.16.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "Neither the seven loaves of the four thousand, and how many baskets ye took up?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.16.11",
+      "edition_verse_id": "KJV1769:MAT.16.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "How is it that ye do not understand that I spake ",
+          "kind": "text"
+        },
+        {
+          "text": "it",
+          "kind": "supplied"
+        },
+        {
+          "text": " not to you concerning bread, that ye should beware of the leaven of the Pharisees and of the Sadducees?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.16.12",
+      "edition_verse_id": "KJV1769:MAT.16.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "Then understood they how that he bade ",
+          "kind": "text"
+        },
+        {
+          "text": "them",
+          "kind": "supplied"
+        },
+        {
+          "text": " not beware of the leaven of bread, but of the doctrine of the Pharisees and of the Sadducees.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.16.13",
+      "edition_verse_id": "KJV1769:MAT.16.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "¶ When Jesus came into the coasts of Caesarea Philippi, he asked his disciples, saying, Whom do men say that I the Son of man am?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MAT.16.14",
+      "edition_verse_id": "KJV1769:MAT.16.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "And they said, Some ",
+          "kind": "text"
+        },
+        {
+          "text": "say that thou art",
+          "kind": "supplied"
+        },
+        {
+          "text": " John the Baptist: some, Elias; and others, Jeremias, or one of the prophets.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.16.15",
+      "edition_verse_id": "KJV1769:MAT.16.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "He saith unto them, But whom say ye that I am?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.16.16",
+      "edition_verse_id": "KJV1769:MAT.16.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "And Simon Peter answered and said, Thou art the Christ, the Son of the living God.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.16.17",
+      "edition_verse_id": "KJV1769:MAT.16.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "And Jesus answered and said unto him, Blessed art thou, Simon Bar-jona: for flesh and blood hath not revealed ",
+          "kind": "text"
+        },
+        {
+          "text": "it",
+          "kind": "supplied"
+        },
+        {
+          "text": " unto thee, but my Father which is in heaven.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.16.18",
+      "edition_verse_id": "KJV1769:MAT.16.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "And I say also unto thee, That thou art Peter, and upon this rock I will build my church; and the gates of hell shall not prevail against it.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.16.19",
+      "edition_verse_id": "KJV1769:MAT.16.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "And I will give unto thee the keys of the kingdom of heaven: and whatsoever thou shalt bind on earth shall be bound in heaven: and whatsoever thou shalt loose on earth shall be loosed in heaven.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.16.20",
+      "edition_verse_id": "KJV1769:MAT.16.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "Then charged he his disciples that they should tell no man that he was Jesus the Christ.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.16.21",
+      "edition_verse_id": "KJV1769:MAT.16.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "¶ From that time forth began Jesus to shew unto his disciples, how that he must go unto Jerusalem, and suffer many things of the elders and chief priests and scribes, and be killed, and be raised again the third day.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MAT.16.22",
+      "edition_verse_id": "KJV1769:MAT.16.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "Then Peter took him, and began to rebuke him, saying, Be it far from thee, Lord: this shall not be unto thee.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.16.23",
+      "edition_verse_id": "KJV1769:MAT.16.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "But he turned, and said unto Peter, Get thee behind me, Satan: thou art an offence unto me: for thou savourest not the things that be of God, but those that be of men.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.16.24",
+      "edition_verse_id": "KJV1769:MAT.16.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "¶ Then said Jesus unto his disciples, If any ",
+          "kind": "text"
+        },
+        {
+          "text": "man",
+          "kind": "supplied"
+        },
+        {
+          "text": " will come after me, let him deny himself, and take up his cross, and follow me.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MAT.16.25",
+      "edition_verse_id": "KJV1769:MAT.16.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "For whosoever will save his life shall lose it: and whosoever will lose his life for my sake shall find it.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.16.26",
+      "edition_verse_id": "KJV1769:MAT.16.26",
+      "verse": 26,
+      "spans": [
+        {
+          "text": "For what is a man profited, if he shall gain the whole world, and lose his own soul? or what shall a man give in exchange for his soul?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.16.27",
+      "edition_verse_id": "KJV1769:MAT.16.27",
+      "verse": 27,
+      "spans": [
+        {
+          "text": "For the Son of man shall come in the glory of his Father with his angels; and then he shall reward every man according to his works.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.16.28",
+      "edition_verse_id": "KJV1769:MAT.16.28",
+      "verse": 28,
+      "spans": [
+        {
+          "text": "Verily I say unto you, There be some standing here, which shall not taste of death, till they see the Son of man coming in his kingdom.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

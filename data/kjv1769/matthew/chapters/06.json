@@ -1,0 +1,480 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "KJV1769",
+  "book_code": "MAT",
+  "chapter": 6,
+  "verses": [
+    {
+      "id": "MAT.6.1",
+      "edition_verse_id": "KJV1769:MAT.6.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "Take heed that ye do not your alms before men, to be seen of them: otherwise ye have no reward of your Father which is in heaven.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MAT.6.2",
+      "edition_verse_id": "KJV1769:MAT.6.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "Therefore when thou doest ",
+          "kind": "text"
+        },
+        {
+          "text": "thine",
+          "kind": "supplied"
+        },
+        {
+          "text": " alms, do not sound a trumpet before thee, as the hypocrites do in the synagogues and in the streets, that they may have glory of men. Verily I say unto you, They have their reward.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.6.3",
+      "edition_verse_id": "KJV1769:MAT.6.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "But when thou doest alms, let not thy left hand know what thy right hand doeth:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.6.4",
+      "edition_verse_id": "KJV1769:MAT.6.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "That thine alms may be in secret: and thy Father which seeth in secret himself shall reward thee openly.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.6.5",
+      "edition_verse_id": "KJV1769:MAT.6.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "¶ And when thou prayest, thou shalt not be as the hypocrites ",
+          "kind": "text"
+        },
+        {
+          "text": "are",
+          "kind": "supplied"
+        },
+        {
+          "text": ": for they love to pray standing in the synagogues and in the corners of the streets, that they may be seen of men. Verily I say unto you, They have their reward.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MAT.6.6",
+      "edition_verse_id": "KJV1769:MAT.6.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "But thou, when thou prayest, enter into thy closet, and when thou hast shut thy door, pray to thy Father which is in secret; and thy Father which seeth in secret shall reward thee openly.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.6.7",
+      "edition_verse_id": "KJV1769:MAT.6.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "But when ye pray, use not vain repetitions, as the heathen ",
+          "kind": "text"
+        },
+        {
+          "text": "do",
+          "kind": "supplied"
+        },
+        {
+          "text": ": for they think that they shall be heard for their much speaking.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.6.8",
+      "edition_verse_id": "KJV1769:MAT.6.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "Be not ye therefore like unto them: for your Father knoweth what things ye have need of, before ye ask him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.6.9",
+      "edition_verse_id": "KJV1769:MAT.6.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "After this manner therefore pray ye: Our Father which art in heaven, Hallowed be thy name.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.6.10",
+      "edition_verse_id": "KJV1769:MAT.6.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "Thy kingdom come. Thy will be done in earth, as ",
+          "kind": "text"
+        },
+        {
+          "text": "it is",
+          "kind": "supplied"
+        },
+        {
+          "text": " in heaven.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.6.11",
+      "edition_verse_id": "KJV1769:MAT.6.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "Give us this day our daily bread.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.6.12",
+      "edition_verse_id": "KJV1769:MAT.6.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "And forgive us our debts, as we forgive our debtors.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.6.13",
+      "edition_verse_id": "KJV1769:MAT.6.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "And lead us not into temptation, but deliver us from evil: For thine is the kingdom, and the power, and the glory, for ever. Amen.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.6.14",
+      "edition_verse_id": "KJV1769:MAT.6.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "For if ye forgive men their trespasses, your heavenly Father will also forgive you:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.6.15",
+      "edition_verse_id": "KJV1769:MAT.6.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "But if ye forgive not men their trespasses, neither will your Father forgive your trespasses.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.6.16",
+      "edition_verse_id": "KJV1769:MAT.6.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "¶ Moreover when ye fast, be not, as the hypocrites, of a sad countenance: for they disfigure their faces, that they may appear unto men to fast. Verily I say unto you, They have their reward.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MAT.6.17",
+      "edition_verse_id": "KJV1769:MAT.6.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "But thou, when thou fastest, anoint thine head, and wash thy face;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.6.18",
+      "edition_verse_id": "KJV1769:MAT.6.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "That thou appear not unto men to fast, but unto thy Father which is in secret: and thy Father, which seeth in secret, shall reward thee openly.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.6.19",
+      "edition_verse_id": "KJV1769:MAT.6.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "¶ Lay not up for yourselves treasures upon earth, where moth and rust doth corrupt, and where thieves break through and steal:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MAT.6.20",
+      "edition_verse_id": "KJV1769:MAT.6.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "But lay up for yourselves treasures in heaven, where neither moth nor rust doth corrupt, and where thieves do not break through nor steal:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.6.21",
+      "edition_verse_id": "KJV1769:MAT.6.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "For where your treasure is, there will your heart be also.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.6.22",
+      "edition_verse_id": "KJV1769:MAT.6.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "The light of the body is the eye: if therefore thine eye be single, thy whole body shall be full of light.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.6.23",
+      "edition_verse_id": "KJV1769:MAT.6.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "But if thine eye be evil, thy whole body shall be full of darkness. If therefore the light that is in thee be darkness, how great ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " that darkness!",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.6.24",
+      "edition_verse_id": "KJV1769:MAT.6.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "¶ No man can serve two masters: for either he will hate the one, and love the other; or else he will hold to the one, and despise the other. Ye cannot serve God and mammon.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MAT.6.25",
+      "edition_verse_id": "KJV1769:MAT.6.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "Therefore I say unto you, Take no thought for your life, what ye shall eat, or what ye shall drink; nor yet for your body, what ye shall put on. Is not the life more than meat, and the body than raiment?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.6.26",
+      "edition_verse_id": "KJV1769:MAT.6.26",
+      "verse": 26,
+      "spans": [
+        {
+          "text": "Behold the fowls of the air: for they sow not, neither do they reap, nor gather into barns; yet your heavenly Father feedeth them. Are ye not much better than they?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.6.27",
+      "edition_verse_id": "KJV1769:MAT.6.27",
+      "verse": 27,
+      "spans": [
+        {
+          "text": "Which of you by taking thought can add one cubit unto his stature?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.6.28",
+      "edition_verse_id": "KJV1769:MAT.6.28",
+      "verse": 28,
+      "spans": [
+        {
+          "text": "And why take ye thought for raiment? Consider the lilies of the field, how they grow; they toil not, neither do they spin:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.6.29",
+      "edition_verse_id": "KJV1769:MAT.6.29",
+      "verse": 29,
+      "spans": [
+        {
+          "text": "And yet I say unto you, That even Solomon in all his glory was not arrayed like one of these.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.6.30",
+      "edition_verse_id": "KJV1769:MAT.6.30",
+      "verse": 30,
+      "spans": [
+        {
+          "text": "Wherefore, if God so clothe the grass of the field, which to day is, and to morrow is cast into the oven, ",
+          "kind": "text"
+        },
+        {
+          "text": "shall he",
+          "kind": "supplied"
+        },
+        {
+          "text": " not much more ",
+          "kind": "text"
+        },
+        {
+          "text": "clothe",
+          "kind": "supplied"
+        },
+        {
+          "text": " you, O ye of little faith?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.6.31",
+      "edition_verse_id": "KJV1769:MAT.6.31",
+      "verse": 31,
+      "spans": [
+        {
+          "text": "Therefore take no thought, saying, What shall we eat? or, What shall we drink? or, Wherewithal shall we be clothed?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.6.32",
+      "edition_verse_id": "KJV1769:MAT.6.32",
+      "verse": 32,
+      "spans": [
+        {
+          "text": "(For after all these things do the Gentiles seek:) for your heavenly Father knoweth that ye have need of all these things.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.6.33",
+      "edition_verse_id": "KJV1769:MAT.6.33",
+      "verse": 33,
+      "spans": [
+        {
+          "text": "But seek ye first the kingdom of God, and his righteousness; and all these things shall be added unto you.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.6.34",
+      "edition_verse_id": "KJV1769:MAT.6.34",
+      "verse": 34,
+      "spans": [
+        {
+          "text": "Take therefore no thought for the morrow: for the morrow shall take thought for the things of itself. Sufficient unto the day ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " the evil thereof.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

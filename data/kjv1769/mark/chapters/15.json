@@ -1,0 +1,724 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "KJV1769",
+  "book_code": "MRK",
+  "chapter": 15,
+  "verses": [
+    {
+      "id": "MRK.15.1",
+      "edition_verse_id": "KJV1769:MRK.15.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "And straightway in the morning the chief priests held a consultation with the elders and scribes and the whole council, and bound Jesus, and carried ",
+          "kind": "text"
+        },
+        {
+          "text": "him",
+          "kind": "supplied"
+        },
+        {
+          "text": " away, and delivered ",
+          "kind": "text"
+        },
+        {
+          "text": "him",
+          "kind": "supplied"
+        },
+        {
+          "text": " to Pilate.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MRK.15.2",
+      "edition_verse_id": "KJV1769:MRK.15.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "And Pilate asked him, Art thou the King of the Jews? And he answering said unto him, Thou sayest ",
+          "kind": "text"
+        },
+        {
+          "text": "it",
+          "kind": "supplied"
+        },
+        {
+          "text": ".",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.15.3",
+      "edition_verse_id": "KJV1769:MRK.15.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "And the chief priests accused him of many things: but he answered nothing.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.15.4",
+      "edition_verse_id": "KJV1769:MRK.15.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "And Pilate asked him again, saying, Answerest thou nothing? behold how many things they witness against thee.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.15.5",
+      "edition_verse_id": "KJV1769:MRK.15.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "But Jesus yet answered nothing; so that Pilate marvelled.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.15.6",
+      "edition_verse_id": "KJV1769:MRK.15.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "Now at ",
+          "kind": "text"
+        },
+        {
+          "text": "that",
+          "kind": "supplied"
+        },
+        {
+          "text": " feast he released unto them one prisoner, whomsoever they desired.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.15.7",
+      "edition_verse_id": "KJV1769:MRK.15.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "And there was ",
+          "kind": "text"
+        },
+        {
+          "text": "one",
+          "kind": "supplied"
+        },
+        {
+          "text": " named Barabbas, ",
+          "kind": "text"
+        },
+        {
+          "text": "which lay",
+          "kind": "supplied"
+        },
+        {
+          "text": " bound with them that had made insurrection with him, who had committed murder in the insurrection.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.15.8",
+      "edition_verse_id": "KJV1769:MRK.15.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "And the multitude crying aloud began to desire ",
+          "kind": "text"
+        },
+        {
+          "text": "him to do",
+          "kind": "supplied"
+        },
+        {
+          "text": " as he had ever done unto them.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.15.9",
+      "edition_verse_id": "KJV1769:MRK.15.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "But Pilate answered them, saying, Will ye that I release unto you the King of the Jews?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.15.10",
+      "edition_verse_id": "KJV1769:MRK.15.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "For he knew that the chief priests had delivered him for envy.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.15.11",
+      "edition_verse_id": "KJV1769:MRK.15.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "But the chief priests moved the people, that he should rather release Barabbas unto them.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.15.12",
+      "edition_verse_id": "KJV1769:MRK.15.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "And Pilate answered and said again unto them, What will ye then that I shall do ",
+          "kind": "text"
+        },
+        {
+          "text": "unto him",
+          "kind": "supplied"
+        },
+        {
+          "text": " whom ye call the King of the Jews?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.15.13",
+      "edition_verse_id": "KJV1769:MRK.15.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "And they cried out again, Crucify him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.15.14",
+      "edition_verse_id": "KJV1769:MRK.15.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "Then Pilate said unto them, Why, what evil hath he done? And they cried out the more exceedingly, Crucify him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.15.15",
+      "edition_verse_id": "KJV1769:MRK.15.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "¶ And ",
+          "kind": "text"
+        },
+        {
+          "text": "so",
+          "kind": "supplied"
+        },
+        {
+          "text": " Pilate, willing to content the people, released Barabbas unto them, and delivered Jesus, when he had scourged ",
+          "kind": "text"
+        },
+        {
+          "text": "him",
+          "kind": "supplied"
+        },
+        {
+          "text": ", to be crucified.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MRK.15.16",
+      "edition_verse_id": "KJV1769:MRK.15.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "And the soldiers led him away into the hall, called Prætorium; and they call together the whole band.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.15.17",
+      "edition_verse_id": "KJV1769:MRK.15.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "And they clothed him with purple, and platted a crown of thorns, and put it about his ",
+          "kind": "text"
+        },
+        {
+          "text": "head",
+          "kind": "supplied"
+        },
+        {
+          "text": ",",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.15.18",
+      "edition_verse_id": "KJV1769:MRK.15.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "And began to salute him, Hail, King of the Jews!",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.15.19",
+      "edition_verse_id": "KJV1769:MRK.15.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "And they smote him on the head with a reed, and did spit upon him, and bowing ",
+          "kind": "text"
+        },
+        {
+          "text": "their",
+          "kind": "supplied"
+        },
+        {
+          "text": " knees worshipped him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.15.20",
+      "edition_verse_id": "KJV1769:MRK.15.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "And when they had mocked him, they took off the purple from him, and put his own clothes on him, and led him out to crucify him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.15.21",
+      "edition_verse_id": "KJV1769:MRK.15.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "And they compel one Simon a Cyrenian, who passed by, coming out of the country, the father of Alexander and Rufus, to bear his cross.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.15.22",
+      "edition_verse_id": "KJV1769:MRK.15.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "And they bring him unto the place Golgotha, which is, being interpreted, The place of a skull.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.15.23",
+      "edition_verse_id": "KJV1769:MRK.15.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "And they gave him to drink wine mingled with myrrh: but he received ",
+          "kind": "text"
+        },
+        {
+          "text": "it",
+          "kind": "supplied"
+        },
+        {
+          "text": " not.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.15.24",
+      "edition_verse_id": "KJV1769:MRK.15.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "And when they had crucified him, they parted his garments, casting lots upon them, what every man should take.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.15.25",
+      "edition_verse_id": "KJV1769:MRK.15.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "And it was the third hour, and they crucified him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.15.26",
+      "edition_verse_id": "KJV1769:MRK.15.26",
+      "verse": 26,
+      "spans": [
+        {
+          "text": "And the superscription of his accusation was written over, THE KING OF THE JEWS.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.15.27",
+      "edition_verse_id": "KJV1769:MRK.15.27",
+      "verse": 27,
+      "spans": [
+        {
+          "text": "And with him they crucify two thieves; the one on his right hand, and the other on his left.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.15.28",
+      "edition_verse_id": "KJV1769:MRK.15.28",
+      "verse": 28,
+      "spans": [
+        {
+          "text": "And the scripture was fulfilled, which saith, And he was numbered with the transgressors.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.15.29",
+      "edition_verse_id": "KJV1769:MRK.15.29",
+      "verse": 29,
+      "spans": [
+        {
+          "text": "And they that passed by railed on him, wagging their heads, and saying, Ah, thou that destroyest the temple, and buildest ",
+          "kind": "text"
+        },
+        {
+          "text": "it",
+          "kind": "supplied"
+        },
+        {
+          "text": " in three days,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.15.30",
+      "edition_verse_id": "KJV1769:MRK.15.30",
+      "verse": 30,
+      "spans": [
+        {
+          "text": "Save thyself, and come down from the cross.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.15.31",
+      "edition_verse_id": "KJV1769:MRK.15.31",
+      "verse": 31,
+      "spans": [
+        {
+          "text": "Likewise also the chief priests mocking said among themselves with the scribes, He saved others; himself he cannot save.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.15.32",
+      "edition_verse_id": "KJV1769:MRK.15.32",
+      "verse": 32,
+      "spans": [
+        {
+          "text": "Let Christ the King of Israel descend now from the cross, that we may see and believe. And they that were crucified with him reviled him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.15.33",
+      "edition_verse_id": "KJV1769:MRK.15.33",
+      "verse": 33,
+      "spans": [
+        {
+          "text": "And when the sixth hour was come, there was darkness over the whole land until the ninth hour.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.15.34",
+      "edition_verse_id": "KJV1769:MRK.15.34",
+      "verse": 34,
+      "spans": [
+        {
+          "text": "And at the ninth hour Jesus cried with a loud voice, saying, Eloi, Eloi, lama sabachthani? which is, being interpreted, My God, my God, why hast thou forsaken me?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.15.35",
+      "edition_verse_id": "KJV1769:MRK.15.35",
+      "verse": 35,
+      "spans": [
+        {
+          "text": "And some of them that stood by, when they heard ",
+          "kind": "text"
+        },
+        {
+          "text": "it",
+          "kind": "supplied"
+        },
+        {
+          "text": ", said, Behold, he calleth Elias.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.15.36",
+      "edition_verse_id": "KJV1769:MRK.15.36",
+      "verse": 36,
+      "spans": [
+        {
+          "text": "And one ran and filled a spunge full of vinegar, and put ",
+          "kind": "text"
+        },
+        {
+          "text": "it",
+          "kind": "supplied"
+        },
+        {
+          "text": " on a reed, and gave him to drink, saying, Let alone; let us see whether Elias will come to take him down.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.15.37",
+      "edition_verse_id": "KJV1769:MRK.15.37",
+      "verse": 37,
+      "spans": [
+        {
+          "text": "And Jesus cried with a loud voice, and gave up the ghost.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.15.38",
+      "edition_verse_id": "KJV1769:MRK.15.38",
+      "verse": 38,
+      "spans": [
+        {
+          "text": "And the veil of the temple was rent in twain from the top to the bottom.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.15.39",
+      "edition_verse_id": "KJV1769:MRK.15.39",
+      "verse": 39,
+      "spans": [
+        {
+          "text": "¶ And when the centurion, which stood over against him, saw that he so cried out, and gave up the ghost, he said, Truly this man was the Son of God.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MRK.15.40",
+      "edition_verse_id": "KJV1769:MRK.15.40",
+      "verse": 40,
+      "spans": [
+        {
+          "text": "There were also women looking on afar off: among whom was Mary Magdalene, and Mary the mother of James the less and of Joses, and Salome;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.15.41",
+      "edition_verse_id": "KJV1769:MRK.15.41",
+      "verse": 41,
+      "spans": [
+        {
+          "text": "(Who also, when he was in Galilee, followed him, and ministered unto him;) and many other women which came up with him unto Jerusalem.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.15.42",
+      "edition_verse_id": "KJV1769:MRK.15.42",
+      "verse": 42,
+      "spans": [
+        {
+          "text": "¶ And now when the even was come, because it was the preparation, that is, the day before the sabbath,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MRK.15.43",
+      "edition_verse_id": "KJV1769:MRK.15.43",
+      "verse": 43,
+      "spans": [
+        {
+          "text": "Joseph of Arimathaea, an honourable counsellor, which also waited for the kingdom of God, came, and went in boldly unto Pilate, and craved the body of Jesus.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.15.44",
+      "edition_verse_id": "KJV1769:MRK.15.44",
+      "verse": 44,
+      "spans": [
+        {
+          "text": "And Pilate marvelled if he were already dead: and calling ",
+          "kind": "text"
+        },
+        {
+          "text": "unto him",
+          "kind": "supplied"
+        },
+        {
+          "text": " the centurion, he asked him whether he had been any while dead.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.15.45",
+      "edition_verse_id": "KJV1769:MRK.15.45",
+      "verse": 45,
+      "spans": [
+        {
+          "text": "And when he knew ",
+          "kind": "text"
+        },
+        {
+          "text": "it",
+          "kind": "supplied"
+        },
+        {
+          "text": " of the centurion, he gave the body to Joseph.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.15.46",
+      "edition_verse_id": "KJV1769:MRK.15.46",
+      "verse": 46,
+      "spans": [
+        {
+          "text": "And he bought fine linen, and took him down, and wrapped him in the linen, and laid him in a sepulchre which was hewn out of a rock, and rolled a stone unto the door of the sepulchre.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.15.47",
+      "edition_verse_id": "KJV1769:MRK.15.47",
+      "verse": 47,
+      "spans": [
+        {
+          "text": "And Mary Magdalene and Mary ",
+          "kind": "text"
+        },
+        {
+          "text": "the mother",
+          "kind": "supplied"
+        },
+        {
+          "text": " of Joses beheld where he was laid.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

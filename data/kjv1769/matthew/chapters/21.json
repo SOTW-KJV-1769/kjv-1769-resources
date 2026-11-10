@@ -1,0 +1,664 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "KJV1769",
+  "book_code": "MAT",
+  "chapter": 21,
+  "verses": [
+    {
+      "id": "MAT.21.1",
+      "edition_verse_id": "KJV1769:MAT.21.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "And when they drew nigh unto Jerusalem, and were come to Bethphage, unto the mount of Olives, then sent Jesus two disciples,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MAT.21.2",
+      "edition_verse_id": "KJV1769:MAT.21.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "Saying unto them, Go into the village over against you, and straightway ye shall find an ass tied, and a colt with her: loose ",
+          "kind": "text"
+        },
+        {
+          "text": "them",
+          "kind": "supplied"
+        },
+        {
+          "text": ", and bring ",
+          "kind": "text"
+        },
+        {
+          "text": "them",
+          "kind": "supplied"
+        },
+        {
+          "text": " unto me.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.21.3",
+      "edition_verse_id": "KJV1769:MAT.21.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "And if any ",
+          "kind": "text"
+        },
+        {
+          "text": "man",
+          "kind": "supplied"
+        },
+        {
+          "text": " say ought unto you, ye shall say, The Lord hath need of them; and straightway he will send them.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.21.4",
+      "edition_verse_id": "KJV1769:MAT.21.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "All this was done, that it might be fulfilled which was spoken by the prophet, saying,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.21.5",
+      "edition_verse_id": "KJV1769:MAT.21.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "Tell ye the daughter of Sion, Behold, thy King cometh unto thee, meek, and sitting upon an ass, and a colt the foal of an ass.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.21.6",
+      "edition_verse_id": "KJV1769:MAT.21.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "And the disciples went, and did as Jesus commanded them,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.21.7",
+      "edition_verse_id": "KJV1769:MAT.21.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "And brought the ass, and the colt, and put on them their clothes, and they set ",
+          "kind": "text"
+        },
+        {
+          "text": "him",
+          "kind": "supplied"
+        },
+        {
+          "text": " thereon.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.21.8",
+      "edition_verse_id": "KJV1769:MAT.21.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "And a very great multitude spread their garments in the way; others cut down branches from the trees, and strawed ",
+          "kind": "text"
+        },
+        {
+          "text": "them",
+          "kind": "supplied"
+        },
+        {
+          "text": " in the way.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.21.9",
+      "edition_verse_id": "KJV1769:MAT.21.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "And the multitudes that went before, and that followed, cried, saying, Hosanna to the Son of David: Blessed ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " he that cometh in the name of the Lord; Hosanna in the highest.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.21.10",
+      "edition_verse_id": "KJV1769:MAT.21.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "And when he was come into Jerusalem, all the city was moved, saying, Who is this?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.21.11",
+      "edition_verse_id": "KJV1769:MAT.21.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "And the multitude said, This is Jesus the prophet of Nazareth of Galilee.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.21.12",
+      "edition_verse_id": "KJV1769:MAT.21.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "¶ And Jesus went into the temple of God, and cast out all them that sold and bought in the temple, and overthrew the tables of the moneychangers, and the seats of them that sold doves,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MAT.21.13",
+      "edition_verse_id": "KJV1769:MAT.21.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "And said unto them, It is written, My house shall be called the house of prayer; but ye have made it a den of thieves.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.21.14",
+      "edition_verse_id": "KJV1769:MAT.21.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "And the blind and the lame came to him in the temple; and he healed them.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.21.15",
+      "edition_verse_id": "KJV1769:MAT.21.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "And when the chief priests and scribes saw the wonderful things that he did, and the children crying in the temple, and saying, Hosanna to the Son of David; they were sore displeased,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.21.16",
+      "edition_verse_id": "KJV1769:MAT.21.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "And said unto him, Hearest thou what these say? And Jesus saith unto them, Yea; have ye never read, Out of the mouth of babes and sucklings thou hast perfected praise?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.21.17",
+      "edition_verse_id": "KJV1769:MAT.21.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "¶ And he left them, and went out of the city into Bethany; and he lodged there.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MAT.21.18",
+      "edition_verse_id": "KJV1769:MAT.21.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "Now in the morning as he returned into the city, he hungered.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.21.19",
+      "edition_verse_id": "KJV1769:MAT.21.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "And when he saw a fig tree in the way, he came to it, and found nothing thereon, but leaves only, and said unto it, Let no fruit grow on thee henceforward for ever. And presently the fig tree withered away.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.21.20",
+      "edition_verse_id": "KJV1769:MAT.21.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "And when the disciples saw ",
+          "kind": "text"
+        },
+        {
+          "text": "it",
+          "kind": "supplied"
+        },
+        {
+          "text": ", they marvelled, saying, How soon is the fig tree withered away!",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.21.21",
+      "edition_verse_id": "KJV1769:MAT.21.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "Jesus answered and said unto them, Verily I say unto you, If ye have faith, and doubt not, ye shall not only do this ",
+          "kind": "text"
+        },
+        {
+          "text": "which is done",
+          "kind": "supplied"
+        },
+        {
+          "text": " to the fig tree, but also if ye shall say unto this mountain, Be thou removed, and be thou cast into the sea; it shall be done.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.21.22",
+      "edition_verse_id": "KJV1769:MAT.21.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "And all things, whatsoever ye shall ask in prayer, believing, ye shall receive.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.21.23",
+      "edition_verse_id": "KJV1769:MAT.21.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "¶ And when he was come into the temple, the chief priests and the elders of the people came unto him as he was teaching, and said, By what authority doest thou these things? and who gave thee this authority?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MAT.21.24",
+      "edition_verse_id": "KJV1769:MAT.21.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "And Jesus answered and said unto them, I also will ask you one thing, which if ye tell me, I in like wise will tell you by what authority I do these things.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.21.25",
+      "edition_verse_id": "KJV1769:MAT.21.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "The baptism of John, whence was it? from heaven, or of men? And they reasoned with themselves, saying, If we shall say, From heaven; he will say unto us, Why did ye not then believe him?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.21.26",
+      "edition_verse_id": "KJV1769:MAT.21.26",
+      "verse": 26,
+      "spans": [
+        {
+          "text": "But if we shall say, Of men; we fear the people; for all hold John as a prophet.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.21.27",
+      "edition_verse_id": "KJV1769:MAT.21.27",
+      "verse": 27,
+      "spans": [
+        {
+          "text": "And they answered Jesus, and said, We cannot tell. And he said unto them, Neither tell I you by what authority I do these things.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.21.28",
+      "edition_verse_id": "KJV1769:MAT.21.28",
+      "verse": 28,
+      "spans": [
+        {
+          "text": "¶ But what think ye? A certain man had two sons; and he came to the first, and said, Son, go work to day in my vineyard.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MAT.21.29",
+      "edition_verse_id": "KJV1769:MAT.21.29",
+      "verse": 29,
+      "spans": [
+        {
+          "text": "He answered and said, I will not: but afterward he repented, and went.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.21.30",
+      "edition_verse_id": "KJV1769:MAT.21.30",
+      "verse": 30,
+      "spans": [
+        {
+          "text": "And he came to the second, and said likewise. And he answered and said, I ",
+          "kind": "text"
+        },
+        {
+          "text": "go",
+          "kind": "supplied"
+        },
+        {
+          "text": ", sir: and went not.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.21.31",
+      "edition_verse_id": "KJV1769:MAT.21.31",
+      "verse": 31,
+      "spans": [
+        {
+          "text": "Whether of them twain did the will of his father? They say unto him, The first. Jesus saith unto them, Verily I say unto you, That the publicans and the harlots go into the kingdom of God before you.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.21.32",
+      "edition_verse_id": "KJV1769:MAT.21.32",
+      "verse": 32,
+      "spans": [
+        {
+          "text": "For John came unto you in the way of righteousness, and ye believed him not: but the publicans and the harlots believed him: and ye, when ye had seen ",
+          "kind": "text"
+        },
+        {
+          "text": "it",
+          "kind": "supplied"
+        },
+        {
+          "text": ", repented not afterward, that ye might believe him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.21.33",
+      "edition_verse_id": "KJV1769:MAT.21.33",
+      "verse": 33,
+      "spans": [
+        {
+          "text": "¶ Hear another parable: There was a certain householder, which planted a vineyard, and hedged it round about, and digged a winepress in it, and built a tower, and let it out to husbandmen, and went into a far country:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MAT.21.34",
+      "edition_verse_id": "KJV1769:MAT.21.34",
+      "verse": 34,
+      "spans": [
+        {
+          "text": "And when the time of the fruit drew near, he sent his servants to the husbandmen, that they might receive the fruits of it.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.21.35",
+      "edition_verse_id": "KJV1769:MAT.21.35",
+      "verse": 35,
+      "spans": [
+        {
+          "text": "And the husbandmen took his servants, and beat one, and killed another, and stoned another.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.21.36",
+      "edition_verse_id": "KJV1769:MAT.21.36",
+      "verse": 36,
+      "spans": [
+        {
+          "text": "Again, he sent other servants more than the first: and they did unto them likewise.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.21.37",
+      "edition_verse_id": "KJV1769:MAT.21.37",
+      "verse": 37,
+      "spans": [
+        {
+          "text": "But last of all he sent unto them his son, saying, They will reverence my son.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.21.38",
+      "edition_verse_id": "KJV1769:MAT.21.38",
+      "verse": 38,
+      "spans": [
+        {
+          "text": "But when the husbandmen saw the son, they said among themselves, This is the heir; come, let us kill him, and let us seize on his inheritance.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.21.39",
+      "edition_verse_id": "KJV1769:MAT.21.39",
+      "verse": 39,
+      "spans": [
+        {
+          "text": "And they caught him, and cast ",
+          "kind": "text"
+        },
+        {
+          "text": "him",
+          "kind": "supplied"
+        },
+        {
+          "text": " out of the vineyard, and slew ",
+          "kind": "text"
+        },
+        {
+          "text": "him",
+          "kind": "supplied"
+        },
+        {
+          "text": ".",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.21.40",
+      "edition_verse_id": "KJV1769:MAT.21.40",
+      "verse": 40,
+      "spans": [
+        {
+          "text": "When the lord therefore of the vineyard cometh, what will he do unto those husbandmen?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.21.41",
+      "edition_verse_id": "KJV1769:MAT.21.41",
+      "verse": 41,
+      "spans": [
+        {
+          "text": "They say unto him, He will miserably destroy those wicked men, and will let out ",
+          "kind": "text"
+        },
+        {
+          "text": "his",
+          "kind": "supplied"
+        },
+        {
+          "text": " vineyard unto other husbandmen, which shall render him the fruits in their seasons.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.21.42",
+      "edition_verse_id": "KJV1769:MAT.21.42",
+      "verse": 42,
+      "spans": [
+        {
+          "text": "Jesus saith unto them, Did ye never read in the scriptures, The stone which the builders rejected, the same is become the head of the corner: this is the Lord’s doing, and it is marvellous in our eyes?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.21.43",
+      "edition_verse_id": "KJV1769:MAT.21.43",
+      "verse": 43,
+      "spans": [
+        {
+          "text": "Therefore say I unto you, The kingdom of God shall be taken from you, and given to a nation bringing forth the fruits thereof.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.21.44",
+      "edition_verse_id": "KJV1769:MAT.21.44",
+      "verse": 44,
+      "spans": [
+        {
+          "text": "And whosoever shall fall on this stone shall be broken: but on whomsoever it shall fall, it will grind him to powder.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.21.45",
+      "edition_verse_id": "KJV1769:MAT.21.45",
+      "verse": 45,
+      "spans": [
+        {
+          "text": "And when the chief priests and Pharisees had heard his parables, they perceived that he spake of them.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.21.46",
+      "edition_verse_id": "KJV1769:MAT.21.46",
+      "verse": 46,
+      "spans": [
+        {
+          "text": "But when they sought to lay hands on him, they feared the multitude, because they took him for a prophet.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

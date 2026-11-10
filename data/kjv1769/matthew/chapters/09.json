@@ -1,0 +1,568 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "KJV1769",
+  "book_code": "MAT",
+  "chapter": 9,
+  "verses": [
+    {
+      "id": "MAT.9.1",
+      "edition_verse_id": "KJV1769:MAT.9.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "And he entered into a ship, and passed over, and came into his own city.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MAT.9.2",
+      "edition_verse_id": "KJV1769:MAT.9.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "And, behold, they brought to him a man sick of the palsy, lying on a bed: and Jesus seeing their faith said unto the sick of the palsy; Son, be of good cheer; thy sins be forgiven thee.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.9.3",
+      "edition_verse_id": "KJV1769:MAT.9.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "And, behold, certain of the scribes said within themselves, This ",
+          "kind": "text"
+        },
+        {
+          "text": "man",
+          "kind": "supplied"
+        },
+        {
+          "text": " blasphemeth.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.9.4",
+      "edition_verse_id": "KJV1769:MAT.9.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "And Jesus knowing their thoughts said, Wherefore think ye evil in your hearts?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.9.5",
+      "edition_verse_id": "KJV1769:MAT.9.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "For whether is easier, to say, ",
+          "kind": "text"
+        },
+        {
+          "text": "Thy",
+          "kind": "supplied"
+        },
+        {
+          "text": " sins be forgiven thee; or to say, Arise, and walk?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.9.6",
+      "edition_verse_id": "KJV1769:MAT.9.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "But that ye may know that the Son of man hath power on earth to forgive sins, (then saith he to the sick of the palsy,) Arise, take up thy bed, and go unto thine house.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.9.7",
+      "edition_verse_id": "KJV1769:MAT.9.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "And he arose, and departed to his house.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.9.8",
+      "edition_verse_id": "KJV1769:MAT.9.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "But when the multitudes saw ",
+          "kind": "text"
+        },
+        {
+          "text": "it",
+          "kind": "supplied"
+        },
+        {
+          "text": ", they marvelled, and glorified God, which had given such power unto men.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.9.9",
+      "edition_verse_id": "KJV1769:MAT.9.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "¶ And as Jesus passed forth from thence, he saw a man, named Matthew, sitting at the receipt of custom: and he saith unto him, Follow me. And he arose, and followed him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MAT.9.10",
+      "edition_verse_id": "KJV1769:MAT.9.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "¶ And it came to pass, as Jesus sat at meat in the house, behold, many publicans and sinners came and sat down with him and his disciples.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MAT.9.11",
+      "edition_verse_id": "KJV1769:MAT.9.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "And when the Pharisees saw ",
+          "kind": "text"
+        },
+        {
+          "text": "it",
+          "kind": "supplied"
+        },
+        {
+          "text": ", they said unto his disciples, Why eateth your Master with publicans and sinners?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.9.12",
+      "edition_verse_id": "KJV1769:MAT.9.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "But when Jesus heard ",
+          "kind": "text"
+        },
+        {
+          "text": "that",
+          "kind": "supplied"
+        },
+        {
+          "text": ", he said unto them, They that be whole need not a physician, but they that are sick.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.9.13",
+      "edition_verse_id": "KJV1769:MAT.9.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "But go ye and learn what ",
+          "kind": "text"
+        },
+        {
+          "text": "that",
+          "kind": "supplied"
+        },
+        {
+          "text": " meaneth, I will have mercy, and not sacrifice: for I am not come to call the righteous, but sinners to repentance.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.9.14",
+      "edition_verse_id": "KJV1769:MAT.9.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "¶ Then came to him the disciples of John, saying, Why do we and the Pharisees fast oft, but thy disciples fast not?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MAT.9.15",
+      "edition_verse_id": "KJV1769:MAT.9.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "And Jesus said unto them, Can the children of the bridechamber mourn, as long as the bridegroom is with them? but the days will come, when the bridegroom shall be taken from them, and then shall they fast.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.9.16",
+      "edition_verse_id": "KJV1769:MAT.9.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "No man putteth a piece of new cloth unto an old garment, for that which is put in to fill it up taketh from the garment, and the rent is made worse.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.9.17",
+      "edition_verse_id": "KJV1769:MAT.9.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "Neither do men put new wine into old bottles: else the bottles break, and the wine runneth out, and the bottles perish: but they put new wine into new bottles, and both are preserved.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.9.18",
+      "edition_verse_id": "KJV1769:MAT.9.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "¶ While he spake these things unto them, behold, there came a certain ruler, and worshipped him, saying, My daughter is even now dead: but come and lay thy hand upon her, and she shall live.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MAT.9.19",
+      "edition_verse_id": "KJV1769:MAT.9.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "And Jesus arose, and followed him, and ",
+          "kind": "text"
+        },
+        {
+          "text": "so did",
+          "kind": "supplied"
+        },
+        {
+          "text": " his disciples.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.9.20",
+      "edition_verse_id": "KJV1769:MAT.9.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "¶ And, behold, a woman, which was diseased with an issue of blood twelve years, came behind ",
+          "kind": "text"
+        },
+        {
+          "text": "him",
+          "kind": "supplied"
+        },
+        {
+          "text": ", and touched the hem of his garment:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MAT.9.21",
+      "edition_verse_id": "KJV1769:MAT.9.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "For she said within herself, If I may but touch his garment, I shall be whole.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.9.22",
+      "edition_verse_id": "KJV1769:MAT.9.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "But Jesus turned him about, and when he saw her, he said, Daughter, be of good comfort; thy faith hath made thee whole. And the woman was made whole from that hour.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.9.23",
+      "edition_verse_id": "KJV1769:MAT.9.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "And when Jesus came into the ruler’s house, and saw the minstrels and the people making a noise,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.9.24",
+      "edition_verse_id": "KJV1769:MAT.9.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "He said unto them, Give place: for the maid is not dead, but sleepeth. And they laughed him to scorn.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.9.25",
+      "edition_verse_id": "KJV1769:MAT.9.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "But when the people were put forth, he went in, and took her by the hand, and the maid arose.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.9.26",
+      "edition_verse_id": "KJV1769:MAT.9.26",
+      "verse": 26,
+      "spans": [
+        {
+          "text": "And the fame hereof went abroad into all that land.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.9.27",
+      "edition_verse_id": "KJV1769:MAT.9.27",
+      "verse": 27,
+      "spans": [
+        {
+          "text": "¶ And when Jesus departed thence, two blind men followed him, crying, and saying, ",
+          "kind": "text"
+        },
+        {
+          "text": "Thou",
+          "kind": "supplied"
+        },
+        {
+          "text": " Son of David, have mercy on us.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MAT.9.28",
+      "edition_verse_id": "KJV1769:MAT.9.28",
+      "verse": 28,
+      "spans": [
+        {
+          "text": "And when he was come into the house, the blind men came to him: and Jesus saith unto them, Believe ye that I am able to do this? They said unto him, Yea, Lord.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.9.29",
+      "edition_verse_id": "KJV1769:MAT.9.29",
+      "verse": 29,
+      "spans": [
+        {
+          "text": "Then touched he their eyes, saying, According to your faith be it unto you.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.9.30",
+      "edition_verse_id": "KJV1769:MAT.9.30",
+      "verse": 30,
+      "spans": [
+        {
+          "text": "And their eyes were opened; and Jesus straitly charged them, saying, See ",
+          "kind": "text"
+        },
+        {
+          "text": "that",
+          "kind": "supplied"
+        },
+        {
+          "text": " no man know ",
+          "kind": "text"
+        },
+        {
+          "text": "it",
+          "kind": "supplied"
+        },
+        {
+          "text": ".",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.9.31",
+      "edition_verse_id": "KJV1769:MAT.9.31",
+      "verse": 31,
+      "spans": [
+        {
+          "text": "But they, when they were departed, spread abroad his fame in all that country.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.9.32",
+      "edition_verse_id": "KJV1769:MAT.9.32",
+      "verse": 32,
+      "spans": [
+        {
+          "text": "¶ As they went out, behold, they brought to him a dumb man possessed with a devil.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MAT.9.33",
+      "edition_verse_id": "KJV1769:MAT.9.33",
+      "verse": 33,
+      "spans": [
+        {
+          "text": "And when the devil was cast out, the dumb spake: and the multitudes marvelled, saying, It was never so seen in Israel.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.9.34",
+      "edition_verse_id": "KJV1769:MAT.9.34",
+      "verse": 34,
+      "spans": [
+        {
+          "text": "But the Pharisees said, He casteth out devils through the prince of the devils.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.9.35",
+      "edition_verse_id": "KJV1769:MAT.9.35",
+      "verse": 35,
+      "spans": [
+        {
+          "text": "And Jesus went about all the cities and villages, teaching in their synagogues, and preaching the gospel of the kingdom, and healing every sickness and every disease among the people.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.9.36",
+      "edition_verse_id": "KJV1769:MAT.9.36",
+      "verse": 36,
+      "spans": [
+        {
+          "text": "¶ But when he saw the multitudes, he was moved with compassion on them, because they fainted, and were scattered abroad, as sheep having no shepherd.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MAT.9.37",
+      "edition_verse_id": "KJV1769:MAT.9.37",
+      "verse": 37,
+      "spans": [
+        {
+          "text": "Then saith he unto his disciples, The harvest truly ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " plenteous, but the labourers ",
+          "kind": "text"
+        },
+        {
+          "text": "are",
+          "kind": "supplied"
+        },
+        {
+          "text": " few;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.9.38",
+      "edition_verse_id": "KJV1769:MAT.9.38",
+      "verse": 38,
+      "spans": [
+        {
+          "text": "Pray ye therefore the Lord of the harvest, that he will send forth labourers into his harvest.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

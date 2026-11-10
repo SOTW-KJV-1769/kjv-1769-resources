@@ -1,0 +1,608 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "KJV1769",
+  "book_code": "MRK",
+  "chapter": 13,
+  "verses": [
+    {
+      "id": "MRK.13.1",
+      "edition_verse_id": "KJV1769:MRK.13.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "And as he went out of the temple, one of his disciples saith unto him, Master, see what manner of stones and what buildings ",
+          "kind": "text"
+        },
+        {
+          "text": "are here",
+          "kind": "supplied"
+        },
+        {
+          "text": "!",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MRK.13.2",
+      "edition_verse_id": "KJV1769:MRK.13.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "And Jesus answering said unto him, Seest thou these great buildings? there shall not be left one stone upon another, that shall not be thrown down.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.13.3",
+      "edition_verse_id": "KJV1769:MRK.13.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "And as he sat upon the mount of Olives over against the temple, Peter and James and John and Andrew asked him privately,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.13.4",
+      "edition_verse_id": "KJV1769:MRK.13.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "Tell us, when shall these things be? and what ",
+          "kind": "text"
+        },
+        {
+          "text": "shall be",
+          "kind": "supplied"
+        },
+        {
+          "text": " the sign when all these things shall be fulfilled?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.13.5",
+      "edition_verse_id": "KJV1769:MRK.13.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "And Jesus answering them began to say, Take heed lest any ",
+          "kind": "text"
+        },
+        {
+          "text": "man",
+          "kind": "supplied"
+        },
+        {
+          "text": " deceive you:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.13.6",
+      "edition_verse_id": "KJV1769:MRK.13.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "For many shall come in my name, saying, I am ",
+          "kind": "text"
+        },
+        {
+          "text": "Christ",
+          "kind": "supplied"
+        },
+        {
+          "text": "; and shall deceive many.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.13.7",
+      "edition_verse_id": "KJV1769:MRK.13.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "And when ye shall hear of wars and rumours of wars, be ye not troubled: for ",
+          "kind": "text"
+        },
+        {
+          "text": "such things",
+          "kind": "supplied"
+        },
+        {
+          "text": " must needs be; but the end ",
+          "kind": "text"
+        },
+        {
+          "text": "shall",
+          "kind": "supplied"
+        },
+        {
+          "text": " not ",
+          "kind": "text"
+        },
+        {
+          "text": "be",
+          "kind": "supplied"
+        },
+        {
+          "text": " yet.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.13.8",
+      "edition_verse_id": "KJV1769:MRK.13.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "For nation shall rise against nation, and kingdom against kingdom: and there shall be earthquakes in divers places, and there shall be famines and troubles: these ",
+          "kind": "text"
+        },
+        {
+          "text": "are",
+          "kind": "supplied"
+        },
+        {
+          "text": " the beginnings of sorrows.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.13.9",
+      "edition_verse_id": "KJV1769:MRK.13.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "¶ But take heed to yourselves: for they shall deliver you up to councils; and in the synagogues ye shall be beaten: and ye shall be brought before rulers and kings for my sake, for a testimony against them.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MRK.13.10",
+      "edition_verse_id": "KJV1769:MRK.13.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "And the gospel must first be published among all nations.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.13.11",
+      "edition_verse_id": "KJV1769:MRK.13.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "But when they shall lead ",
+          "kind": "text"
+        },
+        {
+          "text": "you",
+          "kind": "supplied"
+        },
+        {
+          "text": ", and deliver you up, take no thought beforehand what ye shall speak, neither do ye premeditate: but whatsoever shall be given you in that hour, that speak ye: for it is not ye that speak, but the Holy Ghost.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.13.12",
+      "edition_verse_id": "KJV1769:MRK.13.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "Now the brother shall betray the brother to death, and the father the son; and children shall rise up against ",
+          "kind": "text"
+        },
+        {
+          "text": "their",
+          "kind": "supplied"
+        },
+        {
+          "text": " parents, and shall cause them to be put to death.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.13.13",
+      "edition_verse_id": "KJV1769:MRK.13.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "And ye shall be hated of all ",
+          "kind": "text"
+        },
+        {
+          "text": "men",
+          "kind": "supplied"
+        },
+        {
+          "text": " for my name’s sake: but he that shall endure unto the end, the same shall be saved.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.13.14",
+      "edition_verse_id": "KJV1769:MRK.13.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "¶ But when ye shall see the abomination of desolation, spoken of by Daniel the prophet, standing where it ought not, (let him that readeth understand,) then let them that be in Judæa flee to the mountains:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MRK.13.15",
+      "edition_verse_id": "KJV1769:MRK.13.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "And let him that is on the housetop not go down into the house, neither enter ",
+          "kind": "text"
+        },
+        {
+          "text": "therein",
+          "kind": "supplied"
+        },
+        {
+          "text": ", to take any thing out of his house:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.13.16",
+      "edition_verse_id": "KJV1769:MRK.13.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "And let him that is in the field not turn back again for to take up his garment.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.13.17",
+      "edition_verse_id": "KJV1769:MRK.13.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "But woe to them that are with child, and to them that give suck in those days!",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.13.18",
+      "edition_verse_id": "KJV1769:MRK.13.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "And pray ye that your flight be not in the winter.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.13.19",
+      "edition_verse_id": "KJV1769:MRK.13.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "For ",
+          "kind": "text"
+        },
+        {
+          "text": "in",
+          "kind": "supplied"
+        },
+        {
+          "text": " those days shall be affliction, such as was not from the beginning of the creation which God created unto this time, neither shall be.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.13.20",
+      "edition_verse_id": "KJV1769:MRK.13.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "And except that the Lord had shortened those days, no flesh should be saved: but for the elect’s sake, whom he hath chosen, he hath shortened the days.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.13.21",
+      "edition_verse_id": "KJV1769:MRK.13.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "And then if any man shall say to you, Lo, here ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " Christ; or, lo, ",
+          "kind": "text"
+        },
+        {
+          "text": "he is",
+          "kind": "supplied"
+        },
+        {
+          "text": " there; believe ",
+          "kind": "text"
+        },
+        {
+          "text": "him",
+          "kind": "supplied"
+        },
+        {
+          "text": " not:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.13.22",
+      "edition_verse_id": "KJV1769:MRK.13.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "For false Christs and false prophets shall rise, and shall shew signs and wonders, to seduce, if ",
+          "kind": "text"
+        },
+        {
+          "text": "it were",
+          "kind": "supplied"
+        },
+        {
+          "text": " possible, even the elect.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.13.23",
+      "edition_verse_id": "KJV1769:MRK.13.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "But take ye heed: behold, I have foretold you all things.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.13.24",
+      "edition_verse_id": "KJV1769:MRK.13.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "¶ But in those days, after that tribulation, the sun shall be darkened, and the moon shall not give her light,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MRK.13.25",
+      "edition_verse_id": "KJV1769:MRK.13.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "And the stars of heaven shall fall, and the powers that are in heaven shall be shaken.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.13.26",
+      "edition_verse_id": "KJV1769:MRK.13.26",
+      "verse": 26,
+      "spans": [
+        {
+          "text": "And then shall they see the Son of man coming in the clouds with great power and glory.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.13.27",
+      "edition_verse_id": "KJV1769:MRK.13.27",
+      "verse": 27,
+      "spans": [
+        {
+          "text": "And then shall he send his angels, and shall gather together his elect from the four winds, from the uttermost part of the earth to the uttermost part of heaven.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.13.28",
+      "edition_verse_id": "KJV1769:MRK.13.28",
+      "verse": 28,
+      "spans": [
+        {
+          "text": "Now learn a parable of the fig tree; When her branch is yet tender, and putteth forth leaves, ye know that summer is near:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.13.29",
+      "edition_verse_id": "KJV1769:MRK.13.29",
+      "verse": 29,
+      "spans": [
+        {
+          "text": "So ye in like manner, when ye shall see these things come to pass, know that it is nigh, ",
+          "kind": "text"
+        },
+        {
+          "text": "even",
+          "kind": "supplied"
+        },
+        {
+          "text": " at the doors.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.13.30",
+      "edition_verse_id": "KJV1769:MRK.13.30",
+      "verse": 30,
+      "spans": [
+        {
+          "text": "Verily I say unto you, that this generation shall not pass, till all these things be done.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.13.31",
+      "edition_verse_id": "KJV1769:MRK.13.31",
+      "verse": 31,
+      "spans": [
+        {
+          "text": "Heaven and earth shall pass away: but my words shall not pass away.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.13.32",
+      "edition_verse_id": "KJV1769:MRK.13.32",
+      "verse": 32,
+      "spans": [
+        {
+          "text": "¶ But of that day and ",
+          "kind": "text"
+        },
+        {
+          "text": "that",
+          "kind": "supplied"
+        },
+        {
+          "text": " hour knoweth no man, no, not the angels which are in heaven, neither the Son, but the Father.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MRK.13.33",
+      "edition_verse_id": "KJV1769:MRK.13.33",
+      "verse": 33,
+      "spans": [
+        {
+          "text": "Take ye heed, watch and pray: for ye know not when the time is.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.13.34",
+      "edition_verse_id": "KJV1769:MRK.13.34",
+      "verse": 34,
+      "spans": [
+        {
+          "text": "For the Son of man is",
+          "kind": "supplied"
+        },
+        {
+          "text": " as a man taking a far journey, who left his house, and gave authority to his servants, and to every man his work, and commanded the porter to watch.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.13.35",
+      "edition_verse_id": "KJV1769:MRK.13.35",
+      "verse": 35,
+      "spans": [
+        {
+          "text": "Watch ye therefore: for ye know not when the master of the house cometh, at even, or at midnight, or at the cockcrowing, or in the morning:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.13.36",
+      "edition_verse_id": "KJV1769:MRK.13.36",
+      "verse": 36,
+      "spans": [
+        {
+          "text": "Lest coming suddenly he find you sleeping.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.13.37",
+      "edition_verse_id": "KJV1769:MRK.13.37",
+      "verse": 37,
+      "spans": [
+        {
+          "text": "And what I say unto you I say unto all, Watch.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

@@ -1,0 +1,724 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "KJV1769",
+  "book_code": "MAT",
+  "chapter": 22,
+  "verses": [
+    {
+      "id": "MAT.22.1",
+      "edition_verse_id": "KJV1769:MAT.22.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "And Jesus answered and spake unto them again by parables, and said,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MAT.22.2",
+      "edition_verse_id": "KJV1769:MAT.22.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "The kingdom of heaven is like unto a certain king, which made a marriage for his son,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.22.3",
+      "edition_verse_id": "KJV1769:MAT.22.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "And sent forth his servants to call them that were bidden to the wedding: and they would not come.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.22.4",
+      "edition_verse_id": "KJV1769:MAT.22.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "Again, he sent forth other servants, saying, Tell them which are bidden, Behold, I have prepared my dinner: my oxen and ",
+          "kind": "text"
+        },
+        {
+          "text": "my",
+          "kind": "supplied"
+        },
+        {
+          "text": " fatlings ",
+          "kind": "text"
+        },
+        {
+          "text": "are",
+          "kind": "supplied"
+        },
+        {
+          "text": " killed, and all things ",
+          "kind": "text"
+        },
+        {
+          "text": "are",
+          "kind": "supplied"
+        },
+        {
+          "text": " ready: come unto the marriage.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.22.5",
+      "edition_verse_id": "KJV1769:MAT.22.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "But they made light of ",
+          "kind": "text"
+        },
+        {
+          "text": "it",
+          "kind": "supplied"
+        },
+        {
+          "text": ", and went their ways, one to his farm, another to his merchandise:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.22.6",
+      "edition_verse_id": "KJV1769:MAT.22.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "And the remnant took his servants, and entreated them spitefully, and slew ",
+          "kind": "text"
+        },
+        {
+          "text": "them",
+          "kind": "supplied"
+        },
+        {
+          "text": ".",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.22.7",
+      "edition_verse_id": "KJV1769:MAT.22.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "But when the king heard ",
+          "kind": "text"
+        },
+        {
+          "text": "thereof",
+          "kind": "supplied"
+        },
+        {
+          "text": ", he was wroth: and he sent forth his armies, and destroyed those murderers, and burned up their city.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.22.8",
+      "edition_verse_id": "KJV1769:MAT.22.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "Then saith he to his servants, The wedding is ready, but they which were bidden were not worthy.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.22.9",
+      "edition_verse_id": "KJV1769:MAT.22.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "Go ye therefore into the highways, and as many as ye shall find, bid to the marriage.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.22.10",
+      "edition_verse_id": "KJV1769:MAT.22.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "So those servants went out into the highways, and gathered together all as many as they found, both bad and good: and the wedding was furnished with guests.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.22.11",
+      "edition_verse_id": "KJV1769:MAT.22.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "¶ And when the king came in to see the guests, he saw there a man which had not on a wedding garment:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MAT.22.12",
+      "edition_verse_id": "KJV1769:MAT.22.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "And he saith unto him, Friend, how camest thou in hither not having a wedding garment? And he was speechless.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.22.13",
+      "edition_verse_id": "KJV1769:MAT.22.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "Then said the king to the servants, Bind him hand and foot, and take him away, and cast ",
+          "kind": "text"
+        },
+        {
+          "text": "him",
+          "kind": "supplied"
+        },
+        {
+          "text": " into outer darkness; there shall be weeping and gnashing of teeth.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.22.14",
+      "edition_verse_id": "KJV1769:MAT.22.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "For many are called, but few ",
+          "kind": "text"
+        },
+        {
+          "text": "are",
+          "kind": "supplied"
+        },
+        {
+          "text": " chosen.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.22.15",
+      "edition_verse_id": "KJV1769:MAT.22.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "¶ Then went the Pharisees, and took counsel how they might entangle him in ",
+          "kind": "text"
+        },
+        {
+          "text": "his",
+          "kind": "supplied"
+        },
+        {
+          "text": " talk.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MAT.22.16",
+      "edition_verse_id": "KJV1769:MAT.22.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "And they sent out unto him their disciples with the Herodians, saying, Master, we know that thou art true, and teachest the way of God in truth, neither carest thou for any ",
+          "kind": "text"
+        },
+        {
+          "text": "man",
+          "kind": "supplied"
+        },
+        {
+          "text": ": for thou regardest not the person of men.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.22.17",
+      "edition_verse_id": "KJV1769:MAT.22.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "Tell us therefore, What thinkest thou? Is it lawful to give tribute unto Caesar, or not?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.22.18",
+      "edition_verse_id": "KJV1769:MAT.22.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "But Jesus perceived their wickedness, and said, Why tempt ye me, ",
+          "kind": "text"
+        },
+        {
+          "text": "ye",
+          "kind": "supplied"
+        },
+        {
+          "text": " hypocrites?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.22.19",
+      "edition_verse_id": "KJV1769:MAT.22.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "Shew me the tribute money. And they brought unto him a penny.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.22.20",
+      "edition_verse_id": "KJV1769:MAT.22.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "And he saith unto them, Whose ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " this image and superscription?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.22.21",
+      "edition_verse_id": "KJV1769:MAT.22.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "They say unto him, Cæsar’s. Then saith he unto them, Render therefore unto Cæsar the things which are Cæsar’s; and unto God the things that are God’s.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.22.22",
+      "edition_verse_id": "KJV1769:MAT.22.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "When they had heard ",
+          "kind": "text"
+        },
+        {
+          "text": "these words",
+          "kind": "supplied"
+        },
+        {
+          "text": ", they marvelled, and left him, and went their way.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.22.23",
+      "edition_verse_id": "KJV1769:MAT.22.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "¶ The same day came to him the Sadducees, which say that there is no resurrection, and asked him,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MAT.22.24",
+      "edition_verse_id": "KJV1769:MAT.22.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "Saying, Master, Moses said, If a man die, having no children, his brother shall marry his wife, and raise up seed unto his brother.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.22.25",
+      "edition_verse_id": "KJV1769:MAT.22.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "Now there were with us seven brethren: and the first, when he had married a wife, deceased, and, having no issue, left his wife unto his brother:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.22.26",
+      "edition_verse_id": "KJV1769:MAT.22.26",
+      "verse": 26,
+      "spans": [
+        {
+          "text": "Likewise the second also, and the third, unto the seventh.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.22.27",
+      "edition_verse_id": "KJV1769:MAT.22.27",
+      "verse": 27,
+      "spans": [
+        {
+          "text": "And last of all the woman died also.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.22.28",
+      "edition_verse_id": "KJV1769:MAT.22.28",
+      "verse": 28,
+      "spans": [
+        {
+          "text": "Therefore in the resurrection whose wife shall she be of the seven? for they all had her.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.22.29",
+      "edition_verse_id": "KJV1769:MAT.22.29",
+      "verse": 29,
+      "spans": [
+        {
+          "text": "Jesus answered and said unto them, Ye do err, not knowing the scriptures, nor the power of God.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.22.30",
+      "edition_verse_id": "KJV1769:MAT.22.30",
+      "verse": 30,
+      "spans": [
+        {
+          "text": "For in the resurrection they neither marry, nor are given in marriage, but are as the angels of God in heaven.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.22.31",
+      "edition_verse_id": "KJV1769:MAT.22.31",
+      "verse": 31,
+      "spans": [
+        {
+          "text": "But as touching the resurrection of the dead, have ye not read that which was spoken unto you by God, saying,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.22.32",
+      "edition_verse_id": "KJV1769:MAT.22.32",
+      "verse": 32,
+      "spans": [
+        {
+          "text": "I am the God of Abraham, and the God of Isaac, and the God of Jacob? God is not the God of the dead, but of the living.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.22.33",
+      "edition_verse_id": "KJV1769:MAT.22.33",
+      "verse": 33,
+      "spans": [
+        {
+          "text": "And when the multitude heard ",
+          "kind": "text"
+        },
+        {
+          "text": "this",
+          "kind": "supplied"
+        },
+        {
+          "text": ", they were astonished at his doctrine.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.22.34",
+      "edition_verse_id": "KJV1769:MAT.22.34",
+      "verse": 34,
+      "spans": [
+        {
+          "text": "¶ But when the Pharisees had heard that he had put the Sadducees to silence, they were gathered together.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MAT.22.35",
+      "edition_verse_id": "KJV1769:MAT.22.35",
+      "verse": 35,
+      "spans": [
+        {
+          "text": "Then one of them, ",
+          "kind": "text"
+        },
+        {
+          "text": "which was",
+          "kind": "supplied"
+        },
+        {
+          "text": " a lawyer, asked ",
+          "kind": "text"
+        },
+        {
+          "text": "him a question",
+          "kind": "supplied"
+        },
+        {
+          "text": ", tempting him, and saying,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.22.36",
+      "edition_verse_id": "KJV1769:MAT.22.36",
+      "verse": 36,
+      "spans": [
+        {
+          "text": "Master, which ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " the great commandment in the law?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.22.37",
+      "edition_verse_id": "KJV1769:MAT.22.37",
+      "verse": 37,
+      "spans": [
+        {
+          "text": "Jesus said unto him, Thou shalt love the Lord thy God with all thy heart, and with all thy soul, and with all thy mind.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.22.38",
+      "edition_verse_id": "KJV1769:MAT.22.38",
+      "verse": 38,
+      "spans": [
+        {
+          "text": "This is the first and great commandment.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.22.39",
+      "edition_verse_id": "KJV1769:MAT.22.39",
+      "verse": 39,
+      "spans": [
+        {
+          "text": "And the second ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " like unto it, Thou shalt love thy neighbour as thyself.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.22.40",
+      "edition_verse_id": "KJV1769:MAT.22.40",
+      "verse": 40,
+      "spans": [
+        {
+          "text": "On these two commandments hang all the law and the prophets.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.22.41",
+      "edition_verse_id": "KJV1769:MAT.22.41",
+      "verse": 41,
+      "spans": [
+        {
+          "text": "¶ While the Pharisees were gathered together, Jesus asked them,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MAT.22.42",
+      "edition_verse_id": "KJV1769:MAT.22.42",
+      "verse": 42,
+      "spans": [
+        {
+          "text": "Saying, What think ye of Christ? whose son is he? They say unto him, ",
+          "kind": "text"
+        },
+        {
+          "text": "The Son",
+          "kind": "supplied"
+        },
+        {
+          "text": " of David.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.22.43",
+      "edition_verse_id": "KJV1769:MAT.22.43",
+      "verse": 43,
+      "spans": [
+        {
+          "text": "He saith unto them, How then doth David in spirit call him Lord, saying,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.22.44",
+      "edition_verse_id": "KJV1769:MAT.22.44",
+      "verse": 44,
+      "spans": [
+        {
+          "text": "The LORD said unto my Lord, Sit thou on my right hand, till I make thine enemies thy footstool?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.22.45",
+      "edition_verse_id": "KJV1769:MAT.22.45",
+      "verse": 45,
+      "spans": [
+        {
+          "text": "If David then call him Lord, how is he his son?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.22.46",
+      "edition_verse_id": "KJV1769:MAT.22.46",
+      "verse": 46,
+      "spans": [
+        {
+          "text": "And no man was able to answer him a word, neither durst any ",
+          "kind": "text"
+        },
+        {
+          "text": "man",
+          "kind": "supplied"
+        },
+        {
+          "text": " from that day forth ask him any more ",
+          "kind": "text"
+        },
+        {
+          "text": "questions.",
+          "kind": "supplied"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

@@ -1,0 +1,756 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "KJV1769",
+  "book_code": "MRK",
+  "chapter": 10,
+  "verses": [
+    {
+      "id": "MRK.10.1",
+      "edition_verse_id": "KJV1769:MRK.10.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "And he arose from thence, and cometh into the coasts of Judæa by the farther side of Jordan: and the people resort unto him again; and, as he was wont, he taught them again.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MRK.10.2",
+      "edition_verse_id": "KJV1769:MRK.10.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "¶ And the Pharisees came to him, and asked him, Is it lawful for a man to put away ",
+          "kind": "text"
+        },
+        {
+          "text": "his",
+          "kind": "supplied"
+        },
+        {
+          "text": " wife? tempting him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MRK.10.3",
+      "edition_verse_id": "KJV1769:MRK.10.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "And he answered and said unto them, What did Moses command you?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.10.4",
+      "edition_verse_id": "KJV1769:MRK.10.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "And they said, Moses suffered to write a bill of divorcement, and to put her away.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.10.5",
+      "edition_verse_id": "KJV1769:MRK.10.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "And Jesus answered and said unto them, For the hardness of your heart he wrote you this precept.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.10.6",
+      "edition_verse_id": "KJV1769:MRK.10.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "But from the beginning of the creation God made them male and female.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.10.7",
+      "edition_verse_id": "KJV1769:MRK.10.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "For this cause shall a man leave his father and mother, and cleave to his wife;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.10.8",
+      "edition_verse_id": "KJV1769:MRK.10.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "And they twain shall be one flesh: so then they are no more twain, but one flesh.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.10.9",
+      "edition_verse_id": "KJV1769:MRK.10.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "What therefore God hath joined together, let not man put asunder.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.10.10",
+      "edition_verse_id": "KJV1769:MRK.10.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "And in the house his disciples asked him again of the same ",
+          "kind": "text"
+        },
+        {
+          "text": "matter",
+          "kind": "supplied"
+        },
+        {
+          "text": ".",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.10.11",
+      "edition_verse_id": "KJV1769:MRK.10.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "And he saith unto them, Whosoever shall put away his wife, and marry another, committeth adultery against her.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.10.12",
+      "edition_verse_id": "KJV1769:MRK.10.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "And if a woman shall put away her husband, and be married to another, she committeth adultery.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.10.13",
+      "edition_verse_id": "KJV1769:MRK.10.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "¶ And they brought young children to him, that he should touch them: and ",
+          "kind": "text"
+        },
+        {
+          "text": "his",
+          "kind": "supplied"
+        },
+        {
+          "text": " disciples rebuked those that brought ",
+          "kind": "text"
+        },
+        {
+          "text": "them",
+          "kind": "supplied"
+        },
+        {
+          "text": ".",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MRK.10.14",
+      "edition_verse_id": "KJV1769:MRK.10.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "But when Jesus saw ",
+          "kind": "text"
+        },
+        {
+          "text": "it",
+          "kind": "supplied"
+        },
+        {
+          "text": ", he was much displeased, and said unto them, Suffer the little children to come unto me, and forbid them not: for of such is the kingdom of God.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.10.15",
+      "edition_verse_id": "KJV1769:MRK.10.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "Verily I say unto you, Whosoever shall not receive the kingdom of God as a little child, he shall not enter therein.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.10.16",
+      "edition_verse_id": "KJV1769:MRK.10.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "And he took them up in his arms, put ",
+          "kind": "text"
+        },
+        {
+          "text": "his",
+          "kind": "supplied"
+        },
+        {
+          "text": " hands upon them, and blessed them.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.10.17",
+      "edition_verse_id": "KJV1769:MRK.10.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "¶ And when he was gone forth into the way, there came one running, and kneeled to him, and asked him, Good Master, what shall I do that I may inherit eternal life?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MRK.10.18",
+      "edition_verse_id": "KJV1769:MRK.10.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "And Jesus said unto him, Why callest thou me good? ",
+          "kind": "text"
+        },
+        {
+          "text": "there is",
+          "kind": "supplied"
+        },
+        {
+          "text": " none good but one, ",
+          "kind": "text"
+        },
+        {
+          "text": "that is",
+          "kind": "supplied"
+        },
+        {
+          "text": ", God.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.10.19",
+      "edition_verse_id": "KJV1769:MRK.10.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "Thou knowest the commandments, Do not commit adultery, Do not kill, Do not steal, Do not bear false witness, Defraud not, Honour thy father and mother.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.10.20",
+      "edition_verse_id": "KJV1769:MRK.10.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "And he answered and said unto him, Master, all these have I observed from my youth.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.10.21",
+      "edition_verse_id": "KJV1769:MRK.10.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "Then Jesus beholding him loved him, and said unto him, One thing thou lackest: go thy way, sell whatsoever thou hast, and give to the poor, and thou shalt have treasure in heaven: and come, take up the cross, and follow me.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.10.22",
+      "edition_verse_id": "KJV1769:MRK.10.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "And he was sad at that saying, and went away grieved: for he had great possessions.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.10.23",
+      "edition_verse_id": "KJV1769:MRK.10.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "¶ And Jesus looked round about, and saith unto his disciples, How hardly shall they that have riches enter into the kingdom of God!",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MRK.10.24",
+      "edition_verse_id": "KJV1769:MRK.10.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "And the disciples were astonished at his words. But Jesus answereth again, and saith unto them, Children, how hard is it for them that trust in riches to enter into the kingdom of God!",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.10.25",
+      "edition_verse_id": "KJV1769:MRK.10.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "It is easier for a camel to go through the eye of a needle, than for a rich man to enter into the kingdom of God.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.10.26",
+      "edition_verse_id": "KJV1769:MRK.10.26",
+      "verse": 26,
+      "spans": [
+        {
+          "text": "And they were astonished out of measure, saying among themselves, Who then can be saved?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.10.27",
+      "edition_verse_id": "KJV1769:MRK.10.27",
+      "verse": 27,
+      "spans": [
+        {
+          "text": "And Jesus looking upon them saith, With men ",
+          "kind": "text"
+        },
+        {
+          "text": "it is",
+          "kind": "supplied"
+        },
+        {
+          "text": " impossible, but not with God: for with God all things are possible.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.10.28",
+      "edition_verse_id": "KJV1769:MRK.10.28",
+      "verse": 28,
+      "spans": [
+        {
+          "text": "¶ Then Peter began to say unto him, Lo, we have left all, and have followed thee.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MRK.10.29",
+      "edition_verse_id": "KJV1769:MRK.10.29",
+      "verse": 29,
+      "spans": [
+        {
+          "text": "And Jesus answered and said, Verily I say unto you, There is no man that hath left house, or brethren, or sisters, or father, or mother, or wife, or children, or lands, for my sake, and the gospel’s,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.10.30",
+      "edition_verse_id": "KJV1769:MRK.10.30",
+      "verse": 30,
+      "spans": [
+        {
+          "text": "But he shall receive an hundredfold now in this time, houses, and brethren, and sisters, and mothers, and children, and lands, with persecutions; and in the world to come eternal life.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.10.31",
+      "edition_verse_id": "KJV1769:MRK.10.31",
+      "verse": 31,
+      "spans": [
+        {
+          "text": "But many ",
+          "kind": "text"
+        },
+        {
+          "text": "that are",
+          "kind": "supplied"
+        },
+        {
+          "text": " first shall be last; and the last first.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.10.32",
+      "edition_verse_id": "KJV1769:MRK.10.32",
+      "verse": 32,
+      "spans": [
+        {
+          "text": "¶ And they were in the way going up to Jerusalem; and Jesus went before them: and they were amazed; and as they followed, they were afraid. And he took again the twelve, and began to tell them what things should happen unto him,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MRK.10.33",
+      "edition_verse_id": "KJV1769:MRK.10.33",
+      "verse": 33,
+      "spans": [
+        {
+          "text": "Saying",
+          "kind": "supplied"
+        },
+        {
+          "text": ", Behold, we go up to Jerusalem; and the Son of man shall be delivered unto the chief priests, and unto the scribes; and they shall condemn him to death, and shall deliver him to the Gentiles:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.10.34",
+      "edition_verse_id": "KJV1769:MRK.10.34",
+      "verse": 34,
+      "spans": [
+        {
+          "text": "And they shall mock him, and shall scourge him, and shall spit upon him, and shall kill him: and the third day he shall rise again.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.10.35",
+      "edition_verse_id": "KJV1769:MRK.10.35",
+      "verse": 35,
+      "spans": [
+        {
+          "text": "¶ And James and John, the sons of Zebedee, come unto him, saying, Master, we would that thou shouldest do for us whatsoever we shall desire.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MRK.10.36",
+      "edition_verse_id": "KJV1769:MRK.10.36",
+      "verse": 36,
+      "spans": [
+        {
+          "text": "And he said unto them, What would ye that I should do for you?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.10.37",
+      "edition_verse_id": "KJV1769:MRK.10.37",
+      "verse": 37,
+      "spans": [
+        {
+          "text": "They said unto him, Grant unto us that we may sit, one on thy right hand, and the other on thy left hand, in thy glory.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.10.38",
+      "edition_verse_id": "KJV1769:MRK.10.38",
+      "verse": 38,
+      "spans": [
+        {
+          "text": "But Jesus said unto them, Ye know not what ye ask: can ye drink of the cup that I drink of? and be baptized with the baptism that I am baptized with?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.10.39",
+      "edition_verse_id": "KJV1769:MRK.10.39",
+      "verse": 39,
+      "spans": [
+        {
+          "text": "And they said unto him, We can. And Jesus said unto them, Ye shall indeed drink of the cup that I drink of; and with the baptism that I am baptized withal shall ye be baptized:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.10.40",
+      "edition_verse_id": "KJV1769:MRK.10.40",
+      "verse": 40,
+      "spans": [
+        {
+          "text": "But to sit on my right hand and on my left hand is not mine to give; but ",
+          "kind": "text"
+        },
+        {
+          "text": "it shall be given to them",
+          "kind": "supplied"
+        },
+        {
+          "text": " for whom it is prepared.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.10.41",
+      "edition_verse_id": "KJV1769:MRK.10.41",
+      "verse": 41,
+      "spans": [
+        {
+          "text": "And when the ten heard ",
+          "kind": "text"
+        },
+        {
+          "text": "it",
+          "kind": "supplied"
+        },
+        {
+          "text": ", they began to be much displeased with James and John.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.10.42",
+      "edition_verse_id": "KJV1769:MRK.10.42",
+      "verse": 42,
+      "spans": [
+        {
+          "text": "But Jesus called them ",
+          "kind": "text"
+        },
+        {
+          "text": "to him",
+          "kind": "supplied"
+        },
+        {
+          "text": ", and saith unto them, Ye know that they which are accounted to rule over the Gentiles exercise lordship over them; and their great ones exercise authority upon them.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.10.43",
+      "edition_verse_id": "KJV1769:MRK.10.43",
+      "verse": 43,
+      "spans": [
+        {
+          "text": "But so shall it not be among you: but whosoever will be great among you, shall be your minister:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.10.44",
+      "edition_verse_id": "KJV1769:MRK.10.44",
+      "verse": 44,
+      "spans": [
+        {
+          "text": "And whosoever of you will be the chiefest, shall be servant of all.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.10.45",
+      "edition_verse_id": "KJV1769:MRK.10.45",
+      "verse": 45,
+      "spans": [
+        {
+          "text": "For even the Son of man came not to be ministered unto, but to minister, and to give his life a ransom for many.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.10.46",
+      "edition_verse_id": "KJV1769:MRK.10.46",
+      "verse": 46,
+      "spans": [
+        {
+          "text": "¶ And they came to Jericho: and as he went out of Jericho with his disciples and a great number of people, blind Bartimæus, the son of Timæus, sat by the highway side begging.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MRK.10.47",
+      "edition_verse_id": "KJV1769:MRK.10.47",
+      "verse": 47,
+      "spans": [
+        {
+          "text": "And when he heard that it was Jesus of Nazareth, he began to cry out, and say, Jesus, ",
+          "kind": "text"
+        },
+        {
+          "text": "thou",
+          "kind": "supplied"
+        },
+        {
+          "text": " Son of David, have mercy on me.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.10.48",
+      "edition_verse_id": "KJV1769:MRK.10.48",
+      "verse": 48,
+      "spans": [
+        {
+          "text": "And many charged him that he should hold his peace: but he cried the more a great deal, ",
+          "kind": "text"
+        },
+        {
+          "text": "Thou",
+          "kind": "supplied"
+        },
+        {
+          "text": " Son of David, have mercy on me.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.10.49",
+      "edition_verse_id": "KJV1769:MRK.10.49",
+      "verse": 49,
+      "spans": [
+        {
+          "text": "And Jesus stood still, and commanded him to be called. And they call the blind man, saying unto him, Be of good comfort, rise; he calleth thee.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.10.50",
+      "edition_verse_id": "KJV1769:MRK.10.50",
+      "verse": 50,
+      "spans": [
+        {
+          "text": "And he, casting away his garment, rose, and came to Jesus.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.10.51",
+      "edition_verse_id": "KJV1769:MRK.10.51",
+      "verse": 51,
+      "spans": [
+        {
+          "text": "And Jesus answered and said unto him, What wilt thou that I should do unto thee? The blind man said unto him, Lord, that I might receive my sight.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.10.52",
+      "edition_verse_id": "KJV1769:MRK.10.52",
+      "verse": 52,
+      "spans": [
+        {
+          "text": "And Jesus said unto him, Go thy way; thy faith hath made thee whole. And immediately he received his sight, and followed Jesus in the way.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

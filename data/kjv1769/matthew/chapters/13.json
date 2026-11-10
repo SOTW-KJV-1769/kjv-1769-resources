@@ -1,0 +1,876 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "KJV1769",
+  "book_code": "MAT",
+  "chapter": 13,
+  "verses": [
+    {
+      "id": "MAT.13.1",
+      "edition_verse_id": "KJV1769:MAT.13.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "The same day went Jesus out of the house, and sat by the sea side.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MAT.13.2",
+      "edition_verse_id": "KJV1769:MAT.13.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "And great multitudes were gathered together unto him, so that he went into a ship, and sat; and the whole multitude stood on the shore.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.13.3",
+      "edition_verse_id": "KJV1769:MAT.13.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "And he spake many things unto them in parables, saying, Behold, a sower went forth to sow;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.13.4",
+      "edition_verse_id": "KJV1769:MAT.13.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "And when he sowed, some ",
+          "kind": "text"
+        },
+        {
+          "text": "seeds",
+          "kind": "supplied"
+        },
+        {
+          "text": " fell by the way side, and the fowls came and devoured them up:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.13.5",
+      "edition_verse_id": "KJV1769:MAT.13.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "Some fell upon stony places, where they had not much earth: and forthwith they sprung up, because they had no deepness of earth:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.13.6",
+      "edition_verse_id": "KJV1769:MAT.13.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "And when the sun was up, they were scorched; and because they had no root, they withered away.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.13.7",
+      "edition_verse_id": "KJV1769:MAT.13.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "And some fell among thorns; and the thorns sprung up, and choked them:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.13.8",
+      "edition_verse_id": "KJV1769:MAT.13.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "But other fell into good ground, and brought forth fruit, some an hundredfold, some sixtyfold, some thirtyfold.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.13.9",
+      "edition_verse_id": "KJV1769:MAT.13.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "Who hath ears to hear, let him hear.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.13.10",
+      "edition_verse_id": "KJV1769:MAT.13.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "And the disciples came, and said unto him, Why speakest thou unto them in parables?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.13.11",
+      "edition_verse_id": "KJV1769:MAT.13.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "He answered and said unto them, Because it is given unto you to know the mysteries of the kingdom of heaven, but to them it is not given.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.13.12",
+      "edition_verse_id": "KJV1769:MAT.13.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "For whosoever hath, to him shall be given, and he shall have more abundance: but whosoever hath not, from him shall be taken away even that he hath.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.13.13",
+      "edition_verse_id": "KJV1769:MAT.13.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "Therefore speak I to them in parables: because they seeing see not; and hearing they hear not, neither do they understand.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.13.14",
+      "edition_verse_id": "KJV1769:MAT.13.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "And in them is fulfilled the prophecy of Esaias, which saith, By hearing ye shall hear, and shall not understand; and seeing ye shall see, and shall not perceive:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.13.15",
+      "edition_verse_id": "KJV1769:MAT.13.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "For this people’s heart is waxed gross, and ",
+          "kind": "text"
+        },
+        {
+          "text": "their",
+          "kind": "supplied"
+        },
+        {
+          "text": " ears are dull of hearing, and their eyes they have closed; lest at any time they should see with ",
+          "kind": "text"
+        },
+        {
+          "text": "their",
+          "kind": "supplied"
+        },
+        {
+          "text": " eyes, and hear with ",
+          "kind": "text"
+        },
+        {
+          "text": "their",
+          "kind": "supplied"
+        },
+        {
+          "text": " ears, and should understand with ",
+          "kind": "text"
+        },
+        {
+          "text": "their",
+          "kind": "supplied"
+        },
+        {
+          "text": " heart, and should be converted, and I should heal them.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.13.16",
+      "edition_verse_id": "KJV1769:MAT.13.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "But blessed ",
+          "kind": "text"
+        },
+        {
+          "text": "are",
+          "kind": "supplied"
+        },
+        {
+          "text": " your eyes, for they see: and your ears, for they hear.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.13.17",
+      "edition_verse_id": "KJV1769:MAT.13.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "For verily I say unto you, That many prophets and righteous ",
+          "kind": "text"
+        },
+        {
+          "text": "men",
+          "kind": "supplied"
+        },
+        {
+          "text": " have desired to see ",
+          "kind": "text"
+        },
+        {
+          "text": "those things",
+          "kind": "supplied"
+        },
+        {
+          "text": " which ye see, and have not seen ",
+          "kind": "text"
+        },
+        {
+          "text": "them",
+          "kind": "supplied"
+        },
+        {
+          "text": "; and to hear ",
+          "kind": "text"
+        },
+        {
+          "text": "those things",
+          "kind": "supplied"
+        },
+        {
+          "text": " which ye hear, and have not heard ",
+          "kind": "text"
+        },
+        {
+          "text": "them.",
+          "kind": "supplied"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.13.18",
+      "edition_verse_id": "KJV1769:MAT.13.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "¶ Hear ye therefore the parable of the sower.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MAT.13.19",
+      "edition_verse_id": "KJV1769:MAT.13.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "When any one heareth the word of the kingdom, and understandeth ",
+          "kind": "text"
+        },
+        {
+          "text": "it",
+          "kind": "supplied"
+        },
+        {
+          "text": " not, then cometh the wicked ",
+          "kind": "text"
+        },
+        {
+          "text": "one",
+          "kind": "supplied"
+        },
+        {
+          "text": ", and catcheth away that which was sown in his heart. This is he which received seed by the way side.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.13.20",
+      "edition_verse_id": "KJV1769:MAT.13.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "But he that received the seed into stony places, the same is he that heareth the word, and anon with joy receiveth it;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.13.21",
+      "edition_verse_id": "KJV1769:MAT.13.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "Yet hath he not root in himself, but dureth for a while: for when tribulation or persecution ariseth because of the word, by and by he is offended.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.13.22",
+      "edition_verse_id": "KJV1769:MAT.13.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "He also that received seed among the thorns is he that heareth the word; and the care of this world, and the deceitfulness of riches, choke the word, and he becometh unfruitful.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.13.23",
+      "edition_verse_id": "KJV1769:MAT.13.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "But he that received seed into the good ground is he that heareth the word, and understandeth ",
+          "kind": "text"
+        },
+        {
+          "text": "it",
+          "kind": "supplied"
+        },
+        {
+          "text": "; which also beareth fruit, and bringeth forth, some an hundredfold, some sixty, some thirty.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.13.24",
+      "edition_verse_id": "KJV1769:MAT.13.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "¶ Another parable put he forth unto them, saying, The kingdom of heaven is likened unto a man which sowed good seed in his field:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MAT.13.25",
+      "edition_verse_id": "KJV1769:MAT.13.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "But while men slept, his enemy came and sowed tares among the wheat, and went his way.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.13.26",
+      "edition_verse_id": "KJV1769:MAT.13.26",
+      "verse": 26,
+      "spans": [
+        {
+          "text": "But when the blade was sprung up, and brought forth fruit, then appeared the tares also.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.13.27",
+      "edition_verse_id": "KJV1769:MAT.13.27",
+      "verse": 27,
+      "spans": [
+        {
+          "text": "So the servants of the householder came and said unto him, Sir, didst not thou sow good seed in thy field? from whence then hath it tares?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.13.28",
+      "edition_verse_id": "KJV1769:MAT.13.28",
+      "verse": 28,
+      "spans": [
+        {
+          "text": "He said unto them, An enemy hath done this. The servants said unto him, Wilt thou then that we go and gather them up?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.13.29",
+      "edition_verse_id": "KJV1769:MAT.13.29",
+      "verse": 29,
+      "spans": [
+        {
+          "text": "But he said, Nay; lest while ye gather up the tares, ye root up also the wheat with them.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.13.30",
+      "edition_verse_id": "KJV1769:MAT.13.30",
+      "verse": 30,
+      "spans": [
+        {
+          "text": "Let both grow together until the harvest: and in the time of harvest I will say to the reapers, Gather ye together first the tares, and bind them in bundles to burn them: but gather the wheat into my barn.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.13.31",
+      "edition_verse_id": "KJV1769:MAT.13.31",
+      "verse": 31,
+      "spans": [
+        {
+          "text": "¶ Another parable put he forth unto them, saying, The kingdom of heaven is like to a grain of mustard seed, which a man took, and sowed in his field:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MAT.13.32",
+      "edition_verse_id": "KJV1769:MAT.13.32",
+      "verse": 32,
+      "spans": [
+        {
+          "text": "Which indeed is the least of all seeds: but when it is grown, it is the greatest among herbs, and becometh a tree, so that the birds of the air come and lodge in the branches thereof.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.13.33",
+      "edition_verse_id": "KJV1769:MAT.13.33",
+      "verse": 33,
+      "spans": [
+        {
+          "text": "¶ Another parable spake he unto them; The kingdom of heaven is like unto leaven, which a woman took, and hid in three measures of meal, till the whole was leavened.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MAT.13.34",
+      "edition_verse_id": "KJV1769:MAT.13.34",
+      "verse": 34,
+      "spans": [
+        {
+          "text": "All these things spake Jesus unto the multitude in parables; and without a parable spake he not unto them:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.13.35",
+      "edition_verse_id": "KJV1769:MAT.13.35",
+      "verse": 35,
+      "spans": [
+        {
+          "text": "That it might be fulfilled which was spoken by the prophet, saying, I will open my mouth in parables; I will utter things which have been kept secret from the foundation of the world.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.13.36",
+      "edition_verse_id": "KJV1769:MAT.13.36",
+      "verse": 36,
+      "spans": [
+        {
+          "text": "Then Jesus sent the multitude away, and went into the house: and his disciples came unto him, saying, Declare unto us the parable of the tares of the field.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.13.37",
+      "edition_verse_id": "KJV1769:MAT.13.37",
+      "verse": 37,
+      "spans": [
+        {
+          "text": "He answered and said unto them, He that soweth the good seed is the Son of man;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.13.38",
+      "edition_verse_id": "KJV1769:MAT.13.38",
+      "verse": 38,
+      "spans": [
+        {
+          "text": "The field is the world; the good seed are the children of the kingdom; but the tares are the children of the wicked ",
+          "kind": "text"
+        },
+        {
+          "text": "one",
+          "kind": "supplied"
+        },
+        {
+          "text": ";",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.13.39",
+      "edition_verse_id": "KJV1769:MAT.13.39",
+      "verse": 39,
+      "spans": [
+        {
+          "text": "The enemy that sowed them is the devil; the harvest is the end of the world; and the reapers are the angels.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.13.40",
+      "edition_verse_id": "KJV1769:MAT.13.40",
+      "verse": 40,
+      "spans": [
+        {
+          "text": "As therefore the tares are gathered and burned in the fire; so shall it be in the end of this world.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.13.41",
+      "edition_verse_id": "KJV1769:MAT.13.41",
+      "verse": 41,
+      "spans": [
+        {
+          "text": "The Son of man shall send forth his angels, and they shall gather out of his kingdom all things that offend, and them which do iniquity;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.13.42",
+      "edition_verse_id": "KJV1769:MAT.13.42",
+      "verse": 42,
+      "spans": [
+        {
+          "text": "And shall cast them into a furnace of fire: there shall be wailing and gnashing of teeth.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.13.43",
+      "edition_verse_id": "KJV1769:MAT.13.43",
+      "verse": 43,
+      "spans": [
+        {
+          "text": "Then shall the righteous shine forth as the sun in the kingdom of their Father. Who hath ears to hear, let him hear.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.13.44",
+      "edition_verse_id": "KJV1769:MAT.13.44",
+      "verse": 44,
+      "spans": [
+        {
+          "text": "¶ Again, the kingdom of heaven is like unto treasure hid in a field; the which when a man hath found, he hideth, and for joy thereof goeth and selleth all that he hath, and buyeth that field.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MAT.13.45",
+      "edition_verse_id": "KJV1769:MAT.13.45",
+      "verse": 45,
+      "spans": [
+        {
+          "text": "¶ Again, the kingdom of heaven is like unto a merchant man, seeking goodly pearls:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MAT.13.46",
+      "edition_verse_id": "KJV1769:MAT.13.46",
+      "verse": 46,
+      "spans": [
+        {
+          "text": "Who, when he had found one pearl of great price, went and sold all that he had, and bought it.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.13.47",
+      "edition_verse_id": "KJV1769:MAT.13.47",
+      "verse": 47,
+      "spans": [
+        {
+          "text": "¶ Again, the kingdom of heaven is like unto a net, that was cast into the sea, and gathered of every kind:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MAT.13.48",
+      "edition_verse_id": "KJV1769:MAT.13.48",
+      "verse": 48,
+      "spans": [
+        {
+          "text": "Which, when it was full, they drew to shore, and sat down, and gathered the good into vessels, but cast the bad away.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.13.49",
+      "edition_verse_id": "KJV1769:MAT.13.49",
+      "verse": 49,
+      "spans": [
+        {
+          "text": "So shall it be at the end of the world: the angels shall come forth, and sever the wicked from among the just,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.13.50",
+      "edition_verse_id": "KJV1769:MAT.13.50",
+      "verse": 50,
+      "spans": [
+        {
+          "text": "And shall cast them into the furnace of fire: there shall be wailing and gnashing of teeth.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.13.51",
+      "edition_verse_id": "KJV1769:MAT.13.51",
+      "verse": 51,
+      "spans": [
+        {
+          "text": "Jesus saith unto them, Have ye understood all these things? They say unto him, Yea, Lord.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.13.52",
+      "edition_verse_id": "KJV1769:MAT.13.52",
+      "verse": 52,
+      "spans": [
+        {
+          "text": "Then said he unto them, Therefore every scribe ",
+          "kind": "text"
+        },
+        {
+          "text": "which is",
+          "kind": "supplied"
+        },
+        {
+          "text": " instructed unto the kingdom of heaven is like unto a man ",
+          "kind": "text"
+        },
+        {
+          "text": "that is",
+          "kind": "supplied"
+        },
+        {
+          "text": " an householder, which bringeth forth out of his treasure ",
+          "kind": "text"
+        },
+        {
+          "text": "things",
+          "kind": "supplied"
+        },
+        {
+          "text": " new and old.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.13.53",
+      "edition_verse_id": "KJV1769:MAT.13.53",
+      "verse": 53,
+      "spans": [
+        {
+          "text": "¶ And it came to pass, ",
+          "kind": "text"
+        },
+        {
+          "text": "that",
+          "kind": "supplied"
+        },
+        {
+          "text": " when Jesus had finished these parables, he departed thence.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MAT.13.54",
+      "edition_verse_id": "KJV1769:MAT.13.54",
+      "verse": 54,
+      "spans": [
+        {
+          "text": "And when he was come into his own country, he taught them in their synagogue, insomuch that they were astonished, and said, Whence hath this ",
+          "kind": "text"
+        },
+        {
+          "text": "man",
+          "kind": "supplied"
+        },
+        {
+          "text": " this wisdom, and ",
+          "kind": "text"
+        },
+        {
+          "text": "these",
+          "kind": "supplied"
+        },
+        {
+          "text": " mighty works?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.13.55",
+      "edition_verse_id": "KJV1769:MAT.13.55",
+      "verse": 55,
+      "spans": [
+        {
+          "text": "Is not this the carpenter’s son? is not his mother called Mary? and his brethren, James, and Joses, and Simon, and Judas?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.13.56",
+      "edition_verse_id": "KJV1769:MAT.13.56",
+      "verse": 56,
+      "spans": [
+        {
+          "text": "And his sisters, are they not all with us? Whence then hath this ",
+          "kind": "text"
+        },
+        {
+          "text": "man",
+          "kind": "supplied"
+        },
+        {
+          "text": " all these things?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.13.57",
+      "edition_verse_id": "KJV1769:MAT.13.57",
+      "verse": 57,
+      "spans": [
+        {
+          "text": "And they were offended in him. But Jesus said unto them, A prophet is not without honour, save in his own country, and in his own house.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.13.58",
+      "edition_verse_id": "KJV1769:MAT.13.58",
+      "verse": 58,
+      "spans": [
+        {
+          "text": "And he did not many mighty works there because of their unbelief.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

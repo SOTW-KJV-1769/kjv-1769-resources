@@ -1,0 +1,764 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "KJV1769",
+  "book_code": "MAT",
+  "chapter": 24,
+  "verses": [
+    {
+      "id": "MAT.24.1",
+      "edition_verse_id": "KJV1769:MAT.24.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "And Jesus went out, and departed from the temple: and his disciples came to ",
+          "kind": "text"
+        },
+        {
+          "text": "him",
+          "kind": "supplied"
+        },
+        {
+          "text": " for to shew him the buildings of the temple.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MAT.24.2",
+      "edition_verse_id": "KJV1769:MAT.24.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "And Jesus said unto them, See ye not all these things? verily I say unto you, There shall not be left here one stone upon another, that shall not be thrown down.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.24.3",
+      "edition_verse_id": "KJV1769:MAT.24.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "¶ And as he sat upon the mount of Olives, the disciples came unto him privately, saying, Tell us, when shall these things be? and what ",
+          "kind": "text"
+        },
+        {
+          "text": "shall be",
+          "kind": "supplied"
+        },
+        {
+          "text": " the sign of thy coming, and of the end of the world?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MAT.24.4",
+      "edition_verse_id": "KJV1769:MAT.24.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "And Jesus answered and said unto them, Take heed that no man deceive you.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.24.5",
+      "edition_verse_id": "KJV1769:MAT.24.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "For many shall come in my name, saying, I am Christ; and shall deceive many.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.24.6",
+      "edition_verse_id": "KJV1769:MAT.24.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "And ye shall hear of wars and rumours of wars: see that ye be not troubled: for all ",
+          "kind": "text"
+        },
+        {
+          "text": "these things",
+          "kind": "supplied"
+        },
+        {
+          "text": " must come to pass, but the end is not yet.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.24.7",
+      "edition_verse_id": "KJV1769:MAT.24.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "For nation shall rise against nation, and kingdom against kingdom: and there shall be famines, and pestilences, and earthquakes, in divers places.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.24.8",
+      "edition_verse_id": "KJV1769:MAT.24.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "All these ",
+          "kind": "text"
+        },
+        {
+          "text": "are",
+          "kind": "supplied"
+        },
+        {
+          "text": " the beginning of sorrows.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.24.9",
+      "edition_verse_id": "KJV1769:MAT.24.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "Then shall they deliver you up to be afflicted, and shall kill you: and ye shall be hated of all nations for my name’s sake.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.24.10",
+      "edition_verse_id": "KJV1769:MAT.24.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "And then shall many be offended, and shall betray one another, and shall hate one another.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.24.11",
+      "edition_verse_id": "KJV1769:MAT.24.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "And many false prophets shall rise, and shall deceive many.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.24.12",
+      "edition_verse_id": "KJV1769:MAT.24.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "And because iniquity shall abound, the love of many shall wax cold.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.24.13",
+      "edition_verse_id": "KJV1769:MAT.24.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "But he that shall endure unto the end, the same shall be saved.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.24.14",
+      "edition_verse_id": "KJV1769:MAT.24.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "And this gospel of the kingdom shall be preached in all the world for a witness unto all nations; and then shall the end come.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.24.15",
+      "edition_verse_id": "KJV1769:MAT.24.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "When ye therefore shall see the abomination of desolation, spoken of by Daniel the prophet, stand in the holy place, (whoso readeth, let him understand:)",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.24.16",
+      "edition_verse_id": "KJV1769:MAT.24.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "Then let them which be in Judaea flee into the mountains:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.24.17",
+      "edition_verse_id": "KJV1769:MAT.24.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "Let him which is on the housetop not come down to take any thing out of his house:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.24.18",
+      "edition_verse_id": "KJV1769:MAT.24.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "Neither let him which is in the field return back to take his clothes.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.24.19",
+      "edition_verse_id": "KJV1769:MAT.24.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "And woe unto them that are with child, and to them that give suck in those days!",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.24.20",
+      "edition_verse_id": "KJV1769:MAT.24.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "But pray ye that your flight be not in the winter, neither on the sabbath day:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.24.21",
+      "edition_verse_id": "KJV1769:MAT.24.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "For then shall be great tribulation, such as was not since the beginning of the world to this time, no, nor ever shall be.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.24.22",
+      "edition_verse_id": "KJV1769:MAT.24.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "And except those days should be shortened, there should no flesh be saved: but for the elect’s sake those days shall be shortened.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.24.23",
+      "edition_verse_id": "KJV1769:MAT.24.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "Then if any man shall say unto you, Lo, here ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " Christ, or there; believe ",
+          "kind": "text"
+        },
+        {
+          "text": "it",
+          "kind": "supplied"
+        },
+        {
+          "text": " not.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.24.24",
+      "edition_verse_id": "KJV1769:MAT.24.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "For there shall arise false Christs, and false prophets, and shall shew great signs and wonders; insomuch that, if ",
+          "kind": "text"
+        },
+        {
+          "text": "it were",
+          "kind": "supplied"
+        },
+        {
+          "text": " possible, they shall deceive the very elect.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.24.25",
+      "edition_verse_id": "KJV1769:MAT.24.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "Behold, I have told you before.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.24.26",
+      "edition_verse_id": "KJV1769:MAT.24.26",
+      "verse": 26,
+      "spans": [
+        {
+          "text": "Wherefore if they shall say unto you, Behold, he is in the desert; go not forth: behold, ",
+          "kind": "text"
+        },
+        {
+          "text": "he is",
+          "kind": "supplied"
+        },
+        {
+          "text": " in the secret chambers; believe ",
+          "kind": "text"
+        },
+        {
+          "text": "it",
+          "kind": "supplied"
+        },
+        {
+          "text": " not.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.24.27",
+      "edition_verse_id": "KJV1769:MAT.24.27",
+      "verse": 27,
+      "spans": [
+        {
+          "text": "For as the lightning cometh out of the east, and shineth even unto the west; so shall also the coming of the Son of man be.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.24.28",
+      "edition_verse_id": "KJV1769:MAT.24.28",
+      "verse": 28,
+      "spans": [
+        {
+          "text": "For wheresoever the carcase is, there will the eagles be gathered together.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.24.29",
+      "edition_verse_id": "KJV1769:MAT.24.29",
+      "verse": 29,
+      "spans": [
+        {
+          "text": "¶ Immediately after the tribulation of those days shall the sun be darkened, and the moon shall not give her light, and the stars shall fall from heaven, and the powers of the heavens shall be shaken:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MAT.24.30",
+      "edition_verse_id": "KJV1769:MAT.24.30",
+      "verse": 30,
+      "spans": [
+        {
+          "text": "And then shall appear the sign of the Son of man in heaven: and then shall all the tribes of the earth mourn, and they shall see the Son of man coming in the clouds of heaven with power and great glory.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.24.31",
+      "edition_verse_id": "KJV1769:MAT.24.31",
+      "verse": 31,
+      "spans": [
+        {
+          "text": "And he shall send his angels with a great sound of a trumpet, and they shall gather together his elect from the four winds, from one end of heaven to the other.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.24.32",
+      "edition_verse_id": "KJV1769:MAT.24.32",
+      "verse": 32,
+      "spans": [
+        {
+          "text": "Now learn a parable of the fig tree; When his branch is yet tender, and putteth forth leaves, ye know that summer ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " nigh:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.24.33",
+      "edition_verse_id": "KJV1769:MAT.24.33",
+      "verse": 33,
+      "spans": [
+        {
+          "text": "So likewise ye, when ye shall see all these things, know that it is near, ",
+          "kind": "text"
+        },
+        {
+          "text": "even",
+          "kind": "supplied"
+        },
+        {
+          "text": " at the doors.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.24.34",
+      "edition_verse_id": "KJV1769:MAT.24.34",
+      "verse": 34,
+      "spans": [
+        {
+          "text": "Verily I say unto you, This generation shall not pass, till all these things be fulfilled.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.24.35",
+      "edition_verse_id": "KJV1769:MAT.24.35",
+      "verse": 35,
+      "spans": [
+        {
+          "text": "Heaven and earth shall pass away, but my words shall not pass away.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.24.36",
+      "edition_verse_id": "KJV1769:MAT.24.36",
+      "verse": 36,
+      "spans": [
+        {
+          "text": "¶ But of that day and hour knoweth no ",
+          "kind": "text"
+        },
+        {
+          "text": "man",
+          "kind": "supplied"
+        },
+        {
+          "text": ", no, not the angels of heaven, but my Father only.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MAT.24.37",
+      "edition_verse_id": "KJV1769:MAT.24.37",
+      "verse": 37,
+      "spans": [
+        {
+          "text": "But as the days of Noe ",
+          "kind": "text"
+        },
+        {
+          "text": "were",
+          "kind": "supplied"
+        },
+        {
+          "text": ", so shall also the coming of the Son of man be.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.24.38",
+      "edition_verse_id": "KJV1769:MAT.24.38",
+      "verse": 38,
+      "spans": [
+        {
+          "text": "For as in the days that were before the flood they were eating and drinking, marrying and giving in marriage, until the day that Noe entered into the ark,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.24.39",
+      "edition_verse_id": "KJV1769:MAT.24.39",
+      "verse": 39,
+      "spans": [
+        {
+          "text": "And knew not until the flood came, and took them all away; so shall also the coming of the Son of man be.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.24.40",
+      "edition_verse_id": "KJV1769:MAT.24.40",
+      "verse": 40,
+      "spans": [
+        {
+          "text": "Then shall two be in the field; the one shall be taken, and the other left.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.24.41",
+      "edition_verse_id": "KJV1769:MAT.24.41",
+      "verse": 41,
+      "spans": [
+        {
+          "text": "Two ",
+          "kind": "text"
+        },
+        {
+          "text": "women shall be",
+          "kind": "supplied"
+        },
+        {
+          "text": " grinding at the mill; the one shall be taken, and the other left.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.24.42",
+      "edition_verse_id": "KJV1769:MAT.24.42",
+      "verse": 42,
+      "spans": [
+        {
+          "text": "¶ Watch therefore: for ye know not what hour your Lord doth come.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MAT.24.43",
+      "edition_verse_id": "KJV1769:MAT.24.43",
+      "verse": 43,
+      "spans": [
+        {
+          "text": "But know this, that if the goodman of the house had known in what watch the thief would come, he would have watched, and would not have suffered his house to be broken up.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.24.44",
+      "edition_verse_id": "KJV1769:MAT.24.44",
+      "verse": 44,
+      "spans": [
+        {
+          "text": "Therefore be ye also ready: for in such an hour as ye think not the Son of man cometh.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.24.45",
+      "edition_verse_id": "KJV1769:MAT.24.45",
+      "verse": 45,
+      "spans": [
+        {
+          "text": "Who then is a faithful and wise servant, whom his lord hath made ruler over his household, to give them meat in due season?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.24.46",
+      "edition_verse_id": "KJV1769:MAT.24.46",
+      "verse": 46,
+      "spans": [
+        {
+          "text": "Blessed ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " that servant, whom his lord when he cometh shall find so doing.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.24.47",
+      "edition_verse_id": "KJV1769:MAT.24.47",
+      "verse": 47,
+      "spans": [
+        {
+          "text": "Verily I say unto you, That he shall make him ruler over all his goods.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.24.48",
+      "edition_verse_id": "KJV1769:MAT.24.48",
+      "verse": 48,
+      "spans": [
+        {
+          "text": "But and if that evil servant shall say in his heart, My lord delayeth his coming;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.24.49",
+      "edition_verse_id": "KJV1769:MAT.24.49",
+      "verse": 49,
+      "spans": [
+        {
+          "text": "And shall begin to smite ",
+          "kind": "text"
+        },
+        {
+          "text": "his",
+          "kind": "supplied"
+        },
+        {
+          "text": " fellowservants, and to eat and drink with the drunken;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.24.50",
+      "edition_verse_id": "KJV1769:MAT.24.50",
+      "verse": 50,
+      "spans": [
+        {
+          "text": "The lord of that servant shall come in a day when he looketh not for ",
+          "kind": "text"
+        },
+        {
+          "text": "him",
+          "kind": "supplied"
+        },
+        {
+          "text": ", and in an hour that he is not aware of,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.24.51",
+      "edition_verse_id": "KJV1769:MAT.24.51",
+      "verse": 51,
+      "spans": [
+        {
+          "text": "And shall cut him asunder, and appoint ",
+          "kind": "text"
+        },
+        {
+          "text": "him",
+          "kind": "supplied"
+        },
+        {
+          "text": " his portion with the hypocrites: there shall be weeping and gnashing of teeth.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

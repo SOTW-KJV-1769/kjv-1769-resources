@@ -1,0 +1,23 @@
+{
+  "edition_id": "KJV1769",
+  "book_code": "NAM",
+  "chapter_count": 3,
+  "verse_count": 47,
+  "chapters": [
+    {
+      "chapter": 1,
+      "verse_count": 15,
+      "sha256": "6590137f7d35d4fef86ec0790650036b2379126841708e03c258c27d14ae4e2a"
+    },
+    {
+      "chapter": 2,
+      "verse_count": 13,
+      "sha256": "10c4bbf88d5679de75a95448aca31b6c189f598d376898141bb431cda0863d1d"
+    },
+    {
+      "chapter": 3,
+      "verse_count": 19,
+      "sha256": "3136e6bc54c35a67bf2b6a5494bcd74e2487952e5a291fd7c4a8c22b0dbadfe1"
+    }
+  ]
+}

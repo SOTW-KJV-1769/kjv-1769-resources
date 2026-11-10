@@ -1,0 +1,372 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "KJV1769",
+  "book_code": "MAT",
+  "chapter": 4,
+  "verses": [
+    {
+      "id": "MAT.4.1",
+      "edition_verse_id": "KJV1769:MAT.4.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "Then was Jesus led up of the Spirit into the wilderness to be tempted of the devil.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MAT.4.2",
+      "edition_verse_id": "KJV1769:MAT.4.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "And when he had fasted forty days and forty nights, he was afterward an hungred.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.4.3",
+      "edition_verse_id": "KJV1769:MAT.4.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "And when the tempter came to him, he said, If thou be the Son of God, command that these stones be made bread.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.4.4",
+      "edition_verse_id": "KJV1769:MAT.4.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "But he answered and said, It is written, Man shall not live by bread alone, but by every word that proceedeth out of the mouth of God.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.4.5",
+      "edition_verse_id": "KJV1769:MAT.4.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "Then the devil taketh him up into the holy city, and setteth him on a pinnacle of the temple,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.4.6",
+      "edition_verse_id": "KJV1769:MAT.4.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "And saith unto him, If thou be the Son of God, cast thyself down: for it is written, He shall give his angels charge concerning thee: and in ",
+          "kind": "text"
+        },
+        {
+          "text": "their",
+          "kind": "supplied"
+        },
+        {
+          "text": " hands they shall bear thee up, lest at any time thou dash thy foot against a stone.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.4.7",
+      "edition_verse_id": "KJV1769:MAT.4.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "Jesus said unto him, It is written again, Thou shalt not tempt the Lord thy God.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.4.8",
+      "edition_verse_id": "KJV1769:MAT.4.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "Again, the devil taketh him up into an exceeding high mountain, and sheweth him all the kingdoms of the world, and the glory of them;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.4.9",
+      "edition_verse_id": "KJV1769:MAT.4.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "And saith unto him, All these things will I give thee, if thou wilt fall down and worship me.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.4.10",
+      "edition_verse_id": "KJV1769:MAT.4.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "Then saith Jesus unto him, Get thee hence, Satan: for it is written, Thou shalt worship the Lord thy God, and him only shalt thou serve.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.4.11",
+      "edition_verse_id": "KJV1769:MAT.4.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "Then the devil leaveth him, and, behold, angels came and ministered unto him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.4.12",
+      "edition_verse_id": "KJV1769:MAT.4.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "¶ Now when Jesus had heard that John was cast into prison, he departed into Galilee;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MAT.4.13",
+      "edition_verse_id": "KJV1769:MAT.4.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "And leaving Nazareth, he came and dwelt in Capernaum, which is upon the sea coast, in the borders of Zabulon and Nephthalim:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.4.14",
+      "edition_verse_id": "KJV1769:MAT.4.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "That it might be fulfilled which was spoken by Esaias the prophet, saying,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.4.15",
+      "edition_verse_id": "KJV1769:MAT.4.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "The land of Zabulon, and the land of Nephthalim, ",
+          "kind": "text"
+        },
+        {
+          "text": "by",
+          "kind": "supplied"
+        },
+        {
+          "text": " the way of the sea, beyond Jordan, Galilee of the Gentiles;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.4.16",
+      "edition_verse_id": "KJV1769:MAT.4.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "The people which sat in darkness saw great light; and to them which sat in the region and shadow of death light is sprung up.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.4.17",
+      "edition_verse_id": "KJV1769:MAT.4.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "¶ From that time Jesus began to preach, and to say, Repent: for the kingdom of heaven is at hand.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MAT.4.18",
+      "edition_verse_id": "KJV1769:MAT.4.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "¶ And Jesus, walking by the sea of Galilee, saw two brethren, Simon called Peter, and Andrew his brother, casting a net into the sea: for they were fishers.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MAT.4.19",
+      "edition_verse_id": "KJV1769:MAT.4.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "And he saith unto them, Follow me, and I will make you fishers of men.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.4.20",
+      "edition_verse_id": "KJV1769:MAT.4.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "And they straightway left ",
+          "kind": "text"
+        },
+        {
+          "text": "their",
+          "kind": "supplied"
+        },
+        {
+          "text": " nets, and followed him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.4.21",
+      "edition_verse_id": "KJV1769:MAT.4.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "And going on from thence, he saw other two brethren, James ",
+          "kind": "text"
+        },
+        {
+          "text": "the son",
+          "kind": "supplied"
+        },
+        {
+          "text": " of Zebedee, and John his brother, in a ship with Zebedee their father, mending their nets; and he called them.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.4.22",
+      "edition_verse_id": "KJV1769:MAT.4.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "And they immediately left the ship and their father, and followed him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.4.23",
+      "edition_verse_id": "KJV1769:MAT.4.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "¶ And Jesus went about all Galilee, teaching in their synagogues, and preaching the gospel of the kingdom, and healing all manner of sickness and all manner of disease among the people.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MAT.4.24",
+      "edition_verse_id": "KJV1769:MAT.4.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "And his fame went throughout all Syria: and they brought unto him all sick people that were taken with divers diseases and torments, and those which were possessed with devils, and those which were lunatick, and those that had the palsy; and he healed them.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.4.25",
+      "edition_verse_id": "KJV1769:MAT.4.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "And there followed him great multitudes of people from Galilee, and ",
+          "kind": "text"
+        },
+        {
+          "text": "from",
+          "kind": "supplied"
+        },
+        {
+          "text": " Decapolis, and ",
+          "kind": "text"
+        },
+        {
+          "text": "from",
+          "kind": "supplied"
+        },
+        {
+          "text": " Jerusalem, and ",
+          "kind": "text"
+        },
+        {
+          "text": "from",
+          "kind": "supplied"
+        },
+        {
+          "text": " Judaea, and ",
+          "kind": "text"
+        },
+        {
+          "text": "from",
+          "kind": "supplied"
+        },
+        {
+          "text": " beyond Jordan.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}
