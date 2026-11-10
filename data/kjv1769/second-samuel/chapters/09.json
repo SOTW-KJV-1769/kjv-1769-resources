@@ -1,0 +1,284 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "KJV1769",
+  "book_code": "2SA",
+  "chapter": 9,
+  "verses": [
+    {
+      "id": "2SA.9.1",
+      "edition_verse_id": "KJV1769:2SA.9.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "And David said, Is there yet any that is left of the house of Saul, that I may shew him kindness for Jonathan’s sake?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "2SA.9.2",
+      "edition_verse_id": "KJV1769:2SA.9.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "And ",
+          "kind": "text"
+        },
+        {
+          "text": "there was",
+          "kind": "supplied"
+        },
+        {
+          "text": " of the house of Saul a servant whose name ",
+          "kind": "text"
+        },
+        {
+          "text": "was",
+          "kind": "supplied"
+        },
+        {
+          "text": " Ziba. And when they had called him unto David, the king said unto him, ",
+          "kind": "text"
+        },
+        {
+          "text": "Art",
+          "kind": "supplied"
+        },
+        {
+          "text": " thou Ziba? And he said, Thy servant ",
+          "kind": "text"
+        },
+        {
+          "text": "is he",
+          "kind": "supplied"
+        },
+        {
+          "text": ".",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2SA.9.3",
+      "edition_verse_id": "KJV1769:2SA.9.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "And the king said, ",
+          "kind": "text"
+        },
+        {
+          "text": "Is",
+          "kind": "supplied"
+        },
+        {
+          "text": " there not yet any of the house of Saul, that I may shew the kindness of God unto him? And Ziba said unto the king, Jonathan hath yet a son, ",
+          "kind": "text"
+        },
+        {
+          "text": "which is",
+          "kind": "supplied"
+        },
+        {
+          "text": " lame on ",
+          "kind": "text"
+        },
+        {
+          "text": "his",
+          "kind": "supplied"
+        },
+        {
+          "text": " feet.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2SA.9.4",
+      "edition_verse_id": "KJV1769:2SA.9.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "And the king said unto him, Where ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " he? And Ziba said unto the king, Behold, he ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " in the house of Machir, the son of Ammiel, in Lo-debar.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2SA.9.5",
+      "edition_verse_id": "KJV1769:2SA.9.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "¶ Then king David sent, and fetched him out of the house of Machir, the son of Ammiel, from Lo-debar.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "2SA.9.6",
+      "edition_verse_id": "KJV1769:2SA.9.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "Now when Mephibosheth, the son of Jonathan, the son of Saul, was come unto David, he fell on his face, and did reverence. And David said, Mephibosheth. And he answered, Behold thy servant!",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2SA.9.7",
+      "edition_verse_id": "KJV1769:2SA.9.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "¶ And David said unto him, Fear not: for I will surely shew thee kindness for Jonathan thy father’s sake, and will restore thee all the land of Saul thy father; and thou shalt eat bread at my table continually.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "2SA.9.8",
+      "edition_verse_id": "KJV1769:2SA.9.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "And he bowed himself, and said, What ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " thy servant, that thou shouldest look upon such a dead dog as I ",
+          "kind": "text"
+        },
+        {
+          "text": "am",
+          "kind": "supplied"
+        },
+        {
+          "text": "?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2SA.9.9",
+      "edition_verse_id": "KJV1769:2SA.9.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "¶ Then the king called to Ziba, Saul’s servant, and said unto him, I have given unto thy master’s son all that pertained to Saul and to all his house.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "2SA.9.10",
+      "edition_verse_id": "KJV1769:2SA.9.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "Thou therefore, and thy sons, and thy servants, shall till the land for him, and thou shalt bring in ",
+          "kind": "text"
+        },
+        {
+          "text": "the fruits",
+          "kind": "supplied"
+        },
+        {
+          "text": ", that thy master’s son may have food to eat: but Mephibosheth thy master’s son shall eat bread alway at my table. Now Ziba had fifteen sons and twenty servants.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2SA.9.11",
+      "edition_verse_id": "KJV1769:2SA.9.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "Then said Ziba unto the king, According to all that my lord the king hath commanded his servant, so shall thy servant do. As for Mephibosheth, ",
+          "kind": "text"
+        },
+        {
+          "text": "said the king",
+          "kind": "supplied"
+        },
+        {
+          "text": ", he shall eat at my table, as one of the king’s sons.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2SA.9.12",
+      "edition_verse_id": "KJV1769:2SA.9.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "And Mephibosheth had a young son, whose name ",
+          "kind": "text"
+        },
+        {
+          "text": "was",
+          "kind": "supplied"
+        },
+        {
+          "text": " Micha. And all that dwelt in the house of Ziba ",
+          "kind": "text"
+        },
+        {
+          "text": "were",
+          "kind": "supplied"
+        },
+        {
+          "text": " servants unto Mephibosheth.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2SA.9.13",
+      "edition_verse_id": "KJV1769:2SA.9.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "So Mephibosheth dwelt in Jerusalem: for he did eat continually at the king’s table; and was lame on both his feet.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

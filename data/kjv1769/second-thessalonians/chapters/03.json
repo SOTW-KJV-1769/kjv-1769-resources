@@ -1,0 +1,288 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "KJV1769",
+  "book_code": "2TH",
+  "chapter": 3,
+  "verses": [
+    {
+      "id": "2TH.3.1",
+      "edition_verse_id": "KJV1769:2TH.3.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "Finally, brethren, pray for us, that the word of the Lord may have ",
+          "kind": "text"
+        },
+        {
+          "text": "free",
+          "kind": "supplied"
+        },
+        {
+          "text": " course, and be glorified, even as ",
+          "kind": "text"
+        },
+        {
+          "text": "it is",
+          "kind": "supplied"
+        },
+        {
+          "text": " with you:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "2TH.3.2",
+      "edition_verse_id": "KJV1769:2TH.3.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "And that we may be delivered from unreasonable and wicked men: for all ",
+          "kind": "text"
+        },
+        {
+          "text": "men",
+          "kind": "supplied"
+        },
+        {
+          "text": " have not faith.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2TH.3.3",
+      "edition_verse_id": "KJV1769:2TH.3.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "But the Lord is faithful, who shall stablish you, and keep ",
+          "kind": "text"
+        },
+        {
+          "text": "you",
+          "kind": "supplied"
+        },
+        {
+          "text": " from evil.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2TH.3.4",
+      "edition_verse_id": "KJV1769:2TH.3.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "And we have confidence in the Lord touching you, that ye both do and will do the things which we command you.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2TH.3.5",
+      "edition_verse_id": "KJV1769:2TH.3.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "And the Lord direct your hearts into the love of God, and into the patient waiting for Christ.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2TH.3.6",
+      "edition_verse_id": "KJV1769:2TH.3.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "Now we command you, brethren, in the name of our Lord Jesus Christ, that ye withdraw yourselves from every brother that walketh disorderly, and not after the tradition which he received of us.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "2TH.3.7",
+      "edition_verse_id": "KJV1769:2TH.3.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "For yourselves know how ye ought to follow us: for we behaved not ourselves disorderly among you;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2TH.3.8",
+      "edition_verse_id": "KJV1769:2TH.3.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "Neither did we eat any man’s bread for nought; but wrought with labour and travail night and day, that we might not be chargeable to any of you:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2TH.3.9",
+      "edition_verse_id": "KJV1769:2TH.3.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "Not because we have not power, but to make ourselves an ensample unto you to follow us.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2TH.3.10",
+      "edition_verse_id": "KJV1769:2TH.3.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "For even when we were with you, this we commanded you, that if any would not work, neither should he eat.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2TH.3.11",
+      "edition_verse_id": "KJV1769:2TH.3.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "For we hear that there are some which walk among you disorderly, working not at all, but are busybodies.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2TH.3.12",
+      "edition_verse_id": "KJV1769:2TH.3.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "Now them that are such we command and exhort by our Lord Jesus Christ, that with quietness they work, and eat their own bread.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2TH.3.13",
+      "edition_verse_id": "KJV1769:2TH.3.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "But ye, brethren, be not weary in well doing.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2TH.3.14",
+      "edition_verse_id": "KJV1769:2TH.3.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "And if any man obey not our word by this epistle, note that man, and have no company with him, that he may be ashamed.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2TH.3.15",
+      "edition_verse_id": "KJV1769:2TH.3.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "Yet count ",
+          "kind": "text"
+        },
+        {
+          "text": "him",
+          "kind": "supplied"
+        },
+        {
+          "text": " not as an enemy, but admonish ",
+          "kind": "text"
+        },
+        {
+          "text": "him",
+          "kind": "supplied"
+        },
+        {
+          "text": " as a brother.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2TH.3.16",
+      "edition_verse_id": "KJV1769:2TH.3.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "Now the Lord of peace himself give you peace always by all means. The Lord ",
+          "kind": "text"
+        },
+        {
+          "text": "be",
+          "kind": "supplied"
+        },
+        {
+          "text": " with you all.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2TH.3.17",
+      "edition_verse_id": "KJV1769:2TH.3.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "The salutation of Paul with mine own hand, which is the token in every epistle: so I write.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "2TH.3.18",
+      "edition_verse_id": "KJV1769:2TH.3.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "The grace of our Lord Jesus Christ ",
+          "kind": "text"
+        },
+        {
+          "text": "be",
+          "kind": "supplied"
+        },
+        {
+          "text": " with you all. Amen.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

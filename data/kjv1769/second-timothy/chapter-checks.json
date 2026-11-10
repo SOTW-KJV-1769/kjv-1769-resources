@@ -1,0 +1,28 @@
+{
+  "edition_id": "KJV1769",
+  "book_code": "2TI",
+  "chapter_count": 4,
+  "verse_count": 83,
+  "chapters": [
+    {
+      "chapter": 1,
+      "verse_count": 18,
+      "sha256": "d2c08faaadcdc81fcd6a42c5f490ee92e96e9f8bc11740c421addb03fdfc43cb"
+    },
+    {
+      "chapter": 2,
+      "verse_count": 26,
+      "sha256": "b2cd16f88201f6030fdad14689c64c35d484358a4eb8d4370cd02e659b01a307"
+    },
+    {
+      "chapter": 3,
+      "verse_count": 17,
+      "sha256": "b976d372c38bbb8058d38f9ab8c01241e416fcc618d13d2aa0dde205e91a5e41"
+    },
+    {
+      "chapter": 4,
+      "verse_count": 22,
+      "sha256": "3162188d9e29f6088d23e91eb16d9d237b165328ac3bbb0c45f1178b8ccbcb9b"
+    }
+  ]
+}

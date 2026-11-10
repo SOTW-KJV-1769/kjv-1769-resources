@@ -1,0 +1,388 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "KJV1769",
+  "book_code": "ZEC",
+  "chapter": 14,
+  "verses": [
+    {
+      "id": "ZEC.14.1",
+      "edition_verse_id": "KJV1769:ZEC.14.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "Behold, the day of the LORD cometh, and thy spoil shall be divided in the midst of thee.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ZEC.14.2",
+      "edition_verse_id": "KJV1769:ZEC.14.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "For I will gather all nations against Jerusalem to battle; and the city shall be taken, and the houses rifled, and the women ravished; and half of the city shall go forth into captivity, and the residue of the people shall not be cut off from the city.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ZEC.14.3",
+      "edition_verse_id": "KJV1769:ZEC.14.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "Then shall the LORD go forth, and fight against those nations, as when he fought in the day of battle.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ZEC.14.4",
+      "edition_verse_id": "KJV1769:ZEC.14.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "¶ And his feet shall stand in that day upon the mount of Olives, which ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " before Jerusalem on the east, and the mount of Olives shall cleave in the midst thereof toward the east and toward the west, ",
+          "kind": "text"
+        },
+        {
+          "text": "and there shall be",
+          "kind": "supplied"
+        },
+        {
+          "text": " a very great valley; and half of the mountain shall remove toward the north, and half of it toward the south.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ZEC.14.5",
+      "edition_verse_id": "KJV1769:ZEC.14.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "And ye shall flee ",
+          "kind": "text"
+        },
+        {
+          "text": "to",
+          "kind": "supplied"
+        },
+        {
+          "text": " the valley of the mountains; for the valley of the mountains shall reach unto Azal: yea, ye shall flee, like as ye fled from before the earthquake in the days of Uzziah king of Judah: and the LORD my God shall come, ",
+          "kind": "text"
+        },
+        {
+          "text": "and",
+          "kind": "supplied"
+        },
+        {
+          "text": " all the saints with thee.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ZEC.14.6",
+      "edition_verse_id": "KJV1769:ZEC.14.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "And it shall come to pass in that day, ",
+          "kind": "text"
+        },
+        {
+          "text": "that",
+          "kind": "supplied"
+        },
+        {
+          "text": " the light shall not be clear, ",
+          "kind": "text"
+        },
+        {
+          "text": "nor",
+          "kind": "supplied"
+        },
+        {
+          "text": " dark:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ZEC.14.7",
+      "edition_verse_id": "KJV1769:ZEC.14.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "But it shall be one day which shall be known to the LORD, not day, nor night: but it shall come to pass, ",
+          "kind": "text"
+        },
+        {
+          "text": "that",
+          "kind": "supplied"
+        },
+        {
+          "text": " at evening time it shall be light.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ZEC.14.8",
+      "edition_verse_id": "KJV1769:ZEC.14.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "And it shall be in that day, ",
+          "kind": "text"
+        },
+        {
+          "text": "that",
+          "kind": "supplied"
+        },
+        {
+          "text": " living waters shall go out from Jerusalem; half of them toward the former sea, and half of them toward the hinder sea: in summer and in winter shall it be.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ZEC.14.9",
+      "edition_verse_id": "KJV1769:ZEC.14.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "And the LORD shall be king over all the earth: in that day shall there be one LORD, and his name one.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ZEC.14.10",
+      "edition_verse_id": "KJV1769:ZEC.14.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "All the land shall be turned as a plain from Geba to Rimmon south of Jerusalem: and it shall be lifted up, and inhabited in her place, from Benjamin’s gate unto the place of the first gate, unto the corner gate, and ",
+          "kind": "text"
+        },
+        {
+          "text": "from",
+          "kind": "supplied"
+        },
+        {
+          "text": " the tower of Hananeel unto the king’s winepresses.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ZEC.14.11",
+      "edition_verse_id": "KJV1769:ZEC.14.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "And ",
+          "kind": "text"
+        },
+        {
+          "text": "men",
+          "kind": "supplied"
+        },
+        {
+          "text": " shall dwell in it, and there shall be no more utter destruction; but Jerusalem shall be safely inhabited.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ZEC.14.12",
+      "edition_verse_id": "KJV1769:ZEC.14.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "¶ And this shall be the plague wherewith the LORD will smite all the people that have fought against Jerusalem; Their flesh shall consume away while they stand upon their feet, and their eyes shall consume away in their holes, and their tongue shall consume away in their mouth.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ZEC.14.13",
+      "edition_verse_id": "KJV1769:ZEC.14.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "And it shall come to pass in that day, ",
+          "kind": "text"
+        },
+        {
+          "text": "that",
+          "kind": "supplied"
+        },
+        {
+          "text": " a great tumult from the LORD shall be among them; and they shall lay hold every one on the hand of his neighbour, and his hand shall rise up against the hand of his neighbour.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ZEC.14.14",
+      "edition_verse_id": "KJV1769:ZEC.14.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "And Judah also shall fight at Jerusalem; and the wealth of all the heathen round about shall be gathered together, gold, and silver, and apparel, in great abundance.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ZEC.14.15",
+      "edition_verse_id": "KJV1769:ZEC.14.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "And so shall be the plague of the horse, of the mule, of the camel, and of the ass, and of all the beasts that shall be in these tents, as this plague.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ZEC.14.16",
+      "edition_verse_id": "KJV1769:ZEC.14.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "¶ And it shall come to pass, ",
+          "kind": "text"
+        },
+        {
+          "text": "that",
+          "kind": "supplied"
+        },
+        {
+          "text": " every one that is left of all the nations which came against Jerusalem shall even go up from year to year to worship the King, the LORD of hosts, and to keep the feast of tabernacles.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ZEC.14.17",
+      "edition_verse_id": "KJV1769:ZEC.14.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "And it shall be, ",
+          "kind": "text"
+        },
+        {
+          "text": "that",
+          "kind": "supplied"
+        },
+        {
+          "text": " whoso will not come up of ",
+          "kind": "text"
+        },
+        {
+          "text": "all",
+          "kind": "supplied"
+        },
+        {
+          "text": " the families of the earth unto Jerusalem to worship the King, the LORD of hosts, even upon them shall be no rain.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ZEC.14.18",
+      "edition_verse_id": "KJV1769:ZEC.14.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "And if the family of Egypt go not up, and come not, that ",
+          "kind": "text"
+        },
+        {
+          "text": "have",
+          "kind": "supplied"
+        },
+        {
+          "text": " no ",
+          "kind": "text"
+        },
+        {
+          "text": "rain;",
+          "kind": "supplied"
+        },
+        {
+          "text": " there shall be the plague, wherewith the LORD will smite the heathen that come not up to keep the feast of tabernacles.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ZEC.14.19",
+      "edition_verse_id": "KJV1769:ZEC.14.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "This shall be the punishment of Egypt, and the punishment of all nations that come not up to keep the feast of tabernacles.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ZEC.14.20",
+      "edition_verse_id": "KJV1769:ZEC.14.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "¶ In that day shall there be upon the bells of the horses, HOLINESS UNTO THE LORD; and the pots in the LORD’s house shall be like the bowls before the altar.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ZEC.14.21",
+      "edition_verse_id": "KJV1769:ZEC.14.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "Yea, every pot in Jerusalem and in Judah shall be holiness unto the LORD of hosts: and all they that sacrifice shall come and take of them, and seethe therein: and in that day there shall be no more the Canaanite in the house of the LORD of hosts.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

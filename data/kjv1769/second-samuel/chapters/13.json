@@ -1,0 +1,668 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "KJV1769",
+  "book_code": "2SA",
+  "chapter": 13,
+  "verses": [
+    {
+      "id": "2SA.13.1",
+      "edition_verse_id": "KJV1769:2SA.13.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "And it came to pass after this, that Absalom the son of David had a fair sister, whose name ",
+          "kind": "text"
+        },
+        {
+          "text": "was",
+          "kind": "supplied"
+        },
+        {
+          "text": " Tamar; and Amnon the son of David loved her.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "2SA.13.2",
+      "edition_verse_id": "KJV1769:2SA.13.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "And Amnon was so vexed, that he fell sick for his sister Tamar; for she ",
+          "kind": "text"
+        },
+        {
+          "text": "was",
+          "kind": "supplied"
+        },
+        {
+          "text": " a virgin; and Amnon thought it hard for him to do any thing to her.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2SA.13.3",
+      "edition_verse_id": "KJV1769:2SA.13.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "But Amnon had a friend, whose name ",
+          "kind": "text"
+        },
+        {
+          "text": "was",
+          "kind": "supplied"
+        },
+        {
+          "text": " Jonadab, the son of Shimeah David’s brother: and Jonadab ",
+          "kind": "text"
+        },
+        {
+          "text": "was",
+          "kind": "supplied"
+        },
+        {
+          "text": " a very subtil man.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2SA.13.4",
+      "edition_verse_id": "KJV1769:2SA.13.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "And he said unto him, Why ",
+          "kind": "text"
+        },
+        {
+          "text": "art",
+          "kind": "supplied"
+        },
+        {
+          "text": " thou, ",
+          "kind": "text"
+        },
+        {
+          "text": "being",
+          "kind": "supplied"
+        },
+        {
+          "text": " the king’s son, lean from day to day? wilt thou not tell me? And Amnon said unto him, I love Tamar, my brother Absalom’s sister.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2SA.13.5",
+      "edition_verse_id": "KJV1769:2SA.13.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "And Jonadab said unto him, Lay thee down on thy bed, and make thyself sick: and when thy father cometh to see thee, say unto him, I pray thee, let my sister Tamar come, and give me meat, and dress the meat in my sight, that I may see ",
+          "kind": "text"
+        },
+        {
+          "text": "it",
+          "kind": "supplied"
+        },
+        {
+          "text": ", and eat ",
+          "kind": "text"
+        },
+        {
+          "text": "it",
+          "kind": "supplied"
+        },
+        {
+          "text": " at her hand.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2SA.13.6",
+      "edition_verse_id": "KJV1769:2SA.13.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "¶ So Amnon lay down, and made himself sick: and when the king was come to see him, Amnon said unto the king, I pray thee, let Tamar my sister come, and make me a couple of cakes in my sight, that I may eat at her hand.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "2SA.13.7",
+      "edition_verse_id": "KJV1769:2SA.13.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "Then David sent home to Tamar, saying, Go now to thy brother Amnon’s house, and dress him meat.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2SA.13.8",
+      "edition_verse_id": "KJV1769:2SA.13.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "So Tamar went to her brother Amnon’s house; and he was laid down. And she took flour, and kneaded ",
+          "kind": "text"
+        },
+        {
+          "text": "it",
+          "kind": "supplied"
+        },
+        {
+          "text": ", and made cakes in his sight, and did bake the cakes.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2SA.13.9",
+      "edition_verse_id": "KJV1769:2SA.13.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "And she took a pan, and poured ",
+          "kind": "text"
+        },
+        {
+          "text": "them",
+          "kind": "supplied"
+        },
+        {
+          "text": " out before him; but he refused to eat. And Amnon said, Have out all men from me. And they went out every man from him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2SA.13.10",
+      "edition_verse_id": "KJV1769:2SA.13.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "And Amnon said unto Tamar, Bring the meat into the chamber, that I may eat of thine hand. And Tamar took the cakes which she had made, and brought ",
+          "kind": "text"
+        },
+        {
+          "text": "them",
+          "kind": "supplied"
+        },
+        {
+          "text": " into the chamber to Amnon her brother.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2SA.13.11",
+      "edition_verse_id": "KJV1769:2SA.13.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "And when she had brought ",
+          "kind": "text"
+        },
+        {
+          "text": "them",
+          "kind": "supplied"
+        },
+        {
+          "text": " unto him to eat, he took hold of her, and said unto her, Come lie with me, my sister.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2SA.13.12",
+      "edition_verse_id": "KJV1769:2SA.13.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "And she answered him, Nay, my brother, do not force me; for no such thing ought to be done in Israel: do not thou this folly.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2SA.13.13",
+      "edition_verse_id": "KJV1769:2SA.13.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "And I, whither shall I cause my shame to go? and as for thee, thou shalt be as one of the fools in Israel. Now therefore, I pray thee, speak unto the king; for he will not withhold me from thee.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2SA.13.14",
+      "edition_verse_id": "KJV1769:2SA.13.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "Howbeit he would not hearken unto her voice: but, being stronger than she, forced her, and lay with her.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2SA.13.15",
+      "edition_verse_id": "KJV1769:2SA.13.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "¶ Then Amnon hated her exceedingly; so that the hatred wherewith he hated her ",
+          "kind": "text"
+        },
+        {
+          "text": "was",
+          "kind": "supplied"
+        },
+        {
+          "text": " greater than the love wherewith he had loved her. And Amnon said unto her, Arise, be gone.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "2SA.13.16",
+      "edition_verse_id": "KJV1769:2SA.13.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "And she said unto him, ",
+          "kind": "text"
+        },
+        {
+          "text": "There is",
+          "kind": "supplied"
+        },
+        {
+          "text": " no cause: this evil in sending me away ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " greater than the other that thou didst unto me. But he would not hearken unto her.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2SA.13.17",
+      "edition_verse_id": "KJV1769:2SA.13.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "Then he called his servant that ministered unto him, and said, Put now this ",
+          "kind": "text"
+        },
+        {
+          "text": "woman",
+          "kind": "supplied"
+        },
+        {
+          "text": " out from me, and bolt the door after her.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2SA.13.18",
+      "edition_verse_id": "KJV1769:2SA.13.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "And ",
+          "kind": "text"
+        },
+        {
+          "text": "she had",
+          "kind": "supplied"
+        },
+        {
+          "text": " a garment of divers colours upon her: for with such robes were the king’s daughters ",
+          "kind": "text"
+        },
+        {
+          "text": "that were",
+          "kind": "supplied"
+        },
+        {
+          "text": " virgins apparelled. Then his servant brought her out, and bolted the door after her.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2SA.13.19",
+      "edition_verse_id": "KJV1769:2SA.13.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "¶ And Tamar put ashes on her head, and rent her garment of divers colours that ",
+          "kind": "text"
+        },
+        {
+          "text": "was",
+          "kind": "supplied"
+        },
+        {
+          "text": " on her, and laid her hand on her head, and went on crying.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "2SA.13.20",
+      "edition_verse_id": "KJV1769:2SA.13.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "And Absalom her brother said unto her, Hath Amnon thy brother been with thee? but hold now thy peace, my sister: he ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " thy brother; regard not this thing. So Tamar remained desolate in her brother Absalom’s house.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2SA.13.21",
+      "edition_verse_id": "KJV1769:2SA.13.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "¶ But when king David heard of all these things, he was very wroth.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "2SA.13.22",
+      "edition_verse_id": "KJV1769:2SA.13.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "And Absalom spake unto his brother Amnon neither good nor bad: for Absalom hated Amnon, because he had forced his sister Tamar.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2SA.13.23",
+      "edition_verse_id": "KJV1769:2SA.13.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "¶ And it came to pass after two full years, that Absalom had sheepshearers in Baal-hazor, which ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " beside Ephraim: and Absalom invited all the king’s sons.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "2SA.13.24",
+      "edition_verse_id": "KJV1769:2SA.13.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "And Absalom came to the king, and said, Behold now, thy servant hath sheepshearers; let the king, I beseech thee, and his servants go with thy servant.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2SA.13.25",
+      "edition_verse_id": "KJV1769:2SA.13.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "And the king said to Absalom, Nay, my son, let us not all now go, lest we be chargeable unto thee. And he pressed him: howbeit he would not go, but blessed him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2SA.13.26",
+      "edition_verse_id": "KJV1769:2SA.13.26",
+      "verse": 26,
+      "spans": [
+        {
+          "text": "Then said Absalom, If not, I pray thee, let my brother Amnon go with us. And the king said unto him, Why should he go with thee?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2SA.13.27",
+      "edition_verse_id": "KJV1769:2SA.13.27",
+      "verse": 27,
+      "spans": [
+        {
+          "text": "But Absalom pressed him, that he let Amnon and all the king’s sons go with him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2SA.13.28",
+      "edition_verse_id": "KJV1769:2SA.13.28",
+      "verse": 28,
+      "spans": [
+        {
+          "text": "¶ Now Absalom had commanded his servants, saying, Mark ye now when Amnon’s heart is merry with wine, and when I say unto you, Smite Amnon; then kill him, fear not: have not I commanded you? be courageous, and be valiant.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "2SA.13.29",
+      "edition_verse_id": "KJV1769:2SA.13.29",
+      "verse": 29,
+      "spans": [
+        {
+          "text": "And the servants of Absalom did unto Amnon as Absalom had commanded. Then all the king’s sons arose, and every man gat him up upon his mule, and fled.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2SA.13.30",
+      "edition_verse_id": "KJV1769:2SA.13.30",
+      "verse": 30,
+      "spans": [
+        {
+          "text": "¶ And it came to pass, while they were in the way, that tidings came to David, saying, Absalom hath slain all the king’s sons, and there is not one of them left.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "2SA.13.31",
+      "edition_verse_id": "KJV1769:2SA.13.31",
+      "verse": 31,
+      "spans": [
+        {
+          "text": "Then the king arose, and tare his garments, and lay on the earth; and all his servants stood by with their clothes rent.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2SA.13.32",
+      "edition_verse_id": "KJV1769:2SA.13.32",
+      "verse": 32,
+      "spans": [
+        {
+          "text": "And Jonadab, the son of Shimeah David’s brother, answered and said, Let not my lord suppose ",
+          "kind": "text"
+        },
+        {
+          "text": "that",
+          "kind": "supplied"
+        },
+        {
+          "text": " they have slain all the young men the king’s sons; for Amnon only is dead: for by the appointment of Absalom this hath been determined from the day that he forced his sister Tamar.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2SA.13.33",
+      "edition_verse_id": "KJV1769:2SA.13.33",
+      "verse": 33,
+      "spans": [
+        {
+          "text": "Now therefore let not my lord the king take the thing to his heart, to think that all the king’s sons are dead: for Amnon only is dead.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2SA.13.34",
+      "edition_verse_id": "KJV1769:2SA.13.34",
+      "verse": 34,
+      "spans": [
+        {
+          "text": "But Absalom fled. And the young man that kept the watch lifted up his eyes, and looked, and, behold, there came much people by the way of the hill side behind him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2SA.13.35",
+      "edition_verse_id": "KJV1769:2SA.13.35",
+      "verse": 35,
+      "spans": [
+        {
+          "text": "And Jonadab said unto the king, Behold, the king’s sons come: as thy servant said, so it is.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2SA.13.36",
+      "edition_verse_id": "KJV1769:2SA.13.36",
+      "verse": 36,
+      "spans": [
+        {
+          "text": "And it came to pass, as soon as he had made an end of speaking, that, behold, the king’s sons came, and lifted up their voice and wept: and the king also and all his servants wept very sore.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2SA.13.37",
+      "edition_verse_id": "KJV1769:2SA.13.37",
+      "verse": 37,
+      "spans": [
+        {
+          "text": "¶ But Absalom fled, and went to Talmai, the son of Ammihud, king of Geshur. And ",
+          "kind": "text"
+        },
+        {
+          "text": "David",
+          "kind": "supplied"
+        },
+        {
+          "text": " mourned for his son every day.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "2SA.13.38",
+      "edition_verse_id": "KJV1769:2SA.13.38",
+      "verse": 38,
+      "spans": [
+        {
+          "text": "So Absalom fled, and went to Geshur, and was there three years.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2SA.13.39",
+      "edition_verse_id": "KJV1769:2SA.13.39",
+      "verse": 39,
+      "spans": [
+        {
+          "text": "And ",
+          "kind": "text"
+        },
+        {
+          "text": "the soul of",
+          "kind": "supplied"
+        },
+        {
+          "text": " king David longed to go forth unto Absalom: for he was comforted concerning Amnon, seeing he was dead.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

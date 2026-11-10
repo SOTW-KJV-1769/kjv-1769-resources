@@ -1,0 +1,23 @@
+{
+  "edition_id": "KJV1769",
+  "book_code": "2TH",
+  "chapter_count": 3,
+  "verse_count": 47,
+  "chapters": [
+    {
+      "chapter": 1,
+      "verse_count": 12,
+      "sha256": "ec86a03fea5de296a6f46d661fdc1131ad3770333a2fecb531491d5e199f3ed9"
+    },
+    {
+      "chapter": 2,
+      "verse_count": 17,
+      "sha256": "799f62fa9873f47a58bae021a9d8d55a4454eb511126fa23a3366fc2bb7fe3db"
+    },
+    {
+      "chapter": 3,
+      "verse_count": 18,
+      "sha256": "0dc678f863bf142d94ddc5add242250cce545561c2a7da4f8c581008f447c20c"
+    }
+  ]
+}

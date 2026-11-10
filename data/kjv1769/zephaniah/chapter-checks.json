@@ -1,0 +1,23 @@
+{
+  "edition_id": "KJV1769",
+  "book_code": "ZEP",
+  "chapter_count": 3,
+  "verse_count": 53,
+  "chapters": [
+    {
+      "chapter": 1,
+      "verse_count": 18,
+      "sha256": "eb28945b01a4a31dab0dc21389ddb629455fea12e537e8b0b43e64ad51a341b1"
+    },
+    {
+      "chapter": 2,
+      "verse_count": 15,
+      "sha256": "7ce979d1661067631183545a6215a099168be7925fee760c9e9ba6e81c704752"
+    },
+    {
+      "chapter": 3,
+      "verse_count": 20,
+      "sha256": "12b61bc05907d7dfec5a6b5ff72e9c79a5d15d5490817c5240c4e20995d4654e"
+    }
+  ]
+}

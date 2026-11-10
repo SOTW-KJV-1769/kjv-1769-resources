@@ -1,0 +1,28 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "KJV1769",
+  "translation_title": "King James Version",
+  "also_known_as": "Authorized Version",
+  "first_publication_year": 1611,
+  "standardization_year": 1769,
+  "digital_source_id": "eng-kjv2006",
+  "digital_format": "USFM",
+  "canon": "Protestant 66 books",
+  "source_url": "https://ebible.org/Scriptures/details.php?id=eng-kjv2006",
+  "source_archive_sha256": "ce1f526c64c2376f407308c2c23cb2d2fb58efaf5296327d2d8e408c3700650d",
+  "presenting_library": "Servants of the Way Digital Library",
+  "about": "King James Version (standardized 1769 text), presented by the Servants of the Way Digital Library.",
+  "rights_summary": "Public-domain text outside the UK; UK Crown rights affecting printing remain according to the source.",
+  "capabilities": {
+    "verses": true,
+    "chapter_navigation": true,
+    "book_navigation": true,
+    "supplied_word_italics": true,
+    "superscriptions": true,
+    "digital_source_note_archival": true,
+    "source_pdf_scan": false,
+    "embedded_strongs": false,
+    "original_language_word_click_ui": false,
+    "historical_commentary_ui": false
+  }
+}

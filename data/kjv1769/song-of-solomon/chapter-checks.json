@@ -1,0 +1,48 @@
+{
+  "edition_id": "KJV1769",
+  "book_code": "SNG",
+  "chapter_count": 8,
+  "verse_count": 117,
+  "chapters": [
+    {
+      "chapter": 1,
+      "verse_count": 17,
+      "sha256": "d3bafd12af2ad45d6d6fad26ebc9caa3a7048b6d9b09520806ccd896e27dfda6"
+    },
+    {
+      "chapter": 2,
+      "verse_count": 17,
+      "sha256": "425c190aeddda7cfb81772d06e2a73d60f726e4eeedf1d79f34faa82f1be5257"
+    },
+    {
+      "chapter": 3,
+      "verse_count": 11,
+      "sha256": "fc44209d58946d9f9d781c33313fa62e48b095be284aad9d623f4afe110a59fc"
+    },
+    {
+      "chapter": 4,
+      "verse_count": 16,
+      "sha256": "b4cbb1b7de27862db2e1db5ae405a411ab9fd33f82cdf8cc2208ea0ee1199d46"
+    },
+    {
+      "chapter": 5,
+      "verse_count": 16,
+      "sha256": "fedf5851b7ee911df83bc42855f4c89af70ad779b931ef6c4651dd75d884b333"
+    },
+    {
+      "chapter": 6,
+      "verse_count": 13,
+      "sha256": "bbaad38ee58c665cc261dee18243e76e37e76a97e2cc8b7367fa85675076d163"
+    },
+    {
+      "chapter": 7,
+      "verse_count": 13,
+      "sha256": "8c398a2cee7c7269161437505833815e984e93e86e645d55d14c3cc36e23911c"
+    },
+    {
+      "chapter": 8,
+      "verse_count": 14,
+      "sha256": "e07a0f70f8b318a934e2c7a79127513faf9e743b11c418546219a6b0150d6d3d"
+    }
+  ]
+}

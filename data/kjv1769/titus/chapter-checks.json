@@ -1,0 +1,23 @@
+{
+  "edition_id": "KJV1769",
+  "book_code": "TIT",
+  "chapter_count": 3,
+  "verse_count": 46,
+  "chapters": [
+    {
+      "chapter": 1,
+      "verse_count": 16,
+      "sha256": "09acb9022645c8b878174a2cbb91217a825281c670e6a01e6aadc6ed0f940cd6"
+    },
+    {
+      "chapter": 2,
+      "verse_count": 15,
+      "sha256": "81d288f662f9cc572dcc5c5e1ebd62f97912f74c00e1e79da0baf9237556993a"
+    },
+    {
+      "chapter": 3,
+      "verse_count": 15,
+      "sha256": "1df5af0da2f0e8a16a0a7816c1bd5c926cf170faed335a81d167be575ee06cb3"
+    }
+  ]
+}

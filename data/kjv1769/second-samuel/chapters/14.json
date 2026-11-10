@@ -1,0 +1,612 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "KJV1769",
+  "book_code": "2SA",
+  "chapter": 14,
+  "verses": [
+    {
+      "id": "2SA.14.1",
+      "edition_verse_id": "KJV1769:2SA.14.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "Now Joab the son of Zeruiah perceived that the king’s heart ",
+          "kind": "text"
+        },
+        {
+          "text": "was",
+          "kind": "supplied"
+        },
+        {
+          "text": " toward Absalom.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "2SA.14.2",
+      "edition_verse_id": "KJV1769:2SA.14.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "And Joab sent to Tekoah, and fetched thence a wise woman, and said unto her, I pray thee, feign thyself to be a mourner, and put on now mourning apparel, and anoint not thyself with oil, but be as a woman that had a long time mourned for the dead:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2SA.14.3",
+      "edition_verse_id": "KJV1769:2SA.14.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "And come to the king, and speak on this manner unto him. So Joab put the words in her mouth.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2SA.14.4",
+      "edition_verse_id": "KJV1769:2SA.14.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "¶ And when the woman of Tekoah spake to the king, she fell on her face to the ground, and did obeisance, and said, Help, O king.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "2SA.14.5",
+      "edition_verse_id": "KJV1769:2SA.14.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "And the king said unto her, What aileth thee? And she answered, I ",
+          "kind": "text"
+        },
+        {
+          "text": "am",
+          "kind": "supplied"
+        },
+        {
+          "text": " indeed a widow woman, and mine husband is dead.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2SA.14.6",
+      "edition_verse_id": "KJV1769:2SA.14.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "And thy handmaid had two sons, and they two strove together in the field, and ",
+          "kind": "text"
+        },
+        {
+          "text": "there was",
+          "kind": "supplied"
+        },
+        {
+          "text": " none to part them, but the one smote the other, and slew him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2SA.14.7",
+      "edition_verse_id": "KJV1769:2SA.14.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "And, behold, the whole family is risen against thine handmaid, and they said, Deliver him that smote his brother, that we may kill him, for the life of his brother whom he slew; and we will destroy the heir also: and so they shall quench my coal which is left, and shall not leave to my husband ",
+          "kind": "text"
+        },
+        {
+          "text": "neither",
+          "kind": "supplied"
+        },
+        {
+          "text": " name nor remainder upon the earth.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2SA.14.8",
+      "edition_verse_id": "KJV1769:2SA.14.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "And the king said unto the woman, Go to thine house, and I will give charge concerning thee.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2SA.14.9",
+      "edition_verse_id": "KJV1769:2SA.14.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "And the woman of Tekoah said unto the king, My lord, O king, the iniquity ",
+          "kind": "text"
+        },
+        {
+          "text": "be",
+          "kind": "supplied"
+        },
+        {
+          "text": " on me, and on my father’s house: and the king and his throne ",
+          "kind": "text"
+        },
+        {
+          "text": "be",
+          "kind": "supplied"
+        },
+        {
+          "text": " guiltless.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2SA.14.10",
+      "edition_verse_id": "KJV1769:2SA.14.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "And the king said, Whosoever saith ",
+          "kind": "text"
+        },
+        {
+          "text": "ought",
+          "kind": "supplied"
+        },
+        {
+          "text": " unto thee, bring him to me, and he shall not touch thee any more.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2SA.14.11",
+      "edition_verse_id": "KJV1769:2SA.14.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "Then said she, I pray thee, let the king remember the LORD thy God, that thou wouldest not suffer the revengers of blood to destroy any more, lest they destroy my son. And he said, ",
+          "kind": "text"
+        },
+        {
+          "text": "As",
+          "kind": "supplied"
+        },
+        {
+          "text": " the LORD liveth, there shall not one hair of thy son fall to the earth.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2SA.14.12",
+      "edition_verse_id": "KJV1769:2SA.14.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "Then the woman said, Let thine handmaid, I pray thee, speak ",
+          "kind": "text"
+        },
+        {
+          "text": "one",
+          "kind": "supplied"
+        },
+        {
+          "text": " word unto my lord the king. And he said, Say on.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2SA.14.13",
+      "edition_verse_id": "KJV1769:2SA.14.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "And the woman said, Wherefore then hast thou thought such a thing against the people of God? for the king doth speak this thing as one which is faulty, in that the king doth not fetch home again his banished.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2SA.14.14",
+      "edition_verse_id": "KJV1769:2SA.14.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "For we must needs die, and ",
+          "kind": "text"
+        },
+        {
+          "text": "are",
+          "kind": "supplied"
+        },
+        {
+          "text": " as water spilt on the ground, which cannot be gathered up again; neither doth God respect ",
+          "kind": "text"
+        },
+        {
+          "text": "any",
+          "kind": "supplied"
+        },
+        {
+          "text": " person: yet doth he devise means, that his banished be not expelled from him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2SA.14.15",
+      "edition_verse_id": "KJV1769:2SA.14.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "Now therefore that I am come to speak of this thing unto my lord the king, ",
+          "kind": "text"
+        },
+        {
+          "text": "it is",
+          "kind": "supplied"
+        },
+        {
+          "text": " because the people have made me afraid: and thy handmaid said, I will now speak unto the king; it may be that the king will perform the request of his handmaid.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2SA.14.16",
+      "edition_verse_id": "KJV1769:2SA.14.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "For the king will hear, to deliver his handmaid out of the hand of the man ",
+          "kind": "text"
+        },
+        {
+          "text": "that would",
+          "kind": "supplied"
+        },
+        {
+          "text": " destroy me and my son together out of the inheritance of God.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2SA.14.17",
+      "edition_verse_id": "KJV1769:2SA.14.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "Then thine handmaid said, The word of my lord the king shall now be comfortable: for as an angel of God, so ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " my lord the king to discern good and bad: therefore the LORD thy God will be with thee.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2SA.14.18",
+      "edition_verse_id": "KJV1769:2SA.14.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "Then the king answered and said unto the woman, Hide not from me, I pray thee, the thing that I shall ask thee. And the woman said, Let my lord the king now speak.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2SA.14.19",
+      "edition_verse_id": "KJV1769:2SA.14.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "And the king said, ",
+          "kind": "text"
+        },
+        {
+          "text": "Is not",
+          "kind": "supplied"
+        },
+        {
+          "text": " the hand of Joab with thee in all this? And the woman answered and said, ",
+          "kind": "text"
+        },
+        {
+          "text": "As",
+          "kind": "supplied"
+        },
+        {
+          "text": " thy soul liveth, my lord the king, none can turn to the right hand or to the left from ought that my lord the king hath spoken: for thy servant Joab, he bade me, and he put all these words in the mouth of thine handmaid:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2SA.14.20",
+      "edition_verse_id": "KJV1769:2SA.14.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "To fetch about this form of speech hath thy servant Joab done this thing: and my lord ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " wise, according to the wisdom of an angel of God, to know all ",
+          "kind": "text"
+        },
+        {
+          "text": "things",
+          "kind": "supplied"
+        },
+        {
+          "text": " that ",
+          "kind": "text"
+        },
+        {
+          "text": "are",
+          "kind": "supplied"
+        },
+        {
+          "text": " in the earth.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2SA.14.21",
+      "edition_verse_id": "KJV1769:2SA.14.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "¶ And the king said unto Joab, Behold now, I have done this thing: go therefore, bring the young man Absalom again.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "2SA.14.22",
+      "edition_verse_id": "KJV1769:2SA.14.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "And Joab fell to the ground on his face, and bowed himself, and thanked the king: and Joab said, To day thy servant knoweth that I have found grace in thy sight, my lord, O king, in that the king hath fulfilled the request of his servant.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2SA.14.23",
+      "edition_verse_id": "KJV1769:2SA.14.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "So Joab arose and went to Geshur, and brought Absalom to Jerusalem.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2SA.14.24",
+      "edition_verse_id": "KJV1769:2SA.14.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "And the king said, Let him turn to his own house, and let him not see my face. So Absalom returned to his own house, and saw not the king’s face.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2SA.14.25",
+      "edition_verse_id": "KJV1769:2SA.14.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "¶ But in all Israel there was none to be so much praised as Absalom for his beauty: from the sole of his foot even to the crown of his head there was no blemish in him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "2SA.14.26",
+      "edition_verse_id": "KJV1769:2SA.14.26",
+      "verse": 26,
+      "spans": [
+        {
+          "text": "And when he polled his head, (for it was at every year’s end that he polled ",
+          "kind": "text"
+        },
+        {
+          "text": "it:",
+          "kind": "supplied"
+        },
+        {
+          "text": " because ",
+          "kind": "text"
+        },
+        {
+          "text": "the hair",
+          "kind": "supplied"
+        },
+        {
+          "text": " was heavy on him, therefore he polled it:) he weighed the hair of his head at two hundred shekels after the king’s weight.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2SA.14.27",
+      "edition_verse_id": "KJV1769:2SA.14.27",
+      "verse": 27,
+      "spans": [
+        {
+          "text": "And unto Absalom there were born three sons, and one daughter, whose name ",
+          "kind": "text"
+        },
+        {
+          "text": "was",
+          "kind": "supplied"
+        },
+        {
+          "text": " Tamar: she was a woman of a fair countenance.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2SA.14.28",
+      "edition_verse_id": "KJV1769:2SA.14.28",
+      "verse": 28,
+      "spans": [
+        {
+          "text": "¶ So Absalom dwelt two full years in Jerusalem, and saw not the king’s face.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "2SA.14.29",
+      "edition_verse_id": "KJV1769:2SA.14.29",
+      "verse": 29,
+      "spans": [
+        {
+          "text": "Therefore Absalom sent for Joab, to have sent him to the king; but he would not come to him: and when he sent again the second time, he would not come.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2SA.14.30",
+      "edition_verse_id": "KJV1769:2SA.14.30",
+      "verse": 30,
+      "spans": [
+        {
+          "text": "Therefore he said unto his servants, See, Joab’s field is near mine, and he hath barley there; go and set it on fire. And Absalom’s servants set the field on fire.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2SA.14.31",
+      "edition_verse_id": "KJV1769:2SA.14.31",
+      "verse": 31,
+      "spans": [
+        {
+          "text": "Then Joab arose, and came to Absalom unto ",
+          "kind": "text"
+        },
+        {
+          "text": "his",
+          "kind": "supplied"
+        },
+        {
+          "text": " house, and said unto him, Wherefore have thy servants set my field on fire?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2SA.14.32",
+      "edition_verse_id": "KJV1769:2SA.14.32",
+      "verse": 32,
+      "spans": [
+        {
+          "text": "And Absalom answered Joab, Behold, I sent unto thee, saying, Come hither, that I may send thee to the king, to say, Wherefore am I come from Geshur? ",
+          "kind": "text"
+        },
+        {
+          "text": "it had been",
+          "kind": "supplied"
+        },
+        {
+          "text": " good for me ",
+          "kind": "text"
+        },
+        {
+          "text": "to have been",
+          "kind": "supplied"
+        },
+        {
+          "text": " there still: now therefore let me see the king’s face; and if there be ",
+          "kind": "text"
+        },
+        {
+          "text": "any",
+          "kind": "supplied"
+        },
+        {
+          "text": " iniquity in me, let him kill me.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2SA.14.33",
+      "edition_verse_id": "KJV1769:2SA.14.33",
+      "verse": 33,
+      "spans": [
+        {
+          "text": "So Joab came to the king, and told him: and when he had called for Absalom, he came to the king, and bowed himself on his face to the ground before the king: and the king kissed Absalom.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

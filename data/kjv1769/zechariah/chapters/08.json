@@ -1,0 +1,436 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "KJV1769",
+  "book_code": "ZEC",
+  "chapter": 8,
+  "verses": [
+    {
+      "id": "ZEC.8.1",
+      "edition_verse_id": "KJV1769:ZEC.8.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "Again the word of the LORD of hosts came ",
+          "kind": "text"
+        },
+        {
+          "text": "to me",
+          "kind": "supplied"
+        },
+        {
+          "text": ", saying,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ZEC.8.2",
+      "edition_verse_id": "KJV1769:ZEC.8.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "Thus saith the LORD of hosts; I was jealous for Zion with great jealousy, and I was jealous for her with great fury.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ZEC.8.3",
+      "edition_verse_id": "KJV1769:ZEC.8.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "Thus saith the LORD; I am returned unto Zion, and will dwell in the midst of Jerusalem: and Jerusalem shall be called a city of truth; and the mountain of the LORD of hosts the holy mountain.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ZEC.8.4",
+      "edition_verse_id": "KJV1769:ZEC.8.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "Thus saith the LORD of hosts; There shall yet old men and old women dwell in the streets of Jerusalem, and every man with his staff in his hand for very age.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ZEC.8.5",
+      "edition_verse_id": "KJV1769:ZEC.8.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "And the streets of the city shall be full of boys and girls playing in the streets thereof.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ZEC.8.6",
+      "edition_verse_id": "KJV1769:ZEC.8.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "Thus saith the LORD of hosts; If it be marvellous in the eyes of the remnant of this people in these days, should it also be marvellous in mine eyes? saith the LORD of hosts.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ZEC.8.7",
+      "edition_verse_id": "KJV1769:ZEC.8.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "Thus saith the LORD of hosts; Behold, I will save my people from the east country, and from the west country;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ZEC.8.8",
+      "edition_verse_id": "KJV1769:ZEC.8.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "And I will bring them, and they shall dwell in the midst of Jerusalem: and they shall be my people, and I will be their God, in truth and in righteousness.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ZEC.8.9",
+      "edition_verse_id": "KJV1769:ZEC.8.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "¶ Thus saith the LORD of hosts; Let your hands be strong, ye that hear in these days these words by the mouth of the prophets, which ",
+          "kind": "text"
+        },
+        {
+          "text": "were",
+          "kind": "supplied"
+        },
+        {
+          "text": " in the day ",
+          "kind": "text"
+        },
+        {
+          "text": "that",
+          "kind": "supplied"
+        },
+        {
+          "text": " the foundation of the house of the LORD of hosts was laid, that the temple might be built.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ZEC.8.10",
+      "edition_verse_id": "KJV1769:ZEC.8.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "For before these days there was no hire for man, nor any hire for beast; neither ",
+          "kind": "text"
+        },
+        {
+          "text": "was there any",
+          "kind": "supplied"
+        },
+        {
+          "text": " peace to him that went out or came in because of the affliction: for I set all men every one against his neighbour.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ZEC.8.11",
+      "edition_verse_id": "KJV1769:ZEC.8.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "But now I ",
+          "kind": "text"
+        },
+        {
+          "text": "will",
+          "kind": "supplied"
+        },
+        {
+          "text": " not ",
+          "kind": "text"
+        },
+        {
+          "text": "be",
+          "kind": "supplied"
+        },
+        {
+          "text": " unto the residue of this people as in the former days, saith the LORD of hosts.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ZEC.8.12",
+      "edition_verse_id": "KJV1769:ZEC.8.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "For the seed ",
+          "kind": "text"
+        },
+        {
+          "text": "shall be",
+          "kind": "supplied"
+        },
+        {
+          "text": " prosperous; the vine shall give her fruit, and the ground shall give her increase, and the heavens shall give their dew; and I will cause the remnant of this people to possess all these ",
+          "kind": "text"
+        },
+        {
+          "text": "things",
+          "kind": "supplied"
+        },
+        {
+          "text": ".",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ZEC.8.13",
+      "edition_verse_id": "KJV1769:ZEC.8.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "And it shall come to pass, ",
+          "kind": "text"
+        },
+        {
+          "text": "that",
+          "kind": "supplied"
+        },
+        {
+          "text": " as ye were a curse among the heathen, O house of Judah, and house of Israel; so will I save you, and ye shall be a blessing: fear not, ",
+          "kind": "text"
+        },
+        {
+          "text": "but",
+          "kind": "supplied"
+        },
+        {
+          "text": " let your hands be strong.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ZEC.8.14",
+      "edition_verse_id": "KJV1769:ZEC.8.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "For thus saith the LORD of hosts; As I thought to punish you, when your fathers provoked me to wrath, saith the LORD of hosts, and I repented not:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ZEC.8.15",
+      "edition_verse_id": "KJV1769:ZEC.8.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "So again have I thought in these days to do well unto Jerusalem and to the house of Judah: fear ye not.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ZEC.8.16",
+      "edition_verse_id": "KJV1769:ZEC.8.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "¶ These ",
+          "kind": "text"
+        },
+        {
+          "text": "are",
+          "kind": "supplied"
+        },
+        {
+          "text": " the things that ye shall do; Speak ye every man the truth to his neighbour; execute the judgment of truth and peace in your gates:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ZEC.8.17",
+      "edition_verse_id": "KJV1769:ZEC.8.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "And let none of you imagine evil in your hearts against his neighbour; and love no false oath: for all these ",
+          "kind": "text"
+        },
+        {
+          "text": "are things",
+          "kind": "supplied"
+        },
+        {
+          "text": " that I hate, saith the LORD.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ZEC.8.18",
+      "edition_verse_id": "KJV1769:ZEC.8.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "¶ And the word of the LORD of hosts came unto me, saying,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ZEC.8.19",
+      "edition_verse_id": "KJV1769:ZEC.8.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "Thus saith the LORD of hosts; The fast of the fourth ",
+          "kind": "text"
+        },
+        {
+          "text": "month",
+          "kind": "supplied"
+        },
+        {
+          "text": ", and the fast of the fifth, and the fast of the seventh, and the fast of the tenth, shall be to the house of Judah joy and gladness, and cheerful feasts; therefore love the truth and peace.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ZEC.8.20",
+      "edition_verse_id": "KJV1769:ZEC.8.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "Thus saith the LORD of hosts; ",
+          "kind": "text"
+        },
+        {
+          "text": "It shall",
+          "kind": "supplied"
+        },
+        {
+          "text": " yet ",
+          "kind": "text"
+        },
+        {
+          "text": "come to pass",
+          "kind": "supplied"
+        },
+        {
+          "text": ", that there shall come people, and the inhabitants of many cities:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ZEC.8.21",
+      "edition_verse_id": "KJV1769:ZEC.8.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "And the inhabitants of one ",
+          "kind": "text"
+        },
+        {
+          "text": "city",
+          "kind": "supplied"
+        },
+        {
+          "text": " shall go to another, saying, Let us go speedily to pray before the LORD, and to seek the LORD of hosts: I will go also.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ZEC.8.22",
+      "edition_verse_id": "KJV1769:ZEC.8.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "Yea, many people and strong nations shall come to seek the LORD of hosts in Jerusalem, and to pray before the LORD.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ZEC.8.23",
+      "edition_verse_id": "KJV1769:ZEC.8.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "Thus saith the LORD of hosts; In those days ",
+          "kind": "text"
+        },
+        {
+          "text": "it shall come to pass",
+          "kind": "supplied"
+        },
+        {
+          "text": ", that ten men shall take hold out of all languages of the nations, even shall take hold of the skirt of him that is a Jew, saying, We will go with you: for we have heard ",
+          "kind": "text"
+        },
+        {
+          "text": "that",
+          "kind": "supplied"
+        },
+        {
+          "text": " God ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " with you.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}
