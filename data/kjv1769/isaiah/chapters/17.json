@@ -1,0 +1,296 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "KJV1769",
+  "book_code": "ISA",
+  "chapter": 17,
+  "verses": [
+    {
+      "id": "ISA.17.1",
+      "edition_verse_id": "KJV1769:ISA.17.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "The burden of Damascus. Behold, Damascus is taken away from ",
+          "kind": "text"
+        },
+        {
+          "text": "being",
+          "kind": "supplied"
+        },
+        {
+          "text": " a city, and it shall be a ruinous heap.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ISA.17.2",
+      "edition_verse_id": "KJV1769:ISA.17.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "The cities of Aroer ",
+          "kind": "text"
+        },
+        {
+          "text": "are",
+          "kind": "supplied"
+        },
+        {
+          "text": " forsaken: they shall be for flocks, which shall lie down, and none shall make ",
+          "kind": "text"
+        },
+        {
+          "text": "them",
+          "kind": "supplied"
+        },
+        {
+          "text": " afraid.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.17.3",
+      "edition_verse_id": "KJV1769:ISA.17.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "The fortress also shall cease from Ephraim, and the kingdom from Damascus, and the remnant of Syria: they shall be as the glory of the children of Israel, saith the LORD of hosts.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.17.4",
+      "edition_verse_id": "KJV1769:ISA.17.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "And in that day it shall come to pass, ",
+          "kind": "text"
+        },
+        {
+          "text": "that",
+          "kind": "supplied"
+        },
+        {
+          "text": " the glory of Jacob shall be made thin, and the fatness of his flesh shall wax lean.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.17.5",
+      "edition_verse_id": "KJV1769:ISA.17.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "And it shall be as when the harvestman gathereth the corn, and reapeth the ears with his arm; and it shall be as he that gathereth ears in the valley of Rephaim.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.17.6",
+      "edition_verse_id": "KJV1769:ISA.17.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "¶ Yet gleaning grapes shall be left in it, as the shaking of an olive tree, two ",
+          "kind": "text"
+        },
+        {
+          "text": "or",
+          "kind": "supplied"
+        },
+        {
+          "text": " three berries in the top of the uppermost bough, four ",
+          "kind": "text"
+        },
+        {
+          "text": "or",
+          "kind": "supplied"
+        },
+        {
+          "text": " five in the outmost fruitful branches thereof, saith the LORD God of Israel.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ISA.17.7",
+      "edition_verse_id": "KJV1769:ISA.17.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "At that day shall a man look to his Maker, and his eyes shall have respect to the Holy One of Israel.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.17.8",
+      "edition_verse_id": "KJV1769:ISA.17.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "And he shall not look to the altars, the work of his hands, neither shall respect ",
+          "kind": "text"
+        },
+        {
+          "text": "that",
+          "kind": "supplied"
+        },
+        {
+          "text": " which his fingers have made, either the groves, or the images.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.17.9",
+      "edition_verse_id": "KJV1769:ISA.17.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "¶ In that day shall his strong cities be as a forsaken bough, and an uppermost branch, which they left because of the children of Israel: and there shall be desolation.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ISA.17.10",
+      "edition_verse_id": "KJV1769:ISA.17.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "Because thou hast forgotten the God of thy salvation, and hast not been mindful of the rock of thy strength, therefore shalt thou plant pleasant plants, and shalt set it with strange slips:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.17.11",
+      "edition_verse_id": "KJV1769:ISA.17.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "In the day shalt thou make thy plant to grow, and in the morning shalt thou make thy seed to flourish: ",
+          "kind": "text"
+        },
+        {
+          "text": "but",
+          "kind": "supplied"
+        },
+        {
+          "text": " the harvest ",
+          "kind": "text"
+        },
+        {
+          "text": "shall be",
+          "kind": "supplied"
+        },
+        {
+          "text": " a heap in the day of grief and of desperate sorrow.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.17.12",
+      "edition_verse_id": "KJV1769:ISA.17.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "¶ Woe to the multitude of many people, ",
+          "kind": "text"
+        },
+        {
+          "text": "which",
+          "kind": "supplied"
+        },
+        {
+          "text": " make a noise like the noise of the seas; and to the rushing of nations, ",
+          "kind": "text"
+        },
+        {
+          "text": "that",
+          "kind": "supplied"
+        },
+        {
+          "text": " make a rushing like the rushing of mighty waters!",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ISA.17.13",
+      "edition_verse_id": "KJV1769:ISA.17.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "The nations shall rush like the rushing of many waters: but ",
+          "kind": "text"
+        },
+        {
+          "text": "God",
+          "kind": "supplied"
+        },
+        {
+          "text": " shall rebuke them, and they shall flee far off, and shall be chased as the chaff of the mountains before the wind, and like a rolling thing before the whirlwind.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.17.14",
+      "edition_verse_id": "KJV1769:ISA.17.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "And behold at eveningtide trouble; ",
+          "kind": "text"
+        },
+        {
+          "text": "and",
+          "kind": "supplied"
+        },
+        {
+          "text": " before the morning he ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " not. This ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " the portion of them that spoil us, and the lot of them that rob us.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

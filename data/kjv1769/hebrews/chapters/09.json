@@ -1,0 +1,472 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "KJV1769",
+  "book_code": "HEB",
+  "chapter": 9,
+  "verses": [
+    {
+      "id": "HEB.9.1",
+      "edition_verse_id": "KJV1769:HEB.9.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "Then verily the first ",
+          "kind": "text"
+        },
+        {
+          "text": "covenant",
+          "kind": "supplied"
+        },
+        {
+          "text": " had also ordinances of divine service, and a worldly sanctuary.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "HEB.9.2",
+      "edition_verse_id": "KJV1769:HEB.9.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "For there was a tabernacle made; the first, wherein ",
+          "kind": "text"
+        },
+        {
+          "text": "was",
+          "kind": "supplied"
+        },
+        {
+          "text": " the candlestick, and the table, and the shewbread; which is called the sanctuary.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "HEB.9.3",
+      "edition_verse_id": "KJV1769:HEB.9.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "And after the second veil, the tabernacle which is called the Holiest of all;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "HEB.9.4",
+      "edition_verse_id": "KJV1769:HEB.9.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "Which had the golden censer, and the ark of the covenant overlaid round about with gold, wherein ",
+          "kind": "text"
+        },
+        {
+          "text": "was",
+          "kind": "supplied"
+        },
+        {
+          "text": " the golden pot that had manna, and Aaron’s rod that budded, and the tables of the covenant;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "HEB.9.5",
+      "edition_verse_id": "KJV1769:HEB.9.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "And over it the cherubims of glory shadowing the mercyseat; of which we can not now speak particularly.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "HEB.9.6",
+      "edition_verse_id": "KJV1769:HEB.9.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "Now when these things were thus ordained, the priests went always into the first tabernacle, accomplishing the service ",
+          "kind": "text"
+        },
+        {
+          "text": "of God",
+          "kind": "supplied"
+        },
+        {
+          "text": ".",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "HEB.9.7",
+      "edition_verse_id": "KJV1769:HEB.9.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "But into the second ",
+          "kind": "text"
+        },
+        {
+          "text": "went",
+          "kind": "supplied"
+        },
+        {
+          "text": " the high priest alone once every year, not without blood, which he offered for himself, and ",
+          "kind": "text"
+        },
+        {
+          "text": "for",
+          "kind": "supplied"
+        },
+        {
+          "text": " the errors of the people:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "HEB.9.8",
+      "edition_verse_id": "KJV1769:HEB.9.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "The Holy Ghost this signifying, that the way into the holiest of all was not yet made manifest, while as the first tabernacle was yet standing:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "HEB.9.9",
+      "edition_verse_id": "KJV1769:HEB.9.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "Which ",
+          "kind": "text"
+        },
+        {
+          "text": "was",
+          "kind": "supplied"
+        },
+        {
+          "text": " a figure for the time then present, in which were offered both gifts and sacrifices, that could not make him that did the service perfect, as pertaining to the conscience;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "HEB.9.10",
+      "edition_verse_id": "KJV1769:HEB.9.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "Which stood",
+          "kind": "supplied"
+        },
+        {
+          "text": " only in meats and drinks, and divers washings, and carnal ordinances, imposed ",
+          "kind": "text"
+        },
+        {
+          "text": "on them",
+          "kind": "supplied"
+        },
+        {
+          "text": " until the time of reformation.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "HEB.9.11",
+      "edition_verse_id": "KJV1769:HEB.9.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "But Christ being come an high priest of good things to come, by a greater and more perfect tabernacle, not made with hands, that is to say, not of this building;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "HEB.9.12",
+      "edition_verse_id": "KJV1769:HEB.9.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "Neither by the blood of goats and calves, but by his own blood he entered in once into the holy place, having obtained eternal redemption ",
+          "kind": "text"
+        },
+        {
+          "text": "for us",
+          "kind": "supplied"
+        },
+        {
+          "text": ".",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "HEB.9.13",
+      "edition_verse_id": "KJV1769:HEB.9.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "For if the blood of bulls and of goats, and the ashes of an heifer sprinkling the unclean, sanctifieth to the purifying of the flesh:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "HEB.9.14",
+      "edition_verse_id": "KJV1769:HEB.9.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "How much more shall the blood of Christ, who through the eternal Spirit offered himself without spot to God, purge your conscience from dead works to serve the living God?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "HEB.9.15",
+      "edition_verse_id": "KJV1769:HEB.9.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "And for this cause he is the mediator of the new testament, that by means of death, for the redemption of the transgressions ",
+          "kind": "text"
+        },
+        {
+          "text": "that were",
+          "kind": "supplied"
+        },
+        {
+          "text": " under the first testament, they which are called might receive the promise of eternal inheritance.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "HEB.9.16",
+      "edition_verse_id": "KJV1769:HEB.9.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "For where a testament ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": ", there must also of necessity be the death of the testator.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "HEB.9.17",
+      "edition_verse_id": "KJV1769:HEB.9.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "For a testament ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " of force after men are dead: otherwise it is of no strength at all while the testator liveth.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "HEB.9.18",
+      "edition_verse_id": "KJV1769:HEB.9.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "Whereupon neither the first ",
+          "kind": "text"
+        },
+        {
+          "text": "testament",
+          "kind": "supplied"
+        },
+        {
+          "text": " was dedicated without blood.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "HEB.9.19",
+      "edition_verse_id": "KJV1769:HEB.9.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "For when Moses had spoken every precept to all the people according to the law, he took the blood of calves and of goats, with water, and scarlet wool, and hyssop, and sprinkled both the book, and all the people,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "HEB.9.20",
+      "edition_verse_id": "KJV1769:HEB.9.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "Saying, This ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " the blood of the testament which God hath enjoined unto you.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "HEB.9.21",
+      "edition_verse_id": "KJV1769:HEB.9.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "Moreover he sprinkled with blood both the tabernacle, and all the vessels of the ministry.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "HEB.9.22",
+      "edition_verse_id": "KJV1769:HEB.9.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "And almost all things are by the law purged with blood; and without shedding of blood is no remission.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "HEB.9.23",
+      "edition_verse_id": "KJV1769:HEB.9.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "It was",
+          "kind": "supplied"
+        },
+        {
+          "text": " therefore necessary that the patterns of things in the heavens should be purified with these; but the heavenly things themselves with better sacrifices than these.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "HEB.9.24",
+      "edition_verse_id": "KJV1769:HEB.9.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "For Christ is not entered into the holy places made with hands, ",
+          "kind": "text"
+        },
+        {
+          "text": "which are",
+          "kind": "supplied"
+        },
+        {
+          "text": " the figures of the true; but into heaven itself, now to appear in the presence of God for us:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "HEB.9.25",
+      "edition_verse_id": "KJV1769:HEB.9.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "Nor yet that he should offer himself often, as the high priest entereth into the holy place every year with blood of others;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "HEB.9.26",
+      "edition_verse_id": "KJV1769:HEB.9.26",
+      "verse": 26,
+      "spans": [
+        {
+          "text": "For then must he often have suffered since the foundation of the world: but now once in the end of the world hath he appeared to put away sin by the sacrifice of himself.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "HEB.9.27",
+      "edition_verse_id": "KJV1769:HEB.9.27",
+      "verse": 27,
+      "spans": [
+        {
+          "text": "And as it is appointed unto men once to die, but after this the judgment:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "HEB.9.28",
+      "edition_verse_id": "KJV1769:HEB.9.28",
+      "verse": 28,
+      "spans": [
+        {
+          "text": "So Christ was once offered to bear the sins of many; and unto them that look for him shall he appear the second time without sin unto salvation.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

@@ -1,0 +1,476 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "KJV1769",
+  "book_code": "ISA",
+  "chapter": 42,
+  "verses": [
+    {
+      "id": "ISA.42.1",
+      "edition_verse_id": "KJV1769:ISA.42.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "Behold my servant, whom I uphold; mine elect, ",
+          "kind": "text"
+        },
+        {
+          "text": "in whom",
+          "kind": "supplied"
+        },
+        {
+          "text": " my soul delighteth; I have put my spirit upon him: he shall bring forth judgment to the Gentiles.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ISA.42.2",
+      "edition_verse_id": "KJV1769:ISA.42.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "He shall not cry, nor lift up, nor cause his voice to be heard in the street.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.42.3",
+      "edition_verse_id": "KJV1769:ISA.42.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "A bruised reed shall he not break, and the smoking flax shall he not quench: he shall bring forth judgment unto truth.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.42.4",
+      "edition_verse_id": "KJV1769:ISA.42.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "He shall not fail nor be discouraged, till he have set judgment in the earth: and the isles shall wait for his law.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.42.5",
+      "edition_verse_id": "KJV1769:ISA.42.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "¶ Thus saith God the LORD, he that created the heavens, and stretched them out; he that spread forth the earth, and that which cometh out of it; he that giveth breath unto the people upon it, and spirit to them that walk therein:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ISA.42.6",
+      "edition_verse_id": "KJV1769:ISA.42.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "I the LORD have called thee in righteousness, and will hold thine hand, and will keep thee, and give thee for a covenant of the people, for a light of the Gentiles;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.42.7",
+      "edition_verse_id": "KJV1769:ISA.42.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "To open the blind eyes, to bring out the prisoners from the prison, ",
+          "kind": "text"
+        },
+        {
+          "text": "and",
+          "kind": "supplied"
+        },
+        {
+          "text": " them that sit in darkness out of the prison house.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.42.8",
+      "edition_verse_id": "KJV1769:ISA.42.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "I ",
+          "kind": "text"
+        },
+        {
+          "text": "am",
+          "kind": "supplied"
+        },
+        {
+          "text": " the LORD: that ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " my name: and my glory will I not give to another, neither my praise to graven images.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.42.9",
+      "edition_verse_id": "KJV1769:ISA.42.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "Behold, the former things are come to pass, and new things do I declare: before they spring forth I tell you of them.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.42.10",
+      "edition_verse_id": "KJV1769:ISA.42.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "Sing unto the LORD a new song, ",
+          "kind": "text"
+        },
+        {
+          "text": "and",
+          "kind": "supplied"
+        },
+        {
+          "text": " his praise from the end of the earth, ye that go down to the sea, and all that is therein; the isles, and the inhabitants thereof.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.42.11",
+      "edition_verse_id": "KJV1769:ISA.42.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "Let the wilderness and the cities thereof lift up ",
+          "kind": "text"
+        },
+        {
+          "text": "their voice",
+          "kind": "supplied"
+        },
+        {
+          "text": ", the villages ",
+          "kind": "text"
+        },
+        {
+          "text": "that",
+          "kind": "supplied"
+        },
+        {
+          "text": " Kedar doth inhabit: let the inhabitants of the rock sing, let them shout from the top of the mountains.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.42.12",
+      "edition_verse_id": "KJV1769:ISA.42.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "Let them give glory unto the LORD, and declare his praise in the islands.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.42.13",
+      "edition_verse_id": "KJV1769:ISA.42.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "The LORD shall go forth as a mighty man, he shall stir up jealousy like a man of war: he shall cry, yea, roar; he shall prevail against his enemies.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ISA.42.14",
+      "edition_verse_id": "KJV1769:ISA.42.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "I have long time holden my peace; I have been still, ",
+          "kind": "text"
+        },
+        {
+          "text": "and",
+          "kind": "supplied"
+        },
+        {
+          "text": " refrained myself: ",
+          "kind": "text"
+        },
+        {
+          "text": "now",
+          "kind": "supplied"
+        },
+        {
+          "text": " will I cry like a travailing woman; I will destroy and devour at once.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.42.15",
+      "edition_verse_id": "KJV1769:ISA.42.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "I will make waste mountains and hills, and dry up all their herbs; and I will make the rivers islands, and I will dry up the pools.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.42.16",
+      "edition_verse_id": "KJV1769:ISA.42.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "And I will bring the blind by a way ",
+          "kind": "text"
+        },
+        {
+          "text": "that",
+          "kind": "supplied"
+        },
+        {
+          "text": " they knew not; I will lead them in paths ",
+          "kind": "text"
+        },
+        {
+          "text": "that",
+          "kind": "supplied"
+        },
+        {
+          "text": " they have not known: I will make darkness light before them, and crooked things straight. These things will I do unto them, and not forsake them.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.42.17",
+      "edition_verse_id": "KJV1769:ISA.42.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "¶ They shall be turned back, they shall be greatly ashamed, that trust in graven images, that say to the molten images, Ye ",
+          "kind": "text"
+        },
+        {
+          "text": "are",
+          "kind": "supplied"
+        },
+        {
+          "text": " our gods.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ISA.42.18",
+      "edition_verse_id": "KJV1769:ISA.42.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "Hear, ye deaf; and look, ye blind, that ye may see.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ISA.42.19",
+      "edition_verse_id": "KJV1769:ISA.42.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "Who ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " blind, but my servant? or deaf, as my messenger ",
+          "kind": "text"
+        },
+        {
+          "text": "that",
+          "kind": "supplied"
+        },
+        {
+          "text": " I sent? who ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " blind as ",
+          "kind": "text"
+        },
+        {
+          "text": "he that is",
+          "kind": "supplied"
+        },
+        {
+          "text": " perfect, and blind as the LORD’s servant?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.42.20",
+      "edition_verse_id": "KJV1769:ISA.42.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "Seeing many things, but thou observest not; opening the ears, but he heareth not.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.42.21",
+      "edition_verse_id": "KJV1769:ISA.42.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "The LORD is well pleased for his righteousness’ sake; he will magnify the law, and make ",
+          "kind": "text"
+        },
+        {
+          "text": "it",
+          "kind": "supplied"
+        },
+        {
+          "text": " honourable.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.42.22",
+      "edition_verse_id": "KJV1769:ISA.42.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "But this ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " a people robbed and spoiled; ",
+          "kind": "text"
+        },
+        {
+          "text": "they are",
+          "kind": "supplied"
+        },
+        {
+          "text": " all of them snared in holes, and they are hid in prison houses: they are for a prey, and none delivereth; for a spoil, and none saith, Restore.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.42.23",
+      "edition_verse_id": "KJV1769:ISA.42.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "Who among you will give ear to this? ",
+          "kind": "text"
+        },
+        {
+          "text": "who",
+          "kind": "supplied"
+        },
+        {
+          "text": " will hearken and hear for the time to come?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.42.24",
+      "edition_verse_id": "KJV1769:ISA.42.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "Who gave Jacob for a spoil, and Israel to the robbers? did not the LORD, he against whom we have sinned? for they would not walk in his ways, neither were they obedient unto his law.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.42.25",
+      "edition_verse_id": "KJV1769:ISA.42.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "Therefore he hath poured upon him the fury of his anger, and the strength of battle: and it hath set him on fire round about, yet he knew not; and it burned him, yet he laid ",
+          "kind": "text"
+        },
+        {
+          "text": "it",
+          "kind": "supplied"
+        },
+        {
+          "text": " not to heart.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

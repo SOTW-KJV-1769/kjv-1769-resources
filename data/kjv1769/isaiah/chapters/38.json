@@ -1,0 +1,408 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "KJV1769",
+  "book_code": "ISA",
+  "chapter": 38,
+  "verses": [
+    {
+      "id": "ISA.38.1",
+      "edition_verse_id": "KJV1769:ISA.38.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "In those days was Hezekiah sick unto death. And Isaiah the prophet the son of Amoz came unto him, and said unto him, Thus saith the LORD, Set thine house in order: for thou shalt die, and not live.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ISA.38.2",
+      "edition_verse_id": "KJV1769:ISA.38.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "Then Hezekiah turned his face toward the wall, and prayed unto the LORD,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.38.3",
+      "edition_verse_id": "KJV1769:ISA.38.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "And said, Remember now, O LORD, I beseech thee, how I have walked before thee in truth and with a perfect heart, and have done ",
+          "kind": "text"
+        },
+        {
+          "text": "that which is",
+          "kind": "supplied"
+        },
+        {
+          "text": " good in thy sight. And Hezekiah wept sore.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.38.4",
+      "edition_verse_id": "KJV1769:ISA.38.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "¶ Then came the word of the LORD to Isaiah, saying,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ISA.38.5",
+      "edition_verse_id": "KJV1769:ISA.38.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "Go, and say to Hezekiah, Thus saith the LORD, the God of David thy father, I have heard thy prayer, I have seen thy tears: behold, I will add unto thy days fifteen years.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.38.6",
+      "edition_verse_id": "KJV1769:ISA.38.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "And I will deliver thee and this city out of the hand of the king of Assyria: and I will defend this city.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.38.7",
+      "edition_verse_id": "KJV1769:ISA.38.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "And this ",
+          "kind": "text"
+        },
+        {
+          "text": "shall be",
+          "kind": "supplied"
+        },
+        {
+          "text": " a sign unto thee from the LORD, that the LORD will do this thing that he hath spoken;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.38.8",
+      "edition_verse_id": "KJV1769:ISA.38.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "Behold, I will bring again the shadow of the degrees, which is gone down in the sun dial of Ahaz, ten degrees backward. So the sun returned ten degrees, by which degrees it was gone down.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.38.9",
+      "edition_verse_id": "KJV1769:ISA.38.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "¶ The writing of Hezekiah king of Judah, when he had been sick, and was recovered of his sickness:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ISA.38.10",
+      "edition_verse_id": "KJV1769:ISA.38.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "I said in the cutting off of my days, I shall go to the gates of the grave: I am deprived of the residue of my years.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.38.11",
+      "edition_verse_id": "KJV1769:ISA.38.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "I said, I shall not see the LORD, ",
+          "kind": "text"
+        },
+        {
+          "text": "even",
+          "kind": "supplied"
+        },
+        {
+          "text": " the LORD, in the land of the living: I shall behold man no more with the inhabitants of the world.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.38.12",
+      "edition_verse_id": "KJV1769:ISA.38.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "Mine age is departed, and is removed from me as a shepherd’s tent: I have cut off like a weaver my life: he will cut me off with pining sickness: from day ",
+          "kind": "text"
+        },
+        {
+          "text": "even",
+          "kind": "supplied"
+        },
+        {
+          "text": " to night wilt thou make an end of me.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.38.13",
+      "edition_verse_id": "KJV1769:ISA.38.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "I reckoned till morning, ",
+          "kind": "text"
+        },
+        {
+          "text": "that",
+          "kind": "supplied"
+        },
+        {
+          "text": ", as a lion, so will he break all my bones: from day ",
+          "kind": "text"
+        },
+        {
+          "text": "even",
+          "kind": "supplied"
+        },
+        {
+          "text": " to night wilt thou make an end of me.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.38.14",
+      "edition_verse_id": "KJV1769:ISA.38.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "Like a crane ",
+          "kind": "text"
+        },
+        {
+          "text": "or",
+          "kind": "supplied"
+        },
+        {
+          "text": " a swallow, so did I chatter: I did mourn as a dove: mine eyes fail ",
+          "kind": "text"
+        },
+        {
+          "text": "with looking",
+          "kind": "supplied"
+        },
+        {
+          "text": " upward: O LORD, I am oppressed; undertake for me.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.38.15",
+      "edition_verse_id": "KJV1769:ISA.38.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "What shall I say? he hath both spoken unto me, and himself hath done ",
+          "kind": "text"
+        },
+        {
+          "text": "it:",
+          "kind": "supplied"
+        },
+        {
+          "text": " I shall go softly all my years in the bitterness of my soul.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.38.16",
+      "edition_verse_id": "KJV1769:ISA.38.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "O Lord, by these ",
+          "kind": "text"
+        },
+        {
+          "text": "things men",
+          "kind": "supplied"
+        },
+        {
+          "text": " live, and in all these ",
+          "kind": "text"
+        },
+        {
+          "text": "things is",
+          "kind": "supplied"
+        },
+        {
+          "text": " the life of my spirit: so wilt thou recover me, and make me to live.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.38.17",
+      "edition_verse_id": "KJV1769:ISA.38.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "Behold, for peace I had great bitterness: but thou hast in love to my soul ",
+          "kind": "text"
+        },
+        {
+          "text": "delivered it",
+          "kind": "supplied"
+        },
+        {
+          "text": " from the pit of corruption: for thou hast cast all my sins behind thy back.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.38.18",
+      "edition_verse_id": "KJV1769:ISA.38.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "For the grave cannot praise thee, death can ",
+          "kind": "text"
+        },
+        {
+          "text": "not",
+          "kind": "supplied"
+        },
+        {
+          "text": " celebrate thee: they that go down into the pit cannot hope for thy truth.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.38.19",
+      "edition_verse_id": "KJV1769:ISA.38.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "The living, the living, he shall praise thee, as I ",
+          "kind": "text"
+        },
+        {
+          "text": "do",
+          "kind": "supplied"
+        },
+        {
+          "text": " this day: the father to the children shall make known thy truth.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.38.20",
+      "edition_verse_id": "KJV1769:ISA.38.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "The LORD ",
+          "kind": "text"
+        },
+        {
+          "text": "was ready",
+          "kind": "supplied"
+        },
+        {
+          "text": " to save me: therefore we will sing my songs to the stringed instruments all the days of our life in the house of the LORD.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.38.21",
+      "edition_verse_id": "KJV1769:ISA.38.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "For Isaiah had said, Let them take a lump of figs, and lay ",
+          "kind": "text"
+        },
+        {
+          "text": "it",
+          "kind": "supplied"
+        },
+        {
+          "text": " for a plaister upon the boil, and he shall recover.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.38.22",
+      "edition_verse_id": "KJV1769:ISA.38.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "Hezekiah also had said, What ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " the sign that I shall go up to the house of the LORD?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

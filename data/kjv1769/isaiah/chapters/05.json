@@ -1,0 +1,560 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "KJV1769",
+  "book_code": "ISA",
+  "chapter": 5,
+  "verses": [
+    {
+      "id": "ISA.5.1",
+      "edition_verse_id": "KJV1769:ISA.5.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "Now will I sing to my wellbeloved a song of my beloved touching his vineyard. My wellbeloved hath a vineyard in a very fruitful hill:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ISA.5.2",
+      "edition_verse_id": "KJV1769:ISA.5.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "And he fenced it, and gathered out the stones thereof, and planted it with the choicest vine, and built a tower in the midst of it, and also made a winepress therein: and he looked that it should bring forth grapes, and it brought forth wild grapes.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.5.3",
+      "edition_verse_id": "KJV1769:ISA.5.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "And now, O inhabitants of Jerusalem, and men of Judah, judge, I pray you, betwixt me and my vineyard.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.5.4",
+      "edition_verse_id": "KJV1769:ISA.5.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "What could have been done more to my vineyard, that I have not done in it? wherefore, when I looked that it should bring forth grapes, brought it forth wild grapes?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.5.5",
+      "edition_verse_id": "KJV1769:ISA.5.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "And now go to; I will tell you what I will do to my vineyard: I will take away the hedge thereof, and it shall be eaten up; ",
+          "kind": "text"
+        },
+        {
+          "text": "and",
+          "kind": "supplied"
+        },
+        {
+          "text": " break down the wall thereof, and it shall be trodden down:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.5.6",
+      "edition_verse_id": "KJV1769:ISA.5.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "And I will lay it waste: it shall not be pruned, nor digged; but there shall come up briers and thorns: I will also command the clouds that they rain no rain upon it.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.5.7",
+      "edition_verse_id": "KJV1769:ISA.5.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "For the vineyard of the LORD of hosts ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " the house of Israel, and the men of Judah his pleasant plant: and he looked for judgment, but behold oppression; for righteousness, but behold a cry.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.5.8",
+      "edition_verse_id": "KJV1769:ISA.5.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "¶ Woe unto them that join house to house, ",
+          "kind": "text"
+        },
+        {
+          "text": "that",
+          "kind": "supplied"
+        },
+        {
+          "text": " lay field to field, till ",
+          "kind": "text"
+        },
+        {
+          "text": "there be",
+          "kind": "supplied"
+        },
+        {
+          "text": " no place, that they may be placed alone in the midst of the earth!",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ISA.5.9",
+      "edition_verse_id": "KJV1769:ISA.5.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "In mine ears ",
+          "kind": "text"
+        },
+        {
+          "text": "said",
+          "kind": "supplied"
+        },
+        {
+          "text": " the LORD of hosts, Of a truth many houses shall be desolate, ",
+          "kind": "text"
+        },
+        {
+          "text": "even",
+          "kind": "supplied"
+        },
+        {
+          "text": " great and fair, without inhabitant.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.5.10",
+      "edition_verse_id": "KJV1769:ISA.5.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "Yea, ten acres of vineyard shall yield one bath, and the seed of an homer shall yield an ephah.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.5.11",
+      "edition_verse_id": "KJV1769:ISA.5.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "¶ Woe unto them that rise up early in the morning, ",
+          "kind": "text"
+        },
+        {
+          "text": "that",
+          "kind": "supplied"
+        },
+        {
+          "text": " they may follow strong drink; that continue until night, ",
+          "kind": "text"
+        },
+        {
+          "text": "till",
+          "kind": "supplied"
+        },
+        {
+          "text": " wine inflame them!",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ISA.5.12",
+      "edition_verse_id": "KJV1769:ISA.5.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "And the harp, and the viol, the tabret, and pipe, and wine, are in their feasts: but they regard not the work of the LORD, neither consider the operation of his hands.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.5.13",
+      "edition_verse_id": "KJV1769:ISA.5.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "¶ Therefore my people are gone into captivity, because ",
+          "kind": "text"
+        },
+        {
+          "text": "they have",
+          "kind": "supplied"
+        },
+        {
+          "text": " no knowledge: and their honourable men ",
+          "kind": "text"
+        },
+        {
+          "text": "are",
+          "kind": "supplied"
+        },
+        {
+          "text": " famished, and their multitude dried up with thirst.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ISA.5.14",
+      "edition_verse_id": "KJV1769:ISA.5.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "Therefore hell hath enlarged herself, and opened her mouth without measure: and their glory, and their multitude, and their pomp, and he that rejoiceth, shall descend into it.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.5.15",
+      "edition_verse_id": "KJV1769:ISA.5.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "And the mean man shall be brought down, and the mighty man shall be humbled, and the eyes of the lofty shall be humbled:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.5.16",
+      "edition_verse_id": "KJV1769:ISA.5.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "But the LORD of hosts shall be exalted in judgment, and God that is holy shall be sanctified in righteousness.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.5.17",
+      "edition_verse_id": "KJV1769:ISA.5.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "Then shall the lambs feed after their manner, and the waste places of the fat ones shall strangers eat.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.5.18",
+      "edition_verse_id": "KJV1769:ISA.5.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "Woe unto them that draw iniquity with cords of vanity, and sin as it were with a cart rope:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ISA.5.19",
+      "edition_verse_id": "KJV1769:ISA.5.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "That say, Let him make speed, ",
+          "kind": "text"
+        },
+        {
+          "text": "and",
+          "kind": "supplied"
+        },
+        {
+          "text": " hasten his work, that we may see ",
+          "kind": "text"
+        },
+        {
+          "text": "it:",
+          "kind": "supplied"
+        },
+        {
+          "text": " and let the counsel of the Holy One of Israel draw nigh and come, that we may know ",
+          "kind": "text"
+        },
+        {
+          "text": "it",
+          "kind": "supplied"
+        },
+        {
+          "text": "!",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.5.20",
+      "edition_verse_id": "KJV1769:ISA.5.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "¶ Woe unto them that call evil good, and good evil; that put darkness for light, and light for darkness; that put bitter for sweet, and sweet for bitter!",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ISA.5.21",
+      "edition_verse_id": "KJV1769:ISA.5.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "Woe unto ",
+          "kind": "text"
+        },
+        {
+          "text": "them that are",
+          "kind": "supplied"
+        },
+        {
+          "text": " wise in their own eyes, and prudent in their own sight!",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.5.22",
+      "edition_verse_id": "KJV1769:ISA.5.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "Woe unto ",
+          "kind": "text"
+        },
+        {
+          "text": "them that are",
+          "kind": "supplied"
+        },
+        {
+          "text": " mighty to drink wine, and men of strength to mingle strong drink:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.5.23",
+      "edition_verse_id": "KJV1769:ISA.5.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "Which justify the wicked for reward, and take away the righteousness of the righteous from him!",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.5.24",
+      "edition_verse_id": "KJV1769:ISA.5.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "Therefore as the fire devoureth the stubble, and the flame consumeth the chaff, ",
+          "kind": "text"
+        },
+        {
+          "text": "so",
+          "kind": "supplied"
+        },
+        {
+          "text": " their root shall be as rottenness, and their blossom shall go up as dust: because they have cast away the law of the LORD of hosts, and despised the word of the Holy One of Israel.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.5.25",
+      "edition_verse_id": "KJV1769:ISA.5.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "Therefore is the anger of the LORD kindled against his people, and he hath stretched forth his hand against them, and hath smitten them: and the hills did tremble, and their carcases ",
+          "kind": "text"
+        },
+        {
+          "text": "were",
+          "kind": "supplied"
+        },
+        {
+          "text": " torn in the midst of the streets. For all this his anger is not turned away, but his hand ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " stretched out still.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.5.26",
+      "edition_verse_id": "KJV1769:ISA.5.26",
+      "verse": 26,
+      "spans": [
+        {
+          "text": "¶ And he will lift up an ensign to the nations from far, and will hiss unto them from the end of the earth: and, behold, they shall come with speed swiftly:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ISA.5.27",
+      "edition_verse_id": "KJV1769:ISA.5.27",
+      "verse": 27,
+      "spans": [
+        {
+          "text": "None shall be weary nor stumble among them; none shall slumber nor sleep; neither shall the girdle of their loins be loosed, nor the latchet of their shoes be broken:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.5.28",
+      "edition_verse_id": "KJV1769:ISA.5.28",
+      "verse": 28,
+      "spans": [
+        {
+          "text": "Whose arrows ",
+          "kind": "text"
+        },
+        {
+          "text": "are",
+          "kind": "supplied"
+        },
+        {
+          "text": " sharp, and all their bows bent, their horses’ hoofs shall be counted like flint, and their wheels like a whirlwind:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.5.29",
+      "edition_verse_id": "KJV1769:ISA.5.29",
+      "verse": 29,
+      "spans": [
+        {
+          "text": "Their roaring ",
+          "kind": "text"
+        },
+        {
+          "text": "shall be",
+          "kind": "supplied"
+        },
+        {
+          "text": " like a lion, they shall roar like young lions: yea, they shall roar, and lay hold of the prey, and shall carry ",
+          "kind": "text"
+        },
+        {
+          "text": "it",
+          "kind": "supplied"
+        },
+        {
+          "text": " away safe, and none shall deliver ",
+          "kind": "text"
+        },
+        {
+          "text": "it",
+          "kind": "supplied"
+        },
+        {
+          "text": ".",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.5.30",
+      "edition_verse_id": "KJV1769:ISA.5.30",
+      "verse": 30,
+      "spans": [
+        {
+          "text": "And in that day they shall roar against them like the roaring of the sea: and if ",
+          "kind": "text"
+        },
+        {
+          "text": "one",
+          "kind": "supplied"
+        },
+        {
+          "text": " look unto the land, behold darkness ",
+          "kind": "text"
+        },
+        {
+          "text": "and",
+          "kind": "supplied"
+        },
+        {
+          "text": " sorrow, and the light is darkened in the heavens thereof.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

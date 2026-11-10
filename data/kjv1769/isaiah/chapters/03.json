@@ -1,0 +1,512 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "KJV1769",
+  "book_code": "ISA",
+  "chapter": 3,
+  "verses": [
+    {
+      "id": "ISA.3.1",
+      "edition_verse_id": "KJV1769:ISA.3.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "For, behold, the Lord, the LORD of hosts, doth take away from Jerusalem and from Judah the stay and the staff, the whole stay of bread, and the whole stay of water,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ISA.3.2",
+      "edition_verse_id": "KJV1769:ISA.3.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "The mighty man, and the man of war, the judge, and the prophet, and the prudent, and the ancient,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.3.3",
+      "edition_verse_id": "KJV1769:ISA.3.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "The captain of fifty, and the honourable man, and the counsellor, and the cunning artificer, and the eloquent orator.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.3.4",
+      "edition_verse_id": "KJV1769:ISA.3.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "And I will give children ",
+          "kind": "text"
+        },
+        {
+          "text": "to be",
+          "kind": "supplied"
+        },
+        {
+          "text": " their princes, and babes shall rule over them.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.3.5",
+      "edition_verse_id": "KJV1769:ISA.3.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "And the people shall be oppressed, every one by another, and every one by his neighbour: the child shall behave himself proudly against the ancient, and the base against the honourable.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.3.6",
+      "edition_verse_id": "KJV1769:ISA.3.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "When a man shall take hold of his brother of the house of his father, ",
+          "kind": "text"
+        },
+        {
+          "text": "saying",
+          "kind": "supplied"
+        },
+        {
+          "text": ", Thou hast clothing, be thou our ruler, and ",
+          "kind": "text"
+        },
+        {
+          "text": "let",
+          "kind": "supplied"
+        },
+        {
+          "text": " this ruin ",
+          "kind": "text"
+        },
+        {
+          "text": "be",
+          "kind": "supplied"
+        },
+        {
+          "text": " under thy hand:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.3.7",
+      "edition_verse_id": "KJV1769:ISA.3.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "In that day shall he swear, saying, I will not be an healer; for in my house ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " neither bread nor clothing: make me not a ruler of the people.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.3.8",
+      "edition_verse_id": "KJV1769:ISA.3.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "For Jerusalem is ruined, and Judah is fallen: because their tongue and their doings ",
+          "kind": "text"
+        },
+        {
+          "text": "are",
+          "kind": "supplied"
+        },
+        {
+          "text": " against the LORD, to provoke the eyes of his glory.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.3.9",
+      "edition_verse_id": "KJV1769:ISA.3.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "¶ The shew of their countenance doth witness against them; and they declare their sin as Sodom, they hide ",
+          "kind": "text"
+        },
+        {
+          "text": "it",
+          "kind": "supplied"
+        },
+        {
+          "text": " not. Woe unto their soul! for they have rewarded evil unto themselves.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ISA.3.10",
+      "edition_verse_id": "KJV1769:ISA.3.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "Say ye to the righteous, that ",
+          "kind": "text"
+        },
+        {
+          "text": "it shall be",
+          "kind": "supplied"
+        },
+        {
+          "text": " well ",
+          "kind": "text"
+        },
+        {
+          "text": "with him:",
+          "kind": "supplied"
+        },
+        {
+          "text": " for they shall eat the fruit of their doings.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.3.11",
+      "edition_verse_id": "KJV1769:ISA.3.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "Woe unto the wicked! ",
+          "kind": "text"
+        },
+        {
+          "text": "it shall be",
+          "kind": "supplied"
+        },
+        {
+          "text": " ill ",
+          "kind": "text"
+        },
+        {
+          "text": "with him:",
+          "kind": "supplied"
+        },
+        {
+          "text": " for the reward of his hands shall be given him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.3.12",
+      "edition_verse_id": "KJV1769:ISA.3.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "¶ ",
+          "kind": "text"
+        },
+        {
+          "text": "As for",
+          "kind": "supplied"
+        },
+        {
+          "text": " my people, children ",
+          "kind": "text"
+        },
+        {
+          "text": "are",
+          "kind": "supplied"
+        },
+        {
+          "text": " their oppressors, and women rule over them. O my people, they which lead thee cause ",
+          "kind": "text"
+        },
+        {
+          "text": "thee",
+          "kind": "supplied"
+        },
+        {
+          "text": " to err, and destroy the way of thy paths.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ISA.3.13",
+      "edition_verse_id": "KJV1769:ISA.3.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "The LORD standeth up to plead, and standeth to judge the people.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.3.14",
+      "edition_verse_id": "KJV1769:ISA.3.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "The LORD will enter into judgment with the ancients of his people, and the princes thereof: for ye have eaten up the vineyard; the spoil of the poor ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " in your houses.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.3.15",
+      "edition_verse_id": "KJV1769:ISA.3.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "What mean ye ",
+          "kind": "text"
+        },
+        {
+          "text": "that",
+          "kind": "supplied"
+        },
+        {
+          "text": " ye beat my people to pieces, and grind the faces of the poor? saith the Lord GOD of hosts.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.3.16",
+      "edition_verse_id": "KJV1769:ISA.3.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "¶ Moreover the LORD saith, Because the daughters of Zion are haughty, and walk with stretched forth necks and wanton eyes, walking and mincing ",
+          "kind": "text"
+        },
+        {
+          "text": "as",
+          "kind": "supplied"
+        },
+        {
+          "text": " they go, and making a tinkling with their feet:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ISA.3.17",
+      "edition_verse_id": "KJV1769:ISA.3.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "Therefore the Lord will smite with a scab the crown of the head of the daughters of Zion, and the LORD will discover their secret parts.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.3.18",
+      "edition_verse_id": "KJV1769:ISA.3.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "In that day the Lord will take away the bravery of ",
+          "kind": "text"
+        },
+        {
+          "text": "their",
+          "kind": "supplied"
+        },
+        {
+          "text": " tinkling ornaments ",
+          "kind": "text"
+        },
+        {
+          "text": "about their feet",
+          "kind": "supplied"
+        },
+        {
+          "text": ", and ",
+          "kind": "text"
+        },
+        {
+          "text": "their",
+          "kind": "supplied"
+        },
+        {
+          "text": " cauls, and ",
+          "kind": "text"
+        },
+        {
+          "text": "their",
+          "kind": "supplied"
+        },
+        {
+          "text": " round tires like the moon,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.3.19",
+      "edition_verse_id": "KJV1769:ISA.3.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "The chains, and the bracelets, and the mufflers,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.3.20",
+      "edition_verse_id": "KJV1769:ISA.3.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "The bonnets, and the ornaments of the legs, and the headbands, and the tablets, and the earrings,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.3.21",
+      "edition_verse_id": "KJV1769:ISA.3.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "The rings, and nose jewels,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.3.22",
+      "edition_verse_id": "KJV1769:ISA.3.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "The changeable suits of apparel, and the mantles, and the wimples, and the crisping pins,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.3.23",
+      "edition_verse_id": "KJV1769:ISA.3.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "The glasses, and the fine linen, and the hoods, and the vails.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.3.24",
+      "edition_verse_id": "KJV1769:ISA.3.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "And it shall come to pass, ",
+          "kind": "text"
+        },
+        {
+          "text": "that",
+          "kind": "supplied"
+        },
+        {
+          "text": " instead of sweet smell there shall be stink; and instead of a girdle a rent; and instead of well set hair baldness; and instead of a stomacher a girding of sackcloth; ",
+          "kind": "text"
+        },
+        {
+          "text": "and",
+          "kind": "supplied"
+        },
+        {
+          "text": " burning instead of beauty.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.3.25",
+      "edition_verse_id": "KJV1769:ISA.3.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "Thy men shall fall by the sword, and thy mighty in the war.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.3.26",
+      "edition_verse_id": "KJV1769:ISA.3.26",
+      "verse": 26,
+      "spans": [
+        {
+          "text": "And her gates shall lament and mourn; and she ",
+          "kind": "text"
+        },
+        {
+          "text": "being",
+          "kind": "supplied"
+        },
+        {
+          "text": " desolate shall sit upon the ground.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

@@ -1,0 +1,512 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "KJV1769",
+  "book_code": "ISA",
+  "chapter": 26,
+  "verses": [
+    {
+      "id": "ISA.26.1",
+      "edition_verse_id": "KJV1769:ISA.26.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "In that day shall this song be sung in the land of Judah; We have a strong city; salvation will ",
+          "kind": "text"
+        },
+        {
+          "text": "God",
+          "kind": "supplied"
+        },
+        {
+          "text": " appoint ",
+          "kind": "text"
+        },
+        {
+          "text": "for",
+          "kind": "supplied"
+        },
+        {
+          "text": " walls and bulwarks.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ISA.26.2",
+      "edition_verse_id": "KJV1769:ISA.26.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "Open ye the gates, that the righteous nation which keepeth the truth may enter in.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.26.3",
+      "edition_verse_id": "KJV1769:ISA.26.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "Thou wilt keep ",
+          "kind": "text"
+        },
+        {
+          "text": "him",
+          "kind": "supplied"
+        },
+        {
+          "text": " in perfect peace, ",
+          "kind": "text"
+        },
+        {
+          "text": "whose",
+          "kind": "supplied"
+        },
+        {
+          "text": " mind ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " stayed ",
+          "kind": "text"
+        },
+        {
+          "text": "on thee:",
+          "kind": "supplied"
+        },
+        {
+          "text": " because he trusteth in thee.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.26.4",
+      "edition_verse_id": "KJV1769:ISA.26.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "Trust ye in the LORD for ever: for in the LORD JEHOVAH ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " everlasting strength:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.26.5",
+      "edition_verse_id": "KJV1769:ISA.26.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "¶ For he bringeth down them that dwell on high; the lofty city, he layeth it low; he layeth it low, ",
+          "kind": "text"
+        },
+        {
+          "text": "even",
+          "kind": "supplied"
+        },
+        {
+          "text": " to the ground; he bringeth it ",
+          "kind": "text"
+        },
+        {
+          "text": "even",
+          "kind": "supplied"
+        },
+        {
+          "text": " to the dust.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ISA.26.6",
+      "edition_verse_id": "KJV1769:ISA.26.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "The foot shall tread it down, ",
+          "kind": "text"
+        },
+        {
+          "text": "even",
+          "kind": "supplied"
+        },
+        {
+          "text": " the feet of the poor, ",
+          "kind": "text"
+        },
+        {
+          "text": "and",
+          "kind": "supplied"
+        },
+        {
+          "text": " the steps of the needy.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.26.7",
+      "edition_verse_id": "KJV1769:ISA.26.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "The way of the just ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " uprightness: thou, most upright, dost weigh the path of the just.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.26.8",
+      "edition_verse_id": "KJV1769:ISA.26.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "Yea, in the way of thy judgments, O LORD, have we waited for thee; the desire of ",
+          "kind": "text"
+        },
+        {
+          "text": "our",
+          "kind": "supplied"
+        },
+        {
+          "text": " soul ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " to thy name, and to the remembrance of thee.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.26.9",
+      "edition_verse_id": "KJV1769:ISA.26.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "With my soul have I desired thee in the night; yea, with my spirit within me will I seek thee early: for when thy judgments ",
+          "kind": "text"
+        },
+        {
+          "text": "are",
+          "kind": "supplied"
+        },
+        {
+          "text": " in the earth, the inhabitants of the world will learn righteousness.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.26.10",
+      "edition_verse_id": "KJV1769:ISA.26.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "Let favour be shewed to the wicked, ",
+          "kind": "text"
+        },
+        {
+          "text": "yet",
+          "kind": "supplied"
+        },
+        {
+          "text": " will he not learn righteousness: in the land of uprightness will he deal unjustly, and will not behold the majesty of the LORD.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.26.11",
+      "edition_verse_id": "KJV1769:ISA.26.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "LORD, ",
+          "kind": "text"
+        },
+        {
+          "text": "when",
+          "kind": "supplied"
+        },
+        {
+          "text": " thy hand is lifted up, they will not see: ",
+          "kind": "text"
+        },
+        {
+          "text": "but",
+          "kind": "supplied"
+        },
+        {
+          "text": " they shall see, and be ashamed for ",
+          "kind": "text"
+        },
+        {
+          "text": "their",
+          "kind": "supplied"
+        },
+        {
+          "text": " envy at the people; yea, the fire of thine enemies shall devour them.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.26.12",
+      "edition_verse_id": "KJV1769:ISA.26.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "¶ LORD, thou wilt ordain peace for us: for thou also hast wrought all our works in us.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ISA.26.13",
+      "edition_verse_id": "KJV1769:ISA.26.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "O LORD our God, ",
+          "kind": "text"
+        },
+        {
+          "text": "other",
+          "kind": "supplied"
+        },
+        {
+          "text": " lords beside thee have had dominion over us: ",
+          "kind": "text"
+        },
+        {
+          "text": "but",
+          "kind": "supplied"
+        },
+        {
+          "text": " by thee only will we make mention of thy name.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.26.14",
+      "edition_verse_id": "KJV1769:ISA.26.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "They are",
+          "kind": "supplied"
+        },
+        {
+          "text": " dead, they shall not live; ",
+          "kind": "text"
+        },
+        {
+          "text": "they are",
+          "kind": "supplied"
+        },
+        {
+          "text": " deceased, they shall not rise: therefore hast thou visited and destroyed them, and made all their memory to perish.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.26.15",
+      "edition_verse_id": "KJV1769:ISA.26.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "Thou hast increased the nation, O LORD, thou hast increased the nation: thou art glorified: thou hadst removed ",
+          "kind": "text"
+        },
+        {
+          "text": "it",
+          "kind": "supplied"
+        },
+        {
+          "text": " far ",
+          "kind": "text"
+        },
+        {
+          "text": "unto",
+          "kind": "supplied"
+        },
+        {
+          "text": " all the ends of the earth.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.26.16",
+      "edition_verse_id": "KJV1769:ISA.26.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "LORD, in trouble have they visited thee, they poured out a prayer ",
+          "kind": "text"
+        },
+        {
+          "text": "when",
+          "kind": "supplied"
+        },
+        {
+          "text": " thy chastening ",
+          "kind": "text"
+        },
+        {
+          "text": "was",
+          "kind": "supplied"
+        },
+        {
+          "text": " upon them.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.26.17",
+      "edition_verse_id": "KJV1769:ISA.26.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "Like as a woman with child, ",
+          "kind": "text"
+        },
+        {
+          "text": "that",
+          "kind": "supplied"
+        },
+        {
+          "text": " draweth near the time of her delivery, is in pain, ",
+          "kind": "text"
+        },
+        {
+          "text": "and",
+          "kind": "supplied"
+        },
+        {
+          "text": " crieth out in her pangs; so have we been in thy sight, O LORD.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.26.18",
+      "edition_verse_id": "KJV1769:ISA.26.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "We have been with child, we have been in pain, we have as it were brought forth wind; we have not wrought any deliverance in the earth; neither have the inhabitants of the world fallen.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.26.19",
+      "edition_verse_id": "KJV1769:ISA.26.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "Thy dead ",
+          "kind": "text"
+        },
+        {
+          "text": "men",
+          "kind": "supplied"
+        },
+        {
+          "text": " shall live, ",
+          "kind": "text"
+        },
+        {
+          "text": "together with",
+          "kind": "supplied"
+        },
+        {
+          "text": " my dead body shall they arise. Awake and sing, ye that dwell in dust: for thy dew ",
+          "kind": "text"
+        },
+        {
+          "text": "is as",
+          "kind": "supplied"
+        },
+        {
+          "text": " the dew of herbs, and the earth shall cast out the dead.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.26.20",
+      "edition_verse_id": "KJV1769:ISA.26.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "¶ Come, my people, enter thou into thy chambers, and shut thy doors about thee: hide thyself as it were for a little moment, until the indignation be overpast.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ISA.26.21",
+      "edition_verse_id": "KJV1769:ISA.26.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "For, behold, the LORD cometh out of his place to punish the inhabitants of the earth for their iniquity: the earth also shall disclose her blood, and shall no more cover her slain.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

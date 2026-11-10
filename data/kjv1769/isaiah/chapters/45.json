@@ -1,0 +1,584 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "KJV1769",
+  "book_code": "ISA",
+  "chapter": 45,
+  "verses": [
+    {
+      "id": "ISA.45.1",
+      "edition_verse_id": "KJV1769:ISA.45.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "Thus saith the LORD to his anointed, to Cyrus, whose right hand I have holden, to subdue nations before him; and I will loose the loins of kings, to open before him the two leaved gates; and the gates shall not be shut;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ISA.45.2",
+      "edition_verse_id": "KJV1769:ISA.45.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "I will go before thee, and make the crooked places straight: I will break in pieces the gates of brass, and cut in sunder the bars of iron:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.45.3",
+      "edition_verse_id": "KJV1769:ISA.45.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "And I will give thee the treasures of darkness, and hidden riches of secret places, that thou mayest know that I, the LORD, which call ",
+          "kind": "text"
+        },
+        {
+          "text": "thee",
+          "kind": "supplied"
+        },
+        {
+          "text": " by thy name, ",
+          "kind": "text"
+        },
+        {
+          "text": "am",
+          "kind": "supplied"
+        },
+        {
+          "text": " the God of Israel.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.45.4",
+      "edition_verse_id": "KJV1769:ISA.45.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "For Jacob my servant’s sake, and Israel mine elect, I have even called thee by thy name: I have surnamed thee, though thou hast not known me.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.45.5",
+      "edition_verse_id": "KJV1769:ISA.45.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "¶ I ",
+          "kind": "text"
+        },
+        {
+          "text": "am",
+          "kind": "supplied"
+        },
+        {
+          "text": " the LORD, and ",
+          "kind": "text"
+        },
+        {
+          "text": "there is",
+          "kind": "supplied"
+        },
+        {
+          "text": " none else, ",
+          "kind": "text"
+        },
+        {
+          "text": "there is",
+          "kind": "supplied"
+        },
+        {
+          "text": " no God beside me: I girded thee, though thou hast not known me:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ISA.45.6",
+      "edition_verse_id": "KJV1769:ISA.45.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "That they may know from the rising of the sun, and from the west, that ",
+          "kind": "text"
+        },
+        {
+          "text": "there is",
+          "kind": "supplied"
+        },
+        {
+          "text": " none beside me. I ",
+          "kind": "text"
+        },
+        {
+          "text": "am",
+          "kind": "supplied"
+        },
+        {
+          "text": " the LORD, and ",
+          "kind": "text"
+        },
+        {
+          "text": "there is",
+          "kind": "supplied"
+        },
+        {
+          "text": " none else.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.45.7",
+      "edition_verse_id": "KJV1769:ISA.45.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "I form the light, and create darkness: I make peace, and create evil: I the LORD do all these ",
+          "kind": "text"
+        },
+        {
+          "text": "things",
+          "kind": "supplied"
+        },
+        {
+          "text": ".",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.45.8",
+      "edition_verse_id": "KJV1769:ISA.45.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "Drop down, ye heavens, from above, and let the skies pour down righteousness: let the earth open, and let them bring forth salvation, and let righteousness spring up together; I the LORD have created it.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.45.9",
+      "edition_verse_id": "KJV1769:ISA.45.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "Woe unto him that striveth with his Maker! ",
+          "kind": "text"
+        },
+        {
+          "text": "Let",
+          "kind": "supplied"
+        },
+        {
+          "text": " the potsherd ",
+          "kind": "text"
+        },
+        {
+          "text": "strive",
+          "kind": "supplied"
+        },
+        {
+          "text": " with the potsherds of the earth. Shall the clay say to him that fashioneth it, What makest thou? or thy work, He hath no hands?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.45.10",
+      "edition_verse_id": "KJV1769:ISA.45.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "Woe unto him that saith unto ",
+          "kind": "text"
+        },
+        {
+          "text": "his",
+          "kind": "supplied"
+        },
+        {
+          "text": " father, What begettest thou? or to the woman, What hast thou brought forth?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.45.11",
+      "edition_verse_id": "KJV1769:ISA.45.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "Thus saith the LORD, the Holy One of Israel, and his Maker, Ask me of things to come concerning my sons, and concerning the work of my hands command ye me.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ISA.45.12",
+      "edition_verse_id": "KJV1769:ISA.45.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "I have made the earth, and created man upon it: I, ",
+          "kind": "text"
+        },
+        {
+          "text": "even",
+          "kind": "supplied"
+        },
+        {
+          "text": " my hands, have stretched out the heavens, and all their host have I commanded.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.45.13",
+      "edition_verse_id": "KJV1769:ISA.45.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "I have raised him up in righteousness, and I will direct all his ways: he shall build my city, and he shall let go my captives, not for price nor reward, saith the LORD of hosts.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.45.14",
+      "edition_verse_id": "KJV1769:ISA.45.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "Thus saith the LORD, The labour of Egypt, and merchandise of Ethiopia and of the Sabeans, men of stature, shall come over unto thee, and they shall be thine: they shall come after thee; in chains they shall come over, and they shall fall down unto thee, they shall make supplication unto thee, ",
+          "kind": "text"
+        },
+        {
+          "text": "saying",
+          "kind": "supplied"
+        },
+        {
+          "text": ", Surely God ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " in thee; and ",
+          "kind": "text"
+        },
+        {
+          "text": "there is",
+          "kind": "supplied"
+        },
+        {
+          "text": " none else, ",
+          "kind": "text"
+        },
+        {
+          "text": "there is",
+          "kind": "supplied"
+        },
+        {
+          "text": " no God.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.45.15",
+      "edition_verse_id": "KJV1769:ISA.45.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "Verily thou ",
+          "kind": "text"
+        },
+        {
+          "text": "art",
+          "kind": "supplied"
+        },
+        {
+          "text": " a God that hidest thyself, O God of Israel, the Saviour.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.45.16",
+      "edition_verse_id": "KJV1769:ISA.45.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "They shall be ashamed, and also confounded, all of them: they shall go to confusion together ",
+          "kind": "text"
+        },
+        {
+          "text": "that are",
+          "kind": "supplied"
+        },
+        {
+          "text": " makers of idols.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.45.17",
+      "edition_verse_id": "KJV1769:ISA.45.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "But",
+          "kind": "supplied"
+        },
+        {
+          "text": " Israel shall be saved in the LORD with an everlasting salvation: ye shall not be ashamed nor confounded world without end.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.45.18",
+      "edition_verse_id": "KJV1769:ISA.45.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "For thus saith the LORD that created the heavens; God himself that formed the earth and made it; he hath established it, he created it not in vain, he formed it to be inhabited: I ",
+          "kind": "text"
+        },
+        {
+          "text": "am",
+          "kind": "supplied"
+        },
+        {
+          "text": " the LORD; and ",
+          "kind": "text"
+        },
+        {
+          "text": "there is",
+          "kind": "supplied"
+        },
+        {
+          "text": " none else.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.45.19",
+      "edition_verse_id": "KJV1769:ISA.45.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "I have not spoken in secret, in a dark place of the earth: I said not unto the seed of Jacob, Seek ye me in vain: I the LORD speak righteousness, I declare things that are right.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.45.20",
+      "edition_verse_id": "KJV1769:ISA.45.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "¶ Assemble yourselves and come; draw near together, ye ",
+          "kind": "text"
+        },
+        {
+          "text": "that are",
+          "kind": "supplied"
+        },
+        {
+          "text": " escaped of the nations: they have no knowledge that set up the wood of their graven image, and pray unto a god ",
+          "kind": "text"
+        },
+        {
+          "text": "that",
+          "kind": "supplied"
+        },
+        {
+          "text": " cannot save.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ISA.45.21",
+      "edition_verse_id": "KJV1769:ISA.45.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "Tell ye, and bring ",
+          "kind": "text"
+        },
+        {
+          "text": "them",
+          "kind": "supplied"
+        },
+        {
+          "text": " near; yea, let them take counsel together: who hath declared this from ancient time? ",
+          "kind": "text"
+        },
+        {
+          "text": "who",
+          "kind": "supplied"
+        },
+        {
+          "text": " hath told it from that time? ",
+          "kind": "text"
+        },
+        {
+          "text": "have",
+          "kind": "supplied"
+        },
+        {
+          "text": " not I the LORD? and ",
+          "kind": "text"
+        },
+        {
+          "text": "there is",
+          "kind": "supplied"
+        },
+        {
+          "text": " no God else beside me; a just God and a Saviour; ",
+          "kind": "text"
+        },
+        {
+          "text": "there is",
+          "kind": "supplied"
+        },
+        {
+          "text": " none beside me.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.45.22",
+      "edition_verse_id": "KJV1769:ISA.45.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "Look unto me, and be ye saved, all the ends of the earth: for I ",
+          "kind": "text"
+        },
+        {
+          "text": "am",
+          "kind": "supplied"
+        },
+        {
+          "text": " God, and ",
+          "kind": "text"
+        },
+        {
+          "text": "there is",
+          "kind": "supplied"
+        },
+        {
+          "text": " none else.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.45.23",
+      "edition_verse_id": "KJV1769:ISA.45.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "I have sworn by myself, the word is gone out of my mouth ",
+          "kind": "text"
+        },
+        {
+          "text": "in",
+          "kind": "supplied"
+        },
+        {
+          "text": " righteousness, and shall not return, That unto me every knee shall bow, every tongue shall swear.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.45.24",
+      "edition_verse_id": "KJV1769:ISA.45.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "Surely, shall ",
+          "kind": "text"
+        },
+        {
+          "text": "one",
+          "kind": "supplied"
+        },
+        {
+          "text": " say, in the LORD have I righteousness and strength: ",
+          "kind": "text"
+        },
+        {
+          "text": "even",
+          "kind": "supplied"
+        },
+        {
+          "text": " to him shall ",
+          "kind": "text"
+        },
+        {
+          "text": "men",
+          "kind": "supplied"
+        },
+        {
+          "text": " come; and all that are incensed against him shall be ashamed.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.45.25",
+      "edition_verse_id": "KJV1769:ISA.45.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "In the LORD shall all the seed of Israel be justified, and shall glory.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

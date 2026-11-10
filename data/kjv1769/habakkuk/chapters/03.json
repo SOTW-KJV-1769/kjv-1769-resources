@@ -1,0 +1,420 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "KJV1769",
+  "book_code": "HAB",
+  "chapter": 3,
+  "verses": [
+    {
+      "id": "HAB.3.1",
+      "edition_verse_id": "KJV1769:HAB.3.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "A prayer of Habakkuk the prophet upon Shigionoth.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "HAB.3.2",
+      "edition_verse_id": "KJV1769:HAB.3.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "O LORD, I have heard thy speech, ",
+          "kind": "text"
+        },
+        {
+          "text": "and",
+          "kind": "supplied"
+        },
+        {
+          "text": " was afraid: O LORD, revive thy work in the midst of the years, in the midst of the years make known; in wrath remember mercy.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "HAB.3.3",
+      "edition_verse_id": "KJV1769:HAB.3.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "God came from Teman, and the Holy One from mount Paran. Selah. His glory covered the heavens, and the earth was full of his praise.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "HAB.3.4",
+      "edition_verse_id": "KJV1769:HAB.3.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "And ",
+          "kind": "text"
+        },
+        {
+          "text": "his",
+          "kind": "supplied"
+        },
+        {
+          "text": " brightness was as the light; he had horns ",
+          "kind": "text"
+        },
+        {
+          "text": "coming",
+          "kind": "supplied"
+        },
+        {
+          "text": " out of his hand: and there ",
+          "kind": "text"
+        },
+        {
+          "text": "was",
+          "kind": "supplied"
+        },
+        {
+          "text": " the hiding of his power.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "HAB.3.5",
+      "edition_verse_id": "KJV1769:HAB.3.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "Before him went the pestilence, and burning coals went forth at his feet.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "HAB.3.6",
+      "edition_verse_id": "KJV1769:HAB.3.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "He stood, and measured the earth: he beheld, and drove asunder the nations; and the everlasting mountains were scattered, the perpetual hills did bow: his ways ",
+          "kind": "text"
+        },
+        {
+          "text": "are",
+          "kind": "supplied"
+        },
+        {
+          "text": " everlasting.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "HAB.3.7",
+      "edition_verse_id": "KJV1769:HAB.3.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "I saw the tents of Cushan in affliction: ",
+          "kind": "text"
+        },
+        {
+          "text": "and",
+          "kind": "supplied"
+        },
+        {
+          "text": " the curtains of the land of Midian did tremble.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "HAB.3.8",
+      "edition_verse_id": "KJV1769:HAB.3.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "Was the LORD displeased against the rivers? ",
+          "kind": "text"
+        },
+        {
+          "text": "was",
+          "kind": "supplied"
+        },
+        {
+          "text": " thine anger against the rivers? ",
+          "kind": "text"
+        },
+        {
+          "text": "was",
+          "kind": "supplied"
+        },
+        {
+          "text": " thy wrath against the sea, that thou didst ride upon thine horses ",
+          "kind": "text"
+        },
+        {
+          "text": "and",
+          "kind": "supplied"
+        },
+        {
+          "text": " thy chariots of salvation?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "HAB.3.9",
+      "edition_verse_id": "KJV1769:HAB.3.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "Thy bow was made quite naked, ",
+          "kind": "text"
+        },
+        {
+          "text": "according",
+          "kind": "supplied"
+        },
+        {
+          "text": " to the oaths of the tribes, ",
+          "kind": "text"
+        },
+        {
+          "text": "even thy",
+          "kind": "supplied"
+        },
+        {
+          "text": " word. Selah. Thou didst cleave the earth with rivers.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "HAB.3.10",
+      "edition_verse_id": "KJV1769:HAB.3.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "The mountains saw thee, ",
+          "kind": "text"
+        },
+        {
+          "text": "and",
+          "kind": "supplied"
+        },
+        {
+          "text": " they trembled: the overflowing of the water passed by: the deep uttered his voice, ",
+          "kind": "text"
+        },
+        {
+          "text": "and",
+          "kind": "supplied"
+        },
+        {
+          "text": " lifted up his hands on high.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "HAB.3.11",
+      "edition_verse_id": "KJV1769:HAB.3.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "The sun ",
+          "kind": "text"
+        },
+        {
+          "text": "and",
+          "kind": "supplied"
+        },
+        {
+          "text": " moon stood still in their habitation: at the light of thine arrows they went, ",
+          "kind": "text"
+        },
+        {
+          "text": "and",
+          "kind": "supplied"
+        },
+        {
+          "text": " at the shining of thy glittering spear.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "HAB.3.12",
+      "edition_verse_id": "KJV1769:HAB.3.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "Thou didst march through the land in indignation, thou didst thresh the heathen in anger.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "HAB.3.13",
+      "edition_verse_id": "KJV1769:HAB.3.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "Thou wentest forth for the salvation of thy people, ",
+          "kind": "text"
+        },
+        {
+          "text": "even",
+          "kind": "supplied"
+        },
+        {
+          "text": " for salvation with thine anointed; thou woundedst the head out of the house of the wicked, by discovering the foundation unto the neck. Selah.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "HAB.3.14",
+      "edition_verse_id": "KJV1769:HAB.3.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "Thou didst strike through with his staves the head of his villages: they came out as a whirlwind to scatter me: their rejoicing ",
+          "kind": "text"
+        },
+        {
+          "text": "was",
+          "kind": "supplied"
+        },
+        {
+          "text": " as to devour the poor secretly.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "HAB.3.15",
+      "edition_verse_id": "KJV1769:HAB.3.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "Thou didst walk through the sea with thine horses, ",
+          "kind": "text"
+        },
+        {
+          "text": "through",
+          "kind": "supplied"
+        },
+        {
+          "text": " the heap of great waters.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "HAB.3.16",
+      "edition_verse_id": "KJV1769:HAB.3.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "When I heard, my belly trembled; my lips quivered at the voice: rottenness entered into my bones, and I trembled in myself, that I might rest in the day of trouble: when he cometh up unto the people, he will invade them with his troops.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "HAB.3.17",
+      "edition_verse_id": "KJV1769:HAB.3.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "¶ Although the fig tree shall not blossom, neither ",
+          "kind": "text"
+        },
+        {
+          "text": "shall",
+          "kind": "supplied"
+        },
+        {
+          "text": " fruit ",
+          "kind": "text"
+        },
+        {
+          "text": "be",
+          "kind": "supplied"
+        },
+        {
+          "text": " in the vines; the labour of the olive shall fail, and the fields shall yield no meat; the flock shall be cut off from the fold, and ",
+          "kind": "text"
+        },
+        {
+          "text": "there shall be",
+          "kind": "supplied"
+        },
+        {
+          "text": " no herd in the stalls:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "HAB.3.18",
+      "edition_verse_id": "KJV1769:HAB.3.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "Yet I will rejoice in the LORD, I will joy in the God of my salvation.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "HAB.3.19",
+      "edition_verse_id": "KJV1769:HAB.3.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "The LORD God ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " my strength, and he will make my feet like hinds’ ",
+          "kind": "text"
+        },
+        {
+          "text": "feet",
+          "kind": "supplied"
+        },
+        {
+          "text": ", and he will make me to walk upon mine high places. To the chief singer on my stringed instruments.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

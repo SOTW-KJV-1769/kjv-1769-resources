@@ -1,0 +1,588 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "KJV1769",
+  "book_code": "ISA",
+  "chapter": 14,
+  "verses": [
+    {
+      "id": "ISA.14.1",
+      "edition_verse_id": "KJV1769:ISA.14.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "For the LORD will have mercy on Jacob, and will yet choose Israel, and set them in their own land: and the strangers shall be joined with them, and they shall cleave to the house of Jacob.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ISA.14.2",
+      "edition_verse_id": "KJV1769:ISA.14.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "And the people shall take them, and bring them to their place: and the house of Israel shall possess them in the land of the LORD for servants and handmaids: and they shall take them captives, whose captives they were; and they shall rule over their oppressors.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.14.3",
+      "edition_verse_id": "KJV1769:ISA.14.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "And it shall come to pass in the day that the LORD shall give thee rest from thy sorrow, and from thy fear, and from the hard bondage wherein thou wast made to serve,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.14.4",
+      "edition_verse_id": "KJV1769:ISA.14.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "¶ That thou shalt take up this proverb against the king of Babylon, and say, How hath the oppressor ceased! the golden city ceased!",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ISA.14.5",
+      "edition_verse_id": "KJV1769:ISA.14.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "The LORD hath broken the staff of the wicked, ",
+          "kind": "text"
+        },
+        {
+          "text": "and",
+          "kind": "supplied"
+        },
+        {
+          "text": " the sceptre of the rulers.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.14.6",
+      "edition_verse_id": "KJV1769:ISA.14.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "He who smote the people in wrath with a continual stroke, he that ruled the nations in anger, is persecuted, ",
+          "kind": "text"
+        },
+        {
+          "text": "and",
+          "kind": "supplied"
+        },
+        {
+          "text": " none hindereth.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.14.7",
+      "edition_verse_id": "KJV1769:ISA.14.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "The whole earth is at rest, ",
+          "kind": "text"
+        },
+        {
+          "text": "and",
+          "kind": "supplied"
+        },
+        {
+          "text": " is quiet: they break forth into singing.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.14.8",
+      "edition_verse_id": "KJV1769:ISA.14.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "Yea, the fir trees rejoice at thee, ",
+          "kind": "text"
+        },
+        {
+          "text": "and",
+          "kind": "supplied"
+        },
+        {
+          "text": " the cedars of Lebanon, ",
+          "kind": "text"
+        },
+        {
+          "text": "saying",
+          "kind": "supplied"
+        },
+        {
+          "text": ", Since thou art laid down, no feller is come up against us.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.14.9",
+      "edition_verse_id": "KJV1769:ISA.14.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "Hell from beneath is moved for thee to meet ",
+          "kind": "text"
+        },
+        {
+          "text": "thee",
+          "kind": "supplied"
+        },
+        {
+          "text": " at thy coming: it stirreth up the dead for thee, ",
+          "kind": "text"
+        },
+        {
+          "text": "even",
+          "kind": "supplied"
+        },
+        {
+          "text": " all the chief ones of the earth; it hath raised up from their thrones all the kings of the nations.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.14.10",
+      "edition_verse_id": "KJV1769:ISA.14.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "All they shall speak and say unto thee, Art thou also become weak as we? art thou become like unto us?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.14.11",
+      "edition_verse_id": "KJV1769:ISA.14.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "Thy pomp is brought down to the grave, ",
+          "kind": "text"
+        },
+        {
+          "text": "and",
+          "kind": "supplied"
+        },
+        {
+          "text": " the noise of thy viols: the worm is spread under thee, and the worms cover thee.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.14.12",
+      "edition_verse_id": "KJV1769:ISA.14.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "How art thou fallen from heaven, O Lucifer, son of the morning! ",
+          "kind": "text"
+        },
+        {
+          "text": "how",
+          "kind": "supplied"
+        },
+        {
+          "text": " art thou cut down to the ground, which didst weaken the nations!",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.14.13",
+      "edition_verse_id": "KJV1769:ISA.14.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "For thou hast said in thine heart, I will ascend into heaven, I will exalt my throne above the stars of God: I will sit also upon the mount of the congregation, in the sides of the north:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.14.14",
+      "edition_verse_id": "KJV1769:ISA.14.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "I will ascend above the heights of the clouds; I will be like the most High.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.14.15",
+      "edition_verse_id": "KJV1769:ISA.14.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "Yet thou shalt be brought down to hell, to the sides of the pit.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.14.16",
+      "edition_verse_id": "KJV1769:ISA.14.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "They that see thee shall narrowly look upon thee, ",
+          "kind": "text"
+        },
+        {
+          "text": "and",
+          "kind": "supplied"
+        },
+        {
+          "text": " consider thee, ",
+          "kind": "text"
+        },
+        {
+          "text": "saying, Is",
+          "kind": "supplied"
+        },
+        {
+          "text": " this the man that made the earth to tremble, that did shake kingdoms;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.14.17",
+      "edition_verse_id": "KJV1769:ISA.14.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "That",
+          "kind": "supplied"
+        },
+        {
+          "text": " made the world as a wilderness, and destroyed the cities thereof; ",
+          "kind": "text"
+        },
+        {
+          "text": "that",
+          "kind": "supplied"
+        },
+        {
+          "text": " opened not the house of his prisoners?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.14.18",
+      "edition_verse_id": "KJV1769:ISA.14.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "All the kings of the nations, ",
+          "kind": "text"
+        },
+        {
+          "text": "even",
+          "kind": "supplied"
+        },
+        {
+          "text": " all of them, lie in glory, every one in his own house.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.14.19",
+      "edition_verse_id": "KJV1769:ISA.14.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "But thou art cast out of thy grave like an abominable branch, ",
+          "kind": "text"
+        },
+        {
+          "text": "and as",
+          "kind": "supplied"
+        },
+        {
+          "text": " the raiment of those that are slain, thrust through with a sword, that go down to the stones of the pit; as a carcase trodden under feet.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.14.20",
+      "edition_verse_id": "KJV1769:ISA.14.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "Thou shalt not be joined with them in burial, because thou hast destroyed thy land, ",
+          "kind": "text"
+        },
+        {
+          "text": "and",
+          "kind": "supplied"
+        },
+        {
+          "text": " slain thy people: the seed of evildoers shall never be renowned.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.14.21",
+      "edition_verse_id": "KJV1769:ISA.14.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "Prepare slaughter for his children for the iniquity of their fathers; that they do not rise, nor possess the land, nor fill the face of the world with cities.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.14.22",
+      "edition_verse_id": "KJV1769:ISA.14.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "For I will rise up against them, saith the LORD of hosts, and cut off from Babylon the name, and remnant, and son, and nephew, saith the LORD.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.14.23",
+      "edition_verse_id": "KJV1769:ISA.14.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "I will also make it a possession for the bittern, and pools of water: and I will sweep it with the besom of destruction, saith the LORD of hosts.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.14.24",
+      "edition_verse_id": "KJV1769:ISA.14.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "¶ The LORD of hosts hath sworn, saying, Surely as I have thought, so shall it come to pass; and as I have purposed, ",
+          "kind": "text"
+        },
+        {
+          "text": "so",
+          "kind": "supplied"
+        },
+        {
+          "text": " shall it stand:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ISA.14.25",
+      "edition_verse_id": "KJV1769:ISA.14.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "That I will break the Assyrian in my land, and upon my mountains tread him under foot: then shall his yoke depart from off them, and his burden depart from off their shoulders.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.14.26",
+      "edition_verse_id": "KJV1769:ISA.14.26",
+      "verse": 26,
+      "spans": [
+        {
+          "text": "This ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " the purpose that is purposed upon the whole earth: and this ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " the hand that is stretched out upon all the nations.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.14.27",
+      "edition_verse_id": "KJV1769:ISA.14.27",
+      "verse": 27,
+      "spans": [
+        {
+          "text": "For the LORD of hosts hath purposed, and who shall disannul ",
+          "kind": "text"
+        },
+        {
+          "text": "it",
+          "kind": "supplied"
+        },
+        {
+          "text": "? and his hand ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " stretched out, and who shall turn it back?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.14.28",
+      "edition_verse_id": "KJV1769:ISA.14.28",
+      "verse": 28,
+      "spans": [
+        {
+          "text": "In the year that king Ahaz died was this burden.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.14.29",
+      "edition_verse_id": "KJV1769:ISA.14.29",
+      "verse": 29,
+      "spans": [
+        {
+          "text": "¶ Rejoice not thou, whole Palestina, because the rod of him that smote thee is broken: for out of the serpent’s root shall come forth a cockatrice, and his fruit ",
+          "kind": "text"
+        },
+        {
+          "text": "shall be",
+          "kind": "supplied"
+        },
+        {
+          "text": " a fiery flying serpent.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ISA.14.30",
+      "edition_verse_id": "KJV1769:ISA.14.30",
+      "verse": 30,
+      "spans": [
+        {
+          "text": "And the firstborn of the poor shall feed, and the needy shall lie down in safety: and I will kill thy root with famine, and he shall slay thy remnant.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.14.31",
+      "edition_verse_id": "KJV1769:ISA.14.31",
+      "verse": 31,
+      "spans": [
+        {
+          "text": "Howl, O gate; cry, O city; thou, whole Palestina, ",
+          "kind": "text"
+        },
+        {
+          "text": "art",
+          "kind": "supplied"
+        },
+        {
+          "text": " dissolved: for there shall come from the north a smoke, and none ",
+          "kind": "text"
+        },
+        {
+          "text": "shall be",
+          "kind": "supplied"
+        },
+        {
+          "text": " alone in his appointed times.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.14.32",
+      "edition_verse_id": "KJV1769:ISA.14.32",
+      "verse": 32,
+      "spans": [
+        {
+          "text": "What shall ",
+          "kind": "text"
+        },
+        {
+          "text": "one",
+          "kind": "supplied"
+        },
+        {
+          "text": " then answer the messengers of the nation? That the LORD hath founded Zion, and the poor of his people shall trust in it.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

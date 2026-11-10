@@ -1,0 +1,680 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "KJV1769",
+  "book_code": "HEB",
+  "chapter": 11,
+  "verses": [
+    {
+      "id": "HEB.11.1",
+      "edition_verse_id": "KJV1769:HEB.11.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "Now faith is the substance of things hoped for, the evidence of things not seen.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "HEB.11.2",
+      "edition_verse_id": "KJV1769:HEB.11.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "For by it the elders obtained a good report.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "HEB.11.3",
+      "edition_verse_id": "KJV1769:HEB.11.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "Through faith we understand that the worlds were framed by the word of God, so that things which are seen were not made of things which do appear.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "HEB.11.4",
+      "edition_verse_id": "KJV1769:HEB.11.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "By faith Abel offered unto God a more excellent sacrifice than Cain, by which he obtained witness that he was righteous, God testifying of his gifts: and by it he being dead yet speaketh.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "HEB.11.5",
+      "edition_verse_id": "KJV1769:HEB.11.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "By faith Enoch was translated that he should not see death; and was not found, because God had translated him: for before his translation he had this testimony, that he pleased God.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "HEB.11.6",
+      "edition_verse_id": "KJV1769:HEB.11.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "But without faith ",
+          "kind": "text"
+        },
+        {
+          "text": "it is",
+          "kind": "supplied"
+        },
+        {
+          "text": " impossible to please ",
+          "kind": "text"
+        },
+        {
+          "text": "him",
+          "kind": "supplied"
+        },
+        {
+          "text": ": for he that cometh to God must believe that he is, and ",
+          "kind": "text"
+        },
+        {
+          "text": "that",
+          "kind": "supplied"
+        },
+        {
+          "text": " he is a rewarder of them that diligently seek him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "HEB.11.7",
+      "edition_verse_id": "KJV1769:HEB.11.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "By faith Noah, being warned of God of things not seen as yet, moved with fear, prepared an ark to the saving of his house; by the which he condemned the world, and became heir of the righteousness which is by faith.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "HEB.11.8",
+      "edition_verse_id": "KJV1769:HEB.11.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "By faith Abraham, when he was called to go out into a place which he should after receive for an inheritance, obeyed; and he went out, not knowing whither he went.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "HEB.11.9",
+      "edition_verse_id": "KJV1769:HEB.11.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "By faith he sojourned in the land of promise, as ",
+          "kind": "text"
+        },
+        {
+          "text": "in",
+          "kind": "supplied"
+        },
+        {
+          "text": " a strange country, dwelling in tabernacles with Isaac and Jacob, the heirs with him of the same promise:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "HEB.11.10",
+      "edition_verse_id": "KJV1769:HEB.11.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "For he looked for a city which hath foundations, whose builder and maker ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " God.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "HEB.11.11",
+      "edition_verse_id": "KJV1769:HEB.11.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "Through faith also Sara herself received strength to conceive seed, and was delivered of a child when she was past age, because she judged him faithful who had promised.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "HEB.11.12",
+      "edition_verse_id": "KJV1769:HEB.11.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "Therefore sprang there even of one, and him as good as dead, ",
+          "kind": "text"
+        },
+        {
+          "text": "so many",
+          "kind": "supplied"
+        },
+        {
+          "text": " as the stars of the sky in multitude, and as the sand which is by the sea shore innumerable.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "HEB.11.13",
+      "edition_verse_id": "KJV1769:HEB.11.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "These all died in faith, not having received the promises, but having seen them afar off, and were persuaded of ",
+          "kind": "text"
+        },
+        {
+          "text": "them",
+          "kind": "supplied"
+        },
+        {
+          "text": ", and embraced ",
+          "kind": "text"
+        },
+        {
+          "text": "them",
+          "kind": "supplied"
+        },
+        {
+          "text": ", and confessed that they were strangers and pilgrims on the earth.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "HEB.11.14",
+      "edition_verse_id": "KJV1769:HEB.11.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "For they that say such things declare plainly that they seek a country.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "HEB.11.15",
+      "edition_verse_id": "KJV1769:HEB.11.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "And truly, if they had been mindful of that ",
+          "kind": "text"
+        },
+        {
+          "text": "country",
+          "kind": "supplied"
+        },
+        {
+          "text": " from whence they came out, they might have had opportunity to have returned.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "HEB.11.16",
+      "edition_verse_id": "KJV1769:HEB.11.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "But now they desire a better ",
+          "kind": "text"
+        },
+        {
+          "text": "country",
+          "kind": "supplied"
+        },
+        {
+          "text": ", that is, an heavenly: wherefore God is not ashamed to be called their God: for he hath prepared for them a city.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "HEB.11.17",
+      "edition_verse_id": "KJV1769:HEB.11.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "By faith Abraham, when he was tried, offered up Isaac: and he that had received the promises offered up his only begotten ",
+          "kind": "text"
+        },
+        {
+          "text": "son",
+          "kind": "supplied"
+        },
+        {
+          "text": ",",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "HEB.11.18",
+      "edition_verse_id": "KJV1769:HEB.11.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "Of whom it was said, That in Isaac shall thy seed be called:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "HEB.11.19",
+      "edition_verse_id": "KJV1769:HEB.11.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "Accounting that God ",
+          "kind": "text"
+        },
+        {
+          "text": "was",
+          "kind": "supplied"
+        },
+        {
+          "text": " able to raise ",
+          "kind": "text"
+        },
+        {
+          "text": "him",
+          "kind": "supplied"
+        },
+        {
+          "text": " up, even from the dead; from whence also he received him in a figure.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "HEB.11.20",
+      "edition_verse_id": "KJV1769:HEB.11.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "By faith Isaac blessed Jacob and Esau concerning things to come.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "HEB.11.21",
+      "edition_verse_id": "KJV1769:HEB.11.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "By faith Jacob, when he was a dying, blessed both the sons of Joseph; and worshipped, ",
+          "kind": "text"
+        },
+        {
+          "text": "leaning",
+          "kind": "supplied"
+        },
+        {
+          "text": " upon the top of his staff.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "HEB.11.22",
+      "edition_verse_id": "KJV1769:HEB.11.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "By faith Joseph, when he died, made mention of the departing of the children of Israel; and gave commandment concerning his bones.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "HEB.11.23",
+      "edition_verse_id": "KJV1769:HEB.11.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "By faith Moses, when he was born, was hid three months of his parents, because they saw ",
+          "kind": "text"
+        },
+        {
+          "text": "he was",
+          "kind": "supplied"
+        },
+        {
+          "text": " a proper child; and they were not afraid of the king’s commandment.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "HEB.11.24",
+      "edition_verse_id": "KJV1769:HEB.11.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "By faith Moses, when he was come to years, refused to be called the son of Pharaoh’s daughter;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "HEB.11.25",
+      "edition_verse_id": "KJV1769:HEB.11.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "Choosing rather to suffer affliction with the people of God, than to enjoy the pleasures of sin for a season;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "HEB.11.26",
+      "edition_verse_id": "KJV1769:HEB.11.26",
+      "verse": 26,
+      "spans": [
+        {
+          "text": "Esteeming the reproach of Christ greater riches than the treasures in Egypt: for he had respect unto the recompence of the reward.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "HEB.11.27",
+      "edition_verse_id": "KJV1769:HEB.11.27",
+      "verse": 27,
+      "spans": [
+        {
+          "text": "By faith he forsook Egypt, not fearing the wrath of the king: for he endured, as seeing him who is invisible.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "HEB.11.28",
+      "edition_verse_id": "KJV1769:HEB.11.28",
+      "verse": 28,
+      "spans": [
+        {
+          "text": "Through faith he kept the passover, and the sprinkling of blood, lest he that destroyed the firstborn should touch them.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "HEB.11.29",
+      "edition_verse_id": "KJV1769:HEB.11.29",
+      "verse": 29,
+      "spans": [
+        {
+          "text": "By faith they passed through the Red sea as by dry ",
+          "kind": "text"
+        },
+        {
+          "text": "land",
+          "kind": "supplied"
+        },
+        {
+          "text": ": which the Egyptians assaying to do were drowned.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "HEB.11.30",
+      "edition_verse_id": "KJV1769:HEB.11.30",
+      "verse": 30,
+      "spans": [
+        {
+          "text": "By faith the walls of Jericho fell down, after they were compassed about seven days.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "HEB.11.31",
+      "edition_verse_id": "KJV1769:HEB.11.31",
+      "verse": 31,
+      "spans": [
+        {
+          "text": "By faith the harlot Rahab perished not with them that believed not, when she had received the spies with peace.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "HEB.11.32",
+      "edition_verse_id": "KJV1769:HEB.11.32",
+      "verse": 32,
+      "spans": [
+        {
+          "text": "And what shall I more say? for the time would fail me to tell of Gedeon, and ",
+          "kind": "text"
+        },
+        {
+          "text": "of",
+          "kind": "supplied"
+        },
+        {
+          "text": " Barak, and ",
+          "kind": "text"
+        },
+        {
+          "text": "of",
+          "kind": "supplied"
+        },
+        {
+          "text": " Samson, and ",
+          "kind": "text"
+        },
+        {
+          "text": "of",
+          "kind": "supplied"
+        },
+        {
+          "text": " Jephthae; ",
+          "kind": "text"
+        },
+        {
+          "text": "of",
+          "kind": "supplied"
+        },
+        {
+          "text": " David also, and Samuel, and ",
+          "kind": "text"
+        },
+        {
+          "text": "of",
+          "kind": "supplied"
+        },
+        {
+          "text": " the prophets:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "HEB.11.33",
+      "edition_verse_id": "KJV1769:HEB.11.33",
+      "verse": 33,
+      "spans": [
+        {
+          "text": "Who through faith subdued kingdoms, wrought righteousness, obtained promises, stopped the mouths of lions,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "HEB.11.34",
+      "edition_verse_id": "KJV1769:HEB.11.34",
+      "verse": 34,
+      "spans": [
+        {
+          "text": "Quenched the violence of fire, escaped the edge of the sword, out of weakness were made strong, waxed valiant in fight, turned to flight the armies of the aliens.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "HEB.11.35",
+      "edition_verse_id": "KJV1769:HEB.11.35",
+      "verse": 35,
+      "spans": [
+        {
+          "text": "Women received their dead raised to life again: and others were tortured, not accepting deliverance; that they might obtain a better resurrection:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "HEB.11.36",
+      "edition_verse_id": "KJV1769:HEB.11.36",
+      "verse": 36,
+      "spans": [
+        {
+          "text": "And others had trial of ",
+          "kind": "text"
+        },
+        {
+          "text": "cruel",
+          "kind": "supplied"
+        },
+        {
+          "text": " mockings and scourgings, yea, moreover of bonds and imprisonment:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "HEB.11.37",
+      "edition_verse_id": "KJV1769:HEB.11.37",
+      "verse": 37,
+      "spans": [
+        {
+          "text": "They were stoned, they were sawn asunder, were tempted, were slain with the sword: they wandered about in sheepskins and goatskins; being destitute, afflicted, tormented;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "HEB.11.38",
+      "edition_verse_id": "KJV1769:HEB.11.38",
+      "verse": 38,
+      "spans": [
+        {
+          "text": "(Of whom the world was not worthy:) they wandered in deserts, and ",
+          "kind": "text"
+        },
+        {
+          "text": "in",
+          "kind": "supplied"
+        },
+        {
+          "text": " mountains, and ",
+          "kind": "text"
+        },
+        {
+          "text": "in",
+          "kind": "supplied"
+        },
+        {
+          "text": " dens and caves of the earth.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "HEB.11.39",
+      "edition_verse_id": "KJV1769:HEB.11.39",
+      "verse": 39,
+      "spans": [
+        {
+          "text": "And these all, having obtained a good report through faith, received not the promise:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "HEB.11.40",
+      "edition_verse_id": "KJV1769:HEB.11.40",
+      "verse": 40,
+      "spans": [
+        {
+          "text": "God having provided some better thing for us, that they without us should not be made perfect.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

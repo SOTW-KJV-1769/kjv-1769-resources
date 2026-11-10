@@ -1,0 +1,432 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "KJV1769",
+  "book_code": "HEB",
+  "chapter": 7,
+  "verses": [
+    {
+      "id": "HEB.7.1",
+      "edition_verse_id": "KJV1769:HEB.7.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "For this Melchisedec, king of Salem, priest of the most high God, who met Abraham returning from the slaughter of the kings, and blessed him;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "HEB.7.2",
+      "edition_verse_id": "KJV1769:HEB.7.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "To whom also Abraham gave a tenth part of all; first being by interpretation King of righteousness, and after that also King of Salem, which is, King of peace;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "HEB.7.3",
+      "edition_verse_id": "KJV1769:HEB.7.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "Without father, without mother, without descent, having neither beginning of days, nor end of life; but made like unto the Son of God; abideth a priest continually.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "HEB.7.4",
+      "edition_verse_id": "KJV1769:HEB.7.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "Now consider how great this man ",
+          "kind": "text"
+        },
+        {
+          "text": "was",
+          "kind": "supplied"
+        },
+        {
+          "text": ", unto whom even the patriarch Abraham gave the tenth of the spoils.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "HEB.7.5",
+      "edition_verse_id": "KJV1769:HEB.7.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "And verily they that are of the sons of Levi, who receive the office of the priesthood, have a commandment to take tithes of the people according to the law, that is, of their brethren, though they come out of the loins of Abraham:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "HEB.7.6",
+      "edition_verse_id": "KJV1769:HEB.7.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "But he whose descent is not counted from them received tithes of Abraham, and blessed him that had the promises.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "HEB.7.7",
+      "edition_verse_id": "KJV1769:HEB.7.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "And without all contradiction the less is blessed of the better.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "HEB.7.8",
+      "edition_verse_id": "KJV1769:HEB.7.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "And here men that die receive tithes; but there he ",
+          "kind": "text"
+        },
+        {
+          "text": "receiveth them",
+          "kind": "supplied"
+        },
+        {
+          "text": ", of whom it is witnessed that he liveth.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "HEB.7.9",
+      "edition_verse_id": "KJV1769:HEB.7.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "And as I may so say, Levi also, who receiveth tithes, payed tithes in Abraham.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "HEB.7.10",
+      "edition_verse_id": "KJV1769:HEB.7.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "For he was yet in the loins of his father, when Melchisedec met him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "HEB.7.11",
+      "edition_verse_id": "KJV1769:HEB.7.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "If therefore perfection were by the Levitical priesthood, (for under it the people received the law,) what further need ",
+          "kind": "text"
+        },
+        {
+          "text": "was there",
+          "kind": "supplied"
+        },
+        {
+          "text": " that another priest should rise after the order of Melchisedec, and not be called after the order of Aaron?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "HEB.7.12",
+      "edition_verse_id": "KJV1769:HEB.7.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "For the priesthood being changed, there is made of necessity a change also of the law.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "HEB.7.13",
+      "edition_verse_id": "KJV1769:HEB.7.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "For he of whom these things are spoken pertaineth to another tribe, of which no man gave attendance at the altar.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "HEB.7.14",
+      "edition_verse_id": "KJV1769:HEB.7.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "For ",
+          "kind": "text"
+        },
+        {
+          "text": "it is",
+          "kind": "supplied"
+        },
+        {
+          "text": " evident that our Lord sprang out of Juda; of which tribe Moses spake nothing concerning priesthood.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "HEB.7.15",
+      "edition_verse_id": "KJV1769:HEB.7.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "And it is yet far more evident: for that after the similitude of Melchisedec there ariseth another priest,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "HEB.7.16",
+      "edition_verse_id": "KJV1769:HEB.7.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "Who is made, not after the law of a carnal commandment, but after the power of an endless life.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "HEB.7.17",
+      "edition_verse_id": "KJV1769:HEB.7.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "For he testifieth, Thou ",
+          "kind": "text"
+        },
+        {
+          "text": "art",
+          "kind": "supplied"
+        },
+        {
+          "text": " a priest for ever after the order of Melchisedec.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "HEB.7.18",
+      "edition_verse_id": "KJV1769:HEB.7.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "For there is verily a disannulling of the commandment going before for the weakness and unprofitableness thereof.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "HEB.7.19",
+      "edition_verse_id": "KJV1769:HEB.7.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "For the law made nothing perfect, but the bringing in of a better hope ",
+          "kind": "text"
+        },
+        {
+          "text": "did",
+          "kind": "supplied"
+        },
+        {
+          "text": "; by the which we draw nigh unto God.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "HEB.7.20",
+      "edition_verse_id": "KJV1769:HEB.7.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "And inasmuch as not without an oath ",
+          "kind": "text"
+        },
+        {
+          "text": "he was made priest",
+          "kind": "supplied"
+        },
+        {
+          "text": ":",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "HEB.7.21",
+      "edition_verse_id": "KJV1769:HEB.7.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "(For those priests were made without an oath; but this with an oath by him that said unto him, The Lord sware and will not repent, Thou ",
+          "kind": "text"
+        },
+        {
+          "text": "art",
+          "kind": "supplied"
+        },
+        {
+          "text": " a priest for ever after the order of Melchisedec:)",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "HEB.7.22",
+      "edition_verse_id": "KJV1769:HEB.7.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "By so much was Jesus made a surety of a better testament.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "HEB.7.23",
+      "edition_verse_id": "KJV1769:HEB.7.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "And they truly were many priests, because they were not suffered to continue by reason of death:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "HEB.7.24",
+      "edition_verse_id": "KJV1769:HEB.7.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "But this ",
+          "kind": "text"
+        },
+        {
+          "text": "man",
+          "kind": "supplied"
+        },
+        {
+          "text": ", because he continueth ever, hath an unchangeable priesthood.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "HEB.7.25",
+      "edition_verse_id": "KJV1769:HEB.7.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "Wherefore he is able also to save them to the uttermost that come unto God by him, seeing he ever liveth to make intercession for them.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "HEB.7.26",
+      "edition_verse_id": "KJV1769:HEB.7.26",
+      "verse": 26,
+      "spans": [
+        {
+          "text": "For such an high priest became us, ",
+          "kind": "text"
+        },
+        {
+          "text": "who is",
+          "kind": "supplied"
+        },
+        {
+          "text": " holy, harmless, undefiled, separate from sinners, and made higher than the heavens;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "HEB.7.27",
+      "edition_verse_id": "KJV1769:HEB.7.27",
+      "verse": 27,
+      "spans": [
+        {
+          "text": "Who needeth not daily, as those high priests, to offer up sacrifice, first for his own sins, and then for the people’s: for this he did once, when he offered up himself.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "HEB.7.28",
+      "edition_verse_id": "KJV1769:HEB.7.28",
+      "verse": 28,
+      "spans": [
+        {
+          "text": "For the law maketh men high priests which have infirmity; but the word of the oath, which was since the law, ",
+          "kind": "text"
+        },
+        {
+          "text": "maketh",
+          "kind": "supplied"
+        },
+        {
+          "text": " the Son, who is consecrated for evermore.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

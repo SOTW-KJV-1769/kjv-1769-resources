@@ -1,0 +1,120 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "KJV1769",
+  "book_code": "ISA",
+  "chapter": 12,
+  "verses": [
+    {
+      "id": "ISA.12.1",
+      "edition_verse_id": "KJV1769:ISA.12.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "And in that day thou shalt say, O LORD, I will praise thee: though thou wast angry with me, thine anger is turned away, and thou comfortedst me.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ISA.12.2",
+      "edition_verse_id": "KJV1769:ISA.12.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "Behold, God ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " my salvation; I will trust, and not be afraid: for the LORD JEHOVAH ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " my strength and ",
+          "kind": "text"
+        },
+        {
+          "text": "my",
+          "kind": "supplied"
+        },
+        {
+          "text": " song; he also is become my salvation.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.12.3",
+      "edition_verse_id": "KJV1769:ISA.12.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "Therefore with joy shall ye draw water out of the wells of salvation.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.12.4",
+      "edition_verse_id": "KJV1769:ISA.12.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "And in that day shall ye say, Praise the LORD, call upon his name, declare his doings among the people, make mention that his name is exalted.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ISA.12.5",
+      "edition_verse_id": "KJV1769:ISA.12.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "Sing unto the LORD; for he hath done excellent things: this ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " known in all the earth.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.12.6",
+      "edition_verse_id": "KJV1769:ISA.12.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "Cry out and shout, thou inhabitant of Zion: for great ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " the Holy One of Israel in the midst of thee.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

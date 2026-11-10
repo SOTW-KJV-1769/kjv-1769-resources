@@ -1,0 +1,276 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "KJV1769",
+  "book_code": "ISA",
+  "chapter": 21,
+  "verses": [
+    {
+      "id": "ISA.21.1",
+      "edition_verse_id": "KJV1769:ISA.21.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "The burden of the desert of the sea. As whirlwinds in the south pass through; ",
+          "kind": "text"
+        },
+        {
+          "text": "so",
+          "kind": "supplied"
+        },
+        {
+          "text": " it cometh from the desert, from a terrible land.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ISA.21.2",
+      "edition_verse_id": "KJV1769:ISA.21.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "A grievous vision is declared unto me; the treacherous dealer dealeth treacherously, and the spoiler spoileth. Go up, O Elam: besiege, O Media; all the sighing thereof have I made to cease.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.21.3",
+      "edition_verse_id": "KJV1769:ISA.21.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "Therefore are my loins filled with pain: pangs have taken hold upon me, as the pangs of a woman that travaileth: I was bowed down at the hearing ",
+          "kind": "text"
+        },
+        {
+          "text": "of it;",
+          "kind": "supplied"
+        },
+        {
+          "text": " I was dismayed at the seeing ",
+          "kind": "text"
+        },
+        {
+          "text": "of it",
+          "kind": "supplied"
+        },
+        {
+          "text": ".",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.21.4",
+      "edition_verse_id": "KJV1769:ISA.21.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "My heart panted, fearfulness affrighted me: the night of my pleasure hath he turned into fear unto me.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.21.5",
+      "edition_verse_id": "KJV1769:ISA.21.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "Prepare the table, watch in the watchtower, eat, drink: arise, ye princes, ",
+          "kind": "text"
+        },
+        {
+          "text": "and",
+          "kind": "supplied"
+        },
+        {
+          "text": " anoint the shield.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.21.6",
+      "edition_verse_id": "KJV1769:ISA.21.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "For thus hath the Lord said unto me, Go, set a watchman, let him declare what he seeth.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.21.7",
+      "edition_verse_id": "KJV1769:ISA.21.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "And he saw a chariot ",
+          "kind": "text"
+        },
+        {
+          "text": "with",
+          "kind": "supplied"
+        },
+        {
+          "text": " a couple of horsemen, a chariot of asses, ",
+          "kind": "text"
+        },
+        {
+          "text": "and",
+          "kind": "supplied"
+        },
+        {
+          "text": " a chariot of camels; and he hearkened diligently with much heed:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.21.8",
+      "edition_verse_id": "KJV1769:ISA.21.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "And he cried, A lion: My lord, I stand continually upon the watchtower in the daytime, and I am set in my ward whole nights:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.21.9",
+      "edition_verse_id": "KJV1769:ISA.21.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "And, behold, here cometh a chariot of men, ",
+          "kind": "text"
+        },
+        {
+          "text": "with",
+          "kind": "supplied"
+        },
+        {
+          "text": " a couple of horsemen. And he answered and said, Babylon is fallen, is fallen; and all the graven images of her gods he hath broken unto the ground.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.21.10",
+      "edition_verse_id": "KJV1769:ISA.21.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "O my threshing, and the corn of my floor: that which I have heard of the LORD of hosts, the God of Israel, have I declared unto you.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.21.11",
+      "edition_verse_id": "KJV1769:ISA.21.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "¶ The burden of Dumah. He calleth to me out of Seir, Watchman, what of the night? Watchman, what of the night?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ISA.21.12",
+      "edition_verse_id": "KJV1769:ISA.21.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "The watchman said, The morning cometh, and also the night: if ye will enquire, enquire ye: return, come.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.21.13",
+      "edition_verse_id": "KJV1769:ISA.21.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "¶ The burden upon Arabia. In the forest in Arabia shall ye lodge, O ye travelling companies of Dedanim.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ISA.21.14",
+      "edition_verse_id": "KJV1769:ISA.21.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "The inhabitants of the land of Tema brought water to him that was thirsty, they prevented with their bread him that fled.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.21.15",
+      "edition_verse_id": "KJV1769:ISA.21.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "For they fled from the swords, from the drawn sword, and from the bent bow, and from the grievousness of war.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.21.16",
+      "edition_verse_id": "KJV1769:ISA.21.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "For thus hath the Lord said unto me, Within a year, according to the years of an hireling, and all the glory of Kedar shall fail:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.21.17",
+      "edition_verse_id": "KJV1769:ISA.21.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "And the residue of the number of archers, the mighty men of the children of Kedar, shall be diminished: for the LORD God of Israel hath spoken ",
+          "kind": "text"
+        },
+        {
+          "text": "it",
+          "kind": "supplied"
+        },
+        {
+          "text": ".",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

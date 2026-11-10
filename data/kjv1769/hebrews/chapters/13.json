@@ -1,0 +1,416 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "KJV1769",
+  "book_code": "HEB",
+  "chapter": 13,
+  "verses": [
+    {
+      "id": "HEB.13.1",
+      "edition_verse_id": "KJV1769:HEB.13.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "Let brotherly love continue.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "HEB.13.2",
+      "edition_verse_id": "KJV1769:HEB.13.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "Be not forgetful to entertain strangers: for thereby some have entertained angels unawares.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "HEB.13.3",
+      "edition_verse_id": "KJV1769:HEB.13.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "Remember them that are in bonds, as bound with them; ",
+          "kind": "text"
+        },
+        {
+          "text": "and",
+          "kind": "supplied"
+        },
+        {
+          "text": " them which suffer adversity, as being yourselves also in the body.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "HEB.13.4",
+      "edition_verse_id": "KJV1769:HEB.13.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "Marriage ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " honourable in all, and the bed undefiled: but whoremongers and adulterers God will judge.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "HEB.13.5",
+      "edition_verse_id": "KJV1769:HEB.13.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "Let your",
+          "kind": "supplied"
+        },
+        {
+          "text": " conversation ",
+          "kind": "text"
+        },
+        {
+          "text": "be",
+          "kind": "supplied"
+        },
+        {
+          "text": " without covetousness; ",
+          "kind": "text"
+        },
+        {
+          "text": "and be",
+          "kind": "supplied"
+        },
+        {
+          "text": " content with such things as ye have: for he hath said, I will never leave thee, nor forsake thee.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "HEB.13.6",
+      "edition_verse_id": "KJV1769:HEB.13.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "So that we may boldly say, The Lord ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " my helper, and I will not fear what man shall do unto me.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "HEB.13.7",
+      "edition_verse_id": "KJV1769:HEB.13.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "Remember them which have the rule over you, who have spoken unto you the word of God: whose faith follow, considering the end of ",
+          "kind": "text"
+        },
+        {
+          "text": "their",
+          "kind": "supplied"
+        },
+        {
+          "text": " conversation.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "HEB.13.8",
+      "edition_verse_id": "KJV1769:HEB.13.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "Jesus Christ the same yesterday, and to day, and for ever.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "HEB.13.9",
+      "edition_verse_id": "KJV1769:HEB.13.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "Be not carried about with divers and strange doctrines. For ",
+          "kind": "text"
+        },
+        {
+          "text": "it is",
+          "kind": "supplied"
+        },
+        {
+          "text": " a good thing that the heart be established with grace; not with meats, which have not profited them that have been occupied therein.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "HEB.13.10",
+      "edition_verse_id": "KJV1769:HEB.13.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "We have an altar, whereof they have no right to eat which serve the tabernacle.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "HEB.13.11",
+      "edition_verse_id": "KJV1769:HEB.13.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "For the bodies of those beasts, whose blood is brought into the sanctuary by the high priest for sin, are burned without the camp.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "HEB.13.12",
+      "edition_verse_id": "KJV1769:HEB.13.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "Wherefore Jesus also, that he might sanctify the people with his own blood, suffered without the gate.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "HEB.13.13",
+      "edition_verse_id": "KJV1769:HEB.13.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "Let us go forth therefore unto him without the camp, bearing his reproach.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "HEB.13.14",
+      "edition_verse_id": "KJV1769:HEB.13.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "For here have we no continuing city, but we seek one to come.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "HEB.13.15",
+      "edition_verse_id": "KJV1769:HEB.13.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "By him therefore let us offer the sacrifice of praise to God continually, that is, the fruit of ",
+          "kind": "text"
+        },
+        {
+          "text": "our",
+          "kind": "supplied"
+        },
+        {
+          "text": " lips giving thanks to his name.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "HEB.13.16",
+      "edition_verse_id": "KJV1769:HEB.13.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "But to do good and to communicate forget not: for with such sacrifices God is well pleased.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "HEB.13.17",
+      "edition_verse_id": "KJV1769:HEB.13.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "Obey them that have the rule over you, and submit yourselves: for they watch for your souls, as they that must give account, that they may do it with joy, and not with grief: for that ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " unprofitable for you.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "HEB.13.18",
+      "edition_verse_id": "KJV1769:HEB.13.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "Pray for us: for we trust we have a good conscience, in all things willing to live honestly.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "HEB.13.19",
+      "edition_verse_id": "KJV1769:HEB.13.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "But I beseech ",
+          "kind": "text"
+        },
+        {
+          "text": "you",
+          "kind": "supplied"
+        },
+        {
+          "text": " the rather to do this, that I may be restored to you the sooner.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "HEB.13.20",
+      "edition_verse_id": "KJV1769:HEB.13.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "Now the God of peace, that brought again from the dead our Lord Jesus, that great shepherd of the sheep, through the blood of the everlasting covenant,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "HEB.13.21",
+      "edition_verse_id": "KJV1769:HEB.13.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "Make you perfect in every good work to do his will, working in you that which is wellpleasing in his sight, through Jesus Christ; to whom ",
+          "kind": "text"
+        },
+        {
+          "text": "be",
+          "kind": "supplied"
+        },
+        {
+          "text": " glory for ever and ever. Amen.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "HEB.13.22",
+      "edition_verse_id": "KJV1769:HEB.13.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "And I beseech you, brethren, suffer the word of exhortation: for I have written a letter unto you in few words.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "HEB.13.23",
+      "edition_verse_id": "KJV1769:HEB.13.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "Know ye that ",
+          "kind": "text"
+        },
+        {
+          "text": "our",
+          "kind": "supplied"
+        },
+        {
+          "text": " brother Timothy is set at liberty; with whom, if he come shortly, I will see you.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "HEB.13.24",
+      "edition_verse_id": "KJV1769:HEB.13.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "Salute all them that have the rule over you, and all the saints. They of Italy salute you.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "HEB.13.25",
+      "edition_verse_id": "KJV1769:HEB.13.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "Grace ",
+          "kind": "text"
+        },
+        {
+          "text": "be",
+          "kind": "supplied"
+        },
+        {
+          "text": " with you all. Amen.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

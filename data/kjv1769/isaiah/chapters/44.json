@@ -1,0 +1,648 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "KJV1769",
+  "book_code": "ISA",
+  "chapter": 44,
+  "verses": [
+    {
+      "id": "ISA.44.1",
+      "edition_verse_id": "KJV1769:ISA.44.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "Yet now hear, O Jacob my servant; and Israel, whom I have chosen:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ISA.44.2",
+      "edition_verse_id": "KJV1769:ISA.44.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "Thus saith the LORD that made thee, and formed thee from the womb, ",
+          "kind": "text"
+        },
+        {
+          "text": "which",
+          "kind": "supplied"
+        },
+        {
+          "text": " will help thee; Fear not, O Jacob, my servant; and thou, Jesurun, whom I have chosen.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.44.3",
+      "edition_verse_id": "KJV1769:ISA.44.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "For I will pour water upon him that is thirsty, and floods upon the dry ground: I will pour my spirit upon thy seed, and my blessing upon thine offspring:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.44.4",
+      "edition_verse_id": "KJV1769:ISA.44.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "And they shall spring up ",
+          "kind": "text"
+        },
+        {
+          "text": "as",
+          "kind": "supplied"
+        },
+        {
+          "text": " among the grass, as willows by the water courses.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.44.5",
+      "edition_verse_id": "KJV1769:ISA.44.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "One shall say, I ",
+          "kind": "text"
+        },
+        {
+          "text": "am",
+          "kind": "supplied"
+        },
+        {
+          "text": " the LORD’s; and another shall call ",
+          "kind": "text"
+        },
+        {
+          "text": "himself",
+          "kind": "supplied"
+        },
+        {
+          "text": " by the name of Jacob; and another shall subscribe ",
+          "kind": "text"
+        },
+        {
+          "text": "with",
+          "kind": "supplied"
+        },
+        {
+          "text": " his hand unto the LORD, and surname ",
+          "kind": "text"
+        },
+        {
+          "text": "himself",
+          "kind": "supplied"
+        },
+        {
+          "text": " by the name of Israel.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.44.6",
+      "edition_verse_id": "KJV1769:ISA.44.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "Thus saith the LORD the King of Israel, and his redeemer the LORD of hosts; I ",
+          "kind": "text"
+        },
+        {
+          "text": "am",
+          "kind": "supplied"
+        },
+        {
+          "text": " the first, and I ",
+          "kind": "text"
+        },
+        {
+          "text": "am",
+          "kind": "supplied"
+        },
+        {
+          "text": " the last; and beside me ",
+          "kind": "text"
+        },
+        {
+          "text": "there is",
+          "kind": "supplied"
+        },
+        {
+          "text": " no God.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.44.7",
+      "edition_verse_id": "KJV1769:ISA.44.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "And who, as I, shall call, and shall declare it, and set it in order for me, since I appointed the ancient people? and the things that are coming, and shall come, let them shew unto them.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.44.8",
+      "edition_verse_id": "KJV1769:ISA.44.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "Fear ye not, neither be afraid: have not I told thee from that time, and have declared ",
+          "kind": "text"
+        },
+        {
+          "text": "it",
+          "kind": "supplied"
+        },
+        {
+          "text": "? ye ",
+          "kind": "text"
+        },
+        {
+          "text": "are",
+          "kind": "supplied"
+        },
+        {
+          "text": " even my witnesses. Is there a God beside me? yea, ",
+          "kind": "text"
+        },
+        {
+          "text": "there is",
+          "kind": "supplied"
+        },
+        {
+          "text": " no God; I know not ",
+          "kind": "text"
+        },
+        {
+          "text": "any",
+          "kind": "supplied"
+        },
+        {
+          "text": ".",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.44.9",
+      "edition_verse_id": "KJV1769:ISA.44.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "¶ They that make a graven image ",
+          "kind": "text"
+        },
+        {
+          "text": "are",
+          "kind": "supplied"
+        },
+        {
+          "text": " all of them vanity; and their delectable things shall not profit; and they ",
+          "kind": "text"
+        },
+        {
+          "text": "are",
+          "kind": "supplied"
+        },
+        {
+          "text": " their own witnesses; they see not, nor know; that they may be ashamed.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ISA.44.10",
+      "edition_verse_id": "KJV1769:ISA.44.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "Who hath formed a god, or molten a graven image ",
+          "kind": "text"
+        },
+        {
+          "text": "that",
+          "kind": "supplied"
+        },
+        {
+          "text": " is profitable for nothing?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.44.11",
+      "edition_verse_id": "KJV1769:ISA.44.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "Behold, all his fellows shall be ashamed: and the workmen, they ",
+          "kind": "text"
+        },
+        {
+          "text": "are",
+          "kind": "supplied"
+        },
+        {
+          "text": " of men: let them all be gathered together, let them stand up; ",
+          "kind": "text"
+        },
+        {
+          "text": "yet",
+          "kind": "supplied"
+        },
+        {
+          "text": " they shall fear, ",
+          "kind": "text"
+        },
+        {
+          "text": "and",
+          "kind": "supplied"
+        },
+        {
+          "text": " they shall be ashamed together.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.44.12",
+      "edition_verse_id": "KJV1769:ISA.44.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "The smith with the tongs both worketh in the coals, and fashioneth it with hammers, and worketh it with the strength of his arms: yea, he is hungry, and his strength faileth: he drinketh no water, and is faint.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.44.13",
+      "edition_verse_id": "KJV1769:ISA.44.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "The carpenter stretcheth out ",
+          "kind": "text"
+        },
+        {
+          "text": "his",
+          "kind": "supplied"
+        },
+        {
+          "text": " rule; he marketh it out with a line; he fitteth it with planes, and he marketh it out with the compass, and maketh it after the figure of a man, according to the beauty of a man; that it may remain in the house.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.44.14",
+      "edition_verse_id": "KJV1769:ISA.44.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "He heweth him down cedars, and taketh the cypress and the oak, which he strengtheneth for himself among the trees of the forest: he planteth an ash, and the rain doth nourish ",
+          "kind": "text"
+        },
+        {
+          "text": "it",
+          "kind": "supplied"
+        },
+        {
+          "text": ".",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.44.15",
+      "edition_verse_id": "KJV1769:ISA.44.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "Then shall it be for a man to burn: for he will take thereof, and warm himself; yea, he kindleth ",
+          "kind": "text"
+        },
+        {
+          "text": "it",
+          "kind": "supplied"
+        },
+        {
+          "text": ", and baketh bread; yea, he maketh a god, and worshippeth ",
+          "kind": "text"
+        },
+        {
+          "text": "it;",
+          "kind": "supplied"
+        },
+        {
+          "text": " he maketh it a graven image, and falleth down thereto.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.44.16",
+      "edition_verse_id": "KJV1769:ISA.44.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "He burneth part thereof in the fire; with part thereof he eateth flesh; he roasteth roast, and is satisfied: yea, he warmeth ",
+          "kind": "text"
+        },
+        {
+          "text": "himself",
+          "kind": "supplied"
+        },
+        {
+          "text": ", and saith, Aha, I am warm, I have seen the fire:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.44.17",
+      "edition_verse_id": "KJV1769:ISA.44.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "And the residue thereof he maketh a god, ",
+          "kind": "text"
+        },
+        {
+          "text": "even",
+          "kind": "supplied"
+        },
+        {
+          "text": " his graven image: he falleth down unto it, and worshippeth ",
+          "kind": "text"
+        },
+        {
+          "text": "it",
+          "kind": "supplied"
+        },
+        {
+          "text": ", and prayeth unto it, and saith, Deliver me; for thou ",
+          "kind": "text"
+        },
+        {
+          "text": "art",
+          "kind": "supplied"
+        },
+        {
+          "text": " my god.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.44.18",
+      "edition_verse_id": "KJV1769:ISA.44.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "They have not known nor understood: for he hath shut their eyes, that they cannot see; ",
+          "kind": "text"
+        },
+        {
+          "text": "and",
+          "kind": "supplied"
+        },
+        {
+          "text": " their hearts, that they cannot understand.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.44.19",
+      "edition_verse_id": "KJV1769:ISA.44.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "And none considereth in his heart, neither ",
+          "kind": "text"
+        },
+        {
+          "text": "is there",
+          "kind": "supplied"
+        },
+        {
+          "text": " knowledge nor understanding to say, I have burned part of it in the fire; yea, also I have baked bread upon the coals thereof; I have roasted flesh, and eaten ",
+          "kind": "text"
+        },
+        {
+          "text": "it:",
+          "kind": "supplied"
+        },
+        {
+          "text": " and shall I make the residue thereof an abomination? shall I fall down to the stock of a tree?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.44.20",
+      "edition_verse_id": "KJV1769:ISA.44.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "He feedeth on ashes: a deceived heart hath turned him aside, that he cannot deliver his soul, nor say, ",
+          "kind": "text"
+        },
+        {
+          "text": "Is there",
+          "kind": "supplied"
+        },
+        {
+          "text": " not a lie in my right hand?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.44.21",
+      "edition_verse_id": "KJV1769:ISA.44.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "¶ Remember these, O Jacob and Israel; for thou ",
+          "kind": "text"
+        },
+        {
+          "text": "art",
+          "kind": "supplied"
+        },
+        {
+          "text": " my servant: I have formed thee; thou ",
+          "kind": "text"
+        },
+        {
+          "text": "art",
+          "kind": "supplied"
+        },
+        {
+          "text": " my servant: O Israel, thou shalt not be forgotten of me.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ISA.44.22",
+      "edition_verse_id": "KJV1769:ISA.44.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "I have blotted out, as a thick cloud, thy transgressions, and, as a cloud, thy sins: return unto me; for I have redeemed thee.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.44.23",
+      "edition_verse_id": "KJV1769:ISA.44.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "Sing, O ye heavens; for the LORD hath done ",
+          "kind": "text"
+        },
+        {
+          "text": "it:",
+          "kind": "supplied"
+        },
+        {
+          "text": " shout, ye lower parts of the earth: break forth into singing, ye mountains, O forest, and every tree therein: for the LORD hath redeemed Jacob, and glorified himself in Israel.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.44.24",
+      "edition_verse_id": "KJV1769:ISA.44.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "Thus saith the LORD, thy redeemer, and he that formed thee from the womb, I ",
+          "kind": "text"
+        },
+        {
+          "text": "am",
+          "kind": "supplied"
+        },
+        {
+          "text": " the LORD that maketh all ",
+          "kind": "text"
+        },
+        {
+          "text": "things;",
+          "kind": "supplied"
+        },
+        {
+          "text": " that stretcheth forth the heavens alone; that spreadeth abroad the earth by myself;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.44.25",
+      "edition_verse_id": "KJV1769:ISA.44.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "That frustrateth the tokens of the liars, and maketh diviners mad; that turneth wise ",
+          "kind": "text"
+        },
+        {
+          "text": "men",
+          "kind": "supplied"
+        },
+        {
+          "text": " backward, and maketh their knowledge foolish;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.44.26",
+      "edition_verse_id": "KJV1769:ISA.44.26",
+      "verse": 26,
+      "spans": [
+        {
+          "text": "That confirmeth the word of his servant, and performeth the counsel of his messengers; that saith to Jerusalem, Thou shalt be inhabited; and to the cities of Judah, Ye shall be built, and I will raise up the decayed places thereof:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.44.27",
+      "edition_verse_id": "KJV1769:ISA.44.27",
+      "verse": 27,
+      "spans": [
+        {
+          "text": "That saith to the deep, Be dry, and I will dry up thy rivers:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.44.28",
+      "edition_verse_id": "KJV1769:ISA.44.28",
+      "verse": 28,
+      "spans": [
+        {
+          "text": "That saith of Cyrus, ",
+          "kind": "text"
+        },
+        {
+          "text": "He is",
+          "kind": "supplied"
+        },
+        {
+          "text": " my shepherd, and shall perform all my pleasure: even saying to Jerusalem, Thou shalt be built; and to the temple, Thy foundation shall be laid.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

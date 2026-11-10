@@ -1,0 +1,420 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "KJV1769",
+  "book_code": "ISA",
+  "chapter": 36,
+  "verses": [
+    {
+      "id": "ISA.36.1",
+      "edition_verse_id": "KJV1769:ISA.36.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "Now it came to pass in the fourteenth year of king Hezekiah, ",
+          "kind": "text"
+        },
+        {
+          "text": "that",
+          "kind": "supplied"
+        },
+        {
+          "text": " Sennacherib king of Assyria came up against all the defenced cities of Judah, and took them.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ISA.36.2",
+      "edition_verse_id": "KJV1769:ISA.36.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "And the king of Assyria sent Rabshakeh from Lachish to Jerusalem unto king Hezekiah with a great army. And he stood by the conduit of the upper pool in the highway of the fuller’s field.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.36.3",
+      "edition_verse_id": "KJV1769:ISA.36.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "Then came forth unto him Eliakim, Hilkiah’s son, which was over the house, and Shebna the scribe, and Joah, Asaph’s son, the recorder.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.36.4",
+      "edition_verse_id": "KJV1769:ISA.36.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "¶ And Rabshakeh said unto them, Say ye now to Hezekiah, Thus saith the great king, the king of Assyria, What confidence ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " this wherein thou trustest?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ISA.36.5",
+      "edition_verse_id": "KJV1769:ISA.36.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "I say, ",
+          "kind": "text"
+        },
+        {
+          "text": "sayest thou",
+          "kind": "supplied"
+        },
+        {
+          "text": ", (but ",
+          "kind": "text"
+        },
+        {
+          "text": "they are but",
+          "kind": "supplied"
+        },
+        {
+          "text": " vain words) ",
+          "kind": "text"
+        },
+        {
+          "text": "I have",
+          "kind": "supplied"
+        },
+        {
+          "text": " counsel and strength for war: now on whom dost thou trust, that thou rebellest against me?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.36.6",
+      "edition_verse_id": "KJV1769:ISA.36.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "Lo, thou trustest in the staff of this broken reed, on Egypt; whereon if a man lean, it will go into his hand, and pierce it: so ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " Pharaoh king of Egypt to all that trust in him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.36.7",
+      "edition_verse_id": "KJV1769:ISA.36.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "But if thou say to me, We trust in the LORD our God: ",
+          "kind": "text"
+        },
+        {
+          "text": "is it",
+          "kind": "supplied"
+        },
+        {
+          "text": " not he, whose high places and whose altars Hezekiah hath taken away, and said to Judah and to Jerusalem, Ye shall worship before this altar?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.36.8",
+      "edition_verse_id": "KJV1769:ISA.36.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "Now therefore give pledges, I pray thee, to my master the king of Assyria, and I will give thee two thousand horses, if thou be able on thy part to set riders upon them.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.36.9",
+      "edition_verse_id": "KJV1769:ISA.36.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "How then wilt thou turn away the face of one captain of the least of my master’s servants, and put thy trust on Egypt for chariots and for horsemen?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.36.10",
+      "edition_verse_id": "KJV1769:ISA.36.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "And am I now come up without the LORD against this land to destroy it? the LORD said unto me, Go up against this land, and destroy it.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.36.11",
+      "edition_verse_id": "KJV1769:ISA.36.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "¶ Then said Eliakim and Shebna and Joah unto Rabshakeh, Speak, I pray thee, unto thy servants in the Syrian language; for we understand ",
+          "kind": "text"
+        },
+        {
+          "text": "it:",
+          "kind": "supplied"
+        },
+        {
+          "text": " and speak not to us in the Jews’ language, in the ears of the people that ",
+          "kind": "text"
+        },
+        {
+          "text": "are",
+          "kind": "supplied"
+        },
+        {
+          "text": " on the wall.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ISA.36.12",
+      "edition_verse_id": "KJV1769:ISA.36.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "¶ But Rabshakeh said, Hath my master sent me to thy master and to thee to speak these words? ",
+          "kind": "text"
+        },
+        {
+          "text": "hath he",
+          "kind": "supplied"
+        },
+        {
+          "text": " not ",
+          "kind": "text"
+        },
+        {
+          "text": "sent me",
+          "kind": "supplied"
+        },
+        {
+          "text": " to the men that sit upon the wall, that they may eat their own dung, and drink their own piss with you?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ISA.36.13",
+      "edition_verse_id": "KJV1769:ISA.36.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "Then Rabshakeh stood, and cried with a loud voice in the Jews’ language, and said, Hear ye the words of the great king, the king of Assyria.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.36.14",
+      "edition_verse_id": "KJV1769:ISA.36.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "Thus saith the king, Let not Hezekiah deceive you: for he shall not be able to deliver you.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.36.15",
+      "edition_verse_id": "KJV1769:ISA.36.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "Neither let Hezekiah make you trust in the LORD, saying, The LORD will surely deliver us: this city shall not be delivered into the hand of the king of Assyria.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.36.16",
+      "edition_verse_id": "KJV1769:ISA.36.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "Hearken not to Hezekiah: for thus saith the king of Assyria, Make ",
+          "kind": "text"
+        },
+        {
+          "text": "an agreement",
+          "kind": "supplied"
+        },
+        {
+          "text": " with me ",
+          "kind": "text"
+        },
+        {
+          "text": "by",
+          "kind": "supplied"
+        },
+        {
+          "text": " a present, and come out to me: and eat ye every one of his vine, and every one of his fig tree, and drink ye every one the waters of his own cistern;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.36.17",
+      "edition_verse_id": "KJV1769:ISA.36.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "Until I come and take you away to a land like your own land, a land of corn and wine, a land of bread and vineyards.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.36.18",
+      "edition_verse_id": "KJV1769:ISA.36.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "Beware",
+          "kind": "supplied"
+        },
+        {
+          "text": " lest Hezekiah persuade you, saying, The LORD will deliver us. Hath any of the gods of the nations delivered his land out of the hand of the king of Assyria?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.36.19",
+      "edition_verse_id": "KJV1769:ISA.36.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "Where ",
+          "kind": "text"
+        },
+        {
+          "text": "are",
+          "kind": "supplied"
+        },
+        {
+          "text": " the gods of Hamath and Arphad? where ",
+          "kind": "text"
+        },
+        {
+          "text": "are",
+          "kind": "supplied"
+        },
+        {
+          "text": " the gods of Sepharvaim? and have they delivered Samaria out of my hand?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.36.20",
+      "edition_verse_id": "KJV1769:ISA.36.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "Who ",
+          "kind": "text"
+        },
+        {
+          "text": "are they",
+          "kind": "supplied"
+        },
+        {
+          "text": " among all the gods of these lands, that have delivered their land out of my hand, that the LORD should deliver Jerusalem out of my hand?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.36.21",
+      "edition_verse_id": "KJV1769:ISA.36.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "But they held their peace, and answered him not a word: for the king’s commandment was, saying, Answer him not.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.36.22",
+      "edition_verse_id": "KJV1769:ISA.36.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "¶ Then came Eliakim, the son of Hilkiah, that ",
+          "kind": "text"
+        },
+        {
+          "text": "was",
+          "kind": "supplied"
+        },
+        {
+          "text": " over the household, and Shebna the scribe, and Joah, the son of Asaph, the recorder, to Hezekiah with ",
+          "kind": "text"
+        },
+        {
+          "text": "their",
+          "kind": "supplied"
+        },
+        {
+          "text": " clothes rent, and told him the words of Rabshakeh.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    }
+  ]
+}

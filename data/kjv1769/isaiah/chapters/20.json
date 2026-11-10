@@ -1,0 +1,104 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "KJV1769",
+  "book_code": "ISA",
+  "chapter": 20,
+  "verses": [
+    {
+      "id": "ISA.20.1",
+      "edition_verse_id": "KJV1769:ISA.20.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "In the year that Tartan came unto Ashdod, (when Sargon the king of Assyria sent him,) and fought against Ashdod, and took it;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ISA.20.2",
+      "edition_verse_id": "KJV1769:ISA.20.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "At the same time spake the LORD by Isaiah the son of Amoz, saying, Go and loose the sackcloth from off thy loins, and put off thy shoe from thy foot. And he did so, walking naked and barefoot.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.20.3",
+      "edition_verse_id": "KJV1769:ISA.20.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "And the LORD said, Like as my servant Isaiah hath walked naked and barefoot three years ",
+          "kind": "text"
+        },
+        {
+          "text": "for",
+          "kind": "supplied"
+        },
+        {
+          "text": " a sign and wonder upon Egypt and upon Ethiopia;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.20.4",
+      "edition_verse_id": "KJV1769:ISA.20.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "So shall the king of Assyria lead away the Egyptians prisoners, and the Ethiopians captives, young and old, naked and barefoot, even with ",
+          "kind": "text"
+        },
+        {
+          "text": "their",
+          "kind": "supplied"
+        },
+        {
+          "text": " buttocks uncovered, to the shame of Egypt.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.20.5",
+      "edition_verse_id": "KJV1769:ISA.20.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "And they shall be afraid and ashamed of Ethiopia their expectation, and of Egypt their glory.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.20.6",
+      "edition_verse_id": "KJV1769:ISA.20.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "And the inhabitant of this isle shall say in that day, Behold, such ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " our expectation, whither we flee for help to be delivered from the king of Assyria: and how shall we escape?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

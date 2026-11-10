@@ -1,0 +1,428 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "KJV1769",
+  "book_code": "ISA",
+  "chapter": 22,
+  "verses": [
+    {
+      "id": "ISA.22.1",
+      "edition_verse_id": "KJV1769:ISA.22.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "The burden of the valley of vision. What aileth thee now, that thou art wholly gone up to the housetops?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ISA.22.2",
+      "edition_verse_id": "KJV1769:ISA.22.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "Thou that art full of stirs, a tumultuous city, a joyous city: thy slain ",
+          "kind": "text"
+        },
+        {
+          "text": "men are",
+          "kind": "supplied"
+        },
+        {
+          "text": " not slain with the sword, nor dead in battle.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.22.3",
+      "edition_verse_id": "KJV1769:ISA.22.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "All thy rulers are fled together, they are bound by the archers: all that are found in thee are bound together, ",
+          "kind": "text"
+        },
+        {
+          "text": "which",
+          "kind": "supplied"
+        },
+        {
+          "text": " have fled from far.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.22.4",
+      "edition_verse_id": "KJV1769:ISA.22.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "Therefore said I, Look away from me; I will weep bitterly, labour not to comfort me, because of the spoiling of the daughter of my people.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.22.5",
+      "edition_verse_id": "KJV1769:ISA.22.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "For ",
+          "kind": "text"
+        },
+        {
+          "text": "it is",
+          "kind": "supplied"
+        },
+        {
+          "text": " a day of trouble, and of treading down, and of perplexity by the Lord GOD of hosts in the valley of vision, breaking down the walls, and of crying to the mountains.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.22.6",
+      "edition_verse_id": "KJV1769:ISA.22.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "And Elam bare the quiver with chariots of men ",
+          "kind": "text"
+        },
+        {
+          "text": "and",
+          "kind": "supplied"
+        },
+        {
+          "text": " horsemen, and Kir uncovered the shield.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.22.7",
+      "edition_verse_id": "KJV1769:ISA.22.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "And it shall come to pass, ",
+          "kind": "text"
+        },
+        {
+          "text": "that",
+          "kind": "supplied"
+        },
+        {
+          "text": " thy choicest valleys shall be full of chariots, and the horsemen shall set themselves in array at the gate.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.22.8",
+      "edition_verse_id": "KJV1769:ISA.22.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "¶ And he discovered the covering of Judah, and thou didst look in that day to the armour of the house of the forest.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ISA.22.9",
+      "edition_verse_id": "KJV1769:ISA.22.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "Ye have seen also the breaches of the city of David, that they are many: and ye gathered together the waters of the lower pool.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.22.10",
+      "edition_verse_id": "KJV1769:ISA.22.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "And ye have numbered the houses of Jerusalem, and the houses have ye broken down to fortify the wall.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.22.11",
+      "edition_verse_id": "KJV1769:ISA.22.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "Ye made also a ditch between the two walls for the water of the old pool: but ye have not looked unto the maker thereof, neither had respect unto him that fashioned it long ago.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.22.12",
+      "edition_verse_id": "KJV1769:ISA.22.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "And in that day did the Lord GOD of hosts call to weeping, and to mourning, and to baldness, and to girding with sackcloth:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.22.13",
+      "edition_verse_id": "KJV1769:ISA.22.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "And behold joy and gladness, slaying oxen, and killing sheep, eating flesh, and drinking wine: let us eat and drink; for to morrow we shall die.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.22.14",
+      "edition_verse_id": "KJV1769:ISA.22.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "And it was revealed in mine ears by the LORD of hosts, Surely this iniquity shall not be purged from you till ye die, saith the Lord GOD of hosts.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.22.15",
+      "edition_verse_id": "KJV1769:ISA.22.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "¶ Thus saith the Lord GOD of hosts, Go, get thee unto this treasurer, ",
+          "kind": "text"
+        },
+        {
+          "text": "even",
+          "kind": "supplied"
+        },
+        {
+          "text": " unto Shebna, which ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " over the house, ",
+          "kind": "text"
+        },
+        {
+          "text": "and say",
+          "kind": "supplied"
+        },
+        {
+          "text": ",",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ISA.22.16",
+      "edition_verse_id": "KJV1769:ISA.22.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "What hast thou here? and whom hast thou here, that thou hast hewed thee out a sepulchre here, ",
+          "kind": "text"
+        },
+        {
+          "text": "as",
+          "kind": "supplied"
+        },
+        {
+          "text": " he that heweth him out a sepulchre on high, ",
+          "kind": "text"
+        },
+        {
+          "text": "and",
+          "kind": "supplied"
+        },
+        {
+          "text": " that graveth an habitation for himself in a rock?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.22.17",
+      "edition_verse_id": "KJV1769:ISA.22.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "Behold, the LORD will carry thee away with a mighty captivity, and will surely cover thee.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.22.18",
+      "edition_verse_id": "KJV1769:ISA.22.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "He will surely violently turn and toss thee ",
+          "kind": "text"
+        },
+        {
+          "text": "like",
+          "kind": "supplied"
+        },
+        {
+          "text": " a ball into a large country: there shalt thou die, and there the chariots of thy glory ",
+          "kind": "text"
+        },
+        {
+          "text": "shall be",
+          "kind": "supplied"
+        },
+        {
+          "text": " the shame of thy lord’s house.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.22.19",
+      "edition_verse_id": "KJV1769:ISA.22.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "And I will drive thee from thy station, and from thy state shall he pull thee down.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.22.20",
+      "edition_verse_id": "KJV1769:ISA.22.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "¶ And it shall come to pass in that day, that I will call my servant Eliakim the son of Hilkiah:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ISA.22.21",
+      "edition_verse_id": "KJV1769:ISA.22.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "And I will clothe him with thy robe, and strengthen him with thy girdle, and I will commit thy government into his hand: and he shall be a father to the inhabitants of Jerusalem, and to the house of Judah.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.22.22",
+      "edition_verse_id": "KJV1769:ISA.22.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "And the key of the house of David will I lay upon his shoulder; so he shall open, and none shall shut; and he shall shut, and none shall open.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.22.23",
+      "edition_verse_id": "KJV1769:ISA.22.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "And I will fasten him ",
+          "kind": "text"
+        },
+        {
+          "text": "as",
+          "kind": "supplied"
+        },
+        {
+          "text": " a nail in a sure place; and he shall be for a glorious throne to his father’s house.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.22.24",
+      "edition_verse_id": "KJV1769:ISA.22.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "And they shall hang upon him all the glory of his father’s house, the offspring and the issue, all vessels of small quantity, from the vessels of cups, even to all the vessels of flagons.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.22.25",
+      "edition_verse_id": "KJV1769:ISA.22.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "In that day, saith the LORD of hosts, shall the nail that is fastened in the sure place be removed, and be cut down, and fall; and the burden that ",
+          "kind": "text"
+        },
+        {
+          "text": "was",
+          "kind": "supplied"
+        },
+        {
+          "text": " upon it shall be cut off: for the LORD hath spoken ",
+          "kind": "text"
+        },
+        {
+          "text": "it",
+          "kind": "supplied"
+        },
+        {
+          "text": ".",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

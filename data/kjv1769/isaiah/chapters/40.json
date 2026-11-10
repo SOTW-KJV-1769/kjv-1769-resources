@@ -1,0 +1,592 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "KJV1769",
+  "book_code": "ISA",
+  "chapter": 40,
+  "verses": [
+    {
+      "id": "ISA.40.1",
+      "edition_verse_id": "KJV1769:ISA.40.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "Comfort ye, comfort ye my people, saith your God.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ISA.40.2",
+      "edition_verse_id": "KJV1769:ISA.40.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "Speak ye comfortably to Jerusalem, and cry unto her, that her warfare is accomplished, that her iniquity is pardoned: for she hath received of the LORD’s hand double for all her sins.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.40.3",
+      "edition_verse_id": "KJV1769:ISA.40.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "¶ The voice of him that crieth in the wilderness, Prepare ye the way of the LORD, make straight in the desert a highway for our God.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ISA.40.4",
+      "edition_verse_id": "KJV1769:ISA.40.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "Every valley shall be exalted, and every mountain and hill shall be made low: and the crooked shall be made straight, and the rough places plain:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.40.5",
+      "edition_verse_id": "KJV1769:ISA.40.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "And the glory of the LORD shall be revealed, and all flesh shall see ",
+          "kind": "text"
+        },
+        {
+          "text": "it",
+          "kind": "supplied"
+        },
+        {
+          "text": " together: for the mouth of the LORD hath spoken ",
+          "kind": "text"
+        },
+        {
+          "text": "it",
+          "kind": "supplied"
+        },
+        {
+          "text": ".",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.40.6",
+      "edition_verse_id": "KJV1769:ISA.40.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "The voice said, Cry. And he said, What shall I cry? All flesh ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " grass, and all the goodliness thereof ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " as the flower of the field:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.40.7",
+      "edition_verse_id": "KJV1769:ISA.40.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "The grass withereth, the flower fadeth: because the spirit of the LORD bloweth upon it: surely the people ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " grass.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.40.8",
+      "edition_verse_id": "KJV1769:ISA.40.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "The grass withereth, the flower fadeth: but the word of our God shall stand for ever.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.40.9",
+      "edition_verse_id": "KJV1769:ISA.40.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "¶ O Zion, that bringest good tidings, get thee up into the high mountain; O Jerusalem, that bringest good tidings, lift up thy voice with strength; lift ",
+          "kind": "text"
+        },
+        {
+          "text": "it",
+          "kind": "supplied"
+        },
+        {
+          "text": " up, be not afraid; say unto the cities of Judah, Behold your God!",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ISA.40.10",
+      "edition_verse_id": "KJV1769:ISA.40.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "Behold, the Lord GOD will come with strong ",
+          "kind": "text"
+        },
+        {
+          "text": "hand",
+          "kind": "supplied"
+        },
+        {
+          "text": ", and his arm shall rule for him: behold, his reward ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " with him, and his work before him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.40.11",
+      "edition_verse_id": "KJV1769:ISA.40.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "He shall feed his flock like a shepherd: he shall gather the lambs with his arm, and carry ",
+          "kind": "text"
+        },
+        {
+          "text": "them",
+          "kind": "supplied"
+        },
+        {
+          "text": " in his bosom, ",
+          "kind": "text"
+        },
+        {
+          "text": "and",
+          "kind": "supplied"
+        },
+        {
+          "text": " shall gently lead those that are with young.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.40.12",
+      "edition_verse_id": "KJV1769:ISA.40.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "¶ Who hath measured the waters in the hollow of his hand, and meted out heaven with the span, and comprehended the dust of the earth in a measure, and weighed the mountains in scales, and the hills in a balance?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ISA.40.13",
+      "edition_verse_id": "KJV1769:ISA.40.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "Who hath directed the Spirit of the LORD, or ",
+          "kind": "text"
+        },
+        {
+          "text": "being",
+          "kind": "supplied"
+        },
+        {
+          "text": " his counsellor hath taught him?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.40.14",
+      "edition_verse_id": "KJV1769:ISA.40.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "With whom took he counsel, and ",
+          "kind": "text"
+        },
+        {
+          "text": "who",
+          "kind": "supplied"
+        },
+        {
+          "text": " instructed him, and taught him in the path of judgment, and taught him knowledge, and shewed to him the way of understanding?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.40.15",
+      "edition_verse_id": "KJV1769:ISA.40.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "Behold, the nations ",
+          "kind": "text"
+        },
+        {
+          "text": "are",
+          "kind": "supplied"
+        },
+        {
+          "text": " as a drop of a bucket, and are counted as the small dust of the balance: behold, he taketh up the isles as a very little thing.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.40.16",
+      "edition_verse_id": "KJV1769:ISA.40.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "And Lebanon ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " not sufficient to burn, nor the beasts thereof sufficient for a burnt offering.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.40.17",
+      "edition_verse_id": "KJV1769:ISA.40.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "All nations before him ",
+          "kind": "text"
+        },
+        {
+          "text": "are",
+          "kind": "supplied"
+        },
+        {
+          "text": " as nothing; and they are counted to him less than nothing, and vanity.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.40.18",
+      "edition_verse_id": "KJV1769:ISA.40.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "¶ To whom then will ye liken God? or what likeness will ye compare unto him?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ISA.40.19",
+      "edition_verse_id": "KJV1769:ISA.40.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "The workman melteth a graven image, and the goldsmith spreadeth it over with gold, and casteth silver chains.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.40.20",
+      "edition_verse_id": "KJV1769:ISA.40.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "He that ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " so impoverished that he hath no oblation chooseth a tree ",
+          "kind": "text"
+        },
+        {
+          "text": "that",
+          "kind": "supplied"
+        },
+        {
+          "text": " will not rot; he seeketh unto him a cunning workman to prepare a graven image, ",
+          "kind": "text"
+        },
+        {
+          "text": "that",
+          "kind": "supplied"
+        },
+        {
+          "text": " shall not be moved.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.40.21",
+      "edition_verse_id": "KJV1769:ISA.40.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "Have ye not known? have ye not heard? hath it not been told you from the beginning? have ye not understood from the foundations of the earth?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.40.22",
+      "edition_verse_id": "KJV1769:ISA.40.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "It is",
+          "kind": "supplied"
+        },
+        {
+          "text": " he that sitteth upon the circle of the earth, and the inhabitants thereof ",
+          "kind": "text"
+        },
+        {
+          "text": "are",
+          "kind": "supplied"
+        },
+        {
+          "text": " as grasshoppers; that stretcheth out the heavens as a curtain, and spreadeth them out as a tent to dwell in:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.40.23",
+      "edition_verse_id": "KJV1769:ISA.40.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "That bringeth the princes to nothing; he maketh the judges of the earth as vanity.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.40.24",
+      "edition_verse_id": "KJV1769:ISA.40.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "Yea, they shall not be planted; yea, they shall not be sown: yea, their stock shall not take root in the earth: and he shall also blow upon them, and they shall wither, and the whirlwind shall take them away as stubble.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.40.25",
+      "edition_verse_id": "KJV1769:ISA.40.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "To whom then will ye liken me, or shall I be equal? saith the Holy One.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.40.26",
+      "edition_verse_id": "KJV1769:ISA.40.26",
+      "verse": 26,
+      "spans": [
+        {
+          "text": "Lift up your eyes on high, and behold who hath created these ",
+          "kind": "text"
+        },
+        {
+          "text": "things",
+          "kind": "supplied"
+        },
+        {
+          "text": ", that bringeth out their host by number: he calleth them all by names by the greatness of his might, for that ",
+          "kind": "text"
+        },
+        {
+          "text": "he is",
+          "kind": "supplied"
+        },
+        {
+          "text": " strong in power; not one faileth.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.40.27",
+      "edition_verse_id": "KJV1769:ISA.40.27",
+      "verse": 27,
+      "spans": [
+        {
+          "text": "Why sayest thou, O Jacob, and speakest, O Israel, My way is hid from the LORD, and my judgment is passed over from my God?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ISA.40.28",
+      "edition_verse_id": "KJV1769:ISA.40.28",
+      "verse": 28,
+      "spans": [
+        {
+          "text": "¶ Hast thou not known? hast thou not heard, ",
+          "kind": "text"
+        },
+        {
+          "text": "that",
+          "kind": "supplied"
+        },
+        {
+          "text": " the everlasting God, the LORD, the Creator of the ends of the earth, fainteth not, neither is weary? ",
+          "kind": "text"
+        },
+        {
+          "text": "there is",
+          "kind": "supplied"
+        },
+        {
+          "text": " no searching of his understanding.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ISA.40.29",
+      "edition_verse_id": "KJV1769:ISA.40.29",
+      "verse": 29,
+      "spans": [
+        {
+          "text": "He giveth power to the faint; and to ",
+          "kind": "text"
+        },
+        {
+          "text": "them that have",
+          "kind": "supplied"
+        },
+        {
+          "text": " no might he increaseth strength.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.40.30",
+      "edition_verse_id": "KJV1769:ISA.40.30",
+      "verse": 30,
+      "spans": [
+        {
+          "text": "Even the youths shall faint and be weary, and the young men shall utterly fall:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.40.31",
+      "edition_verse_id": "KJV1769:ISA.40.31",
+      "verse": 31,
+      "spans": [
+        {
+          "text": "But they that wait upon the LORD shall renew ",
+          "kind": "text"
+        },
+        {
+          "text": "their",
+          "kind": "supplied"
+        },
+        {
+          "text": " strength; they shall mount up with wings as eagles; they shall run, and not be weary; ",
+          "kind": "text"
+        },
+        {
+          "text": "and",
+          "kind": "supplied"
+        },
+        {
+          "text": " they shall walk, and not faint.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

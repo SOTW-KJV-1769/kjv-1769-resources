@@ -1,0 +1,468 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "KJV1769",
+  "book_code": "ISA",
+  "chapter": 9,
+  "verses": [
+    {
+      "id": "ISA.9.1",
+      "edition_verse_id": "KJV1769:ISA.9.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "Nevertheless the dimness ",
+          "kind": "text"
+        },
+        {
+          "text": "shall",
+          "kind": "supplied"
+        },
+        {
+          "text": " not ",
+          "kind": "text"
+        },
+        {
+          "text": "be",
+          "kind": "supplied"
+        },
+        {
+          "text": " such as ",
+          "kind": "text"
+        },
+        {
+          "text": "was",
+          "kind": "supplied"
+        },
+        {
+          "text": " in her vexation, when at the first he lightly afflicted the land of Zebulun and the land of Naphtali, and afterward did more grievously afflict ",
+          "kind": "text"
+        },
+        {
+          "text": "her by",
+          "kind": "supplied"
+        },
+        {
+          "text": " the way of the sea, beyond Jordan, in Galilee of the nations.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ISA.9.2",
+      "edition_verse_id": "KJV1769:ISA.9.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "The people that walked in darkness have seen a great light: they that dwell in the land of the shadow of death, upon them hath the light shined.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.9.3",
+      "edition_verse_id": "KJV1769:ISA.9.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "Thou hast multiplied the nation, ",
+          "kind": "text"
+        },
+        {
+          "text": "and",
+          "kind": "supplied"
+        },
+        {
+          "text": " not increased the joy: they joy before thee according to the joy in harvest, ",
+          "kind": "text"
+        },
+        {
+          "text": "and",
+          "kind": "supplied"
+        },
+        {
+          "text": " as ",
+          "kind": "text"
+        },
+        {
+          "text": "men",
+          "kind": "supplied"
+        },
+        {
+          "text": " rejoice when they divide the spoil.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.9.4",
+      "edition_verse_id": "KJV1769:ISA.9.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "For thou hast broken the yoke of his burden, and the staff of his shoulder, the rod of his oppressor, as in the day of Midian.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.9.5",
+      "edition_verse_id": "KJV1769:ISA.9.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "For every battle of the warrior ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " with confused noise, and garments rolled in blood; but ",
+          "kind": "text"
+        },
+        {
+          "text": "this",
+          "kind": "supplied"
+        },
+        {
+          "text": " shall be with burning ",
+          "kind": "text"
+        },
+        {
+          "text": "and",
+          "kind": "supplied"
+        },
+        {
+          "text": " fuel of fire.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.9.6",
+      "edition_verse_id": "KJV1769:ISA.9.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "For unto us a child is born, unto us a son is given: and the government shall be upon his shoulder: and his name shall be called Wonderful, Counsellor, The mighty God, The everlasting Father, The Prince of Peace.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.9.7",
+      "edition_verse_id": "KJV1769:ISA.9.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "Of the increase of ",
+          "kind": "text"
+        },
+        {
+          "text": "his",
+          "kind": "supplied"
+        },
+        {
+          "text": " government and peace ",
+          "kind": "text"
+        },
+        {
+          "text": "there shall be",
+          "kind": "supplied"
+        },
+        {
+          "text": " no end, upon the throne of David, and upon his kingdom, to order it, and to establish it with judgment and with justice from henceforth even for ever. The zeal of the LORD of hosts will perform this.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.9.8",
+      "edition_verse_id": "KJV1769:ISA.9.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "¶ The Lord sent a word into Jacob, and it hath lighted upon Israel.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ISA.9.9",
+      "edition_verse_id": "KJV1769:ISA.9.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "And all the people shall know, ",
+          "kind": "text"
+        },
+        {
+          "text": "even",
+          "kind": "supplied"
+        },
+        {
+          "text": " Ephraim and the inhabitant of Samaria, that say in the pride and stoutness of heart,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.9.10",
+      "edition_verse_id": "KJV1769:ISA.9.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "The bricks are fallen down, but we will build with hewn stones: the sycomores are cut down, but we will change ",
+          "kind": "text"
+        },
+        {
+          "text": "them into",
+          "kind": "supplied"
+        },
+        {
+          "text": " cedars.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.9.11",
+      "edition_verse_id": "KJV1769:ISA.9.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "Therefore the LORD shall set up the adversaries of Rezin against him, and join his enemies together;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.9.12",
+      "edition_verse_id": "KJV1769:ISA.9.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "The Syrians before, and the Philistines behind; and they shall devour Israel with open mouth. For all this his anger is not turned away, but his hand ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " stretched out still.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.9.13",
+      "edition_verse_id": "KJV1769:ISA.9.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "¶ For the people turneth not unto him that smiteth them, neither do they seek the LORD of hosts.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ISA.9.14",
+      "edition_verse_id": "KJV1769:ISA.9.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "Therefore the LORD will cut off from Israel head and tail, branch and rush, in one day.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.9.15",
+      "edition_verse_id": "KJV1769:ISA.9.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "The ancient and honourable, he ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " the head; and the prophet that teacheth lies, he ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " the tail.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.9.16",
+      "edition_verse_id": "KJV1769:ISA.9.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "For the leaders of this people cause ",
+          "kind": "text"
+        },
+        {
+          "text": "them",
+          "kind": "supplied"
+        },
+        {
+          "text": " to err; and ",
+          "kind": "text"
+        },
+        {
+          "text": "they that are",
+          "kind": "supplied"
+        },
+        {
+          "text": " led of them ",
+          "kind": "text"
+        },
+        {
+          "text": "are",
+          "kind": "supplied"
+        },
+        {
+          "text": " destroyed.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.9.17",
+      "edition_verse_id": "KJV1769:ISA.9.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "Therefore the Lord shall have no joy in their young men, neither shall have mercy on their fatherless and widows: for every one ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " an hypocrite and an evildoer, and every mouth speaketh folly. For all this his anger is not turned away, but his hand ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " stretched out still.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.9.18",
+      "edition_verse_id": "KJV1769:ISA.9.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "¶ For wickedness burneth as the fire: it shall devour the briers and thorns, and shall kindle in the thickets of the forest, and they shall mount up ",
+          "kind": "text"
+        },
+        {
+          "text": "like",
+          "kind": "supplied"
+        },
+        {
+          "text": " the lifting up of smoke.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ISA.9.19",
+      "edition_verse_id": "KJV1769:ISA.9.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "Through the wrath of the LORD of hosts is the land darkened, and the people shall be as the fuel of the fire: no man shall spare his brother.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.9.20",
+      "edition_verse_id": "KJV1769:ISA.9.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "And he shall snatch on the right hand, and be hungry; and he shall eat on the left hand, and they shall not be satisfied: they shall eat every man the flesh of his own arm:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.9.21",
+      "edition_verse_id": "KJV1769:ISA.9.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "Manasseh, Ephraim; and Ephraim, Manasseh: ",
+          "kind": "text"
+        },
+        {
+          "text": "and",
+          "kind": "supplied"
+        },
+        {
+          "text": " they together ",
+          "kind": "text"
+        },
+        {
+          "text": "shall be",
+          "kind": "supplied"
+        },
+        {
+          "text": " against Judah. For all this his anger is not turned away, but his hand ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " stretched out still.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

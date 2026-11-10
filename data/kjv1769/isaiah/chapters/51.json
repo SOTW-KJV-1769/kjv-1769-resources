@@ -1,0 +1,508 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "KJV1769",
+  "book_code": "ISA",
+  "chapter": 51,
+  "verses": [
+    {
+      "id": "ISA.51.1",
+      "edition_verse_id": "KJV1769:ISA.51.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "Hearken to me, ye that follow after righteousness, ye that seek the LORD: look unto the rock ",
+          "kind": "text"
+        },
+        {
+          "text": "whence",
+          "kind": "supplied"
+        },
+        {
+          "text": " ye are hewn, and to the hole of the pit ",
+          "kind": "text"
+        },
+        {
+          "text": "whence",
+          "kind": "supplied"
+        },
+        {
+          "text": " ye are digged.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ISA.51.2",
+      "edition_verse_id": "KJV1769:ISA.51.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "Look unto Abraham your father, and unto Sarah ",
+          "kind": "text"
+        },
+        {
+          "text": "that",
+          "kind": "supplied"
+        },
+        {
+          "text": " bare you: for I called him alone, and blessed him, and increased him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.51.3",
+      "edition_verse_id": "KJV1769:ISA.51.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "For the LORD shall comfort Zion: he will comfort all her waste places; and he will make her wilderness like Eden, and her desert like the garden of the LORD; joy and gladness shall be found therein, thanksgiving, and the voice of melody.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.51.4",
+      "edition_verse_id": "KJV1769:ISA.51.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "¶ Hearken unto me, my people; and give ear unto me, O my nation: for a law shall proceed from me, and I will make my judgment to rest for a light of the people.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ISA.51.5",
+      "edition_verse_id": "KJV1769:ISA.51.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "My righteousness ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " near; my salvation is gone forth, and mine arms shall judge the people; the isles shall wait upon me, and on mine arm shall they trust.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.51.6",
+      "edition_verse_id": "KJV1769:ISA.51.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "Lift up your eyes to the heavens, and look upon the earth beneath: for the heavens shall vanish away like smoke, and the earth shall wax old like a garment, and they that dwell therein shall die in like manner: but my salvation shall be for ever, and my righteousness shall not be abolished.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.51.7",
+      "edition_verse_id": "KJV1769:ISA.51.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "¶ Hearken unto me, ye that know righteousness, the people in whose heart ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " my law; fear ye not the reproach of men, neither be ye afraid of their revilings.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ISA.51.8",
+      "edition_verse_id": "KJV1769:ISA.51.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "For the moth shall eat them up like a garment, and the worm shall eat them like wool: but my righteousness shall be for ever, and my salvation from generation to generation.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.51.9",
+      "edition_verse_id": "KJV1769:ISA.51.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "¶ Awake, awake, put on strength, O arm of the LORD; awake, as in the ancient days, in the generations of old. ",
+          "kind": "text"
+        },
+        {
+          "text": "Art",
+          "kind": "supplied"
+        },
+        {
+          "text": " thou not it that hath cut Rahab, ",
+          "kind": "text"
+        },
+        {
+          "text": "and",
+          "kind": "supplied"
+        },
+        {
+          "text": " wounded the dragon?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ISA.51.10",
+      "edition_verse_id": "KJV1769:ISA.51.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "Art",
+          "kind": "supplied"
+        },
+        {
+          "text": " thou not it which hath dried the sea, the waters of the great deep; that hath made the depths of the sea a way for the ransomed to pass over?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.51.11",
+      "edition_verse_id": "KJV1769:ISA.51.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "Therefore the redeemed of the LORD shall return, and come with singing unto Zion; and everlasting joy ",
+          "kind": "text"
+        },
+        {
+          "text": "shall be",
+          "kind": "supplied"
+        },
+        {
+          "text": " upon their head: they shall obtain gladness and joy; ",
+          "kind": "text"
+        },
+        {
+          "text": "and",
+          "kind": "supplied"
+        },
+        {
+          "text": " sorrow and mourning shall flee away.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.51.12",
+      "edition_verse_id": "KJV1769:ISA.51.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "I, ",
+          "kind": "text"
+        },
+        {
+          "text": "even",
+          "kind": "supplied"
+        },
+        {
+          "text": " I, ",
+          "kind": "text"
+        },
+        {
+          "text": "am",
+          "kind": "supplied"
+        },
+        {
+          "text": " he that comforteth you: who ",
+          "kind": "text"
+        },
+        {
+          "text": "art",
+          "kind": "supplied"
+        },
+        {
+          "text": " thou, that thou shouldest be afraid of a man ",
+          "kind": "text"
+        },
+        {
+          "text": "that",
+          "kind": "supplied"
+        },
+        {
+          "text": " shall die, and of the son of man ",
+          "kind": "text"
+        },
+        {
+          "text": "which",
+          "kind": "supplied"
+        },
+        {
+          "text": " shall be made ",
+          "kind": "text"
+        },
+        {
+          "text": "as",
+          "kind": "supplied"
+        },
+        {
+          "text": " grass;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.51.13",
+      "edition_verse_id": "KJV1769:ISA.51.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "And forgettest the LORD thy maker, that hath stretched forth the heavens, and laid the foundations of the earth; and hast feared continually every day because of the fury of the oppressor, as if he were ready to destroy? and where ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " the fury of the oppressor?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.51.14",
+      "edition_verse_id": "KJV1769:ISA.51.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "The captive exile hasteneth that he may be loosed, and that he should not die in the pit, nor that his bread should fail.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.51.15",
+      "edition_verse_id": "KJV1769:ISA.51.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "But I ",
+          "kind": "text"
+        },
+        {
+          "text": "am",
+          "kind": "supplied"
+        },
+        {
+          "text": " the LORD thy God, that divided the sea, whose waves roared: The LORD of hosts ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " his name.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.51.16",
+      "edition_verse_id": "KJV1769:ISA.51.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "And I have put my words in thy mouth, and I have covered thee in the shadow of mine hand, that I may plant the heavens, and lay the foundations of the earth, and say unto Zion, Thou ",
+          "kind": "text"
+        },
+        {
+          "text": "art",
+          "kind": "supplied"
+        },
+        {
+          "text": " my people.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.51.17",
+      "edition_verse_id": "KJV1769:ISA.51.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "¶ Awake, awake, stand up, O Jerusalem, which hast drunk at the hand of the LORD the cup of his fury; thou hast drunken the dregs of the cup of trembling, ",
+          "kind": "text"
+        },
+        {
+          "text": "and",
+          "kind": "supplied"
+        },
+        {
+          "text": " wrung ",
+          "kind": "text"
+        },
+        {
+          "text": "them",
+          "kind": "supplied"
+        },
+        {
+          "text": " out.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ISA.51.18",
+      "edition_verse_id": "KJV1769:ISA.51.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "There is",
+          "kind": "supplied"
+        },
+        {
+          "text": " none to guide her among all the sons ",
+          "kind": "text"
+        },
+        {
+          "text": "whom",
+          "kind": "supplied"
+        },
+        {
+          "text": " she hath brought forth; neither ",
+          "kind": "text"
+        },
+        {
+          "text": "is there any",
+          "kind": "supplied"
+        },
+        {
+          "text": " that taketh her by the hand of all the sons ",
+          "kind": "text"
+        },
+        {
+          "text": "that",
+          "kind": "supplied"
+        },
+        {
+          "text": " she hath brought up.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.51.19",
+      "edition_verse_id": "KJV1769:ISA.51.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "These two ",
+          "kind": "text"
+        },
+        {
+          "text": "things",
+          "kind": "supplied"
+        },
+        {
+          "text": " are come unto thee; who shall be sorry for thee? desolation, and destruction, and the famine, and the sword: by whom shall I comfort thee?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.51.20",
+      "edition_verse_id": "KJV1769:ISA.51.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "Thy sons have fainted, they lie at the head of all the streets, as a wild bull in a net: they are full of the fury of the LORD, the rebuke of thy God.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.51.21",
+      "edition_verse_id": "KJV1769:ISA.51.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "¶ Therefore hear now this, thou afflicted, and drunken, but not with wine:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ISA.51.22",
+      "edition_verse_id": "KJV1769:ISA.51.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "Thus saith thy Lord the LORD, and thy God ",
+          "kind": "text"
+        },
+        {
+          "text": "that",
+          "kind": "supplied"
+        },
+        {
+          "text": " pleadeth the cause of his people, Behold, I have taken out of thine hand the cup of trembling, ",
+          "kind": "text"
+        },
+        {
+          "text": "even",
+          "kind": "supplied"
+        },
+        {
+          "text": " the dregs of the cup of my fury; thou shalt no more drink it again:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.51.23",
+      "edition_verse_id": "KJV1769:ISA.51.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "But I will put it into the hand of them that afflict thee; which have said to thy soul, Bow down, that we may go over: and thou hast laid thy body as the ground, and as the street, to them that went over.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}
