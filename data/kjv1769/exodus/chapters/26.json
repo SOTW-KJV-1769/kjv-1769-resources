@@ -1,0 +1,732 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "KJV1769",
+  "book_code": "EXO",
+  "chapter": 26,
+  "verses": [
+    {
+      "id": "EXO.26.1",
+      "edition_verse_id": "KJV1769:EXO.26.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "Moreover thou shalt make the tabernacle ",
+          "kind": "text"
+        },
+        {
+          "text": "with",
+          "kind": "supplied"
+        },
+        {
+          "text": " ten curtains ",
+          "kind": "text"
+        },
+        {
+          "text": "of",
+          "kind": "supplied"
+        },
+        {
+          "text": " fine twined linen, and blue, and purple, and scarlet: ",
+          "kind": "text"
+        },
+        {
+          "text": "with",
+          "kind": "supplied"
+        },
+        {
+          "text": " cherubims of cunning work shalt thou make them.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EXO.26.2",
+      "edition_verse_id": "KJV1769:EXO.26.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "The length of one curtain ",
+          "kind": "text"
+        },
+        {
+          "text": "shall be",
+          "kind": "supplied"
+        },
+        {
+          "text": " eight and twenty cubits, and the breadth of one curtain four cubits: and every one of the curtains shall have one measure.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.26.3",
+      "edition_verse_id": "KJV1769:EXO.26.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "The five curtains shall be coupled together one to another; and ",
+          "kind": "text"
+        },
+        {
+          "text": "other",
+          "kind": "supplied"
+        },
+        {
+          "text": " five curtains ",
+          "kind": "text"
+        },
+        {
+          "text": "shall be",
+          "kind": "supplied"
+        },
+        {
+          "text": " coupled one to another.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.26.4",
+      "edition_verse_id": "KJV1769:EXO.26.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "And thou shalt make loops of blue upon the edge of the one curtain from the selvedge in the coupling; and likewise shalt thou make in the uttermost edge of ",
+          "kind": "text"
+        },
+        {
+          "text": "another",
+          "kind": "supplied"
+        },
+        {
+          "text": " curtain, in the coupling of the second.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.26.5",
+      "edition_verse_id": "KJV1769:EXO.26.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "Fifty loops shalt thou make in the one curtain, and fifty loops shalt thou make in the edge of the curtain that ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " in the coupling of the second; that the loops may take hold one of another.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.26.6",
+      "edition_verse_id": "KJV1769:EXO.26.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "And thou shalt make fifty taches of gold, and couple the curtains together with the taches: and it shall be one tabernacle.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.26.7",
+      "edition_verse_id": "KJV1769:EXO.26.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "¶ And thou shalt make curtains ",
+          "kind": "text"
+        },
+        {
+          "text": "of",
+          "kind": "supplied"
+        },
+        {
+          "text": " goats’ ",
+          "kind": "text"
+        },
+        {
+          "text": "hair",
+          "kind": "supplied"
+        },
+        {
+          "text": " to be a covering upon the tabernacle: eleven curtains shalt thou make.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EXO.26.8",
+      "edition_verse_id": "KJV1769:EXO.26.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "The length of one curtain ",
+          "kind": "text"
+        },
+        {
+          "text": "shall be",
+          "kind": "supplied"
+        },
+        {
+          "text": " thirty cubits, and the breadth of one curtain four cubits: and the eleven curtains ",
+          "kind": "text"
+        },
+        {
+          "text": "shall be all",
+          "kind": "supplied"
+        },
+        {
+          "text": " of one measure.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.26.9",
+      "edition_verse_id": "KJV1769:EXO.26.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "And thou shalt couple five curtains by themselves, and six curtains by themselves, and shalt double the sixth curtain in the forefront of the tabernacle.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.26.10",
+      "edition_verse_id": "KJV1769:EXO.26.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "And thou shalt make fifty loops on the edge of the one curtain ",
+          "kind": "text"
+        },
+        {
+          "text": "that is",
+          "kind": "supplied"
+        },
+        {
+          "text": " outmost in the coupling, and fifty loops in the edge of the curtain which coupleth the second.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.26.11",
+      "edition_verse_id": "KJV1769:EXO.26.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "And thou shalt make fifty taches of brass, and put the taches into the loops, and couple the tent together, that it may be one.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.26.12",
+      "edition_verse_id": "KJV1769:EXO.26.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "And the remnant that remaineth of the curtains of the tent, the half curtain that remaineth, shall hang over the backside of the tabernacle.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.26.13",
+      "edition_verse_id": "KJV1769:EXO.26.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "And a cubit on the one side, and a cubit on the other side of that which remaineth in the length of the curtains of the tent, it shall hang over the sides of the tabernacle on this side and on that side, to cover it.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.26.14",
+      "edition_verse_id": "KJV1769:EXO.26.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "And thou shalt make a covering for the tent ",
+          "kind": "text"
+        },
+        {
+          "text": "of",
+          "kind": "supplied"
+        },
+        {
+          "text": " rams’ skins dyed red, and a covering above ",
+          "kind": "text"
+        },
+        {
+          "text": "of",
+          "kind": "supplied"
+        },
+        {
+          "text": " badgers’ skins.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.26.15",
+      "edition_verse_id": "KJV1769:EXO.26.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "¶ And thou shalt make boards for the tabernacle ",
+          "kind": "text"
+        },
+        {
+          "text": "of",
+          "kind": "supplied"
+        },
+        {
+          "text": " shittim wood standing up.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EXO.26.16",
+      "edition_verse_id": "KJV1769:EXO.26.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "Ten cubits ",
+          "kind": "text"
+        },
+        {
+          "text": "shall be",
+          "kind": "supplied"
+        },
+        {
+          "text": " the length of a board, and a cubit and a half ",
+          "kind": "text"
+        },
+        {
+          "text": "shall be",
+          "kind": "supplied"
+        },
+        {
+          "text": " the breadth of one board.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.26.17",
+      "edition_verse_id": "KJV1769:EXO.26.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "Two tenons ",
+          "kind": "text"
+        },
+        {
+          "text": "shall there be",
+          "kind": "supplied"
+        },
+        {
+          "text": " in one board, set in order one against another: thus shalt thou make for all the boards of the tabernacle.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.26.18",
+      "edition_verse_id": "KJV1769:EXO.26.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "And thou shalt make the boards for the tabernacle, twenty boards on the south side southward.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.26.19",
+      "edition_verse_id": "KJV1769:EXO.26.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "And thou shalt make forty sockets of silver under the twenty boards; two sockets under one board for his two tenons, and two sockets under another board for his two tenons.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.26.20",
+      "edition_verse_id": "KJV1769:EXO.26.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "And for the second side of the tabernacle on the north side ",
+          "kind": "text"
+        },
+        {
+          "text": "there shall be",
+          "kind": "supplied"
+        },
+        {
+          "text": " twenty boards:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.26.21",
+      "edition_verse_id": "KJV1769:EXO.26.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "And their forty sockets ",
+          "kind": "text"
+        },
+        {
+          "text": "of",
+          "kind": "supplied"
+        },
+        {
+          "text": " silver; two sockets under one board, and two sockets under another board.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.26.22",
+      "edition_verse_id": "KJV1769:EXO.26.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "And for the sides of the tabernacle westward thou shalt make six boards.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.26.23",
+      "edition_verse_id": "KJV1769:EXO.26.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "And two boards shalt thou make for the corners of the tabernacle in the two sides.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.26.24",
+      "edition_verse_id": "KJV1769:EXO.26.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "And they shall be coupled together beneath, and they shall be coupled together above the head of it unto one ring: thus shall it be for them both; they shall be for the two corners.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.26.25",
+      "edition_verse_id": "KJV1769:EXO.26.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "And they shall be eight boards, and their sockets ",
+          "kind": "text"
+        },
+        {
+          "text": "of",
+          "kind": "supplied"
+        },
+        {
+          "text": " silver, sixteen sockets; two sockets under one board, and two sockets under another board.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.26.26",
+      "edition_verse_id": "KJV1769:EXO.26.26",
+      "verse": 26,
+      "spans": [
+        {
+          "text": "¶ And thou shalt make bars ",
+          "kind": "text"
+        },
+        {
+          "text": "of",
+          "kind": "supplied"
+        },
+        {
+          "text": " shittim wood; five for the boards of the one side of the tabernacle,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EXO.26.27",
+      "edition_verse_id": "KJV1769:EXO.26.27",
+      "verse": 27,
+      "spans": [
+        {
+          "text": "And five bars for the boards of the other side of the tabernacle, and five bars for the boards of the side of the tabernacle, for the two sides westward.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.26.28",
+      "edition_verse_id": "KJV1769:EXO.26.28",
+      "verse": 28,
+      "spans": [
+        {
+          "text": "And the middle bar in the midst of the boards shall reach from end to end.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.26.29",
+      "edition_verse_id": "KJV1769:EXO.26.29",
+      "verse": 29,
+      "spans": [
+        {
+          "text": "And thou shalt overlay the boards with gold, and make their rings ",
+          "kind": "text"
+        },
+        {
+          "text": "of",
+          "kind": "supplied"
+        },
+        {
+          "text": " gold ",
+          "kind": "text"
+        },
+        {
+          "text": "for",
+          "kind": "supplied"
+        },
+        {
+          "text": " places for the bars: and thou shalt overlay the bars with gold.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.26.30",
+      "edition_verse_id": "KJV1769:EXO.26.30",
+      "verse": 30,
+      "spans": [
+        {
+          "text": "And thou shalt rear up the tabernacle according to the fashion thereof which was shewed thee in the mount.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.26.31",
+      "edition_verse_id": "KJV1769:EXO.26.31",
+      "verse": 31,
+      "spans": [
+        {
+          "text": "¶ And thou shalt make a vail ",
+          "kind": "text"
+        },
+        {
+          "text": "of",
+          "kind": "supplied"
+        },
+        {
+          "text": " blue, and purple, and scarlet, and fine twined linen of cunning work: with cherubims shall it be made:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EXO.26.32",
+      "edition_verse_id": "KJV1769:EXO.26.32",
+      "verse": 32,
+      "spans": [
+        {
+          "text": "And thou shalt hang it upon four pillars of shittim ",
+          "kind": "text"
+        },
+        {
+          "text": "wood",
+          "kind": "supplied"
+        },
+        {
+          "text": " overlaid with gold: their hooks ",
+          "kind": "text"
+        },
+        {
+          "text": "shall be of",
+          "kind": "supplied"
+        },
+        {
+          "text": " gold, upon the four sockets of silver.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.26.33",
+      "edition_verse_id": "KJV1769:EXO.26.33",
+      "verse": 33,
+      "spans": [
+        {
+          "text": "¶ And thou shalt hang up the vail under the taches, that thou mayest bring in thither within the vail the ark of the testimony: and the vail shall divide unto you between the holy ",
+          "kind": "text"
+        },
+        {
+          "text": "place",
+          "kind": "supplied"
+        },
+        {
+          "text": " and the most holy.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EXO.26.34",
+      "edition_verse_id": "KJV1769:EXO.26.34",
+      "verse": 34,
+      "spans": [
+        {
+          "text": "And thou shalt put the mercy seat upon the ark of the testimony in the most holy ",
+          "kind": "text"
+        },
+        {
+          "text": "place",
+          "kind": "supplied"
+        },
+        {
+          "text": ".",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.26.35",
+      "edition_verse_id": "KJV1769:EXO.26.35",
+      "verse": 35,
+      "spans": [
+        {
+          "text": "And thou shalt set the table without the vail, and the candlestick over against the table on the side of the tabernacle toward the south: and thou shalt put the table on the north side.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.26.36",
+      "edition_verse_id": "KJV1769:EXO.26.36",
+      "verse": 36,
+      "spans": [
+        {
+          "text": "And thou shalt make an hanging for the door of the tent, ",
+          "kind": "text"
+        },
+        {
+          "text": "of",
+          "kind": "supplied"
+        },
+        {
+          "text": " blue, and purple, and scarlet, and fine twined linen, wrought with needlework.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.26.37",
+      "edition_verse_id": "KJV1769:EXO.26.37",
+      "verse": 37,
+      "spans": [
+        {
+          "text": "And thou shalt make for the hanging five pillars ",
+          "kind": "text"
+        },
+        {
+          "text": "of",
+          "kind": "supplied"
+        },
+        {
+          "text": " shittim ",
+          "kind": "text"
+        },
+        {
+          "text": "wood",
+          "kind": "supplied"
+        },
+        {
+          "text": ", and overlay them with gold, ",
+          "kind": "text"
+        },
+        {
+          "text": "and",
+          "kind": "supplied"
+        },
+        {
+          "text": " their hooks ",
+          "kind": "text"
+        },
+        {
+          "text": "shall be of",
+          "kind": "supplied"
+        },
+        {
+          "text": " gold: and thou shalt cast five sockets of brass for them.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

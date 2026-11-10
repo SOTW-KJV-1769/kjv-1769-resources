@@ -1,0 +1,320 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "KJV1769",
+  "book_code": "DEU",
+  "chapter": 13,
+  "verses": [
+    {
+      "id": "DEU.13.1",
+      "edition_verse_id": "KJV1769:DEU.13.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "If there arise among you a prophet, or a dreamer of dreams, and giveth thee a sign or a wonder,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "DEU.13.2",
+      "edition_verse_id": "KJV1769:DEU.13.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "And the sign or the wonder come to pass, whereof he spake unto thee, saying, Let us go after other gods, which thou hast not known, and let us serve them;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.13.3",
+      "edition_verse_id": "KJV1769:DEU.13.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "Thou shalt not hearken unto the words of that prophet, or that dreamer of dreams: for the LORD your God proveth you, to know whether ye love the LORD your God with all your heart and with all your soul.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.13.4",
+      "edition_verse_id": "KJV1769:DEU.13.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "Ye shall walk after the LORD your God, and fear him, and keep his commandments, and obey his voice, and ye shall serve him, and cleave unto him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.13.5",
+      "edition_verse_id": "KJV1769:DEU.13.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "And that prophet, or that dreamer of dreams, shall be put to death; because he hath spoken to turn ",
+          "kind": "text"
+        },
+        {
+          "text": "you",
+          "kind": "supplied"
+        },
+        {
+          "text": " away from the LORD your God, which brought you out of the land of Egypt, and redeemed you out of the house of bondage, to thrust thee out of the way which the LORD thy God commanded thee to walk in. So shalt thou put the evil away from the midst of thee.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.13.6",
+      "edition_verse_id": "KJV1769:DEU.13.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "¶ If thy brother, the son of thy mother, or thy son, or thy daughter, or the wife of thy bosom, or thy friend, which ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " as thine own soul, entice thee secretly, saying, Let us go and serve other gods, which thou hast not known, thou, nor thy fathers;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "DEU.13.7",
+      "edition_verse_id": "KJV1769:DEU.13.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "Namely",
+          "kind": "supplied"
+        },
+        {
+          "text": ", of the gods of the people which ",
+          "kind": "text"
+        },
+        {
+          "text": "are",
+          "kind": "supplied"
+        },
+        {
+          "text": " round about you, nigh unto thee, or far off from thee, from the ",
+          "kind": "text"
+        },
+        {
+          "text": "one",
+          "kind": "supplied"
+        },
+        {
+          "text": " end of the earth even unto the ",
+          "kind": "text"
+        },
+        {
+          "text": "other",
+          "kind": "supplied"
+        },
+        {
+          "text": " end of the earth;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.13.8",
+      "edition_verse_id": "KJV1769:DEU.13.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "Thou shalt not consent unto him, nor hearken unto him; neither shall thine eye pity him, neither shalt thou spare, neither shalt thou conceal him:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.13.9",
+      "edition_verse_id": "KJV1769:DEU.13.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "But thou shalt surely kill him; thine hand shall be first upon him to put him to death, and afterwards the hand of all the people.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.13.10",
+      "edition_verse_id": "KJV1769:DEU.13.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "And thou shalt stone him with stones, that he die; because he hath sought to thrust thee away from the LORD thy God, which brought thee out of the land of Egypt, from the house of bondage.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.13.11",
+      "edition_verse_id": "KJV1769:DEU.13.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "And all Israel shall hear, and fear, and shall do no more any such wickedness as this is among you.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.13.12",
+      "edition_verse_id": "KJV1769:DEU.13.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "¶ If thou shalt hear ",
+          "kind": "text"
+        },
+        {
+          "text": "say",
+          "kind": "supplied"
+        },
+        {
+          "text": " in one of thy cities, which the LORD thy God hath given thee to dwell there, saying,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "DEU.13.13",
+      "edition_verse_id": "KJV1769:DEU.13.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "Certain",
+          "kind": "supplied"
+        },
+        {
+          "text": " men, the children of Belial, are gone out from among you, and have withdrawn the inhabitants of their city, saying, Let us go and serve other gods, which ye have not known;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.13.14",
+      "edition_verse_id": "KJV1769:DEU.13.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "Then shalt thou enquire, and make search, and ask diligently; and, behold, ",
+          "kind": "text"
+        },
+        {
+          "text": "if it be",
+          "kind": "supplied"
+        },
+        {
+          "text": " truth, ",
+          "kind": "text"
+        },
+        {
+          "text": "and",
+          "kind": "supplied"
+        },
+        {
+          "text": " the thing certain, ",
+          "kind": "text"
+        },
+        {
+          "text": "that",
+          "kind": "supplied"
+        },
+        {
+          "text": " such abomination is wrought among you;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.13.15",
+      "edition_verse_id": "KJV1769:DEU.13.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "Thou shalt surely smite the inhabitants of that city with the edge of the sword, destroying it utterly, and all that ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " therein, and the cattle thereof, with the edge of the sword.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.13.16",
+      "edition_verse_id": "KJV1769:DEU.13.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "And thou shalt gather all the spoil of it into the midst of the street thereof, and shalt burn with fire the city, and all the spoil thereof every whit, for the LORD thy God: and it shall be an heap for ever; it shall not be built again.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.13.17",
+      "edition_verse_id": "KJV1769:DEU.13.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "And there shall cleave nought of the cursed thing to thine hand: that the LORD may turn from the fierceness of his anger, and shew thee mercy, and have compassion upon thee, and multiply thee, as he hath sworn unto thy fathers;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.13.18",
+      "edition_verse_id": "KJV1769:DEU.13.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "When thou shalt hearken to the voice of the LORD thy God, to keep all his commandments which I command thee this day, to do ",
+          "kind": "text"
+        },
+        {
+          "text": "that which is",
+          "kind": "supplied"
+        },
+        {
+          "text": " right in the eyes of the LORD thy God.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

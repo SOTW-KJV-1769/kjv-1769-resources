@@ -1,0 +1,576 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "KJV1769",
+  "book_code": "EXO",
+  "chapter": 21,
+  "verses": [
+    {
+      "id": "EXO.21.1",
+      "edition_verse_id": "KJV1769:EXO.21.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "Now these ",
+          "kind": "text"
+        },
+        {
+          "text": "are",
+          "kind": "supplied"
+        },
+        {
+          "text": " the judgments which thou shalt set before them.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EXO.21.2",
+      "edition_verse_id": "KJV1769:EXO.21.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "If thou buy an Hebrew servant, six years he shall serve: and in the seventh he shall go out free for nothing.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.21.3",
+      "edition_verse_id": "KJV1769:EXO.21.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "If he came in by himself, he shall go out by himself: if he were married, then his wife shall go out with him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.21.4",
+      "edition_verse_id": "KJV1769:EXO.21.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "If his master have given him a wife, and she have born him sons or daughters; the wife and her children shall be her master’s, and he shall go out by himself.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.21.5",
+      "edition_verse_id": "KJV1769:EXO.21.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "And if the servant shall plainly say, I love my master, my wife, and my children; I will not go out free:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.21.6",
+      "edition_verse_id": "KJV1769:EXO.21.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "Then his master shall bring him unto the judges; he shall also bring him to the door, or unto the door post; and his master shall bore his ear through with an aul; and he shall serve him for ever.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.21.7",
+      "edition_verse_id": "KJV1769:EXO.21.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "¶ And if a man sell his daughter to be a maidservant, she shall not go out as the menservants do.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EXO.21.8",
+      "edition_verse_id": "KJV1769:EXO.21.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "If she please not her master, who hath betrothed her to himself, then shall he let her be redeemed: to sell her unto a strange nation he shall have no power, seeing he hath dealt deceitfully with her.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.21.9",
+      "edition_verse_id": "KJV1769:EXO.21.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "And if he have betrothed her unto his son, he shall deal with her after the manner of daughters.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.21.10",
+      "edition_verse_id": "KJV1769:EXO.21.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "If he take him another ",
+          "kind": "text"
+        },
+        {
+          "text": "wife;",
+          "kind": "supplied"
+        },
+        {
+          "text": " her food, her raiment, and her duty of marriage, shall he not diminish.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.21.11",
+      "edition_verse_id": "KJV1769:EXO.21.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "And if he do not these three unto her, then shall she go out free without money.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.21.12",
+      "edition_verse_id": "KJV1769:EXO.21.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "¶ He that smiteth a man, so that he die, shall be surely put to death.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EXO.21.13",
+      "edition_verse_id": "KJV1769:EXO.21.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "And if a man lie not in wait, but God deliver ",
+          "kind": "text"
+        },
+        {
+          "text": "him",
+          "kind": "supplied"
+        },
+        {
+          "text": " into his hand; then I will appoint thee a place whither he shall flee.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.21.14",
+      "edition_verse_id": "KJV1769:EXO.21.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "But if a man come presumptuously upon his neighbour, to slay him with guile; thou shalt take him from mine altar, that he may die.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.21.15",
+      "edition_verse_id": "KJV1769:EXO.21.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "¶ And he that smiteth his father, or his mother, shall be surely put to death.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EXO.21.16",
+      "edition_verse_id": "KJV1769:EXO.21.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "¶ And he that stealeth a man, and selleth him, or if he be found in his hand, he shall surely be put to death.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EXO.21.17",
+      "edition_verse_id": "KJV1769:EXO.21.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "¶ And he that curseth his father, or his mother, shall surely be put to death.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EXO.21.18",
+      "edition_verse_id": "KJV1769:EXO.21.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "¶ And if men strive together, and one smite another with a stone, or with ",
+          "kind": "text"
+        },
+        {
+          "text": "his",
+          "kind": "supplied"
+        },
+        {
+          "text": " fist, and he die not, but keepeth ",
+          "kind": "text"
+        },
+        {
+          "text": "his",
+          "kind": "supplied"
+        },
+        {
+          "text": " bed:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EXO.21.19",
+      "edition_verse_id": "KJV1769:EXO.21.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "If he rise again, and walk abroad upon his staff, then shall he that smote ",
+          "kind": "text"
+        },
+        {
+          "text": "him",
+          "kind": "supplied"
+        },
+        {
+          "text": " be quit: only he shall pay ",
+          "kind": "text"
+        },
+        {
+          "text": "for",
+          "kind": "supplied"
+        },
+        {
+          "text": " the loss of his time, and shall cause ",
+          "kind": "text"
+        },
+        {
+          "text": "him",
+          "kind": "supplied"
+        },
+        {
+          "text": " to be thoroughly healed.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.21.20",
+      "edition_verse_id": "KJV1769:EXO.21.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "¶ And if a man smite his servant, or his maid, with a rod, and he die under his hand; he shall be surely punished.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EXO.21.21",
+      "edition_verse_id": "KJV1769:EXO.21.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "Notwithstanding, if he continue a day or two, he shall not be punished: for he ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " his money.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.21.22",
+      "edition_verse_id": "KJV1769:EXO.21.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "¶ If men strive, and hurt a woman with child, so that her fruit depart ",
+          "kind": "text"
+        },
+        {
+          "text": "from her",
+          "kind": "supplied"
+        },
+        {
+          "text": ", and yet no mischief follow: he shall be surely punished, according as the woman’s husband will lay upon him; and he shall pay as the judges ",
+          "kind": "text"
+        },
+        {
+          "text": "determine",
+          "kind": "supplied"
+        },
+        {
+          "text": ".",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EXO.21.23",
+      "edition_verse_id": "KJV1769:EXO.21.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "And if ",
+          "kind": "text"
+        },
+        {
+          "text": "any",
+          "kind": "supplied"
+        },
+        {
+          "text": " mischief follow, then thou shalt give life for life,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.21.24",
+      "edition_verse_id": "KJV1769:EXO.21.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "Eye for eye, tooth for tooth, hand for hand, foot for foot,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.21.25",
+      "edition_verse_id": "KJV1769:EXO.21.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "Burning for burning, wound for wound, stripe for stripe.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.21.26",
+      "edition_verse_id": "KJV1769:EXO.21.26",
+      "verse": 26,
+      "spans": [
+        {
+          "text": "¶ And if a man smite the eye of his servant, or the eye of his maid, that it perish; he shall let him go free for his eye’s sake.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EXO.21.27",
+      "edition_verse_id": "KJV1769:EXO.21.27",
+      "verse": 27,
+      "spans": [
+        {
+          "text": "And if he smite out his manservant’s tooth, or his maidservant’s tooth; he shall let him go free for his tooth’s sake.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.21.28",
+      "edition_verse_id": "KJV1769:EXO.21.28",
+      "verse": 28,
+      "spans": [
+        {
+          "text": "¶ If an ox gore a man or a woman, that they die: then the ox shall be surely stoned, and his flesh shall not be eaten; but the owner of the ox ",
+          "kind": "text"
+        },
+        {
+          "text": "shall be",
+          "kind": "supplied"
+        },
+        {
+          "text": " quit.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EXO.21.29",
+      "edition_verse_id": "KJV1769:EXO.21.29",
+      "verse": 29,
+      "spans": [
+        {
+          "text": "But if the ox were wont to push with his horn in time past, and it hath been testified to his owner, and he hath not kept him in, but that he hath killed a man or a woman; the ox shall be stoned, and his owner also shall be put to death.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.21.30",
+      "edition_verse_id": "KJV1769:EXO.21.30",
+      "verse": 30,
+      "spans": [
+        {
+          "text": "If there be laid on him a sum of money, then he shall give for the ransom of his life whatsoever is laid upon him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.21.31",
+      "edition_verse_id": "KJV1769:EXO.21.31",
+      "verse": 31,
+      "spans": [
+        {
+          "text": "Whether he have gored a son, or have gored a daughter, according to this judgment shall it be done unto him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.21.32",
+      "edition_verse_id": "KJV1769:EXO.21.32",
+      "verse": 32,
+      "spans": [
+        {
+          "text": "If the ox shall push a manservant or a maidservant; he shall give unto their master thirty shekels of silver, and the ox shall be stoned.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.21.33",
+      "edition_verse_id": "KJV1769:EXO.21.33",
+      "verse": 33,
+      "spans": [
+        {
+          "text": "¶ And if a man shall open a pit, or if a man shall dig a pit, and not cover it, and an ox or an ass fall therein;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EXO.21.34",
+      "edition_verse_id": "KJV1769:EXO.21.34",
+      "verse": 34,
+      "spans": [
+        {
+          "text": "The owner of the pit shall make ",
+          "kind": "text"
+        },
+        {
+          "text": "it",
+          "kind": "supplied"
+        },
+        {
+          "text": " good, ",
+          "kind": "text"
+        },
+        {
+          "text": "and",
+          "kind": "supplied"
+        },
+        {
+          "text": " give money unto the owner of them; and the dead ",
+          "kind": "text"
+        },
+        {
+          "text": "beast",
+          "kind": "supplied"
+        },
+        {
+          "text": " shall be his.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.21.35",
+      "edition_verse_id": "KJV1769:EXO.21.35",
+      "verse": 35,
+      "spans": [
+        {
+          "text": "¶ And if one man’s ox hurt another’s, that he die; then they shall sell the live ox, and divide the money of it; and the dead ",
+          "kind": "text"
+        },
+        {
+          "text": "ox",
+          "kind": "supplied"
+        },
+        {
+          "text": " also they shall divide.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EXO.21.36",
+      "edition_verse_id": "KJV1769:EXO.21.36",
+      "verse": 36,
+      "spans": [
+        {
+          "text": "Or if it be known that the ox hath used to push in time past, and his owner hath not kept him in; he shall surely pay ox for ox; and the dead shall be his own.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

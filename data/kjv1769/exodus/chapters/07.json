@@ -1,0 +1,436 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "KJV1769",
+  "book_code": "EXO",
+  "chapter": 7,
+  "verses": [
+    {
+      "id": "EXO.7.1",
+      "edition_verse_id": "KJV1769:EXO.7.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "And the LORD said unto Moses, See, I have made thee a god to Pharaoh: and Aaron thy brother shall be thy prophet.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EXO.7.2",
+      "edition_verse_id": "KJV1769:EXO.7.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "Thou shalt speak all that I command thee: and Aaron thy brother shall speak unto Pharaoh, that he send the children of Israel out of his land.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.7.3",
+      "edition_verse_id": "KJV1769:EXO.7.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "And I will harden Pharaoh’s heart, and multiply my signs and my wonders in the land of Egypt.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.7.4",
+      "edition_verse_id": "KJV1769:EXO.7.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "But Pharaoh shall not hearken unto you, that I may lay my hand upon Egypt, and bring forth mine armies, ",
+          "kind": "text"
+        },
+        {
+          "text": "and",
+          "kind": "supplied"
+        },
+        {
+          "text": " my people the children of Israel, out of the land of Egypt by great judgments.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.7.5",
+      "edition_verse_id": "KJV1769:EXO.7.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "And the Egyptians shall know that I ",
+          "kind": "text"
+        },
+        {
+          "text": "am",
+          "kind": "supplied"
+        },
+        {
+          "text": " the LORD, when I stretch forth mine hand upon Egypt, and bring out the children of Israel from among them.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.7.6",
+      "edition_verse_id": "KJV1769:EXO.7.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "And Moses and Aaron did as the LORD commanded them, so did they.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.7.7",
+      "edition_verse_id": "KJV1769:EXO.7.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "And Moses ",
+          "kind": "text"
+        },
+        {
+          "text": "was",
+          "kind": "supplied"
+        },
+        {
+          "text": " fourscore years old, and Aaron fourscore and three years old, when they spake unto Pharaoh.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.7.8",
+      "edition_verse_id": "KJV1769:EXO.7.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "¶ And the LORD spake unto Moses and unto Aaron, saying,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EXO.7.9",
+      "edition_verse_id": "KJV1769:EXO.7.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "When Pharaoh shall speak unto you, saying, Shew a miracle for you: then thou shalt say unto Aaron, Take thy rod, and cast ",
+          "kind": "text"
+        },
+        {
+          "text": "it",
+          "kind": "supplied"
+        },
+        {
+          "text": " before Pharaoh, ",
+          "kind": "text"
+        },
+        {
+          "text": "and",
+          "kind": "supplied"
+        },
+        {
+          "text": " it shall become a serpent.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.7.10",
+      "edition_verse_id": "KJV1769:EXO.7.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "¶ And Moses and Aaron went in unto Pharaoh, and they did so as the LORD had commanded: and Aaron cast down his rod before Pharaoh, and before his servants, and it became a serpent.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EXO.7.11",
+      "edition_verse_id": "KJV1769:EXO.7.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "Then Pharaoh also called the wise men and the sorcerers: now the magicians of Egypt, they also did in like manner with their enchantments.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.7.12",
+      "edition_verse_id": "KJV1769:EXO.7.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "For they cast down every man his rod, and they became serpents: but Aaron’s rod swallowed up their rods.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.7.13",
+      "edition_verse_id": "KJV1769:EXO.7.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "And he hardened Pharaoh’s heart, that he hearkened not unto them; as the LORD had said.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.7.14",
+      "edition_verse_id": "KJV1769:EXO.7.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "¶ And the LORD said unto Moses, Pharaoh’s heart ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " hardened, he refuseth to let the people go.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EXO.7.15",
+      "edition_verse_id": "KJV1769:EXO.7.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "Get thee unto Pharaoh in the morning; lo, he goeth out unto the water; and thou shalt stand by the river’s brink against he come; and the rod which was turned to a serpent shalt thou take in thine hand.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.7.16",
+      "edition_verse_id": "KJV1769:EXO.7.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "And thou shalt say unto him, The LORD God of the Hebrews hath sent me unto thee, saying, Let my people go, that they may serve me in the wilderness: and, behold, hitherto thou wouldest not hear.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.7.17",
+      "edition_verse_id": "KJV1769:EXO.7.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "Thus saith the LORD, In this thou shalt know that I ",
+          "kind": "text"
+        },
+        {
+          "text": "am",
+          "kind": "supplied"
+        },
+        {
+          "text": " the LORD: behold, I will smite with the rod that ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " in mine hand upon the waters which ",
+          "kind": "text"
+        },
+        {
+          "text": "are",
+          "kind": "supplied"
+        },
+        {
+          "text": " in the river, and they shall be turned to blood.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.7.18",
+      "edition_verse_id": "KJV1769:EXO.7.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "And the fish that ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " in the river shall die, and the river shall stink; and the Egyptians shall lothe to drink of the water of the river.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.7.19",
+      "edition_verse_id": "KJV1769:EXO.7.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "¶ And the LORD spake unto Moses, Say unto Aaron, Take thy rod, and stretch out thine hand upon the waters of Egypt, upon their streams, upon their rivers, and upon their ponds, and upon all their pools of water, that they may become blood; and ",
+          "kind": "text"
+        },
+        {
+          "text": "that",
+          "kind": "supplied"
+        },
+        {
+          "text": " there may be blood throughout all the land of Egypt, both in ",
+          "kind": "text"
+        },
+        {
+          "text": "vessels of",
+          "kind": "supplied"
+        },
+        {
+          "text": " wood, and in ",
+          "kind": "text"
+        },
+        {
+          "text": "vessels of",
+          "kind": "supplied"
+        },
+        {
+          "text": " stone.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EXO.7.20",
+      "edition_verse_id": "KJV1769:EXO.7.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "And Moses and Aaron did so, as the LORD commanded; and he lifted up the rod, and smote the waters that ",
+          "kind": "text"
+        },
+        {
+          "text": "were",
+          "kind": "supplied"
+        },
+        {
+          "text": " in the river, in the sight of Pharaoh, and in the sight of his servants; and all the waters that ",
+          "kind": "text"
+        },
+        {
+          "text": "were",
+          "kind": "supplied"
+        },
+        {
+          "text": " in the river were turned to blood.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.7.21",
+      "edition_verse_id": "KJV1769:EXO.7.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "And the fish that ",
+          "kind": "text"
+        },
+        {
+          "text": "was",
+          "kind": "supplied"
+        },
+        {
+          "text": " in the river died; and the river stank, and the Egyptians could not drink of the water of the river; and there was blood throughout all the land of Egypt.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.7.22",
+      "edition_verse_id": "KJV1769:EXO.7.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "And the magicians of Egypt did so with their enchantments: and Pharaoh’s heart was hardened, neither did he hearken unto them; as the LORD had said.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.7.23",
+      "edition_verse_id": "KJV1769:EXO.7.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "And Pharaoh turned and went into his house, neither did he set his heart to this also.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.7.24",
+      "edition_verse_id": "KJV1769:EXO.7.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "And all the Egyptians digged round about the river for water to drink; for they could not drink of the water of the river.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.7.25",
+      "edition_verse_id": "KJV1769:EXO.7.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "And seven days were fulfilled, after that the LORD had smitten the river.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

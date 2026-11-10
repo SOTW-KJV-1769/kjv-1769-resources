@@ -1,0 +1,58 @@
+{
+  "edition_id": "KJV1769",
+  "book_code": "EST",
+  "chapter_count": 10,
+  "verse_count": 167,
+  "chapters": [
+    {
+      "chapter": 1,
+      "verse_count": 22,
+      "sha256": "5c96706a8c09aa5918e4c1e250da8d54c6024ade1cc27d89359e52234a18c0f2"
+    },
+    {
+      "chapter": 2,
+      "verse_count": 23,
+      "sha256": "aaa5bd5d03e62926086c61ee7c331c0d3133bd2d5451d1392e0e04bae0d62bb8"
+    },
+    {
+      "chapter": 3,
+      "verse_count": 15,
+      "sha256": "fc13726f08be2c44795d1bb2b5860855d26ca36874a8ed1bfd09002f7a0618df"
+    },
+    {
+      "chapter": 4,
+      "verse_count": 17,
+      "sha256": "326228d0c905f4e29625588f9a06b6926ecac8931867faa4ed94fa13c8bfc5ec"
+    },
+    {
+      "chapter": 5,
+      "verse_count": 14,
+      "sha256": "f6923f69e9a924895e11f42273e0449912fdd3bc7bb0bc61f00c94c6d9b547dc"
+    },
+    {
+      "chapter": 6,
+      "verse_count": 14,
+      "sha256": "cc461fd7cab302c201cc6e825690781c933ab8e7a6dc20d157c9eead088cf29d"
+    },
+    {
+      "chapter": 7,
+      "verse_count": 10,
+      "sha256": "ea25a8f9bed3ba7351369f12c1d1a501aeff7b3dea98d555e30e592ce8cd4522"
+    },
+    {
+      "chapter": 8,
+      "verse_count": 17,
+      "sha256": "214cec847b21693b43dea2690ba67e30a93b638b00e4baeb3c5ce418696bfee6"
+    },
+    {
+      "chapter": 9,
+      "verse_count": 32,
+      "sha256": "c3bc18367cae4af81a1de2c3c45067507d4d1d3dc36dfd7d2c59076646ba0b6d"
+    },
+    {
+      "chapter": 10,
+      "verse_count": 3,
+      "sha256": "b67d3b2f73c8008c62305ae6c6f75c1bfbcc8c4cfc13210261b7645f6f1be399"
+    }
+  ]
+}

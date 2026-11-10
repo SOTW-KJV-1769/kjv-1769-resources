@@ -1,0 +1,436 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "KJV1769",
+  "book_code": "EPH",
+  "chapter": 4,
+  "verses": [
+    {
+      "id": "EPH.4.1",
+      "edition_verse_id": "KJV1769:EPH.4.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "I therefore, the prisoner of the Lord, beseech you that ye walk worthy of the vocation wherewith ye are called,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EPH.4.2",
+      "edition_verse_id": "KJV1769:EPH.4.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "With all lowliness and meekness, with longsuffering, forbearing one another in love;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EPH.4.3",
+      "edition_verse_id": "KJV1769:EPH.4.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "Endeavouring to keep the unity of the Spirit in the bond of peace.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EPH.4.4",
+      "edition_verse_id": "KJV1769:EPH.4.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "There is",
+          "kind": "supplied"
+        },
+        {
+          "text": " one body, and one Spirit, even as ye are called in one hope of your calling;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EPH.4.5",
+      "edition_verse_id": "KJV1769:EPH.4.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "One Lord, one faith, one baptism,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EPH.4.6",
+      "edition_verse_id": "KJV1769:EPH.4.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "One God and Father of all, who ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " above all, and through all, and in you all.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EPH.4.7",
+      "edition_verse_id": "KJV1769:EPH.4.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "But unto every one of us is given grace according to the measure of the gift of Christ.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EPH.4.8",
+      "edition_verse_id": "KJV1769:EPH.4.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "Wherefore he saith, When he ascended up on high, he led captivity captive, and gave gifts unto men.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EPH.4.9",
+      "edition_verse_id": "KJV1769:EPH.4.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "(Now that he ascended, what is it but that he also descended first into the lower parts of the earth?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EPH.4.10",
+      "edition_verse_id": "KJV1769:EPH.4.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "He that descended is the same also that ascended up far above all heavens, that he might fill all things.)",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EPH.4.11",
+      "edition_verse_id": "KJV1769:EPH.4.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "And he gave some, apostles; and some, prophets; and some, evangelists; and some, pastors and teachers;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EPH.4.12",
+      "edition_verse_id": "KJV1769:EPH.4.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "For the perfecting of the saints, for the work of the ministry, for the edifying of the body of Christ:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EPH.4.13",
+      "edition_verse_id": "KJV1769:EPH.4.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "Till we all come in the unity of the faith, and of the knowledge of the Son of God, unto a perfect man, unto the measure of the stature of the fulness of Christ:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EPH.4.14",
+      "edition_verse_id": "KJV1769:EPH.4.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "That we ",
+          "kind": "text"
+        },
+        {
+          "text": "henceforth",
+          "kind": "supplied"
+        },
+        {
+          "text": " be no more children, tossed to and fro, and carried about with every wind of doctrine, by the sleight of men, ",
+          "kind": "text"
+        },
+        {
+          "text": "and",
+          "kind": "supplied"
+        },
+        {
+          "text": " cunning craftiness, whereby they lie in wait to deceive;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EPH.4.15",
+      "edition_verse_id": "KJV1769:EPH.4.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "But speaking the truth in love, may grow up into him in all things, which is the head, ",
+          "kind": "text"
+        },
+        {
+          "text": "even",
+          "kind": "supplied"
+        },
+        {
+          "text": " Christ:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EPH.4.16",
+      "edition_verse_id": "KJV1769:EPH.4.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "From whom the whole body fitly joined together and compacted by that which every joint supplieth, according to the effectual working in the measure of every part, maketh increase of the body unto the edifying of itself in love.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EPH.4.17",
+      "edition_verse_id": "KJV1769:EPH.4.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "This I say therefore, and testify in the Lord, that ye henceforth walk not as other Gentiles walk, in the vanity of their mind,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EPH.4.18",
+      "edition_verse_id": "KJV1769:EPH.4.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "Having the understanding darkened, being alienated from the life of God through the ignorance that is in them, because of the blindness of their heart:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EPH.4.19",
+      "edition_verse_id": "KJV1769:EPH.4.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "Who being past feeling have given themselves over unto lasciviousness, to work all uncleanness with greediness.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EPH.4.20",
+      "edition_verse_id": "KJV1769:EPH.4.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "But ye have not so learned Christ;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EPH.4.21",
+      "edition_verse_id": "KJV1769:EPH.4.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "If so be that ye have heard him, and have been taught by him, as the truth is in Jesus:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EPH.4.22",
+      "edition_verse_id": "KJV1769:EPH.4.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "That ye put off concerning the former conversation the old man, which is corrupt according to the deceitful lusts;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EPH.4.23",
+      "edition_verse_id": "KJV1769:EPH.4.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "And be renewed in the spirit of your mind;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EPH.4.24",
+      "edition_verse_id": "KJV1769:EPH.4.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "And that ye put on the new man, which after God is created in righteousness and true holiness.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EPH.4.25",
+      "edition_verse_id": "KJV1769:EPH.4.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "Wherefore putting away lying, speak every man truth with his neighbour: for we are members one of another.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EPH.4.26",
+      "edition_verse_id": "KJV1769:EPH.4.26",
+      "verse": 26,
+      "spans": [
+        {
+          "text": "Be ye angry, and sin not: let not the sun go down upon your wrath:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EPH.4.27",
+      "edition_verse_id": "KJV1769:EPH.4.27",
+      "verse": 27,
+      "spans": [
+        {
+          "text": "Neither give place to the devil.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EPH.4.28",
+      "edition_verse_id": "KJV1769:EPH.4.28",
+      "verse": 28,
+      "spans": [
+        {
+          "text": "Let him that stole steal no more: but rather let him labour, working with ",
+          "kind": "text"
+        },
+        {
+          "text": "his",
+          "kind": "supplied"
+        },
+        {
+          "text": " hands the thing which is good, that he may have to give to him that needeth.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EPH.4.29",
+      "edition_verse_id": "KJV1769:EPH.4.29",
+      "verse": 29,
+      "spans": [
+        {
+          "text": "Let no corrupt communication proceed out of your mouth, but that which is good to the use of edifying, that it may minister grace unto the hearers.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EPH.4.30",
+      "edition_verse_id": "KJV1769:EPH.4.30",
+      "verse": 30,
+      "spans": [
+        {
+          "text": "And grieve not the holy Spirit of God, whereby ye are sealed unto the day of redemption.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EPH.4.31",
+      "edition_verse_id": "KJV1769:EPH.4.31",
+      "verse": 31,
+      "spans": [
+        {
+          "text": "Let all bitterness, and wrath, and anger, and clamour, and evil speaking, be put away from you, with all malice:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EPH.4.32",
+      "edition_verse_id": "KJV1769:EPH.4.32",
+      "verse": 32,
+      "spans": [
+        {
+          "text": "And be ye kind one to another, tenderhearted, forgiving one another, even as God for Christ’s sake hath forgiven you.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

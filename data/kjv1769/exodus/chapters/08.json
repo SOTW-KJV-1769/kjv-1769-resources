@@ -1,0 +1,512 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "KJV1769",
+  "book_code": "EXO",
+  "chapter": 8,
+  "verses": [
+    {
+      "id": "EXO.8.1",
+      "edition_verse_id": "KJV1769:EXO.8.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "And the LORD spake unto Moses, Go unto Pharaoh, and say unto him, Thus saith the LORD, Let my people go, that they may serve me.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EXO.8.2",
+      "edition_verse_id": "KJV1769:EXO.8.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "And if thou refuse to let ",
+          "kind": "text"
+        },
+        {
+          "text": "them",
+          "kind": "supplied"
+        },
+        {
+          "text": " go, behold, I will smite all thy borders with frogs:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.8.3",
+      "edition_verse_id": "KJV1769:EXO.8.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "And the river shall bring forth frogs abundantly, which shall go up and come into thine house, and into thy bedchamber, and upon thy bed, and into the house of thy servants, and upon thy people, and into thine ovens, and into thy kneadingtroughs:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.8.4",
+      "edition_verse_id": "KJV1769:EXO.8.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "And the frogs shall come up both on thee, and upon thy people, and upon all thy servants.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.8.5",
+      "edition_verse_id": "KJV1769:EXO.8.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "¶ And the LORD spake unto Moses, Say unto Aaron, Stretch forth thine hand with thy rod over the streams, over the rivers, and over the ponds, and cause frogs to come up upon the land of Egypt.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EXO.8.6",
+      "edition_verse_id": "KJV1769:EXO.8.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "And Aaron stretched out his hand over the waters of Egypt; and the frogs came up, and covered the land of Egypt.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.8.7",
+      "edition_verse_id": "KJV1769:EXO.8.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "And the magicians did so with their enchantments, and brought up frogs upon the land of Egypt.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.8.8",
+      "edition_verse_id": "KJV1769:EXO.8.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "¶ Then Pharaoh called for Moses and Aaron, and said, Intreat the LORD, that he may take away the frogs from me, and from my people; and I will let the people go, that they may do sacrifice unto the LORD.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EXO.8.9",
+      "edition_verse_id": "KJV1769:EXO.8.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "And Moses said unto Pharaoh, Glory over me: when shall I intreat for thee, and for thy servants, and for thy people, to destroy the frogs from thee and thy houses, ",
+          "kind": "text"
+        },
+        {
+          "text": "that",
+          "kind": "supplied"
+        },
+        {
+          "text": " they may remain in the river only?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.8.10",
+      "edition_verse_id": "KJV1769:EXO.8.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "And he said, To morrow. And he said, ",
+          "kind": "text"
+        },
+        {
+          "text": "Be it",
+          "kind": "supplied"
+        },
+        {
+          "text": " according to thy word: that thou mayest know that ",
+          "kind": "text"
+        },
+        {
+          "text": "there is",
+          "kind": "supplied"
+        },
+        {
+          "text": " none like unto the LORD our God.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.8.11",
+      "edition_verse_id": "KJV1769:EXO.8.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "And the frogs shall depart from thee, and from thy houses, and from thy servants, and from thy people; they shall remain in the river only.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.8.12",
+      "edition_verse_id": "KJV1769:EXO.8.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "And Moses and Aaron went out from Pharaoh: and Moses cried unto the LORD because of the frogs which he had brought against Pharaoh.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.8.13",
+      "edition_verse_id": "KJV1769:EXO.8.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "And the LORD did according to the word of Moses; and the frogs died out of the houses, out of the villages, and out of the fields.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.8.14",
+      "edition_verse_id": "KJV1769:EXO.8.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "And they gathered them together upon heaps: and the land stank.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.8.15",
+      "edition_verse_id": "KJV1769:EXO.8.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "But when Pharaoh saw that there was respite, he hardened his heart, and hearkened not unto them; as the LORD had said.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.8.16",
+      "edition_verse_id": "KJV1769:EXO.8.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "¶ And the LORD said unto Moses, Say unto Aaron, Stretch out thy rod, and smite the dust of the land, that it may become lice throughout all the land of Egypt.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EXO.8.17",
+      "edition_verse_id": "KJV1769:EXO.8.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "And they did so; for Aaron stretched out his hand with his rod, and smote the dust of the earth, and it became lice in man, and in beast; all the dust of the land became lice throughout all the land of Egypt.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.8.18",
+      "edition_verse_id": "KJV1769:EXO.8.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "And the magicians did so with their enchantments to bring forth lice, but they could not: so there were lice upon man, and upon beast.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.8.19",
+      "edition_verse_id": "KJV1769:EXO.8.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "Then the magicians said unto Pharaoh, This ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " the finger of God: and Pharaoh’s heart was hardened, and he hearkened not unto them; as the LORD had said.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.8.20",
+      "edition_verse_id": "KJV1769:EXO.8.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "¶ And the LORD said unto Moses, Rise up early in the morning, and stand before Pharaoh; lo, he cometh forth to the water; and say unto him, Thus saith the LORD, Let my people go, that they may serve me.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EXO.8.21",
+      "edition_verse_id": "KJV1769:EXO.8.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "Else, if thou wilt not let my people go, behold, I will send swarms ",
+          "kind": "text"
+        },
+        {
+          "text": "of flies",
+          "kind": "supplied"
+        },
+        {
+          "text": " upon thee, and upon thy servants, and upon thy people, and into thy houses: and the houses of the Egyptians shall be full of swarms ",
+          "kind": "text"
+        },
+        {
+          "text": "of flies",
+          "kind": "supplied"
+        },
+        {
+          "text": ", and also the ground whereon they ",
+          "kind": "text"
+        },
+        {
+          "text": "are",
+          "kind": "supplied"
+        },
+        {
+          "text": ".",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.8.22",
+      "edition_verse_id": "KJV1769:EXO.8.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "And I will sever in that day the land of Goshen, in which my people dwell, that no swarms ",
+          "kind": "text"
+        },
+        {
+          "text": "of flies",
+          "kind": "supplied"
+        },
+        {
+          "text": " shall be there; to the end thou mayest know that I ",
+          "kind": "text"
+        },
+        {
+          "text": "am",
+          "kind": "supplied"
+        },
+        {
+          "text": " the LORD in the midst of the earth.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.8.23",
+      "edition_verse_id": "KJV1769:EXO.8.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "And I will put a division between my people and thy people: to morrow shall this sign be.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.8.24",
+      "edition_verse_id": "KJV1769:EXO.8.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "And the LORD did so; and there came a grievous swarm ",
+          "kind": "text"
+        },
+        {
+          "text": "of flies",
+          "kind": "supplied"
+        },
+        {
+          "text": " into the house of Pharaoh, and ",
+          "kind": "text"
+        },
+        {
+          "text": "into",
+          "kind": "supplied"
+        },
+        {
+          "text": " his servants’ houses, and into all the land of Egypt: the land was corrupted by reason of the swarm ",
+          "kind": "text"
+        },
+        {
+          "text": "of flies",
+          "kind": "supplied"
+        },
+        {
+          "text": ".",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.8.25",
+      "edition_verse_id": "KJV1769:EXO.8.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "¶ And Pharaoh called for Moses and for Aaron, and said, Go ye, sacrifice to your God in the land.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EXO.8.26",
+      "edition_verse_id": "KJV1769:EXO.8.26",
+      "verse": 26,
+      "spans": [
+        {
+          "text": "And Moses said, It is not meet so to do; for we shall sacrifice the abomination of the Egyptians to the LORD our God: lo, shall we sacrifice the abomination of the Egyptians before their eyes, and will they not stone us?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.8.27",
+      "edition_verse_id": "KJV1769:EXO.8.27",
+      "verse": 27,
+      "spans": [
+        {
+          "text": "We will go three days’ journey into the wilderness, and sacrifice to the LORD our God, as he shall command us.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.8.28",
+      "edition_verse_id": "KJV1769:EXO.8.28",
+      "verse": 28,
+      "spans": [
+        {
+          "text": "And Pharaoh said, I will let you go, that ye may sacrifice to the LORD your God in the wilderness; only ye shall not go very far away: intreat for me.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.8.29",
+      "edition_verse_id": "KJV1769:EXO.8.29",
+      "verse": 29,
+      "spans": [
+        {
+          "text": "And Moses said, Behold, I go out from thee, and I will intreat the LORD that the swarms ",
+          "kind": "text"
+        },
+        {
+          "text": "of flies",
+          "kind": "supplied"
+        },
+        {
+          "text": " may depart from Pharaoh, from his servants, and from his people, to morrow: but let not Pharaoh deal deceitfully any more in not letting the people go to sacrifice to the LORD.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.8.30",
+      "edition_verse_id": "KJV1769:EXO.8.30",
+      "verse": 30,
+      "spans": [
+        {
+          "text": "And Moses went out from Pharaoh, and intreated the LORD.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.8.31",
+      "edition_verse_id": "KJV1769:EXO.8.31",
+      "verse": 31,
+      "spans": [
+        {
+          "text": "And the LORD did according to the word of Moses; and he removed the swarms ",
+          "kind": "text"
+        },
+        {
+          "text": "of flies",
+          "kind": "supplied"
+        },
+        {
+          "text": " from Pharaoh, from his servants, and from his people; there remained not one.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.8.32",
+      "edition_verse_id": "KJV1769:EXO.8.32",
+      "verse": 32,
+      "spans": [
+        {
+          "text": "And Pharaoh hardened his heart at this time also, neither would he let the people go.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

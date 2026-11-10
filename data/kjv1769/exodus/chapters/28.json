@@ -1,0 +1,964 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "KJV1769",
+  "book_code": "EXO",
+  "chapter": 28,
+  "verses": [
+    {
+      "id": "EXO.28.1",
+      "edition_verse_id": "KJV1769:EXO.28.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "And take thou unto thee Aaron thy brother, and his sons with him, from among the children of Israel, that he may minister unto me in the priest’s office, ",
+          "kind": "text"
+        },
+        {
+          "text": "even",
+          "kind": "supplied"
+        },
+        {
+          "text": " Aaron, Nadab and Abihu, Eleazar and Ithamar, Aaron’s sons.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EXO.28.2",
+      "edition_verse_id": "KJV1769:EXO.28.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "And thou shalt make holy garments for Aaron thy brother for glory and for beauty.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.28.3",
+      "edition_verse_id": "KJV1769:EXO.28.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "And thou shalt speak unto all ",
+          "kind": "text"
+        },
+        {
+          "text": "that are",
+          "kind": "supplied"
+        },
+        {
+          "text": " wise hearted, whom I have filled with the spirit of wisdom, that they may make Aaron’s garments to consecrate him, that he may minister unto me in the priest’s office.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.28.4",
+      "edition_verse_id": "KJV1769:EXO.28.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "And these ",
+          "kind": "text"
+        },
+        {
+          "text": "are",
+          "kind": "supplied"
+        },
+        {
+          "text": " the garments which they shall make; a breastplate, and an ephod, and a robe, and a broidered coat, a mitre, and a girdle: and they shall make holy garments for Aaron thy brother, and his sons, that he may minister unto me in the priest’s office.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.28.5",
+      "edition_verse_id": "KJV1769:EXO.28.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "And they shall take gold, and blue, and purple, and scarlet, and fine linen.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.28.6",
+      "edition_verse_id": "KJV1769:EXO.28.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "¶ And they shall make the ephod ",
+          "kind": "text"
+        },
+        {
+          "text": "of",
+          "kind": "supplied"
+        },
+        {
+          "text": " gold, ",
+          "kind": "text"
+        },
+        {
+          "text": "of",
+          "kind": "supplied"
+        },
+        {
+          "text": " blue, and ",
+          "kind": "text"
+        },
+        {
+          "text": "of",
+          "kind": "supplied"
+        },
+        {
+          "text": " purple, ",
+          "kind": "text"
+        },
+        {
+          "text": "of",
+          "kind": "supplied"
+        },
+        {
+          "text": " scarlet, and fine twined linen, with cunning work.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EXO.28.7",
+      "edition_verse_id": "KJV1769:EXO.28.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "It shall have the two shoulderpieces thereof joined at the two edges thereof; and ",
+          "kind": "text"
+        },
+        {
+          "text": "so",
+          "kind": "supplied"
+        },
+        {
+          "text": " it shall be joined together.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.28.8",
+      "edition_verse_id": "KJV1769:EXO.28.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "And the curious girdle of the ephod, which ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " upon it, shall be of the same, according to the work thereof; ",
+          "kind": "text"
+        },
+        {
+          "text": "even of",
+          "kind": "supplied"
+        },
+        {
+          "text": " gold, ",
+          "kind": "text"
+        },
+        {
+          "text": "of",
+          "kind": "supplied"
+        },
+        {
+          "text": " blue, and purple, and scarlet, and fine twined linen.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.28.9",
+      "edition_verse_id": "KJV1769:EXO.28.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "And thou shalt take two onyx stones, and grave on them the names of the children of Israel:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.28.10",
+      "edition_verse_id": "KJV1769:EXO.28.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "Six of their names on one stone, and ",
+          "kind": "text"
+        },
+        {
+          "text": "the other",
+          "kind": "supplied"
+        },
+        {
+          "text": " six names of the rest on the other stone, according to their birth.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.28.11",
+      "edition_verse_id": "KJV1769:EXO.28.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "With the work of an engraver in stone, ",
+          "kind": "text"
+        },
+        {
+          "text": "like",
+          "kind": "supplied"
+        },
+        {
+          "text": " the engravings of a signet, shalt thou engrave the two stones with the names of the children of Israel: thou shalt make them to be set in ouches of gold.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.28.12",
+      "edition_verse_id": "KJV1769:EXO.28.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "And thou shalt put the two stones upon the shoulders of the ephod ",
+          "kind": "text"
+        },
+        {
+          "text": "for",
+          "kind": "supplied"
+        },
+        {
+          "text": " stones of memorial unto the children of Israel: and Aaron shall bear their names before the LORD upon his two shoulders for a memorial.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.28.13",
+      "edition_verse_id": "KJV1769:EXO.28.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "¶ And thou shalt make ouches ",
+          "kind": "text"
+        },
+        {
+          "text": "of",
+          "kind": "supplied"
+        },
+        {
+          "text": " gold;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EXO.28.14",
+      "edition_verse_id": "KJV1769:EXO.28.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "And two chains ",
+          "kind": "text"
+        },
+        {
+          "text": "of",
+          "kind": "supplied"
+        },
+        {
+          "text": " pure gold at the ends; ",
+          "kind": "text"
+        },
+        {
+          "text": "of",
+          "kind": "supplied"
+        },
+        {
+          "text": " wreathen work shalt thou make them, and fasten the wreathen chains to the ouches.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.28.15",
+      "edition_verse_id": "KJV1769:EXO.28.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "¶ And thou shalt make the breastplate of judgment with cunning work; after the work of the ephod thou shalt make it; ",
+          "kind": "text"
+        },
+        {
+          "text": "of",
+          "kind": "supplied"
+        },
+        {
+          "text": " gold, ",
+          "kind": "text"
+        },
+        {
+          "text": "of",
+          "kind": "supplied"
+        },
+        {
+          "text": " blue, and ",
+          "kind": "text"
+        },
+        {
+          "text": "of",
+          "kind": "supplied"
+        },
+        {
+          "text": " purple, and ",
+          "kind": "text"
+        },
+        {
+          "text": "of",
+          "kind": "supplied"
+        },
+        {
+          "text": " scarlet, and ",
+          "kind": "text"
+        },
+        {
+          "text": "of",
+          "kind": "supplied"
+        },
+        {
+          "text": " fine twined linen, shalt thou make it.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EXO.28.16",
+      "edition_verse_id": "KJV1769:EXO.28.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "Foursquare it shall be ",
+          "kind": "text"
+        },
+        {
+          "text": "being",
+          "kind": "supplied"
+        },
+        {
+          "text": " doubled; a span ",
+          "kind": "text"
+        },
+        {
+          "text": "shall be",
+          "kind": "supplied"
+        },
+        {
+          "text": " the length thereof, and a span ",
+          "kind": "text"
+        },
+        {
+          "text": "shall be",
+          "kind": "supplied"
+        },
+        {
+          "text": " the breadth thereof.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.28.17",
+      "edition_verse_id": "KJV1769:EXO.28.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "And thou shalt set in it settings of stones, ",
+          "kind": "text"
+        },
+        {
+          "text": "even",
+          "kind": "supplied"
+        },
+        {
+          "text": " four rows of stones: ",
+          "kind": "text"
+        },
+        {
+          "text": "the first",
+          "kind": "supplied"
+        },
+        {
+          "text": " row ",
+          "kind": "text"
+        },
+        {
+          "text": "shall be",
+          "kind": "supplied"
+        },
+        {
+          "text": " a sardius, a topaz, and a carbuncle: ",
+          "kind": "text"
+        },
+        {
+          "text": "this shall be",
+          "kind": "supplied"
+        },
+        {
+          "text": " the first row.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.28.18",
+      "edition_verse_id": "KJV1769:EXO.28.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "And the second row ",
+          "kind": "text"
+        },
+        {
+          "text": "shall be",
+          "kind": "supplied"
+        },
+        {
+          "text": " an emerald, a sapphire, and a diamond.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.28.19",
+      "edition_verse_id": "KJV1769:EXO.28.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "And the third row a ligure, an agate, and an amethyst.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.28.20",
+      "edition_verse_id": "KJV1769:EXO.28.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "And the fourth row a beryl, and an onyx, and a jasper: they shall be set in gold in their inclosings.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.28.21",
+      "edition_verse_id": "KJV1769:EXO.28.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "And the stones shall be with the names of the children of Israel, twelve, according to their names, ",
+          "kind": "text"
+        },
+        {
+          "text": "like",
+          "kind": "supplied"
+        },
+        {
+          "text": " the engravings of a signet; every one with his name shall they be according to the twelve tribes.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.28.22",
+      "edition_verse_id": "KJV1769:EXO.28.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "¶ And thou shalt make upon the breastplate chains at the ends ",
+          "kind": "text"
+        },
+        {
+          "text": "of",
+          "kind": "supplied"
+        },
+        {
+          "text": " wreathen work ",
+          "kind": "text"
+        },
+        {
+          "text": "of",
+          "kind": "supplied"
+        },
+        {
+          "text": " pure gold.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EXO.28.23",
+      "edition_verse_id": "KJV1769:EXO.28.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "And thou shalt make upon the breastplate two rings of gold, and shalt put the two rings on the two ends of the breastplate.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.28.24",
+      "edition_verse_id": "KJV1769:EXO.28.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "And thou shalt put the two wreathen ",
+          "kind": "text"
+        },
+        {
+          "text": "chains",
+          "kind": "supplied"
+        },
+        {
+          "text": " of gold in the two rings ",
+          "kind": "text"
+        },
+        {
+          "text": "which are",
+          "kind": "supplied"
+        },
+        {
+          "text": " on the ends of the breastplate.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.28.25",
+      "edition_verse_id": "KJV1769:EXO.28.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "And ",
+          "kind": "text"
+        },
+        {
+          "text": "the other",
+          "kind": "supplied"
+        },
+        {
+          "text": " two ends of the two wreathen ",
+          "kind": "text"
+        },
+        {
+          "text": "chains",
+          "kind": "supplied"
+        },
+        {
+          "text": " thou shalt fasten in the two ouches, and put ",
+          "kind": "text"
+        },
+        {
+          "text": "them",
+          "kind": "supplied"
+        },
+        {
+          "text": " on the shoulderpieces of the ephod before it.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.28.26",
+      "edition_verse_id": "KJV1769:EXO.28.26",
+      "verse": 26,
+      "spans": [
+        {
+          "text": "¶ And thou shalt make two rings of gold, and thou shalt put them upon the two ends of the breastplate in the border thereof, which ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " in the side of the ephod inward.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EXO.28.27",
+      "edition_verse_id": "KJV1769:EXO.28.27",
+      "verse": 27,
+      "spans": [
+        {
+          "text": "And two ",
+          "kind": "text"
+        },
+        {
+          "text": "other",
+          "kind": "supplied"
+        },
+        {
+          "text": " rings of gold thou shalt make, and shalt put them on the two sides of the ephod underneath, toward the forepart thereof, over against the ",
+          "kind": "text"
+        },
+        {
+          "text": "other",
+          "kind": "supplied"
+        },
+        {
+          "text": " coupling thereof, above the curious girdle of the ephod.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.28.28",
+      "edition_verse_id": "KJV1769:EXO.28.28",
+      "verse": 28,
+      "spans": [
+        {
+          "text": "And they shall bind the breastplate by the rings thereof unto the rings of the ephod with a lace of blue, that ",
+          "kind": "text"
+        },
+        {
+          "text": "it",
+          "kind": "supplied"
+        },
+        {
+          "text": " may be above the curious girdle of the ephod, and that the breastplate be not loosed from the ephod.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.28.29",
+      "edition_verse_id": "KJV1769:EXO.28.29",
+      "verse": 29,
+      "spans": [
+        {
+          "text": "And Aaron shall bear the names of the children of Israel in the breastplate of judgment upon his heart, when he goeth in unto the holy ",
+          "kind": "text"
+        },
+        {
+          "text": "place",
+          "kind": "supplied"
+        },
+        {
+          "text": ", for a memorial before the LORD continually.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.28.30",
+      "edition_verse_id": "KJV1769:EXO.28.30",
+      "verse": 30,
+      "spans": [
+        {
+          "text": "¶ And thou shalt put in the breastplate of judgment the Urim and the Thummim; and they shall be upon Aaron’s heart, when he goeth in before the LORD: and Aaron shall bear the judgment of the children of Israel upon his heart before the LORD continually.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EXO.28.31",
+      "edition_verse_id": "KJV1769:EXO.28.31",
+      "verse": 31,
+      "spans": [
+        {
+          "text": "¶ And thou shalt make the robe of the ephod all ",
+          "kind": "text"
+        },
+        {
+          "text": "of",
+          "kind": "supplied"
+        },
+        {
+          "text": " blue.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EXO.28.32",
+      "edition_verse_id": "KJV1769:EXO.28.32",
+      "verse": 32,
+      "spans": [
+        {
+          "text": "And there shall be an hole in the top of it, in the midst thereof: it shall have a binding of woven work round about the hole of it, as it were the hole of an habergeon, that it be not rent.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.28.33",
+      "edition_verse_id": "KJV1769:EXO.28.33",
+      "verse": 33,
+      "spans": [
+        {
+          "text": "¶ And ",
+          "kind": "text"
+        },
+        {
+          "text": "beneath",
+          "kind": "supplied"
+        },
+        {
+          "text": " upon the hem of it thou shalt make pomegranates ",
+          "kind": "text"
+        },
+        {
+          "text": "of",
+          "kind": "supplied"
+        },
+        {
+          "text": " blue, and ",
+          "kind": "text"
+        },
+        {
+          "text": "of",
+          "kind": "supplied"
+        },
+        {
+          "text": " purple, and ",
+          "kind": "text"
+        },
+        {
+          "text": "of",
+          "kind": "supplied"
+        },
+        {
+          "text": " scarlet, round about the hem thereof; and bells of gold between them round about:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EXO.28.34",
+      "edition_verse_id": "KJV1769:EXO.28.34",
+      "verse": 34,
+      "spans": [
+        {
+          "text": "A golden bell and a pomegranate, a golden bell and a pomegranate, upon the hem of the robe round about.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.28.35",
+      "edition_verse_id": "KJV1769:EXO.28.35",
+      "verse": 35,
+      "spans": [
+        {
+          "text": "And it shall be upon Aaron to minister: and his sound shall be heard when he goeth in unto the holy ",
+          "kind": "text"
+        },
+        {
+          "text": "place",
+          "kind": "supplied"
+        },
+        {
+          "text": " before the LORD, and when he cometh out, that he die not.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.28.36",
+      "edition_verse_id": "KJV1769:EXO.28.36",
+      "verse": 36,
+      "spans": [
+        {
+          "text": "¶ And thou shalt make a plate ",
+          "kind": "text"
+        },
+        {
+          "text": "of",
+          "kind": "supplied"
+        },
+        {
+          "text": " pure gold, and grave upon it, ",
+          "kind": "text"
+        },
+        {
+          "text": "like",
+          "kind": "supplied"
+        },
+        {
+          "text": " the engravings of a signet, HOLINESS TO THE LORD.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EXO.28.37",
+      "edition_verse_id": "KJV1769:EXO.28.37",
+      "verse": 37,
+      "spans": [
+        {
+          "text": "And thou shalt put it on a blue lace, that it may be upon the mitre; upon the forefront of the mitre it shall be.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.28.38",
+      "edition_verse_id": "KJV1769:EXO.28.38",
+      "verse": 38,
+      "spans": [
+        {
+          "text": "And it shall be upon Aaron’s forehead, that Aaron may bear the iniquity of the holy things, which the children of Israel shall hallow in all their holy gifts; and it shall be always upon his forehead, that they may be accepted before the LORD.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.28.39",
+      "edition_verse_id": "KJV1769:EXO.28.39",
+      "verse": 39,
+      "spans": [
+        {
+          "text": "¶ And thou shalt embroider the coat of fine linen, and thou shalt make the mitre ",
+          "kind": "text"
+        },
+        {
+          "text": "of",
+          "kind": "supplied"
+        },
+        {
+          "text": " fine linen, and thou shalt make the girdle ",
+          "kind": "text"
+        },
+        {
+          "text": "of",
+          "kind": "supplied"
+        },
+        {
+          "text": " needlework.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EXO.28.40",
+      "edition_verse_id": "KJV1769:EXO.28.40",
+      "verse": 40,
+      "spans": [
+        {
+          "text": "¶ And for Aaron’s sons thou shalt make coats, and thou shalt make for them girdles, and bonnets shalt thou make for them, for glory and for beauty.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EXO.28.41",
+      "edition_verse_id": "KJV1769:EXO.28.41",
+      "verse": 41,
+      "spans": [
+        {
+          "text": "And thou shalt put them upon Aaron thy brother, and his sons with him; and shalt anoint them, and consecrate them, and sanctify them, that they may minister unto me in the priest’s office.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.28.42",
+      "edition_verse_id": "KJV1769:EXO.28.42",
+      "verse": 42,
+      "spans": [
+        {
+          "text": "And thou shalt make them linen breeches to cover their nakedness; from the loins even unto the thighs they shall reach:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.28.43",
+      "edition_verse_id": "KJV1769:EXO.28.43",
+      "verse": 43,
+      "spans": [
+        {
+          "text": "And they shall be upon Aaron, and upon his sons, when they come in unto the tabernacle of the congregation, or when they come near unto the altar to minister in the holy ",
+          "kind": "text"
+        },
+        {
+          "text": "place;",
+          "kind": "supplied"
+        },
+        {
+          "text": " that they bear not iniquity, and die: ",
+          "kind": "text"
+        },
+        {
+          "text": "it shall be",
+          "kind": "supplied"
+        },
+        {
+          "text": " a statute for ever unto him and his seed after him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

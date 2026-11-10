@@ -1,0 +1,488 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "KJV1769",
+  "book_code": "DEU",
+  "chapter": 12,
+  "verses": [
+    {
+      "id": "DEU.12.1",
+      "edition_verse_id": "KJV1769:DEU.12.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "These ",
+          "kind": "text"
+        },
+        {
+          "text": "are",
+          "kind": "supplied"
+        },
+        {
+          "text": " the statutes and judgments, which ye shall observe to do in the land, which the LORD God of thy fathers giveth thee to possess it, all the days that ye live upon the earth.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "DEU.12.2",
+      "edition_verse_id": "KJV1769:DEU.12.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "Ye shall utterly destroy all the places, wherein the nations which ye shall possess served their gods, upon the high mountains, and upon the hills, and under every green tree:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.12.3",
+      "edition_verse_id": "KJV1769:DEU.12.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "And ye shall overthrow their altars, and break their pillars, and burn their groves with fire; and ye shall hew down the graven images of their gods, and destroy the names of them out of that place.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.12.4",
+      "edition_verse_id": "KJV1769:DEU.12.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "Ye shall not do so unto the LORD your God.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.12.5",
+      "edition_verse_id": "KJV1769:DEU.12.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "But unto the place which the LORD your God shall choose out of all your tribes to put his name there, ",
+          "kind": "text"
+        },
+        {
+          "text": "even",
+          "kind": "supplied"
+        },
+        {
+          "text": " unto his habitation shall ye seek, and thither thou shalt come:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "DEU.12.6",
+      "edition_verse_id": "KJV1769:DEU.12.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "And thither ye shall bring your burnt offerings, and your sacrifices, and your tithes, and heave offerings of your hand, and your vows, and your freewill offerings, and the firstlings of your herds and of your flocks:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.12.7",
+      "edition_verse_id": "KJV1769:DEU.12.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "And there ye shall eat before the LORD your God, and ye shall rejoice in all that ye put your hand unto, ye and your households, wherein the LORD thy God hath blessed thee.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.12.8",
+      "edition_verse_id": "KJV1769:DEU.12.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "Ye shall not do after all ",
+          "kind": "text"
+        },
+        {
+          "text": "the things",
+          "kind": "supplied"
+        },
+        {
+          "text": " that we do here this day, every man whatsoever ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " right in his own eyes.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.12.9",
+      "edition_verse_id": "KJV1769:DEU.12.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "For ye are not as yet come to the rest and to the inheritance, which the LORD your God giveth you.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.12.10",
+      "edition_verse_id": "KJV1769:DEU.12.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "But ",
+          "kind": "text"
+        },
+        {
+          "text": "when",
+          "kind": "supplied"
+        },
+        {
+          "text": " ye go over Jordan, and dwell in the land which the LORD your God giveth you to inherit, and ",
+          "kind": "text"
+        },
+        {
+          "text": "when",
+          "kind": "supplied"
+        },
+        {
+          "text": " he giveth you rest from all your enemies round about, so that ye dwell in safety;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.12.11",
+      "edition_verse_id": "KJV1769:DEU.12.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "Then there shall be a place which the LORD your God shall choose to cause his name to dwell there; thither shall ye bring all that I command you; your burnt offerings, and your sacrifices, your tithes, and the heave offering of your hand, and all your choice vows which ye vow unto the LORD:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.12.12",
+      "edition_verse_id": "KJV1769:DEU.12.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "And ye shall rejoice before the LORD your God, ye, and your sons, and your daughters, and your menservants, and your maidservants, and the Levite that ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " within your gates; forasmuch as he hath no part nor inheritance with you.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.12.13",
+      "edition_verse_id": "KJV1769:DEU.12.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "Take heed to thyself that thou offer not thy burnt offerings in every place that thou seest:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.12.14",
+      "edition_verse_id": "KJV1769:DEU.12.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "But in the place which the LORD shall choose in one of thy tribes, there thou shalt offer thy burnt offerings, and there thou shalt do all that I command thee.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.12.15",
+      "edition_verse_id": "KJV1769:DEU.12.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "Notwithstanding thou mayest kill and eat flesh in all thy gates, whatsoever thy soul lusteth after, according to the blessing of the LORD thy God which he hath given thee: the unclean and the clean may eat thereof, as of the roebuck, and as of the hart.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.12.16",
+      "edition_verse_id": "KJV1769:DEU.12.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "Only ye shall not eat the blood; ye shall pour it upon the earth as water.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.12.17",
+      "edition_verse_id": "KJV1769:DEU.12.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "¶ Thou mayest not eat within thy gates the tithe of thy corn, or of thy wine, or of thy oil, or the firstlings of thy herds or of thy flock, nor any of thy vows which thou vowest, nor thy freewill offerings, or heave offering of thine hand:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "DEU.12.18",
+      "edition_verse_id": "KJV1769:DEU.12.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "But thou must eat them before the LORD thy God in the place which the LORD thy God shall choose, thou, and thy son, and thy daughter, and thy manservant, and thy maidservant, and the Levite that ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " within thy gates: and thou shalt rejoice before the LORD thy God in all that thou puttest thine hands unto.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.12.19",
+      "edition_verse_id": "KJV1769:DEU.12.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "Take heed to thyself that thou forsake not the Levite as long as thou livest upon the earth.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.12.20",
+      "edition_verse_id": "KJV1769:DEU.12.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "¶ When the LORD thy God shall enlarge thy border, as he hath promised thee, and thou shalt say, I will eat flesh, because thy soul longeth to eat flesh; thou mayest eat flesh, whatsoever thy soul lusteth after.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "DEU.12.21",
+      "edition_verse_id": "KJV1769:DEU.12.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "If the place which the LORD thy God hath chosen to put his name there be too far from thee, then thou shalt kill of thy herd and of thy flock, which the LORD hath given thee, as I have commanded thee, and thou shalt eat in thy gates whatsoever thy soul lusteth after.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.12.22",
+      "edition_verse_id": "KJV1769:DEU.12.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "Even as the roebuck and the hart is eaten, so thou shalt eat them: the unclean and the clean shall eat ",
+          "kind": "text"
+        },
+        {
+          "text": "of",
+          "kind": "supplied"
+        },
+        {
+          "text": " them alike.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.12.23",
+      "edition_verse_id": "KJV1769:DEU.12.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "Only be sure that thou eat not the blood: for the blood ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " the life; and thou mayest not eat the life with the flesh.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.12.24",
+      "edition_verse_id": "KJV1769:DEU.12.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "Thou shalt not eat it; thou shalt pour it upon the earth as water.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.12.25",
+      "edition_verse_id": "KJV1769:DEU.12.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "Thou shalt not eat it; that it may go well with thee, and with thy children after thee, when thou shalt do ",
+          "kind": "text"
+        },
+        {
+          "text": "that which is",
+          "kind": "supplied"
+        },
+        {
+          "text": " right in the sight of the LORD.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.12.26",
+      "edition_verse_id": "KJV1769:DEU.12.26",
+      "verse": 26,
+      "spans": [
+        {
+          "text": "Only thy holy things which thou hast, and thy vows, thou shalt take, and go unto the place which the LORD shall choose:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.12.27",
+      "edition_verse_id": "KJV1769:DEU.12.27",
+      "verse": 27,
+      "spans": [
+        {
+          "text": "And thou shalt offer thy burnt offerings, the flesh and the blood, upon the altar of the LORD thy God: and the blood of thy sacrifices shall be poured out upon the altar of the LORD thy God, and thou shalt eat the flesh.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.12.28",
+      "edition_verse_id": "KJV1769:DEU.12.28",
+      "verse": 28,
+      "spans": [
+        {
+          "text": "Observe and hear all these words which I command thee, that it may go well with thee, and with thy children after thee for ever, when thou doest ",
+          "kind": "text"
+        },
+        {
+          "text": "that which is",
+          "kind": "supplied"
+        },
+        {
+          "text": " good and right in the sight of the LORD thy God.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.12.29",
+      "edition_verse_id": "KJV1769:DEU.12.29",
+      "verse": 29,
+      "spans": [
+        {
+          "text": "¶ When the LORD thy God shall cut off the nations from before thee, whither thou goest to possess them, and thou succeedest them, and dwellest in their land;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "DEU.12.30",
+      "edition_verse_id": "KJV1769:DEU.12.30",
+      "verse": 30,
+      "spans": [
+        {
+          "text": "Take heed to thyself that thou be not snared by following them, after that they be destroyed from before thee; and that thou enquire not after their gods, saying, How did these nations serve their gods? even so will I do likewise.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.12.31",
+      "edition_verse_id": "KJV1769:DEU.12.31",
+      "verse": 31,
+      "spans": [
+        {
+          "text": "Thou shalt not do so unto the LORD thy God: for every abomination to the LORD, which he hateth, have they done unto their gods; for even their sons and their daughters they have burnt in the fire to their gods.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.12.32",
+      "edition_verse_id": "KJV1769:DEU.12.32",
+      "verse": 32,
+      "spans": [
+        {
+          "text": "What thing soever I command you, observe to do it: thou shalt not add thereto, nor diminish from it.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

@@ -1,0 +1,312 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "KJV1769",
+  "book_code": "ECC",
+  "chapter": 12,
+  "verses": [
+    {
+      "id": "ECC.12.1",
+      "edition_verse_id": "KJV1769:ECC.12.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "Remember now thy Creator in the days of thy youth, while the evil days come not, nor the years draw nigh, when thou shalt say, I have no pleasure in them;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ECC.12.2",
+      "edition_verse_id": "KJV1769:ECC.12.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "While the sun, or the light, or the moon, or the stars, be not darkened, nor the clouds return after the rain:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ECC.12.3",
+      "edition_verse_id": "KJV1769:ECC.12.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "In the day when the keepers of the house shall tremble, and the strong men shall bow themselves, and the grinders cease because they are few, and those that look out of the windows be darkened,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ECC.12.4",
+      "edition_verse_id": "KJV1769:ECC.12.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "And the doors shall be shut in the streets, when the sound of the grinding is low, and he shall rise up at the voice of the bird, and all the daughters of musick shall be brought low;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ECC.12.5",
+      "edition_verse_id": "KJV1769:ECC.12.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "Also ",
+          "kind": "text"
+        },
+        {
+          "text": "when",
+          "kind": "supplied"
+        },
+        {
+          "text": " they shall be afraid of ",
+          "kind": "text"
+        },
+        {
+          "text": "that which is",
+          "kind": "supplied"
+        },
+        {
+          "text": " high, and fears ",
+          "kind": "text"
+        },
+        {
+          "text": "shall be",
+          "kind": "supplied"
+        },
+        {
+          "text": " in the way, and the almond tree shall flourish, and the grasshopper shall be a burden, and desire shall fail: because man goeth to his long home, and the mourners go about the streets:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ECC.12.6",
+      "edition_verse_id": "KJV1769:ECC.12.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "Or ever the silver cord be loosed, or the golden bowl be broken, or the pitcher be broken at the fountain, or the wheel broken at the cistern.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ECC.12.7",
+      "edition_verse_id": "KJV1769:ECC.12.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "Then shall the dust return to the earth as it was: and the spirit shall return unto God who gave it.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ECC.12.8",
+      "edition_verse_id": "KJV1769:ECC.12.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "¶ Vanity of vanities, saith the preacher; all ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " vanity.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ECC.12.9",
+      "edition_verse_id": "KJV1769:ECC.12.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "And moreover, because the preacher was wise, he still taught the people knowledge; yea, he gave good heed, and sought out, ",
+          "kind": "text"
+        },
+        {
+          "text": "and",
+          "kind": "supplied"
+        },
+        {
+          "text": " set in order many proverbs.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ECC.12.10",
+      "edition_verse_id": "KJV1769:ECC.12.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "The preacher sought to find out acceptable words: and ",
+          "kind": "text"
+        },
+        {
+          "text": "that which was",
+          "kind": "supplied"
+        },
+        {
+          "text": " written ",
+          "kind": "text"
+        },
+        {
+          "text": "was",
+          "kind": "supplied"
+        },
+        {
+          "text": " upright, ",
+          "kind": "text"
+        },
+        {
+          "text": "even",
+          "kind": "supplied"
+        },
+        {
+          "text": " words of truth.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ECC.12.11",
+      "edition_verse_id": "KJV1769:ECC.12.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "The words of the wise ",
+          "kind": "text"
+        },
+        {
+          "text": "are",
+          "kind": "supplied"
+        },
+        {
+          "text": " as goads, and as nails fastened ",
+          "kind": "text"
+        },
+        {
+          "text": "by",
+          "kind": "supplied"
+        },
+        {
+          "text": " the masters of assemblies, ",
+          "kind": "text"
+        },
+        {
+          "text": "which",
+          "kind": "supplied"
+        },
+        {
+          "text": " are given from one shepherd.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ECC.12.12",
+      "edition_verse_id": "KJV1769:ECC.12.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "And further, by these, my son, be admonished: of making many books ",
+          "kind": "text"
+        },
+        {
+          "text": "there is",
+          "kind": "supplied"
+        },
+        {
+          "text": " no end; and much study ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " a weariness of the flesh.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ECC.12.13",
+      "edition_verse_id": "KJV1769:ECC.12.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "¶ Let us hear the conclusion of the whole matter: Fear God, and keep his commandments: for this ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " the whole ",
+          "kind": "text"
+        },
+        {
+          "text": "duty",
+          "kind": "supplied"
+        },
+        {
+          "text": " of man.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ECC.12.14",
+      "edition_verse_id": "KJV1769:ECC.12.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "For God shall bring every work into judgment, with every secret thing, whether ",
+          "kind": "text"
+        },
+        {
+          "text": "it be",
+          "kind": "supplied"
+        },
+        {
+          "text": " good, or whether ",
+          "kind": "text"
+        },
+        {
+          "text": "it be",
+          "kind": "supplied"
+        },
+        {
+          "text": " evil.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

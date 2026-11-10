@@ -1,0 +1,388 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "KJV1769",
+  "book_code": "ECC",
+  "chapter": 1,
+  "verses": [
+    {
+      "id": "ECC.1.1",
+      "edition_verse_id": "KJV1769:ECC.1.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "The words of the Preacher, the son of David, king in Jerusalem.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ECC.1.2",
+      "edition_verse_id": "KJV1769:ECC.1.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "Vanity of vanities, saith the Preacher, vanity of vanities; all ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " vanity.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ECC.1.3",
+      "edition_verse_id": "KJV1769:ECC.1.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "What profit hath a man of all his labour which he taketh under the sun?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ECC.1.4",
+      "edition_verse_id": "KJV1769:ECC.1.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "One",
+          "kind": "supplied"
+        },
+        {
+          "text": " generation passeth away, and ",
+          "kind": "text"
+        },
+        {
+          "text": "another",
+          "kind": "supplied"
+        },
+        {
+          "text": " generation cometh: but the earth abideth for ever.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ECC.1.5",
+      "edition_verse_id": "KJV1769:ECC.1.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "The sun also ariseth, and the sun goeth down, and hasteth to his place where he arose.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ECC.1.6",
+      "edition_verse_id": "KJV1769:ECC.1.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "The wind goeth toward the south, and turneth about unto the north; it whirleth about continually, and the wind returneth again according to his circuits.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ECC.1.7",
+      "edition_verse_id": "KJV1769:ECC.1.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "All the rivers run into the sea; yet the sea ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " not full; unto the place from whence the rivers come, thither they return again.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ECC.1.8",
+      "edition_verse_id": "KJV1769:ECC.1.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "All things ",
+          "kind": "text"
+        },
+        {
+          "text": "are",
+          "kind": "supplied"
+        },
+        {
+          "text": " full of labour; man cannot utter ",
+          "kind": "text"
+        },
+        {
+          "text": "it:",
+          "kind": "supplied"
+        },
+        {
+          "text": " the eye is not satisfied with seeing, nor the ear filled with hearing.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ECC.1.9",
+      "edition_verse_id": "KJV1769:ECC.1.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "The thing that hath been, it ",
+          "kind": "text"
+        },
+        {
+          "text": "is that",
+          "kind": "supplied"
+        },
+        {
+          "text": " which shall be; and that which is done ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " that which shall be done: and ",
+          "kind": "text"
+        },
+        {
+          "text": "there is",
+          "kind": "supplied"
+        },
+        {
+          "text": " no new ",
+          "kind": "text"
+        },
+        {
+          "text": "thing",
+          "kind": "supplied"
+        },
+        {
+          "text": " under the sun.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ECC.1.10",
+      "edition_verse_id": "KJV1769:ECC.1.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "Is there ",
+          "kind": "text"
+        },
+        {
+          "text": "any",
+          "kind": "supplied"
+        },
+        {
+          "text": " thing whereof it may be said, See, this ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " new? it hath been already of old time, which was before us.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ECC.1.11",
+      "edition_verse_id": "KJV1769:ECC.1.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "There is",
+          "kind": "supplied"
+        },
+        {
+          "text": " no remembrance of former ",
+          "kind": "text"
+        },
+        {
+          "text": "things;",
+          "kind": "supplied"
+        },
+        {
+          "text": " neither shall there be ",
+          "kind": "text"
+        },
+        {
+          "text": "any",
+          "kind": "supplied"
+        },
+        {
+          "text": " remembrance of ",
+          "kind": "text"
+        },
+        {
+          "text": "things",
+          "kind": "supplied"
+        },
+        {
+          "text": " that are to come with ",
+          "kind": "text"
+        },
+        {
+          "text": "those",
+          "kind": "supplied"
+        },
+        {
+          "text": " that shall come after.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ECC.1.12",
+      "edition_verse_id": "KJV1769:ECC.1.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "¶ I the Preacher was king over Israel in Jerusalem.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ECC.1.13",
+      "edition_verse_id": "KJV1769:ECC.1.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "And I gave my heart to seek and search out by wisdom concerning all ",
+          "kind": "text"
+        },
+        {
+          "text": "things",
+          "kind": "supplied"
+        },
+        {
+          "text": " that are done under heaven: this sore travail hath God given to the sons of man to be exercised therewith.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ECC.1.14",
+      "edition_verse_id": "KJV1769:ECC.1.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "I have seen all the works that are done under the sun; and, behold, all ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " vanity and vexation of spirit.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ECC.1.15",
+      "edition_verse_id": "KJV1769:ECC.1.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "That which is",
+          "kind": "supplied"
+        },
+        {
+          "text": " crooked cannot be made straight: and that which is wanting cannot be numbered.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ECC.1.16",
+      "edition_verse_id": "KJV1769:ECC.1.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "I communed with mine own heart, saying, Lo, I am come to great estate, and have gotten more wisdom than all ",
+          "kind": "text"
+        },
+        {
+          "text": "they",
+          "kind": "supplied"
+        },
+        {
+          "text": " that have been before me in Jerusalem: yea, my heart had great experience of wisdom and knowledge.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ECC.1.17",
+      "edition_verse_id": "KJV1769:ECC.1.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "And I gave my heart to know wisdom, and to know madness and folly: I perceived that this also is vexation of spirit.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ECC.1.18",
+      "edition_verse_id": "KJV1769:ECC.1.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "For in much wisdom ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " much grief: and he that increaseth knowledge increaseth sorrow.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

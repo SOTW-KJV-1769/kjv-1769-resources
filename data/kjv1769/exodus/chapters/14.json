@@ -1,0 +1,520 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "KJV1769",
+  "book_code": "EXO",
+  "chapter": 14,
+  "verses": [
+    {
+      "id": "EXO.14.1",
+      "edition_verse_id": "KJV1769:EXO.14.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "And the LORD spake unto Moses, saying,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EXO.14.2",
+      "edition_verse_id": "KJV1769:EXO.14.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "Speak unto the children of Israel, that they turn and encamp before Pi-hahiroth, between Migdol and the sea, over against Baal-zephon: before it shall ye encamp by the sea.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.14.3",
+      "edition_verse_id": "KJV1769:EXO.14.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "For Pharaoh will say of the children of Israel, They ",
+          "kind": "text"
+        },
+        {
+          "text": "are",
+          "kind": "supplied"
+        },
+        {
+          "text": " entangled in the land, the wilderness hath shut them in.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.14.4",
+      "edition_verse_id": "KJV1769:EXO.14.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "And I will harden Pharaoh’s heart, that he shall follow after them; and I will be honoured upon Pharaoh, and upon all his host; that the Egyptians may know that I ",
+          "kind": "text"
+        },
+        {
+          "text": "am",
+          "kind": "supplied"
+        },
+        {
+          "text": " the LORD. And they did so.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.14.5",
+      "edition_verse_id": "KJV1769:EXO.14.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "¶ And it was told the king of Egypt that the people fled: and the heart of Pharaoh and of his servants was turned against the people, and they said, Why have we done this, that we have let Israel go from serving us?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EXO.14.6",
+      "edition_verse_id": "KJV1769:EXO.14.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "And he made ready his chariot, and took his people with him:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.14.7",
+      "edition_verse_id": "KJV1769:EXO.14.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "And he took six hundred chosen chariots, and all the chariots of Egypt, and captains over every one of them.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.14.8",
+      "edition_verse_id": "KJV1769:EXO.14.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "And the LORD hardened the heart of Pharaoh king of Egypt, and he pursued after the children of Israel: and the children of Israel went out with an high hand.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.14.9",
+      "edition_verse_id": "KJV1769:EXO.14.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "But the Egyptians pursued after them, all the horses ",
+          "kind": "text"
+        },
+        {
+          "text": "and",
+          "kind": "supplied"
+        },
+        {
+          "text": " chariots of Pharaoh, and his horsemen, and his army, and overtook them encamping by the sea, beside Pi-hahiroth, before Baal-zephon.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.14.10",
+      "edition_verse_id": "KJV1769:EXO.14.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "¶ And when Pharaoh drew nigh, the children of Israel lifted up their eyes, and, behold, the Egyptians marched after them; and they were sore afraid: and the children of Israel cried out unto the LORD.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EXO.14.11",
+      "edition_verse_id": "KJV1769:EXO.14.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "And they said unto Moses, Because ",
+          "kind": "text"
+        },
+        {
+          "text": "there were",
+          "kind": "supplied"
+        },
+        {
+          "text": " no graves in Egypt, hast thou taken us away to die in the wilderness? wherefore hast thou dealt thus with us, to carry us forth out of Egypt?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.14.12",
+      "edition_verse_id": "KJV1769:EXO.14.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "Is",
+          "kind": "supplied"
+        },
+        {
+          "text": " not this the word that we did tell thee in Egypt, saying, Let us alone, that we may serve the Egyptians? For ",
+          "kind": "text"
+        },
+        {
+          "text": "it had been",
+          "kind": "supplied"
+        },
+        {
+          "text": " better for us to serve the Egyptians, than that we should die in the wilderness.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.14.13",
+      "edition_verse_id": "KJV1769:EXO.14.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "¶ And Moses said unto the people, Fear ye not, stand still, and see the salvation of the LORD, which he will shew to you to day: for the Egyptians whom ye have seen to day, ye shall see them again no more for ever.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EXO.14.14",
+      "edition_verse_id": "KJV1769:EXO.14.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "The LORD shall fight for you, and ye shall hold your peace.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.14.15",
+      "edition_verse_id": "KJV1769:EXO.14.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "¶ And the LORD said unto Moses, Wherefore criest thou unto me? speak unto the children of Israel, that they go forward:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EXO.14.16",
+      "edition_verse_id": "KJV1769:EXO.14.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "But lift thou up thy rod, and stretch out thine hand over the sea, and divide it: and the children of Israel shall go on dry ",
+          "kind": "text"
+        },
+        {
+          "text": "ground",
+          "kind": "supplied"
+        },
+        {
+          "text": " through the midst of the sea.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.14.17",
+      "edition_verse_id": "KJV1769:EXO.14.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "And I, behold, I will harden the hearts of the Egyptians, and they shall follow them: and I will get me honour upon Pharaoh, and upon all his host, upon his chariots, and upon his horsemen.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.14.18",
+      "edition_verse_id": "KJV1769:EXO.14.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "And the Egyptians shall know that I ",
+          "kind": "text"
+        },
+        {
+          "text": "am",
+          "kind": "supplied"
+        },
+        {
+          "text": " the LORD, when I have gotten me honour upon Pharaoh, upon his chariots, and upon his horsemen.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.14.19",
+      "edition_verse_id": "KJV1769:EXO.14.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "¶ And the angel of God, which went before the camp of Israel, removed and went behind them; and the pillar of the cloud went from before their face, and stood behind them:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EXO.14.20",
+      "edition_verse_id": "KJV1769:EXO.14.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "And it came between the camp of the Egyptians and the camp of Israel; and it was a cloud and darkness ",
+          "kind": "text"
+        },
+        {
+          "text": "to them",
+          "kind": "supplied"
+        },
+        {
+          "text": ", but it gave light by night ",
+          "kind": "text"
+        },
+        {
+          "text": "to these:",
+          "kind": "supplied"
+        },
+        {
+          "text": " so that the one came not near the other all the night.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.14.21",
+      "edition_verse_id": "KJV1769:EXO.14.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "And Moses stretched out his hand over the sea; and the LORD caused the sea to go ",
+          "kind": "text"
+        },
+        {
+          "text": "back",
+          "kind": "supplied"
+        },
+        {
+          "text": " by a strong east wind all that night, and made the sea dry ",
+          "kind": "text"
+        },
+        {
+          "text": "land",
+          "kind": "supplied"
+        },
+        {
+          "text": ", and the waters were divided.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EXO.14.22",
+      "edition_verse_id": "KJV1769:EXO.14.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "And the children of Israel went into the midst of the sea upon the dry ",
+          "kind": "text"
+        },
+        {
+          "text": "ground:",
+          "kind": "supplied"
+        },
+        {
+          "text": " and the waters ",
+          "kind": "text"
+        },
+        {
+          "text": "were",
+          "kind": "supplied"
+        },
+        {
+          "text": " a wall unto them on their right hand, and on their left.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.14.23",
+      "edition_verse_id": "KJV1769:EXO.14.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "¶ And the Egyptians pursued, and went in after them to the midst of the sea, ",
+          "kind": "text"
+        },
+        {
+          "text": "even",
+          "kind": "supplied"
+        },
+        {
+          "text": " all Pharaoh’s horses, his chariots, and his horsemen.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EXO.14.24",
+      "edition_verse_id": "KJV1769:EXO.14.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "And it came to pass, that in the morning watch the LORD looked unto the host of the Egyptians through the pillar of fire and of the cloud, and troubled the host of the Egyptians,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.14.25",
+      "edition_verse_id": "KJV1769:EXO.14.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "And took off their chariot wheels, that they drave them heavily: so that the Egyptians said, Let us flee from the face of Israel; for the LORD fighteth for them against the Egyptians.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.14.26",
+      "edition_verse_id": "KJV1769:EXO.14.26",
+      "verse": 26,
+      "spans": [
+        {
+          "text": "¶ And the LORD said unto Moses, Stretch out thine hand over the sea, that the waters may come again upon the Egyptians, upon their chariots, and upon their horsemen.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EXO.14.27",
+      "edition_verse_id": "KJV1769:EXO.14.27",
+      "verse": 27,
+      "spans": [
+        {
+          "text": "And Moses stretched forth his hand over the sea, and the sea returned to his strength when the morning appeared; and the Egyptians fled against it; and the LORD overthrew the Egyptians in the midst of the sea.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.14.28",
+      "edition_verse_id": "KJV1769:EXO.14.28",
+      "verse": 28,
+      "spans": [
+        {
+          "text": "And the waters returned, and covered the chariots, and the horsemen, ",
+          "kind": "text"
+        },
+        {
+          "text": "and",
+          "kind": "supplied"
+        },
+        {
+          "text": " all the host of Pharaoh that came into the sea after them; there remained not so much as one of them.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.14.29",
+      "edition_verse_id": "KJV1769:EXO.14.29",
+      "verse": 29,
+      "spans": [
+        {
+          "text": "But the children of Israel walked upon dry ",
+          "kind": "text"
+        },
+        {
+          "text": "land",
+          "kind": "supplied"
+        },
+        {
+          "text": " in the midst of the sea; and the waters ",
+          "kind": "text"
+        },
+        {
+          "text": "were",
+          "kind": "supplied"
+        },
+        {
+          "text": " a wall unto them on their right hand, and on their left.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.14.30",
+      "edition_verse_id": "KJV1769:EXO.14.30",
+      "verse": 30,
+      "spans": [
+        {
+          "text": "Thus the LORD saved Israel that day out of the hand of the Egyptians; and Israel saw the Egyptians dead upon the sea shore.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.14.31",
+      "edition_verse_id": "KJV1769:EXO.14.31",
+      "verse": 31,
+      "spans": [
+        {
+          "text": "And Israel saw that great work which the LORD did upon the Egyptians: and the people feared the LORD, and believed the LORD, and his servant Moses.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

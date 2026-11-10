@@ -1,0 +1,38 @@
+{
+  "edition_id": "KJV1769",
+  "book_code": "EPH",
+  "chapter_count": 6,
+  "verse_count": 155,
+  "chapters": [
+    {
+      "chapter": 1,
+      "verse_count": 23,
+      "sha256": "cecddb046fa8f0daebb42374f69e7b77dbefc0f30c4e1c88d3af90ab6738bd89"
+    },
+    {
+      "chapter": 2,
+      "verse_count": 22,
+      "sha256": "bb07dba81521d556ea8fa612ee9e107b73a910b27f08bef0628ea643cd302bed"
+    },
+    {
+      "chapter": 3,
+      "verse_count": 21,
+      "sha256": "5aedd97b45ff9013d94ac4171cebc869cd17530398b95a6d238381223d034c52"
+    },
+    {
+      "chapter": 4,
+      "verse_count": 32,
+      "sha256": "6b8cb6490642491248c1ab22ba1ded3cafafc7dc537a9245aef3820e5260b538"
+    },
+    {
+      "chapter": 5,
+      "verse_count": 33,
+      "sha256": "608cf30dd42951b69473022ece6ec0aa64c9c6c377839aa276ca59c722702c58"
+    },
+    {
+      "chapter": 6,
+      "verse_count": 24,
+      "sha256": "e686d4288d825a3f1fca66dfb3ad7cd3d35f59e693eb7663b47b6b4bf05a3165"
+    }
+  ]
+}

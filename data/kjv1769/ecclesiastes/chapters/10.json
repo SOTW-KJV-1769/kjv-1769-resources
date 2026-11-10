@@ -1,0 +1,384 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "KJV1769",
+  "book_code": "ECC",
+  "chapter": 10,
+  "verses": [
+    {
+      "id": "ECC.10.1",
+      "edition_verse_id": "KJV1769:ECC.10.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "Dead flies cause the ointment of the apothecary to send forth a stinking savour: ",
+          "kind": "text"
+        },
+        {
+          "text": "so doth",
+          "kind": "supplied"
+        },
+        {
+          "text": " a little folly him that is in reputation for wisdom ",
+          "kind": "text"
+        },
+        {
+          "text": "and",
+          "kind": "supplied"
+        },
+        {
+          "text": " honour.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ECC.10.2",
+      "edition_verse_id": "KJV1769:ECC.10.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "A wise man’s heart ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " at his right hand; but a fool’s heart at his left.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ECC.10.3",
+      "edition_verse_id": "KJV1769:ECC.10.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "Yea also, when he that is a fool walketh by the way, his wisdom faileth ",
+          "kind": "text"
+        },
+        {
+          "text": "him",
+          "kind": "supplied"
+        },
+        {
+          "text": ", and he saith to every one ",
+          "kind": "text"
+        },
+        {
+          "text": "that",
+          "kind": "supplied"
+        },
+        {
+          "text": " he ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " a fool.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ECC.10.4",
+      "edition_verse_id": "KJV1769:ECC.10.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "If the spirit of the ruler rise up against thee, leave not thy place; for yielding pacifieth great offences.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ECC.10.5",
+      "edition_verse_id": "KJV1769:ECC.10.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "There is an evil ",
+          "kind": "text"
+        },
+        {
+          "text": "which",
+          "kind": "supplied"
+        },
+        {
+          "text": " I have seen under the sun, as an error ",
+          "kind": "text"
+        },
+        {
+          "text": "which",
+          "kind": "supplied"
+        },
+        {
+          "text": " proceedeth from the ruler:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ECC.10.6",
+      "edition_verse_id": "KJV1769:ECC.10.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "Folly is set in great dignity, and the rich sit in low place.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ECC.10.7",
+      "edition_verse_id": "KJV1769:ECC.10.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "I have seen servants upon horses, and princes walking as servants upon the earth.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ECC.10.8",
+      "edition_verse_id": "KJV1769:ECC.10.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "He that diggeth a pit shall fall into it; and whoso breaketh an hedge, a serpent shall bite him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ECC.10.9",
+      "edition_verse_id": "KJV1769:ECC.10.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "Whoso removeth stones shall be hurt therewith; ",
+          "kind": "text"
+        },
+        {
+          "text": "and",
+          "kind": "supplied"
+        },
+        {
+          "text": " he that cleaveth wood shall be endangered thereby.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ECC.10.10",
+      "edition_verse_id": "KJV1769:ECC.10.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "If the iron be blunt, and he do not whet the edge, then must he put to more strength: but wisdom ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " profitable to direct.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ECC.10.11",
+      "edition_verse_id": "KJV1769:ECC.10.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "Surely the serpent will bite without enchantment; and a babbler is no better.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ECC.10.12",
+      "edition_verse_id": "KJV1769:ECC.10.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "The words of a wise man’s mouth ",
+          "kind": "text"
+        },
+        {
+          "text": "are",
+          "kind": "supplied"
+        },
+        {
+          "text": " gracious; but the lips of a fool will swallow up himself.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ECC.10.13",
+      "edition_verse_id": "KJV1769:ECC.10.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "The beginning of the words of his mouth ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " foolishness: and the end of his talk ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " mischievous madness.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ECC.10.14",
+      "edition_verse_id": "KJV1769:ECC.10.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "A fool also is full of words: a man cannot tell what shall be; and what shall be after him, who can tell him?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ECC.10.15",
+      "edition_verse_id": "KJV1769:ECC.10.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "The labour of the foolish wearieth every one of them, because he knoweth not how to go to the city.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ECC.10.16",
+      "edition_verse_id": "KJV1769:ECC.10.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "¶ Woe to thee, O land, when thy king ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " a child, and thy princes eat in the morning!",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ECC.10.17",
+      "edition_verse_id": "KJV1769:ECC.10.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "Blessed ",
+          "kind": "text"
+        },
+        {
+          "text": "art",
+          "kind": "supplied"
+        },
+        {
+          "text": " thou, O land, when thy king ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " the son of nobles, and thy princes eat in due season, for strength, and not for drunkenness!",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ECC.10.18",
+      "edition_verse_id": "KJV1769:ECC.10.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "¶ By much slothfulness the building decayeth; and through idleness of the hands the house droppeth through.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ECC.10.19",
+      "edition_verse_id": "KJV1769:ECC.10.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "¶ A feast is made for laughter, and wine maketh merry: but money answereth all ",
+          "kind": "text"
+        },
+        {
+          "text": "things",
+          "kind": "supplied"
+        },
+        {
+          "text": ".",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ECC.10.20",
+      "edition_verse_id": "KJV1769:ECC.10.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "¶ Curse not the king, no not in thy thought; and curse not the rich in thy bedchamber: for a bird of the air shall carry the voice, and that which hath wings shall tell the matter.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    }
+  ]
+}

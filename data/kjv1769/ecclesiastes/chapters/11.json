@@ -1,0 +1,216 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "KJV1769",
+  "book_code": "ECC",
+  "chapter": 11,
+  "verses": [
+    {
+      "id": "ECC.11.1",
+      "edition_verse_id": "KJV1769:ECC.11.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "Cast thy bread upon the waters: for thou shalt find it after many days.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ECC.11.2",
+      "edition_verse_id": "KJV1769:ECC.11.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "Give a portion to seven, and also to eight; for thou knowest not what evil shall be upon the earth.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ECC.11.3",
+      "edition_verse_id": "KJV1769:ECC.11.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "If the clouds be full of rain, they empty ",
+          "kind": "text"
+        },
+        {
+          "text": "themselves",
+          "kind": "supplied"
+        },
+        {
+          "text": " upon the earth: and if the tree fall toward the south, or toward the north, in the place where the tree falleth, there it shall be.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ECC.11.4",
+      "edition_verse_id": "KJV1769:ECC.11.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "He that observeth the wind shall not sow; and he that regardeth the clouds shall not reap.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ECC.11.5",
+      "edition_verse_id": "KJV1769:ECC.11.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "As thou knowest not what ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " the way of the spirit, ",
+          "kind": "text"
+        },
+        {
+          "text": "nor",
+          "kind": "supplied"
+        },
+        {
+          "text": " how the bones ",
+          "kind": "text"
+        },
+        {
+          "text": "do grow",
+          "kind": "supplied"
+        },
+        {
+          "text": " in the womb of her that is with child: even so thou knowest not the works of God who maketh all.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ECC.11.6",
+      "edition_verse_id": "KJV1769:ECC.11.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "In the morning sow thy seed, and in the evening withhold not thine hand: for thou knowest not whether shall prosper, either this or that, or whether they both ",
+          "kind": "text"
+        },
+        {
+          "text": "shall be",
+          "kind": "supplied"
+        },
+        {
+          "text": " alike good.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ECC.11.7",
+      "edition_verse_id": "KJV1769:ECC.11.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "¶ Truly the light ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " sweet, and a pleasant ",
+          "kind": "text"
+        },
+        {
+          "text": "thing it is",
+          "kind": "supplied"
+        },
+        {
+          "text": " for the eyes to behold the sun:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ECC.11.8",
+      "edition_verse_id": "KJV1769:ECC.11.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "But if a man live many years, ",
+          "kind": "text"
+        },
+        {
+          "text": "and",
+          "kind": "supplied"
+        },
+        {
+          "text": " rejoice in them all; yet let him remember the days of darkness; for they shall be many. All that cometh ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " vanity.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ECC.11.9",
+      "edition_verse_id": "KJV1769:ECC.11.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "¶ Rejoice, O young man, in thy youth; and let thy heart cheer thee in the days of thy youth, and walk in the ways of thine heart, and in the sight of thine eyes: but know thou, that for all these ",
+          "kind": "text"
+        },
+        {
+          "text": "things",
+          "kind": "supplied"
+        },
+        {
+          "text": " God will bring thee into judgment.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ECC.11.10",
+      "edition_verse_id": "KJV1769:ECC.11.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "Therefore remove sorrow from thy heart, and put away evil from thy flesh: for childhood and youth ",
+          "kind": "text"
+        },
+        {
+          "text": "are",
+          "kind": "supplied"
+        },
+        {
+          "text": " vanity.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

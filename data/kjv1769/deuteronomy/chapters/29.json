@@ -1,0 +1,520 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "KJV1769",
+  "book_code": "DEU",
+  "chapter": 29,
+  "verses": [
+    {
+      "id": "DEU.29.1",
+      "edition_verse_id": "KJV1769:DEU.29.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "These ",
+          "kind": "text"
+        },
+        {
+          "text": "are",
+          "kind": "supplied"
+        },
+        {
+          "text": " the words of the covenant, which the LORD commanded Moses to make with the children of Israel in the land of Moab, beside the covenant which he made with them in Horeb.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "DEU.29.2",
+      "edition_verse_id": "KJV1769:DEU.29.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "¶ And Moses called unto all Israel, and said unto them, Ye have seen all that the LORD did before your eyes in the land of Egypt unto Pharaoh, and unto all his servants, and unto all his land;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "DEU.29.3",
+      "edition_verse_id": "KJV1769:DEU.29.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "The great temptations which thine eyes have seen, the signs, and those great miracles:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.29.4",
+      "edition_verse_id": "KJV1769:DEU.29.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "Yet the LORD hath not given you an heart to perceive, and eyes to see, and ears to hear, unto this day.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.29.5",
+      "edition_verse_id": "KJV1769:DEU.29.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "And I have led you forty years in the wilderness: your clothes are not waxen old upon you, and thy shoe is not waxen old upon thy foot.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.29.6",
+      "edition_verse_id": "KJV1769:DEU.29.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "Ye have not eaten bread, neither have ye drunk wine or strong drink: that ye might know that I ",
+          "kind": "text"
+        },
+        {
+          "text": "am",
+          "kind": "supplied"
+        },
+        {
+          "text": " the LORD your God.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.29.7",
+      "edition_verse_id": "KJV1769:DEU.29.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "And when ye came unto this place, Sihon the king of Heshbon, and Og the king of Bashan, came out against us unto battle, and we smote them:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.29.8",
+      "edition_verse_id": "KJV1769:DEU.29.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "And we took their land, and gave it for an inheritance unto the Reubenites, and to the Gadites, and to the half tribe of Manasseh.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.29.9",
+      "edition_verse_id": "KJV1769:DEU.29.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "Keep therefore the words of this covenant, and do them, that ye may prosper in all that ye do.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.29.10",
+      "edition_verse_id": "KJV1769:DEU.29.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "¶ Ye stand this day all of you before the LORD your God; your captains of your tribes, your elders, and your officers, ",
+          "kind": "text"
+        },
+        {
+          "text": "with",
+          "kind": "supplied"
+        },
+        {
+          "text": " all the men of Israel,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "DEU.29.11",
+      "edition_verse_id": "KJV1769:DEU.29.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "Your little ones, your wives, and thy stranger that ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " in thy camp, from the hewer of thy wood unto the drawer of thy water:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.29.12",
+      "edition_verse_id": "KJV1769:DEU.29.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "That thou shouldest enter into covenant with the LORD thy God, and into his oath, which the LORD thy God maketh with thee this day:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.29.13",
+      "edition_verse_id": "KJV1769:DEU.29.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "That he may establish thee to day for a people unto himself, and ",
+          "kind": "text"
+        },
+        {
+          "text": "that",
+          "kind": "supplied"
+        },
+        {
+          "text": " he may be unto thee a God, as he hath said unto thee, and as he hath sworn unto thy fathers, to Abraham, to Isaac, and to Jacob.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.29.14",
+      "edition_verse_id": "KJV1769:DEU.29.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "Neither with you only do I make this covenant and this oath;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.29.15",
+      "edition_verse_id": "KJV1769:DEU.29.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "But with ",
+          "kind": "text"
+        },
+        {
+          "text": "him",
+          "kind": "supplied"
+        },
+        {
+          "text": " that standeth here with us this day before the LORD our God, and also with ",
+          "kind": "text"
+        },
+        {
+          "text": "him",
+          "kind": "supplied"
+        },
+        {
+          "text": " that ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " not here with us this day:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.29.16",
+      "edition_verse_id": "KJV1769:DEU.29.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "(For ye know how we have dwelt in the land of Egypt; and how we came through the nations which ye passed by;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.29.17",
+      "edition_verse_id": "KJV1769:DEU.29.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "And ye have seen their abominations, and their idols, wood and stone, silver and gold, which ",
+          "kind": "text"
+        },
+        {
+          "text": "were",
+          "kind": "supplied"
+        },
+        {
+          "text": " among them:)",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.29.18",
+      "edition_verse_id": "KJV1769:DEU.29.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "Lest there should be among you man, or woman, or family, or tribe, whose heart turneth away this day from the LORD our God, to go ",
+          "kind": "text"
+        },
+        {
+          "text": "and",
+          "kind": "supplied"
+        },
+        {
+          "text": " serve the gods of these nations; lest there should be among you a root that beareth gall and wormwood;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.29.19",
+      "edition_verse_id": "KJV1769:DEU.29.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "And it come to pass, when he heareth the words of this curse, that he bless himself in his heart, saying, I shall have peace, though I walk in the imagination of mine heart, to add drunkenness to thirst:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.29.20",
+      "edition_verse_id": "KJV1769:DEU.29.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "The LORD will not spare him, but then the anger of the LORD and his jealousy shall smoke against that man, and all the curses that are written in this book shall lie upon him, and the LORD shall blot out his name from under heaven.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.29.21",
+      "edition_verse_id": "KJV1769:DEU.29.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "And the LORD shall separate him unto evil out of all the tribes of Israel, according to all the curses of the covenant that are written in this book of the law:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.29.22",
+      "edition_verse_id": "KJV1769:DEU.29.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "So that the generation to come of your children that shall rise up after you, and the stranger that shall come from a far land, shall say, when they see the plagues of that land, and the sicknesses which the LORD hath laid upon it;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.29.23",
+      "edition_verse_id": "KJV1769:DEU.29.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "And that",
+          "kind": "supplied"
+        },
+        {
+          "text": " the whole land thereof ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " brimstone, and salt, ",
+          "kind": "text"
+        },
+        {
+          "text": "and",
+          "kind": "supplied"
+        },
+        {
+          "text": " burning, ",
+          "kind": "text"
+        },
+        {
+          "text": "that",
+          "kind": "supplied"
+        },
+        {
+          "text": " it is not sown, nor beareth, nor any grass groweth therein, like the overthrow of Sodom, and Gomorrah, Admah, and Zeboim, which the LORD overthrew in his anger, and in his wrath:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.29.24",
+      "edition_verse_id": "KJV1769:DEU.29.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "Even all nations shall say, Wherefore hath the LORD done thus unto this land? what ",
+          "kind": "text"
+        },
+        {
+          "text": "meaneth",
+          "kind": "supplied"
+        },
+        {
+          "text": " the heat of this great anger?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.29.25",
+      "edition_verse_id": "KJV1769:DEU.29.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "Then men shall say, Because they have forsaken the covenant of the LORD God of their fathers, which he made with them when he brought them forth out of the land of Egypt:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.29.26",
+      "edition_verse_id": "KJV1769:DEU.29.26",
+      "verse": 26,
+      "spans": [
+        {
+          "text": "For they went and served other gods, and worshipped them, gods whom they knew not, and ",
+          "kind": "text"
+        },
+        {
+          "text": "whom",
+          "kind": "supplied"
+        },
+        {
+          "text": " he had not given unto them:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.29.27",
+      "edition_verse_id": "KJV1769:DEU.29.27",
+      "verse": 27,
+      "spans": [
+        {
+          "text": "And the anger of the LORD was kindled against this land, to bring upon it all the curses that are written in this book:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.29.28",
+      "edition_verse_id": "KJV1769:DEU.29.28",
+      "verse": 28,
+      "spans": [
+        {
+          "text": "And the LORD rooted them out of their land in anger, and in wrath, and in great indignation, and cast them into another land, as ",
+          "kind": "text"
+        },
+        {
+          "text": "it is",
+          "kind": "supplied"
+        },
+        {
+          "text": " this day.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.29.29",
+      "edition_verse_id": "KJV1769:DEU.29.29",
+      "verse": 29,
+      "spans": [
+        {
+          "text": "The secret ",
+          "kind": "text"
+        },
+        {
+          "text": "things belong",
+          "kind": "supplied"
+        },
+        {
+          "text": " unto the LORD our God: but those ",
+          "kind": "text"
+        },
+        {
+          "text": "things which are",
+          "kind": "supplied"
+        },
+        {
+          "text": " revealed ",
+          "kind": "text"
+        },
+        {
+          "text": "belong",
+          "kind": "supplied"
+        },
+        {
+          "text": " unto us and to our children for ever, that ",
+          "kind": "text"
+        },
+        {
+          "text": "we",
+          "kind": "supplied"
+        },
+        {
+          "text": " may do all the words of this law.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

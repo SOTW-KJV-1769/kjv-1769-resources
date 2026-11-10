@@ -1,0 +1,356 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "KJV1769",
+  "book_code": "DEU",
+  "chapter": 8,
+  "verses": [
+    {
+      "id": "DEU.8.1",
+      "edition_verse_id": "KJV1769:DEU.8.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "All the commandments which I command thee this day shall ye observe to do, that ye may live, and multiply, and go in and possess the land which the LORD sware unto your fathers.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "DEU.8.2",
+      "edition_verse_id": "KJV1769:DEU.8.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "And thou shalt remember all the way which the LORD thy God led thee these forty years in the wilderness, to humble thee, ",
+          "kind": "text"
+        },
+        {
+          "text": "and",
+          "kind": "supplied"
+        },
+        {
+          "text": " to prove thee, to know what ",
+          "kind": "text"
+        },
+        {
+          "text": "was",
+          "kind": "supplied"
+        },
+        {
+          "text": " in thine heart, whether thou wouldest keep his commandments, or no.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.8.3",
+      "edition_verse_id": "KJV1769:DEU.8.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "And he humbled thee, and suffered thee to hunger, and fed thee with manna, which thou knewest not, neither did thy fathers know; that he might make thee know that man doth not live by bread only, but by every ",
+          "kind": "text"
+        },
+        {
+          "text": "word",
+          "kind": "supplied"
+        },
+        {
+          "text": " that proceedeth out of the mouth of the LORD doth man live.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.8.4",
+      "edition_verse_id": "KJV1769:DEU.8.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "Thy raiment waxed not old upon thee, neither did thy foot swell, these forty years.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.8.5",
+      "edition_verse_id": "KJV1769:DEU.8.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "Thou shalt also consider in thine heart, that, as a man chasteneth his son, ",
+          "kind": "text"
+        },
+        {
+          "text": "so",
+          "kind": "supplied"
+        },
+        {
+          "text": " the LORD thy God chasteneth thee.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.8.6",
+      "edition_verse_id": "KJV1769:DEU.8.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "Therefore thou shalt keep the commandments of the LORD thy God, to walk in his ways, and to fear him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.8.7",
+      "edition_verse_id": "KJV1769:DEU.8.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "For the LORD thy God bringeth thee into a good land, a land of brooks of water, of fountains and depths that spring out of valleys and hills;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.8.8",
+      "edition_verse_id": "KJV1769:DEU.8.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "A land of wheat, and barley, and vines, and fig trees, and pomegranates; a land of oil olive, and honey;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.8.9",
+      "edition_verse_id": "KJV1769:DEU.8.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "A land wherein thou shalt eat bread without scarceness, thou shalt not lack any ",
+          "kind": "text"
+        },
+        {
+          "text": "thing",
+          "kind": "supplied"
+        },
+        {
+          "text": " in it; a land whose stones ",
+          "kind": "text"
+        },
+        {
+          "text": "are",
+          "kind": "supplied"
+        },
+        {
+          "text": " iron, and out of whose hills thou mayest dig brass.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.8.10",
+      "edition_verse_id": "KJV1769:DEU.8.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "When thou hast eaten and art full, then thou shalt bless the LORD thy God for the good land which he hath given thee.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "DEU.8.11",
+      "edition_verse_id": "KJV1769:DEU.8.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "Beware that thou forget not the LORD thy God, in not keeping his commandments, and his judgments, and his statutes, which I command thee this day:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.8.12",
+      "edition_verse_id": "KJV1769:DEU.8.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "Lest ",
+          "kind": "text"
+        },
+        {
+          "text": "when",
+          "kind": "supplied"
+        },
+        {
+          "text": " thou hast eaten and art full, and hast built goodly houses, and dwelt ",
+          "kind": "text"
+        },
+        {
+          "text": "therein;",
+          "kind": "supplied"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.8.13",
+      "edition_verse_id": "KJV1769:DEU.8.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "And ",
+          "kind": "text"
+        },
+        {
+          "text": "when",
+          "kind": "supplied"
+        },
+        {
+          "text": " thy herds and thy flocks multiply, and thy silver and thy gold is multiplied, and all that thou hast is multiplied;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.8.14",
+      "edition_verse_id": "KJV1769:DEU.8.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "Then thine heart be lifted up, and thou forget the LORD thy God, which brought thee forth out of the land of Egypt, from the house of bondage;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.8.15",
+      "edition_verse_id": "KJV1769:DEU.8.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "Who led thee through that great and terrible wilderness, ",
+          "kind": "text"
+        },
+        {
+          "text": "wherein were",
+          "kind": "supplied"
+        },
+        {
+          "text": " fiery serpents, and scorpions, and drought, where ",
+          "kind": "text"
+        },
+        {
+          "text": "there was",
+          "kind": "supplied"
+        },
+        {
+          "text": " no water; who brought thee forth water out of the rock of flint;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.8.16",
+      "edition_verse_id": "KJV1769:DEU.8.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "Who fed thee in the wilderness with manna, which thy fathers knew not, that he might humble thee, and that he might prove thee, to do thee good at thy latter end;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.8.17",
+      "edition_verse_id": "KJV1769:DEU.8.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "And thou say in thine heart, My power and the might of ",
+          "kind": "text"
+        },
+        {
+          "text": "mine",
+          "kind": "supplied"
+        },
+        {
+          "text": " hand hath gotten me this wealth.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.8.18",
+      "edition_verse_id": "KJV1769:DEU.8.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "But thou shalt remember the LORD thy God: for ",
+          "kind": "text"
+        },
+        {
+          "text": "it is",
+          "kind": "supplied"
+        },
+        {
+          "text": " he that giveth thee power to get wealth, that he may establish his covenant which he sware unto thy fathers, as ",
+          "kind": "text"
+        },
+        {
+          "text": "it is",
+          "kind": "supplied"
+        },
+        {
+          "text": " this day.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.8.19",
+      "edition_verse_id": "KJV1769:DEU.8.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "And it shall be, if thou do at all forget the LORD thy God, and walk after other gods, and serve them, and worship them, I testify against you this day that ye shall surely perish.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.8.20",
+      "edition_verse_id": "KJV1769:DEU.8.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "As the nations which the LORD destroyeth before your face, so shall ye perish; because ye would not be obedient unto the voice of the LORD your God.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

@@ -1,0 +1,552 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "KJV1769",
+  "book_code": "EXO",
+  "chapter": 6,
+  "verses": [
+    {
+      "id": "EXO.6.1",
+      "edition_verse_id": "KJV1769:EXO.6.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "Then the LORD said unto Moses, Now shalt thou see what I will do to Pharaoh: for with a strong hand shall he let them go, and with a strong hand shall he drive them out of his land.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EXO.6.2",
+      "edition_verse_id": "KJV1769:EXO.6.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "And God spake unto Moses, and said unto him, I ",
+          "kind": "text"
+        },
+        {
+          "text": "am",
+          "kind": "supplied"
+        },
+        {
+          "text": " the LORD:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.6.3",
+      "edition_verse_id": "KJV1769:EXO.6.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "And I appeared unto Abraham, unto Isaac, and unto Jacob, by ",
+          "kind": "text"
+        },
+        {
+          "text": "the name of",
+          "kind": "supplied"
+        },
+        {
+          "text": " God Almighty, but by my name JEHOVAH was I not known to them.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.6.4",
+      "edition_verse_id": "KJV1769:EXO.6.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "And I have also established my covenant with them, to give them the land of Canaan, the land of their pilgrimage, wherein they were strangers.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.6.5",
+      "edition_verse_id": "KJV1769:EXO.6.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "And I have also heard the groaning of the children of Israel, whom the Egyptians keep in bondage; and I have remembered my covenant.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.6.6",
+      "edition_verse_id": "KJV1769:EXO.6.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "Wherefore say unto the children of Israel, I ",
+          "kind": "text"
+        },
+        {
+          "text": "am",
+          "kind": "supplied"
+        },
+        {
+          "text": " the LORD, and I will bring you out from under the burdens of the Egyptians, and I will rid you out of their bondage, and I will redeem you with a stretched out arm, and with great judgments:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.6.7",
+      "edition_verse_id": "KJV1769:EXO.6.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "And I will take you to me for a people, and I will be to you a God: and ye shall know that I ",
+          "kind": "text"
+        },
+        {
+          "text": "am",
+          "kind": "supplied"
+        },
+        {
+          "text": " the LORD your God, which bringeth you out from under the burdens of the Egyptians.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.6.8",
+      "edition_verse_id": "KJV1769:EXO.6.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "And I will bring you in unto the land, concerning the which I did swear to give it to Abraham, to Isaac, and to Jacob; and I will give it you for an heritage: I ",
+          "kind": "text"
+        },
+        {
+          "text": "am",
+          "kind": "supplied"
+        },
+        {
+          "text": " the LORD.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.6.9",
+      "edition_verse_id": "KJV1769:EXO.6.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "¶ And Moses spake so unto the children of Israel: but they hearkened not unto Moses for anguish of spirit, and for cruel bondage.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EXO.6.10",
+      "edition_verse_id": "KJV1769:EXO.6.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "And the LORD spake unto Moses, saying,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EXO.6.11",
+      "edition_verse_id": "KJV1769:EXO.6.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "Go in, speak unto Pharaoh king of Egypt, that he let the children of Israel go out of his land.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.6.12",
+      "edition_verse_id": "KJV1769:EXO.6.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "And Moses spake before the LORD, saying, Behold, the children of Israel have not hearkened unto me; how then shall Pharaoh hear me, who ",
+          "kind": "text"
+        },
+        {
+          "text": "am",
+          "kind": "supplied"
+        },
+        {
+          "text": " of uncircumcised lips?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.6.13",
+      "edition_verse_id": "KJV1769:EXO.6.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "And the LORD spake unto Moses and unto Aaron, and gave them a charge unto the children of Israel, and unto Pharaoh king of Egypt, to bring the children of Israel out of the land of Egypt.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.6.14",
+      "edition_verse_id": "KJV1769:EXO.6.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "¶ These ",
+          "kind": "text"
+        },
+        {
+          "text": "be",
+          "kind": "supplied"
+        },
+        {
+          "text": " the heads of their fathers’ houses: The sons of Reuben the firstborn of Israel; Hanoch, and Pallu, Hezron, and Carmi: these ",
+          "kind": "text"
+        },
+        {
+          "text": "be",
+          "kind": "supplied"
+        },
+        {
+          "text": " the families of Reuben.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EXO.6.15",
+      "edition_verse_id": "KJV1769:EXO.6.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "And the sons of Simeon; Jemuel, and Jamin, and Ohad, and Jachin, and Zohar, and Shaul the son of a Canaanitish woman: these ",
+          "kind": "text"
+        },
+        {
+          "text": "are",
+          "kind": "supplied"
+        },
+        {
+          "text": " the families of Simeon.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.6.16",
+      "edition_verse_id": "KJV1769:EXO.6.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "¶ And these ",
+          "kind": "text"
+        },
+        {
+          "text": "are",
+          "kind": "supplied"
+        },
+        {
+          "text": " the names of the sons of Levi according to their generations; Gershon, and Kohath, and Merari: and the years of the life of Levi ",
+          "kind": "text"
+        },
+        {
+          "text": "were",
+          "kind": "supplied"
+        },
+        {
+          "text": " an hundred thirty and seven years.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EXO.6.17",
+      "edition_verse_id": "KJV1769:EXO.6.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "The sons of Gershon; Libni, and Shimi, according to their families.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.6.18",
+      "edition_verse_id": "KJV1769:EXO.6.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "And the sons of Kohath; Amram, and Izhar, and Hebron, and Uzziel: and the years of the life of Kohath ",
+          "kind": "text"
+        },
+        {
+          "text": "were",
+          "kind": "supplied"
+        },
+        {
+          "text": " an hundred thirty and three years.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.6.19",
+      "edition_verse_id": "KJV1769:EXO.6.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "And the sons of Merari; Mahali and Mushi: these ",
+          "kind": "text"
+        },
+        {
+          "text": "are",
+          "kind": "supplied"
+        },
+        {
+          "text": " the families of Levi according to their generations.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.6.20",
+      "edition_verse_id": "KJV1769:EXO.6.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "And Amram took him Jochebed his father’s sister to wife; and she bare him Aaron and Moses: and the years of the life of Amram ",
+          "kind": "text"
+        },
+        {
+          "text": "were",
+          "kind": "supplied"
+        },
+        {
+          "text": " an hundred and thirty and seven years.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.6.21",
+      "edition_verse_id": "KJV1769:EXO.6.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "¶ And the sons of Izhar; Korah, and Nepheg, and Zichri.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EXO.6.22",
+      "edition_verse_id": "KJV1769:EXO.6.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "And the sons of Uzziel; Mishael, and Elzaphan, and Zithri.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.6.23",
+      "edition_verse_id": "KJV1769:EXO.6.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "And Aaron took him Elisheba, daughter of Amminadab, sister of Naashon, to wife; and she bare him Nadab, and Abihu, Eleazar, and Ithamar.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.6.24",
+      "edition_verse_id": "KJV1769:EXO.6.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "And the sons of Korah; Assir, and Elkanah, and Abiasaph: these ",
+          "kind": "text"
+        },
+        {
+          "text": "are",
+          "kind": "supplied"
+        },
+        {
+          "text": " the families of the Korhites.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.6.25",
+      "edition_verse_id": "KJV1769:EXO.6.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "And Eleazar Aaron’s son took him ",
+          "kind": "text"
+        },
+        {
+          "text": "one",
+          "kind": "supplied"
+        },
+        {
+          "text": " of the daughters of Putiel to wife; and she bare him Phinehas: these ",
+          "kind": "text"
+        },
+        {
+          "text": "are",
+          "kind": "supplied"
+        },
+        {
+          "text": " the heads of the fathers of the Levites according to their families.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.6.26",
+      "edition_verse_id": "KJV1769:EXO.6.26",
+      "verse": 26,
+      "spans": [
+        {
+          "text": "These ",
+          "kind": "text"
+        },
+        {
+          "text": "are",
+          "kind": "supplied"
+        },
+        {
+          "text": " that Aaron and Moses, to whom the LORD said, Bring out the children of Israel from the land of Egypt according to their armies.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.6.27",
+      "edition_verse_id": "KJV1769:EXO.6.27",
+      "verse": 27,
+      "spans": [
+        {
+          "text": "These ",
+          "kind": "text"
+        },
+        {
+          "text": "are",
+          "kind": "supplied"
+        },
+        {
+          "text": " they which spake to Pharaoh king of Egypt, to bring out the children of Israel from Egypt: these ",
+          "kind": "text"
+        },
+        {
+          "text": "are",
+          "kind": "supplied"
+        },
+        {
+          "text": " that Moses and Aaron.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.6.28",
+      "edition_verse_id": "KJV1769:EXO.6.28",
+      "verse": 28,
+      "spans": [
+        {
+          "text": "¶ And it came to pass on the day ",
+          "kind": "text"
+        },
+        {
+          "text": "when",
+          "kind": "supplied"
+        },
+        {
+          "text": " the LORD spake unto Moses in the land of Egypt,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EXO.6.29",
+      "edition_verse_id": "KJV1769:EXO.6.29",
+      "verse": 29,
+      "spans": [
+        {
+          "text": "That the LORD spake unto Moses, saying, I ",
+          "kind": "text"
+        },
+        {
+          "text": "am",
+          "kind": "supplied"
+        },
+        {
+          "text": " the LORD: speak thou unto Pharaoh king of Egypt all that I say unto thee.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.6.30",
+      "edition_verse_id": "KJV1769:EXO.6.30",
+      "verse": 30,
+      "spans": [
+        {
+          "text": "And Moses said before the LORD, Behold, I ",
+          "kind": "text"
+        },
+        {
+          "text": "am",
+          "kind": "supplied"
+        },
+        {
+          "text": " of uncircumcised lips, and how shall Pharaoh hearken unto me?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

@@ -1,0 +1,368 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "KJV1769",
+  "book_code": "DEU",
+  "chapter": 10,
+  "verses": [
+    {
+      "id": "DEU.10.1",
+      "edition_verse_id": "KJV1769:DEU.10.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "At that time the LORD said unto me, Hew thee two tables of stone like unto the first, and come up unto me into the mount, and make thee an ark of wood.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "DEU.10.2",
+      "edition_verse_id": "KJV1769:DEU.10.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "And I will write on the tables the words that were in the first tables which thou brakest, and thou shalt put them in the ark.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.10.3",
+      "edition_verse_id": "KJV1769:DEU.10.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "And I made an ark ",
+          "kind": "text"
+        },
+        {
+          "text": "of",
+          "kind": "supplied"
+        },
+        {
+          "text": " shittim wood, and hewed two tables of stone like unto the first, and went up into the mount, having the two tables in mine hand.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.10.4",
+      "edition_verse_id": "KJV1769:DEU.10.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "And he wrote on the tables, according to the first writing, the ten commandments, which the LORD spake unto you in the mount out of the midst of the fire in the day of the assembly: and the LORD gave them unto me.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.10.5",
+      "edition_verse_id": "KJV1769:DEU.10.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "And I turned myself and came down from the mount, and put the tables in the ark which I had made; and there they be, as the LORD commanded me.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.10.6",
+      "edition_verse_id": "KJV1769:DEU.10.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "¶ And the children of Israel took their journey from Beeroth of the children of Jaakan to Mosera: there Aaron died, and there he was buried; and Eleazar his son ministered in the priest’s office in his stead.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "DEU.10.7",
+      "edition_verse_id": "KJV1769:DEU.10.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "From thence they journeyed unto Gudgodah; and from Gudgodah to Jotbath, a land of rivers of waters.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.10.8",
+      "edition_verse_id": "KJV1769:DEU.10.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "¶ At that time the LORD separated the tribe of Levi, to bear the ark of the covenant of the LORD, to stand before the LORD to minister unto him, and to bless in his name, unto this day.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "DEU.10.9",
+      "edition_verse_id": "KJV1769:DEU.10.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "Wherefore Levi hath no part nor inheritance with his brethren; the LORD ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " his inheritance, according as the LORD thy God promised him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.10.10",
+      "edition_verse_id": "KJV1769:DEU.10.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "And I stayed in the mount, according to the first time, forty days and forty nights; and the LORD hearkened unto me at that time also, ",
+          "kind": "text"
+        },
+        {
+          "text": "and",
+          "kind": "supplied"
+        },
+        {
+          "text": " the LORD would not destroy thee.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.10.11",
+      "edition_verse_id": "KJV1769:DEU.10.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "And the LORD said unto me, Arise, take ",
+          "kind": "text"
+        },
+        {
+          "text": "thy",
+          "kind": "supplied"
+        },
+        {
+          "text": " journey before the people, that they may go in and possess the land, which I sware unto their fathers to give unto them.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.10.12",
+      "edition_verse_id": "KJV1769:DEU.10.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "¶ And now, Israel, what doth the LORD thy God require of thee, but to fear the LORD thy God, to walk in all his ways, and to love him, and to serve the LORD thy God with all thy heart and with all thy soul,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "DEU.10.13",
+      "edition_verse_id": "KJV1769:DEU.10.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "To keep the commandments of the LORD, and his statutes, which I command thee this day for thy good?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.10.14",
+      "edition_verse_id": "KJV1769:DEU.10.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "Behold, the heaven and the heaven of heavens ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " the LORD’s thy God, the earth ",
+          "kind": "text"
+        },
+        {
+          "text": "also",
+          "kind": "supplied"
+        },
+        {
+          "text": ", with all that therein ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": ".",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.10.15",
+      "edition_verse_id": "KJV1769:DEU.10.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "Only the LORD had a delight in thy fathers to love them, and he chose their seed after them, ",
+          "kind": "text"
+        },
+        {
+          "text": "even",
+          "kind": "supplied"
+        },
+        {
+          "text": " you above all people, as ",
+          "kind": "text"
+        },
+        {
+          "text": "it is",
+          "kind": "supplied"
+        },
+        {
+          "text": " this day.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.10.16",
+      "edition_verse_id": "KJV1769:DEU.10.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "Circumcise therefore the foreskin of your heart, and be no more stiffnecked.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.10.17",
+      "edition_verse_id": "KJV1769:DEU.10.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "For the LORD your God ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " God of gods, and Lord of lords, a great God, a mighty, and a terrible, which regardeth not persons, nor taketh reward:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.10.18",
+      "edition_verse_id": "KJV1769:DEU.10.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "He doth execute the judgment of the fatherless and widow, and loveth the stranger, in giving him food and raiment.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.10.19",
+      "edition_verse_id": "KJV1769:DEU.10.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "Love ye therefore the stranger: for ye were strangers in the land of Egypt.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.10.20",
+      "edition_verse_id": "KJV1769:DEU.10.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "Thou shalt fear the LORD thy God; him shalt thou serve, and to him shalt thou cleave, and swear by his name.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.10.21",
+      "edition_verse_id": "KJV1769:DEU.10.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "He ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " thy praise, and he ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " thy God, that hath done for thee these great and terrible things, which thine eyes have seen.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.10.22",
+      "edition_verse_id": "KJV1769:DEU.10.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "Thy fathers went down into Egypt with threescore and ten persons; and now the LORD thy God hath made thee as the stars of heaven for multitude.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

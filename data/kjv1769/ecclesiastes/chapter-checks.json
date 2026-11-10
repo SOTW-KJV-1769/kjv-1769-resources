@@ -1,0 +1,68 @@
+{
+  "edition_id": "KJV1769",
+  "book_code": "ECC",
+  "chapter_count": 12,
+  "verse_count": 222,
+  "chapters": [
+    {
+      "chapter": 1,
+      "verse_count": 18,
+      "sha256": "6c45b19e6366244d7ff12b020dbcc930f4e86d0e9bb5cef5019ae255bde2c781"
+    },
+    {
+      "chapter": 2,
+      "verse_count": 26,
+      "sha256": "153eed020d8393a3fae2a9155d6d78e1cafb9c1fb5a6761b6beaee48a3df6bb3"
+    },
+    {
+      "chapter": 3,
+      "verse_count": 22,
+      "sha256": "14fd1a4c330c0f5bc4a400f7e5375be8c8bbf730bf5981d7eb3de5c51691a966"
+    },
+    {
+      "chapter": 4,
+      "verse_count": 16,
+      "sha256": "a43a3a6a677ce542a72d149a0f18b52276fb1047a77e59156e50a987e7a770b9"
+    },
+    {
+      "chapter": 5,
+      "verse_count": 20,
+      "sha256": "34e264c9b7e481049eb8a4e6b79aa364ba9d8b0837b0daf82514f8efc3800a2a"
+    },
+    {
+      "chapter": 6,
+      "verse_count": 12,
+      "sha256": "927ce6ce06af0e92c68f3e1fd18841d052cd33005c3f244e14bfec272ec18417"
+    },
+    {
+      "chapter": 7,
+      "verse_count": 29,
+      "sha256": "15fe7cfa46a5dac1b31a6f9b2f558b4893b6e594794842b2a21593025de134be"
+    },
+    {
+      "chapter": 8,
+      "verse_count": 17,
+      "sha256": "77a1cd8258e70bf6d3472800cfd3bf6a8edce89fccdacb464ee0314e1f43ff3f"
+    },
+    {
+      "chapter": 9,
+      "verse_count": 18,
+      "sha256": "eaf3533127be79247ff00558b4bc6110a23eda9ef86153b7ab0abb023f86483e"
+    },
+    {
+      "chapter": 10,
+      "verse_count": 20,
+      "sha256": "4802535077695d85986b8e0b2b74cd8994d89d9f0a5466bfb15a79d12ec67113"
+    },
+    {
+      "chapter": 11,
+      "verse_count": 10,
+      "sha256": "90306be4e66557a31a5ea2ebe965847f2221ccd898cd3aa9cd9d4c98434057a3"
+    },
+    {
+      "chapter": 12,
+      "verse_count": 14,
+      "sha256": "a87b20d88326f6d9d37a7ff17d6419506acfc0fea79a3b3ac36b39d24cfdb933"
+    }
+  ]
+}

@@ -1,0 +1,452 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "KJV1769",
+  "book_code": "EXO",
+  "chapter": 5,
+  "verses": [
+    {
+      "id": "EXO.5.1",
+      "edition_verse_id": "KJV1769:EXO.5.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "And afterward Moses and Aaron went in, and told Pharaoh, Thus saith the LORD God of Israel, Let my people go, that they may hold a feast unto me in the wilderness.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EXO.5.2",
+      "edition_verse_id": "KJV1769:EXO.5.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "And Pharaoh said, Who ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " the LORD, that I should obey his voice to let Israel go? I know not the LORD, neither will I let Israel go.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.5.3",
+      "edition_verse_id": "KJV1769:EXO.5.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "And they said, The God of the Hebrews hath met with us: let us go, we pray thee, three days’ journey into the desert, and sacrifice unto the LORD our God; lest he fall upon us with pestilence, or with the sword.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EXO.5.4",
+      "edition_verse_id": "KJV1769:EXO.5.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "And the king of Egypt said unto them, Wherefore do ye, Moses and Aaron, let the people from their works? get you unto your burdens.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.5.5",
+      "edition_verse_id": "KJV1769:EXO.5.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "And Pharaoh said, Behold, the people of the land now ",
+          "kind": "text"
+        },
+        {
+          "text": "are",
+          "kind": "supplied"
+        },
+        {
+          "text": " many, and ye make them rest from their burdens.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.5.6",
+      "edition_verse_id": "KJV1769:EXO.5.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "And Pharaoh commanded the same day the taskmasters of the people, and their officers, saying,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.5.7",
+      "edition_verse_id": "KJV1769:EXO.5.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "Ye shall no more give the people straw to make brick, as heretofore: let them go and gather straw for themselves.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.5.8",
+      "edition_verse_id": "KJV1769:EXO.5.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "And the tale of the bricks, which they did make heretofore, ye shall lay upon them; ye shall not diminish ",
+          "kind": "text"
+        },
+        {
+          "text": "ought",
+          "kind": "supplied"
+        },
+        {
+          "text": " thereof: for they ",
+          "kind": "text"
+        },
+        {
+          "text": "be",
+          "kind": "supplied"
+        },
+        {
+          "text": " idle; therefore they cry, saying, Let us go ",
+          "kind": "text"
+        },
+        {
+          "text": "and",
+          "kind": "supplied"
+        },
+        {
+          "text": " sacrifice to our God.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.5.9",
+      "edition_verse_id": "KJV1769:EXO.5.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "Let there more work be laid upon the men, that they may labour therein; and let them not regard vain words.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.5.10",
+      "edition_verse_id": "KJV1769:EXO.5.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "¶ And the taskmasters of the people went out, and their officers, and they spake to the people, saying, Thus saith Pharaoh, I will not give you straw.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EXO.5.11",
+      "edition_verse_id": "KJV1769:EXO.5.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "Go ye, get you straw where ye can find it: yet not ought of your work shall be diminished.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.5.12",
+      "edition_verse_id": "KJV1769:EXO.5.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "So the people were scattered abroad throughout all the land of Egypt to gather stubble instead of straw.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.5.13",
+      "edition_verse_id": "KJV1769:EXO.5.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "And the taskmasters hasted ",
+          "kind": "text"
+        },
+        {
+          "text": "them",
+          "kind": "supplied"
+        },
+        {
+          "text": ", saying, Fulfil your works, ",
+          "kind": "text"
+        },
+        {
+          "text": "your",
+          "kind": "supplied"
+        },
+        {
+          "text": " daily tasks, as when there was straw.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.5.14",
+      "edition_verse_id": "KJV1769:EXO.5.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "And the officers of the children of Israel, which Pharaoh’s taskmasters had set over them, were beaten, ",
+          "kind": "text"
+        },
+        {
+          "text": "and",
+          "kind": "supplied"
+        },
+        {
+          "text": " demanded, Wherefore have ye not fulfilled your task in making brick both yesterday and to day, as heretofore?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.5.15",
+      "edition_verse_id": "KJV1769:EXO.5.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "¶ Then the officers of the children of Israel came and cried unto Pharaoh, saying, Wherefore dealest thou thus with thy servants?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EXO.5.16",
+      "edition_verse_id": "KJV1769:EXO.5.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "There is no straw given unto thy servants, and they say to us, Make brick: and, behold, thy servants ",
+          "kind": "text"
+        },
+        {
+          "text": "are",
+          "kind": "supplied"
+        },
+        {
+          "text": " beaten; but the fault ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " in thine own people.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.5.17",
+      "edition_verse_id": "KJV1769:EXO.5.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "But he said, Ye ",
+          "kind": "text"
+        },
+        {
+          "text": "are",
+          "kind": "supplied"
+        },
+        {
+          "text": " idle, ",
+          "kind": "text"
+        },
+        {
+          "text": "ye are",
+          "kind": "supplied"
+        },
+        {
+          "text": " idle: therefore ye say, Let us go ",
+          "kind": "text"
+        },
+        {
+          "text": "and",
+          "kind": "supplied"
+        },
+        {
+          "text": " do sacrifice to the LORD.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.5.18",
+      "edition_verse_id": "KJV1769:EXO.5.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "Go therefore now, ",
+          "kind": "text"
+        },
+        {
+          "text": "and",
+          "kind": "supplied"
+        },
+        {
+          "text": " work; for there shall no straw be given you, yet shall ye deliver the tale of bricks.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.5.19",
+      "edition_verse_id": "KJV1769:EXO.5.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "And the officers of the children of Israel did see ",
+          "kind": "text"
+        },
+        {
+          "text": "that",
+          "kind": "supplied"
+        },
+        {
+          "text": " they ",
+          "kind": "text"
+        },
+        {
+          "text": "were",
+          "kind": "supplied"
+        },
+        {
+          "text": " in evil ",
+          "kind": "text"
+        },
+        {
+          "text": "case",
+          "kind": "supplied"
+        },
+        {
+          "text": ", after it was said, Ye shall not minish ",
+          "kind": "text"
+        },
+        {
+          "text": "ought",
+          "kind": "supplied"
+        },
+        {
+          "text": " from your bricks of your daily task.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.5.20",
+      "edition_verse_id": "KJV1769:EXO.5.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "¶ And they met Moses and Aaron, who stood in the way, as they came forth from Pharaoh:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EXO.5.21",
+      "edition_verse_id": "KJV1769:EXO.5.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "And they said unto them, The LORD look upon you, and judge; because ye have made our savour to be abhorred in the eyes of Pharaoh, and in the eyes of his servants, to put a sword in their hand to slay us.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.5.22",
+      "edition_verse_id": "KJV1769:EXO.5.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "And Moses returned unto the LORD, and said, Lord, wherefore hast thou ",
+          "kind": "text"
+        },
+        {
+          "text": "so",
+          "kind": "supplied"
+        },
+        {
+          "text": " evil entreated this people? why ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " it ",
+          "kind": "text"
+        },
+        {
+          "text": "that",
+          "kind": "supplied"
+        },
+        {
+          "text": " thou hast sent me?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.5.23",
+      "edition_verse_id": "KJV1769:EXO.5.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "For since I came to Pharaoh to speak in thy name, he hath done evil to this people; neither hast thou delivered thy people at all.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

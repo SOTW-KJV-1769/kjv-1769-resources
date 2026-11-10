@@ -1,0 +1,924 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "KJV1769",
+  "book_code": "EXO",
+  "chapter": 12,
+  "verses": [
+    {
+      "id": "EXO.12.1",
+      "edition_verse_id": "KJV1769:EXO.12.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "And the LORD spake unto Moses and Aaron in the land of Egypt, saying,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EXO.12.2",
+      "edition_verse_id": "KJV1769:EXO.12.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "This month ",
+          "kind": "text"
+        },
+        {
+          "text": "shall be",
+          "kind": "supplied"
+        },
+        {
+          "text": " unto you the beginning of months: it ",
+          "kind": "text"
+        },
+        {
+          "text": "shall be",
+          "kind": "supplied"
+        },
+        {
+          "text": " the first month of the year to you.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.12.3",
+      "edition_verse_id": "KJV1769:EXO.12.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "¶ Speak ye unto all the congregation of Israel, saying, In the tenth ",
+          "kind": "text"
+        },
+        {
+          "text": "day",
+          "kind": "supplied"
+        },
+        {
+          "text": " of this month they shall take to them every man a lamb, according to the house of ",
+          "kind": "text"
+        },
+        {
+          "text": "their",
+          "kind": "supplied"
+        },
+        {
+          "text": " fathers, a lamb for an house:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EXO.12.4",
+      "edition_verse_id": "KJV1769:EXO.12.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "And if the household be too little for the lamb, let him and his neighbour next unto his house take ",
+          "kind": "text"
+        },
+        {
+          "text": "it",
+          "kind": "supplied"
+        },
+        {
+          "text": " according to the number of the souls; every man according to his eating shall make your count for the lamb.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.12.5",
+      "edition_verse_id": "KJV1769:EXO.12.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "Your lamb shall be without blemish, a male of the first year: ye shall take ",
+          "kind": "text"
+        },
+        {
+          "text": "it",
+          "kind": "supplied"
+        },
+        {
+          "text": " out from the sheep, or from the goats:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.12.6",
+      "edition_verse_id": "KJV1769:EXO.12.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "And ye shall keep it up until the fourteenth day of the same month: and the whole assembly of the congregation of Israel shall kill it in the evening.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.12.7",
+      "edition_verse_id": "KJV1769:EXO.12.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "And they shall take of the blood, and strike ",
+          "kind": "text"
+        },
+        {
+          "text": "it",
+          "kind": "supplied"
+        },
+        {
+          "text": " on the two side posts and on the upper door post of the houses, wherein they shall eat it.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.12.8",
+      "edition_verse_id": "KJV1769:EXO.12.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "And they shall eat the flesh in that night, roast with fire, and unleavened bread; ",
+          "kind": "text"
+        },
+        {
+          "text": "and",
+          "kind": "supplied"
+        },
+        {
+          "text": " with bitter ",
+          "kind": "text"
+        },
+        {
+          "text": "herbs",
+          "kind": "supplied"
+        },
+        {
+          "text": " they shall eat it.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.12.9",
+      "edition_verse_id": "KJV1769:EXO.12.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "Eat not of it raw, nor sodden at all with water, but roast ",
+          "kind": "text"
+        },
+        {
+          "text": "with",
+          "kind": "supplied"
+        },
+        {
+          "text": " fire; his head with his legs, and with the purtenance thereof.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.12.10",
+      "edition_verse_id": "KJV1769:EXO.12.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "And ye shall let nothing of it remain until the morning; and that which remaineth of it until the morning ye shall burn with fire.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.12.11",
+      "edition_verse_id": "KJV1769:EXO.12.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "¶ And thus shall ye eat it; ",
+          "kind": "text"
+        },
+        {
+          "text": "with",
+          "kind": "supplied"
+        },
+        {
+          "text": " your loins girded, your shoes on your feet, and your staff in your hand; and ye shall eat it in haste: it ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " the LORD’s passover.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EXO.12.12",
+      "edition_verse_id": "KJV1769:EXO.12.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "For I will pass through the land of Egypt this night, and will smite all the firstborn in the land of Egypt, both man and beast; and against all the gods of Egypt I will execute judgment: I ",
+          "kind": "text"
+        },
+        {
+          "text": "am",
+          "kind": "supplied"
+        },
+        {
+          "text": " the LORD.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.12.13",
+      "edition_verse_id": "KJV1769:EXO.12.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "And the blood shall be to you for a token upon the houses where ye ",
+          "kind": "text"
+        },
+        {
+          "text": "are:",
+          "kind": "supplied"
+        },
+        {
+          "text": " and when I see the blood, I will pass over you, and the plague shall not be upon you to destroy ",
+          "kind": "text"
+        },
+        {
+          "text": "you",
+          "kind": "supplied"
+        },
+        {
+          "text": ", when I smite the land of Egypt.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.12.14",
+      "edition_verse_id": "KJV1769:EXO.12.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "And this day shall be unto you for a memorial; and ye shall keep it a feast to the LORD throughout your generations; ye shall keep it a feast by an ordinance for ever.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.12.15",
+      "edition_verse_id": "KJV1769:EXO.12.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "Seven days shall ye eat unleavened bread; even the first day ye shall put away leaven out of your houses: for whosoever eateth leavened bread from the first day until the seventh day, that soul shall be cut off from Israel.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.12.16",
+      "edition_verse_id": "KJV1769:EXO.12.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "And in the first day ",
+          "kind": "text"
+        },
+        {
+          "text": "there shall be",
+          "kind": "supplied"
+        },
+        {
+          "text": " an holy convocation, and in the seventh day there shall be an holy convocation to you; no manner of work shall be done in them, save ",
+          "kind": "text"
+        },
+        {
+          "text": "that",
+          "kind": "supplied"
+        },
+        {
+          "text": " which every man must eat, that only may be done of you.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.12.17",
+      "edition_verse_id": "KJV1769:EXO.12.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "And ye shall observe ",
+          "kind": "text"
+        },
+        {
+          "text": "the feast of",
+          "kind": "supplied"
+        },
+        {
+          "text": " unleavened bread; for in this selfsame day have I brought your armies out of the land of Egypt: therefore shall ye observe this day in your generations by an ordinance for ever.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.12.18",
+      "edition_verse_id": "KJV1769:EXO.12.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "¶ In the first ",
+          "kind": "text"
+        },
+        {
+          "text": "month",
+          "kind": "supplied"
+        },
+        {
+          "text": ", on the fourteenth day of the month at even, ye shall eat unleavened bread, until the one and twentieth day of the month at even.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EXO.12.19",
+      "edition_verse_id": "KJV1769:EXO.12.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "Seven days shall there be no leaven found in your houses: for whosoever eateth that which is leavened, even that soul shall be cut off from the congregation of Israel, whether he be a stranger, or born in the land.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.12.20",
+      "edition_verse_id": "KJV1769:EXO.12.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "Ye shall eat nothing leavened; in all your habitations shall ye eat unleavened bread.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.12.21",
+      "edition_verse_id": "KJV1769:EXO.12.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "¶ Then Moses called for all the elders of Israel, and said unto them, Draw out and take you a lamb according to your families, and kill the passover.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EXO.12.22",
+      "edition_verse_id": "KJV1769:EXO.12.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "And ye shall take a bunch of hyssop, and dip ",
+          "kind": "text"
+        },
+        {
+          "text": "it",
+          "kind": "supplied"
+        },
+        {
+          "text": " in the blood that ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " in the bason, and strike the lintel and the two side posts with the blood that ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " in the bason; and none of you shall go out at the door of his house until the morning.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.12.23",
+      "edition_verse_id": "KJV1769:EXO.12.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "For the LORD will pass through to smite the Egyptians; and when he seeth the blood upon the lintel, and on the two side posts, the LORD will pass over the door, and will not suffer the destroyer to come in unto your houses to smite ",
+          "kind": "text"
+        },
+        {
+          "text": "you",
+          "kind": "supplied"
+        },
+        {
+          "text": ".",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.12.24",
+      "edition_verse_id": "KJV1769:EXO.12.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "And ye shall observe this thing for an ordinance to thee and to thy sons for ever.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.12.25",
+      "edition_verse_id": "KJV1769:EXO.12.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "And it shall come to pass, when ye be come to the land which the LORD will give you, according as he hath promised, that ye shall keep this service.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.12.26",
+      "edition_verse_id": "KJV1769:EXO.12.26",
+      "verse": 26,
+      "spans": [
+        {
+          "text": "And it shall come to pass, when your children shall say unto you, What mean ye by this service?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.12.27",
+      "edition_verse_id": "KJV1769:EXO.12.27",
+      "verse": 27,
+      "spans": [
+        {
+          "text": "That ye shall say, It ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " the sacrifice of the LORD’s passover, who passed over the houses of the children of Israel in Egypt, when he smote the Egyptians, and delivered our houses. And the people bowed the head and worshipped.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.12.28",
+      "edition_verse_id": "KJV1769:EXO.12.28",
+      "verse": 28,
+      "spans": [
+        {
+          "text": "And the children of Israel went away, and did as the LORD had commanded Moses and Aaron, so did they.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.12.29",
+      "edition_verse_id": "KJV1769:EXO.12.29",
+      "verse": 29,
+      "spans": [
+        {
+          "text": "¶ And it came to pass, that at midnight the LORD smote all the firstborn in the land of Egypt, from the firstborn of Pharaoh that sat on his throne unto the firstborn of the captive that ",
+          "kind": "text"
+        },
+        {
+          "text": "was",
+          "kind": "supplied"
+        },
+        {
+          "text": " in the dungeon; and all the firstborn of cattle.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EXO.12.30",
+      "edition_verse_id": "KJV1769:EXO.12.30",
+      "verse": 30,
+      "spans": [
+        {
+          "text": "And Pharaoh rose up in the night, he, and all his servants, and all the Egyptians; and there was a great cry in Egypt; for ",
+          "kind": "text"
+        },
+        {
+          "text": "there was",
+          "kind": "supplied"
+        },
+        {
+          "text": " not a house where ",
+          "kind": "text"
+        },
+        {
+          "text": "there was",
+          "kind": "supplied"
+        },
+        {
+          "text": " not one dead.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.12.31",
+      "edition_verse_id": "KJV1769:EXO.12.31",
+      "verse": 31,
+      "spans": [
+        {
+          "text": "¶ And he called for Moses and Aaron by night, and said, Rise up, ",
+          "kind": "text"
+        },
+        {
+          "text": "and",
+          "kind": "supplied"
+        },
+        {
+          "text": " get you forth from among my people, both ye and the children of Israel; and go, serve the LORD, as ye have said.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EXO.12.32",
+      "edition_verse_id": "KJV1769:EXO.12.32",
+      "verse": 32,
+      "spans": [
+        {
+          "text": "Also take your flocks and your herds, as ye have said, and be gone; and bless me also.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.12.33",
+      "edition_verse_id": "KJV1769:EXO.12.33",
+      "verse": 33,
+      "spans": [
+        {
+          "text": "And the Egyptians were urgent upon the people, that they might send them out of the land in haste; for they said, We ",
+          "kind": "text"
+        },
+        {
+          "text": "be",
+          "kind": "supplied"
+        },
+        {
+          "text": " all dead ",
+          "kind": "text"
+        },
+        {
+          "text": "men",
+          "kind": "supplied"
+        },
+        {
+          "text": ".",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.12.34",
+      "edition_verse_id": "KJV1769:EXO.12.34",
+      "verse": 34,
+      "spans": [
+        {
+          "text": "And the people took their dough before it was leavened, their kneadingtroughs being bound up in their clothes upon their shoulders.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.12.35",
+      "edition_verse_id": "KJV1769:EXO.12.35",
+      "verse": 35,
+      "spans": [
+        {
+          "text": "And the children of Israel did according to the word of Moses; and they borrowed of the Egyptians jewels of silver, and jewels of gold, and raiment:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.12.36",
+      "edition_verse_id": "KJV1769:EXO.12.36",
+      "verse": 36,
+      "spans": [
+        {
+          "text": "And the LORD gave the people favour in the sight of the Egyptians, so that they lent unto them ",
+          "kind": "text"
+        },
+        {
+          "text": "such things as they required",
+          "kind": "supplied"
+        },
+        {
+          "text": ". And they spoiled the Egyptians.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.12.37",
+      "edition_verse_id": "KJV1769:EXO.12.37",
+      "verse": 37,
+      "spans": [
+        {
+          "text": "¶ And the children of Israel journeyed from Rameses to Succoth, about six hundred thousand on foot ",
+          "kind": "text"
+        },
+        {
+          "text": "that were",
+          "kind": "supplied"
+        },
+        {
+          "text": " men, beside children.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EXO.12.38",
+      "edition_verse_id": "KJV1769:EXO.12.38",
+      "verse": 38,
+      "spans": [
+        {
+          "text": "And a mixed multitude went up also with them; and flocks, and herds, ",
+          "kind": "text"
+        },
+        {
+          "text": "even",
+          "kind": "supplied"
+        },
+        {
+          "text": " very much cattle.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.12.39",
+      "edition_verse_id": "KJV1769:EXO.12.39",
+      "verse": 39,
+      "spans": [
+        {
+          "text": "And they baked unleavened cakes of the dough which they brought forth out of Egypt, for it was not leavened; because they were thrust out of Egypt, and could not tarry, neither had they prepared for themselves any victual.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.12.40",
+      "edition_verse_id": "KJV1769:EXO.12.40",
+      "verse": 40,
+      "spans": [
+        {
+          "text": "¶ Now the sojourning of the children of Israel, who dwelt in Egypt, ",
+          "kind": "text"
+        },
+        {
+          "text": "was",
+          "kind": "supplied"
+        },
+        {
+          "text": " four hundred and thirty years.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EXO.12.41",
+      "edition_verse_id": "KJV1769:EXO.12.41",
+      "verse": 41,
+      "spans": [
+        {
+          "text": "And it came to pass at the end of the four hundred and thirty years, even the selfsame day it came to pass, that all the hosts of the LORD went out from the land of Egypt.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.12.42",
+      "edition_verse_id": "KJV1769:EXO.12.42",
+      "verse": 42,
+      "spans": [
+        {
+          "text": "It ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " a night to be much observed unto the LORD for bringing them out from the land of Egypt: this ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " that night of the LORD to be observed of all the children of Israel in their generations.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.12.43",
+      "edition_verse_id": "KJV1769:EXO.12.43",
+      "verse": 43,
+      "spans": [
+        {
+          "text": "¶ And the LORD said unto Moses and Aaron, This ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " the ordinance of the passover: There shall no stranger eat thereof:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EXO.12.44",
+      "edition_verse_id": "KJV1769:EXO.12.44",
+      "verse": 44,
+      "spans": [
+        {
+          "text": "But every man’s servant that is bought for money, when thou hast circumcised him, then shall he eat thereof.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.12.45",
+      "edition_verse_id": "KJV1769:EXO.12.45",
+      "verse": 45,
+      "spans": [
+        {
+          "text": "A foreigner and an hired servant shall not eat thereof.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.12.46",
+      "edition_verse_id": "KJV1769:EXO.12.46",
+      "verse": 46,
+      "spans": [
+        {
+          "text": "In one house shall it be eaten; thou shalt not carry forth ought of the flesh abroad out of the house; neither shall ye break a bone thereof.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.12.47",
+      "edition_verse_id": "KJV1769:EXO.12.47",
+      "verse": 47,
+      "spans": [
+        {
+          "text": "All the congregation of Israel shall keep it.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.12.48",
+      "edition_verse_id": "KJV1769:EXO.12.48",
+      "verse": 48,
+      "spans": [
+        {
+          "text": "And when a stranger shall sojourn with thee, and will keep the passover to the LORD, let all his males be circumcised, and then let him come near and keep it; and he shall be as one that is born in the land: for no uncircumcised person shall eat thereof.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.12.49",
+      "edition_verse_id": "KJV1769:EXO.12.49",
+      "verse": 49,
+      "spans": [
+        {
+          "text": "One law shall be to him that is homeborn, and unto the stranger that sojourneth among you.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.12.50",
+      "edition_verse_id": "KJV1769:EXO.12.50",
+      "verse": 50,
+      "spans": [
+        {
+          "text": "Thus did all the children of Israel; as the LORD commanded Moses and Aaron, so did they.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.12.51",
+      "edition_verse_id": "KJV1769:EXO.12.51",
+      "verse": 51,
+      "spans": [
+        {
+          "text": "And it came to pass the selfsame day, ",
+          "kind": "text"
+        },
+        {
+          "text": "that",
+          "kind": "supplied"
+        },
+        {
+          "text": " the LORD did bring the children of Israel out of the land of Egypt by their armies.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

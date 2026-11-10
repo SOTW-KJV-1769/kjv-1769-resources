@@ -1,0 +1,392 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "KJV1769",
+  "book_code": "DEU",
+  "chapter": 18,
+  "verses": [
+    {
+      "id": "DEU.18.1",
+      "edition_verse_id": "KJV1769:DEU.18.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "The priests the Levites, ",
+          "kind": "text"
+        },
+        {
+          "text": "and",
+          "kind": "supplied"
+        },
+        {
+          "text": " all the tribe of Levi, shall have no part nor inheritance with Israel: they shall eat the offerings of the LORD made by fire, and his inheritance.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "DEU.18.2",
+      "edition_verse_id": "KJV1769:DEU.18.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "Therefore shall they have no inheritance among their brethren: the LORD ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " their inheritance, as he hath said unto them.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.18.3",
+      "edition_verse_id": "KJV1769:DEU.18.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "¶ And this shall be the priest’s due from the people, from them that offer a sacrifice, whether ",
+          "kind": "text"
+        },
+        {
+          "text": "it be",
+          "kind": "supplied"
+        },
+        {
+          "text": " ox or sheep; and they shall give unto the priest the shoulder, and the two cheeks, and the maw.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "DEU.18.4",
+      "edition_verse_id": "KJV1769:DEU.18.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "The firstfruit ",
+          "kind": "text"
+        },
+        {
+          "text": "also",
+          "kind": "supplied"
+        },
+        {
+          "text": " of thy corn, of thy wine, and of thine oil, and the first of the fleece of thy sheep, shalt thou give him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.18.5",
+      "edition_verse_id": "KJV1769:DEU.18.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "For the LORD thy God hath chosen him out of all thy tribes, to stand to minister in the name of the LORD, him and his sons for ever.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.18.6",
+      "edition_verse_id": "KJV1769:DEU.18.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "¶ And if a Levite come from any of thy gates out of all Israel, where he sojourned, and come with all the desire of his mind unto the place which the LORD shall choose;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "DEU.18.7",
+      "edition_verse_id": "KJV1769:DEU.18.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "Then he shall minister in the name of the LORD his God, as all his brethren the Levites ",
+          "kind": "text"
+        },
+        {
+          "text": "do",
+          "kind": "supplied"
+        },
+        {
+          "text": ", which stand there before the LORD.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.18.8",
+      "edition_verse_id": "KJV1769:DEU.18.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "They shall have like portions to eat, beside that which cometh of the sale of his patrimony.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.18.9",
+      "edition_verse_id": "KJV1769:DEU.18.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "¶ When thou art come into the land which the LORD thy God giveth thee, thou shalt not learn to do after the abominations of those nations.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "DEU.18.10",
+      "edition_verse_id": "KJV1769:DEU.18.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "There shall not be found among you ",
+          "kind": "text"
+        },
+        {
+          "text": "any one",
+          "kind": "supplied"
+        },
+        {
+          "text": " that maketh his son or his daughter to pass through the fire, ",
+          "kind": "text"
+        },
+        {
+          "text": "or",
+          "kind": "supplied"
+        },
+        {
+          "text": " that useth divination, ",
+          "kind": "text"
+        },
+        {
+          "text": "or",
+          "kind": "supplied"
+        },
+        {
+          "text": " an observer of times, or an enchanter, or a witch,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.18.11",
+      "edition_verse_id": "KJV1769:DEU.18.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "Or a charmer, or a consulter with familiar spirits, or a wizard, or a necromancer.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.18.12",
+      "edition_verse_id": "KJV1769:DEU.18.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "For all that do these things ",
+          "kind": "text"
+        },
+        {
+          "text": "are",
+          "kind": "supplied"
+        },
+        {
+          "text": " an abomination unto the LORD: and because of these abominations the LORD thy God doth drive them out from before thee.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.18.13",
+      "edition_verse_id": "KJV1769:DEU.18.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "Thou shalt be perfect with the LORD thy God.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.18.14",
+      "edition_verse_id": "KJV1769:DEU.18.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "For these nations, which thou shalt possess, hearkened unto observers of times, and unto diviners: but as for thee, the LORD thy God hath not suffered thee so ",
+          "kind": "text"
+        },
+        {
+          "text": "to do",
+          "kind": "supplied"
+        },
+        {
+          "text": ".",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.18.15",
+      "edition_verse_id": "KJV1769:DEU.18.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "¶ The LORD thy God will raise up unto thee a Prophet from the midst of thee, of thy brethren, like unto me; unto him ye shall hearken;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "DEU.18.16",
+      "edition_verse_id": "KJV1769:DEU.18.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "According to all that thou desiredst of the LORD thy God in Horeb in the day of the assembly, saying, Let me not hear again the voice of the LORD my God, neither let me see this great fire any more, that I die not.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.18.17",
+      "edition_verse_id": "KJV1769:DEU.18.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "And the LORD said unto me, They have well ",
+          "kind": "text"
+        },
+        {
+          "text": "spoken that",
+          "kind": "supplied"
+        },
+        {
+          "text": " which they have spoken.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.18.18",
+      "edition_verse_id": "KJV1769:DEU.18.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "I will raise them up a Prophet from among their brethren, like unto thee, and will put my words in his mouth; and he shall speak unto them all that I shall command him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.18.19",
+      "edition_verse_id": "KJV1769:DEU.18.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "And it shall come to pass, ",
+          "kind": "text"
+        },
+        {
+          "text": "that",
+          "kind": "supplied"
+        },
+        {
+          "text": " whosoever will not hearken unto my words which he shall speak in my name, I will require ",
+          "kind": "text"
+        },
+        {
+          "text": "it",
+          "kind": "supplied"
+        },
+        {
+          "text": " of him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.18.20",
+      "edition_verse_id": "KJV1769:DEU.18.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "But the prophet, which shall presume to speak a word in my name, which I have not commanded him to speak, or that shall speak in the name of other gods, even that prophet shall die.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.18.21",
+      "edition_verse_id": "KJV1769:DEU.18.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "And if thou say in thine heart, How shall we know the word which the LORD hath not spoken?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.18.22",
+      "edition_verse_id": "KJV1769:DEU.18.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "When a prophet speaketh in the name of the LORD, if the thing follow not, nor come to pass, that ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " the thing which the LORD hath not spoken, ",
+          "kind": "text"
+        },
+        {
+          "text": "but",
+          "kind": "supplied"
+        },
+        {
+          "text": " the prophet hath spoken it presumptuously: thou shalt not be afraid of him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

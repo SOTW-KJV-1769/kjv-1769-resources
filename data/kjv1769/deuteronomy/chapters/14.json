@@ -1,0 +1,536 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "KJV1769",
+  "book_code": "DEU",
+  "chapter": 14,
+  "verses": [
+    {
+      "id": "DEU.14.1",
+      "edition_verse_id": "KJV1769:DEU.14.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "Ye ",
+          "kind": "text"
+        },
+        {
+          "text": "are",
+          "kind": "supplied"
+        },
+        {
+          "text": " the children of the LORD your God: ye shall not cut yourselves, nor make any baldness between your eyes for the dead.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "DEU.14.2",
+      "edition_verse_id": "KJV1769:DEU.14.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "For thou ",
+          "kind": "text"
+        },
+        {
+          "text": "art",
+          "kind": "supplied"
+        },
+        {
+          "text": " an holy people unto the LORD thy God, and the LORD hath chosen thee to be a peculiar people unto himself, above all the nations that ",
+          "kind": "text"
+        },
+        {
+          "text": "are",
+          "kind": "supplied"
+        },
+        {
+          "text": " upon the earth.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.14.3",
+      "edition_verse_id": "KJV1769:DEU.14.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "¶ Thou shalt not eat any abominable thing.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "DEU.14.4",
+      "edition_verse_id": "KJV1769:DEU.14.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "These ",
+          "kind": "text"
+        },
+        {
+          "text": "are",
+          "kind": "supplied"
+        },
+        {
+          "text": " the beasts which ye shall eat: the ox, the sheep, and the goat,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.14.5",
+      "edition_verse_id": "KJV1769:DEU.14.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "The hart, and the roebuck, and the fallow deer, and the wild goat, and the pygarg, and the wild ox, and the chamois.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.14.6",
+      "edition_verse_id": "KJV1769:DEU.14.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "And every beast that parteth the hoof, and cleaveth the cleft into two claws, ",
+          "kind": "text"
+        },
+        {
+          "text": "and",
+          "kind": "supplied"
+        },
+        {
+          "text": " cheweth the cud among the beasts, that ye shall eat.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.14.7",
+      "edition_verse_id": "KJV1769:DEU.14.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "Nevertheless these ye shall not eat of them that chew the cud, or of them that divide the cloven hoof; ",
+          "kind": "text"
+        },
+        {
+          "text": "as",
+          "kind": "supplied"
+        },
+        {
+          "text": " the camel, and the hare, and the coney: for they chew the cud, but divide not the hoof; ",
+          "kind": "text"
+        },
+        {
+          "text": "therefore",
+          "kind": "supplied"
+        },
+        {
+          "text": " they ",
+          "kind": "text"
+        },
+        {
+          "text": "are",
+          "kind": "supplied"
+        },
+        {
+          "text": " unclean unto you.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.14.8",
+      "edition_verse_id": "KJV1769:DEU.14.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "And the swine, because it divideth the hoof, yet cheweth not the cud, it ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " unclean unto you: ye shall not eat of their flesh, nor touch their dead carcase.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.14.9",
+      "edition_verse_id": "KJV1769:DEU.14.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "¶ These ye shall eat of all that ",
+          "kind": "text"
+        },
+        {
+          "text": "are",
+          "kind": "supplied"
+        },
+        {
+          "text": " in the waters: all that have fins and scales shall ye eat:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "DEU.14.10",
+      "edition_verse_id": "KJV1769:DEU.14.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "And whatsoever hath not fins and scales ye may not eat; it ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " unclean unto you.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.14.11",
+      "edition_verse_id": "KJV1769:DEU.14.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "¶ ",
+          "kind": "text"
+        },
+        {
+          "text": "Of",
+          "kind": "supplied"
+        },
+        {
+          "text": " all clean birds ye shall eat.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "DEU.14.12",
+      "edition_verse_id": "KJV1769:DEU.14.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "But these ",
+          "kind": "text"
+        },
+        {
+          "text": "are they",
+          "kind": "supplied"
+        },
+        {
+          "text": " of which ye shall not eat: the eagle, and the ossifrage, and the ospray,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.14.13",
+      "edition_verse_id": "KJV1769:DEU.14.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "And the glede, and the kite, and the vulture after his kind,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.14.14",
+      "edition_verse_id": "KJV1769:DEU.14.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "And every raven after his kind,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.14.15",
+      "edition_verse_id": "KJV1769:DEU.14.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "And the owl, and the night hawk, and the cuckow, and the hawk after his kind,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.14.16",
+      "edition_verse_id": "KJV1769:DEU.14.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "The little owl, and the great owl, and the swan,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.14.17",
+      "edition_verse_id": "KJV1769:DEU.14.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "And the pelican, and the gier eagle, and the cormorant,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.14.18",
+      "edition_verse_id": "KJV1769:DEU.14.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "And the stork, and the heron after her kind, and the lapwing, and the bat.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.14.19",
+      "edition_verse_id": "KJV1769:DEU.14.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "And every creeping thing that flieth ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " unclean unto you: they shall not be eaten.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.14.20",
+      "edition_verse_id": "KJV1769:DEU.14.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "But of",
+          "kind": "supplied"
+        },
+        {
+          "text": " all clean fowls ye may eat.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.14.21",
+      "edition_verse_id": "KJV1769:DEU.14.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "¶ Ye shall not eat ",
+          "kind": "text"
+        },
+        {
+          "text": "of",
+          "kind": "supplied"
+        },
+        {
+          "text": " any thing that dieth of itself: thou shalt give it unto the stranger that ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " in thy gates, that he may eat it; or thou mayest sell it unto an alien: for thou ",
+          "kind": "text"
+        },
+        {
+          "text": "art",
+          "kind": "supplied"
+        },
+        {
+          "text": " an holy people unto the LORD thy God. Thou shalt not seethe a kid in his mother’s milk.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "DEU.14.22",
+      "edition_verse_id": "KJV1769:DEU.14.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "Thou shalt truly tithe all the increase of thy seed, that the field bringeth forth year by year.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "DEU.14.23",
+      "edition_verse_id": "KJV1769:DEU.14.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "And thou shalt eat before the LORD thy God, in the place which he shall choose to place his name there, the tithe of thy corn, of thy wine, and of thine oil, and the firstlings of thy herds and of thy flocks; that thou mayest learn to fear the LORD thy God always.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.14.24",
+      "edition_verse_id": "KJV1769:DEU.14.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "And if the way be too long for thee, so that thou art not able to carry it; ",
+          "kind": "text"
+        },
+        {
+          "text": "or",
+          "kind": "supplied"
+        },
+        {
+          "text": " if the place be too far from thee, which the LORD thy God shall choose to set his name there, when the LORD thy God hath blessed thee:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.14.25",
+      "edition_verse_id": "KJV1769:DEU.14.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "Then shalt thou turn ",
+          "kind": "text"
+        },
+        {
+          "text": "it",
+          "kind": "supplied"
+        },
+        {
+          "text": " into money, and bind up the money in thine hand, and shalt go unto the place which the LORD thy God shall choose:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.14.26",
+      "edition_verse_id": "KJV1769:DEU.14.26",
+      "verse": 26,
+      "spans": [
+        {
+          "text": "And thou shalt bestow that money for whatsoever thy soul lusteth after, for oxen, or for sheep, or for wine, or for strong drink, or for whatsoever thy soul desireth: and thou shalt eat there before the LORD thy God, and thou shalt rejoice, thou, and thine household,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.14.27",
+      "edition_verse_id": "KJV1769:DEU.14.27",
+      "verse": 27,
+      "spans": [
+        {
+          "text": "And the Levite that ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " within thy gates; thou shalt not forsake him; for he hath no part nor inheritance with thee.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.14.28",
+      "edition_verse_id": "KJV1769:DEU.14.28",
+      "verse": 28,
+      "spans": [
+        {
+          "text": "¶ At the end of three years thou shalt bring forth all the tithe of thine increase the same year, and shalt lay ",
+          "kind": "text"
+        },
+        {
+          "text": "it",
+          "kind": "supplied"
+        },
+        {
+          "text": " up within thy gates:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "DEU.14.29",
+      "edition_verse_id": "KJV1769:DEU.14.29",
+      "verse": 29,
+      "spans": [
+        {
+          "text": "And the Levite, (because he hath no part nor inheritance with thee,) and the stranger, and the fatherless, and the widow, which ",
+          "kind": "text"
+        },
+        {
+          "text": "are",
+          "kind": "supplied"
+        },
+        {
+          "text": " within thy gates, shall come, and shall eat and be satisfied; that the LORD thy God may bless thee in all the work of thine hand which thou doest.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

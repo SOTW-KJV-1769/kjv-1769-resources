@@ -1,0 +1,408 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "KJV1769",
+  "book_code": "DEU",
+  "chapter": 20,
+  "verses": [
+    {
+      "id": "DEU.20.1",
+      "edition_verse_id": "KJV1769:DEU.20.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "When thou goest out to battle against thine enemies, and seest horses, and chariots, ",
+          "kind": "text"
+        },
+        {
+          "text": "and",
+          "kind": "supplied"
+        },
+        {
+          "text": " a people more than thou, be not afraid of them: for the LORD thy God ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " with thee, which brought thee up out of the land of Egypt.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "DEU.20.2",
+      "edition_verse_id": "KJV1769:DEU.20.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "And it shall be, when ye are come nigh unto the battle, that the priest shall approach and speak unto the people,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.20.3",
+      "edition_verse_id": "KJV1769:DEU.20.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "And shall say unto them, Hear, O Israel, ye approach this day unto battle against your enemies: let not your hearts faint, fear not, and do not tremble, neither be ye terrified because of them;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.20.4",
+      "edition_verse_id": "KJV1769:DEU.20.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "For the LORD your God ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " he that goeth with you, to fight for you against your enemies, to save you.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.20.5",
+      "edition_verse_id": "KJV1769:DEU.20.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "¶ And the officers shall speak unto the people, saying, What man ",
+          "kind": "text"
+        },
+        {
+          "text": "is there",
+          "kind": "supplied"
+        },
+        {
+          "text": " that hath built a new house, and hath not dedicated it? let him go and return to his house, lest he die in the battle, and another man dedicate it.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "DEU.20.6",
+      "edition_verse_id": "KJV1769:DEU.20.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "And what man ",
+          "kind": "text"
+        },
+        {
+          "text": "is he",
+          "kind": "supplied"
+        },
+        {
+          "text": " that hath planted a vineyard, and hath not ",
+          "kind": "text"
+        },
+        {
+          "text": "yet",
+          "kind": "supplied"
+        },
+        {
+          "text": " eaten of it? let him ",
+          "kind": "text"
+        },
+        {
+          "text": "also",
+          "kind": "supplied"
+        },
+        {
+          "text": " go and return unto his house, lest he die in the battle, and another man eat of it.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.20.7",
+      "edition_verse_id": "KJV1769:DEU.20.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "And what man ",
+          "kind": "text"
+        },
+        {
+          "text": "is there",
+          "kind": "supplied"
+        },
+        {
+          "text": " that hath betrothed a wife, and hath not taken her? let him go and return unto his house, lest he die in the battle, and another man take her.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.20.8",
+      "edition_verse_id": "KJV1769:DEU.20.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "And the officers shall speak further unto the people, and they shall say, What man ",
+          "kind": "text"
+        },
+        {
+          "text": "is there that is",
+          "kind": "supplied"
+        },
+        {
+          "text": " fearful and fainthearted? let him go and return unto his house, lest his brethren’s heart faint as well as his heart.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.20.9",
+      "edition_verse_id": "KJV1769:DEU.20.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "And it shall be, when the officers have made an end of speaking unto the people, that they shall make captains of the armies to lead the people.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.20.10",
+      "edition_verse_id": "KJV1769:DEU.20.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "¶ When thou comest nigh unto a city to fight against it, then proclaim peace unto it.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "DEU.20.11",
+      "edition_verse_id": "KJV1769:DEU.20.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "And it shall be, if it make thee answer of peace, and open unto thee, then it shall be, ",
+          "kind": "text"
+        },
+        {
+          "text": "that",
+          "kind": "supplied"
+        },
+        {
+          "text": " all the people ",
+          "kind": "text"
+        },
+        {
+          "text": "that is",
+          "kind": "supplied"
+        },
+        {
+          "text": " found therein shall be tributaries unto thee, and they shall serve thee.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.20.12",
+      "edition_verse_id": "KJV1769:DEU.20.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "And if it will make no peace with thee, but will make war against thee, then thou shalt besiege it:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.20.13",
+      "edition_verse_id": "KJV1769:DEU.20.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "And when the LORD thy God hath delivered it into thine hands, thou shalt smite every male thereof with the edge of the sword:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.20.14",
+      "edition_verse_id": "KJV1769:DEU.20.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "But the women, and the little ones, and the cattle, and all that is in the city, ",
+          "kind": "text"
+        },
+        {
+          "text": "even",
+          "kind": "supplied"
+        },
+        {
+          "text": " all the spoil thereof, shalt thou take unto thyself; and thou shalt eat the spoil of thine enemies, which the LORD thy God hath given thee.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.20.15",
+      "edition_verse_id": "KJV1769:DEU.20.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "Thus shalt thou do unto all the cities ",
+          "kind": "text"
+        },
+        {
+          "text": "which are",
+          "kind": "supplied"
+        },
+        {
+          "text": " very far off from thee, which ",
+          "kind": "text"
+        },
+        {
+          "text": "are",
+          "kind": "supplied"
+        },
+        {
+          "text": " not of the cities of these nations.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.20.16",
+      "edition_verse_id": "KJV1769:DEU.20.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "But of the cities of these people, which the LORD thy God doth give thee ",
+          "kind": "text"
+        },
+        {
+          "text": "for",
+          "kind": "supplied"
+        },
+        {
+          "text": " an inheritance, thou shalt save alive nothing that breatheth:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.20.17",
+      "edition_verse_id": "KJV1769:DEU.20.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "But thou shalt utterly destroy them; ",
+          "kind": "text"
+        },
+        {
+          "text": "namely",
+          "kind": "supplied"
+        },
+        {
+          "text": ", the Hittites, and the Amorites, the Canaanites, and the Perizzites, the Hivites, and the Jebusites; as the LORD thy God hath commanded thee:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.20.18",
+      "edition_verse_id": "KJV1769:DEU.20.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "That they teach you not to do after all their abominations, which they have done unto their gods; so should ye sin against the LORD your God.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.20.19",
+      "edition_verse_id": "KJV1769:DEU.20.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "¶ When thou shalt besiege a city a long time, in making war against it to take it, thou shalt not destroy the trees thereof by forcing an axe against them: for thou mayest eat of them, and thou shalt not cut them down (for the tree of the field ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " man’s ",
+          "kind": "text"
+        },
+        {
+          "text": "life",
+          "kind": "supplied"
+        },
+        {
+          "text": ") to employ ",
+          "kind": "text"
+        },
+        {
+          "text": "them",
+          "kind": "supplied"
+        },
+        {
+          "text": " in the siege:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "DEU.20.20",
+      "edition_verse_id": "KJV1769:DEU.20.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "Only the trees which thou knowest that they ",
+          "kind": "text"
+        },
+        {
+          "text": "be",
+          "kind": "supplied"
+        },
+        {
+          "text": " not trees for meat, thou shalt destroy and cut them down; and thou shalt build bulwarks against the city that maketh war with thee, until it be subdued.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

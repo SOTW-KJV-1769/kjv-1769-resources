@@ -1,0 +1,368 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "KJV1769",
+  "book_code": "EXO",
+  "chapter": 13,
+  "verses": [
+    {
+      "id": "EXO.13.1",
+      "edition_verse_id": "KJV1769:EXO.13.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "And the LORD spake unto Moses, saying,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EXO.13.2",
+      "edition_verse_id": "KJV1769:EXO.13.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "Sanctify unto me all the firstborn, whatsoever openeth the womb among the children of Israel, ",
+          "kind": "text"
+        },
+        {
+          "text": "both",
+          "kind": "supplied"
+        },
+        {
+          "text": " of man and of beast: it ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " mine.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.13.3",
+      "edition_verse_id": "KJV1769:EXO.13.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "¶ And Moses said unto the people, Remember this day, in which ye came out from Egypt, out of the house of bondage; for by strength of hand the LORD brought you out from this ",
+          "kind": "text"
+        },
+        {
+          "text": "place:",
+          "kind": "supplied"
+        },
+        {
+          "text": " there shall no leavened bread be eaten.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EXO.13.4",
+      "edition_verse_id": "KJV1769:EXO.13.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "This day came ye out in the month Abib.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.13.5",
+      "edition_verse_id": "KJV1769:EXO.13.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "¶ And it shall be when the LORD shall bring thee into the land of the Canaanites, and the Hittites, and the Amorites, and the Hivites, and the Jebusites, which he sware unto thy fathers to give thee, a land flowing with milk and honey, that thou shalt keep this service in this month.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EXO.13.6",
+      "edition_verse_id": "KJV1769:EXO.13.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "Seven days thou shalt eat unleavened bread, and in the seventh day ",
+          "kind": "text"
+        },
+        {
+          "text": "shall be",
+          "kind": "supplied"
+        },
+        {
+          "text": " a feast to the LORD.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.13.7",
+      "edition_verse_id": "KJV1769:EXO.13.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "Unleavened bread shall be eaten seven days; and there shall no leavened bread be seen with thee, neither shall there be leaven seen with thee in all thy quarters.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.13.8",
+      "edition_verse_id": "KJV1769:EXO.13.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "¶ And thou shalt shew thy son in that day, saying, ",
+          "kind": "text"
+        },
+        {
+          "text": "This is done",
+          "kind": "supplied"
+        },
+        {
+          "text": " because of that ",
+          "kind": "text"
+        },
+        {
+          "text": "which",
+          "kind": "supplied"
+        },
+        {
+          "text": " the LORD did unto me when I came forth out of Egypt.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EXO.13.9",
+      "edition_verse_id": "KJV1769:EXO.13.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "And it shall be for a sign unto thee upon thine hand, and for a memorial between thine eyes, that the LORD’s law may be in thy mouth: for with a strong hand hath the LORD brought thee out of Egypt.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.13.10",
+      "edition_verse_id": "KJV1769:EXO.13.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "Thou shalt therefore keep this ordinance in his season from year to year.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.13.11",
+      "edition_verse_id": "KJV1769:EXO.13.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "¶ And it shall be when the LORD shall bring thee into the land of the Canaanites, as he sware unto thee and to thy fathers, and shall give it thee,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EXO.13.12",
+      "edition_verse_id": "KJV1769:EXO.13.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "That thou shalt set apart unto the LORD all that openeth the matrix, and every firstling that cometh of a beast which thou hast; the males ",
+          "kind": "text"
+        },
+        {
+          "text": "shall be",
+          "kind": "supplied"
+        },
+        {
+          "text": " the LORD’s.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.13.13",
+      "edition_verse_id": "KJV1769:EXO.13.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "And every firstling of an ass thou shalt redeem with a lamb; and if thou wilt not redeem it, then thou shalt break his neck: and all the firstborn of man among thy children shalt thou redeem.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.13.14",
+      "edition_verse_id": "KJV1769:EXO.13.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "¶ And it shall be when thy son asketh thee in time to come, saying, What ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " this? that thou shalt say unto him, By strength of hand the LORD brought us out from Egypt, from the house of bondage:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EXO.13.15",
+      "edition_verse_id": "KJV1769:EXO.13.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "And it came to pass, when Pharaoh would hardly let us go, that the LORD slew all the firstborn in the land of Egypt, both the firstborn of man, and the firstborn of beast: therefore I sacrifice to the LORD all that openeth the matrix, being males; but all the firstborn of my children I redeem.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.13.16",
+      "edition_verse_id": "KJV1769:EXO.13.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "And it shall be for a token upon thine hand, and for frontlets between thine eyes: for by strength of hand the LORD brought us forth out of Egypt.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.13.17",
+      "edition_verse_id": "KJV1769:EXO.13.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "¶ And it came to pass, when Pharaoh had let the people go, that God led them not ",
+          "kind": "text"
+        },
+        {
+          "text": "through",
+          "kind": "supplied"
+        },
+        {
+          "text": " the way of the land of the Philistines, although that ",
+          "kind": "text"
+        },
+        {
+          "text": "was",
+          "kind": "supplied"
+        },
+        {
+          "text": " near; for God said, Lest peradventure the people repent when they see war, and they return to Egypt:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EXO.13.18",
+      "edition_verse_id": "KJV1769:EXO.13.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "But God led the people about, ",
+          "kind": "text"
+        },
+        {
+          "text": "through",
+          "kind": "supplied"
+        },
+        {
+          "text": " the way of the wilderness of the Red sea: and the children of Israel went up harnessed out of the land of Egypt.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.13.19",
+      "edition_verse_id": "KJV1769:EXO.13.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "And Moses took the bones of Joseph with him: for he had straitly sworn the children of Israel, saying, God will surely visit you; and ye shall carry up my bones away hence with you.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.13.20",
+      "edition_verse_id": "KJV1769:EXO.13.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "¶ And they took their journey from Succoth, and encamped in Etham, in the edge of the wilderness.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EXO.13.21",
+      "edition_verse_id": "KJV1769:EXO.13.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "And the LORD went before them by day in a pillar of a cloud, to lead them the way; and by night in a pillar of fire, to give them light; to go by day and night:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.13.22",
+      "edition_verse_id": "KJV1769:EXO.13.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "He took not away the pillar of the cloud by day, nor the pillar of fire by night, ",
+          "kind": "text"
+        },
+        {
+          "text": "from",
+          "kind": "supplied"
+        },
+        {
+          "text": " before the people.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

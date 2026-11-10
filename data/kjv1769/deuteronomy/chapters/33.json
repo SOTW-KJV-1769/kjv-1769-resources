@@ -1,0 +1,700 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "KJV1769",
+  "book_code": "DEU",
+  "chapter": 33,
+  "verses": [
+    {
+      "id": "DEU.33.1",
+      "edition_verse_id": "KJV1769:DEU.33.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "And this ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " the blessing, wherewith Moses the man of God blessed the children of Israel before his death.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "DEU.33.2",
+      "edition_verse_id": "KJV1769:DEU.33.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "And he said, The LORD came from Sinai, and rose up from Seir unto them; he shined forth from mount Paran, and he came with ten thousands of saints: from his right hand ",
+          "kind": "text"
+        },
+        {
+          "text": "went",
+          "kind": "supplied"
+        },
+        {
+          "text": " a fiery law for them.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.33.3",
+      "edition_verse_id": "KJV1769:DEU.33.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "Yea, he loved the people; all his saints ",
+          "kind": "text"
+        },
+        {
+          "text": "are",
+          "kind": "supplied"
+        },
+        {
+          "text": " in thy hand: and they sat down at thy feet; ",
+          "kind": "text"
+        },
+        {
+          "text": "every one",
+          "kind": "supplied"
+        },
+        {
+          "text": " shall receive of thy words.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.33.4",
+      "edition_verse_id": "KJV1769:DEU.33.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "Moses commanded us a law, ",
+          "kind": "text"
+        },
+        {
+          "text": "even",
+          "kind": "supplied"
+        },
+        {
+          "text": " the inheritance of the congregation of Jacob.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.33.5",
+      "edition_verse_id": "KJV1769:DEU.33.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "And he was king in Jeshurun, when the heads of the people ",
+          "kind": "text"
+        },
+        {
+          "text": "and",
+          "kind": "supplied"
+        },
+        {
+          "text": " the tribes of Israel were gathered together.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.33.6",
+      "edition_verse_id": "KJV1769:DEU.33.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "¶ Let Reuben live, and not die; and let ",
+          "kind": "text"
+        },
+        {
+          "text": "not",
+          "kind": "supplied"
+        },
+        {
+          "text": " his men be few.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "DEU.33.7",
+      "edition_verse_id": "KJV1769:DEU.33.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "¶ And this ",
+          "kind": "text"
+        },
+        {
+          "text": "is the blessing",
+          "kind": "supplied"
+        },
+        {
+          "text": " of Judah: and he said, Hear, LORD, the voice of Judah, and bring him unto his people: let his hands be sufficient for him; and be thou an help ",
+          "kind": "text"
+        },
+        {
+          "text": "to him",
+          "kind": "supplied"
+        },
+        {
+          "text": " from his enemies.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "DEU.33.8",
+      "edition_verse_id": "KJV1769:DEU.33.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "¶ And of Levi he said, ",
+          "kind": "text"
+        },
+        {
+          "text": "Let",
+          "kind": "supplied"
+        },
+        {
+          "text": " thy Thummim and thy Urim ",
+          "kind": "text"
+        },
+        {
+          "text": "be",
+          "kind": "supplied"
+        },
+        {
+          "text": " with thy holy one, whom thou didst prove at Massah, ",
+          "kind": "text"
+        },
+        {
+          "text": "and with",
+          "kind": "supplied"
+        },
+        {
+          "text": " whom thou didst strive at the waters of Meribah;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "DEU.33.9",
+      "edition_verse_id": "KJV1769:DEU.33.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "Who said unto his father and to his mother, I have not seen him; neither did he acknowledge his brethren, nor knew his own children: for they have observed thy word, and kept thy covenant.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.33.10",
+      "edition_verse_id": "KJV1769:DEU.33.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "They shall teach Jacob thy judgments, and Israel thy law: they shall put incense before thee, and whole burnt sacrifice upon thine altar.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.33.11",
+      "edition_verse_id": "KJV1769:DEU.33.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "Bless, LORD, his substance, and accept the work of his hands: smite through the loins of them that rise against him, and of them that hate him, that they rise not again.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.33.12",
+      "edition_verse_id": "KJV1769:DEU.33.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "¶ ",
+          "kind": "text"
+        },
+        {
+          "text": "And",
+          "kind": "supplied"
+        },
+        {
+          "text": " of Benjamin he said, The beloved of the LORD shall dwell in safety by him; ",
+          "kind": "text"
+        },
+        {
+          "text": "and the Lord",
+          "kind": "supplied"
+        },
+        {
+          "text": " shall cover him all the day long, and he shall dwell between his shoulders.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "DEU.33.13",
+      "edition_verse_id": "KJV1769:DEU.33.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "¶ And of Joseph he said, Blessed of the LORD ",
+          "kind": "text"
+        },
+        {
+          "text": "be",
+          "kind": "supplied"
+        },
+        {
+          "text": " his land, for the precious things of heaven, for the dew, and for the deep that coucheth beneath,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "DEU.33.14",
+      "edition_verse_id": "KJV1769:DEU.33.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "And for the precious fruits ",
+          "kind": "text"
+        },
+        {
+          "text": "brought forth",
+          "kind": "supplied"
+        },
+        {
+          "text": " by the sun, and for the precious things put forth by the moon,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.33.15",
+      "edition_verse_id": "KJV1769:DEU.33.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "And for the chief things of the ancient mountains, and for the precious things of the lasting hills,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.33.16",
+      "edition_verse_id": "KJV1769:DEU.33.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "And for the precious things of the earth and fulness thereof, and ",
+          "kind": "text"
+        },
+        {
+          "text": "for",
+          "kind": "supplied"
+        },
+        {
+          "text": " the good will of him that dwelt in the bush: let ",
+          "kind": "text"
+        },
+        {
+          "text": "the blessing",
+          "kind": "supplied"
+        },
+        {
+          "text": " come upon the head of Joseph, and upon the top of the head of him ",
+          "kind": "text"
+        },
+        {
+          "text": "that was",
+          "kind": "supplied"
+        },
+        {
+          "text": " separated from his brethren.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.33.17",
+      "edition_verse_id": "KJV1769:DEU.33.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "His glory ",
+          "kind": "text"
+        },
+        {
+          "text": "is like",
+          "kind": "supplied"
+        },
+        {
+          "text": " the firstling of his bullock, and his horns ",
+          "kind": "text"
+        },
+        {
+          "text": "are like",
+          "kind": "supplied"
+        },
+        {
+          "text": " the horns of unicorns: with them he shall push the people together to the ends of the earth: and they ",
+          "kind": "text"
+        },
+        {
+          "text": "are",
+          "kind": "supplied"
+        },
+        {
+          "text": " the ten thousands of Ephraim, and they ",
+          "kind": "text"
+        },
+        {
+          "text": "are",
+          "kind": "supplied"
+        },
+        {
+          "text": " the thousands of Manasseh.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.33.18",
+      "edition_verse_id": "KJV1769:DEU.33.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "¶ And of Zebulun he said, Rejoice, Zebulun, in thy going out; and, Issachar, in thy tents.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "DEU.33.19",
+      "edition_verse_id": "KJV1769:DEU.33.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "They shall call the people unto the mountain; there they shall offer sacrifices of righteousness: for they shall suck ",
+          "kind": "text"
+        },
+        {
+          "text": "of",
+          "kind": "supplied"
+        },
+        {
+          "text": " the abundance of the seas, and ",
+          "kind": "text"
+        },
+        {
+          "text": "of",
+          "kind": "supplied"
+        },
+        {
+          "text": " treasures hid in the sand.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.33.20",
+      "edition_verse_id": "KJV1769:DEU.33.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "¶ And of Gad he said, Blessed ",
+          "kind": "text"
+        },
+        {
+          "text": "be",
+          "kind": "supplied"
+        },
+        {
+          "text": " he that enlargeth Gad: he dwelleth as a lion, and teareth the arm with the crown of the head.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "DEU.33.21",
+      "edition_verse_id": "KJV1769:DEU.33.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "And he provided the first part for himself, because there, ",
+          "kind": "text"
+        },
+        {
+          "text": "in",
+          "kind": "supplied"
+        },
+        {
+          "text": " a portion of the lawgiver, ",
+          "kind": "text"
+        },
+        {
+          "text": "was he",
+          "kind": "supplied"
+        },
+        {
+          "text": " seated; and he came with the heads of the people, he executed the justice of the LORD, and his judgments with Israel.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.33.22",
+      "edition_verse_id": "KJV1769:DEU.33.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "¶ And of Dan he said, Dan ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " a lion’s whelp: he shall leap from Bashan.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "DEU.33.23",
+      "edition_verse_id": "KJV1769:DEU.33.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "¶ And of Naphtali he said, O Naphtali, satisfied with favour, and full with the blessing of the LORD: possess thou the west and the south.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "DEU.33.24",
+      "edition_verse_id": "KJV1769:DEU.33.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "¶ And of Asher he said, ",
+          "kind": "text"
+        },
+        {
+          "text": "Let",
+          "kind": "supplied"
+        },
+        {
+          "text": " Asher ",
+          "kind": "text"
+        },
+        {
+          "text": "be",
+          "kind": "supplied"
+        },
+        {
+          "text": " blessed with children; let him be acceptable to his brethren, and let him dip his foot in oil.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "DEU.33.25",
+      "edition_verse_id": "KJV1769:DEU.33.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "Thy shoes ",
+          "kind": "text"
+        },
+        {
+          "text": "shall be",
+          "kind": "supplied"
+        },
+        {
+          "text": " iron and brass; and as thy days, ",
+          "kind": "text"
+        },
+        {
+          "text": "so shall",
+          "kind": "supplied"
+        },
+        {
+          "text": " thy strength ",
+          "kind": "text"
+        },
+        {
+          "text": "be",
+          "kind": "supplied"
+        },
+        {
+          "text": ".",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.33.26",
+      "edition_verse_id": "KJV1769:DEU.33.26",
+      "verse": 26,
+      "spans": [
+        {
+          "text": "¶ ",
+          "kind": "text"
+        },
+        {
+          "text": "There is",
+          "kind": "supplied"
+        },
+        {
+          "text": " none like unto the God of Jeshurun, ",
+          "kind": "text"
+        },
+        {
+          "text": "who",
+          "kind": "supplied"
+        },
+        {
+          "text": " rideth upon the heaven in thy help, and in his excellency on the sky.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "DEU.33.27",
+      "edition_verse_id": "KJV1769:DEU.33.27",
+      "verse": 27,
+      "spans": [
+        {
+          "text": "The eternal God ",
+          "kind": "text"
+        },
+        {
+          "text": "is thy",
+          "kind": "supplied"
+        },
+        {
+          "text": " refuge, and underneath ",
+          "kind": "text"
+        },
+        {
+          "text": "are",
+          "kind": "supplied"
+        },
+        {
+          "text": " the everlasting arms: and he shall thrust out the enemy from before thee; and shall say, Destroy ",
+          "kind": "text"
+        },
+        {
+          "text": "them",
+          "kind": "supplied"
+        },
+        {
+          "text": ".",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.33.28",
+      "edition_verse_id": "KJV1769:DEU.33.28",
+      "verse": 28,
+      "spans": [
+        {
+          "text": "Israel then shall dwell in safety alone: the fountain of Jacob ",
+          "kind": "text"
+        },
+        {
+          "text": "shall be",
+          "kind": "supplied"
+        },
+        {
+          "text": " upon a land of corn and wine; also his heavens shall drop down dew.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.33.29",
+      "edition_verse_id": "KJV1769:DEU.33.29",
+      "verse": 29,
+      "spans": [
+        {
+          "text": "Happy ",
+          "kind": "text"
+        },
+        {
+          "text": "art",
+          "kind": "supplied"
+        },
+        {
+          "text": " thou, O Israel: who ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " like unto thee, O people saved by the LORD, the shield of thy help, and who ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " the sword of thy excellency! and thine enemies shall be found liars unto thee; and thou shalt tread upon their high places.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

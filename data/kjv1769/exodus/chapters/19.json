@@ -1,0 +1,396 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "KJV1769",
+  "book_code": "EXO",
+  "chapter": 19,
+  "verses": [
+    {
+      "id": "EXO.19.1",
+      "edition_verse_id": "KJV1769:EXO.19.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "In the third month, when the children of Israel were gone forth out of the land of Egypt, the same day came they ",
+          "kind": "text"
+        },
+        {
+          "text": "into",
+          "kind": "supplied"
+        },
+        {
+          "text": " the wilderness of Sinai.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EXO.19.2",
+      "edition_verse_id": "KJV1769:EXO.19.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "For they were departed from Rephidim, and were come ",
+          "kind": "text"
+        },
+        {
+          "text": "to",
+          "kind": "supplied"
+        },
+        {
+          "text": " the desert of Sinai, and had pitched in the wilderness; and there Israel camped before the mount.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.19.3",
+      "edition_verse_id": "KJV1769:EXO.19.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "And Moses went up unto God, and the LORD called unto him out of the mountain, saying, Thus shalt thou say to the house of Jacob, and tell the children of Israel;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.19.4",
+      "edition_verse_id": "KJV1769:EXO.19.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "Ye have seen what I did unto the Egyptians, and ",
+          "kind": "text"
+        },
+        {
+          "text": "how",
+          "kind": "supplied"
+        },
+        {
+          "text": " I bare you on eagles’ wings, and brought you unto myself.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.19.5",
+      "edition_verse_id": "KJV1769:EXO.19.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "Now therefore, if ye will obey my voice indeed, and keep my covenant, then ye shall be a peculiar treasure unto me above all people: for all the earth ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " mine:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.19.6",
+      "edition_verse_id": "KJV1769:EXO.19.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "And ye shall be unto me a kingdom of priests, and an holy nation. These ",
+          "kind": "text"
+        },
+        {
+          "text": "are",
+          "kind": "supplied"
+        },
+        {
+          "text": " the words which thou shalt speak unto the children of Israel.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.19.7",
+      "edition_verse_id": "KJV1769:EXO.19.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "¶ And Moses came and called for the elders of the people, and laid before their faces all these words which the LORD commanded him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EXO.19.8",
+      "edition_verse_id": "KJV1769:EXO.19.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "And all the people answered together, and said, All that the LORD hath spoken we will do. And Moses returned the words of the people unto the LORD.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.19.9",
+      "edition_verse_id": "KJV1769:EXO.19.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "And the LORD said unto Moses, Lo, I come unto thee in a thick cloud, that the people may hear when I speak with thee, and believe thee for ever. And Moses told the words of the people unto the LORD.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EXO.19.10",
+      "edition_verse_id": "KJV1769:EXO.19.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "¶ And the LORD said unto Moses, Go unto the people, and sanctify them to day and to morrow, and let them wash their clothes,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EXO.19.11",
+      "edition_verse_id": "KJV1769:EXO.19.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "And be ready against the third day: for the third day the LORD will come down in the sight of all the people upon mount Sinai.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.19.12",
+      "edition_verse_id": "KJV1769:EXO.19.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "And thou shalt set bounds unto the people round about, saying, Take heed to yourselves, ",
+          "kind": "text"
+        },
+        {
+          "text": "that ye",
+          "kind": "supplied"
+        },
+        {
+          "text": " go ",
+          "kind": "text"
+        },
+        {
+          "text": "not",
+          "kind": "supplied"
+        },
+        {
+          "text": " up into the mount, or touch the border of it: whosoever toucheth the mount shall be surely put to death:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.19.13",
+      "edition_verse_id": "KJV1769:EXO.19.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "There shall not an hand touch it, but he shall surely be stoned, or shot through; whether ",
+          "kind": "text"
+        },
+        {
+          "text": "it be",
+          "kind": "supplied"
+        },
+        {
+          "text": " beast or man, it shall not live: when the trumpet soundeth long, they shall come up to the mount.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.19.14",
+      "edition_verse_id": "KJV1769:EXO.19.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "¶ And Moses went down from the mount unto the people, and sanctified the people; and they washed their clothes.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EXO.19.15",
+      "edition_verse_id": "KJV1769:EXO.19.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "And he said unto the people, Be ready against the third day: come not at ",
+          "kind": "text"
+        },
+        {
+          "text": "your",
+          "kind": "supplied"
+        },
+        {
+          "text": " wives.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.19.16",
+      "edition_verse_id": "KJV1769:EXO.19.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "¶ And it came to pass on the third day in the morning, that there were thunders and lightnings, and a thick cloud upon the mount, and the voice of the trumpet exceeding loud; so that all the people that ",
+          "kind": "text"
+        },
+        {
+          "text": "was",
+          "kind": "supplied"
+        },
+        {
+          "text": " in the camp trembled.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EXO.19.17",
+      "edition_verse_id": "KJV1769:EXO.19.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "And Moses brought forth the people out of the camp to meet with God; and they stood at the nether part of the mount.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.19.18",
+      "edition_verse_id": "KJV1769:EXO.19.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "And mount Sinai was altogether on a smoke, because the LORD descended upon it in fire: and the smoke thereof ascended as the smoke of a furnace, and the whole mount quaked greatly.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.19.19",
+      "edition_verse_id": "KJV1769:EXO.19.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "And when the voice of the trumpet sounded long, and waxed louder and louder, Moses spake, and God answered him by a voice.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.19.20",
+      "edition_verse_id": "KJV1769:EXO.19.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "And the LORD came down upon mount Sinai, on the top of the mount: and the LORD called Moses ",
+          "kind": "text"
+        },
+        {
+          "text": "up",
+          "kind": "supplied"
+        },
+        {
+          "text": " to the top of the mount; and Moses went up.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.19.21",
+      "edition_verse_id": "KJV1769:EXO.19.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "And the LORD said unto Moses, Go down, charge the people, lest they break through unto the LORD to gaze, and many of them perish.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.19.22",
+      "edition_verse_id": "KJV1769:EXO.19.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "And let the priests also, which come near to the LORD, sanctify themselves, lest the LORD break forth upon them.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.19.23",
+      "edition_verse_id": "KJV1769:EXO.19.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "And Moses said unto the LORD, The people cannot come up to mount Sinai: for thou chargedst us, saying, Set bounds about the mount, and sanctify it.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.19.24",
+      "edition_verse_id": "KJV1769:EXO.19.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "And the LORD said unto him, Away, get thee down, and thou shalt come up, thou, and Aaron with thee: but let not the priests and the people break through to come up unto the LORD, lest he break forth upon them.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.19.25",
+      "edition_verse_id": "KJV1769:EXO.19.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "So Moses went down unto the people, and spake unto them.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

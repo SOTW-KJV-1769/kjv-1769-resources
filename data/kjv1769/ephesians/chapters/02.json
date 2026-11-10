@@ -1,0 +1,368 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "KJV1769",
+  "book_code": "EPH",
+  "chapter": 2,
+  "verses": [
+    {
+      "id": "EPH.2.1",
+      "edition_verse_id": "KJV1769:EPH.2.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "And you ",
+          "kind": "text"
+        },
+        {
+          "text": "hath he quickened",
+          "kind": "supplied"
+        },
+        {
+          "text": ", who were dead in trespasses and sins;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EPH.2.2",
+      "edition_verse_id": "KJV1769:EPH.2.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "Wherein in time past ye walked according to the course of this world, according to the prince of the power of the air, the spirit that now worketh in the children of disobedience:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EPH.2.3",
+      "edition_verse_id": "KJV1769:EPH.2.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "Among whom also we all had our conversation in times past in the lusts of our flesh, fulfilling the desires of the flesh and of the mind; and were by nature the children of wrath, even as others.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EPH.2.4",
+      "edition_verse_id": "KJV1769:EPH.2.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "But God, who is rich in mercy, for his great love wherewith he loved us,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EPH.2.5",
+      "edition_verse_id": "KJV1769:EPH.2.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "Even when we were dead in sins, hath quickened us together with Christ, (by grace ye are saved;)",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EPH.2.6",
+      "edition_verse_id": "KJV1769:EPH.2.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "And hath raised ",
+          "kind": "text"
+        },
+        {
+          "text": "us",
+          "kind": "supplied"
+        },
+        {
+          "text": " up together, and made ",
+          "kind": "text"
+        },
+        {
+          "text": "us",
+          "kind": "supplied"
+        },
+        {
+          "text": " sit together in heavenly ",
+          "kind": "text"
+        },
+        {
+          "text": "places",
+          "kind": "supplied"
+        },
+        {
+          "text": " in Christ Jesus:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EPH.2.7",
+      "edition_verse_id": "KJV1769:EPH.2.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "That in the ages to come he might shew the exceeding riches of his grace in ",
+          "kind": "text"
+        },
+        {
+          "text": "his",
+          "kind": "supplied"
+        },
+        {
+          "text": " kindness toward us through Christ Jesus.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EPH.2.8",
+      "edition_verse_id": "KJV1769:EPH.2.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "For by grace are ye saved through faith; and that not of yourselves: ",
+          "kind": "text"
+        },
+        {
+          "text": "it is",
+          "kind": "supplied"
+        },
+        {
+          "text": " the gift of God:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EPH.2.9",
+      "edition_verse_id": "KJV1769:EPH.2.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "Not of works, lest any man should boast.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EPH.2.10",
+      "edition_verse_id": "KJV1769:EPH.2.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "For we are his workmanship, created in Christ Jesus unto good works, which God hath before ordained that we should walk in them.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EPH.2.11",
+      "edition_verse_id": "KJV1769:EPH.2.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "Wherefore remember, that ye ",
+          "kind": "text"
+        },
+        {
+          "text": "being",
+          "kind": "supplied"
+        },
+        {
+          "text": " in time past Gentiles in the flesh, who are called Uncircumcision by that which is called the Circumcision in the flesh made by hands;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EPH.2.12",
+      "edition_verse_id": "KJV1769:EPH.2.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "That at that time ye were without Christ, being aliens from the commonwealth of Israel, and strangers from the covenants of promise, having no hope, and without God in the world:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EPH.2.13",
+      "edition_verse_id": "KJV1769:EPH.2.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "But now in Christ Jesus ye who sometimes were far off are made nigh by the blood of Christ.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EPH.2.14",
+      "edition_verse_id": "KJV1769:EPH.2.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "For he is our peace, who hath made both one, and hath broken down the middle wall of partition ",
+          "kind": "text"
+        },
+        {
+          "text": "between us",
+          "kind": "supplied"
+        },
+        {
+          "text": ";",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EPH.2.15",
+      "edition_verse_id": "KJV1769:EPH.2.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "Having abolished in his flesh the enmity, ",
+          "kind": "text"
+        },
+        {
+          "text": "even",
+          "kind": "supplied"
+        },
+        {
+          "text": " the law of commandments ",
+          "kind": "text"
+        },
+        {
+          "text": "contained",
+          "kind": "supplied"
+        },
+        {
+          "text": " in ordinances; for to make in himself of twain one new man, ",
+          "kind": "text"
+        },
+        {
+          "text": "so",
+          "kind": "supplied"
+        },
+        {
+          "text": " making peace;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EPH.2.16",
+      "edition_verse_id": "KJV1769:EPH.2.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "And that he might reconcile both unto God in one body by the cross, having slain the enmity thereby:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EPH.2.17",
+      "edition_verse_id": "KJV1769:EPH.2.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "And came and preached peace to you which were afar off, and to them that were nigh.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EPH.2.18",
+      "edition_verse_id": "KJV1769:EPH.2.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "For through him we both have access by one Spirit unto the Father.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EPH.2.19",
+      "edition_verse_id": "KJV1769:EPH.2.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "Now therefore ye are no more strangers and foreigners, but fellowcitizens with the saints, and of the household of God;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EPH.2.20",
+      "edition_verse_id": "KJV1769:EPH.2.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "And are built upon the foundation of the apostles and prophets, Jesus Christ himself being the chief corner ",
+          "kind": "text"
+        },
+        {
+          "text": "stone",
+          "kind": "supplied"
+        },
+        {
+          "text": ";",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EPH.2.21",
+      "edition_verse_id": "KJV1769:EPH.2.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "In whom all the building fitly framed together groweth unto an holy temple in the Lord:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EPH.2.22",
+      "edition_verse_id": "KJV1769:EPH.2.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "In whom ye also are builded together for an habitation of God through the Spirit.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

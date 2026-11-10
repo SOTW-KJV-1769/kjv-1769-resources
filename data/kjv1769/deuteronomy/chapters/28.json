@@ -1,0 +1,1260 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "KJV1769",
+  "book_code": "DEU",
+  "chapter": 28,
+  "verses": [
+    {
+      "id": "DEU.28.1",
+      "edition_verse_id": "KJV1769:DEU.28.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "And it shall come to pass, if thou shalt hearken diligently unto the voice of the LORD thy God, to observe ",
+          "kind": "text"
+        },
+        {
+          "text": "and",
+          "kind": "supplied"
+        },
+        {
+          "text": " to do all his commandments which I command thee this day, that the LORD thy God will set thee on high above all nations of the earth:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "DEU.28.2",
+      "edition_verse_id": "KJV1769:DEU.28.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "And all these blessings shall come on thee, and overtake thee, if thou shalt hearken unto the voice of the LORD thy God.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.28.3",
+      "edition_verse_id": "KJV1769:DEU.28.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "Blessed ",
+          "kind": "text"
+        },
+        {
+          "text": "shalt",
+          "kind": "supplied"
+        },
+        {
+          "text": " thou ",
+          "kind": "text"
+        },
+        {
+          "text": "be",
+          "kind": "supplied"
+        },
+        {
+          "text": " in the city, and blessed ",
+          "kind": "text"
+        },
+        {
+          "text": "shalt",
+          "kind": "supplied"
+        },
+        {
+          "text": " thou ",
+          "kind": "text"
+        },
+        {
+          "text": "be",
+          "kind": "supplied"
+        },
+        {
+          "text": " in the field.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.28.4",
+      "edition_verse_id": "KJV1769:DEU.28.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "Blessed ",
+          "kind": "text"
+        },
+        {
+          "text": "shall be",
+          "kind": "supplied"
+        },
+        {
+          "text": " the fruit of thy body, and the fruit of thy ground, and the fruit of thy cattle, the increase of thy kine, and the flocks of thy sheep.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.28.5",
+      "edition_verse_id": "KJV1769:DEU.28.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "Blessed ",
+          "kind": "text"
+        },
+        {
+          "text": "shall be",
+          "kind": "supplied"
+        },
+        {
+          "text": " thy basket and thy store.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.28.6",
+      "edition_verse_id": "KJV1769:DEU.28.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "Blessed ",
+          "kind": "text"
+        },
+        {
+          "text": "shalt",
+          "kind": "supplied"
+        },
+        {
+          "text": " thou ",
+          "kind": "text"
+        },
+        {
+          "text": "be",
+          "kind": "supplied"
+        },
+        {
+          "text": " when thou comest in, and blessed ",
+          "kind": "text"
+        },
+        {
+          "text": "shalt",
+          "kind": "supplied"
+        },
+        {
+          "text": " thou ",
+          "kind": "text"
+        },
+        {
+          "text": "be",
+          "kind": "supplied"
+        },
+        {
+          "text": " when thou goest out.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.28.7",
+      "edition_verse_id": "KJV1769:DEU.28.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "The LORD shall cause thine enemies that rise up against thee to be smitten before thy face: they shall come out against thee one way, and flee before thee seven ways.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.28.8",
+      "edition_verse_id": "KJV1769:DEU.28.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "The LORD shall command the blessing upon thee in thy storehouses, and in all that thou settest thine hand unto; and he shall bless thee in the land which the LORD thy God giveth thee.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.28.9",
+      "edition_verse_id": "KJV1769:DEU.28.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "The LORD shall establish thee an holy people unto himself, as he hath sworn unto thee, if thou shalt keep the commandments of the LORD thy God, and walk in his ways.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.28.10",
+      "edition_verse_id": "KJV1769:DEU.28.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "And all people of the earth shall see that thou art called by the name of the LORD; and they shall be afraid of thee.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.28.11",
+      "edition_verse_id": "KJV1769:DEU.28.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "And the LORD shall make thee plenteous in goods, in the fruit of thy body, and in the fruit of thy cattle, and in the fruit of thy ground, in the land which the LORD sware unto thy fathers to give thee.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.28.12",
+      "edition_verse_id": "KJV1769:DEU.28.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "The LORD shall open unto thee his good treasure, the heaven to give the rain unto thy land in his season, and to bless all the work of thine hand: and thou shalt lend unto many nations, and thou shalt not borrow.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.28.13",
+      "edition_verse_id": "KJV1769:DEU.28.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "And the LORD shall make thee the head, and not the tail; and thou shalt be above only, and thou shalt not be beneath; if that thou hearken unto the commandments of the LORD thy God, which I command thee this day, to observe and to do ",
+          "kind": "text"
+        },
+        {
+          "text": "them:",
+          "kind": "supplied"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.28.14",
+      "edition_verse_id": "KJV1769:DEU.28.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "And thou shalt not go aside from any of the words which I command thee this day, ",
+          "kind": "text"
+        },
+        {
+          "text": "to",
+          "kind": "supplied"
+        },
+        {
+          "text": " the right hand, or ",
+          "kind": "text"
+        },
+        {
+          "text": "to",
+          "kind": "supplied"
+        },
+        {
+          "text": " the left, to go after other gods to serve them.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.28.15",
+      "edition_verse_id": "KJV1769:DEU.28.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "¶ But it shall come to pass, if thou wilt not hearken unto the voice of the LORD thy God, to observe to do all his commandments and his statutes which I command thee this day; that all these curses shall come upon thee, and overtake thee:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "DEU.28.16",
+      "edition_verse_id": "KJV1769:DEU.28.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "Cursed ",
+          "kind": "text"
+        },
+        {
+          "text": "shalt",
+          "kind": "supplied"
+        },
+        {
+          "text": " thou ",
+          "kind": "text"
+        },
+        {
+          "text": "be",
+          "kind": "supplied"
+        },
+        {
+          "text": " in the city, and cursed ",
+          "kind": "text"
+        },
+        {
+          "text": "shalt",
+          "kind": "supplied"
+        },
+        {
+          "text": " thou ",
+          "kind": "text"
+        },
+        {
+          "text": "be",
+          "kind": "supplied"
+        },
+        {
+          "text": " in the field.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.28.17",
+      "edition_verse_id": "KJV1769:DEU.28.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "Cursed ",
+          "kind": "text"
+        },
+        {
+          "text": "shall be",
+          "kind": "supplied"
+        },
+        {
+          "text": " thy basket and thy store.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.28.18",
+      "edition_verse_id": "KJV1769:DEU.28.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "Cursed ",
+          "kind": "text"
+        },
+        {
+          "text": "shall be",
+          "kind": "supplied"
+        },
+        {
+          "text": " the fruit of thy body, and the fruit of thy land, the increase of thy kine, and the flocks of thy sheep.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.28.19",
+      "edition_verse_id": "KJV1769:DEU.28.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "Cursed ",
+          "kind": "text"
+        },
+        {
+          "text": "shalt",
+          "kind": "supplied"
+        },
+        {
+          "text": " thou ",
+          "kind": "text"
+        },
+        {
+          "text": "be",
+          "kind": "supplied"
+        },
+        {
+          "text": " when thou comest in, and cursed ",
+          "kind": "text"
+        },
+        {
+          "text": "shalt",
+          "kind": "supplied"
+        },
+        {
+          "text": " thou ",
+          "kind": "text"
+        },
+        {
+          "text": "be",
+          "kind": "supplied"
+        },
+        {
+          "text": " when thou goest out.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.28.20",
+      "edition_verse_id": "KJV1769:DEU.28.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "The LORD shall send upon thee cursing, vexation, and rebuke, in all that thou settest thine hand unto for to do, until thou be destroyed, and until thou perish quickly; because of the wickedness of thy doings, whereby thou hast forsaken me.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.28.21",
+      "edition_verse_id": "KJV1769:DEU.28.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "The LORD shall make the pestilence cleave unto thee, until he have consumed thee from off the land, whither thou goest to possess it.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.28.22",
+      "edition_verse_id": "KJV1769:DEU.28.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "The LORD shall smite thee with a consumption, and with a fever, and with an inflammation, and with an extreme burning, and with the sword, and with blasting, and with mildew; and they shall pursue thee until thou perish.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.28.23",
+      "edition_verse_id": "KJV1769:DEU.28.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "And thy heaven that ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " over thy head shall be brass, and the earth that is under thee ",
+          "kind": "text"
+        },
+        {
+          "text": "shall be",
+          "kind": "supplied"
+        },
+        {
+          "text": " iron.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.28.24",
+      "edition_verse_id": "KJV1769:DEU.28.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "The LORD shall make the rain of thy land powder and dust: from heaven shall it come down upon thee, until thou be destroyed.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.28.25",
+      "edition_verse_id": "KJV1769:DEU.28.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "The LORD shall cause thee to be smitten before thine enemies: thou shalt go out one way against them, and flee seven ways before them: and shalt be removed into all the kingdoms of the earth.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.28.26",
+      "edition_verse_id": "KJV1769:DEU.28.26",
+      "verse": 26,
+      "spans": [
+        {
+          "text": "And thy carcase shall be meat unto all fowls of the air, and unto the beasts of the earth, and no man shall fray ",
+          "kind": "text"
+        },
+        {
+          "text": "them",
+          "kind": "supplied"
+        },
+        {
+          "text": " away.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.28.27",
+      "edition_verse_id": "KJV1769:DEU.28.27",
+      "verse": 27,
+      "spans": [
+        {
+          "text": "The LORD will smite thee with the botch of Egypt, and with the emerods, and with the scab, and with the itch, whereof thou canst not be healed.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.28.28",
+      "edition_verse_id": "KJV1769:DEU.28.28",
+      "verse": 28,
+      "spans": [
+        {
+          "text": "The LORD shall smite thee with madness, and blindness, and astonishment of heart:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.28.29",
+      "edition_verse_id": "KJV1769:DEU.28.29",
+      "verse": 29,
+      "spans": [
+        {
+          "text": "And thou shalt grope at noonday, as the blind gropeth in darkness, and thou shalt not prosper in thy ways: and thou shalt be only oppressed and spoiled evermore, and no man shall save ",
+          "kind": "text"
+        },
+        {
+          "text": "thee",
+          "kind": "supplied"
+        },
+        {
+          "text": ".",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.28.30",
+      "edition_verse_id": "KJV1769:DEU.28.30",
+      "verse": 30,
+      "spans": [
+        {
+          "text": "Thou shalt betroth a wife, and another man shall lie with her: thou shalt build an house, and thou shalt not dwell therein: thou shalt plant a vineyard, and shalt not gather the grapes thereof.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.28.31",
+      "edition_verse_id": "KJV1769:DEU.28.31",
+      "verse": 31,
+      "spans": [
+        {
+          "text": "Thine ox ",
+          "kind": "text"
+        },
+        {
+          "text": "shall be",
+          "kind": "supplied"
+        },
+        {
+          "text": " slain before thine eyes, and thou shalt not eat thereof: thine ass ",
+          "kind": "text"
+        },
+        {
+          "text": "shall be",
+          "kind": "supplied"
+        },
+        {
+          "text": " violently taken away from before thy face, and shall not be restored to thee: thy sheep ",
+          "kind": "text"
+        },
+        {
+          "text": "shall be",
+          "kind": "supplied"
+        },
+        {
+          "text": " given unto thine enemies, and thou shalt have none to rescue ",
+          "kind": "text"
+        },
+        {
+          "text": "them",
+          "kind": "supplied"
+        },
+        {
+          "text": ".",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.28.32",
+      "edition_verse_id": "KJV1769:DEU.28.32",
+      "verse": 32,
+      "spans": [
+        {
+          "text": "Thy sons and thy daughters ",
+          "kind": "text"
+        },
+        {
+          "text": "shall be",
+          "kind": "supplied"
+        },
+        {
+          "text": " given unto another people, and thine eyes shall look, and fail ",
+          "kind": "text"
+        },
+        {
+          "text": "with longing",
+          "kind": "supplied"
+        },
+        {
+          "text": " for them all the day long: and ",
+          "kind": "text"
+        },
+        {
+          "text": "there shall be",
+          "kind": "supplied"
+        },
+        {
+          "text": " no might in thine hand.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.28.33",
+      "edition_verse_id": "KJV1769:DEU.28.33",
+      "verse": 33,
+      "spans": [
+        {
+          "text": "The fruit of thy land, and all thy labours, shall a nation which thou knowest not eat up; and thou shalt be only oppressed and crushed alway:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.28.34",
+      "edition_verse_id": "KJV1769:DEU.28.34",
+      "verse": 34,
+      "spans": [
+        {
+          "text": "So that thou shalt be mad for the sight of thine eyes which thou shalt see.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.28.35",
+      "edition_verse_id": "KJV1769:DEU.28.35",
+      "verse": 35,
+      "spans": [
+        {
+          "text": "The LORD shall smite thee in the knees, and in the legs, with a sore botch that cannot be healed, from the sole of thy foot unto the top of thy head.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.28.36",
+      "edition_verse_id": "KJV1769:DEU.28.36",
+      "verse": 36,
+      "spans": [
+        {
+          "text": "The LORD shall bring thee, and thy king which thou shalt set over thee, unto a nation which neither thou nor thy fathers have known; and there shalt thou serve other gods, wood and stone.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.28.37",
+      "edition_verse_id": "KJV1769:DEU.28.37",
+      "verse": 37,
+      "spans": [
+        {
+          "text": "And thou shalt become an astonishment, a proverb, and a byword, among all nations whither the LORD shall lead thee.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.28.38",
+      "edition_verse_id": "KJV1769:DEU.28.38",
+      "verse": 38,
+      "spans": [
+        {
+          "text": "Thou shalt carry much seed out into the field, and shalt gather ",
+          "kind": "text"
+        },
+        {
+          "text": "but",
+          "kind": "supplied"
+        },
+        {
+          "text": " little in; for the locust shall consume it.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.28.39",
+      "edition_verse_id": "KJV1769:DEU.28.39",
+      "verse": 39,
+      "spans": [
+        {
+          "text": "Thou shalt plant vineyards, and dress ",
+          "kind": "text"
+        },
+        {
+          "text": "them",
+          "kind": "supplied"
+        },
+        {
+          "text": ", but shalt neither drink ",
+          "kind": "text"
+        },
+        {
+          "text": "of",
+          "kind": "supplied"
+        },
+        {
+          "text": " the wine, nor gather ",
+          "kind": "text"
+        },
+        {
+          "text": "the grapes;",
+          "kind": "supplied"
+        },
+        {
+          "text": " for the worms shall eat them.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.28.40",
+      "edition_verse_id": "KJV1769:DEU.28.40",
+      "verse": 40,
+      "spans": [
+        {
+          "text": "Thou shalt have olive trees throughout all thy coasts, but thou shalt not anoint ",
+          "kind": "text"
+        },
+        {
+          "text": "thyself",
+          "kind": "supplied"
+        },
+        {
+          "text": " with the oil; for thine olive shall cast ",
+          "kind": "text"
+        },
+        {
+          "text": "his fruit",
+          "kind": "supplied"
+        },
+        {
+          "text": ".",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.28.41",
+      "edition_verse_id": "KJV1769:DEU.28.41",
+      "verse": 41,
+      "spans": [
+        {
+          "text": "Thou shalt beget sons and daughters, but thou shalt not enjoy them; for they shall go into captivity.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.28.42",
+      "edition_verse_id": "KJV1769:DEU.28.42",
+      "verse": 42,
+      "spans": [
+        {
+          "text": "All thy trees and fruit of thy land shall the locust consume.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.28.43",
+      "edition_verse_id": "KJV1769:DEU.28.43",
+      "verse": 43,
+      "spans": [
+        {
+          "text": "The stranger that ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " within thee shall get up above thee very high; and thou shalt come down very low.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.28.44",
+      "edition_verse_id": "KJV1769:DEU.28.44",
+      "verse": 44,
+      "spans": [
+        {
+          "text": "He shall lend to thee, and thou shalt not lend to him: he shall be the head, and thou shalt be the tail.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.28.45",
+      "edition_verse_id": "KJV1769:DEU.28.45",
+      "verse": 45,
+      "spans": [
+        {
+          "text": "Moreover all these curses shall come upon thee, and shall pursue thee, and overtake thee, till thou be destroyed; because thou hearkenedst not unto the voice of the LORD thy God, to keep his commandments and his statutes which he commanded thee:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "DEU.28.46",
+      "edition_verse_id": "KJV1769:DEU.28.46",
+      "verse": 46,
+      "spans": [
+        {
+          "text": "And they shall be upon thee for a sign and for a wonder, and upon thy seed for ever.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.28.47",
+      "edition_verse_id": "KJV1769:DEU.28.47",
+      "verse": 47,
+      "spans": [
+        {
+          "text": "Because thou servedst not the LORD thy God with joyfulness, and with gladness of heart, for the abundance of all ",
+          "kind": "text"
+        },
+        {
+          "text": "things;",
+          "kind": "supplied"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.28.48",
+      "edition_verse_id": "KJV1769:DEU.28.48",
+      "verse": 48,
+      "spans": [
+        {
+          "text": "Therefore shalt thou serve thine enemies which the LORD shall send against thee, in hunger, and in thirst, and in nakedness, and in want of all ",
+          "kind": "text"
+        },
+        {
+          "text": "things:",
+          "kind": "supplied"
+        },
+        {
+          "text": " and he shall put a yoke of iron upon thy neck, until he have destroyed thee.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.28.49",
+      "edition_verse_id": "KJV1769:DEU.28.49",
+      "verse": 49,
+      "spans": [
+        {
+          "text": "The LORD shall bring a nation against thee from far, from the end of the earth, ",
+          "kind": "text"
+        },
+        {
+          "text": "as swift",
+          "kind": "supplied"
+        },
+        {
+          "text": " as the eagle flieth; a nation whose tongue thou shalt not understand;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.28.50",
+      "edition_verse_id": "KJV1769:DEU.28.50",
+      "verse": 50,
+      "spans": [
+        {
+          "text": "A nation of fierce countenance, which shall not regard the person of the old, nor shew favour to the young:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.28.51",
+      "edition_verse_id": "KJV1769:DEU.28.51",
+      "verse": 51,
+      "spans": [
+        {
+          "text": "And he shall eat the fruit of thy cattle, and the fruit of thy land, until thou be destroyed: which ",
+          "kind": "text"
+        },
+        {
+          "text": "also",
+          "kind": "supplied"
+        },
+        {
+          "text": " shall not leave thee ",
+          "kind": "text"
+        },
+        {
+          "text": "either",
+          "kind": "supplied"
+        },
+        {
+          "text": " corn, wine, or oil, ",
+          "kind": "text"
+        },
+        {
+          "text": "or",
+          "kind": "supplied"
+        },
+        {
+          "text": " the increase of thy kine, or flocks of thy sheep, until he have destroyed thee.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.28.52",
+      "edition_verse_id": "KJV1769:DEU.28.52",
+      "verse": 52,
+      "spans": [
+        {
+          "text": "And he shall besiege thee in all thy gates, until thy high and fenced walls come down, wherein thou trustedst, throughout all thy land: and he shall besiege thee in all thy gates throughout all thy land, which the LORD thy God hath given thee.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.28.53",
+      "edition_verse_id": "KJV1769:DEU.28.53",
+      "verse": 53,
+      "spans": [
+        {
+          "text": "And thou shalt eat the fruit of thine own body, the flesh of thy sons and of thy daughters, which the LORD thy God hath given thee, in the siege, and in the straitness, wherewith thine enemies shall distress thee:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.28.54",
+      "edition_verse_id": "KJV1769:DEU.28.54",
+      "verse": 54,
+      "spans": [
+        {
+          "text": "So that",
+          "kind": "supplied"
+        },
+        {
+          "text": " the man ",
+          "kind": "text"
+        },
+        {
+          "text": "that is",
+          "kind": "supplied"
+        },
+        {
+          "text": " tender among you, and very delicate, his eye shall be evil toward his brother, and toward the wife of his bosom, and toward the remnant of his children which he shall leave:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.28.55",
+      "edition_verse_id": "KJV1769:DEU.28.55",
+      "verse": 55,
+      "spans": [
+        {
+          "text": "So that he will not give to any of them of the flesh of his children whom he shall eat: because he hath nothing left him in the siege, and in the straitness, wherewith thine enemies shall distress thee in all thy gates.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.28.56",
+      "edition_verse_id": "KJV1769:DEU.28.56",
+      "verse": 56,
+      "spans": [
+        {
+          "text": "The tender and delicate woman among you, which would not adventure to set the sole of her foot upon the ground for delicateness and tenderness, her eye shall be evil toward the husband of her bosom, and toward her son, and toward her daughter,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.28.57",
+      "edition_verse_id": "KJV1769:DEU.28.57",
+      "verse": 57,
+      "spans": [
+        {
+          "text": "And toward her young one that cometh out from between her feet, and toward her children which she shall bear: for she shall eat them for want of all ",
+          "kind": "text"
+        },
+        {
+          "text": "things",
+          "kind": "supplied"
+        },
+        {
+          "text": " secretly in the siege and straitness, wherewith thine enemy shall distress thee in thy gates.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.28.58",
+      "edition_verse_id": "KJV1769:DEU.28.58",
+      "verse": 58,
+      "spans": [
+        {
+          "text": "If thou wilt not observe to do all the words of this law that are written in this book, that thou mayest fear this glorious and fearful name, THE LORD THY GOD;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.28.59",
+      "edition_verse_id": "KJV1769:DEU.28.59",
+      "verse": 59,
+      "spans": [
+        {
+          "text": "Then the LORD will make thy plagues wonderful, and the plagues of thy seed, ",
+          "kind": "text"
+        },
+        {
+          "text": "even",
+          "kind": "supplied"
+        },
+        {
+          "text": " great plagues, and of long continuance, and sore sicknesses, and of long continuance.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.28.60",
+      "edition_verse_id": "KJV1769:DEU.28.60",
+      "verse": 60,
+      "spans": [
+        {
+          "text": "Moreover he will bring upon thee all the diseases of Egypt, which thou wast afraid of; and they shall cleave unto thee.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.28.61",
+      "edition_verse_id": "KJV1769:DEU.28.61",
+      "verse": 61,
+      "spans": [
+        {
+          "text": "Also every sickness, and every plague, which ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " not written in the book of this law, them will the LORD bring upon thee, until thou be destroyed.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.28.62",
+      "edition_verse_id": "KJV1769:DEU.28.62",
+      "verse": 62,
+      "spans": [
+        {
+          "text": "And ye shall be left few in number, whereas ye were as the stars of heaven for multitude; because thou wouldest not obey the voice of the LORD thy God.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.28.63",
+      "edition_verse_id": "KJV1769:DEU.28.63",
+      "verse": 63,
+      "spans": [
+        {
+          "text": "And it shall come to pass, ",
+          "kind": "text"
+        },
+        {
+          "text": "that",
+          "kind": "supplied"
+        },
+        {
+          "text": " as the LORD rejoiced over you to do you good, and to multiply you; so the LORD will rejoice over you to destroy you, and to bring you to nought; and ye shall be plucked from off the land whither thou goest to possess it.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.28.64",
+      "edition_verse_id": "KJV1769:DEU.28.64",
+      "verse": 64,
+      "spans": [
+        {
+          "text": "And the LORD shall scatter thee among all people, from the one end of the earth even unto the other; and there thou shalt serve other gods, which neither thou nor thy fathers have known, ",
+          "kind": "text"
+        },
+        {
+          "text": "even",
+          "kind": "supplied"
+        },
+        {
+          "text": " wood and stone.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.28.65",
+      "edition_verse_id": "KJV1769:DEU.28.65",
+      "verse": 65,
+      "spans": [
+        {
+          "text": "And among these nations shalt thou find no ease, neither shall the sole of thy foot have rest: but the LORD shall give thee there a trembling heart, and failing of eyes, and sorrow of mind:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.28.66",
+      "edition_verse_id": "KJV1769:DEU.28.66",
+      "verse": 66,
+      "spans": [
+        {
+          "text": "And thy life shall hang in doubt before thee; and thou shalt fear day and night, and shalt have none assurance of thy life:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.28.67",
+      "edition_verse_id": "KJV1769:DEU.28.67",
+      "verse": 67,
+      "spans": [
+        {
+          "text": "In the morning thou shalt say, Would God it were even! and at even thou shalt say, Would God it were morning! for the fear of thine heart wherewith thou shalt fear, and for the sight of thine eyes which thou shalt see.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.28.68",
+      "edition_verse_id": "KJV1769:DEU.28.68",
+      "verse": 68,
+      "spans": [
+        {
+          "text": "And the LORD shall bring thee into Egypt again with ships, by the way whereof I spake unto thee, Thou shalt see it no more again: and there ye shall be sold unto your enemies for bondmen and bondwomen, and no man shall buy ",
+          "kind": "text"
+        },
+        {
+          "text": "you",
+          "kind": "supplied"
+        },
+        {
+          "text": ".",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

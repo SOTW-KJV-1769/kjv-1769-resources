@@ -1,0 +1,584 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "KJV1769",
+  "book_code": "ECC",
+  "chapter": 2,
+  "verses": [
+    {
+      "id": "ECC.2.1",
+      "edition_verse_id": "KJV1769:ECC.2.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "I said in mine heart, Go to now, I will prove thee with mirth, therefore enjoy pleasure: and, behold, this also ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " vanity.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ECC.2.2",
+      "edition_verse_id": "KJV1769:ECC.2.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "I said of laughter, ",
+          "kind": "text"
+        },
+        {
+          "text": "It is",
+          "kind": "supplied"
+        },
+        {
+          "text": " mad: and of mirth, What doeth it?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ECC.2.3",
+      "edition_verse_id": "KJV1769:ECC.2.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "I sought in mine heart to give myself unto wine, yet acquainting mine heart with wisdom; and to lay hold on folly, till I might see what ",
+          "kind": "text"
+        },
+        {
+          "text": "was",
+          "kind": "supplied"
+        },
+        {
+          "text": " that good for the sons of men, which they should do under the heaven all the days of their life.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ECC.2.4",
+      "edition_verse_id": "KJV1769:ECC.2.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "I made me great works; I builded me houses; I planted me vineyards:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ECC.2.5",
+      "edition_verse_id": "KJV1769:ECC.2.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "I made me gardens and orchards, and I planted trees in them of all ",
+          "kind": "text"
+        },
+        {
+          "text": "kind of",
+          "kind": "supplied"
+        },
+        {
+          "text": " fruits:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ECC.2.6",
+      "edition_verse_id": "KJV1769:ECC.2.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "I made me pools of water, to water therewith the wood that bringeth forth trees:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ECC.2.7",
+      "edition_verse_id": "KJV1769:ECC.2.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "I got ",
+          "kind": "text"
+        },
+        {
+          "text": "me",
+          "kind": "supplied"
+        },
+        {
+          "text": " servants and maidens, and had servants born in my house; also I had great possessions of great and small cattle above all that were in Jerusalem before me:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ECC.2.8",
+      "edition_verse_id": "KJV1769:ECC.2.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "I gathered me also silver and gold, and the peculiar treasure of kings and of the provinces: I gat me men singers and women singers, and the delights of the sons of men, ",
+          "kind": "text"
+        },
+        {
+          "text": "as",
+          "kind": "supplied"
+        },
+        {
+          "text": " musical instruments, and that of all sorts.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ECC.2.9",
+      "edition_verse_id": "KJV1769:ECC.2.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "So I was great, and increased more than all that were before me in Jerusalem: also my wisdom remained with me.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ECC.2.10",
+      "edition_verse_id": "KJV1769:ECC.2.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "And whatsoever mine eyes desired I kept not from them, I withheld not my heart from any joy; for my heart rejoiced in all my labour: and this was my portion of all my labour.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ECC.2.11",
+      "edition_verse_id": "KJV1769:ECC.2.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "Then I looked on all the works that my hands had wrought, and on the labour that I had laboured to do: and, behold, all ",
+          "kind": "text"
+        },
+        {
+          "text": "was",
+          "kind": "supplied"
+        },
+        {
+          "text": " vanity and vexation of spirit, and ",
+          "kind": "text"
+        },
+        {
+          "text": "there was",
+          "kind": "supplied"
+        },
+        {
+          "text": " no profit under the sun.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ECC.2.12",
+      "edition_verse_id": "KJV1769:ECC.2.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "¶ And I turned myself to behold wisdom, and madness, and folly: for what ",
+          "kind": "text"
+        },
+        {
+          "text": "can",
+          "kind": "supplied"
+        },
+        {
+          "text": " the man ",
+          "kind": "text"
+        },
+        {
+          "text": "do",
+          "kind": "supplied"
+        },
+        {
+          "text": " that cometh after the king? ",
+          "kind": "text"
+        },
+        {
+          "text": "even",
+          "kind": "supplied"
+        },
+        {
+          "text": " that which hath been already done.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ECC.2.13",
+      "edition_verse_id": "KJV1769:ECC.2.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "Then I saw that wisdom excelleth folly, as far as light excelleth darkness.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ECC.2.14",
+      "edition_verse_id": "KJV1769:ECC.2.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "The wise man’s eyes ",
+          "kind": "text"
+        },
+        {
+          "text": "are",
+          "kind": "supplied"
+        },
+        {
+          "text": " in his head; but the fool walketh in darkness: and I myself perceived also that one event happeneth to them all.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ECC.2.15",
+      "edition_verse_id": "KJV1769:ECC.2.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "Then said I in my heart, As it happeneth to the fool, so it happeneth even to me; and why was I then more wise? Then I said in my heart, that this also ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " vanity.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ECC.2.16",
+      "edition_verse_id": "KJV1769:ECC.2.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "For ",
+          "kind": "text"
+        },
+        {
+          "text": "there is",
+          "kind": "supplied"
+        },
+        {
+          "text": " no remembrance of the wise more than of the fool for ever; seeing that which now ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " in the days to come shall all be forgotten. And how dieth the wise ",
+          "kind": "text"
+        },
+        {
+          "text": "man",
+          "kind": "supplied"
+        },
+        {
+          "text": "? as the fool.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ECC.2.17",
+      "edition_verse_id": "KJV1769:ECC.2.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "Therefore I hated life; because the work that is wrought under the sun ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " grievous unto me: for all ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " vanity and vexation of spirit.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ECC.2.18",
+      "edition_verse_id": "KJV1769:ECC.2.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "¶ Yea, I hated all my labour which I had taken under the sun: because I should leave it unto the man that shall be after me.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ECC.2.19",
+      "edition_verse_id": "KJV1769:ECC.2.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "And who knoweth whether he shall be a wise ",
+          "kind": "text"
+        },
+        {
+          "text": "man",
+          "kind": "supplied"
+        },
+        {
+          "text": " or a fool? yet shall he have rule over all my labour wherein I have laboured, and wherein I have shewed myself wise under the sun. This ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " also vanity.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ECC.2.20",
+      "edition_verse_id": "KJV1769:ECC.2.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "Therefore I went about to cause my heart to despair of all the labour which I took under the sun.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ECC.2.21",
+      "edition_verse_id": "KJV1769:ECC.2.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "For there is a man whose labour ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " in wisdom, and in knowledge, and in equity; yet to a man that hath not laboured therein shall he leave it ",
+          "kind": "text"
+        },
+        {
+          "text": "for",
+          "kind": "supplied"
+        },
+        {
+          "text": " his portion. This also ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " vanity and a great evil.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ECC.2.22",
+      "edition_verse_id": "KJV1769:ECC.2.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "For what hath man of all his labour, and of the vexation of his heart, wherein he hath laboured under the sun?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ECC.2.23",
+      "edition_verse_id": "KJV1769:ECC.2.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "For all his days ",
+          "kind": "text"
+        },
+        {
+          "text": "are",
+          "kind": "supplied"
+        },
+        {
+          "text": " sorrows, and his travail grief; yea, his heart taketh not rest in the night. This is also vanity.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ECC.2.24",
+      "edition_verse_id": "KJV1769:ECC.2.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "¶ ",
+          "kind": "text"
+        },
+        {
+          "text": "There is",
+          "kind": "supplied"
+        },
+        {
+          "text": " nothing better for a man, ",
+          "kind": "text"
+        },
+        {
+          "text": "than",
+          "kind": "supplied"
+        },
+        {
+          "text": " that he should eat and drink, and ",
+          "kind": "text"
+        },
+        {
+          "text": "that",
+          "kind": "supplied"
+        },
+        {
+          "text": " he should make his soul enjoy good in his labour. This also I saw, that it ",
+          "kind": "text"
+        },
+        {
+          "text": "was",
+          "kind": "supplied"
+        },
+        {
+          "text": " from the hand of God.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ECC.2.25",
+      "edition_verse_id": "KJV1769:ECC.2.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "For who can eat, or who else can hasten ",
+          "kind": "text"
+        },
+        {
+          "text": "hereunto",
+          "kind": "supplied"
+        },
+        {
+          "text": ", more than I?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ECC.2.26",
+      "edition_verse_id": "KJV1769:ECC.2.26",
+      "verse": 26,
+      "spans": [
+        {
+          "text": "For ",
+          "kind": "text"
+        },
+        {
+          "text": "God",
+          "kind": "supplied"
+        },
+        {
+          "text": " giveth to a man that ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " good in his sight wisdom, and knowledge, and joy: but to the sinner he giveth travail, to gather and to heap up, that he may give to ",
+          "kind": "text"
+        },
+        {
+          "text": "him that is",
+          "kind": "supplied"
+        },
+        {
+          "text": " good before God. This also ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " vanity and vexation of spirit.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

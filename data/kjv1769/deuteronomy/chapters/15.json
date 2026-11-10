@@ -1,0 +1,428 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "KJV1769",
+  "book_code": "DEU",
+  "chapter": 15,
+  "verses": [
+    {
+      "id": "DEU.15.1",
+      "edition_verse_id": "KJV1769:DEU.15.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "At the end of ",
+          "kind": "text"
+        },
+        {
+          "text": "every",
+          "kind": "supplied"
+        },
+        {
+          "text": " seven years thou shalt make a release.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "DEU.15.2",
+      "edition_verse_id": "KJV1769:DEU.15.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "And this ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " the manner of the release: Every creditor that lendeth ",
+          "kind": "text"
+        },
+        {
+          "text": "ought",
+          "kind": "supplied"
+        },
+        {
+          "text": " unto his neighbour shall release ",
+          "kind": "text"
+        },
+        {
+          "text": "it;",
+          "kind": "supplied"
+        },
+        {
+          "text": " he shall not exact ",
+          "kind": "text"
+        },
+        {
+          "text": "it",
+          "kind": "supplied"
+        },
+        {
+          "text": " of his neighbour, or of his brother; because it is called the LORD’s release.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.15.3",
+      "edition_verse_id": "KJV1769:DEU.15.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "Of a foreigner thou mayest exact ",
+          "kind": "text"
+        },
+        {
+          "text": "it again:",
+          "kind": "supplied"
+        },
+        {
+          "text": " but ",
+          "kind": "text"
+        },
+        {
+          "text": "that",
+          "kind": "supplied"
+        },
+        {
+          "text": " which is thine with thy brother thine hand shall release;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.15.4",
+      "edition_verse_id": "KJV1769:DEU.15.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "Save when there shall be no poor among you; for the LORD shall greatly bless thee in the land which the LORD thy God giveth thee ",
+          "kind": "text"
+        },
+        {
+          "text": "for",
+          "kind": "supplied"
+        },
+        {
+          "text": " an inheritance to possess it:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.15.5",
+      "edition_verse_id": "KJV1769:DEU.15.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "Only if thou carefully hearken unto the voice of the LORD thy God, to observe to do all these commandments which I command thee this day.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.15.6",
+      "edition_verse_id": "KJV1769:DEU.15.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "For the LORD thy God blesseth thee, as he promised thee: and thou shalt lend unto many nations, but thou shalt not borrow; and thou shalt reign over many nations, but they shall not reign over thee.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.15.7",
+      "edition_verse_id": "KJV1769:DEU.15.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "¶ If there be among you a poor man of one of thy brethren within any of thy gates in thy land which the LORD thy God giveth thee, thou shalt not harden thine heart, nor shut thine hand from thy poor brother:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "DEU.15.8",
+      "edition_verse_id": "KJV1769:DEU.15.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "But thou shalt open thine hand wide unto him, and shalt surely lend him sufficient for his need, ",
+          "kind": "text"
+        },
+        {
+          "text": "in that",
+          "kind": "supplied"
+        },
+        {
+          "text": " which he wanteth.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.15.9",
+      "edition_verse_id": "KJV1769:DEU.15.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "Beware that there be not a thought in thy wicked heart, saying, The seventh year, the year of release, is at hand; and thine eye be evil against thy poor brother, and thou givest him nought; and he cry unto the LORD against thee, and it be sin unto thee.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.15.10",
+      "edition_verse_id": "KJV1769:DEU.15.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "Thou shalt surely give him, and thine heart shall not be grieved when thou givest unto him: because that for this thing the LORD thy God shall bless thee in all thy works, and in all that thou puttest thine hand unto.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.15.11",
+      "edition_verse_id": "KJV1769:DEU.15.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "For the poor shall never cease out of the land: therefore I command thee, saying, Thou shalt open thine hand wide unto thy brother, to thy poor, and to thy needy, in thy land.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.15.12",
+      "edition_verse_id": "KJV1769:DEU.15.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "¶ ",
+          "kind": "text"
+        },
+        {
+          "text": "And",
+          "kind": "supplied"
+        },
+        {
+          "text": " if thy brother, an Hebrew man, or an Hebrew woman, be sold unto thee, and serve thee six years; then in the seventh year thou shalt let him go free from thee.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "DEU.15.13",
+      "edition_verse_id": "KJV1769:DEU.15.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "And when thou sendest him out free from thee, thou shalt not let him go away empty:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.15.14",
+      "edition_verse_id": "KJV1769:DEU.15.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "Thou shalt furnish him liberally out of thy flock, and out of thy floor, and out of thy winepress: ",
+          "kind": "text"
+        },
+        {
+          "text": "of that",
+          "kind": "supplied"
+        },
+        {
+          "text": " wherewith the LORD thy God hath blessed thee thou shalt give unto him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.15.15",
+      "edition_verse_id": "KJV1769:DEU.15.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "And thou shalt remember that thou wast a bondman in the land of Egypt, and the LORD thy God redeemed thee: therefore I command thee this thing to day.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.15.16",
+      "edition_verse_id": "KJV1769:DEU.15.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "And it shall be, if he say unto thee, I will not go away from thee; because he loveth thee and thine house, because he is well with thee;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.15.17",
+      "edition_verse_id": "KJV1769:DEU.15.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "Then thou shalt take an aul, and thrust ",
+          "kind": "text"
+        },
+        {
+          "text": "it",
+          "kind": "supplied"
+        },
+        {
+          "text": " through his ear unto the door, and he shall be thy servant for ever. And also unto thy maidservant thou shalt do likewise.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.15.18",
+      "edition_verse_id": "KJV1769:DEU.15.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "It shall not seem hard unto thee, when thou sendest him away free from thee; for he hath been worth a double hired servant ",
+          "kind": "text"
+        },
+        {
+          "text": "to thee",
+          "kind": "supplied"
+        },
+        {
+          "text": ", in serving thee six years: and the LORD thy God shall bless thee in all that thou doest.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.15.19",
+      "edition_verse_id": "KJV1769:DEU.15.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "¶ All the firstling males that come of thy herd and of thy flock thou shalt sanctify unto the LORD thy God: thou shalt do no work with the firstling of thy bullock, nor shear the firstling of thy sheep.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "DEU.15.20",
+      "edition_verse_id": "KJV1769:DEU.15.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "Thou shalt eat ",
+          "kind": "text"
+        },
+        {
+          "text": "it",
+          "kind": "supplied"
+        },
+        {
+          "text": " before the LORD thy God year by year in the place which the LORD shall choose, thou and thy household.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.15.21",
+      "edition_verse_id": "KJV1769:DEU.15.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "And if there be ",
+          "kind": "text"
+        },
+        {
+          "text": "any",
+          "kind": "supplied"
+        },
+        {
+          "text": " blemish therein, ",
+          "kind": "text"
+        },
+        {
+          "text": "as if it be",
+          "kind": "supplied"
+        },
+        {
+          "text": " lame, or blind, ",
+          "kind": "text"
+        },
+        {
+          "text": "or have",
+          "kind": "supplied"
+        },
+        {
+          "text": " any ill blemish, thou shalt not sacrifice it unto the LORD thy God.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.15.22",
+      "edition_verse_id": "KJV1769:DEU.15.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "Thou shalt eat it within thy gates: the unclean and the clean ",
+          "kind": "text"
+        },
+        {
+          "text": "person shall eat it",
+          "kind": "supplied"
+        },
+        {
+          "text": " alike, as the roebuck, and as the hart.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.15.23",
+      "edition_verse_id": "KJV1769:DEU.15.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "Only thou shalt not eat the blood thereof; thou shalt pour it upon the ground as water.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

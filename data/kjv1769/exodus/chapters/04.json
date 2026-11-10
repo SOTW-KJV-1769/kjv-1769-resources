@@ -1,0 +1,524 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "KJV1769",
+  "book_code": "EXO",
+  "chapter": 4,
+  "verses": [
+    {
+      "id": "EXO.4.1",
+      "edition_verse_id": "KJV1769:EXO.4.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "And Moses answered and said, But, behold, they will not believe me, nor hearken unto my voice: for they will say, The LORD hath not appeared unto thee.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EXO.4.2",
+      "edition_verse_id": "KJV1769:EXO.4.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "And the LORD said unto him, What ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " that in thine hand? And he said, A rod.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.4.3",
+      "edition_verse_id": "KJV1769:EXO.4.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "And he said, Cast it on the ground. And he cast it on the ground, and it became a serpent; and Moses fled from before it.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.4.4",
+      "edition_verse_id": "KJV1769:EXO.4.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "And the LORD said unto Moses, Put forth thine hand, and take it by the tail. And he put forth his hand, and caught it, and it became a rod in his hand:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.4.5",
+      "edition_verse_id": "KJV1769:EXO.4.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "That they may believe that the LORD God of their fathers, the God of Abraham, the God of Isaac, and the God of Jacob, hath appeared unto thee.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.4.6",
+      "edition_verse_id": "KJV1769:EXO.4.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "¶ And the LORD said furthermore unto him, Put now thine hand into thy bosom. And he put his hand into his bosom: and when he took it out, behold, his hand ",
+          "kind": "text"
+        },
+        {
+          "text": "was",
+          "kind": "supplied"
+        },
+        {
+          "text": " leprous as snow.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EXO.4.7",
+      "edition_verse_id": "KJV1769:EXO.4.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "And he said, Put thine hand into thy bosom again. And he put his hand into his bosom again; and plucked it out of his bosom, and, behold, it was turned again as his ",
+          "kind": "text"
+        },
+        {
+          "text": "other",
+          "kind": "supplied"
+        },
+        {
+          "text": " flesh.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.4.8",
+      "edition_verse_id": "KJV1769:EXO.4.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "And it shall come to pass, if they will not believe thee, neither hearken to the voice of the first sign, that they will believe the voice of the latter sign.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.4.9",
+      "edition_verse_id": "KJV1769:EXO.4.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "And it shall come to pass, if they will not believe also these two signs, neither hearken unto thy voice, that thou shalt take of the water of the river, and pour ",
+          "kind": "text"
+        },
+        {
+          "text": "it",
+          "kind": "supplied"
+        },
+        {
+          "text": " upon the dry ",
+          "kind": "text"
+        },
+        {
+          "text": "land:",
+          "kind": "supplied"
+        },
+        {
+          "text": " and the water which thou takest out of the river shall become blood upon the dry ",
+          "kind": "text"
+        },
+        {
+          "text": "land",
+          "kind": "supplied"
+        },
+        {
+          "text": ".",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.4.10",
+      "edition_verse_id": "KJV1769:EXO.4.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "¶ And Moses said unto the LORD, O my Lord, I ",
+          "kind": "text"
+        },
+        {
+          "text": "am",
+          "kind": "supplied"
+        },
+        {
+          "text": " not eloquent, neither heretofore, nor since thou hast spoken unto thy servant: but I ",
+          "kind": "text"
+        },
+        {
+          "text": "am",
+          "kind": "supplied"
+        },
+        {
+          "text": " slow of speech, and of a slow tongue.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EXO.4.11",
+      "edition_verse_id": "KJV1769:EXO.4.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "And the LORD said unto him, Who hath made man’s mouth? or who maketh the dumb, or deaf, or the seeing, or the blind? have not I the LORD?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.4.12",
+      "edition_verse_id": "KJV1769:EXO.4.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "Now therefore go, and I will be with thy mouth, and teach thee what thou shalt say.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.4.13",
+      "edition_verse_id": "KJV1769:EXO.4.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "And he said, O my Lord, send, I pray thee, by the hand ",
+          "kind": "text"
+        },
+        {
+          "text": "of him whom",
+          "kind": "supplied"
+        },
+        {
+          "text": " thou wilt send.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.4.14",
+      "edition_verse_id": "KJV1769:EXO.4.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "And the anger of the LORD was kindled against Moses, and he said, ",
+          "kind": "text"
+        },
+        {
+          "text": "Is",
+          "kind": "supplied"
+        },
+        {
+          "text": " not Aaron the Levite thy brother? I know that he can speak well. And also, behold, he cometh forth to meet thee: and when he seeth thee, he will be glad in his heart.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.4.15",
+      "edition_verse_id": "KJV1769:EXO.4.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "And thou shalt speak unto him, and put words in his mouth: and I will be with thy mouth, and with his mouth, and will teach you what ye shall do.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.4.16",
+      "edition_verse_id": "KJV1769:EXO.4.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "And he shall be thy spokesman unto the people: and he shall be, ",
+          "kind": "text"
+        },
+        {
+          "text": "even",
+          "kind": "supplied"
+        },
+        {
+          "text": " he shall be to thee instead of a mouth, and thou shalt be to him instead of God.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.4.17",
+      "edition_verse_id": "KJV1769:EXO.4.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "And thou shalt take this rod in thine hand, wherewith thou shalt do signs.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.4.18",
+      "edition_verse_id": "KJV1769:EXO.4.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "¶ And Moses went and returned to Jethro his father in law, and said unto him, Let me go, I pray thee, and return unto my brethren which ",
+          "kind": "text"
+        },
+        {
+          "text": "are",
+          "kind": "supplied"
+        },
+        {
+          "text": " in Egypt, and see whether they be yet alive. And Jethro said to Moses, Go in peace.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EXO.4.19",
+      "edition_verse_id": "KJV1769:EXO.4.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "And the LORD said unto Moses in Midian, Go, return into Egypt: for all the men are dead which sought thy life.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.4.20",
+      "edition_verse_id": "KJV1769:EXO.4.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "And Moses took his wife and his sons, and set them upon an ass, and he returned to the land of Egypt: and Moses took the rod of God in his hand.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.4.21",
+      "edition_verse_id": "KJV1769:EXO.4.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "And the LORD said unto Moses, When thou goest to return into Egypt, see that thou do all those wonders before Pharaoh, which I have put in thine hand: but I will harden his heart, that he shall not let the people go.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.4.22",
+      "edition_verse_id": "KJV1769:EXO.4.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "And thou shalt say unto Pharaoh, Thus saith the LORD, Israel ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " my son, ",
+          "kind": "text"
+        },
+        {
+          "text": "even",
+          "kind": "supplied"
+        },
+        {
+          "text": " my firstborn:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.4.23",
+      "edition_verse_id": "KJV1769:EXO.4.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "And I say unto thee, Let my son go, that he may serve me: and if thou refuse to let him go, behold, I will slay thy son, ",
+          "kind": "text"
+        },
+        {
+          "text": "even",
+          "kind": "supplied"
+        },
+        {
+          "text": " thy firstborn.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.4.24",
+      "edition_verse_id": "KJV1769:EXO.4.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "¶ And it came to pass by the way in the inn, that the LORD met him, and sought to kill him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EXO.4.25",
+      "edition_verse_id": "KJV1769:EXO.4.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "Then Zipporah took a sharp stone, and cut off the foreskin of her son, and cast ",
+          "kind": "text"
+        },
+        {
+          "text": "it",
+          "kind": "supplied"
+        },
+        {
+          "text": " at his feet, and said, Surely a bloody husband ",
+          "kind": "text"
+        },
+        {
+          "text": "art",
+          "kind": "supplied"
+        },
+        {
+          "text": " thou to me.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.4.26",
+      "edition_verse_id": "KJV1769:EXO.4.26",
+      "verse": 26,
+      "spans": [
+        {
+          "text": "So he let him go: then she said, A bloody husband ",
+          "kind": "text"
+        },
+        {
+          "text": "thou art",
+          "kind": "supplied"
+        },
+        {
+          "text": ", because of the circumcision.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.4.27",
+      "edition_verse_id": "KJV1769:EXO.4.27",
+      "verse": 27,
+      "spans": [
+        {
+          "text": "¶ And the LORD said to Aaron, Go into the wilderness to meet Moses. And he went, and met him in the mount of God, and kissed him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EXO.4.28",
+      "edition_verse_id": "KJV1769:EXO.4.28",
+      "verse": 28,
+      "spans": [
+        {
+          "text": "And Moses told Aaron all the words of the LORD who had sent him, and all the signs which he had commanded him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.4.29",
+      "edition_verse_id": "KJV1769:EXO.4.29",
+      "verse": 29,
+      "spans": [
+        {
+          "text": "¶ And Moses and Aaron went and gathered together all the elders of the children of Israel:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EXO.4.30",
+      "edition_verse_id": "KJV1769:EXO.4.30",
+      "verse": 30,
+      "spans": [
+        {
+          "text": "And Aaron spake all the words which the LORD had spoken unto Moses, and did the signs in the sight of the people.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.4.31",
+      "edition_verse_id": "KJV1769:EXO.4.31",
+      "verse": 31,
+      "spans": [
+        {
+          "text": "And the people believed: and when they heard that the LORD had visited the children of Israel, and that he had looked upon their affliction, then they bowed their heads and worshipped.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

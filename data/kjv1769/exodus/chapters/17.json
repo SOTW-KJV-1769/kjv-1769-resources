@@ -1,0 +1,272 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "KJV1769",
+  "book_code": "EXO",
+  "chapter": 17,
+  "verses": [
+    {
+      "id": "EXO.17.1",
+      "edition_verse_id": "KJV1769:EXO.17.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "And all the congregation of the children of Israel journeyed from the wilderness of Sin, after their journeys, according to the commandment of the LORD, and pitched in Rephidim: and ",
+          "kind": "text"
+        },
+        {
+          "text": "there was",
+          "kind": "supplied"
+        },
+        {
+          "text": " no water for the people to drink.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EXO.17.2",
+      "edition_verse_id": "KJV1769:EXO.17.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "Wherefore the people did chide with Moses, and said, Give us water that we may drink. And Moses said unto them, Why chide ye with me? wherefore do ye tempt the LORD?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.17.3",
+      "edition_verse_id": "KJV1769:EXO.17.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "And the people thirsted there for water; and the people murmured against Moses, and said, Wherefore ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " this ",
+          "kind": "text"
+        },
+        {
+          "text": "that",
+          "kind": "supplied"
+        },
+        {
+          "text": " thou hast brought us up out of Egypt, to kill us and our children and our cattle with thirst?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.17.4",
+      "edition_verse_id": "KJV1769:EXO.17.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "And Moses cried unto the LORD, saying, What shall I do unto this people? they be almost ready to stone me.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.17.5",
+      "edition_verse_id": "KJV1769:EXO.17.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "And the LORD said unto Moses, Go on before the people, and take with thee of the elders of Israel; and thy rod, wherewith thou smotest the river, take in thine hand, and go.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.17.6",
+      "edition_verse_id": "KJV1769:EXO.17.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "Behold, I will stand before thee there upon the rock in Horeb; and thou shalt smite the rock, and there shall come water out of it, that the people may drink. And Moses did so in the sight of the elders of Israel.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.17.7",
+      "edition_verse_id": "KJV1769:EXO.17.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "And he called the name of the place Massah, and Meribah, because of the chiding of the children of Israel, and because they tempted the LORD, saying, Is the LORD among us, or not?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.17.8",
+      "edition_verse_id": "KJV1769:EXO.17.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "¶ Then came Amalek, and fought with Israel in Rephidim.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EXO.17.9",
+      "edition_verse_id": "KJV1769:EXO.17.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "And Moses said unto Joshua, Choose us out men, and go out, fight with Amalek: to morrow I will stand on the top of the hill with the rod of God in mine hand.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.17.10",
+      "edition_verse_id": "KJV1769:EXO.17.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "So Joshua did as Moses had said to him, and fought with Amalek: and Moses, Aaron, and Hur went up to the top of the hill.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.17.11",
+      "edition_verse_id": "KJV1769:EXO.17.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "And it came to pass, when Moses held up his hand, that Israel prevailed: and when he let down his hand, Amalek prevailed.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.17.12",
+      "edition_verse_id": "KJV1769:EXO.17.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "But Moses’ hands ",
+          "kind": "text"
+        },
+        {
+          "text": "were",
+          "kind": "supplied"
+        },
+        {
+          "text": " heavy; and they took a stone, and put ",
+          "kind": "text"
+        },
+        {
+          "text": "it",
+          "kind": "supplied"
+        },
+        {
+          "text": " under him, and he sat thereon; and Aaron and Hur stayed up his hands, the one on the one side, and the other on the other side; and his hands were steady until the going down of the sun.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.17.13",
+      "edition_verse_id": "KJV1769:EXO.17.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "And Joshua discomfited Amalek and his people with the edge of the sword.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.17.14",
+      "edition_verse_id": "KJV1769:EXO.17.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "And the LORD said unto Moses, Write this ",
+          "kind": "text"
+        },
+        {
+          "text": "for",
+          "kind": "supplied"
+        },
+        {
+          "text": " a memorial in a book, and rehearse ",
+          "kind": "text"
+        },
+        {
+          "text": "it",
+          "kind": "supplied"
+        },
+        {
+          "text": " in the ears of Joshua: for I will utterly put out the remembrance of Amalek from under heaven.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.17.15",
+      "edition_verse_id": "KJV1769:EXO.17.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "And Moses built an altar, and called the name of it Jehovah-nissi:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.17.16",
+      "edition_verse_id": "KJV1769:EXO.17.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "For he said, Because the LORD hath sworn ",
+          "kind": "text"
+        },
+        {
+          "text": "that",
+          "kind": "supplied"
+        },
+        {
+          "text": " the LORD ",
+          "kind": "text"
+        },
+        {
+          "text": "will have",
+          "kind": "supplied"
+        },
+        {
+          "text": " war with Amalek from generation to generation.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}
