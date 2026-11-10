@@ -1,0 +1,292 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "KJV1769",
+  "book_code": "PSA",
+  "chapter": 83,
+  "verses": [
+    {
+      "id": "PSA.83.1",
+      "edition_verse_id": "KJV1769:PSA.83.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "Keep not thou silence, O God: hold not thy peace, and be not still, O God.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.83.2",
+      "edition_verse_id": "KJV1769:PSA.83.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "For, lo, thine enemies make a tumult: and they that hate thee have lifted up the head.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.83.3",
+      "edition_verse_id": "KJV1769:PSA.83.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "They have taken crafty counsel against thy people, and consulted against thy hidden ones.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.83.4",
+      "edition_verse_id": "KJV1769:PSA.83.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "They have said, Come, and let us cut them off from ",
+          "kind": "text"
+        },
+        {
+          "text": "being",
+          "kind": "supplied"
+        },
+        {
+          "text": " a nation; that the name of Israel may be no more in remembrance.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.83.5",
+      "edition_verse_id": "KJV1769:PSA.83.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "For they have consulted together with one consent: they are confederate against thee:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.83.6",
+      "edition_verse_id": "KJV1769:PSA.83.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "The tabernacles of Edom, and the Ishmaelites; of Moab, and the Hagarenes;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.83.7",
+      "edition_verse_id": "KJV1769:PSA.83.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "Gebal, and Ammon, and Amalek; the Philistines with the inhabitants of Tyre;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.83.8",
+      "edition_verse_id": "KJV1769:PSA.83.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "Assur also is joined with them: they have holpen the children of Lot. Selah.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.83.9",
+      "edition_verse_id": "KJV1769:PSA.83.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "Do unto them as ",
+          "kind": "text"
+        },
+        {
+          "text": "unto",
+          "kind": "supplied"
+        },
+        {
+          "text": " the Midianites; as ",
+          "kind": "text"
+        },
+        {
+          "text": "to",
+          "kind": "supplied"
+        },
+        {
+          "text": " Sisera, as ",
+          "kind": "text"
+        },
+        {
+          "text": "to",
+          "kind": "supplied"
+        },
+        {
+          "text": " Jabin, at the brook of Kison:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.83.10",
+      "edition_verse_id": "KJV1769:PSA.83.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "Which",
+          "kind": "supplied"
+        },
+        {
+          "text": " perished at Endor: they became ",
+          "kind": "text"
+        },
+        {
+          "text": "as",
+          "kind": "supplied"
+        },
+        {
+          "text": " dung for the earth.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.83.11",
+      "edition_verse_id": "KJV1769:PSA.83.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "Make their nobles like Oreb, and like Zeeb: yea, all their princes as Zebah, and as Zalmunna:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.83.12",
+      "edition_verse_id": "KJV1769:PSA.83.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "Who said, Let us take to ourselves the houses of God in possession.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.83.13",
+      "edition_verse_id": "KJV1769:PSA.83.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "O my God, make them like a wheel; as the stubble before the wind.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.83.14",
+      "edition_verse_id": "KJV1769:PSA.83.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "As the fire burneth a wood, and as the flame setteth the mountains on fire;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.83.15",
+      "edition_verse_id": "KJV1769:PSA.83.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "So persecute them with thy tempest, and make them afraid with thy storm.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.83.16",
+      "edition_verse_id": "KJV1769:PSA.83.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "Fill their faces with shame; that they may seek thy name, O LORD.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.83.17",
+      "edition_verse_id": "KJV1769:PSA.83.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "Let them be confounded and troubled for ever; yea, let them be put to shame, and perish:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.83.18",
+      "edition_verse_id": "KJV1769:PSA.83.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "That ",
+          "kind": "text"
+        },
+        {
+          "text": "men",
+          "kind": "supplied"
+        },
+        {
+          "text": " may know that thou, whose name alone ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " JEHOVAH, ",
+          "kind": "text"
+        },
+        {
+          "text": "art",
+          "kind": "supplied"
+        },
+        {
+          "text": " the most high over all the earth.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

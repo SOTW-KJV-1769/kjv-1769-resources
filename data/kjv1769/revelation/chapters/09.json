@@ -1,0 +1,372 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "KJV1769",
+  "book_code": "REV",
+  "chapter": 9,
+  "verses": [
+    {
+      "id": "REV.9.1",
+      "edition_verse_id": "KJV1769:REV.9.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "And the fifth angel sounded, and I saw a star fall from heaven unto the earth: and to him was given the key of the bottomless pit.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "REV.9.2",
+      "edition_verse_id": "KJV1769:REV.9.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "And he opened the bottomless pit; and there arose a smoke out of the pit, as the smoke of a great furnace; and the sun and the air were darkened by reason of the smoke of the pit.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "REV.9.3",
+      "edition_verse_id": "KJV1769:REV.9.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "And there came out of the smoke locusts upon the earth: and unto them was given power, as the scorpions of the earth have power.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "REV.9.4",
+      "edition_verse_id": "KJV1769:REV.9.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "And it was commanded them that they should not hurt the grass of the earth, neither any green thing, neither any tree; but only those men which have not the seal of God in their foreheads.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "REV.9.5",
+      "edition_verse_id": "KJV1769:REV.9.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "And to them it was given that they should not kill them, but that they should be tormented five months: and their torment ",
+          "kind": "text"
+        },
+        {
+          "text": "was",
+          "kind": "supplied"
+        },
+        {
+          "text": " as the torment of a scorpion, when he striketh a man.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "REV.9.6",
+      "edition_verse_id": "KJV1769:REV.9.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "And in those days shall men seek death, and shall not find it; and shall desire to die, and death shall flee from them.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "REV.9.7",
+      "edition_verse_id": "KJV1769:REV.9.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "And the shapes of the locusts ",
+          "kind": "text"
+        },
+        {
+          "text": "were",
+          "kind": "supplied"
+        },
+        {
+          "text": " like unto horses prepared unto battle; and on their heads ",
+          "kind": "text"
+        },
+        {
+          "text": "were",
+          "kind": "supplied"
+        },
+        {
+          "text": " as it were crowns like gold, and their faces ",
+          "kind": "text"
+        },
+        {
+          "text": "were",
+          "kind": "supplied"
+        },
+        {
+          "text": " as the faces of men.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "REV.9.8",
+      "edition_verse_id": "KJV1769:REV.9.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "And they had hair as the hair of women, and their teeth were as ",
+          "kind": "text"
+        },
+        {
+          "text": "the teeth",
+          "kind": "supplied"
+        },
+        {
+          "text": " of lions.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "REV.9.9",
+      "edition_verse_id": "KJV1769:REV.9.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "And they had breastplates, as it were breastplates of iron; and the sound of their wings ",
+          "kind": "text"
+        },
+        {
+          "text": "was",
+          "kind": "supplied"
+        },
+        {
+          "text": " as the sound of chariots of many horses running to battle.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "REV.9.10",
+      "edition_verse_id": "KJV1769:REV.9.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "And they had tails like unto scorpions, and there were stings in their tails: and their power ",
+          "kind": "text"
+        },
+        {
+          "text": "was",
+          "kind": "supplied"
+        },
+        {
+          "text": " to hurt men five months.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "REV.9.11",
+      "edition_verse_id": "KJV1769:REV.9.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "And they had a king over them, ",
+          "kind": "text"
+        },
+        {
+          "text": "which is",
+          "kind": "supplied"
+        },
+        {
+          "text": " the angel of the bottomless pit, whose name in the Hebrew tongue ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " Abaddon, but in the Greek tongue hath ",
+          "kind": "text"
+        },
+        {
+          "text": "his",
+          "kind": "supplied"
+        },
+        {
+          "text": " name Apollyon.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "REV.9.12",
+      "edition_verse_id": "KJV1769:REV.9.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "One woe is past; ",
+          "kind": "text"
+        },
+        {
+          "text": "and",
+          "kind": "supplied"
+        },
+        {
+          "text": ", behold, there come two woes more hereafter.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "REV.9.13",
+      "edition_verse_id": "KJV1769:REV.9.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "And the sixth angel sounded, and I heard a voice from the four horns of the golden altar which is before God,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "REV.9.14",
+      "edition_verse_id": "KJV1769:REV.9.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "Saying to the sixth angel which had the trumpet, Loose the four angels which are bound in the great river Euphrates.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "REV.9.15",
+      "edition_verse_id": "KJV1769:REV.9.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "And the four angels were loosed, which were prepared for an hour, and a day, and a month, and a year, for to slay the third part of men.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "REV.9.16",
+      "edition_verse_id": "KJV1769:REV.9.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "And the number of the army of the horsemen ",
+          "kind": "text"
+        },
+        {
+          "text": "were",
+          "kind": "supplied"
+        },
+        {
+          "text": " two hundred thousand thousand: and I heard the number of them.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "REV.9.17",
+      "edition_verse_id": "KJV1769:REV.9.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "And thus I saw the horses in the vision, and them that sat on them, having breastplates of fire, and of jacinth, and brimstone: and the heads of the horses ",
+          "kind": "text"
+        },
+        {
+          "text": "were",
+          "kind": "supplied"
+        },
+        {
+          "text": " as the heads of lions; and out of their mouths issued fire and smoke and brimstone.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "REV.9.18",
+      "edition_verse_id": "KJV1769:REV.9.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "By these three was the third part of men killed, by the fire, and by the smoke, and by the brimstone, which issued out of their mouths.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "REV.9.19",
+      "edition_verse_id": "KJV1769:REV.9.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "For their power is in their mouth, and in their tails: for their tails ",
+          "kind": "text"
+        },
+        {
+          "text": "were",
+          "kind": "supplied"
+        },
+        {
+          "text": " like unto serpents, and had heads, and with them they do hurt.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "REV.9.20",
+      "edition_verse_id": "KJV1769:REV.9.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "And the rest of the men which were not killed by these plagues yet repented not of the works of their hands, that they should not worship devils, and idols of gold, and silver, and brass, and stone, and of wood: which neither can see, nor hear, nor walk:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "REV.9.21",
+      "edition_verse_id": "KJV1769:REV.9.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "Neither repented they of their murders, nor of their sorceries, nor of their fornication, nor of their thefts.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

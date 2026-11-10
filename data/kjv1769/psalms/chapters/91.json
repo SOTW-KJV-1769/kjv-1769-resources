@@ -1,0 +1,308 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "KJV1769",
+  "book_code": "PSA",
+  "chapter": 91,
+  "verses": [
+    {
+      "id": "PSA.91.1",
+      "edition_verse_id": "KJV1769:PSA.91.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "He that dwelleth in the secret place of the most High shall abide under the shadow of the Almighty.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.91.2",
+      "edition_verse_id": "KJV1769:PSA.91.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "I will say of the LORD, ",
+          "kind": "text"
+        },
+        {
+          "text": "He is",
+          "kind": "supplied"
+        },
+        {
+          "text": " my refuge and my fortress: my God; in him will I trust.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.91.3",
+      "edition_verse_id": "KJV1769:PSA.91.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "Surely he shall deliver thee from the snare of the fowler, ",
+          "kind": "text"
+        },
+        {
+          "text": "and",
+          "kind": "supplied"
+        },
+        {
+          "text": " from the noisome pestilence.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.91.4",
+      "edition_verse_id": "KJV1769:PSA.91.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "He shall cover thee with his feathers, and under his wings shalt thou trust: his truth ",
+          "kind": "text"
+        },
+        {
+          "text": "shall be thy",
+          "kind": "supplied"
+        },
+        {
+          "text": " shield and buckler.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.91.5",
+      "edition_verse_id": "KJV1769:PSA.91.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "Thou shalt not be afraid for the terror by night; ",
+          "kind": "text"
+        },
+        {
+          "text": "nor",
+          "kind": "supplied"
+        },
+        {
+          "text": " for the arrow ",
+          "kind": "text"
+        },
+        {
+          "text": "that",
+          "kind": "supplied"
+        },
+        {
+          "text": " flieth by day;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.91.6",
+      "edition_verse_id": "KJV1769:PSA.91.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "Nor",
+          "kind": "supplied"
+        },
+        {
+          "text": " for the pestilence ",
+          "kind": "text"
+        },
+        {
+          "text": "that",
+          "kind": "supplied"
+        },
+        {
+          "text": " walketh in darkness; ",
+          "kind": "text"
+        },
+        {
+          "text": "nor",
+          "kind": "supplied"
+        },
+        {
+          "text": " for the destruction ",
+          "kind": "text"
+        },
+        {
+          "text": "that",
+          "kind": "supplied"
+        },
+        {
+          "text": " wasteth at noonday.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.91.7",
+      "edition_verse_id": "KJV1769:PSA.91.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "A thousand shall fall at thy side, and ten thousand at thy right hand; ",
+          "kind": "text"
+        },
+        {
+          "text": "but",
+          "kind": "supplied"
+        },
+        {
+          "text": " it shall not come nigh thee.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.91.8",
+      "edition_verse_id": "KJV1769:PSA.91.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "Only with thine eyes shalt thou behold and see the reward of the wicked.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.91.9",
+      "edition_verse_id": "KJV1769:PSA.91.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "Because thou hast made the LORD, ",
+          "kind": "text"
+        },
+        {
+          "text": "which is",
+          "kind": "supplied"
+        },
+        {
+          "text": " my refuge, ",
+          "kind": "text"
+        },
+        {
+          "text": "even",
+          "kind": "supplied"
+        },
+        {
+          "text": " the most High, thy habitation;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.91.10",
+      "edition_verse_id": "KJV1769:PSA.91.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "There shall no evil befall thee, neither shall any plague come nigh thy dwelling.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.91.11",
+      "edition_verse_id": "KJV1769:PSA.91.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "For he shall give his angels charge over thee, to keep thee in all thy ways.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.91.12",
+      "edition_verse_id": "KJV1769:PSA.91.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "They shall bear thee up in ",
+          "kind": "text"
+        },
+        {
+          "text": "their",
+          "kind": "supplied"
+        },
+        {
+          "text": " hands, lest thou dash thy foot against a stone.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.91.13",
+      "edition_verse_id": "KJV1769:PSA.91.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "Thou shalt tread upon the lion and adder: the young lion and the dragon shalt thou trample under feet.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.91.14",
+      "edition_verse_id": "KJV1769:PSA.91.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "Because he hath set his love upon me, therefore will I deliver him: I will set him on high, because he hath known my name.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.91.15",
+      "edition_verse_id": "KJV1769:PSA.91.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "He shall call upon me, and I will answer him: I ",
+          "kind": "text"
+        },
+        {
+          "text": "will be",
+          "kind": "supplied"
+        },
+        {
+          "text": " with him in trouble; I will deliver him, and honour him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.91.16",
+      "edition_verse_id": "KJV1769:PSA.91.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "With long life will I satisfy him, and shew him my salvation.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

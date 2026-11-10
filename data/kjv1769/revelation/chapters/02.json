@@ -1,0 +1,440 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "KJV1769",
+  "book_code": "REV",
+  "chapter": 2,
+  "verses": [
+    {
+      "id": "REV.2.1",
+      "edition_verse_id": "KJV1769:REV.2.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "Unto the angel of the church of Ephesus write; These things saith he that holdeth the seven stars in his right hand, who walketh in the midst of the seven golden candlesticks;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "REV.2.2",
+      "edition_verse_id": "KJV1769:REV.2.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "I know thy works, and thy labour, and thy patience, and how thou canst not bear them which are evil: and thou hast tried them which say they are apostles, and are not, and hast found them liars:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "REV.2.3",
+      "edition_verse_id": "KJV1769:REV.2.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "And hast borne, and hast patience, and for my name’s sake hast laboured, and hast not fainted.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "REV.2.4",
+      "edition_verse_id": "KJV1769:REV.2.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "Nevertheless I have ",
+          "kind": "text"
+        },
+        {
+          "text": "somewhat",
+          "kind": "supplied"
+        },
+        {
+          "text": " against thee, because thou hast left thy first love.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "REV.2.5",
+      "edition_verse_id": "KJV1769:REV.2.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "Remember therefore from whence thou art fallen, and repent, and do the first works; or else I will come unto thee quickly, and will remove thy candlestick out of his place, except thou repent.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "REV.2.6",
+      "edition_verse_id": "KJV1769:REV.2.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "But this thou hast, that thou hatest the deeds of the Nicolaitans, which I also hate.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "REV.2.7",
+      "edition_verse_id": "KJV1769:REV.2.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "He that hath an ear, let him hear what the Spirit saith unto the churches; To him that overcometh will I give to eat of the tree of life, which is in the midst of the paradise of God.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "REV.2.8",
+      "edition_verse_id": "KJV1769:REV.2.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "And unto the angel of the church in Smyrna write; These things saith the first and the last, which was dead, and is alive;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "REV.2.9",
+      "edition_verse_id": "KJV1769:REV.2.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "I know thy works, and tribulation, and poverty, (but thou art rich) and ",
+          "kind": "text"
+        },
+        {
+          "text": "I know",
+          "kind": "supplied"
+        },
+        {
+          "text": " the blasphemy of them which say they are Jews, and are not, but ",
+          "kind": "text"
+        },
+        {
+          "text": "are",
+          "kind": "supplied"
+        },
+        {
+          "text": " the synagogue of Satan.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "REV.2.10",
+      "edition_verse_id": "KJV1769:REV.2.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "Fear none of those things which thou shalt suffer: behold, the devil shall cast ",
+          "kind": "text"
+        },
+        {
+          "text": "some",
+          "kind": "supplied"
+        },
+        {
+          "text": " of you into prison, that ye may be tried; and ye shall have tribulation ten days: be thou faithful unto death, and I will give thee a crown of life.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "REV.2.11",
+      "edition_verse_id": "KJV1769:REV.2.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "He that hath an ear, let him hear what the Spirit saith unto the churches; He that overcometh shall not be hurt of the second death.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "REV.2.12",
+      "edition_verse_id": "KJV1769:REV.2.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "And to the angel of the church in Pergamos write; These things saith he which hath the sharp sword with two edges;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "REV.2.13",
+      "edition_verse_id": "KJV1769:REV.2.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "I know thy works, and where thou dwellest, ",
+          "kind": "text"
+        },
+        {
+          "text": "even",
+          "kind": "supplied"
+        },
+        {
+          "text": " where Satan’s seat ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": ": and thou holdest fast my name, and hast not denied my faith, even in those days wherein Antipas ",
+          "kind": "text"
+        },
+        {
+          "text": "was",
+          "kind": "supplied"
+        },
+        {
+          "text": " my faithful martyr, who was slain among you, where Satan dwelleth.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "REV.2.14",
+      "edition_verse_id": "KJV1769:REV.2.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "But I have a few things against thee, because thou hast there them that hold the doctrine of Balaam, who taught Balac to cast a stumblingblock before the children of Israel, to eat things sacrificed unto idols, and to commit fornication.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "REV.2.15",
+      "edition_verse_id": "KJV1769:REV.2.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "So hast thou also them that hold the doctrine of the Nicolaitans, which thing I hate.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "REV.2.16",
+      "edition_verse_id": "KJV1769:REV.2.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "Repent; or else I will come unto thee quickly, and will fight against them with the sword of my mouth.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "REV.2.17",
+      "edition_verse_id": "KJV1769:REV.2.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "He that hath an ear, let him hear what the Spirit saith unto the churches; To him that overcometh will I give to eat of the hidden manna, and will give him a white stone, and in the stone a new name written, which no man knoweth saving he that receiveth ",
+          "kind": "text"
+        },
+        {
+          "text": "it.",
+          "kind": "supplied"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "REV.2.18",
+      "edition_verse_id": "KJV1769:REV.2.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "And unto the angel of the church in Thyatira write; These things saith the Son of God, who hath his eyes like unto a flame of fire, and his feet ",
+          "kind": "text"
+        },
+        {
+          "text": "are",
+          "kind": "supplied"
+        },
+        {
+          "text": " like fine brass;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "REV.2.19",
+      "edition_verse_id": "KJV1769:REV.2.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "I know thy works, and charity, and service, and faith, and thy patience, and thy works; and the last ",
+          "kind": "text"
+        },
+        {
+          "text": "to be",
+          "kind": "supplied"
+        },
+        {
+          "text": " more than the first.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "REV.2.20",
+      "edition_verse_id": "KJV1769:REV.2.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "Notwithstanding I have a few things against thee, because thou sufferest that woman Jezebel, which calleth herself a prophetess, to teach and to seduce my servants to commit fornication, and to eat things sacrificed unto idols.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "REV.2.21",
+      "edition_verse_id": "KJV1769:REV.2.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "And I gave her space to repent of her fornication; and she repented not.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "REV.2.22",
+      "edition_verse_id": "KJV1769:REV.2.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "Behold, I will cast her into a bed, and them that commit adultery with her into great tribulation, except they repent of their deeds.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "REV.2.23",
+      "edition_verse_id": "KJV1769:REV.2.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "And I will kill her children with death; and all the churches shall know that I am he which searcheth the reins and hearts: and I will give unto every one of you according to your works.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "REV.2.24",
+      "edition_verse_id": "KJV1769:REV.2.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "But unto you I say, and unto the rest in Thyatira, as many as have not this doctrine, and which have not known the depths of Satan, as they speak; I will put upon you none other burden.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "REV.2.25",
+      "edition_verse_id": "KJV1769:REV.2.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "But that which ye have ",
+          "kind": "text"
+        },
+        {
+          "text": "already",
+          "kind": "supplied"
+        },
+        {
+          "text": " hold fast till I come.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "REV.2.26",
+      "edition_verse_id": "KJV1769:REV.2.26",
+      "verse": 26,
+      "spans": [
+        {
+          "text": "And he that overcometh, and keepeth my works unto the end, to him will I give power over the nations:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "REV.2.27",
+      "edition_verse_id": "KJV1769:REV.2.27",
+      "verse": 27,
+      "spans": [
+        {
+          "text": "And he shall rule them with a rod of iron; as the vessels of a potter shall they be broken to shivers: even as I received of my Father.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "REV.2.28",
+      "edition_verse_id": "KJV1769:REV.2.28",
+      "verse": 28,
+      "spans": [
+        {
+          "text": "And I will give him the morning star.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "REV.2.29",
+      "edition_verse_id": "KJV1769:REV.2.29",
+      "verse": 29,
+      "spans": [
+        {
+          "text": "He that hath an ear, let him hear what the Spirit saith unto the churches.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

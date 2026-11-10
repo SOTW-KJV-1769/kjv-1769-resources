@@ -1,0 +1,128 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "KJV1769",
+  "book_code": "PSA",
+  "chapter": 82,
+  "verses": [
+    {
+      "id": "PSA.82.1",
+      "edition_verse_id": "KJV1769:PSA.82.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "God standeth in the congregation of the mighty; he judgeth among the gods.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.82.2",
+      "edition_verse_id": "KJV1769:PSA.82.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "How long will ye judge unjustly, and accept the persons of the wicked? Selah.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.82.3",
+      "edition_verse_id": "KJV1769:PSA.82.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "Defend the poor and fatherless: do justice to the afflicted and needy.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.82.4",
+      "edition_verse_id": "KJV1769:PSA.82.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "Deliver the poor and needy: rid ",
+          "kind": "text"
+        },
+        {
+          "text": "them",
+          "kind": "supplied"
+        },
+        {
+          "text": " out of the hand of the wicked.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.82.5",
+      "edition_verse_id": "KJV1769:PSA.82.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "They know not, neither will they understand; they walk on in darkness: all the foundations of the earth are out of course.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.82.6",
+      "edition_verse_id": "KJV1769:PSA.82.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "I have said, Ye ",
+          "kind": "text"
+        },
+        {
+          "text": "are",
+          "kind": "supplied"
+        },
+        {
+          "text": " gods; and all of you ",
+          "kind": "text"
+        },
+        {
+          "text": "are",
+          "kind": "supplied"
+        },
+        {
+          "text": " children of the most High.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.82.7",
+      "edition_verse_id": "KJV1769:PSA.82.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "But ye shall die like men, and fall like one of the princes.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.82.8",
+      "edition_verse_id": "KJV1769:PSA.82.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "Arise, O God, judge the earth: for thou shalt inherit all nations.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

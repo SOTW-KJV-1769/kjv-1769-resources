@@ -1,0 +1,228 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "KJV1769",
+  "book_code": "PSA",
+  "chapter": 96,
+  "verses": [
+    {
+      "id": "PSA.96.1",
+      "edition_verse_id": "KJV1769:PSA.96.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "O sing unto the LORD a new song: sing unto the LORD, all the earth.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.96.2",
+      "edition_verse_id": "KJV1769:PSA.96.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "Sing unto the LORD, bless his name; shew forth his salvation from day to day.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.96.3",
+      "edition_verse_id": "KJV1769:PSA.96.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "Declare his glory among the heathen, his wonders among all people.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.96.4",
+      "edition_verse_id": "KJV1769:PSA.96.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "For the LORD ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " great, and greatly to be praised: he ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " to be feared above all gods.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.96.5",
+      "edition_verse_id": "KJV1769:PSA.96.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "For all the gods of the nations ",
+          "kind": "text"
+        },
+        {
+          "text": "are",
+          "kind": "supplied"
+        },
+        {
+          "text": " idols: but the LORD made the heavens.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.96.6",
+      "edition_verse_id": "KJV1769:PSA.96.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "Honour and majesty ",
+          "kind": "text"
+        },
+        {
+          "text": "are",
+          "kind": "supplied"
+        },
+        {
+          "text": " before him: strength and beauty ",
+          "kind": "text"
+        },
+        {
+          "text": "are",
+          "kind": "supplied"
+        },
+        {
+          "text": " in his sanctuary.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.96.7",
+      "edition_verse_id": "KJV1769:PSA.96.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "Give unto the LORD, O ye kindreds of the people, give unto the LORD glory and strength.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.96.8",
+      "edition_verse_id": "KJV1769:PSA.96.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "Give unto the LORD the glory ",
+          "kind": "text"
+        },
+        {
+          "text": "due unto",
+          "kind": "supplied"
+        },
+        {
+          "text": " his name: bring an offering, and come into his courts.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.96.9",
+      "edition_verse_id": "KJV1769:PSA.96.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "O worship the LORD in the beauty of holiness: fear before him, all the earth.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.96.10",
+      "edition_verse_id": "KJV1769:PSA.96.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "Say among the heathen ",
+          "kind": "text"
+        },
+        {
+          "text": "that",
+          "kind": "supplied"
+        },
+        {
+          "text": " the LORD reigneth: the world also shall be established that it shall not be moved: he shall judge the people righteously.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.96.11",
+      "edition_verse_id": "KJV1769:PSA.96.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "Let the heavens rejoice, and let the earth be glad; let the sea roar, and the fulness thereof.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.96.12",
+      "edition_verse_id": "KJV1769:PSA.96.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "Let the field be joyful, and all that ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " therein: then shall all the trees of the wood rejoice",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.96.13",
+      "edition_verse_id": "KJV1769:PSA.96.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "Before the LORD: for he cometh, for he cometh to judge the earth: he shall judge the world with righteousness, and the people with his truth.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

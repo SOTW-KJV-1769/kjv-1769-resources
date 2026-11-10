@@ -1,0 +1,420 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "KJV1769",
+  "book_code": "ROM",
+  "chapter": 4,
+  "verses": [
+    {
+      "id": "ROM.4.1",
+      "edition_verse_id": "KJV1769:ROM.4.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "What shall we say then that Abraham our father, as pertaining to the flesh, hath found?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ROM.4.2",
+      "edition_verse_id": "KJV1769:ROM.4.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "For if Abraham were justified by works, he hath ",
+          "kind": "text"
+        },
+        {
+          "text": "whereof",
+          "kind": "supplied"
+        },
+        {
+          "text": " to glory; but not before God.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ROM.4.3",
+      "edition_verse_id": "KJV1769:ROM.4.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "For what saith the scripture? Abraham believed God, and it was counted unto him for righteousness.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ROM.4.4",
+      "edition_verse_id": "KJV1769:ROM.4.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "Now to him that worketh is the reward not reckoned of grace, but of debt.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ROM.4.5",
+      "edition_verse_id": "KJV1769:ROM.4.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "But to him that worketh not, but believeth on him that justifieth the ungodly, his faith is counted for righteousness.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ROM.4.6",
+      "edition_verse_id": "KJV1769:ROM.4.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "Even as David also describeth the blessedness of the man, unto whom God imputeth righteousness without works,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ROM.4.7",
+      "edition_verse_id": "KJV1769:ROM.4.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "Saying",
+          "kind": "supplied"
+        },
+        {
+          "text": ", Blessed ",
+          "kind": "text"
+        },
+        {
+          "text": "are",
+          "kind": "supplied"
+        },
+        {
+          "text": " they whose iniquities are forgiven, and whose sins are covered.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ROM.4.8",
+      "edition_verse_id": "KJV1769:ROM.4.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "Blessed ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " the man to whom the Lord will not impute sin.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ROM.4.9",
+      "edition_verse_id": "KJV1769:ROM.4.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "Cometh",
+          "kind": "supplied"
+        },
+        {
+          "text": " this blessedness then upon the circumcision ",
+          "kind": "text"
+        },
+        {
+          "text": "only",
+          "kind": "supplied"
+        },
+        {
+          "text": ", or upon the uncircumcision also? for we say that faith was reckoned to Abraham for righteousness.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ROM.4.10",
+      "edition_verse_id": "KJV1769:ROM.4.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "How was it then reckoned? when he was in circumcision, or in uncircumcision? Not in circumcision, but in uncircumcision.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ROM.4.11",
+      "edition_verse_id": "KJV1769:ROM.4.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "And he received the sign of circumcision, a seal of the righteousness of the faith which ",
+          "kind": "text"
+        },
+        {
+          "text": "he had yet",
+          "kind": "supplied"
+        },
+        {
+          "text": " being uncircumcised: that he might be the father of all them that believe, though they be not circumcised; that righteousness might be imputed unto them also:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ROM.4.12",
+      "edition_verse_id": "KJV1769:ROM.4.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "And the father of circumcision to them who are not of the circumcision only, but who also walk in the steps of that faith of our father Abraham, which ",
+          "kind": "text"
+        },
+        {
+          "text": "he had",
+          "kind": "supplied"
+        },
+        {
+          "text": " being ",
+          "kind": "text"
+        },
+        {
+          "text": "yet",
+          "kind": "supplied"
+        },
+        {
+          "text": " uncircumcised.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ROM.4.13",
+      "edition_verse_id": "KJV1769:ROM.4.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "For the promise, that he should be the heir of the world, ",
+          "kind": "text"
+        },
+        {
+          "text": "was",
+          "kind": "supplied"
+        },
+        {
+          "text": " not to Abraham, or to his seed, through the law, but through the righteousness of faith.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ROM.4.14",
+      "edition_verse_id": "KJV1769:ROM.4.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "For if they which are of the law ",
+          "kind": "text"
+        },
+        {
+          "text": "be",
+          "kind": "supplied"
+        },
+        {
+          "text": " heirs, faith is made void, and the promise made of none effect:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ROM.4.15",
+      "edition_verse_id": "KJV1769:ROM.4.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "Because the law worketh wrath: for where no law is, ",
+          "kind": "text"
+        },
+        {
+          "text": "there is",
+          "kind": "supplied"
+        },
+        {
+          "text": " no transgression.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ROM.4.16",
+      "edition_verse_id": "KJV1769:ROM.4.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "Therefore ",
+          "kind": "text"
+        },
+        {
+          "text": "it is",
+          "kind": "supplied"
+        },
+        {
+          "text": " of faith, that ",
+          "kind": "text"
+        },
+        {
+          "text": "it might be",
+          "kind": "supplied"
+        },
+        {
+          "text": " by grace; to the end the promise might be sure to all the seed; not to that only which is of the law, but to that also which is of the faith of Abraham; who is the father of us all,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ROM.4.17",
+      "edition_verse_id": "KJV1769:ROM.4.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "(As it is written, I have made thee a father of many nations,) before him whom he believed, ",
+          "kind": "text"
+        },
+        {
+          "text": "even",
+          "kind": "supplied"
+        },
+        {
+          "text": " God, who quickeneth the dead, and calleth those things which be not as though they were.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ROM.4.18",
+      "edition_verse_id": "KJV1769:ROM.4.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "Who against hope believed in hope, that he might become the father of many nations; according to that which was spoken, So shall thy seed be.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ROM.4.19",
+      "edition_verse_id": "KJV1769:ROM.4.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "And being not weak in faith, he considered not his own body now dead, when he was about an hundred years old, neither yet the deadness of Sara’s womb:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ROM.4.20",
+      "edition_verse_id": "KJV1769:ROM.4.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "He staggered not at the promise of God through unbelief; but was strong in faith, giving glory to God;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ROM.4.21",
+      "edition_verse_id": "KJV1769:ROM.4.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "And being fully persuaded that, what he had promised, he was able also to perform.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ROM.4.22",
+      "edition_verse_id": "KJV1769:ROM.4.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "And therefore it was imputed to him for righteousness.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ROM.4.23",
+      "edition_verse_id": "KJV1769:ROM.4.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "Now it was not written for his sake alone, that it was imputed to him;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ROM.4.24",
+      "edition_verse_id": "KJV1769:ROM.4.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "But for us also, to whom it shall be imputed, if we believe on him that raised up Jesus our Lord from the dead;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ROM.4.25",
+      "edition_verse_id": "KJV1769:ROM.4.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "Who was delivered for our offences, and was raised again for our justification.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

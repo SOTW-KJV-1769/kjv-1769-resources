@@ -1,0 +1,120 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "KJV1769",
+  "book_code": "PSA",
+  "chapter": 67,
+  "verses": [
+    {
+      "id": "PSA.67.1",
+      "edition_verse_id": "KJV1769:PSA.67.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "God be merciful unto us, and bless us; ",
+          "kind": "text"
+        },
+        {
+          "text": "and",
+          "kind": "supplied"
+        },
+        {
+          "text": " cause his face to shine upon us; Selah.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.67.2",
+      "edition_verse_id": "KJV1769:PSA.67.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "That thy way may be known upon earth, thy saving health among all nations.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.67.3",
+      "edition_verse_id": "KJV1769:PSA.67.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "Let the people praise thee, O God; let all the people praise thee.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.67.4",
+      "edition_verse_id": "KJV1769:PSA.67.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "O let the nations be glad and sing for joy: for thou shalt judge the people righteously, and govern the nations upon earth. Selah.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.67.5",
+      "edition_verse_id": "KJV1769:PSA.67.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "Let the people praise thee, O God; let all the people praise thee.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.67.6",
+      "edition_verse_id": "KJV1769:PSA.67.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "Then",
+          "kind": "supplied"
+        },
+        {
+          "text": " shall the earth yield her increase; ",
+          "kind": "text"
+        },
+        {
+          "text": "and",
+          "kind": "supplied"
+        },
+        {
+          "text": " God, ",
+          "kind": "text"
+        },
+        {
+          "text": "even",
+          "kind": "supplied"
+        },
+        {
+          "text": " our own God, shall bless us.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.67.7",
+      "edition_verse_id": "KJV1769:PSA.67.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "God shall bless us; and all the ends of the earth shall fear him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

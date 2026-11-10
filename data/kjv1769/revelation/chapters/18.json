@@ -1,0 +1,344 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "KJV1769",
+  "book_code": "REV",
+  "chapter": 18,
+  "verses": [
+    {
+      "id": "REV.18.1",
+      "edition_verse_id": "KJV1769:REV.18.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "And after these things I saw another angel come down from heaven, having great power; and the earth was lightened with his glory.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "REV.18.2",
+      "edition_verse_id": "KJV1769:REV.18.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "And he cried mightily with a strong voice, saying, Babylon the great is fallen, is fallen, and is become the habitation of devils, and the hold of every foul spirit, and a cage of every unclean and hateful bird.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "REV.18.3",
+      "edition_verse_id": "KJV1769:REV.18.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "For all nations have drunk of the wine of the wrath of her fornication, and the kings of the earth have committed fornication with her, and the merchants of the earth are waxed rich through the abundance of her delicacies.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "REV.18.4",
+      "edition_verse_id": "KJV1769:REV.18.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "And I heard another voice from heaven, saying, Come out of her, my people, that ye be not partakers of her sins, and that ye receive not of her plagues.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "REV.18.5",
+      "edition_verse_id": "KJV1769:REV.18.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "For her sins have reached unto heaven, and God hath remembered her iniquities.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "REV.18.6",
+      "edition_verse_id": "KJV1769:REV.18.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "Reward her even as she rewarded you, and double unto her double according to her works: in the cup which she hath filled fill to her double.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "REV.18.7",
+      "edition_verse_id": "KJV1769:REV.18.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "How much she hath glorified herself, and lived deliciously, so much torment and sorrow give her: for she saith in her heart, I sit a queen, and am no widow, and shall see no sorrow.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "REV.18.8",
+      "edition_verse_id": "KJV1769:REV.18.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "Therefore shall her plagues come in one day, death, and mourning, and famine; and she shall be utterly burned with fire: for strong ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " the Lord God who judgeth her.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "REV.18.9",
+      "edition_verse_id": "KJV1769:REV.18.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "And the kings of the earth, who have committed fornication and lived deliciously with her, shall bewail her, and lament for her, when they shall see the smoke of her burning,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "REV.18.10",
+      "edition_verse_id": "KJV1769:REV.18.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "Standing afar off for the fear of her torment, saying, Alas, alas, that great city Babylon, that mighty city! for in one hour is thy judgment come.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "REV.18.11",
+      "edition_verse_id": "KJV1769:REV.18.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "And the merchants of the earth shall weep and mourn over her; for no man buyeth their merchandise any more:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "REV.18.12",
+      "edition_verse_id": "KJV1769:REV.18.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "The merchandise of gold, and silver, and precious stones, and of pearls, and fine linen, and purple, and silk, and scarlet, and all thyine wood, and all manner vessels of ivory, and all manner vessels of most precious wood, and of brass, and iron, and marble,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "REV.18.13",
+      "edition_verse_id": "KJV1769:REV.18.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "And cinnamon, and odours, and ointments, and frankincense, and wine, and oil, and fine flour, and wheat, and beasts, and sheep, and horses, and chariots, and slaves, and souls of men.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "REV.18.14",
+      "edition_verse_id": "KJV1769:REV.18.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "And the fruits that thy soul lusted after are departed from thee, and all things which were dainty and goodly are departed from thee, and thou shalt find them no more at all.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "REV.18.15",
+      "edition_verse_id": "KJV1769:REV.18.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "The merchants of these things, which were made rich by her, shall stand afar off for the fear of her torment, weeping and wailing,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "REV.18.16",
+      "edition_verse_id": "KJV1769:REV.18.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "And saying, Alas, alas, that great city, that was clothed in fine linen, and purple, and scarlet, and decked with gold, and precious stones, and pearls!",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "REV.18.17",
+      "edition_verse_id": "KJV1769:REV.18.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "For in one hour so great riches is come to nought. And every shipmaster, and all the company in ships, and sailors, and as many as trade by sea, stood afar off,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "REV.18.18",
+      "edition_verse_id": "KJV1769:REV.18.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "And cried when they saw the smoke of her burning, saying, What ",
+          "kind": "text"
+        },
+        {
+          "text": "city is",
+          "kind": "supplied"
+        },
+        {
+          "text": " like unto this great city!",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "REV.18.19",
+      "edition_verse_id": "KJV1769:REV.18.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "And they cast dust on their heads, and cried, weeping and wailing, saying, Alas, alas, that great city, wherein were made rich all that had ships in the sea by reason of her costliness! for in one hour is she made desolate.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "REV.18.20",
+      "edition_verse_id": "KJV1769:REV.18.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "Rejoice over her, ",
+          "kind": "text"
+        },
+        {
+          "text": "thou",
+          "kind": "supplied"
+        },
+        {
+          "text": " heaven, and ",
+          "kind": "text"
+        },
+        {
+          "text": "ye",
+          "kind": "supplied"
+        },
+        {
+          "text": " holy apostles and prophets; for God hath avenged you on her.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "REV.18.21",
+      "edition_verse_id": "KJV1769:REV.18.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "And a mighty angel took up a stone like a great millstone, and cast ",
+          "kind": "text"
+        },
+        {
+          "text": "it",
+          "kind": "supplied"
+        },
+        {
+          "text": " into the sea, saying, Thus with violence shall that great city Babylon be thrown down, and shall be found no more at all.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "REV.18.22",
+      "edition_verse_id": "KJV1769:REV.18.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "And the voice of harpers, and musicians, and of pipers, and trumpeters, shall be heard no more at all in thee; and no craftsman, of whatsoever craft ",
+          "kind": "text"
+        },
+        {
+          "text": "he be",
+          "kind": "supplied"
+        },
+        {
+          "text": ", shall be found any more in thee; and the sound of a millstone shall be heard no more at all in thee;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "REV.18.23",
+      "edition_verse_id": "KJV1769:REV.18.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "And the light of a candle shall shine no more at all in thee; and the voice of the bridegroom and of the bride shall be heard no more at all in thee: for thy merchants were the great men of the earth; for by thy sorceries were all nations deceived.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "REV.18.24",
+      "edition_verse_id": "KJV1769:REV.18.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "And in her was found the blood of prophets, and of saints, and of all that were slain upon the earth.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

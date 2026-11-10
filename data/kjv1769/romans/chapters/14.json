@@ -1,0 +1,424 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "KJV1769",
+  "book_code": "ROM",
+  "chapter": 14,
+  "verses": [
+    {
+      "id": "ROM.14.1",
+      "edition_verse_id": "KJV1769:ROM.14.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "Him that is weak in the faith receive ye, ",
+          "kind": "text"
+        },
+        {
+          "text": "but",
+          "kind": "supplied"
+        },
+        {
+          "text": " not to doubtful disputations.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ROM.14.2",
+      "edition_verse_id": "KJV1769:ROM.14.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "For one believeth that he may eat all things: another, who is weak, eateth herbs.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ROM.14.3",
+      "edition_verse_id": "KJV1769:ROM.14.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "Let not him that eateth despise him that eateth not; and let not him which eateth not judge him that eateth: for God hath received him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ROM.14.4",
+      "edition_verse_id": "KJV1769:ROM.14.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "Who art thou that judgest another man’s servant? to his own master he standeth or falleth. Yea, he shall be holden up: for God is able to make him stand.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ROM.14.5",
+      "edition_verse_id": "KJV1769:ROM.14.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "One man esteemeth one day above another: another esteemeth every day ",
+          "kind": "text"
+        },
+        {
+          "text": "alike",
+          "kind": "supplied"
+        },
+        {
+          "text": ". Let every man be fully persuaded in his own mind.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ROM.14.6",
+      "edition_verse_id": "KJV1769:ROM.14.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "He that regardeth the day, regardeth ",
+          "kind": "text"
+        },
+        {
+          "text": "it",
+          "kind": "supplied"
+        },
+        {
+          "text": " unto the Lord; and he that regardeth not the day, to the Lord he doth not regard ",
+          "kind": "text"
+        },
+        {
+          "text": "it",
+          "kind": "supplied"
+        },
+        {
+          "text": ". He that eateth, eateth to the Lord, for he giveth God thanks; and he that eateth not, to the Lord he eateth not, and giveth God thanks.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ROM.14.7",
+      "edition_verse_id": "KJV1769:ROM.14.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "For none of us liveth to himself, and no man dieth to himself.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ROM.14.8",
+      "edition_verse_id": "KJV1769:ROM.14.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "For whether we live, we live unto the Lord; and whether we die, we die unto the Lord: whether we live therefore, or die, we are the Lord’s.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ROM.14.9",
+      "edition_verse_id": "KJV1769:ROM.14.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "For to this end Christ both died, and rose, and revived, that he might be Lord both of the dead and living.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ROM.14.10",
+      "edition_verse_id": "KJV1769:ROM.14.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "But why dost thou judge thy brother? or why dost thou set at nought thy brother? for we shall all stand before the judgment seat of Christ.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ROM.14.11",
+      "edition_verse_id": "KJV1769:ROM.14.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "For it is written, ",
+          "kind": "text"
+        },
+        {
+          "text": "As",
+          "kind": "supplied"
+        },
+        {
+          "text": " I live, saith the Lord, every knee shall bow to me, and every tongue shall confess to God.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ROM.14.12",
+      "edition_verse_id": "KJV1769:ROM.14.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "So then every one of us shall give account of himself to God.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ROM.14.13",
+      "edition_verse_id": "KJV1769:ROM.14.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "Let us not therefore judge one another any more: but judge this rather, that no man put a stumblingblock or an occasion to fall in ",
+          "kind": "text"
+        },
+        {
+          "text": "his",
+          "kind": "supplied"
+        },
+        {
+          "text": " brother’s way.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ROM.14.14",
+      "edition_verse_id": "KJV1769:ROM.14.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "I know, and am persuaded by the Lord Jesus, that ",
+          "kind": "text"
+        },
+        {
+          "text": "there is",
+          "kind": "supplied"
+        },
+        {
+          "text": " nothing unclean of itself: but to him that esteemeth any thing to be unclean, to him ",
+          "kind": "text"
+        },
+        {
+          "text": "it is",
+          "kind": "supplied"
+        },
+        {
+          "text": " unclean.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ROM.14.15",
+      "edition_verse_id": "KJV1769:ROM.14.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "But if thy brother be grieved with ",
+          "kind": "text"
+        },
+        {
+          "text": "thy",
+          "kind": "supplied"
+        },
+        {
+          "text": " meat, now walkest thou not charitably. Destroy not him with thy meat, for whom Christ died.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ROM.14.16",
+      "edition_verse_id": "KJV1769:ROM.14.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "Let not then your good be evil spoken of:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ROM.14.17",
+      "edition_verse_id": "KJV1769:ROM.14.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "For the kingdom of God is not meat and drink; but righteousness, and peace, and joy in the Holy Ghost.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ROM.14.18",
+      "edition_verse_id": "KJV1769:ROM.14.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "For he that in these things serveth Christ ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " acceptable to God, and approved of men.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ROM.14.19",
+      "edition_verse_id": "KJV1769:ROM.14.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "Let us therefore follow after the things which make for peace, and things wherewith one may edify another.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ROM.14.20",
+      "edition_verse_id": "KJV1769:ROM.14.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "For meat destroy not the work of God. All things indeed ",
+          "kind": "text"
+        },
+        {
+          "text": "are",
+          "kind": "supplied"
+        },
+        {
+          "text": " pure; but ",
+          "kind": "text"
+        },
+        {
+          "text": "it is",
+          "kind": "supplied"
+        },
+        {
+          "text": " evil for that man who eateth with offence.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ROM.14.21",
+      "edition_verse_id": "KJV1769:ROM.14.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "It is",
+          "kind": "supplied"
+        },
+        {
+          "text": " good neither to eat flesh, nor to drink wine, nor ",
+          "kind": "text"
+        },
+        {
+          "text": "any thing",
+          "kind": "supplied"
+        },
+        {
+          "text": " whereby thy brother stumbleth, or is offended, or is made weak.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ROM.14.22",
+      "edition_verse_id": "KJV1769:ROM.14.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "Hast thou faith? have ",
+          "kind": "text"
+        },
+        {
+          "text": "it",
+          "kind": "supplied"
+        },
+        {
+          "text": " to thyself before God. Happy ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " he that condemneth not himself in that thing which he alloweth.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ROM.14.23",
+      "edition_verse_id": "KJV1769:ROM.14.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "And he that doubteth is damned if he eat, because ",
+          "kind": "text"
+        },
+        {
+          "text": "he eateth",
+          "kind": "supplied"
+        },
+        {
+          "text": " not of faith: for whatsoever ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " not of faith is sin.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

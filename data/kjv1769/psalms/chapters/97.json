@@ -1,0 +1,192 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "KJV1769",
+  "book_code": "PSA",
+  "chapter": 97,
+  "verses": [
+    {
+      "id": "PSA.97.1",
+      "edition_verse_id": "KJV1769:PSA.97.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "The LORD reigneth; let the earth rejoice; let the multitude of isles be glad ",
+          "kind": "text"
+        },
+        {
+          "text": "thereof",
+          "kind": "supplied"
+        },
+        {
+          "text": ".",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.97.2",
+      "edition_verse_id": "KJV1769:PSA.97.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "Clouds and darkness ",
+          "kind": "text"
+        },
+        {
+          "text": "are",
+          "kind": "supplied"
+        },
+        {
+          "text": " round about him: righteousness and judgment ",
+          "kind": "text"
+        },
+        {
+          "text": "are",
+          "kind": "supplied"
+        },
+        {
+          "text": " the habitation of his throne.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.97.3",
+      "edition_verse_id": "KJV1769:PSA.97.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "A fire goeth before him, and burneth up his enemies round about.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.97.4",
+      "edition_verse_id": "KJV1769:PSA.97.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "His lightnings enlightened the world: the earth saw, and trembled.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.97.5",
+      "edition_verse_id": "KJV1769:PSA.97.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "The hills melted like wax at the presence of the LORD, at the presence of the Lord of the whole earth.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.97.6",
+      "edition_verse_id": "KJV1769:PSA.97.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "The heavens declare his righteousness, and all the people see his glory.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.97.7",
+      "edition_verse_id": "KJV1769:PSA.97.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "Confounded be all they that serve graven images, that boast themselves of idols: worship him, all ",
+          "kind": "text"
+        },
+        {
+          "text": "ye",
+          "kind": "supplied"
+        },
+        {
+          "text": " gods.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.97.8",
+      "edition_verse_id": "KJV1769:PSA.97.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "Zion heard, and was glad; and the daughters of Judah rejoiced because of thy judgments, O LORD.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.97.9",
+      "edition_verse_id": "KJV1769:PSA.97.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "For thou, LORD, ",
+          "kind": "text"
+        },
+        {
+          "text": "art",
+          "kind": "supplied"
+        },
+        {
+          "text": " high above all the earth: thou art exalted far above all gods.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.97.10",
+      "edition_verse_id": "KJV1769:PSA.97.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "Ye that love the LORD, hate evil: he preserveth the souls of his saints; he delivereth them out of the hand of the wicked.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.97.11",
+      "edition_verse_id": "KJV1769:PSA.97.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "Light is sown for the righteous, and gladness for the upright in heart.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.97.12",
+      "edition_verse_id": "KJV1769:PSA.97.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "Rejoice in the LORD, ye righteous; and give thanks at the remembrance of his holiness.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

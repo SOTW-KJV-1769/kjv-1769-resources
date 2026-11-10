@@ -1,0 +1,196 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "KJV1769",
+  "book_code": "REV",
+  "chapter": 10,
+  "verses": [
+    {
+      "id": "REV.10.1",
+      "edition_verse_id": "KJV1769:REV.10.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "And I saw another mighty angel come down from heaven, clothed with a cloud: and a rainbow ",
+          "kind": "text"
+        },
+        {
+          "text": "was",
+          "kind": "supplied"
+        },
+        {
+          "text": " upon his head, and his face ",
+          "kind": "text"
+        },
+        {
+          "text": "was",
+          "kind": "supplied"
+        },
+        {
+          "text": " as it were the sun, and his feet as pillars of fire:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "REV.10.2",
+      "edition_verse_id": "KJV1769:REV.10.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "And he had in his hand a little book open: and he set his right foot upon the sea, and ",
+          "kind": "text"
+        },
+        {
+          "text": "his",
+          "kind": "supplied"
+        },
+        {
+          "text": " left ",
+          "kind": "text"
+        },
+        {
+          "text": "foot",
+          "kind": "supplied"
+        },
+        {
+          "text": " on the earth,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "REV.10.3",
+      "edition_verse_id": "KJV1769:REV.10.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "And cried with a loud voice, as ",
+          "kind": "text"
+        },
+        {
+          "text": "when",
+          "kind": "supplied"
+        },
+        {
+          "text": " a lion roareth: and when he had cried, seven thunders uttered their voices.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "REV.10.4",
+      "edition_verse_id": "KJV1769:REV.10.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "And when the seven thunders had uttered their voices, I was about to write: and I heard a voice from heaven saying unto me, Seal up those things which the seven thunders uttered, and write them not.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "REV.10.5",
+      "edition_verse_id": "KJV1769:REV.10.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "And the angel which I saw stand upon the sea and upon the earth lifted up his hand to heaven,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "REV.10.6",
+      "edition_verse_id": "KJV1769:REV.10.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "And sware by him that liveth for ever and ever, who created heaven, and the things that therein are, and the earth, and the things that therein are, and the sea, and the things which are therein, that there should be time no longer:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "REV.10.7",
+      "edition_verse_id": "KJV1769:REV.10.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "But in the days of the voice of the seventh angel, when he shall begin to sound, the mystery of God should be finished, as he hath declared to his servants the prophets.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "REV.10.8",
+      "edition_verse_id": "KJV1769:REV.10.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "And the voice which I heard from heaven spake unto me again, and said, Go ",
+          "kind": "text"
+        },
+        {
+          "text": "and",
+          "kind": "supplied"
+        },
+        {
+          "text": " take the little book which is open in the hand of the angel which standeth upon the sea and upon the earth.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "REV.10.9",
+      "edition_verse_id": "KJV1769:REV.10.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "And I went unto the angel, and said unto him, Give me the little book. And he said unto me, Take ",
+          "kind": "text"
+        },
+        {
+          "text": "it",
+          "kind": "supplied"
+        },
+        {
+          "text": ", and eat it up; and it shall make thy belly bitter, but it shall be in thy mouth sweet as honey.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "REV.10.10",
+      "edition_verse_id": "KJV1769:REV.10.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "And I took the little book out of the angel’s hand, and ate it up; and it was in my mouth sweet as honey: and as soon as I had eaten it, my belly was bitter.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "REV.10.11",
+      "edition_verse_id": "KJV1769:REV.10.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "And he said unto me, Thou must prophesy again before many peoples, and nations, and tongues, and kings.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

@@ -1,0 +1,648 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "KJV1769",
+  "book_code": "ROM",
+  "chapter": 11,
+  "verses": [
+    {
+      "id": "ROM.11.1",
+      "edition_verse_id": "KJV1769:ROM.11.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "I say then, Hath God cast away his people? God forbid. For I also am an Israelite, of the seed of Abraham, ",
+          "kind": "text"
+        },
+        {
+          "text": "of",
+          "kind": "supplied"
+        },
+        {
+          "text": " the tribe of Benjamin.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ROM.11.2",
+      "edition_verse_id": "KJV1769:ROM.11.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "God hath not cast away his people which he foreknew. Wot ye not what the scripture saith of Elias? how he maketh intercession to God against Israel, saying,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ROM.11.3",
+      "edition_verse_id": "KJV1769:ROM.11.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "Lord, they have killed thy prophets, and digged down thine altars; and I am left alone, and they seek my life.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ROM.11.4",
+      "edition_verse_id": "KJV1769:ROM.11.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "But what saith the answer of God unto him? I have reserved to myself seven thousand men, who have not bowed the knee to ",
+          "kind": "text"
+        },
+        {
+          "text": "the image of",
+          "kind": "supplied"
+        },
+        {
+          "text": " Baal.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ROM.11.5",
+      "edition_verse_id": "KJV1769:ROM.11.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "Even so then at this present time also there is a remnant according to the election of grace.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ROM.11.6",
+      "edition_verse_id": "KJV1769:ROM.11.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "And if by grace, then ",
+          "kind": "text"
+        },
+        {
+          "text": "is it",
+          "kind": "supplied"
+        },
+        {
+          "text": " no more of works: otherwise grace is no more grace. But if ",
+          "kind": "text"
+        },
+        {
+          "text": "it be",
+          "kind": "supplied"
+        },
+        {
+          "text": " of works, then is it no more grace: otherwise work is no more work.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ROM.11.7",
+      "edition_verse_id": "KJV1769:ROM.11.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "What then? Israel hath not obtained that which he seeketh for; but the election hath obtained it, and the rest were blinded",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ROM.11.8",
+      "edition_verse_id": "KJV1769:ROM.11.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "(According as it is written, God hath given them the spirit of slumber, eyes that they should not see, and ears that they should not hear;) unto this day.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ROM.11.9",
+      "edition_verse_id": "KJV1769:ROM.11.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "And David saith, Let their table be made a snare, and a trap, and a stumblingblock, and a recompence unto them:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ROM.11.10",
+      "edition_verse_id": "KJV1769:ROM.11.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "Let their eyes be darkened, that they may not see, and bow down their back alway.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ROM.11.11",
+      "edition_verse_id": "KJV1769:ROM.11.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "I say then, Have they stumbled that they should fall? God forbid: but ",
+          "kind": "text"
+        },
+        {
+          "text": "rather",
+          "kind": "supplied"
+        },
+        {
+          "text": " through their fall salvation ",
+          "kind": "text"
+        },
+        {
+          "text": "is come",
+          "kind": "supplied"
+        },
+        {
+          "text": " unto the Gentiles, for to provoke them to jealousy.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ROM.11.12",
+      "edition_verse_id": "KJV1769:ROM.11.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "Now if the fall of them ",
+          "kind": "text"
+        },
+        {
+          "text": "be",
+          "kind": "supplied"
+        },
+        {
+          "text": " the riches of the world, and the diminishing of them the riches of the Gentiles; how much more their fulness?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ROM.11.13",
+      "edition_verse_id": "KJV1769:ROM.11.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "For I speak to you Gentiles, inasmuch as I am the apostle of the Gentiles, I magnify mine office:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ROM.11.14",
+      "edition_verse_id": "KJV1769:ROM.11.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "If by any means I may provoke to emulation ",
+          "kind": "text"
+        },
+        {
+          "text": "them which are",
+          "kind": "supplied"
+        },
+        {
+          "text": " my flesh, and might save some of them.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ROM.11.15",
+      "edition_verse_id": "KJV1769:ROM.11.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "For if the casting away of them ",
+          "kind": "text"
+        },
+        {
+          "text": "be",
+          "kind": "supplied"
+        },
+        {
+          "text": " the reconciling of the world, what ",
+          "kind": "text"
+        },
+        {
+          "text": "shall",
+          "kind": "supplied"
+        },
+        {
+          "text": " the receiving ",
+          "kind": "text"
+        },
+        {
+          "text": "of them be",
+          "kind": "supplied"
+        },
+        {
+          "text": ", but life from the dead?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ROM.11.16",
+      "edition_verse_id": "KJV1769:ROM.11.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "For if the firstfruit ",
+          "kind": "text"
+        },
+        {
+          "text": "be",
+          "kind": "supplied"
+        },
+        {
+          "text": " holy, the lump ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " also ",
+          "kind": "text"
+        },
+        {
+          "text": "holy",
+          "kind": "supplied"
+        },
+        {
+          "text": ": and if the root ",
+          "kind": "text"
+        },
+        {
+          "text": "be",
+          "kind": "supplied"
+        },
+        {
+          "text": " holy, so ",
+          "kind": "text"
+        },
+        {
+          "text": "are",
+          "kind": "supplied"
+        },
+        {
+          "text": " the branches.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ROM.11.17",
+      "edition_verse_id": "KJV1769:ROM.11.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "And if some of the branches be broken off, and thou, being a wild olive tree, wert graffed in among them, and with them partakest of the root and fatness of the olive tree;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ROM.11.18",
+      "edition_verse_id": "KJV1769:ROM.11.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "Boast not against the branches. But if thou boast, thou bearest not the root, but the root thee.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ROM.11.19",
+      "edition_verse_id": "KJV1769:ROM.11.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "Thou wilt say then, The branches were broken off, that I might be graffed in.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ROM.11.20",
+      "edition_verse_id": "KJV1769:ROM.11.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "Well; because of unbelief they were broken off, and thou standest by faith. Be not highminded, but fear:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ROM.11.21",
+      "edition_verse_id": "KJV1769:ROM.11.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "For if God spared not the natural branches, ",
+          "kind": "text"
+        },
+        {
+          "text": "take heed",
+          "kind": "supplied"
+        },
+        {
+          "text": " lest he also spare not thee.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ROM.11.22",
+      "edition_verse_id": "KJV1769:ROM.11.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "Behold therefore the goodness and severity of God: on them which fell, severity; but toward thee, goodness, if thou continue in ",
+          "kind": "text"
+        },
+        {
+          "text": "his",
+          "kind": "supplied"
+        },
+        {
+          "text": " goodness: otherwise thou also shalt be cut off.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ROM.11.23",
+      "edition_verse_id": "KJV1769:ROM.11.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "And they also, if they abide not still in unbelief, shall be graffed in: for God is able to graff them in again.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ROM.11.24",
+      "edition_verse_id": "KJV1769:ROM.11.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "For if thou wert cut out of the olive tree which is wild by nature, and wert graffed contrary to nature into a good olive tree: how much more shall these, which be the natural ",
+          "kind": "text"
+        },
+        {
+          "text": "branches",
+          "kind": "supplied"
+        },
+        {
+          "text": ", be graffed into their own olive tree?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ROM.11.25",
+      "edition_verse_id": "KJV1769:ROM.11.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "For I would not, brethren, that ye should be ignorant of this mystery, lest ye should be wise in your own conceits; that blindness in part is happened to Israel, until the fulness of the Gentiles be come in.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ROM.11.26",
+      "edition_verse_id": "KJV1769:ROM.11.26",
+      "verse": 26,
+      "spans": [
+        {
+          "text": "And so all Israel shall be saved: as it is written, There shall come out of Sion the Deliverer, and shall turn away ungodliness from Jacob:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ROM.11.27",
+      "edition_verse_id": "KJV1769:ROM.11.27",
+      "verse": 27,
+      "spans": [
+        {
+          "text": "For this ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " my covenant unto them, when I shall take away their sins.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ROM.11.28",
+      "edition_verse_id": "KJV1769:ROM.11.28",
+      "verse": 28,
+      "spans": [
+        {
+          "text": "As concerning the gospel, ",
+          "kind": "text"
+        },
+        {
+          "text": "they are",
+          "kind": "supplied"
+        },
+        {
+          "text": " enemies for your sakes: but as touching the election, ",
+          "kind": "text"
+        },
+        {
+          "text": "they are",
+          "kind": "supplied"
+        },
+        {
+          "text": " beloved for the fathers’ sakes.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ROM.11.29",
+      "edition_verse_id": "KJV1769:ROM.11.29",
+      "verse": 29,
+      "spans": [
+        {
+          "text": "For the gifts and calling of God ",
+          "kind": "text"
+        },
+        {
+          "text": "are",
+          "kind": "supplied"
+        },
+        {
+          "text": " without repentance.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ROM.11.30",
+      "edition_verse_id": "KJV1769:ROM.11.30",
+      "verse": 30,
+      "spans": [
+        {
+          "text": "For as ye in times past have not believed God, yet have now obtained mercy through their unbelief:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ROM.11.31",
+      "edition_verse_id": "KJV1769:ROM.11.31",
+      "verse": 31,
+      "spans": [
+        {
+          "text": "Even so have these also now not believed, that through your mercy they also may obtain mercy.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ROM.11.32",
+      "edition_verse_id": "KJV1769:ROM.11.32",
+      "verse": 32,
+      "spans": [
+        {
+          "text": "For God hath concluded them all in unbelief, that he might have mercy upon all.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ROM.11.33",
+      "edition_verse_id": "KJV1769:ROM.11.33",
+      "verse": 33,
+      "spans": [
+        {
+          "text": "O the depth of the riches both of the wisdom and knowledge of God! how unsearchable ",
+          "kind": "text"
+        },
+        {
+          "text": "are",
+          "kind": "supplied"
+        },
+        {
+          "text": " his judgments, and his ways past finding out!",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ROM.11.34",
+      "edition_verse_id": "KJV1769:ROM.11.34",
+      "verse": 34,
+      "spans": [
+        {
+          "text": "For who hath known the mind of the Lord? or who hath been his counsellor?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ROM.11.35",
+      "edition_verse_id": "KJV1769:ROM.11.35",
+      "verse": 35,
+      "spans": [
+        {
+          "text": "Or who hath first given to him, and it shall be recompensed unto him again?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ROM.11.36",
+      "edition_verse_id": "KJV1769:ROM.11.36",
+      "verse": 36,
+      "spans": [
+        {
+          "text": "For of him, and through him, and to him, ",
+          "kind": "text"
+        },
+        {
+          "text": "are",
+          "kind": "supplied"
+        },
+        {
+          "text": " all things: to whom ",
+          "kind": "text"
+        },
+        {
+          "text": "be",
+          "kind": "supplied"
+        },
+        {
+          "text": " glory for ever. Amen.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

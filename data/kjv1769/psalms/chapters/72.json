@@ -1,0 +1,312 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "KJV1769",
+  "book_code": "PSA",
+  "chapter": 72,
+  "verses": [
+    {
+      "id": "PSA.72.1",
+      "edition_verse_id": "KJV1769:PSA.72.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "Give the king thy judgments, O God, and thy righteousness unto the king’s son.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.72.2",
+      "edition_verse_id": "KJV1769:PSA.72.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "He shall judge thy people with righteousness, and thy poor with judgment.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.72.3",
+      "edition_verse_id": "KJV1769:PSA.72.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "The mountains shall bring peace to the people, and the little hills, by righteousness.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.72.4",
+      "edition_verse_id": "KJV1769:PSA.72.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "He shall judge the poor of the people, he shall save the children of the needy, and shall break in pieces the oppressor.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.72.5",
+      "edition_verse_id": "KJV1769:PSA.72.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "They shall fear thee as long as the sun and moon endure, throughout all generations.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.72.6",
+      "edition_verse_id": "KJV1769:PSA.72.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "He shall come down like rain upon the mown grass: as showers ",
+          "kind": "text"
+        },
+        {
+          "text": "that",
+          "kind": "supplied"
+        },
+        {
+          "text": " water the earth.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.72.7",
+      "edition_verse_id": "KJV1769:PSA.72.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "In his days shall the righteous flourish; and abundance of peace so long as the moon endureth.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.72.8",
+      "edition_verse_id": "KJV1769:PSA.72.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "He shall have dominion also from sea to sea, and from the river unto the ends of the earth.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.72.9",
+      "edition_verse_id": "KJV1769:PSA.72.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "They that dwell in the wilderness shall bow before him; and his enemies shall lick the dust.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.72.10",
+      "edition_verse_id": "KJV1769:PSA.72.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "The kings of Tarshish and of the isles shall bring presents: the kings of Sheba and Seba shall offer gifts.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.72.11",
+      "edition_verse_id": "KJV1769:PSA.72.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "Yea, all kings shall fall down before him: all nations shall serve him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.72.12",
+      "edition_verse_id": "KJV1769:PSA.72.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "For he shall deliver the needy when he crieth; the poor also, and ",
+          "kind": "text"
+        },
+        {
+          "text": "him",
+          "kind": "supplied"
+        },
+        {
+          "text": " that hath no helper.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.72.13",
+      "edition_verse_id": "KJV1769:PSA.72.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "He shall spare the poor and needy, and shall save the souls of the needy.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.72.14",
+      "edition_verse_id": "KJV1769:PSA.72.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "He shall redeem their soul from deceit and violence: and precious shall their blood be in his sight.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.72.15",
+      "edition_verse_id": "KJV1769:PSA.72.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "And he shall live, and to him shall be given of the gold of Sheba: prayer also shall be made for him continually; ",
+          "kind": "text"
+        },
+        {
+          "text": "and",
+          "kind": "supplied"
+        },
+        {
+          "text": " daily shall he be praised.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.72.16",
+      "edition_verse_id": "KJV1769:PSA.72.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "There shall be an handful of corn in the earth upon the top of the mountains; the fruit thereof shall shake like Lebanon: and ",
+          "kind": "text"
+        },
+        {
+          "text": "they",
+          "kind": "supplied"
+        },
+        {
+          "text": " of the city shall flourish like grass of the earth.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.72.17",
+      "edition_verse_id": "KJV1769:PSA.72.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "His name shall endure for ever: his name shall be continued as long as the sun: and ",
+          "kind": "text"
+        },
+        {
+          "text": "men",
+          "kind": "supplied"
+        },
+        {
+          "text": " shall be blessed in him: all nations shall call him blessed.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.72.18",
+      "edition_verse_id": "KJV1769:PSA.72.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "Blessed ",
+          "kind": "text"
+        },
+        {
+          "text": "be",
+          "kind": "supplied"
+        },
+        {
+          "text": " the LORD God, the God of Israel, who only doeth wondrous things.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.72.19",
+      "edition_verse_id": "KJV1769:PSA.72.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "And blessed ",
+          "kind": "text"
+        },
+        {
+          "text": "be",
+          "kind": "supplied"
+        },
+        {
+          "text": " his glorious name for ever: and let the whole earth be filled ",
+          "kind": "text"
+        },
+        {
+          "text": "with",
+          "kind": "supplied"
+        },
+        {
+          "text": " his glory; Amen, and Amen.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.72.20",
+      "edition_verse_id": "KJV1769:PSA.72.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "The prayers of David the son of Jesse are ended.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

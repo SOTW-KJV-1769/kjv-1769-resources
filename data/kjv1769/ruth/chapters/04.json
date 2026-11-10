@@ -1,0 +1,488 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "KJV1769",
+  "book_code": "RUT",
+  "chapter": 4,
+  "verses": [
+    {
+      "id": "RUT.4.1",
+      "edition_verse_id": "KJV1769:RUT.4.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "Then went Boaz up to the gate, and sat him down there: and, behold, the kinsman of whom Boaz spake came by; unto whom he said, Ho, such a one! turn aside, sit down here. And he turned aside, and sat down.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "RUT.4.2",
+      "edition_verse_id": "KJV1769:RUT.4.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "And he took ten men of the elders of the city, and said, Sit ye down here. And they sat down.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "RUT.4.3",
+      "edition_verse_id": "KJV1769:RUT.4.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "And he said unto the kinsman, Naomi, that is come again out of the country of Moab, selleth a parcel of land, which ",
+          "kind": "text"
+        },
+        {
+          "text": "was",
+          "kind": "supplied"
+        },
+        {
+          "text": " our brother Elimelech’s:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "RUT.4.4",
+      "edition_verse_id": "KJV1769:RUT.4.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "And I thought to advertise thee, saying, Buy ",
+          "kind": "text"
+        },
+        {
+          "text": "it",
+          "kind": "supplied"
+        },
+        {
+          "text": " before the inhabitants, and before the elders of my people. If thou wilt redeem ",
+          "kind": "text"
+        },
+        {
+          "text": "it",
+          "kind": "supplied"
+        },
+        {
+          "text": ", redeem ",
+          "kind": "text"
+        },
+        {
+          "text": "it:",
+          "kind": "supplied"
+        },
+        {
+          "text": " but if thou wilt not redeem ",
+          "kind": "text"
+        },
+        {
+          "text": "it, then",
+          "kind": "supplied"
+        },
+        {
+          "text": " tell me, that I may know: for ",
+          "kind": "text"
+        },
+        {
+          "text": "there is",
+          "kind": "supplied"
+        },
+        {
+          "text": " none to redeem ",
+          "kind": "text"
+        },
+        {
+          "text": "it",
+          "kind": "supplied"
+        },
+        {
+          "text": " beside thee; and I ",
+          "kind": "text"
+        },
+        {
+          "text": "am",
+          "kind": "supplied"
+        },
+        {
+          "text": " after thee. And he said, I will redeem ",
+          "kind": "text"
+        },
+        {
+          "text": "it",
+          "kind": "supplied"
+        },
+        {
+          "text": ".",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "RUT.4.5",
+      "edition_verse_id": "KJV1769:RUT.4.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "Then said Boaz, What day thou buyest the field of the hand of Naomi, thou must buy ",
+          "kind": "text"
+        },
+        {
+          "text": "it",
+          "kind": "supplied"
+        },
+        {
+          "text": " also of Ruth the Moabitess, the wife of the dead, to raise up the name of the dead upon his inheritance.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "RUT.4.6",
+      "edition_verse_id": "KJV1769:RUT.4.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "¶ And the kinsman said, I cannot redeem ",
+          "kind": "text"
+        },
+        {
+          "text": "it",
+          "kind": "supplied"
+        },
+        {
+          "text": " for myself, lest I mar mine own inheritance: redeem thou my right to thyself; for I cannot redeem ",
+          "kind": "text"
+        },
+        {
+          "text": "it",
+          "kind": "supplied"
+        },
+        {
+          "text": ".",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "RUT.4.7",
+      "edition_verse_id": "KJV1769:RUT.4.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "Now this ",
+          "kind": "text"
+        },
+        {
+          "text": "was the manner",
+          "kind": "supplied"
+        },
+        {
+          "text": " in former time in Israel concerning redeeming and concerning changing, for to confirm all things; a man plucked off his shoe, and gave ",
+          "kind": "text"
+        },
+        {
+          "text": "it",
+          "kind": "supplied"
+        },
+        {
+          "text": " to his neighbour: and this ",
+          "kind": "text"
+        },
+        {
+          "text": "was",
+          "kind": "supplied"
+        },
+        {
+          "text": " a testimony in Israel.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "RUT.4.8",
+      "edition_verse_id": "KJV1769:RUT.4.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "Therefore the kinsman said unto Boaz, Buy ",
+          "kind": "text"
+        },
+        {
+          "text": "it",
+          "kind": "supplied"
+        },
+        {
+          "text": " for thee. So he drew off his shoe.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "RUT.4.9",
+      "edition_verse_id": "KJV1769:RUT.4.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "¶ And Boaz said unto the elders, and ",
+          "kind": "text"
+        },
+        {
+          "text": "unto",
+          "kind": "supplied"
+        },
+        {
+          "text": " all the people, Ye ",
+          "kind": "text"
+        },
+        {
+          "text": "are",
+          "kind": "supplied"
+        },
+        {
+          "text": " witnesses this day, that I have bought all that ",
+          "kind": "text"
+        },
+        {
+          "text": "was",
+          "kind": "supplied"
+        },
+        {
+          "text": " Elimelech’s, and all that ",
+          "kind": "text"
+        },
+        {
+          "text": "was",
+          "kind": "supplied"
+        },
+        {
+          "text": " Chilion’s and Mahlon’s, of the hand of Naomi.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "RUT.4.10",
+      "edition_verse_id": "KJV1769:RUT.4.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "Moreover Ruth the Moabitess, the wife of Mahlon, have I purchased to be my wife, to raise up the name of the dead upon his inheritance, that the name of the dead be not cut off from among his brethren, and from the gate of his place: ye ",
+          "kind": "text"
+        },
+        {
+          "text": "are",
+          "kind": "supplied"
+        },
+        {
+          "text": " witnesses this day.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "RUT.4.11",
+      "edition_verse_id": "KJV1769:RUT.4.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "And all the people that ",
+          "kind": "text"
+        },
+        {
+          "text": "were",
+          "kind": "supplied"
+        },
+        {
+          "text": " in the gate, and the elders, said, ",
+          "kind": "text"
+        },
+        {
+          "text": "We are",
+          "kind": "supplied"
+        },
+        {
+          "text": " witnesses. The LORD make the woman that is come into thine house like Rachel and like Leah, which two did build the house of Israel: and do thou worthily in Ephratah, and be famous in Beth-lehem:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "RUT.4.12",
+      "edition_verse_id": "KJV1769:RUT.4.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "And let thy house be like the house of Pharez, whom Tamar bare unto Judah, of the seed which the LORD shall give thee of this young woman.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "RUT.4.13",
+      "edition_verse_id": "KJV1769:RUT.4.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "¶ So Boaz took Ruth, and she was his wife: and when he went in unto her, the LORD gave her conception, and she bare a son.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "RUT.4.14",
+      "edition_verse_id": "KJV1769:RUT.4.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "And the women said unto Naomi, Blessed ",
+          "kind": "text"
+        },
+        {
+          "text": "be",
+          "kind": "supplied"
+        },
+        {
+          "text": " the LORD, which hath not left thee this day without a kinsman, that his name may be famous in Israel.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "RUT.4.15",
+      "edition_verse_id": "KJV1769:RUT.4.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "And he shall be unto thee a restorer of ",
+          "kind": "text"
+        },
+        {
+          "text": "thy",
+          "kind": "supplied"
+        },
+        {
+          "text": " life, and a nourisher of thine old age: for thy daughter in law, which loveth thee, which is better to thee than seven sons, hath born him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "RUT.4.16",
+      "edition_verse_id": "KJV1769:RUT.4.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "And Naomi took the child, and laid it in her bosom, and became nurse unto it.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "RUT.4.17",
+      "edition_verse_id": "KJV1769:RUT.4.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "And the women her neighbours gave it a name, saying, There is a son born to Naomi; and they called his name Obed: he ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " the father of Jesse, the father of David.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "RUT.4.18",
+      "edition_verse_id": "KJV1769:RUT.4.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "¶ Now these ",
+          "kind": "text"
+        },
+        {
+          "text": "are",
+          "kind": "supplied"
+        },
+        {
+          "text": " the generations of Pharez: Pharez begat Hezron,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "RUT.4.19",
+      "edition_verse_id": "KJV1769:RUT.4.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "And Hezron begat Ram, and Ram begat Amminadab,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "RUT.4.20",
+      "edition_verse_id": "KJV1769:RUT.4.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "And Amminadab begat Nahshon, and Nahshon begat Salmon,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "RUT.4.21",
+      "edition_verse_id": "KJV1769:RUT.4.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "And Salmon begat Boaz, and Boaz begat Obed,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "RUT.4.22",
+      "edition_verse_id": "KJV1769:RUT.4.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "And Obed begat Jesse, and Jesse begat David.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

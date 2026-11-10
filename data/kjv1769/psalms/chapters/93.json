@@ -1,0 +1,108 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "KJV1769",
+  "book_code": "PSA",
+  "chapter": 93,
+  "verses": [
+    {
+      "id": "PSA.93.1",
+      "edition_verse_id": "KJV1769:PSA.93.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "The LORD reigneth, he is clothed with majesty; the LORD is clothed with strength, ",
+          "kind": "text"
+        },
+        {
+          "text": "wherewith",
+          "kind": "supplied"
+        },
+        {
+          "text": " he hath girded himself: the world also is stablished, that it cannot be moved.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.93.2",
+      "edition_verse_id": "KJV1769:PSA.93.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "Thy throne ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " established of old: thou ",
+          "kind": "text"
+        },
+        {
+          "text": "art",
+          "kind": "supplied"
+        },
+        {
+          "text": " from everlasting.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.93.3",
+      "edition_verse_id": "KJV1769:PSA.93.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "The floods have lifted up, O LORD, the floods have lifted up their voice; the floods lift up their waves.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.93.4",
+      "edition_verse_id": "KJV1769:PSA.93.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "The LORD on high ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " mightier than the noise of many waters, ",
+          "kind": "text"
+        },
+        {
+          "text": "yea, than",
+          "kind": "supplied"
+        },
+        {
+          "text": " the mighty waves of the sea.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.93.5",
+      "edition_verse_id": "KJV1769:PSA.93.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "Thy testimonies are very sure: holiness becometh thine house, O LORD, for ever.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

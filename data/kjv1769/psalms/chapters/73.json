@@ -1,0 +1,592 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "KJV1769",
+  "book_code": "PSA",
+  "chapter": 73,
+  "verses": [
+    {
+      "id": "PSA.73.1",
+      "edition_verse_id": "KJV1769:PSA.73.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "Truly God ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " good to Israel, ",
+          "kind": "text"
+        },
+        {
+          "text": "even",
+          "kind": "supplied"
+        },
+        {
+          "text": " to such as are of a clean heart.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.73.2",
+      "edition_verse_id": "KJV1769:PSA.73.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "But as for me, my feet were almost gone; my steps had well nigh slipped.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.73.3",
+      "edition_verse_id": "KJV1769:PSA.73.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "For I was envious at the foolish, ",
+          "kind": "text"
+        },
+        {
+          "text": "when",
+          "kind": "supplied"
+        },
+        {
+          "text": " I saw the prosperity of the wicked.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.73.4",
+      "edition_verse_id": "KJV1769:PSA.73.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "For ",
+          "kind": "text"
+        },
+        {
+          "text": "there are",
+          "kind": "supplied"
+        },
+        {
+          "text": " no bands in their death: but their strength ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " firm.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.73.5",
+      "edition_verse_id": "KJV1769:PSA.73.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "They ",
+          "kind": "text"
+        },
+        {
+          "text": "are",
+          "kind": "supplied"
+        },
+        {
+          "text": " not in trouble ",
+          "kind": "text"
+        },
+        {
+          "text": "as other",
+          "kind": "supplied"
+        },
+        {
+          "text": " men; neither are they plagued like ",
+          "kind": "text"
+        },
+        {
+          "text": "other",
+          "kind": "supplied"
+        },
+        {
+          "text": " men.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.73.6",
+      "edition_verse_id": "KJV1769:PSA.73.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "Therefore pride compasseth them about as a chain; violence covereth them ",
+          "kind": "text"
+        },
+        {
+          "text": "as",
+          "kind": "supplied"
+        },
+        {
+          "text": " a garment.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.73.7",
+      "edition_verse_id": "KJV1769:PSA.73.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "Their eyes stand out with fatness: they have more than heart could wish.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.73.8",
+      "edition_verse_id": "KJV1769:PSA.73.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "They are corrupt, and speak wickedly ",
+          "kind": "text"
+        },
+        {
+          "text": "concerning",
+          "kind": "supplied"
+        },
+        {
+          "text": " oppression: they speak loftily.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.73.9",
+      "edition_verse_id": "KJV1769:PSA.73.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "They set their mouth against the heavens, and their tongue walketh through the earth.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.73.10",
+      "edition_verse_id": "KJV1769:PSA.73.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "Therefore his people return hither: and waters of a full ",
+          "kind": "text"
+        },
+        {
+          "text": "cup",
+          "kind": "supplied"
+        },
+        {
+          "text": " are wrung out to them.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.73.11",
+      "edition_verse_id": "KJV1769:PSA.73.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "And they say, How doth God know? and is there knowledge in the most High?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.73.12",
+      "edition_verse_id": "KJV1769:PSA.73.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "Behold, these ",
+          "kind": "text"
+        },
+        {
+          "text": "are",
+          "kind": "supplied"
+        },
+        {
+          "text": " the ungodly, who prosper in the world; they increase ",
+          "kind": "text"
+        },
+        {
+          "text": "in",
+          "kind": "supplied"
+        },
+        {
+          "text": " riches.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.73.13",
+      "edition_verse_id": "KJV1769:PSA.73.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "Verily I have cleansed my heart ",
+          "kind": "text"
+        },
+        {
+          "text": "in",
+          "kind": "supplied"
+        },
+        {
+          "text": " vain, and washed my hands in innocency.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.73.14",
+      "edition_verse_id": "KJV1769:PSA.73.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "For all the day long have I been plagued, and chastened every morning.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.73.15",
+      "edition_verse_id": "KJV1769:PSA.73.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "If I say, I will speak thus; behold, I should offend ",
+          "kind": "text"
+        },
+        {
+          "text": "against",
+          "kind": "supplied"
+        },
+        {
+          "text": " the generation of thy children.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.73.16",
+      "edition_verse_id": "KJV1769:PSA.73.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "When I thought to know this, it ",
+          "kind": "text"
+        },
+        {
+          "text": "was",
+          "kind": "supplied"
+        },
+        {
+          "text": " too painful for me;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.73.17",
+      "edition_verse_id": "KJV1769:PSA.73.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "Until I went into the sanctuary of God; ",
+          "kind": "text"
+        },
+        {
+          "text": "then",
+          "kind": "supplied"
+        },
+        {
+          "text": " understood I their end.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.73.18",
+      "edition_verse_id": "KJV1769:PSA.73.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "Surely thou didst set them in slippery places: thou castedst them down into destruction.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.73.19",
+      "edition_verse_id": "KJV1769:PSA.73.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "How are they ",
+          "kind": "text"
+        },
+        {
+          "text": "brought",
+          "kind": "supplied"
+        },
+        {
+          "text": " into desolation, as in a moment! they are utterly consumed with terrors.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.73.20",
+      "edition_verse_id": "KJV1769:PSA.73.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "As a dream when ",
+          "kind": "text"
+        },
+        {
+          "text": "one",
+          "kind": "supplied"
+        },
+        {
+          "text": " awaketh; ",
+          "kind": "text"
+        },
+        {
+          "text": "so",
+          "kind": "supplied"
+        },
+        {
+          "text": ", O Lord, when thou awakest, thou shalt despise their image.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.73.21",
+      "edition_verse_id": "KJV1769:PSA.73.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "Thus my heart was grieved, and I was pricked in my reins.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.73.22",
+      "edition_verse_id": "KJV1769:PSA.73.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "So foolish ",
+          "kind": "text"
+        },
+        {
+          "text": "was",
+          "kind": "supplied"
+        },
+        {
+          "text": " I, and ignorant: I was ",
+          "kind": "text"
+        },
+        {
+          "text": "as",
+          "kind": "supplied"
+        },
+        {
+          "text": " a beast before thee.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.73.23",
+      "edition_verse_id": "KJV1769:PSA.73.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "Nevertheless I ",
+          "kind": "text"
+        },
+        {
+          "text": "am",
+          "kind": "supplied"
+        },
+        {
+          "text": " continually with thee: thou hast holden ",
+          "kind": "text"
+        },
+        {
+          "text": "me",
+          "kind": "supplied"
+        },
+        {
+          "text": " by my right hand.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.73.24",
+      "edition_verse_id": "KJV1769:PSA.73.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "Thou shalt guide me with thy counsel, and afterward receive me ",
+          "kind": "text"
+        },
+        {
+          "text": "to",
+          "kind": "supplied"
+        },
+        {
+          "text": " glory.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.73.25",
+      "edition_verse_id": "KJV1769:PSA.73.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "Whom have I in heaven ",
+          "kind": "text"
+        },
+        {
+          "text": "but thee",
+          "kind": "supplied"
+        },
+        {
+          "text": "? and ",
+          "kind": "text"
+        },
+        {
+          "text": "there is",
+          "kind": "supplied"
+        },
+        {
+          "text": " none upon earth ",
+          "kind": "text"
+        },
+        {
+          "text": "that",
+          "kind": "supplied"
+        },
+        {
+          "text": " I desire beside thee.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.73.26",
+      "edition_verse_id": "KJV1769:PSA.73.26",
+      "verse": 26,
+      "spans": [
+        {
+          "text": "My flesh and my heart faileth: ",
+          "kind": "text"
+        },
+        {
+          "text": "but",
+          "kind": "supplied"
+        },
+        {
+          "text": " God ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " the strength of my heart, and my portion for ever.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.73.27",
+      "edition_verse_id": "KJV1769:PSA.73.27",
+      "verse": 27,
+      "spans": [
+        {
+          "text": "For, lo, they that are far from thee shall perish: thou hast destroyed all them that go a whoring from thee.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.73.28",
+      "edition_verse_id": "KJV1769:PSA.73.28",
+      "verse": 28,
+      "spans": [
+        {
+          "text": "But ",
+          "kind": "text"
+        },
+        {
+          "text": "it is",
+          "kind": "supplied"
+        },
+        {
+          "text": " good for me to draw near to God: I have put my trust in the Lord GOD, that I may declare all thy works.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

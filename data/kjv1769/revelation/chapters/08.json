@@ -1,0 +1,188 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "KJV1769",
+  "book_code": "REV",
+  "chapter": 8,
+  "verses": [
+    {
+      "id": "REV.8.1",
+      "edition_verse_id": "KJV1769:REV.8.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "And when he had opened the seventh seal, there was silence in heaven about the space of half an hour.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "REV.8.2",
+      "edition_verse_id": "KJV1769:REV.8.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "And I saw the seven angels which stood before God; and to them were given seven trumpets.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "REV.8.3",
+      "edition_verse_id": "KJV1769:REV.8.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "And another angel came and stood at the altar, having a golden censer; and there was given unto him much incense, that he should offer ",
+          "kind": "text"
+        },
+        {
+          "text": "it",
+          "kind": "supplied"
+        },
+        {
+          "text": " with the prayers of all saints upon the golden altar which was before the throne.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "REV.8.4",
+      "edition_verse_id": "KJV1769:REV.8.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "And the smoke of the incense, ",
+          "kind": "text"
+        },
+        {
+          "text": "which came",
+          "kind": "supplied"
+        },
+        {
+          "text": " with the prayers of the saints, ascended up before God out of the angel’s hand.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "REV.8.5",
+      "edition_verse_id": "KJV1769:REV.8.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "And the angel took the censer, and filled it with fire of the altar, and cast ",
+          "kind": "text"
+        },
+        {
+          "text": "it",
+          "kind": "supplied"
+        },
+        {
+          "text": " into the earth: and there were voices, and thunderings, and lightnings, and an earthquake.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "REV.8.6",
+      "edition_verse_id": "KJV1769:REV.8.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "And the seven angels which had the seven trumpets prepared themselves to sound.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "REV.8.7",
+      "edition_verse_id": "KJV1769:REV.8.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "The first angel sounded, and there followed hail and fire mingled with blood, and they were cast upon the earth: and the third part of trees was burnt up, and all green grass was burnt up.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "REV.8.8",
+      "edition_verse_id": "KJV1769:REV.8.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "And the second angel sounded, and as it were a great mountain burning with fire was cast into the sea: and the third part of the sea became blood;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "REV.8.9",
+      "edition_verse_id": "KJV1769:REV.8.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "And the third part of the creatures which were in the sea, and had life, died; and the third part of the ships were destroyed.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "REV.8.10",
+      "edition_verse_id": "KJV1769:REV.8.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "And the third angel sounded, and there fell a great star from heaven, burning as it were a lamp, and it fell upon the third part of the rivers, and upon the fountains of waters;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "REV.8.11",
+      "edition_verse_id": "KJV1769:REV.8.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "And the name of the star is called Wormwood: and the third part of the waters became wormwood; and many men died of the waters, because they were made bitter.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "REV.8.12",
+      "edition_verse_id": "KJV1769:REV.8.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "And the fourth angel sounded, and the third part of the sun was smitten, and the third part of the moon, and the third part of the stars; so as the third part of them was darkened, and the day shone not for a third part of it, and the night likewise.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "REV.8.13",
+      "edition_verse_id": "KJV1769:REV.8.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "And I beheld, and heard an angel flying through the midst of heaven, saying with a loud voice, Woe, woe, woe, to the inhabiters of the earth by reason of the other voices of the trumpet of the three angels, which are yet to sound!",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

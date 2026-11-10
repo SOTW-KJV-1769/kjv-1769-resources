@@ -1,0 +1,188 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "KJV1769",
+  "book_code": "PSA",
+  "chapter": 99,
+  "verses": [
+    {
+      "id": "PSA.99.1",
+      "edition_verse_id": "KJV1769:PSA.99.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "The LORD reigneth; let the people tremble: he sitteth ",
+          "kind": "text"
+        },
+        {
+          "text": "between",
+          "kind": "supplied"
+        },
+        {
+          "text": " the cherubims; let the earth be moved.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.99.2",
+      "edition_verse_id": "KJV1769:PSA.99.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "The LORD ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " great in Zion; and he ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " high above all the people.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.99.3",
+      "edition_verse_id": "KJV1769:PSA.99.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "Let them praise thy great and terrible name; ",
+          "kind": "text"
+        },
+        {
+          "text": "for",
+          "kind": "supplied"
+        },
+        {
+          "text": " it ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " holy.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.99.4",
+      "edition_verse_id": "KJV1769:PSA.99.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "The king’s strength also loveth judgment; thou dost establish equity, thou executest judgment and righteousness in Jacob.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.99.5",
+      "edition_verse_id": "KJV1769:PSA.99.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "Exalt ye the LORD our God, and worship at his footstool; ",
+          "kind": "text"
+        },
+        {
+          "text": "for",
+          "kind": "supplied"
+        },
+        {
+          "text": " he ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " holy.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.99.6",
+      "edition_verse_id": "KJV1769:PSA.99.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "Moses and Aaron among his priests, and Samuel among them that call upon his name; they called upon the LORD, and he answered them.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.99.7",
+      "edition_verse_id": "KJV1769:PSA.99.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "He spake unto them in the cloudy pillar: they kept his testimonies, and the ordinance ",
+          "kind": "text"
+        },
+        {
+          "text": "that",
+          "kind": "supplied"
+        },
+        {
+          "text": " he gave them.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.99.8",
+      "edition_verse_id": "KJV1769:PSA.99.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "Thou answeredst them, O LORD our God: thou wast a God that forgavest them, though thou tookest vengeance of their inventions.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.99.9",
+      "edition_verse_id": "KJV1769:PSA.99.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "Exalt the LORD our God, and worship at his holy hill; for the LORD our God ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " holy.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

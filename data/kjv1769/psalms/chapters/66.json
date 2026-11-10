@@ -1,0 +1,328 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "KJV1769",
+  "book_code": "PSA",
+  "chapter": 66,
+  "verses": [
+    {
+      "id": "PSA.66.1",
+      "edition_verse_id": "KJV1769:PSA.66.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "Make a joyful noise unto God, all ye lands:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.66.2",
+      "edition_verse_id": "KJV1769:PSA.66.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "Sing forth the honour of his name: make his praise glorious.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.66.3",
+      "edition_verse_id": "KJV1769:PSA.66.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "Say unto God, How terrible ",
+          "kind": "text"
+        },
+        {
+          "text": "art thou in",
+          "kind": "supplied"
+        },
+        {
+          "text": " thy works! through the greatness of thy power shall thine enemies submit themselves unto thee.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.66.4",
+      "edition_verse_id": "KJV1769:PSA.66.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "All the earth shall worship thee, and shall sing unto thee; they shall sing ",
+          "kind": "text"
+        },
+        {
+          "text": "to",
+          "kind": "supplied"
+        },
+        {
+          "text": " thy name. Selah.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.66.5",
+      "edition_verse_id": "KJV1769:PSA.66.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "Come and see the works of God: ",
+          "kind": "text"
+        },
+        {
+          "text": "he is",
+          "kind": "supplied"
+        },
+        {
+          "text": " terrible ",
+          "kind": "text"
+        },
+        {
+          "text": "in his",
+          "kind": "supplied"
+        },
+        {
+          "text": " doing toward the children of men.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.66.6",
+      "edition_verse_id": "KJV1769:PSA.66.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "He turned the sea into dry ",
+          "kind": "text"
+        },
+        {
+          "text": "land:",
+          "kind": "supplied"
+        },
+        {
+          "text": " they went through the flood on foot: there did we rejoice in him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.66.7",
+      "edition_verse_id": "KJV1769:PSA.66.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "He ruleth by his power for ever; his eyes behold the nations: let not the rebellious exalt themselves. Selah.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.66.8",
+      "edition_verse_id": "KJV1769:PSA.66.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "O bless our God, ye people, and make the voice of his praise to be heard:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.66.9",
+      "edition_verse_id": "KJV1769:PSA.66.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "Which holdeth our soul in life, and suffereth not our feet to be moved.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.66.10",
+      "edition_verse_id": "KJV1769:PSA.66.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "For thou, O God, hast proved us: thou hast tried us, as silver is tried.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.66.11",
+      "edition_verse_id": "KJV1769:PSA.66.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "Thou broughtest us into the net; thou laidst affliction upon our loins.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.66.12",
+      "edition_verse_id": "KJV1769:PSA.66.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "Thou hast caused men to ride over our heads; we went through fire and through water: but thou broughtest us out into a wealthy ",
+          "kind": "text"
+        },
+        {
+          "text": "place",
+          "kind": "supplied"
+        },
+        {
+          "text": ".",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.66.13",
+      "edition_verse_id": "KJV1769:PSA.66.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "I will go into thy house with burnt offerings: I will pay thee my vows,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.66.14",
+      "edition_verse_id": "KJV1769:PSA.66.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "Which my lips have uttered, and my mouth hath spoken, when I was in trouble.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.66.15",
+      "edition_verse_id": "KJV1769:PSA.66.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "I will offer unto thee burnt sacrifices of fatlings, with the incense of rams; I will offer bullocks with goats. Selah.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.66.16",
+      "edition_verse_id": "KJV1769:PSA.66.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "Come ",
+          "kind": "text"
+        },
+        {
+          "text": "and",
+          "kind": "supplied"
+        },
+        {
+          "text": " hear, all ye that fear God, and I will declare what he hath done for my soul.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.66.17",
+      "edition_verse_id": "KJV1769:PSA.66.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "I cried unto him with my mouth, and he was extolled with my tongue.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.66.18",
+      "edition_verse_id": "KJV1769:PSA.66.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "If I regard iniquity in my heart, the Lord will not hear ",
+          "kind": "text"
+        },
+        {
+          "text": "me:",
+          "kind": "supplied"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.66.19",
+      "edition_verse_id": "KJV1769:PSA.66.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "But",
+          "kind": "supplied"
+        },
+        {
+          "text": " verily God hath heard ",
+          "kind": "text"
+        },
+        {
+          "text": "me;",
+          "kind": "supplied"
+        },
+        {
+          "text": " he hath attended to the voice of my prayer.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.66.20",
+      "edition_verse_id": "KJV1769:PSA.66.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "Blessed ",
+          "kind": "text"
+        },
+        {
+          "text": "be",
+          "kind": "supplied"
+        },
+        {
+          "text": " God, which hath not turned away my prayer, nor his mercy from me.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

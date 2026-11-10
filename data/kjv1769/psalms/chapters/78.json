@@ -1,0 +1,1120 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "KJV1769",
+  "book_code": "PSA",
+  "chapter": 78,
+  "verses": [
+    {
+      "id": "PSA.78.1",
+      "edition_verse_id": "KJV1769:PSA.78.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "Give ear, O my people, ",
+          "kind": "text"
+        },
+        {
+          "text": "to",
+          "kind": "supplied"
+        },
+        {
+          "text": " my law: incline your ears to the words of my mouth.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.78.2",
+      "edition_verse_id": "KJV1769:PSA.78.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "I will open my mouth in a parable: I will utter dark sayings of old:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.78.3",
+      "edition_verse_id": "KJV1769:PSA.78.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "Which we have heard and known, and our fathers have told us.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.78.4",
+      "edition_verse_id": "KJV1769:PSA.78.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "We will not hide ",
+          "kind": "text"
+        },
+        {
+          "text": "them",
+          "kind": "supplied"
+        },
+        {
+          "text": " from their children, shewing to the generation to come the praises of the LORD, and his strength, and his wonderful works that he hath done.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.78.5",
+      "edition_verse_id": "KJV1769:PSA.78.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "For he established a testimony in Jacob, and appointed a law in Israel, which he commanded our fathers, that they should make them known to their children:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.78.6",
+      "edition_verse_id": "KJV1769:PSA.78.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "That the generation to come might know ",
+          "kind": "text"
+        },
+        {
+          "text": "them, even",
+          "kind": "supplied"
+        },
+        {
+          "text": " the children ",
+          "kind": "text"
+        },
+        {
+          "text": "which",
+          "kind": "supplied"
+        },
+        {
+          "text": " should be born; ",
+          "kind": "text"
+        },
+        {
+          "text": "who",
+          "kind": "supplied"
+        },
+        {
+          "text": " should arise and declare ",
+          "kind": "text"
+        },
+        {
+          "text": "them",
+          "kind": "supplied"
+        },
+        {
+          "text": " to their children:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.78.7",
+      "edition_verse_id": "KJV1769:PSA.78.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "That they might set their hope in God, and not forget the works of God, but keep his commandments:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.78.8",
+      "edition_verse_id": "KJV1769:PSA.78.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "And might not be as their fathers, a stubborn and rebellious generation; a generation ",
+          "kind": "text"
+        },
+        {
+          "text": "that",
+          "kind": "supplied"
+        },
+        {
+          "text": " set not their heart aright, and whose spirit was not stedfast with God.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.78.9",
+      "edition_verse_id": "KJV1769:PSA.78.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "The children of Ephraim, ",
+          "kind": "text"
+        },
+        {
+          "text": "being",
+          "kind": "supplied"
+        },
+        {
+          "text": " armed, ",
+          "kind": "text"
+        },
+        {
+          "text": "and",
+          "kind": "supplied"
+        },
+        {
+          "text": " carrying bows, turned back in the day of battle.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.78.10",
+      "edition_verse_id": "KJV1769:PSA.78.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "They kept not the covenant of God, and refused to walk in his law;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.78.11",
+      "edition_verse_id": "KJV1769:PSA.78.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "And forgat his works, and his wonders that he had shewed them.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.78.12",
+      "edition_verse_id": "KJV1769:PSA.78.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "Marvellous things did he in the sight of their fathers, in the land of Egypt, ",
+          "kind": "text"
+        },
+        {
+          "text": "in",
+          "kind": "supplied"
+        },
+        {
+          "text": " the field of Zoan.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.78.13",
+      "edition_verse_id": "KJV1769:PSA.78.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "He divided the sea, and caused them to pass through; and he made the waters to stand as an heap.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.78.14",
+      "edition_verse_id": "KJV1769:PSA.78.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "In the daytime also he led them with a cloud, and all the night with a light of fire.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.78.15",
+      "edition_verse_id": "KJV1769:PSA.78.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "He clave the rocks in the wilderness, and gave ",
+          "kind": "text"
+        },
+        {
+          "text": "them",
+          "kind": "supplied"
+        },
+        {
+          "text": " drink as ",
+          "kind": "text"
+        },
+        {
+          "text": "out of",
+          "kind": "supplied"
+        },
+        {
+          "text": " the great depths.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.78.16",
+      "edition_verse_id": "KJV1769:PSA.78.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "He brought streams also out of the rock, and caused waters to run down like rivers.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.78.17",
+      "edition_verse_id": "KJV1769:PSA.78.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "And they sinned yet more against him by provoking the most High in the wilderness.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.78.18",
+      "edition_verse_id": "KJV1769:PSA.78.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "And they tempted God in their heart by asking meat for their lust.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.78.19",
+      "edition_verse_id": "KJV1769:PSA.78.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "Yea, they spake against God; they said, Can God furnish a table in the wilderness?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.78.20",
+      "edition_verse_id": "KJV1769:PSA.78.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "Behold, he smote the rock, that the waters gushed out, and the streams overflowed; can he give bread also? can he provide flesh for his people?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.78.21",
+      "edition_verse_id": "KJV1769:PSA.78.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "Therefore the LORD heard ",
+          "kind": "text"
+        },
+        {
+          "text": "this",
+          "kind": "supplied"
+        },
+        {
+          "text": ", and was wroth: so a fire was kindled against Jacob, and anger also came up against Israel;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.78.22",
+      "edition_verse_id": "KJV1769:PSA.78.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "Because they believed not in God, and trusted not in his salvation:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.78.23",
+      "edition_verse_id": "KJV1769:PSA.78.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "Though he had commanded the clouds from above, and opened the doors of heaven,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.78.24",
+      "edition_verse_id": "KJV1769:PSA.78.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "And had rained down manna upon them to eat, and had given them of the corn of heaven.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.78.25",
+      "edition_verse_id": "KJV1769:PSA.78.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "Man did eat angels’ food: he sent them meat to the full.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.78.26",
+      "edition_verse_id": "KJV1769:PSA.78.26",
+      "verse": 26,
+      "spans": [
+        {
+          "text": "He caused an east wind to blow in the heaven: and by his power he brought in the south wind.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.78.27",
+      "edition_verse_id": "KJV1769:PSA.78.27",
+      "verse": 27,
+      "spans": [
+        {
+          "text": "He rained flesh also upon them as dust, and feathered fowls like as the sand of the sea:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.78.28",
+      "edition_verse_id": "KJV1769:PSA.78.28",
+      "verse": 28,
+      "spans": [
+        {
+          "text": "And he let ",
+          "kind": "text"
+        },
+        {
+          "text": "it",
+          "kind": "supplied"
+        },
+        {
+          "text": " fall in the midst of their camp, round about their habitations.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.78.29",
+      "edition_verse_id": "KJV1769:PSA.78.29",
+      "verse": 29,
+      "spans": [
+        {
+          "text": "So they did eat, and were well filled: for he gave them their own desire;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.78.30",
+      "edition_verse_id": "KJV1769:PSA.78.30",
+      "verse": 30,
+      "spans": [
+        {
+          "text": "They were not estranged from their lust. But while their meat ",
+          "kind": "text"
+        },
+        {
+          "text": "was",
+          "kind": "supplied"
+        },
+        {
+          "text": " yet in their mouths,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.78.31",
+      "edition_verse_id": "KJV1769:PSA.78.31",
+      "verse": 31,
+      "spans": [
+        {
+          "text": "The wrath of God came upon them, and slew the fattest of them, and smote down the chosen ",
+          "kind": "text"
+        },
+        {
+          "text": "men",
+          "kind": "supplied"
+        },
+        {
+          "text": " of Israel.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.78.32",
+      "edition_verse_id": "KJV1769:PSA.78.32",
+      "verse": 32,
+      "spans": [
+        {
+          "text": "For all this they sinned still, and believed not for his wondrous works.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.78.33",
+      "edition_verse_id": "KJV1769:PSA.78.33",
+      "verse": 33,
+      "spans": [
+        {
+          "text": "Therefore their days did he consume in vanity, and their years in trouble.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.78.34",
+      "edition_verse_id": "KJV1769:PSA.78.34",
+      "verse": 34,
+      "spans": [
+        {
+          "text": "When he slew them, then they sought him: and they returned and enquired early after God.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.78.35",
+      "edition_verse_id": "KJV1769:PSA.78.35",
+      "verse": 35,
+      "spans": [
+        {
+          "text": "And they remembered that God ",
+          "kind": "text"
+        },
+        {
+          "text": "was",
+          "kind": "supplied"
+        },
+        {
+          "text": " their rock, and the high God their redeemer.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.78.36",
+      "edition_verse_id": "KJV1769:PSA.78.36",
+      "verse": 36,
+      "spans": [
+        {
+          "text": "Nevertheless they did flatter him with their mouth, and they lied unto him with their tongues.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.78.37",
+      "edition_verse_id": "KJV1769:PSA.78.37",
+      "verse": 37,
+      "spans": [
+        {
+          "text": "For their heart was not right with him, neither were they stedfast in his covenant.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.78.38",
+      "edition_verse_id": "KJV1769:PSA.78.38",
+      "verse": 38,
+      "spans": [
+        {
+          "text": "But he, ",
+          "kind": "text"
+        },
+        {
+          "text": "being",
+          "kind": "supplied"
+        },
+        {
+          "text": " full of compassion, forgave ",
+          "kind": "text"
+        },
+        {
+          "text": "their",
+          "kind": "supplied"
+        },
+        {
+          "text": " iniquity, and destroyed ",
+          "kind": "text"
+        },
+        {
+          "text": "them",
+          "kind": "supplied"
+        },
+        {
+          "text": " not: yea, many a time turned he his anger away, and did not stir up all his wrath.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.78.39",
+      "edition_verse_id": "KJV1769:PSA.78.39",
+      "verse": 39,
+      "spans": [
+        {
+          "text": "For he remembered that they ",
+          "kind": "text"
+        },
+        {
+          "text": "were but",
+          "kind": "supplied"
+        },
+        {
+          "text": " flesh; a wind that passeth away, and cometh not again.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.78.40",
+      "edition_verse_id": "KJV1769:PSA.78.40",
+      "verse": 40,
+      "spans": [
+        {
+          "text": "How oft did they provoke him in the wilderness, ",
+          "kind": "text"
+        },
+        {
+          "text": "and",
+          "kind": "supplied"
+        },
+        {
+          "text": " grieve him in the desert!",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.78.41",
+      "edition_verse_id": "KJV1769:PSA.78.41",
+      "verse": 41,
+      "spans": [
+        {
+          "text": "Yea, they turned back and tempted God, and limited the Holy One of Israel.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.78.42",
+      "edition_verse_id": "KJV1769:PSA.78.42",
+      "verse": 42,
+      "spans": [
+        {
+          "text": "They remembered not his hand, ",
+          "kind": "text"
+        },
+        {
+          "text": "nor",
+          "kind": "supplied"
+        },
+        {
+          "text": " the day when he delivered them from the enemy.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.78.43",
+      "edition_verse_id": "KJV1769:PSA.78.43",
+      "verse": 43,
+      "spans": [
+        {
+          "text": "How he had wrought his signs in Egypt, and his wonders in the field of Zoan:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.78.44",
+      "edition_verse_id": "KJV1769:PSA.78.44",
+      "verse": 44,
+      "spans": [
+        {
+          "text": "And had turned their rivers into blood; and their floods, that they could not drink.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.78.45",
+      "edition_verse_id": "KJV1769:PSA.78.45",
+      "verse": 45,
+      "spans": [
+        {
+          "text": "He sent divers sorts of flies among them, which devoured them; and frogs, which destroyed them.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.78.46",
+      "edition_verse_id": "KJV1769:PSA.78.46",
+      "verse": 46,
+      "spans": [
+        {
+          "text": "He gave also their increase unto the caterpiller, and their labour unto the locust.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.78.47",
+      "edition_verse_id": "KJV1769:PSA.78.47",
+      "verse": 47,
+      "spans": [
+        {
+          "text": "He destroyed their vines with hail, and their sycomore trees with frost.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.78.48",
+      "edition_verse_id": "KJV1769:PSA.78.48",
+      "verse": 48,
+      "spans": [
+        {
+          "text": "He gave up their cattle also to the hail, and their flocks to hot thunderbolts.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.78.49",
+      "edition_verse_id": "KJV1769:PSA.78.49",
+      "verse": 49,
+      "spans": [
+        {
+          "text": "He cast upon them the fierceness of his anger, wrath, and indignation, and trouble, by sending evil angels ",
+          "kind": "text"
+        },
+        {
+          "text": "among them",
+          "kind": "supplied"
+        },
+        {
+          "text": ".",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.78.50",
+      "edition_verse_id": "KJV1769:PSA.78.50",
+      "verse": 50,
+      "spans": [
+        {
+          "text": "He made a way to his anger; he spared not their soul from death, but gave their life over to the pestilence;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.78.51",
+      "edition_verse_id": "KJV1769:PSA.78.51",
+      "verse": 51,
+      "spans": [
+        {
+          "text": "And smote all the firstborn in Egypt; the chief of ",
+          "kind": "text"
+        },
+        {
+          "text": "their",
+          "kind": "supplied"
+        },
+        {
+          "text": " strength in the tabernacles of Ham:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.78.52",
+      "edition_verse_id": "KJV1769:PSA.78.52",
+      "verse": 52,
+      "spans": [
+        {
+          "text": "But made his own people to go forth like sheep, and guided them in the wilderness like a flock.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.78.53",
+      "edition_verse_id": "KJV1769:PSA.78.53",
+      "verse": 53,
+      "spans": [
+        {
+          "text": "And he led them on safely, so that they feared not: but the sea overwhelmed their enemies.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.78.54",
+      "edition_verse_id": "KJV1769:PSA.78.54",
+      "verse": 54,
+      "spans": [
+        {
+          "text": "And he brought them to the border of his sanctuary, ",
+          "kind": "text"
+        },
+        {
+          "text": "even to",
+          "kind": "supplied"
+        },
+        {
+          "text": " this mountain, ",
+          "kind": "text"
+        },
+        {
+          "text": "which",
+          "kind": "supplied"
+        },
+        {
+          "text": " his right hand had purchased.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.78.55",
+      "edition_verse_id": "KJV1769:PSA.78.55",
+      "verse": 55,
+      "spans": [
+        {
+          "text": "He cast out the heathen also before them, and divided them an inheritance by line, and made the tribes of Israel to dwell in their tents.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.78.56",
+      "edition_verse_id": "KJV1769:PSA.78.56",
+      "verse": 56,
+      "spans": [
+        {
+          "text": "Yet they tempted and provoked the most high God, and kept not his testimonies:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.78.57",
+      "edition_verse_id": "KJV1769:PSA.78.57",
+      "verse": 57,
+      "spans": [
+        {
+          "text": "But turned back, and dealt unfaithfully like their fathers: they were turned aside like a deceitful bow.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.78.58",
+      "edition_verse_id": "KJV1769:PSA.78.58",
+      "verse": 58,
+      "spans": [
+        {
+          "text": "For they provoked him to anger with their high places, and moved him to jealousy with their graven images.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.78.59",
+      "edition_verse_id": "KJV1769:PSA.78.59",
+      "verse": 59,
+      "spans": [
+        {
+          "text": "When God heard ",
+          "kind": "text"
+        },
+        {
+          "text": "this",
+          "kind": "supplied"
+        },
+        {
+          "text": ", he was wroth, and greatly abhorred Israel:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.78.60",
+      "edition_verse_id": "KJV1769:PSA.78.60",
+      "verse": 60,
+      "spans": [
+        {
+          "text": "So that he forsook the tabernacle of Shiloh, the tent ",
+          "kind": "text"
+        },
+        {
+          "text": "which",
+          "kind": "supplied"
+        },
+        {
+          "text": " he placed among men;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.78.61",
+      "edition_verse_id": "KJV1769:PSA.78.61",
+      "verse": 61,
+      "spans": [
+        {
+          "text": "And delivered his strength into captivity, and his glory into the enemy’s hand.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.78.62",
+      "edition_verse_id": "KJV1769:PSA.78.62",
+      "verse": 62,
+      "spans": [
+        {
+          "text": "He gave his people over also unto the sword; and was wroth with his inheritance.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.78.63",
+      "edition_verse_id": "KJV1769:PSA.78.63",
+      "verse": 63,
+      "spans": [
+        {
+          "text": "The fire consumed their young men; and their maidens were not given to marriage.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.78.64",
+      "edition_verse_id": "KJV1769:PSA.78.64",
+      "verse": 64,
+      "spans": [
+        {
+          "text": "Their priests fell by the sword; and their widows made no lamentation.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.78.65",
+      "edition_verse_id": "KJV1769:PSA.78.65",
+      "verse": 65,
+      "spans": [
+        {
+          "text": "Then the Lord awaked as one out of sleep, ",
+          "kind": "text"
+        },
+        {
+          "text": "and",
+          "kind": "supplied"
+        },
+        {
+          "text": " like a mighty man that shouteth by reason of wine.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.78.66",
+      "edition_verse_id": "KJV1769:PSA.78.66",
+      "verse": 66,
+      "spans": [
+        {
+          "text": "And he smote his enemies in the hinder parts: he put them to a perpetual reproach.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.78.67",
+      "edition_verse_id": "KJV1769:PSA.78.67",
+      "verse": 67,
+      "spans": [
+        {
+          "text": "Moreover he refused the tabernacle of Joseph, and chose not the tribe of Ephraim:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.78.68",
+      "edition_verse_id": "KJV1769:PSA.78.68",
+      "verse": 68,
+      "spans": [
+        {
+          "text": "But chose the tribe of Judah, the mount Zion which he loved.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.78.69",
+      "edition_verse_id": "KJV1769:PSA.78.69",
+      "verse": 69,
+      "spans": [
+        {
+          "text": "And he built his sanctuary like high ",
+          "kind": "text"
+        },
+        {
+          "text": "palaces",
+          "kind": "supplied"
+        },
+        {
+          "text": ", like the earth which he hath established for ever.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.78.70",
+      "edition_verse_id": "KJV1769:PSA.78.70",
+      "verse": 70,
+      "spans": [
+        {
+          "text": "He chose David also his servant, and took him from the sheepfolds:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.78.71",
+      "edition_verse_id": "KJV1769:PSA.78.71",
+      "verse": 71,
+      "spans": [
+        {
+          "text": "From following the ewes great with young he brought him to feed Jacob his people, and Israel his inheritance.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.78.72",
+      "edition_verse_id": "KJV1769:PSA.78.72",
+      "verse": 72,
+      "spans": [
+        {
+          "text": "So he fed them according to the integrity of his heart; and guided them by the skilfulness of his hands.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

@@ -1,0 +1,468 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "KJV1769",
+  "book_code": "REV",
+  "chapter": 21,
+  "verses": [
+    {
+      "id": "REV.21.1",
+      "edition_verse_id": "KJV1769:REV.21.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "And I saw a new heaven and a new earth: for the first heaven and the first earth were passed away; and there was no more sea.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "REV.21.2",
+      "edition_verse_id": "KJV1769:REV.21.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "And I John saw the holy city, new Jerusalem, coming down from God out of heaven, prepared as a bride adorned for her husband.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "REV.21.3",
+      "edition_verse_id": "KJV1769:REV.21.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "And I heard a great voice out of heaven saying, Behold, the tabernacle of God ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " with men, and he will dwell with them, and they shall be his people, and God himself shall be with them, ",
+          "kind": "text"
+        },
+        {
+          "text": "and be",
+          "kind": "supplied"
+        },
+        {
+          "text": " their God.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "REV.21.4",
+      "edition_verse_id": "KJV1769:REV.21.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "And God shall wipe away all tears from their eyes; and there shall be no more death, neither sorrow, nor crying, neither shall there be any more pain: for the former things are passed away.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "REV.21.5",
+      "edition_verse_id": "KJV1769:REV.21.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "And he that sat upon the throne said, Behold, I make all things new. And he said unto me, Write: for these words are true and faithful.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "REV.21.6",
+      "edition_verse_id": "KJV1769:REV.21.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "And he said unto me, It is done. I am Alpha and Omega, the beginning and the end. I will give unto him that is athirst of the fountain of the water of life freely.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "REV.21.7",
+      "edition_verse_id": "KJV1769:REV.21.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "He that overcometh shall inherit all things; and I will be his God, and he shall be my son.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "REV.21.8",
+      "edition_verse_id": "KJV1769:REV.21.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "But the fearful, and unbelieving, and the abominable, and murderers, and whoremongers, and sorcerers, and idolaters, and all liars, shall have their part in the lake which burneth with fire and brimstone: which is the second death.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "REV.21.9",
+      "edition_verse_id": "KJV1769:REV.21.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "And there came unto me one of the seven angels which had the seven vials full of the seven last plagues, and talked with me, saying, Come hither, I will shew thee the bride, the Lamb’s wife.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "REV.21.10",
+      "edition_verse_id": "KJV1769:REV.21.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "And he carried me away in the spirit to a great and high mountain, and shewed me that great city, the holy Jerusalem, descending out of heaven from God,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "REV.21.11",
+      "edition_verse_id": "KJV1769:REV.21.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "Having the glory of God: and her light ",
+          "kind": "text"
+        },
+        {
+          "text": "was",
+          "kind": "supplied"
+        },
+        {
+          "text": " like unto a stone most precious, even like a jasper stone, clear as crystal;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "REV.21.12",
+      "edition_verse_id": "KJV1769:REV.21.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "And had a wall great and high, ",
+          "kind": "text"
+        },
+        {
+          "text": "and",
+          "kind": "supplied"
+        },
+        {
+          "text": " had twelve gates, and at the gates twelve angels, and names written thereon, which are ",
+          "kind": "text"
+        },
+        {
+          "text": "the names",
+          "kind": "supplied"
+        },
+        {
+          "text": " of the twelve tribes of the children of Israel:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "REV.21.13",
+      "edition_verse_id": "KJV1769:REV.21.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "On the east three gates; on the north three gates; on the south three gates; and on the west three gates.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "REV.21.14",
+      "edition_verse_id": "KJV1769:REV.21.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "And the wall of the city had twelve foundations, and in them the names of the twelve apostles of the Lamb.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "REV.21.15",
+      "edition_verse_id": "KJV1769:REV.21.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "And he that talked with me had a golden reed to measure the city, and the gates thereof, and the wall thereof.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "REV.21.16",
+      "edition_verse_id": "KJV1769:REV.21.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "And the city lieth foursquare, and the length is as large as the breadth: and he measured the city with the reed, twelve thousand furlongs. The length and the breadth and the height of it are equal.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "REV.21.17",
+      "edition_verse_id": "KJV1769:REV.21.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "And he measured the wall thereof, an hundred ",
+          "kind": "text"
+        },
+        {
+          "text": "and",
+          "kind": "supplied"
+        },
+        {
+          "text": " forty ",
+          "kind": "text"
+        },
+        {
+          "text": "and",
+          "kind": "supplied"
+        },
+        {
+          "text": " four cubits, ",
+          "kind": "text"
+        },
+        {
+          "text": "according to",
+          "kind": "supplied"
+        },
+        {
+          "text": " the measure of a man, that is, of the angel.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "REV.21.18",
+      "edition_verse_id": "KJV1769:REV.21.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "And the building of the wall of it was ",
+          "kind": "text"
+        },
+        {
+          "text": "of",
+          "kind": "supplied"
+        },
+        {
+          "text": " jasper: and the city ",
+          "kind": "text"
+        },
+        {
+          "text": "was",
+          "kind": "supplied"
+        },
+        {
+          "text": " pure gold, like unto clear glass.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "REV.21.19",
+      "edition_verse_id": "KJV1769:REV.21.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "And the foundations of the wall of the city ",
+          "kind": "text"
+        },
+        {
+          "text": "were",
+          "kind": "supplied"
+        },
+        {
+          "text": " garnished with all manner of precious stones. The first foundation ",
+          "kind": "text"
+        },
+        {
+          "text": "was",
+          "kind": "supplied"
+        },
+        {
+          "text": " jasper; the second, sapphire; the third, a chalcedony; the fourth, an emerald;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "REV.21.20",
+      "edition_verse_id": "KJV1769:REV.21.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "The fifth, sardonyx; the sixth, sardius; the seventh, chrysolite; the eighth, beryl; the ninth, a topaz; the tenth, a chrysoprasus; the eleventh, a jacinth; the twelfth, an amethyst.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "REV.21.21",
+      "edition_verse_id": "KJV1769:REV.21.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "And the twelve gates ",
+          "kind": "text"
+        },
+        {
+          "text": "were",
+          "kind": "supplied"
+        },
+        {
+          "text": " twelve pearls; every several gate was of one pearl: and the street of the city ",
+          "kind": "text"
+        },
+        {
+          "text": "was",
+          "kind": "supplied"
+        },
+        {
+          "text": " pure gold, as it were transparent glass.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "REV.21.22",
+      "edition_verse_id": "KJV1769:REV.21.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "And I saw no temple therein: for the Lord God Almighty and the Lamb are the temple of it.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "REV.21.23",
+      "edition_verse_id": "KJV1769:REV.21.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "And the city had no need of the sun, neither of the moon, to shine in it: for the glory of God did lighten it, and the Lamb ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " the light thereof.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "REV.21.24",
+      "edition_verse_id": "KJV1769:REV.21.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "And the nations of them which are saved shall walk in the light of it: and the kings of the earth do bring their glory and honour into it.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "REV.21.25",
+      "edition_verse_id": "KJV1769:REV.21.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "And the gates of it shall not be shut at all by day: for there shall be no night there.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "REV.21.26",
+      "edition_verse_id": "KJV1769:REV.21.26",
+      "verse": 26,
+      "spans": [
+        {
+          "text": "And they shall bring the glory and honour of the nations into it.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "REV.21.27",
+      "edition_verse_id": "KJV1769:REV.21.27",
+      "verse": 27,
+      "spans": [
+        {
+          "text": "And there shall in no wise enter into it any thing that defileth, neither ",
+          "kind": "text"
+        },
+        {
+          "text": "whatsoever",
+          "kind": "supplied"
+        },
+        {
+          "text": " worketh abomination, or ",
+          "kind": "text"
+        },
+        {
+          "text": "maketh",
+          "kind": "supplied"
+        },
+        {
+          "text": " a lie: but they which are written in the Lamb’s book of life.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

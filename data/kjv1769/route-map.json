@@ -1,0 +1,16 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "KJV1769",
+  "canonical_id_pattern": "{BOOK}.{CHAPTER}.{VERSE}",
+  "edition_verse_id_pattern": "KJV1769:{BOOK}.{CHAPTER}.{VERSE}",
+  "book_catalog_path": "data/kjv1769/catalog-{slug}.json",
+  "chapter_text_path": "data/kjv1769/{slug}/chapters/{chapter:02d}.json",
+  "separate_original_language_resource": "SOTW-Original-Languages original-language-resources and SOTW-Original-Languages-2 original-language-resources",
+  "language_resource_route_map": "study-data/v1/route-map.json",
+  "study_evidence_key_example": "verses[\"GEN.1.1\"].KJV1769",
+  "note": "KJV1769 study word-link evidence is separate from English text; tagged native USFM word ordinals are NOT direct English reading-display token offsets.",
+  "historical_commentary_resource": "SOTW-Historical-Commentaries/historical-commentary-resources",
+  "commentary_join_id": "GEN.1.1",
+  "published_integration_status": "NOT_BUILT; this is a logical linking contract only",
+  "facsimile_pages_available": false
+}

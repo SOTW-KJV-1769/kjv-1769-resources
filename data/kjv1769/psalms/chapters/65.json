@@ -1,0 +1,240 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "KJV1769",
+  "book_code": "PSA",
+  "chapter": 65,
+  "verses": [
+    {
+      "id": "PSA.65.1",
+      "edition_verse_id": "KJV1769:PSA.65.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "Praise waiteth for thee, O God, in Sion: and unto thee shall the vow be performed.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.65.2",
+      "edition_verse_id": "KJV1769:PSA.65.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "O thou that hearest prayer, unto thee shall all flesh come.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.65.3",
+      "edition_verse_id": "KJV1769:PSA.65.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "Iniquities prevail against me: ",
+          "kind": "text"
+        },
+        {
+          "text": "as for",
+          "kind": "supplied"
+        },
+        {
+          "text": " our transgressions, thou shalt purge them away.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.65.4",
+      "edition_verse_id": "KJV1769:PSA.65.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "Blessed ",
+          "kind": "text"
+        },
+        {
+          "text": "is the man whom",
+          "kind": "supplied"
+        },
+        {
+          "text": " thou choosest, and causest to approach ",
+          "kind": "text"
+        },
+        {
+          "text": "unto thee, that",
+          "kind": "supplied"
+        },
+        {
+          "text": " he may dwell in thy courts: we shall be satisfied with the goodness of thy house, ",
+          "kind": "text"
+        },
+        {
+          "text": "even",
+          "kind": "supplied"
+        },
+        {
+          "text": " of thy holy temple.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.65.5",
+      "edition_verse_id": "KJV1769:PSA.65.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "By",
+          "kind": "supplied"
+        },
+        {
+          "text": " terrible things in righteousness wilt thou answer us, O God of our salvation; ",
+          "kind": "text"
+        },
+        {
+          "text": "who art",
+          "kind": "supplied"
+        },
+        {
+          "text": " the confidence of all the ends of the earth, and of them that are afar off ",
+          "kind": "text"
+        },
+        {
+          "text": "upon",
+          "kind": "supplied"
+        },
+        {
+          "text": " the sea:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.65.6",
+      "edition_verse_id": "KJV1769:PSA.65.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "Which by his strength setteth fast the mountains; ",
+          "kind": "text"
+        },
+        {
+          "text": "being",
+          "kind": "supplied"
+        },
+        {
+          "text": " girded with power:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.65.7",
+      "edition_verse_id": "KJV1769:PSA.65.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "Which stilleth the noise of the seas, the noise of their waves, and the tumult of the people.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.65.8",
+      "edition_verse_id": "KJV1769:PSA.65.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "They also that dwell in the uttermost parts are afraid at thy tokens: thou makest the outgoings of the morning and evening to rejoice.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.65.9",
+      "edition_verse_id": "KJV1769:PSA.65.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "Thou visitest the earth, and waterest it: thou greatly enrichest it with the river of God, ",
+          "kind": "text"
+        },
+        {
+          "text": "which",
+          "kind": "supplied"
+        },
+        {
+          "text": " is full of water: thou preparest them corn, when thou hast so provided for it.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.65.10",
+      "edition_verse_id": "KJV1769:PSA.65.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "Thou waterest the ridges thereof abundantly: thou settlest the furrows thereof: thou makest it soft with showers: thou blessest the springing thereof.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.65.11",
+      "edition_verse_id": "KJV1769:PSA.65.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "Thou crownest the year with thy goodness; and thy paths drop fatness.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.65.12",
+      "edition_verse_id": "KJV1769:PSA.65.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "They drop ",
+          "kind": "text"
+        },
+        {
+          "text": "upon",
+          "kind": "supplied"
+        },
+        {
+          "text": " the pastures of the wilderness: and the little hills rejoice on every side.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.65.13",
+      "edition_verse_id": "KJV1769:PSA.65.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "The pastures are clothed with flocks; the valleys also are covered over with corn; they shout for joy, they also sing.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

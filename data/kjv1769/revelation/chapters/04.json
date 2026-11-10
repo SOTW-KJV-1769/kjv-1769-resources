@@ -1,0 +1,236 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "KJV1769",
+  "book_code": "REV",
+  "chapter": 4,
+  "verses": [
+    {
+      "id": "REV.4.1",
+      "edition_verse_id": "KJV1769:REV.4.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "After this I looked, and, behold, a door ",
+          "kind": "text"
+        },
+        {
+          "text": "was",
+          "kind": "supplied"
+        },
+        {
+          "text": " opened in heaven: and the first voice which I heard ",
+          "kind": "text"
+        },
+        {
+          "text": "was",
+          "kind": "supplied"
+        },
+        {
+          "text": " as it were of a trumpet talking with me; which said, Come up hither, and I will shew thee things which must be hereafter.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "REV.4.2",
+      "edition_verse_id": "KJV1769:REV.4.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "And immediately I was in the spirit: and, behold, a throne was set in heaven, and ",
+          "kind": "text"
+        },
+        {
+          "text": "one",
+          "kind": "supplied"
+        },
+        {
+          "text": " sat on the throne.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "REV.4.3",
+      "edition_verse_id": "KJV1769:REV.4.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "And he that sat was to look upon like a jasper and a sardine stone: and ",
+          "kind": "text"
+        },
+        {
+          "text": "there was",
+          "kind": "supplied"
+        },
+        {
+          "text": " a rainbow round about the throne, in sight like unto an emerald.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "REV.4.4",
+      "edition_verse_id": "KJV1769:REV.4.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "And round about the throne ",
+          "kind": "text"
+        },
+        {
+          "text": "were",
+          "kind": "supplied"
+        },
+        {
+          "text": " four and twenty seats: and upon the seats I saw four and twenty elders sitting, clothed in white raiment; and they had on their heads crowns of gold.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "REV.4.5",
+      "edition_verse_id": "KJV1769:REV.4.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "And out of the throne proceeded lightnings and thunderings and voices: and ",
+          "kind": "text"
+        },
+        {
+          "text": "there were",
+          "kind": "supplied"
+        },
+        {
+          "text": " seven lamps of fire burning before the throne, which are the seven Spirits of God.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "REV.4.6",
+      "edition_verse_id": "KJV1769:REV.4.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "And before the throne ",
+          "kind": "text"
+        },
+        {
+          "text": "there was",
+          "kind": "supplied"
+        },
+        {
+          "text": " a sea of glass like unto crystal: and in the midst of the throne, and round about the throne, ",
+          "kind": "text"
+        },
+        {
+          "text": "were",
+          "kind": "supplied"
+        },
+        {
+          "text": " four beasts full of eyes before and behind.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "REV.4.7",
+      "edition_verse_id": "KJV1769:REV.4.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "And the first beast ",
+          "kind": "text"
+        },
+        {
+          "text": "was",
+          "kind": "supplied"
+        },
+        {
+          "text": " like a lion, and the second beast like a calf, and the third beast had a face as a man, and the fourth beast ",
+          "kind": "text"
+        },
+        {
+          "text": "was",
+          "kind": "supplied"
+        },
+        {
+          "text": " like a flying eagle.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "REV.4.8",
+      "edition_verse_id": "KJV1769:REV.4.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "And the four beasts had each of them six wings about ",
+          "kind": "text"
+        },
+        {
+          "text": "him",
+          "kind": "supplied"
+        },
+        {
+          "text": "; and ",
+          "kind": "text"
+        },
+        {
+          "text": "they were",
+          "kind": "supplied"
+        },
+        {
+          "text": " full of eyes within: and they rest not day and night, saying, Holy, holy, holy, Lord God Almighty, which was, and is, and is to come.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "REV.4.9",
+      "edition_verse_id": "KJV1769:REV.4.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "And when those beasts give glory and honour and thanks to him that sat on the throne, who liveth for ever and ever,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "REV.4.10",
+      "edition_verse_id": "KJV1769:REV.4.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "The four and twenty elders fall down before him that sat on the throne, and worship him that liveth for ever and ever, and cast their crowns before the throne, saying,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "REV.4.11",
+      "edition_verse_id": "KJV1769:REV.4.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "Thou art worthy, O Lord, to receive glory and honour and power: for thou hast created all things, and for thy pleasure they are and were created.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

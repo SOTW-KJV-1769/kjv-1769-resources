@@ -1,0 +1,192 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "KJV1769",
+  "book_code": "PSA",
+  "chapter": 64,
+  "verses": [
+    {
+      "id": "PSA.64.1",
+      "edition_verse_id": "KJV1769:PSA.64.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "Hear my voice, O God, in my prayer: preserve my life from fear of the enemy.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.64.2",
+      "edition_verse_id": "KJV1769:PSA.64.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "Hide me from the secret counsel of the wicked; from the insurrection of the workers of iniquity:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.64.3",
+      "edition_verse_id": "KJV1769:PSA.64.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "Who whet their tongue like a sword, ",
+          "kind": "text"
+        },
+        {
+          "text": "and",
+          "kind": "supplied"
+        },
+        {
+          "text": " bend ",
+          "kind": "text"
+        },
+        {
+          "text": "their bows to shoot",
+          "kind": "supplied"
+        },
+        {
+          "text": " their arrows, ",
+          "kind": "text"
+        },
+        {
+          "text": "even",
+          "kind": "supplied"
+        },
+        {
+          "text": " bitter words:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.64.4",
+      "edition_verse_id": "KJV1769:PSA.64.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "That they may shoot in secret at the perfect: suddenly do they shoot at him, and fear not.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.64.5",
+      "edition_verse_id": "KJV1769:PSA.64.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "They encourage themselves ",
+          "kind": "text"
+        },
+        {
+          "text": "in",
+          "kind": "supplied"
+        },
+        {
+          "text": " an evil matter: they commune of laying snares privily; they say, Who shall see them?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.64.6",
+      "edition_verse_id": "KJV1769:PSA.64.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "They search out iniquities; they accomplish a diligent search: both the inward ",
+          "kind": "text"
+        },
+        {
+          "text": "thought",
+          "kind": "supplied"
+        },
+        {
+          "text": " of every one ",
+          "kind": "text"
+        },
+        {
+          "text": "of them",
+          "kind": "supplied"
+        },
+        {
+          "text": ", and the heart, ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " deep.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.64.7",
+      "edition_verse_id": "KJV1769:PSA.64.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "But God shall shoot at them ",
+          "kind": "text"
+        },
+        {
+          "text": "with",
+          "kind": "supplied"
+        },
+        {
+          "text": " an arrow; suddenly shall they be wounded.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.64.8",
+      "edition_verse_id": "KJV1769:PSA.64.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "So they shall make their own tongue to fall upon themselves: all that see them shall flee away.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.64.9",
+      "edition_verse_id": "KJV1769:PSA.64.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "And all men shall fear, and shall declare the work of God; for they shall wisely consider of his doing.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.64.10",
+      "edition_verse_id": "KJV1769:PSA.64.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "The righteous shall be glad in the LORD, and shall trust in him; and all the upright in heart shall glory.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

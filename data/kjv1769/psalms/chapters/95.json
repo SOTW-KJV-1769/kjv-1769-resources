@@ -1,0 +1,228 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "KJV1769",
+  "book_code": "PSA",
+  "chapter": 95,
+  "verses": [
+    {
+      "id": "PSA.95.1",
+      "edition_verse_id": "KJV1769:PSA.95.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "O come, let us sing unto the LORD: let us make a joyful noise to the rock of our salvation.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.95.2",
+      "edition_verse_id": "KJV1769:PSA.95.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "Let us come before his presence with thanksgiving, and make a joyful noise unto him with psalms.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.95.3",
+      "edition_verse_id": "KJV1769:PSA.95.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "For the LORD ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " a great God, and a great King above all gods.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.95.4",
+      "edition_verse_id": "KJV1769:PSA.95.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "In his hand ",
+          "kind": "text"
+        },
+        {
+          "text": "are",
+          "kind": "supplied"
+        },
+        {
+          "text": " the deep places of the earth: the strength of the hills ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " his also.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.95.5",
+      "edition_verse_id": "KJV1769:PSA.95.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "The sea ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " his, and he made it: and his hands formed the dry ",
+          "kind": "text"
+        },
+        {
+          "text": "land",
+          "kind": "supplied"
+        },
+        {
+          "text": ".",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.95.6",
+      "edition_verse_id": "KJV1769:PSA.95.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "O come, let us worship and bow down: let us kneel before the LORD our maker.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.95.7",
+      "edition_verse_id": "KJV1769:PSA.95.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "For he ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " our God; and we ",
+          "kind": "text"
+        },
+        {
+          "text": "are",
+          "kind": "supplied"
+        },
+        {
+          "text": " the people of his pasture, and the sheep of his hand. To day if ye will hear his voice,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.95.8",
+      "edition_verse_id": "KJV1769:PSA.95.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "Harden not your heart, as in the provocation, ",
+          "kind": "text"
+        },
+        {
+          "text": "and",
+          "kind": "supplied"
+        },
+        {
+          "text": " as ",
+          "kind": "text"
+        },
+        {
+          "text": "in",
+          "kind": "supplied"
+        },
+        {
+          "text": " the day of temptation in the wilderness:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.95.9",
+      "edition_verse_id": "KJV1769:PSA.95.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "When your fathers tempted me, proved me, and saw my work.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.95.10",
+      "edition_verse_id": "KJV1769:PSA.95.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "Forty years long was I grieved with ",
+          "kind": "text"
+        },
+        {
+          "text": "this",
+          "kind": "supplied"
+        },
+        {
+          "text": " generation, and said, It ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " a people that do err in their heart, and they have not known my ways:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.95.11",
+      "edition_verse_id": "KJV1769:PSA.95.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "Unto whom I sware in my wrath that they should not enter into my rest.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

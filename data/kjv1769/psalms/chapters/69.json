@@ -1,0 +1,612 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "KJV1769",
+  "book_code": "PSA",
+  "chapter": 69,
+  "verses": [
+    {
+      "id": "PSA.69.1",
+      "edition_verse_id": "KJV1769:PSA.69.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "Save me, O God; for the waters are come in unto ",
+          "kind": "text"
+        },
+        {
+          "text": "my",
+          "kind": "supplied"
+        },
+        {
+          "text": " soul.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.69.2",
+      "edition_verse_id": "KJV1769:PSA.69.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "I sink in deep mire, where ",
+          "kind": "text"
+        },
+        {
+          "text": "there is",
+          "kind": "supplied"
+        },
+        {
+          "text": " no standing: I am come into deep waters, where the floods overflow me.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.69.3",
+      "edition_verse_id": "KJV1769:PSA.69.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "I am weary of my crying: my throat is dried: mine eyes fail while I wait for my God.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.69.4",
+      "edition_verse_id": "KJV1769:PSA.69.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "They that hate me without a cause are more than the hairs of mine head: they that would destroy me, ",
+          "kind": "text"
+        },
+        {
+          "text": "being",
+          "kind": "supplied"
+        },
+        {
+          "text": " mine enemies wrongfully, are mighty: then I restored ",
+          "kind": "text"
+        },
+        {
+          "text": "that",
+          "kind": "supplied"
+        },
+        {
+          "text": " which I took not away.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.69.5",
+      "edition_verse_id": "KJV1769:PSA.69.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "O God, thou knowest my foolishness; and my sins are not hid from thee.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.69.6",
+      "edition_verse_id": "KJV1769:PSA.69.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "Let not them that wait on thee, O Lord GOD of hosts, be ashamed for my sake: let not those that seek thee be confounded for my sake, O God of Israel.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.69.7",
+      "edition_verse_id": "KJV1769:PSA.69.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "Because for thy sake I have borne reproach; shame hath covered my face.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.69.8",
+      "edition_verse_id": "KJV1769:PSA.69.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "I am become a stranger unto my brethren, and an alien unto my mother’s children.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.69.9",
+      "edition_verse_id": "KJV1769:PSA.69.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "For the zeal of thine house hath eaten me up; and the reproaches of them that reproached thee are fallen upon me.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.69.10",
+      "edition_verse_id": "KJV1769:PSA.69.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "When I wept, ",
+          "kind": "text"
+        },
+        {
+          "text": "and chastened",
+          "kind": "supplied"
+        },
+        {
+          "text": " my soul with fasting, that was to my reproach.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.69.11",
+      "edition_verse_id": "KJV1769:PSA.69.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "I made sackcloth also my garment; and I became a proverb to them.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.69.12",
+      "edition_verse_id": "KJV1769:PSA.69.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "They that sit in the gate speak against me; and I ",
+          "kind": "text"
+        },
+        {
+          "text": "was",
+          "kind": "supplied"
+        },
+        {
+          "text": " the song of the drunkards.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.69.13",
+      "edition_verse_id": "KJV1769:PSA.69.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "But as for me, my prayer ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " unto thee, O LORD, ",
+          "kind": "text"
+        },
+        {
+          "text": "in",
+          "kind": "supplied"
+        },
+        {
+          "text": " an acceptable time: O God, in the multitude of thy mercy hear me, in the truth of thy salvation.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.69.14",
+      "edition_verse_id": "KJV1769:PSA.69.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "Deliver me out of the mire, and let me not sink: let me be delivered from them that hate me, and out of the deep waters.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.69.15",
+      "edition_verse_id": "KJV1769:PSA.69.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "Let not the waterflood overflow me, neither let the deep swallow me up, and let not the pit shut her mouth upon me.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.69.16",
+      "edition_verse_id": "KJV1769:PSA.69.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "Hear me, O LORD; for thy lovingkindness ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " good: turn unto me according to the multitude of thy tender mercies.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.69.17",
+      "edition_verse_id": "KJV1769:PSA.69.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "And hide not thy face from thy servant; for I am in trouble: hear me speedily.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.69.18",
+      "edition_verse_id": "KJV1769:PSA.69.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "Draw nigh unto my soul, ",
+          "kind": "text"
+        },
+        {
+          "text": "and",
+          "kind": "supplied"
+        },
+        {
+          "text": " redeem it: deliver me because of mine enemies.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.69.19",
+      "edition_verse_id": "KJV1769:PSA.69.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "Thou hast known my reproach, and my shame, and my dishonour: mine adversaries ",
+          "kind": "text"
+        },
+        {
+          "text": "are",
+          "kind": "supplied"
+        },
+        {
+          "text": " all before thee.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.69.20",
+      "edition_verse_id": "KJV1769:PSA.69.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "Reproach hath broken my heart; and I am full of heaviness: and I looked ",
+          "kind": "text"
+        },
+        {
+          "text": "for some",
+          "kind": "supplied"
+        },
+        {
+          "text": " to take pity, but ",
+          "kind": "text"
+        },
+        {
+          "text": "there was",
+          "kind": "supplied"
+        },
+        {
+          "text": " none; and for comforters, but I found none.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.69.21",
+      "edition_verse_id": "KJV1769:PSA.69.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "They gave me also gall for my meat; and in my thirst they gave me vinegar to drink.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.69.22",
+      "edition_verse_id": "KJV1769:PSA.69.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "Let their table become a snare before them: and ",
+          "kind": "text"
+        },
+        {
+          "text": "that which should have been",
+          "kind": "supplied"
+        },
+        {
+          "text": " for ",
+          "kind": "text"
+        },
+        {
+          "text": "their",
+          "kind": "supplied"
+        },
+        {
+          "text": " welfare, ",
+          "kind": "text"
+        },
+        {
+          "text": "let it become",
+          "kind": "supplied"
+        },
+        {
+          "text": " a trap.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.69.23",
+      "edition_verse_id": "KJV1769:PSA.69.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "Let their eyes be darkened, that they see not; and make their loins continually to shake.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.69.24",
+      "edition_verse_id": "KJV1769:PSA.69.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "Pour out thine indignation upon them, and let thy wrathful anger take hold of them.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.69.25",
+      "edition_verse_id": "KJV1769:PSA.69.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "Let their habitation be desolate; ",
+          "kind": "text"
+        },
+        {
+          "text": "and",
+          "kind": "supplied"
+        },
+        {
+          "text": " let none dwell in their tents.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.69.26",
+      "edition_verse_id": "KJV1769:PSA.69.26",
+      "verse": 26,
+      "spans": [
+        {
+          "text": "For they persecute ",
+          "kind": "text"
+        },
+        {
+          "text": "him",
+          "kind": "supplied"
+        },
+        {
+          "text": " whom thou hast smitten; and they talk to the grief of those whom thou hast wounded.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.69.27",
+      "edition_verse_id": "KJV1769:PSA.69.27",
+      "verse": 27,
+      "spans": [
+        {
+          "text": "Add iniquity unto their iniquity: and let them not come into thy righteousness.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.69.28",
+      "edition_verse_id": "KJV1769:PSA.69.28",
+      "verse": 28,
+      "spans": [
+        {
+          "text": "Let them be blotted out of the book of the living, and not be written with the righteous.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.69.29",
+      "edition_verse_id": "KJV1769:PSA.69.29",
+      "verse": 29,
+      "spans": [
+        {
+          "text": "But I ",
+          "kind": "text"
+        },
+        {
+          "text": "am",
+          "kind": "supplied"
+        },
+        {
+          "text": " poor and sorrowful: let thy salvation, O God, set me up on high.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.69.30",
+      "edition_verse_id": "KJV1769:PSA.69.30",
+      "verse": 30,
+      "spans": [
+        {
+          "text": "I will praise the name of God with a song, and will magnify him with thanksgiving.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.69.31",
+      "edition_verse_id": "KJV1769:PSA.69.31",
+      "verse": 31,
+      "spans": [
+        {
+          "text": "This",
+          "kind": "supplied"
+        },
+        {
+          "text": " also shall please the LORD better than an ox ",
+          "kind": "text"
+        },
+        {
+          "text": "or",
+          "kind": "supplied"
+        },
+        {
+          "text": " bullock that hath horns and hoofs.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.69.32",
+      "edition_verse_id": "KJV1769:PSA.69.32",
+      "verse": 32,
+      "spans": [
+        {
+          "text": "The humble shall see ",
+          "kind": "text"
+        },
+        {
+          "text": "this, and",
+          "kind": "supplied"
+        },
+        {
+          "text": " be glad: and your heart shall live that seek God.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.69.33",
+      "edition_verse_id": "KJV1769:PSA.69.33",
+      "verse": 33,
+      "spans": [
+        {
+          "text": "For the LORD heareth the poor, and despiseth not his prisoners.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.69.34",
+      "edition_verse_id": "KJV1769:PSA.69.34",
+      "verse": 34,
+      "spans": [
+        {
+          "text": "Let the heaven and earth praise him, the seas, and every thing that moveth therein.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.69.35",
+      "edition_verse_id": "KJV1769:PSA.69.35",
+      "verse": 35,
+      "spans": [
+        {
+          "text": "For God will save Zion, and will build the cities of Judah: that they may dwell there, and have it in possession.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.69.36",
+      "edition_verse_id": "KJV1769:PSA.69.36",
+      "verse": 36,
+      "spans": [
+        {
+          "text": "The seed also of his servants shall inherit it: and they that love his name shall dwell therein.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

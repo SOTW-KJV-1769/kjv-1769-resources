@@ -1,0 +1,324 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "KJV1769",
+  "book_code": "REV",
+  "chapter": 16,
+  "verses": [
+    {
+      "id": "REV.16.1",
+      "edition_verse_id": "KJV1769:REV.16.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "And I heard a great voice out of the temple saying to the seven angels, Go your ways, and pour out the vials of the wrath of God upon the earth.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "REV.16.2",
+      "edition_verse_id": "KJV1769:REV.16.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "And the first went, and poured out his vial upon the earth; and there fell a noisome and grievous sore upon the men which had the mark of the beast, and ",
+          "kind": "text"
+        },
+        {
+          "text": "upon",
+          "kind": "supplied"
+        },
+        {
+          "text": " them which worshipped his image.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "REV.16.3",
+      "edition_verse_id": "KJV1769:REV.16.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "And the second angel poured out his vial upon the sea; and it became as the blood of a dead ",
+          "kind": "text"
+        },
+        {
+          "text": "man",
+          "kind": "supplied"
+        },
+        {
+          "text": ": and every living soul died in the sea.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "REV.16.4",
+      "edition_verse_id": "KJV1769:REV.16.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "And the third angel poured out his vial upon the rivers and fountains of waters; and they became blood.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "REV.16.5",
+      "edition_verse_id": "KJV1769:REV.16.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "And I heard the angel of the waters say, Thou art righteous, O Lord, which art, and wast, and shalt be, because thou hast judged thus.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "REV.16.6",
+      "edition_verse_id": "KJV1769:REV.16.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "For they have shed the blood of saints and prophets, and thou hast given them blood to drink; for they are worthy.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "REV.16.7",
+      "edition_verse_id": "KJV1769:REV.16.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "And I heard another out of the altar say, Even so, Lord God Almighty, true and righteous ",
+          "kind": "text"
+        },
+        {
+          "text": "are",
+          "kind": "supplied"
+        },
+        {
+          "text": " thy judgments.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "REV.16.8",
+      "edition_verse_id": "KJV1769:REV.16.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "And the fourth angel poured out his vial upon the sun; and power was given unto him to scorch men with fire.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "REV.16.9",
+      "edition_verse_id": "KJV1769:REV.16.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "And men were scorched with great heat, and blasphemed the name of God, which hath power over these plagues: and they repented not to give him glory.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "REV.16.10",
+      "edition_verse_id": "KJV1769:REV.16.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "And the fifth angel poured out his vial upon the seat of the beast; and his kingdom was full of darkness; and they gnawed their tongues for pain,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "REV.16.11",
+      "edition_verse_id": "KJV1769:REV.16.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "And blasphemed the God of heaven because of their pains and their sores, and repented not of their deeds.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "REV.16.12",
+      "edition_verse_id": "KJV1769:REV.16.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "And the sixth angel poured out his vial upon the great river Euphrates; and the water thereof was dried up, that the way of the kings of the east might be prepared.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "REV.16.13",
+      "edition_verse_id": "KJV1769:REV.16.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "And I saw three unclean spirits like frogs ",
+          "kind": "text"
+        },
+        {
+          "text": "come",
+          "kind": "supplied"
+        },
+        {
+          "text": " out of the mouth of the dragon, and out of the mouth of the beast, and out of the mouth of the false prophet.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "REV.16.14",
+      "edition_verse_id": "KJV1769:REV.16.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "For they are the spirits of devils, working miracles, ",
+          "kind": "text"
+        },
+        {
+          "text": "which",
+          "kind": "supplied"
+        },
+        {
+          "text": " go forth unto the kings of the earth and of the whole world, to gather them to the battle of that great day of God Almighty.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "REV.16.15",
+      "edition_verse_id": "KJV1769:REV.16.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "Behold, I come as a thief. Blessed ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " he that watcheth, and keepeth his garments, lest he walk naked, and they see his shame.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "REV.16.16",
+      "edition_verse_id": "KJV1769:REV.16.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "And he gathered them together into a place called in the Hebrew tongue Armageddon.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "REV.16.17",
+      "edition_verse_id": "KJV1769:REV.16.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "And the seventh angel poured out his vial into the air; and there came a great voice out of the temple of heaven, from the throne, saying, It is done.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "REV.16.18",
+      "edition_verse_id": "KJV1769:REV.16.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "And there were voices, and thunders, and lightnings; and there was a great earthquake, such as was not since men were upon the earth, so mighty an earthquake, ",
+          "kind": "text"
+        },
+        {
+          "text": "and",
+          "kind": "supplied"
+        },
+        {
+          "text": " so great.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "REV.16.19",
+      "edition_verse_id": "KJV1769:REV.16.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "And the great city was divided into three parts, and the cities of the nations fell: and great Babylon came in remembrance before God, to give unto her the cup of the wine of the fierceness of his wrath.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "REV.16.20",
+      "edition_verse_id": "KJV1769:REV.16.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "And every island fled away, and the mountains were not found.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "REV.16.21",
+      "edition_verse_id": "KJV1769:REV.16.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "And there fell upon men a great hail out of heaven, ",
+          "kind": "text"
+        },
+        {
+          "text": "every stone",
+          "kind": "supplied"
+        },
+        {
+          "text": " about the weight of a talent: and men blasphemed God because of the plague of the hail; for the plague thereof was exceeding great.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

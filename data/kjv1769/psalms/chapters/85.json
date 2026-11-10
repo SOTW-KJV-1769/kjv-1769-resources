@@ -1,0 +1,204 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "KJV1769",
+  "book_code": "PSA",
+  "chapter": 85,
+  "verses": [
+    {
+      "id": "PSA.85.1",
+      "edition_verse_id": "KJV1769:PSA.85.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "LORD, thou hast been favourable unto thy land: thou hast brought back the captivity of Jacob.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.85.2",
+      "edition_verse_id": "KJV1769:PSA.85.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "Thou hast forgiven the iniquity of thy people, thou hast covered all their sin. Selah.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.85.3",
+      "edition_verse_id": "KJV1769:PSA.85.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "Thou hast taken away all thy wrath: thou hast turned ",
+          "kind": "text"
+        },
+        {
+          "text": "thyself",
+          "kind": "supplied"
+        },
+        {
+          "text": " from the fierceness of thine anger.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.85.4",
+      "edition_verse_id": "KJV1769:PSA.85.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "Turn us, O God of our salvation, and cause thine anger toward us to cease.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.85.5",
+      "edition_verse_id": "KJV1769:PSA.85.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "Wilt thou be angry with us for ever? wilt thou draw out thine anger to all generations?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.85.6",
+      "edition_verse_id": "KJV1769:PSA.85.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "Wilt thou not revive us again: that thy people may rejoice in thee?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.85.7",
+      "edition_verse_id": "KJV1769:PSA.85.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "Shew us thy mercy, O LORD, and grant us thy salvation.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.85.8",
+      "edition_verse_id": "KJV1769:PSA.85.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "I will hear what God the LORD will speak: for he will speak peace unto his people, and to his saints: but let them not turn again to folly.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.85.9",
+      "edition_verse_id": "KJV1769:PSA.85.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "Surely his salvation ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " nigh them that fear him; that glory may dwell in our land.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.85.10",
+      "edition_verse_id": "KJV1769:PSA.85.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "Mercy and truth are met together; righteousness and peace have kissed ",
+          "kind": "text"
+        },
+        {
+          "text": "each other",
+          "kind": "supplied"
+        },
+        {
+          "text": ".",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.85.11",
+      "edition_verse_id": "KJV1769:PSA.85.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "Truth shall spring out of the earth; and righteousness shall look down from heaven.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.85.12",
+      "edition_verse_id": "KJV1769:PSA.85.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "Yea, the LORD shall give ",
+          "kind": "text"
+        },
+        {
+          "text": "that which is",
+          "kind": "supplied"
+        },
+        {
+          "text": " good; and our land shall yield her increase.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.85.13",
+      "edition_verse_id": "KJV1769:PSA.85.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "Righteousness shall go before him; and shall set ",
+          "kind": "text"
+        },
+        {
+          "text": "us",
+          "kind": "supplied"
+        },
+        {
+          "text": " in the way of his steps.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

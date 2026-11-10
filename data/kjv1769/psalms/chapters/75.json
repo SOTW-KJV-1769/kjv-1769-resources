@@ -1,0 +1,208 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "KJV1769",
+  "book_code": "PSA",
+  "chapter": 75,
+  "verses": [
+    {
+      "id": "PSA.75.1",
+      "edition_verse_id": "KJV1769:PSA.75.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "Unto thee, O God, do we give thanks, ",
+          "kind": "text"
+        },
+        {
+          "text": "unto thee",
+          "kind": "supplied"
+        },
+        {
+          "text": " do we give thanks: for ",
+          "kind": "text"
+        },
+        {
+          "text": "that",
+          "kind": "supplied"
+        },
+        {
+          "text": " thy name is near thy wondrous works declare.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.75.2",
+      "edition_verse_id": "KJV1769:PSA.75.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "When I shall receive the congregation I will judge uprightly.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.75.3",
+      "edition_verse_id": "KJV1769:PSA.75.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "The earth and all the inhabitants thereof are dissolved: I bear up the pillars of it. Selah.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.75.4",
+      "edition_verse_id": "KJV1769:PSA.75.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "I said unto the fools, Deal not foolishly: and to the wicked, Lift not up the horn:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.75.5",
+      "edition_verse_id": "KJV1769:PSA.75.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "Lift not up your horn on high: speak ",
+          "kind": "text"
+        },
+        {
+          "text": "not with",
+          "kind": "supplied"
+        },
+        {
+          "text": " a stiff neck.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.75.6",
+      "edition_verse_id": "KJV1769:PSA.75.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "For promotion ",
+          "kind": "text"
+        },
+        {
+          "text": "cometh",
+          "kind": "supplied"
+        },
+        {
+          "text": " neither from the east, nor from the west, nor from the south.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.75.7",
+      "edition_verse_id": "KJV1769:PSA.75.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "But God ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " the judge: he putteth down one, and setteth up another.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.75.8",
+      "edition_verse_id": "KJV1769:PSA.75.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "For in the hand of the LORD ",
+          "kind": "text"
+        },
+        {
+          "text": "there is",
+          "kind": "supplied"
+        },
+        {
+          "text": " a cup, and the wine is red; it is full of mixture; and he poureth out of the same: but the dregs thereof, all the wicked of the earth shall wring ",
+          "kind": "text"
+        },
+        {
+          "text": "them",
+          "kind": "supplied"
+        },
+        {
+          "text": " out, ",
+          "kind": "text"
+        },
+        {
+          "text": "and",
+          "kind": "supplied"
+        },
+        {
+          "text": " drink ",
+          "kind": "text"
+        },
+        {
+          "text": "them",
+          "kind": "supplied"
+        },
+        {
+          "text": ".",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.75.9",
+      "edition_verse_id": "KJV1769:PSA.75.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "But I will declare for ever; I will sing praises to the God of Jacob.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.75.10",
+      "edition_verse_id": "KJV1769:PSA.75.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "All the horns of the wicked also will I cut off; ",
+          "kind": "text"
+        },
+        {
+          "text": "but",
+          "kind": "supplied"
+        },
+        {
+          "text": " the horns of the righteous shall be exalted.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

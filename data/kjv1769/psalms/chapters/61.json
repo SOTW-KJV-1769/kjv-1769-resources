@@ -1,0 +1,144 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "KJV1769",
+  "book_code": "PSA",
+  "chapter": 61,
+  "verses": [
+    {
+      "id": "PSA.61.1",
+      "edition_verse_id": "KJV1769:PSA.61.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "Hear my cry, O God; attend unto my prayer.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.61.2",
+      "edition_verse_id": "KJV1769:PSA.61.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "From the end of the earth will I cry unto thee, when my heart is overwhelmed: lead me to the rock ",
+          "kind": "text"
+        },
+        {
+          "text": "that",
+          "kind": "supplied"
+        },
+        {
+          "text": " is higher than I.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.61.3",
+      "edition_verse_id": "KJV1769:PSA.61.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "For thou hast been a shelter for me, ",
+          "kind": "text"
+        },
+        {
+          "text": "and",
+          "kind": "supplied"
+        },
+        {
+          "text": " a strong tower from the enemy.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.61.4",
+      "edition_verse_id": "KJV1769:PSA.61.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "I will abide in thy tabernacle for ever: I will trust in the covert of thy wings. Selah.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.61.5",
+      "edition_verse_id": "KJV1769:PSA.61.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "For thou, O God, hast heard my vows: thou hast given ",
+          "kind": "text"
+        },
+        {
+          "text": "me",
+          "kind": "supplied"
+        },
+        {
+          "text": " the heritage of those that fear thy name.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.61.6",
+      "edition_verse_id": "KJV1769:PSA.61.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "Thou wilt prolong the king’s life: ",
+          "kind": "text"
+        },
+        {
+          "text": "and",
+          "kind": "supplied"
+        },
+        {
+          "text": " his years as many generations.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.61.7",
+      "edition_verse_id": "KJV1769:PSA.61.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "He shall abide before God for ever: O prepare mercy and truth, ",
+          "kind": "text"
+        },
+        {
+          "text": "which",
+          "kind": "supplied"
+        },
+        {
+          "text": " may preserve him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.61.8",
+      "edition_verse_id": "KJV1769:PSA.61.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "So will I sing praise unto thy name for ever, that I may daily perform my vows.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

@@ -1,0 +1,412 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "KJV1769",
+  "book_code": "ROM",
+  "chapter": 7,
+  "verses": [
+    {
+      "id": "ROM.7.1",
+      "edition_verse_id": "KJV1769:ROM.7.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "Know ye not, brethren, (for I speak to them that know the law,) how that the law hath dominion over a man as long as he liveth?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ROM.7.2",
+      "edition_verse_id": "KJV1769:ROM.7.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "For the woman which hath an husband is bound by the law to ",
+          "kind": "text"
+        },
+        {
+          "text": "her",
+          "kind": "supplied"
+        },
+        {
+          "text": " husband so long as he liveth; but if the husband be dead, she is loosed from the law of ",
+          "kind": "text"
+        },
+        {
+          "text": "her",
+          "kind": "supplied"
+        },
+        {
+          "text": " husband.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ROM.7.3",
+      "edition_verse_id": "KJV1769:ROM.7.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "So then if, while ",
+          "kind": "text"
+        },
+        {
+          "text": "her",
+          "kind": "supplied"
+        },
+        {
+          "text": " husband liveth, she be married to another man, she shall be called an adulteress: but if her husband be dead, she is free from that law; so that she is no adulteress, though she be married to another man.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ROM.7.4",
+      "edition_verse_id": "KJV1769:ROM.7.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "Wherefore, my brethren, ye also are become dead to the law by the body of Christ; that ye should be married to another, ",
+          "kind": "text"
+        },
+        {
+          "text": "even",
+          "kind": "supplied"
+        },
+        {
+          "text": " to him who is raised from the dead, that we should bring forth fruit unto God.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ROM.7.5",
+      "edition_verse_id": "KJV1769:ROM.7.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "For when we were in the flesh, the motions of sins, which were by the law, did work in our members to bring forth fruit unto death.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ROM.7.6",
+      "edition_verse_id": "KJV1769:ROM.7.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "But now we are delivered from the law, that being dead wherein we were held; that we should serve in newness of spirit, and not ",
+          "kind": "text"
+        },
+        {
+          "text": "in",
+          "kind": "supplied"
+        },
+        {
+          "text": " the oldness of the letter.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ROM.7.7",
+      "edition_verse_id": "KJV1769:ROM.7.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "What shall we say then? ",
+          "kind": "text"
+        },
+        {
+          "text": "Is",
+          "kind": "supplied"
+        },
+        {
+          "text": " the law sin? God forbid. Nay, I had not known sin, but by the law: for I had not known lust, except the law had said, Thou shalt not covet.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ROM.7.8",
+      "edition_verse_id": "KJV1769:ROM.7.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "But sin, taking occasion by the commandment, wrought in me all manner of concupiscence. For without the law sin ",
+          "kind": "text"
+        },
+        {
+          "text": "was",
+          "kind": "supplied"
+        },
+        {
+          "text": " dead.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ROM.7.9",
+      "edition_verse_id": "KJV1769:ROM.7.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "For I was alive without the law once: but when the commandment came, sin revived, and I died.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ROM.7.10",
+      "edition_verse_id": "KJV1769:ROM.7.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "And the commandment, which ",
+          "kind": "text"
+        },
+        {
+          "text": "was ordained",
+          "kind": "supplied"
+        },
+        {
+          "text": " to life, I found ",
+          "kind": "text"
+        },
+        {
+          "text": "to be",
+          "kind": "supplied"
+        },
+        {
+          "text": " unto death.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ROM.7.11",
+      "edition_verse_id": "KJV1769:ROM.7.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "For sin, taking occasion by the commandment, deceived me, and by it slew ",
+          "kind": "text"
+        },
+        {
+          "text": "me",
+          "kind": "supplied"
+        },
+        {
+          "text": ".",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ROM.7.12",
+      "edition_verse_id": "KJV1769:ROM.7.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "Wherefore the law ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " holy, and the commandment holy, and just, and good.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ROM.7.13",
+      "edition_verse_id": "KJV1769:ROM.7.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "Was then that which is good made death unto me? God forbid. But sin, that it might appear sin, working death in me by that which is good; that sin by the commandment might become exceeding sinful.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ROM.7.14",
+      "edition_verse_id": "KJV1769:ROM.7.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "For we know that the law is spiritual: but I am carnal, sold under sin.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ROM.7.15",
+      "edition_verse_id": "KJV1769:ROM.7.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "For that which I do I allow not: for what I would, that do I not; but what I hate, that do I.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ROM.7.16",
+      "edition_verse_id": "KJV1769:ROM.7.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "If then I do that which I would not, I consent unto the law that ",
+          "kind": "text"
+        },
+        {
+          "text": "it is",
+          "kind": "supplied"
+        },
+        {
+          "text": " good.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ROM.7.17",
+      "edition_verse_id": "KJV1769:ROM.7.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "Now then it is no more I that do it, but sin that dwelleth in me.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ROM.7.18",
+      "edition_verse_id": "KJV1769:ROM.7.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "For I know that in me (that is, in my flesh,) dwelleth no good thing: for to will is present with me; but ",
+          "kind": "text"
+        },
+        {
+          "text": "how",
+          "kind": "supplied"
+        },
+        {
+          "text": " to perform that which is good I find not.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ROM.7.19",
+      "edition_verse_id": "KJV1769:ROM.7.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "For the good that I would I do not: but the evil which I would not, that I do.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ROM.7.20",
+      "edition_verse_id": "KJV1769:ROM.7.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "Now if I do that I would not, it is no more I that do it, but sin that dwelleth in me.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ROM.7.21",
+      "edition_verse_id": "KJV1769:ROM.7.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "I find then a law, that, when I would do good, evil is present with me.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ROM.7.22",
+      "edition_verse_id": "KJV1769:ROM.7.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "For I delight in the law of God after the inward man:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ROM.7.23",
+      "edition_verse_id": "KJV1769:ROM.7.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "But I see another law in my members, warring against the law of my mind, and bringing me into captivity to the law of sin which is in my members.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ROM.7.24",
+      "edition_verse_id": "KJV1769:ROM.7.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "O wretched man that I am! who shall deliver me from the body of this death?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ROM.7.25",
+      "edition_verse_id": "KJV1769:ROM.7.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "I thank God through Jesus Christ our Lord. So then with the mind I myself serve the law of God; but with the flesh the law of sin.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

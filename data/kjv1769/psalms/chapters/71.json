@@ -1,0 +1,460 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "KJV1769",
+  "book_code": "PSA",
+  "chapter": 71,
+  "verses": [
+    {
+      "id": "PSA.71.1",
+      "edition_verse_id": "KJV1769:PSA.71.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "In thee, O LORD, do I put my trust: let me never be put to confusion.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.71.2",
+      "edition_verse_id": "KJV1769:PSA.71.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "Deliver me in thy righteousness, and cause me to escape: incline thine ear unto me, and save me.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.71.3",
+      "edition_verse_id": "KJV1769:PSA.71.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "Be thou my strong habitation, whereunto I may continually resort: thou hast given commandment to save me; for thou ",
+          "kind": "text"
+        },
+        {
+          "text": "art",
+          "kind": "supplied"
+        },
+        {
+          "text": " my rock and my fortress.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.71.4",
+      "edition_verse_id": "KJV1769:PSA.71.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "Deliver me, O my God, out of the hand of the wicked, out of the hand of the unrighteous and cruel man.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.71.5",
+      "edition_verse_id": "KJV1769:PSA.71.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "For thou ",
+          "kind": "text"
+        },
+        {
+          "text": "art",
+          "kind": "supplied"
+        },
+        {
+          "text": " my hope, O Lord GOD: ",
+          "kind": "text"
+        },
+        {
+          "text": "thou art",
+          "kind": "supplied"
+        },
+        {
+          "text": " my trust from my youth.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.71.6",
+      "edition_verse_id": "KJV1769:PSA.71.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "By thee have I been holden up from the womb: thou art he that took me out of my mother’s bowels: my praise ",
+          "kind": "text"
+        },
+        {
+          "text": "shall be",
+          "kind": "supplied"
+        },
+        {
+          "text": " continually of thee.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.71.7",
+      "edition_verse_id": "KJV1769:PSA.71.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "I am as a wonder unto many; but thou ",
+          "kind": "text"
+        },
+        {
+          "text": "art",
+          "kind": "supplied"
+        },
+        {
+          "text": " my strong refuge.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.71.8",
+      "edition_verse_id": "KJV1769:PSA.71.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "Let my mouth be filled ",
+          "kind": "text"
+        },
+        {
+          "text": "with",
+          "kind": "supplied"
+        },
+        {
+          "text": " thy praise ",
+          "kind": "text"
+        },
+        {
+          "text": "and with",
+          "kind": "supplied"
+        },
+        {
+          "text": " thy honour all the day.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.71.9",
+      "edition_verse_id": "KJV1769:PSA.71.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "Cast me not off in the time of old age; forsake me not when my strength faileth.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.71.10",
+      "edition_verse_id": "KJV1769:PSA.71.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "For mine enemies speak against me; and they that lay wait for my soul take counsel together,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.71.11",
+      "edition_verse_id": "KJV1769:PSA.71.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "Saying, God hath forsaken him: persecute and take him; for ",
+          "kind": "text"
+        },
+        {
+          "text": "there is",
+          "kind": "supplied"
+        },
+        {
+          "text": " none to deliver ",
+          "kind": "text"
+        },
+        {
+          "text": "him",
+          "kind": "supplied"
+        },
+        {
+          "text": ".",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.71.12",
+      "edition_verse_id": "KJV1769:PSA.71.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "O God, be not far from me: O my God, make haste for my help.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.71.13",
+      "edition_verse_id": "KJV1769:PSA.71.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "Let them be confounded ",
+          "kind": "text"
+        },
+        {
+          "text": "and",
+          "kind": "supplied"
+        },
+        {
+          "text": " consumed that are adversaries to my soul; let them be covered ",
+          "kind": "text"
+        },
+        {
+          "text": "with",
+          "kind": "supplied"
+        },
+        {
+          "text": " reproach and dishonour that seek my hurt.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.71.14",
+      "edition_verse_id": "KJV1769:PSA.71.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "But I will hope continually, and will yet praise thee more and more.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.71.15",
+      "edition_verse_id": "KJV1769:PSA.71.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "My mouth shall shew forth thy righteousness ",
+          "kind": "text"
+        },
+        {
+          "text": "and",
+          "kind": "supplied"
+        },
+        {
+          "text": " thy salvation all the day; for I know not the numbers ",
+          "kind": "text"
+        },
+        {
+          "text": "thereof",
+          "kind": "supplied"
+        },
+        {
+          "text": ".",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.71.16",
+      "edition_verse_id": "KJV1769:PSA.71.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "I will go in the strength of the Lord GOD: I will make mention of thy righteousness, ",
+          "kind": "text"
+        },
+        {
+          "text": "even",
+          "kind": "supplied"
+        },
+        {
+          "text": " of thine only.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.71.17",
+      "edition_verse_id": "KJV1769:PSA.71.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "O God, thou hast taught me from my youth: and hitherto have I declared thy wondrous works.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.71.18",
+      "edition_verse_id": "KJV1769:PSA.71.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "Now also when I am old and grayheaded, O God, forsake me not; until I have shewed thy strength unto ",
+          "kind": "text"
+        },
+        {
+          "text": "this",
+          "kind": "supplied"
+        },
+        {
+          "text": " generation, ",
+          "kind": "text"
+        },
+        {
+          "text": "and",
+          "kind": "supplied"
+        },
+        {
+          "text": " thy power to every one ",
+          "kind": "text"
+        },
+        {
+          "text": "that",
+          "kind": "supplied"
+        },
+        {
+          "text": " is to come.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.71.19",
+      "edition_verse_id": "KJV1769:PSA.71.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "Thy righteousness also, O God, ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " very high, who hast done great things: O God, who ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " like unto thee!",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.71.20",
+      "edition_verse_id": "KJV1769:PSA.71.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "Thou",
+          "kind": "supplied"
+        },
+        {
+          "text": ", which hast shewed me great and sore troubles, shalt quicken me again, and shalt bring me up again from the depths of the earth.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.71.21",
+      "edition_verse_id": "KJV1769:PSA.71.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "Thou shalt increase my greatness, and comfort me on every side.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.71.22",
+      "edition_verse_id": "KJV1769:PSA.71.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "I will also praise thee with the psaltery, ",
+          "kind": "text"
+        },
+        {
+          "text": "even",
+          "kind": "supplied"
+        },
+        {
+          "text": " thy truth, O my God: unto thee will I sing with the harp, O thou Holy One of Israel.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.71.23",
+      "edition_verse_id": "KJV1769:PSA.71.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "My lips shall greatly rejoice when I sing unto thee; and my soul, which thou hast redeemed.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.71.24",
+      "edition_verse_id": "KJV1769:PSA.71.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "My tongue also shall talk of thy righteousness all the day long: for they are confounded, for they are brought unto shame, that seek my hurt.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}
