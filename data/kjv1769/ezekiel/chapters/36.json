@@ -1,0 +1,696 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "KJV1769",
+  "book_code": "EZK",
+  "chapter": 36,
+  "verses": [
+    {
+      "id": "EZK.36.1",
+      "edition_verse_id": "KJV1769:EZK.36.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "Also, thou son of man, prophesy unto the mountains of Israel, and say, Ye mountains of Israel, hear the word of the LORD:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EZK.36.2",
+      "edition_verse_id": "KJV1769:EZK.36.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "Thus saith the Lord GOD; Because the enemy hath said against you, Aha, even the ancient high places are ours in possession:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.36.3",
+      "edition_verse_id": "KJV1769:EZK.36.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "Therefore prophesy and say, Thus saith the Lord GOD; Because they have made ",
+          "kind": "text"
+        },
+        {
+          "text": "you",
+          "kind": "supplied"
+        },
+        {
+          "text": " desolate, and swallowed you up on every side, that ye might be a possession unto the residue of the heathen, and ye are taken up in the lips of talkers, and ",
+          "kind": "text"
+        },
+        {
+          "text": "are",
+          "kind": "supplied"
+        },
+        {
+          "text": " an infamy of the people:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.36.4",
+      "edition_verse_id": "KJV1769:EZK.36.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "Therefore, ye mountains of Israel, hear the word of the Lord GOD; Thus saith the Lord GOD to the mountains, and to the hills, to the rivers, and to the valleys, to the desolate wastes, and to the cities that are forsaken, which became a prey and derision to the residue of the heathen that ",
+          "kind": "text"
+        },
+        {
+          "text": "are",
+          "kind": "supplied"
+        },
+        {
+          "text": " round about;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.36.5",
+      "edition_verse_id": "KJV1769:EZK.36.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "Therefore thus saith the Lord GOD; Surely in the fire of my jealousy have I spoken against the residue of the heathen, and against all Idumea, which have appointed my land into their possession with the joy of all ",
+          "kind": "text"
+        },
+        {
+          "text": "their",
+          "kind": "supplied"
+        },
+        {
+          "text": " heart, with despiteful minds, to cast it out for a prey.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.36.6",
+      "edition_verse_id": "KJV1769:EZK.36.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "Prophesy therefore concerning the land of Israel, and say unto the mountains, and to the hills, to the rivers, and to the valleys, Thus saith the Lord GOD; Behold, I have spoken in my jealousy and in my fury, because ye have borne the shame of the heathen:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.36.7",
+      "edition_verse_id": "KJV1769:EZK.36.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "Therefore thus saith the Lord GOD; I have lifted up mine hand, Surely the heathen that ",
+          "kind": "text"
+        },
+        {
+          "text": "are",
+          "kind": "supplied"
+        },
+        {
+          "text": " about you, they shall bear their shame.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.36.8",
+      "edition_verse_id": "KJV1769:EZK.36.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "¶ But ye, O mountains of Israel, ye shall shoot forth your branches, and yield your fruit to my people of Israel; for they are at hand to come.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EZK.36.9",
+      "edition_verse_id": "KJV1769:EZK.36.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "For, behold, I ",
+          "kind": "text"
+        },
+        {
+          "text": "am",
+          "kind": "supplied"
+        },
+        {
+          "text": " for you, and I will turn unto you, and ye shall be tilled and sown:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.36.10",
+      "edition_verse_id": "KJV1769:EZK.36.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "And I will multiply men upon you, all the house of Israel, ",
+          "kind": "text"
+        },
+        {
+          "text": "even",
+          "kind": "supplied"
+        },
+        {
+          "text": " all of it: and the cities shall be inhabited, and the wastes shall be builded:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.36.11",
+      "edition_verse_id": "KJV1769:EZK.36.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "And I will multiply upon you man and beast; and they shall increase and bring fruit: and I will settle you after your old estates, and will do better ",
+          "kind": "text"
+        },
+        {
+          "text": "unto you",
+          "kind": "supplied"
+        },
+        {
+          "text": " than at your beginnings: and ye shall know that I ",
+          "kind": "text"
+        },
+        {
+          "text": "am",
+          "kind": "supplied"
+        },
+        {
+          "text": " the LORD.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.36.12",
+      "edition_verse_id": "KJV1769:EZK.36.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "Yea, I will cause men to walk upon you, ",
+          "kind": "text"
+        },
+        {
+          "text": "even",
+          "kind": "supplied"
+        },
+        {
+          "text": " my people Israel; and they shall possess thee, and thou shalt be their inheritance, and thou shalt no more henceforth bereave them ",
+          "kind": "text"
+        },
+        {
+          "text": "of men",
+          "kind": "supplied"
+        },
+        {
+          "text": ".",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.36.13",
+      "edition_verse_id": "KJV1769:EZK.36.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "Thus saith the Lord GOD; Because they say unto you, Thou ",
+          "kind": "text"
+        },
+        {
+          "text": "land",
+          "kind": "supplied"
+        },
+        {
+          "text": " devourest up men, and hast bereaved thy nations;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.36.14",
+      "edition_verse_id": "KJV1769:EZK.36.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "Therefore thou shalt devour men no more, neither bereave thy nations any more, saith the Lord GOD.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.36.15",
+      "edition_verse_id": "KJV1769:EZK.36.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "Neither will I cause ",
+          "kind": "text"
+        },
+        {
+          "text": "men",
+          "kind": "supplied"
+        },
+        {
+          "text": " to hear in thee the shame of the heathen any more, neither shalt thou bear the reproach of the people any more, neither shalt thou cause thy nations to fall any more, saith the Lord GOD.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.36.16",
+      "edition_verse_id": "KJV1769:EZK.36.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "¶ Moreover the word of the LORD came unto me, saying,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EZK.36.17",
+      "edition_verse_id": "KJV1769:EZK.36.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "Son of man, when the house of Israel dwelt in their own land, they defiled it by their own way and by their doings: their way was before me as the uncleanness of a removed woman.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.36.18",
+      "edition_verse_id": "KJV1769:EZK.36.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "Wherefore I poured my fury upon them for the blood that they had shed upon the land, and for their idols ",
+          "kind": "text"
+        },
+        {
+          "text": "wherewith",
+          "kind": "supplied"
+        },
+        {
+          "text": " they had polluted it:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.36.19",
+      "edition_verse_id": "KJV1769:EZK.36.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "And I scattered them among the heathen, and they were dispersed through the countries: according to their way and according to their doings I judged them.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.36.20",
+      "edition_verse_id": "KJV1769:EZK.36.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "And when they entered unto the heathen, whither they went, they profaned my holy name, when they said to them, These ",
+          "kind": "text"
+        },
+        {
+          "text": "are",
+          "kind": "supplied"
+        },
+        {
+          "text": " the people of the LORD, and are gone forth out of his land.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.36.21",
+      "edition_verse_id": "KJV1769:EZK.36.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "¶ But I had pity for mine holy name, which the house of Israel had profaned among the heathen, whither they went.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EZK.36.22",
+      "edition_verse_id": "KJV1769:EZK.36.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "Therefore say unto the house of Israel, Thus saith the Lord GOD; I do not ",
+          "kind": "text"
+        },
+        {
+          "text": "this",
+          "kind": "supplied"
+        },
+        {
+          "text": " for your sakes, O house of Israel, but for mine holy name’s sake, which ye have profaned among the heathen, whither ye went.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.36.23",
+      "edition_verse_id": "KJV1769:EZK.36.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "And I will sanctify my great name, which was profaned among the heathen, which ye have profaned in the midst of them; and the heathen shall know that I ",
+          "kind": "text"
+        },
+        {
+          "text": "am",
+          "kind": "supplied"
+        },
+        {
+          "text": " the LORD, saith the Lord GOD, when I shall be sanctified in you before their eyes.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.36.24",
+      "edition_verse_id": "KJV1769:EZK.36.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "For I will take you from among the heathen, and gather you out of all countries, and will bring you into your own land.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.36.25",
+      "edition_verse_id": "KJV1769:EZK.36.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "¶ Then will I sprinkle clean water upon you, and ye shall be clean: from all your filthiness, and from all your idols, will I cleanse you.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EZK.36.26",
+      "edition_verse_id": "KJV1769:EZK.36.26",
+      "verse": 26,
+      "spans": [
+        {
+          "text": "A new heart also will I give you, and a new spirit will I put within you: and I will take away the stony heart out of your flesh, and I will give you an heart of flesh.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.36.27",
+      "edition_verse_id": "KJV1769:EZK.36.27",
+      "verse": 27,
+      "spans": [
+        {
+          "text": "And I will put my spirit within you, and cause you to walk in my statutes, and ye shall keep my judgments, and do ",
+          "kind": "text"
+        },
+        {
+          "text": "them",
+          "kind": "supplied"
+        },
+        {
+          "text": ".",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.36.28",
+      "edition_verse_id": "KJV1769:EZK.36.28",
+      "verse": 28,
+      "spans": [
+        {
+          "text": "And ye shall dwell in the land that I gave to your fathers; and ye shall be my people, and I will be your God.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.36.29",
+      "edition_verse_id": "KJV1769:EZK.36.29",
+      "verse": 29,
+      "spans": [
+        {
+          "text": "I will also save you from all your uncleannesses: and I will call for the corn, and will increase it, and lay no famine upon you.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.36.30",
+      "edition_verse_id": "KJV1769:EZK.36.30",
+      "verse": 30,
+      "spans": [
+        {
+          "text": "And I will multiply the fruit of the tree, and the increase of the field, that ye shall receive no more reproach of famine among the heathen.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.36.31",
+      "edition_verse_id": "KJV1769:EZK.36.31",
+      "verse": 31,
+      "spans": [
+        {
+          "text": "Then shall ye remember your own evil ways, and your doings that ",
+          "kind": "text"
+        },
+        {
+          "text": "were",
+          "kind": "supplied"
+        },
+        {
+          "text": " not good, and shall lothe yourselves in your own sight for your iniquities and for your abominations.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.36.32",
+      "edition_verse_id": "KJV1769:EZK.36.32",
+      "verse": 32,
+      "spans": [
+        {
+          "text": "Not for your sakes do I ",
+          "kind": "text"
+        },
+        {
+          "text": "this",
+          "kind": "supplied"
+        },
+        {
+          "text": ", saith the Lord GOD, be it known unto you: be ashamed and confounded for your own ways, O house of Israel.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.36.33",
+      "edition_verse_id": "KJV1769:EZK.36.33",
+      "verse": 33,
+      "spans": [
+        {
+          "text": "Thus saith the Lord GOD; In the day that I shall have cleansed you from all your iniquities I will also cause ",
+          "kind": "text"
+        },
+        {
+          "text": "you",
+          "kind": "supplied"
+        },
+        {
+          "text": " to dwell in the cities, and the wastes shall be builded.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.36.34",
+      "edition_verse_id": "KJV1769:EZK.36.34",
+      "verse": 34,
+      "spans": [
+        {
+          "text": "And the desolate land shall be tilled, whereas it lay desolate in the sight of all that passed by.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.36.35",
+      "edition_verse_id": "KJV1769:EZK.36.35",
+      "verse": 35,
+      "spans": [
+        {
+          "text": "And they shall say, This land that was desolate is become like the garden of Eden; and the waste and desolate and ruined cities ",
+          "kind": "text"
+        },
+        {
+          "text": "are become",
+          "kind": "supplied"
+        },
+        {
+          "text": " fenced, ",
+          "kind": "text"
+        },
+        {
+          "text": "and",
+          "kind": "supplied"
+        },
+        {
+          "text": " are inhabited.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.36.36",
+      "edition_verse_id": "KJV1769:EZK.36.36",
+      "verse": 36,
+      "spans": [
+        {
+          "text": "Then the heathen that are left round about you shall know that I the LORD build the ruined ",
+          "kind": "text"
+        },
+        {
+          "text": "places, and",
+          "kind": "supplied"
+        },
+        {
+          "text": " plant that that was desolate: I the LORD have spoken ",
+          "kind": "text"
+        },
+        {
+          "text": "it",
+          "kind": "supplied"
+        },
+        {
+          "text": ", and I will do ",
+          "kind": "text"
+        },
+        {
+          "text": "it",
+          "kind": "supplied"
+        },
+        {
+          "text": ".",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.36.37",
+      "edition_verse_id": "KJV1769:EZK.36.37",
+      "verse": 37,
+      "spans": [
+        {
+          "text": "Thus saith the Lord GOD; I will yet ",
+          "kind": "text"
+        },
+        {
+          "text": "for",
+          "kind": "supplied"
+        },
+        {
+          "text": " this be enquired of by the house of Israel, to do ",
+          "kind": "text"
+        },
+        {
+          "text": "it",
+          "kind": "supplied"
+        },
+        {
+          "text": " for them; I will increase them with men like a flock.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.36.38",
+      "edition_verse_id": "KJV1769:EZK.36.38",
+      "verse": 38,
+      "spans": [
+        {
+          "text": "As the holy flock, as the flock of Jerusalem in her solemn feasts; so shall the waste cities be filled with flocks of men: and they shall know that I ",
+          "kind": "text"
+        },
+        {
+          "text": "am",
+          "kind": "supplied"
+        },
+        {
+          "text": " the LORD.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

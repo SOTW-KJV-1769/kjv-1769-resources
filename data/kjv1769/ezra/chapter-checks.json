@@ -1,0 +1,58 @@
+{
+  "edition_id": "KJV1769",
+  "book_code": "EZR",
+  "chapter_count": 10,
+  "verse_count": 280,
+  "chapters": [
+    {
+      "chapter": 1,
+      "verse_count": 11,
+      "sha256": "59523f48a9aa86d54ad82d530cbbfc13d0e09a8291b2af307f1a1e3f47f6ccf1"
+    },
+    {
+      "chapter": 2,
+      "verse_count": 70,
+      "sha256": "c47d889e06b8d4a20f37e8905695d26d4a6eb4e95405a27366766aaa0958b994"
+    },
+    {
+      "chapter": 3,
+      "verse_count": 13,
+      "sha256": "2029d7d61457fd8957fcb903681aea99d015c9ccca99d3ab43b8aea5ea2f8963"
+    },
+    {
+      "chapter": 4,
+      "verse_count": 24,
+      "sha256": "b255a12e9aeb164170627eaf05e846979298aa85613c21b9ebd05ea3d09e5415"
+    },
+    {
+      "chapter": 5,
+      "verse_count": 17,
+      "sha256": "aaab0482eadb470f280983a56deb8474ee49ce9ecae43bf9792c02e16b064367"
+    },
+    {
+      "chapter": 6,
+      "verse_count": 22,
+      "sha256": "9f8c2bbf3988ab0a8d06e5a86455fccfc2d79cd059cb8e29f9f020a0530a0abb"
+    },
+    {
+      "chapter": 7,
+      "verse_count": 28,
+      "sha256": "6c8df95fc963bd4755c1b442237fab38749321e33973fcf214b3719b0966f214"
+    },
+    {
+      "chapter": 8,
+      "verse_count": 36,
+      "sha256": "a0568183b5dd52b7d0b6476e070793142428f807f89a3f5063d316ae7e950757"
+    },
+    {
+      "chapter": 9,
+      "verse_count": 15,
+      "sha256": "19cf4dfc443337e4ca167beea87dd9c5c35423fe3831c98374f4037e4ca1c32a"
+    },
+    {
+      "chapter": 10,
+      "verse_count": 44,
+      "sha256": "3c32fc942a3dd8cfce8874526ed5898ac39a1eda5731463ae11b8eda191ee808"
+    }
+  ]
+}

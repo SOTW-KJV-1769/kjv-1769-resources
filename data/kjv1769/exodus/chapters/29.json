@@ -1,0 +1,928 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "KJV1769",
+  "book_code": "EXO",
+  "chapter": 29,
+  "verses": [
+    {
+      "id": "EXO.29.1",
+      "edition_verse_id": "KJV1769:EXO.29.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "And this ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " the thing that thou shalt do unto them to hallow them, to minister unto me in the priest’s office: Take one young bullock, and two rams without blemish,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EXO.29.2",
+      "edition_verse_id": "KJV1769:EXO.29.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "And unleavened bread, and cakes unleavened tempered with oil, and wafers unleavened anointed with oil: ",
+          "kind": "text"
+        },
+        {
+          "text": "of",
+          "kind": "supplied"
+        },
+        {
+          "text": " wheaten flour shalt thou make them.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.29.3",
+      "edition_verse_id": "KJV1769:EXO.29.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "And thou shalt put them into one basket, and bring them in the basket, with the bullock and the two rams.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.29.4",
+      "edition_verse_id": "KJV1769:EXO.29.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "And Aaron and his sons thou shalt bring unto the door of the tabernacle of the congregation, and shalt wash them with water.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.29.5",
+      "edition_verse_id": "KJV1769:EXO.29.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "And thou shalt take the garments, and put upon Aaron the coat, and the robe of the ephod, and the ephod, and the breastplate, and gird him with the curious girdle of the ephod:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.29.6",
+      "edition_verse_id": "KJV1769:EXO.29.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "And thou shalt put the mitre upon his head, and put the holy crown upon the mitre.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.29.7",
+      "edition_verse_id": "KJV1769:EXO.29.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "Then shalt thou take the anointing oil, and pour ",
+          "kind": "text"
+        },
+        {
+          "text": "it",
+          "kind": "supplied"
+        },
+        {
+          "text": " upon his head, and anoint him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.29.8",
+      "edition_verse_id": "KJV1769:EXO.29.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "And thou shalt bring his sons, and put coats upon them.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.29.9",
+      "edition_verse_id": "KJV1769:EXO.29.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "And thou shalt gird them with girdles, Aaron and his sons, and put the bonnets on them: and the priest’s office shall be theirs for a perpetual statute: and thou shalt consecrate Aaron and his sons.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.29.10",
+      "edition_verse_id": "KJV1769:EXO.29.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "And thou shalt cause a bullock to be brought before the tabernacle of the congregation: and Aaron and his sons shall put their hands upon the head of the bullock.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.29.11",
+      "edition_verse_id": "KJV1769:EXO.29.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "And thou shalt kill the bullock before the LORD, ",
+          "kind": "text"
+        },
+        {
+          "text": "by",
+          "kind": "supplied"
+        },
+        {
+          "text": " the door of the tabernacle of the congregation.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.29.12",
+      "edition_verse_id": "KJV1769:EXO.29.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "And thou shalt take of the blood of the bullock, and put ",
+          "kind": "text"
+        },
+        {
+          "text": "it",
+          "kind": "supplied"
+        },
+        {
+          "text": " upon the horns of the altar with thy finger, and pour all the blood beside the bottom of the altar.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.29.13",
+      "edition_verse_id": "KJV1769:EXO.29.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "And thou shalt take all the fat that covereth the inwards, and the caul ",
+          "kind": "text"
+        },
+        {
+          "text": "that is",
+          "kind": "supplied"
+        },
+        {
+          "text": " above the liver, and the two kidneys, and the fat that ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " upon them, and burn ",
+          "kind": "text"
+        },
+        {
+          "text": "them",
+          "kind": "supplied"
+        },
+        {
+          "text": " upon the altar.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.29.14",
+      "edition_verse_id": "KJV1769:EXO.29.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "But the flesh of the bullock, and his skin, and his dung, shalt thou burn with fire without the camp: it ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " a sin offering.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.29.15",
+      "edition_verse_id": "KJV1769:EXO.29.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "¶ Thou shalt also take one ram; and Aaron and his sons shall put their hands upon the head of the ram.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EXO.29.16",
+      "edition_verse_id": "KJV1769:EXO.29.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "And thou shalt slay the ram, and thou shalt take his blood, and sprinkle ",
+          "kind": "text"
+        },
+        {
+          "text": "it",
+          "kind": "supplied"
+        },
+        {
+          "text": " round about upon the altar.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.29.17",
+      "edition_verse_id": "KJV1769:EXO.29.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "And thou shalt cut the ram in pieces, and wash the inwards of him, and his legs, and put ",
+          "kind": "text"
+        },
+        {
+          "text": "them",
+          "kind": "supplied"
+        },
+        {
+          "text": " unto his pieces, and unto his head.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.29.18",
+      "edition_verse_id": "KJV1769:EXO.29.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "And thou shalt burn the whole ram upon the altar: it ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " a burnt offering unto the LORD: it ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " a sweet savour, an offering made by fire unto the LORD.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.29.19",
+      "edition_verse_id": "KJV1769:EXO.29.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "¶ And thou shalt take the other ram; and Aaron and his sons shall put their hands upon the head of the ram.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EXO.29.20",
+      "edition_verse_id": "KJV1769:EXO.29.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "Then shalt thou kill the ram, and take of his blood, and put ",
+          "kind": "text"
+        },
+        {
+          "text": "it",
+          "kind": "supplied"
+        },
+        {
+          "text": " upon the tip of the right ear of Aaron, and upon the tip of the right ear of his sons, and upon the thumb of their right hand, and upon the great toe of their right foot, and sprinkle the blood upon the altar round about.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.29.21",
+      "edition_verse_id": "KJV1769:EXO.29.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "And thou shalt take of the blood that ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " upon the altar, and of the anointing oil, and sprinkle ",
+          "kind": "text"
+        },
+        {
+          "text": "it",
+          "kind": "supplied"
+        },
+        {
+          "text": " upon Aaron, and upon his garments, and upon his sons, and upon the garments of his sons with him: and he shall be hallowed, and his garments, and his sons, and his sons’ garments with him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.29.22",
+      "edition_verse_id": "KJV1769:EXO.29.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "Also thou shalt take of the ram the fat and the rump, and the fat that covereth the inwards, and the caul ",
+          "kind": "text"
+        },
+        {
+          "text": "above",
+          "kind": "supplied"
+        },
+        {
+          "text": " the liver, and the two kidneys, and the fat that ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " upon them, and the right shoulder; for it ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " a ram of consecration:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.29.23",
+      "edition_verse_id": "KJV1769:EXO.29.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "And one loaf of bread, and one cake of oiled bread, and one wafer out of the basket of the unleavened bread that ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " before the LORD:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.29.24",
+      "edition_verse_id": "KJV1769:EXO.29.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "And thou shalt put all in the hands of Aaron, and in the hands of his sons; and shalt wave them ",
+          "kind": "text"
+        },
+        {
+          "text": "for",
+          "kind": "supplied"
+        },
+        {
+          "text": " a wave offering before the LORD.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.29.25",
+      "edition_verse_id": "KJV1769:EXO.29.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "And thou shalt receive them of their hands, and burn ",
+          "kind": "text"
+        },
+        {
+          "text": "them",
+          "kind": "supplied"
+        },
+        {
+          "text": " upon the altar for a burnt offering, for a sweet savour before the LORD: it ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " an offering made by fire unto the LORD.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.29.26",
+      "edition_verse_id": "KJV1769:EXO.29.26",
+      "verse": 26,
+      "spans": [
+        {
+          "text": "And thou shalt take the breast of the ram of Aaron’s consecration, and wave it ",
+          "kind": "text"
+        },
+        {
+          "text": "for",
+          "kind": "supplied"
+        },
+        {
+          "text": " a wave offering before the LORD: and it shall be thy part.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.29.27",
+      "edition_verse_id": "KJV1769:EXO.29.27",
+      "verse": 27,
+      "spans": [
+        {
+          "text": "And thou shalt sanctify the breast of the wave offering, and the shoulder of the heave offering, which is waved, and which is heaved up, of the ram of the consecration, ",
+          "kind": "text"
+        },
+        {
+          "text": "even",
+          "kind": "supplied"
+        },
+        {
+          "text": " of ",
+          "kind": "text"
+        },
+        {
+          "text": "that",
+          "kind": "supplied"
+        },
+        {
+          "text": " which ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " for Aaron, and of ",
+          "kind": "text"
+        },
+        {
+          "text": "that",
+          "kind": "supplied"
+        },
+        {
+          "text": " which is for his sons:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.29.28",
+      "edition_verse_id": "KJV1769:EXO.29.28",
+      "verse": 28,
+      "spans": [
+        {
+          "text": "And it shall be Aaron’s and his sons’ by a statute for ever from the children of Israel: for it ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " an heave offering: and it shall be an heave offering from the children of Israel of the sacrifice of their peace offerings, ",
+          "kind": "text"
+        },
+        {
+          "text": "even",
+          "kind": "supplied"
+        },
+        {
+          "text": " their heave offering unto the LORD.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.29.29",
+      "edition_verse_id": "KJV1769:EXO.29.29",
+      "verse": 29,
+      "spans": [
+        {
+          "text": "¶ And the holy garments of Aaron shall be his sons’ after him, to be anointed therein, and to be consecrated in them.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EXO.29.30",
+      "edition_verse_id": "KJV1769:EXO.29.30",
+      "verse": 30,
+      "spans": [
+        {
+          "text": "And",
+          "kind": "supplied"
+        },
+        {
+          "text": " that son that is priest in his stead shall put them on seven days, when he cometh into the tabernacle of the congregation to minister in the holy ",
+          "kind": "text"
+        },
+        {
+          "text": "place",
+          "kind": "supplied"
+        },
+        {
+          "text": ".",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.29.31",
+      "edition_verse_id": "KJV1769:EXO.29.31",
+      "verse": 31,
+      "spans": [
+        {
+          "text": "¶ And thou shalt take the ram of the consecration, and seethe his flesh in the holy place.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EXO.29.32",
+      "edition_verse_id": "KJV1769:EXO.29.32",
+      "verse": 32,
+      "spans": [
+        {
+          "text": "And Aaron and his sons shall eat the flesh of the ram, and the bread that ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " in the basket, ",
+          "kind": "text"
+        },
+        {
+          "text": "by",
+          "kind": "supplied"
+        },
+        {
+          "text": " the door of the tabernacle of the congregation.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.29.33",
+      "edition_verse_id": "KJV1769:EXO.29.33",
+      "verse": 33,
+      "spans": [
+        {
+          "text": "And they shall eat those things wherewith the atonement was made, to consecrate ",
+          "kind": "text"
+        },
+        {
+          "text": "and",
+          "kind": "supplied"
+        },
+        {
+          "text": " to sanctify them: but a stranger shall not eat ",
+          "kind": "text"
+        },
+        {
+          "text": "thereof",
+          "kind": "supplied"
+        },
+        {
+          "text": ", because they ",
+          "kind": "text"
+        },
+        {
+          "text": "are",
+          "kind": "supplied"
+        },
+        {
+          "text": " holy.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.29.34",
+      "edition_verse_id": "KJV1769:EXO.29.34",
+      "verse": 34,
+      "spans": [
+        {
+          "text": "And if ought of the flesh of the consecrations, or of the bread, remain unto the morning, then thou shalt burn the remainder with fire: it shall not be eaten, because it ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " holy.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.29.35",
+      "edition_verse_id": "KJV1769:EXO.29.35",
+      "verse": 35,
+      "spans": [
+        {
+          "text": "And thus shalt thou do unto Aaron, and to his sons, according to all ",
+          "kind": "text"
+        },
+        {
+          "text": "things",
+          "kind": "supplied"
+        },
+        {
+          "text": " which I have commanded thee: seven days shalt thou consecrate them.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.29.36",
+      "edition_verse_id": "KJV1769:EXO.29.36",
+      "verse": 36,
+      "spans": [
+        {
+          "text": "And thou shalt offer every day a bullock ",
+          "kind": "text"
+        },
+        {
+          "text": "for",
+          "kind": "supplied"
+        },
+        {
+          "text": " a sin offering for atonement: and thou shalt cleanse the altar, when thou hast made an atonement for it, and thou shalt anoint it, to sanctify it.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.29.37",
+      "edition_verse_id": "KJV1769:EXO.29.37",
+      "verse": 37,
+      "spans": [
+        {
+          "text": "Seven days thou shalt make an atonement for the altar, and sanctify it; and it shall be an altar most holy: whatsoever toucheth the altar shall be holy.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.29.38",
+      "edition_verse_id": "KJV1769:EXO.29.38",
+      "verse": 38,
+      "spans": [
+        {
+          "text": "¶ Now this ",
+          "kind": "text"
+        },
+        {
+          "text": "is that",
+          "kind": "supplied"
+        },
+        {
+          "text": " which thou shalt offer upon the altar; two lambs of the first year day by day continually.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EXO.29.39",
+      "edition_verse_id": "KJV1769:EXO.29.39",
+      "verse": 39,
+      "spans": [
+        {
+          "text": "The one lamb thou shalt offer in the morning; and the other lamb thou shalt offer at even:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.29.40",
+      "edition_verse_id": "KJV1769:EXO.29.40",
+      "verse": 40,
+      "spans": [
+        {
+          "text": "And with the one lamb a tenth deal of flour mingled with the fourth part of an hin of beaten oil; and the fourth part of an hin of wine ",
+          "kind": "text"
+        },
+        {
+          "text": "for",
+          "kind": "supplied"
+        },
+        {
+          "text": " a drink offering.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.29.41",
+      "edition_verse_id": "KJV1769:EXO.29.41",
+      "verse": 41,
+      "spans": [
+        {
+          "text": "And the other lamb thou shalt offer at even, and shalt do thereto according to the meat offering of the morning, and according to the drink offering thereof, for a sweet savour, an offering made by fire unto the LORD.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.29.42",
+      "edition_verse_id": "KJV1769:EXO.29.42",
+      "verse": 42,
+      "spans": [
+        {
+          "text": "This shall be",
+          "kind": "supplied"
+        },
+        {
+          "text": " a continual burnt offering throughout your generations ",
+          "kind": "text"
+        },
+        {
+          "text": "at",
+          "kind": "supplied"
+        },
+        {
+          "text": " the door of the tabernacle of the congregation before the LORD: where I will meet you, to speak there unto thee.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.29.43",
+      "edition_verse_id": "KJV1769:EXO.29.43",
+      "verse": 43,
+      "spans": [
+        {
+          "text": "And there I will meet with the children of Israel, and ",
+          "kind": "text"
+        },
+        {
+          "text": "the tabernacle",
+          "kind": "supplied"
+        },
+        {
+          "text": " shall be sanctified by my glory.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.29.44",
+      "edition_verse_id": "KJV1769:EXO.29.44",
+      "verse": 44,
+      "spans": [
+        {
+          "text": "And I will sanctify the tabernacle of the congregation, and the altar: I will sanctify also both Aaron and his sons, to minister to me in the priest’s office.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.29.45",
+      "edition_verse_id": "KJV1769:EXO.29.45",
+      "verse": 45,
+      "spans": [
+        {
+          "text": "¶ And I will dwell among the children of Israel, and will be their God.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EXO.29.46",
+      "edition_verse_id": "KJV1769:EXO.29.46",
+      "verse": 46,
+      "spans": [
+        {
+          "text": "And they shall know that I ",
+          "kind": "text"
+        },
+        {
+          "text": "am",
+          "kind": "supplied"
+        },
+        {
+          "text": " the LORD their God, that brought them forth out of the land of Egypt, that I may dwell among them: I ",
+          "kind": "text"
+        },
+        {
+          "text": "am",
+          "kind": "supplied"
+        },
+        {
+          "text": " the LORD their God.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

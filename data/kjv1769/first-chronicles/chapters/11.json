@@ -1,0 +1,812 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "KJV1769",
+  "book_code": "1CH",
+  "chapter": 11,
+  "verses": [
+    {
+      "id": "1CH.11.1",
+      "edition_verse_id": "KJV1769:1CH.11.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "Then all Israel gathered themselves to David unto Hebron, saying, Behold, we ",
+          "kind": "text"
+        },
+        {
+          "text": "are",
+          "kind": "supplied"
+        },
+        {
+          "text": " thy bone and thy flesh.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1CH.11.2",
+      "edition_verse_id": "KJV1769:1CH.11.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "And moreover in time past, even when Saul was king, thou ",
+          "kind": "text"
+        },
+        {
+          "text": "wast",
+          "kind": "supplied"
+        },
+        {
+          "text": " he that leddest out and broughtest in Israel: and the LORD thy God said unto thee, Thou shalt feed my people Israel, and thou shalt be ruler over my people Israel.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.11.3",
+      "edition_verse_id": "KJV1769:1CH.11.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "Therefore came all the elders of Israel to the king to Hebron; and David made a covenant with them in Hebron before the LORD; and they anointed David king over Israel, according to the word of the LORD by Samuel.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.11.4",
+      "edition_verse_id": "KJV1769:1CH.11.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "¶ And David and all Israel went to Jerusalem, which ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " Jebus; where the Jebusites ",
+          "kind": "text"
+        },
+        {
+          "text": "were",
+          "kind": "supplied"
+        },
+        {
+          "text": ", the inhabitants of the land.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1CH.11.5",
+      "edition_verse_id": "KJV1769:1CH.11.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "And the inhabitants of Jebus said to David, Thou shalt not come hither. Nevertheless David took the castle of Zion, which ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " the city of David.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.11.6",
+      "edition_verse_id": "KJV1769:1CH.11.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "And David said, Whosoever smiteth the Jebusites first shall be chief and captain. So Joab the son of Zeruiah went first up, and was chief.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.11.7",
+      "edition_verse_id": "KJV1769:1CH.11.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "And David dwelt in the castle; therefore they called it the city of David.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.11.8",
+      "edition_verse_id": "KJV1769:1CH.11.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "And he built the city round about, even from Millo round about: and Joab repaired the rest of the city.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.11.9",
+      "edition_verse_id": "KJV1769:1CH.11.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "So David waxed greater and greater: for the LORD of hosts ",
+          "kind": "text"
+        },
+        {
+          "text": "was",
+          "kind": "supplied"
+        },
+        {
+          "text": " with him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.11.10",
+      "edition_verse_id": "KJV1769:1CH.11.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "¶ These also ",
+          "kind": "text"
+        },
+        {
+          "text": "are",
+          "kind": "supplied"
+        },
+        {
+          "text": " the chief of the mighty men whom David had, who strengthened themselves with him in his kingdom, ",
+          "kind": "text"
+        },
+        {
+          "text": "and",
+          "kind": "supplied"
+        },
+        {
+          "text": " with all Israel, to make him king, according to the word of the LORD concerning Israel.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1CH.11.11",
+      "edition_verse_id": "KJV1769:1CH.11.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "And this ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " the number of the mighty men whom David had; Jashobeam, an Hachmonite, the chief of the captains: he lifted up his spear against three hundred slain ",
+          "kind": "text"
+        },
+        {
+          "text": "by him",
+          "kind": "supplied"
+        },
+        {
+          "text": " at one time.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.11.12",
+      "edition_verse_id": "KJV1769:1CH.11.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "And after him ",
+          "kind": "text"
+        },
+        {
+          "text": "was",
+          "kind": "supplied"
+        },
+        {
+          "text": " Eleazar the son of Dodo, the Ahohite, who ",
+          "kind": "text"
+        },
+        {
+          "text": "was one",
+          "kind": "supplied"
+        },
+        {
+          "text": " of the three mighties.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.11.13",
+      "edition_verse_id": "KJV1769:1CH.11.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "He was with David at Pas-dammim, and there the Philistines were gathered together to battle, where was a parcel of ground full of barley; and the people fled from before the Philistines.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.11.14",
+      "edition_verse_id": "KJV1769:1CH.11.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "And they set themselves in the midst of ",
+          "kind": "text"
+        },
+        {
+          "text": "that",
+          "kind": "supplied"
+        },
+        {
+          "text": " parcel, and delivered it, and slew the Philistines; and the LORD saved ",
+          "kind": "text"
+        },
+        {
+          "text": "them",
+          "kind": "supplied"
+        },
+        {
+          "text": " by a great deliverance.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.11.15",
+      "edition_verse_id": "KJV1769:1CH.11.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "¶ Now three of the thirty captains went down to the rock to David, into the cave of Adullam; and the host of the Philistines encamped in the valley of Rephaim.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1CH.11.16",
+      "edition_verse_id": "KJV1769:1CH.11.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "And David ",
+          "kind": "text"
+        },
+        {
+          "text": "was",
+          "kind": "supplied"
+        },
+        {
+          "text": " then in the hold, and the Philistines’ garrison ",
+          "kind": "text"
+        },
+        {
+          "text": "was",
+          "kind": "supplied"
+        },
+        {
+          "text": " then at Beth-lehem.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.11.17",
+      "edition_verse_id": "KJV1769:1CH.11.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "And David longed, and said, Oh that one would give me drink of the water of the well of Beth-lehem, that ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " at the gate!",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.11.18",
+      "edition_verse_id": "KJV1769:1CH.11.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "And the three brake through the host of the Philistines, and drew water out of the well of Beth-lehem, that ",
+          "kind": "text"
+        },
+        {
+          "text": "was",
+          "kind": "supplied"
+        },
+        {
+          "text": " by the gate, and took ",
+          "kind": "text"
+        },
+        {
+          "text": "it",
+          "kind": "supplied"
+        },
+        {
+          "text": ", and brought ",
+          "kind": "text"
+        },
+        {
+          "text": "it",
+          "kind": "supplied"
+        },
+        {
+          "text": " to David: but David would not drink ",
+          "kind": "text"
+        },
+        {
+          "text": "of",
+          "kind": "supplied"
+        },
+        {
+          "text": " it, but poured it out to the LORD,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.11.19",
+      "edition_verse_id": "KJV1769:1CH.11.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "And said, My God forbid it me, that I should do this thing: shall I drink the blood of these men that have put their lives in jeopardy? for with ",
+          "kind": "text"
+        },
+        {
+          "text": "the jeopardy of",
+          "kind": "supplied"
+        },
+        {
+          "text": " their lives they brought it. Therefore he would not drink it. These things did these three mightiest.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.11.20",
+      "edition_verse_id": "KJV1769:1CH.11.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "¶ And Abishai the brother of Joab, he was chief of the three: for lifting up his spear against three hundred, he slew ",
+          "kind": "text"
+        },
+        {
+          "text": "them",
+          "kind": "supplied"
+        },
+        {
+          "text": ", and had a name among the three.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1CH.11.21",
+      "edition_verse_id": "KJV1769:1CH.11.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "Of the three, he was more honourable than the two; for he was their captain: howbeit he attained not to the ",
+          "kind": "text"
+        },
+        {
+          "text": "first",
+          "kind": "supplied"
+        },
+        {
+          "text": " three.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.11.22",
+      "edition_verse_id": "KJV1769:1CH.11.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "Benaiah the son of Jehoiada, the son of a valiant man of Kabzeel, who had done many acts; he slew two lionlike men of Moab: also he went down and slew a lion in a pit in a snowy day.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.11.23",
+      "edition_verse_id": "KJV1769:1CH.11.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "And he slew an Egyptian, a man of ",
+          "kind": "text"
+        },
+        {
+          "text": "great",
+          "kind": "supplied"
+        },
+        {
+          "text": " stature, five cubits high; and in the Egyptian’s hand ",
+          "kind": "text"
+        },
+        {
+          "text": "was",
+          "kind": "supplied"
+        },
+        {
+          "text": " a spear like a weaver’s beam; and he went down to him with a staff, and plucked the spear out of the Egyptian’s hand, and slew him with his own spear.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.11.24",
+      "edition_verse_id": "KJV1769:1CH.11.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "These ",
+          "kind": "text"
+        },
+        {
+          "text": "things",
+          "kind": "supplied"
+        },
+        {
+          "text": " did Benaiah the son of Jehoiada, and had the name among the three mighties.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.11.25",
+      "edition_verse_id": "KJV1769:1CH.11.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "Behold, he was honourable among the thirty, but attained not to the ",
+          "kind": "text"
+        },
+        {
+          "text": "first",
+          "kind": "supplied"
+        },
+        {
+          "text": " three: and David set him over his guard.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.11.26",
+      "edition_verse_id": "KJV1769:1CH.11.26",
+      "verse": 26,
+      "spans": [
+        {
+          "text": "¶ Also the valiant men of the armies ",
+          "kind": "text"
+        },
+        {
+          "text": "were",
+          "kind": "supplied"
+        },
+        {
+          "text": ", Asahel the brother of Joab, Elhanan the son of Dodo of Beth-lehem,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1CH.11.27",
+      "edition_verse_id": "KJV1769:1CH.11.27",
+      "verse": 27,
+      "spans": [
+        {
+          "text": "Shammoth the Harorite, Helez the Pelonite,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.11.28",
+      "edition_verse_id": "KJV1769:1CH.11.28",
+      "verse": 28,
+      "spans": [
+        {
+          "text": "Ira the son of Ikkesh the Tekoite, Abi-ezer the Antothite,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.11.29",
+      "edition_verse_id": "KJV1769:1CH.11.29",
+      "verse": 29,
+      "spans": [
+        {
+          "text": "Sibbecai the Hushathite, Ilai the Ahohite,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.11.30",
+      "edition_verse_id": "KJV1769:1CH.11.30",
+      "verse": 30,
+      "spans": [
+        {
+          "text": "Maharai the Netophathite, Heled the son of Baanah the Netophathite,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.11.31",
+      "edition_verse_id": "KJV1769:1CH.11.31",
+      "verse": 31,
+      "spans": [
+        {
+          "text": "Ithai the son of Ribai of Gibeah, ",
+          "kind": "text"
+        },
+        {
+          "text": "that pertained",
+          "kind": "supplied"
+        },
+        {
+          "text": " to the children of Benjamin, Benaiah the Pirathonite,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.11.32",
+      "edition_verse_id": "KJV1769:1CH.11.32",
+      "verse": 32,
+      "spans": [
+        {
+          "text": "Hurai of the brooks of Gaash, Abiel the Arbathite,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.11.33",
+      "edition_verse_id": "KJV1769:1CH.11.33",
+      "verse": 33,
+      "spans": [
+        {
+          "text": "Azmaveth the Baharumite, Eliahba the Shaalbonite,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.11.34",
+      "edition_verse_id": "KJV1769:1CH.11.34",
+      "verse": 34,
+      "spans": [
+        {
+          "text": "The sons of Hashem the Gizonite, Jonathan the son of Shage the Hararite,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.11.35",
+      "edition_verse_id": "KJV1769:1CH.11.35",
+      "verse": 35,
+      "spans": [
+        {
+          "text": "Ahiam the son of Sacar the Hararite, Eliphal the son of Ur,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.11.36",
+      "edition_verse_id": "KJV1769:1CH.11.36",
+      "verse": 36,
+      "spans": [
+        {
+          "text": "Hepher the Mecherathite, Ahijah the Pelonite,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.11.37",
+      "edition_verse_id": "KJV1769:1CH.11.37",
+      "verse": 37,
+      "spans": [
+        {
+          "text": "Hezro the Carmelite, Naarai the son of Ezbai,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.11.38",
+      "edition_verse_id": "KJV1769:1CH.11.38",
+      "verse": 38,
+      "spans": [
+        {
+          "text": "Joel the brother of Nathan, Mibhar the son of Haggeri,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.11.39",
+      "edition_verse_id": "KJV1769:1CH.11.39",
+      "verse": 39,
+      "spans": [
+        {
+          "text": "Zelek the Ammonite, Naharai the Berothite, the armourbearer of Joab the son of Zeruiah,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.11.40",
+      "edition_verse_id": "KJV1769:1CH.11.40",
+      "verse": 40,
+      "spans": [
+        {
+          "text": "Ira the Ithrite, Gareb the Ithrite,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.11.41",
+      "edition_verse_id": "KJV1769:1CH.11.41",
+      "verse": 41,
+      "spans": [
+        {
+          "text": "Uriah the Hittite, Zabad the son of Ahlai,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.11.42",
+      "edition_verse_id": "KJV1769:1CH.11.42",
+      "verse": 42,
+      "spans": [
+        {
+          "text": "Adina the son of Shiza the Reubenite, a captain of the Reubenites, and thirty with him,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.11.43",
+      "edition_verse_id": "KJV1769:1CH.11.43",
+      "verse": 43,
+      "spans": [
+        {
+          "text": "Hanan the son of Maachah, and Joshaphat the Mithnite,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.11.44",
+      "edition_verse_id": "KJV1769:1CH.11.44",
+      "verse": 44,
+      "spans": [
+        {
+          "text": "Uzzia the Ashterathite, Shama and Jehiel the sons of Hothan the Aroerite,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.11.45",
+      "edition_verse_id": "KJV1769:1CH.11.45",
+      "verse": 45,
+      "spans": [
+        {
+          "text": "Jediael the son of Shimri, and Joha his brother, the Tizite,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.11.46",
+      "edition_verse_id": "KJV1769:1CH.11.46",
+      "verse": 46,
+      "spans": [
+        {
+          "text": "Eliel the Mahavite, and Jeribai, and Joshaviah, the sons of Elnaam, and Ithmah the Moabite,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.11.47",
+      "edition_verse_id": "KJV1769:1CH.11.47",
+      "verse": 47,
+      "spans": [
+        {
+          "text": "Eliel, and Obed, and Jasiel the Mesobaite.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

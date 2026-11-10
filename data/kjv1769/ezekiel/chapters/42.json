@@ -1,0 +1,560 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "KJV1769",
+  "book_code": "EZK",
+  "chapter": 42,
+  "verses": [
+    {
+      "id": "EZK.42.1",
+      "edition_verse_id": "KJV1769:EZK.42.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "Then he brought me forth into the utter court, the way toward the north: and he brought me into the chamber that ",
+          "kind": "text"
+        },
+        {
+          "text": "was",
+          "kind": "supplied"
+        },
+        {
+          "text": " over against the separate place, and which ",
+          "kind": "text"
+        },
+        {
+          "text": "was",
+          "kind": "supplied"
+        },
+        {
+          "text": " before the building toward the north.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EZK.42.2",
+      "edition_verse_id": "KJV1769:EZK.42.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "Before the length of an hundred cubits ",
+          "kind": "text"
+        },
+        {
+          "text": "was",
+          "kind": "supplied"
+        },
+        {
+          "text": " the north door, and the breadth ",
+          "kind": "text"
+        },
+        {
+          "text": "was",
+          "kind": "supplied"
+        },
+        {
+          "text": " fifty cubits.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.42.3",
+      "edition_verse_id": "KJV1769:EZK.42.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "Over against the twenty ",
+          "kind": "text"
+        },
+        {
+          "text": "cubits",
+          "kind": "supplied"
+        },
+        {
+          "text": " which ",
+          "kind": "text"
+        },
+        {
+          "text": "were",
+          "kind": "supplied"
+        },
+        {
+          "text": " for the inner court, and over against the pavement which ",
+          "kind": "text"
+        },
+        {
+          "text": "was",
+          "kind": "supplied"
+        },
+        {
+          "text": " for the utter court, ",
+          "kind": "text"
+        },
+        {
+          "text": "was",
+          "kind": "supplied"
+        },
+        {
+          "text": " gallery against gallery in three ",
+          "kind": "text"
+        },
+        {
+          "text": "stories",
+          "kind": "supplied"
+        },
+        {
+          "text": ".",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.42.4",
+      "edition_verse_id": "KJV1769:EZK.42.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "And before the chambers ",
+          "kind": "text"
+        },
+        {
+          "text": "was",
+          "kind": "supplied"
+        },
+        {
+          "text": " a walk of ten cubits breadth inward, a way of one cubit; and their doors toward the north.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.42.5",
+      "edition_verse_id": "KJV1769:EZK.42.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "Now the upper chambers ",
+          "kind": "text"
+        },
+        {
+          "text": "were",
+          "kind": "supplied"
+        },
+        {
+          "text": " shorter: for the galleries were higher than these, than the lower, and than the middlemost of the building.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.42.6",
+      "edition_verse_id": "KJV1769:EZK.42.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "For they ",
+          "kind": "text"
+        },
+        {
+          "text": "were",
+          "kind": "supplied"
+        },
+        {
+          "text": " in three ",
+          "kind": "text"
+        },
+        {
+          "text": "stories",
+          "kind": "supplied"
+        },
+        {
+          "text": ", but had not pillars as the pillars of the courts: therefore ",
+          "kind": "text"
+        },
+        {
+          "text": "the building",
+          "kind": "supplied"
+        },
+        {
+          "text": " was straitened more than the lowest and the middlemost from the ground.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.42.7",
+      "edition_verse_id": "KJV1769:EZK.42.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "And the wall that ",
+          "kind": "text"
+        },
+        {
+          "text": "was",
+          "kind": "supplied"
+        },
+        {
+          "text": " without over against the chambers, toward the utter court on the forepart of the chambers, the length thereof ",
+          "kind": "text"
+        },
+        {
+          "text": "was",
+          "kind": "supplied"
+        },
+        {
+          "text": " fifty cubits.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.42.8",
+      "edition_verse_id": "KJV1769:EZK.42.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "For the length of the chambers that ",
+          "kind": "text"
+        },
+        {
+          "text": "were",
+          "kind": "supplied"
+        },
+        {
+          "text": " in the utter court ",
+          "kind": "text"
+        },
+        {
+          "text": "was",
+          "kind": "supplied"
+        },
+        {
+          "text": " fifty cubits: and, lo, before the temple ",
+          "kind": "text"
+        },
+        {
+          "text": "were",
+          "kind": "supplied"
+        },
+        {
+          "text": " an hundred cubits.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.42.9",
+      "edition_verse_id": "KJV1769:EZK.42.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "And from under these chambers ",
+          "kind": "text"
+        },
+        {
+          "text": "was",
+          "kind": "supplied"
+        },
+        {
+          "text": " the entry on the east side, as one goeth into them from the utter court.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.42.10",
+      "edition_verse_id": "KJV1769:EZK.42.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "The chambers ",
+          "kind": "text"
+        },
+        {
+          "text": "were",
+          "kind": "supplied"
+        },
+        {
+          "text": " in the thickness of the wall of the court toward the east, over against the separate place, and over against the building.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.42.11",
+      "edition_verse_id": "KJV1769:EZK.42.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "And the way before them ",
+          "kind": "text"
+        },
+        {
+          "text": "was",
+          "kind": "supplied"
+        },
+        {
+          "text": " like the appearance of the chambers which ",
+          "kind": "text"
+        },
+        {
+          "text": "were",
+          "kind": "supplied"
+        },
+        {
+          "text": " toward the north, as long as they, ",
+          "kind": "text"
+        },
+        {
+          "text": "and",
+          "kind": "supplied"
+        },
+        {
+          "text": " as broad as they: and all their goings out ",
+          "kind": "text"
+        },
+        {
+          "text": "were",
+          "kind": "supplied"
+        },
+        {
+          "text": " both according to their fashions, and according to their doors.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.42.12",
+      "edition_verse_id": "KJV1769:EZK.42.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "And according to the doors of the chambers that ",
+          "kind": "text"
+        },
+        {
+          "text": "were",
+          "kind": "supplied"
+        },
+        {
+          "text": " toward the south ",
+          "kind": "text"
+        },
+        {
+          "text": "was",
+          "kind": "supplied"
+        },
+        {
+          "text": " a door in the head of the way, ",
+          "kind": "text"
+        },
+        {
+          "text": "even",
+          "kind": "supplied"
+        },
+        {
+          "text": " the way directly before the wall toward the east, as one entereth into them.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.42.13",
+      "edition_verse_id": "KJV1769:EZK.42.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "¶ Then said he unto me, The north chambers ",
+          "kind": "text"
+        },
+        {
+          "text": "and",
+          "kind": "supplied"
+        },
+        {
+          "text": " the south chambers, which ",
+          "kind": "text"
+        },
+        {
+          "text": "are",
+          "kind": "supplied"
+        },
+        {
+          "text": " before the separate place, they ",
+          "kind": "text"
+        },
+        {
+          "text": "be",
+          "kind": "supplied"
+        },
+        {
+          "text": " holy chambers, where the priests that approach unto the LORD shall eat the most holy things: there shall they lay the most holy things, and the meat offering, and the sin offering, and the trespass offering; for the place ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " holy.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EZK.42.14",
+      "edition_verse_id": "KJV1769:EZK.42.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "When the priests enter therein, then shall they not go out of the holy ",
+          "kind": "text"
+        },
+        {
+          "text": "place",
+          "kind": "supplied"
+        },
+        {
+          "text": " into the utter court, but there they shall lay their garments wherein they minister; for they ",
+          "kind": "text"
+        },
+        {
+          "text": "are",
+          "kind": "supplied"
+        },
+        {
+          "text": " holy; and shall put on other garments, and shall approach to ",
+          "kind": "text"
+        },
+        {
+          "text": "those things",
+          "kind": "supplied"
+        },
+        {
+          "text": " which ",
+          "kind": "text"
+        },
+        {
+          "text": "are",
+          "kind": "supplied"
+        },
+        {
+          "text": " for the people.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.42.15",
+      "edition_verse_id": "KJV1769:EZK.42.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "Now when he had made an end of measuring the inner house, he brought me forth toward the gate whose prospect ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " toward the east, and measured it round about.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EZK.42.16",
+      "edition_verse_id": "KJV1769:EZK.42.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "He measured the east side with the measuring reed, five hundred reeds, with the measuring reed round about.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.42.17",
+      "edition_verse_id": "KJV1769:EZK.42.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "He measured the north side, five hundred reeds, with the measuring reed round about.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.42.18",
+      "edition_verse_id": "KJV1769:EZK.42.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "He measured the south side, five hundred reeds, with the measuring reed.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.42.19",
+      "edition_verse_id": "KJV1769:EZK.42.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "¶ He turned about to the west side, ",
+          "kind": "text"
+        },
+        {
+          "text": "and",
+          "kind": "supplied"
+        },
+        {
+          "text": " measured five hundred reeds with the measuring reed.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EZK.42.20",
+      "edition_verse_id": "KJV1769:EZK.42.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "He measured it by the four sides: it had a wall round about, five hundred ",
+          "kind": "text"
+        },
+        {
+          "text": "reeds",
+          "kind": "supplied"
+        },
+        {
+          "text": " long, and five hundred broad, to make a separation between the sanctuary and the profane place.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

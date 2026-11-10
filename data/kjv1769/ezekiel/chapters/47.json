@@ -1,0 +1,516 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "KJV1769",
+  "book_code": "EZK",
+  "chapter": 47,
+  "verses": [
+    {
+      "id": "EZK.47.1",
+      "edition_verse_id": "KJV1769:EZK.47.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "Afterward he brought me again unto the door of the house; and, behold, waters issued out from under the threshold of the house eastward: for the forefront of the house ",
+          "kind": "text"
+        },
+        {
+          "text": "stood toward",
+          "kind": "supplied"
+        },
+        {
+          "text": " the east, and the waters came down from under from the right side of the house, at the south ",
+          "kind": "text"
+        },
+        {
+          "text": "side",
+          "kind": "supplied"
+        },
+        {
+          "text": " of the altar.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EZK.47.2",
+      "edition_verse_id": "KJV1769:EZK.47.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "Then brought he me out of the way of the gate northward, and led me about the way without unto the utter gate by the way that looketh eastward; and, behold, there ran out waters on the right side.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.47.3",
+      "edition_verse_id": "KJV1769:EZK.47.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "And when the man that had the line in his hand went forth eastward, he measured a thousand cubits, and he brought me through the waters; the waters ",
+          "kind": "text"
+        },
+        {
+          "text": "were",
+          "kind": "supplied"
+        },
+        {
+          "text": " to the ankles.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.47.4",
+      "edition_verse_id": "KJV1769:EZK.47.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "Again he measured a thousand, and brought me through the waters; the waters ",
+          "kind": "text"
+        },
+        {
+          "text": "were",
+          "kind": "supplied"
+        },
+        {
+          "text": " to the knees. Again he measured a thousand, and brought me through; the waters ",
+          "kind": "text"
+        },
+        {
+          "text": "were",
+          "kind": "supplied"
+        },
+        {
+          "text": " to the loins.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.47.5",
+      "edition_verse_id": "KJV1769:EZK.47.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "Afterward he measured a thousand; ",
+          "kind": "text"
+        },
+        {
+          "text": "and it was",
+          "kind": "supplied"
+        },
+        {
+          "text": " a river that I could not pass over: for the waters were risen, waters to swim in, a river that could not be passed over.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.47.6",
+      "edition_verse_id": "KJV1769:EZK.47.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "¶ And he said unto me, Son of man, hast thou seen ",
+          "kind": "text"
+        },
+        {
+          "text": "this",
+          "kind": "supplied"
+        },
+        {
+          "text": "? Then he brought me, and caused me to return to the brink of the river.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EZK.47.7",
+      "edition_verse_id": "KJV1769:EZK.47.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "Now when I had returned, behold, at the bank of the river ",
+          "kind": "text"
+        },
+        {
+          "text": "were",
+          "kind": "supplied"
+        },
+        {
+          "text": " very many trees on the one side and on the other.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.47.8",
+      "edition_verse_id": "KJV1769:EZK.47.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "Then said he unto me, These waters issue out toward the east country, and go down into the desert, and go into the sea: ",
+          "kind": "text"
+        },
+        {
+          "text": "which being",
+          "kind": "supplied"
+        },
+        {
+          "text": " brought forth into the sea, the waters shall be healed.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.47.9",
+      "edition_verse_id": "KJV1769:EZK.47.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "And it shall come to pass, ",
+          "kind": "text"
+        },
+        {
+          "text": "that",
+          "kind": "supplied"
+        },
+        {
+          "text": " every thing that liveth, which moveth, whithersoever the rivers shall come, shall live: and there shall be a very great multitude of fish, because these waters shall come thither: for they shall be healed; and every thing shall live whither the river cometh.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.47.10",
+      "edition_verse_id": "KJV1769:EZK.47.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "And it shall come to pass, ",
+          "kind": "text"
+        },
+        {
+          "text": "that",
+          "kind": "supplied"
+        },
+        {
+          "text": " the fishers shall stand upon it from En-gedi even unto En-eglaim; they shall be a ",
+          "kind": "text"
+        },
+        {
+          "text": "place",
+          "kind": "supplied"
+        },
+        {
+          "text": " to spread forth nets; their fish shall be according to their kinds, as the fish of the great sea, exceeding many.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.47.11",
+      "edition_verse_id": "KJV1769:EZK.47.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "But the miry places thereof and the marishes thereof shall not be healed; they shall be given to salt.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.47.12",
+      "edition_verse_id": "KJV1769:EZK.47.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "And by the river upon the bank thereof, on this side and on that side, shall grow all trees for meat, whose leaf shall not fade, neither shall the fruit thereof be consumed: it shall bring forth new fruit according to his months, because their waters they issued out of the sanctuary: and the fruit thereof shall be for meat, and the leaf thereof for medicine.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.47.13",
+      "edition_verse_id": "KJV1769:EZK.47.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "¶ Thus saith the Lord GOD; This ",
+          "kind": "text"
+        },
+        {
+          "text": "shall be",
+          "kind": "supplied"
+        },
+        {
+          "text": " the border, whereby ye shall inherit the land according to the twelve tribes of Israel: Joseph ",
+          "kind": "text"
+        },
+        {
+          "text": "shall have two",
+          "kind": "supplied"
+        },
+        {
+          "text": " portions.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EZK.47.14",
+      "edition_verse_id": "KJV1769:EZK.47.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "And ye shall inherit it, one as well as another: ",
+          "kind": "text"
+        },
+        {
+          "text": "concerning",
+          "kind": "supplied"
+        },
+        {
+          "text": " the which I lifted up mine hand to give it unto your fathers: and this land shall fall unto you for inheritance.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.47.15",
+      "edition_verse_id": "KJV1769:EZK.47.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "And this ",
+          "kind": "text"
+        },
+        {
+          "text": "shall be",
+          "kind": "supplied"
+        },
+        {
+          "text": " the border of the land toward the north side, from the great sea, the way of Hethlon, as men go to Zedad;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.47.16",
+      "edition_verse_id": "KJV1769:EZK.47.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "Hamath, Berothah, Sibraim, which ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " between the border of Damascus and the border of Hamath; Hazar-hatticon, which ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " by the coast of Hauran.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.47.17",
+      "edition_verse_id": "KJV1769:EZK.47.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "And the border from the sea shall be Hazar-enan, the border of Damascus, and the north northward, and the border of Hamath. And ",
+          "kind": "text"
+        },
+        {
+          "text": "this is",
+          "kind": "supplied"
+        },
+        {
+          "text": " the north side.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.47.18",
+      "edition_verse_id": "KJV1769:EZK.47.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "And the east side ye shall measure from Hauran, and from Damascus, and from Gilead, and from the land of Israel ",
+          "kind": "text"
+        },
+        {
+          "text": "by",
+          "kind": "supplied"
+        },
+        {
+          "text": " Jordan, from the border unto the east sea. And ",
+          "kind": "text"
+        },
+        {
+          "text": "this is",
+          "kind": "supplied"
+        },
+        {
+          "text": " the east side.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.47.19",
+      "edition_verse_id": "KJV1769:EZK.47.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "And the south side southward, from Tamar ",
+          "kind": "text"
+        },
+        {
+          "text": "even",
+          "kind": "supplied"
+        },
+        {
+          "text": " to the waters of strife ",
+          "kind": "text"
+        },
+        {
+          "text": "in",
+          "kind": "supplied"
+        },
+        {
+          "text": " Kadesh, the river to the great sea. And ",
+          "kind": "text"
+        },
+        {
+          "text": "this is",
+          "kind": "supplied"
+        },
+        {
+          "text": " the south side southward.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.47.20",
+      "edition_verse_id": "KJV1769:EZK.47.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "The west side also ",
+          "kind": "text"
+        },
+        {
+          "text": "shall be",
+          "kind": "supplied"
+        },
+        {
+          "text": " the great sea from the border, till a man come over against Hamath. This ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " the west side.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.47.21",
+      "edition_verse_id": "KJV1769:EZK.47.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "So shall ye divide this land unto you according to the tribes of Israel.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.47.22",
+      "edition_verse_id": "KJV1769:EZK.47.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "¶ And it shall come to pass, ",
+          "kind": "text"
+        },
+        {
+          "text": "that",
+          "kind": "supplied"
+        },
+        {
+          "text": " ye shall divide it by lot for an inheritance unto you, and to the strangers that sojourn among you, which shall beget children among you: and they shall be unto you as born in the country among the children of Israel; they shall have inheritance with you among the tribes of Israel.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EZK.47.23",
+      "edition_verse_id": "KJV1769:EZK.47.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "And it shall come to pass, ",
+          "kind": "text"
+        },
+        {
+          "text": "that",
+          "kind": "supplied"
+        },
+        {
+          "text": " in what tribe the stranger sojourneth, there shall ye give ",
+          "kind": "text"
+        },
+        {
+          "text": "him",
+          "kind": "supplied"
+        },
+        {
+          "text": " his inheritance, saith the Lord GOD.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

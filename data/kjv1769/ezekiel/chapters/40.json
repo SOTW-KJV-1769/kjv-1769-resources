@@ -1,0 +1,1260 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "KJV1769",
+  "book_code": "EZK",
+  "chapter": 40,
+  "verses": [
+    {
+      "id": "EZK.40.1",
+      "edition_verse_id": "KJV1769:EZK.40.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "In the five and twentieth year of our captivity, in the beginning of the year, in the tenth ",
+          "kind": "text"
+        },
+        {
+          "text": "day",
+          "kind": "supplied"
+        },
+        {
+          "text": " of the month, in the fourteenth year after that the city was smitten, in the selfsame day the hand of the LORD was upon me, and brought me thither.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EZK.40.2",
+      "edition_verse_id": "KJV1769:EZK.40.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "In the visions of God brought he me into the land of Israel, and set me upon a very high mountain, by which ",
+          "kind": "text"
+        },
+        {
+          "text": "was",
+          "kind": "supplied"
+        },
+        {
+          "text": " as the frame of a city on the south.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.40.3",
+      "edition_verse_id": "KJV1769:EZK.40.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "And he brought me thither, and, behold, ",
+          "kind": "text"
+        },
+        {
+          "text": "there was",
+          "kind": "supplied"
+        },
+        {
+          "text": " a man, whose appearance ",
+          "kind": "text"
+        },
+        {
+          "text": "was",
+          "kind": "supplied"
+        },
+        {
+          "text": " like the appearance of brass, with a line of flax in his hand, and a measuring reed; and he stood in the gate.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.40.4",
+      "edition_verse_id": "KJV1769:EZK.40.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "And the man said unto me, Son of man, behold with thine eyes, and hear with thine ears, and set thine heart upon all that I shall shew thee; for to the intent that I might shew ",
+          "kind": "text"
+        },
+        {
+          "text": "them",
+          "kind": "supplied"
+        },
+        {
+          "text": " unto thee ",
+          "kind": "text"
+        },
+        {
+          "text": "art",
+          "kind": "supplied"
+        },
+        {
+          "text": " thou brought hither: declare all that thou seest to the house of Israel.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.40.5",
+      "edition_verse_id": "KJV1769:EZK.40.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "And behold a wall on the outside of the house round about, and in the man’s hand a measuring reed of six cubits ",
+          "kind": "text"
+        },
+        {
+          "text": "long",
+          "kind": "supplied"
+        },
+        {
+          "text": " by the cubit and an hand breadth: so he measured the breadth of the building, one reed; and the height, one reed.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EZK.40.6",
+      "edition_verse_id": "KJV1769:EZK.40.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "¶ Then came he unto the gate which looketh toward the east, and went up the stairs thereof, and measured the threshold of the gate, ",
+          "kind": "text"
+        },
+        {
+          "text": "which was",
+          "kind": "supplied"
+        },
+        {
+          "text": " one reed broad; and the other threshold ",
+          "kind": "text"
+        },
+        {
+          "text": "of the gate, which was",
+          "kind": "supplied"
+        },
+        {
+          "text": " one reed broad.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EZK.40.7",
+      "edition_verse_id": "KJV1769:EZK.40.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "And ",
+          "kind": "text"
+        },
+        {
+          "text": "every",
+          "kind": "supplied"
+        },
+        {
+          "text": " little chamber ",
+          "kind": "text"
+        },
+        {
+          "text": "was",
+          "kind": "supplied"
+        },
+        {
+          "text": " one reed long, and one reed broad; and between the little chambers ",
+          "kind": "text"
+        },
+        {
+          "text": "were",
+          "kind": "supplied"
+        },
+        {
+          "text": " five cubits; and the threshold of the gate by the porch of the gate within ",
+          "kind": "text"
+        },
+        {
+          "text": "was",
+          "kind": "supplied"
+        },
+        {
+          "text": " one reed.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.40.8",
+      "edition_verse_id": "KJV1769:EZK.40.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "He measured also the porch of the gate within, one reed.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.40.9",
+      "edition_verse_id": "KJV1769:EZK.40.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "Then measured he the porch of the gate, eight cubits; and the posts thereof, two cubits; and the porch of the gate ",
+          "kind": "text"
+        },
+        {
+          "text": "was",
+          "kind": "supplied"
+        },
+        {
+          "text": " inward.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.40.10",
+      "edition_verse_id": "KJV1769:EZK.40.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "And the little chambers of the gate eastward ",
+          "kind": "text"
+        },
+        {
+          "text": "were",
+          "kind": "supplied"
+        },
+        {
+          "text": " three on this side, and three on that side; they three ",
+          "kind": "text"
+        },
+        {
+          "text": "were",
+          "kind": "supplied"
+        },
+        {
+          "text": " of one measure: and the posts had one measure on this side and on that side.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.40.11",
+      "edition_verse_id": "KJV1769:EZK.40.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "And he measured the breadth of the entry of the gate, ten cubits; ",
+          "kind": "text"
+        },
+        {
+          "text": "and",
+          "kind": "supplied"
+        },
+        {
+          "text": " the length of the gate, thirteen cubits.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.40.12",
+      "edition_verse_id": "KJV1769:EZK.40.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "The space also before the little chambers ",
+          "kind": "text"
+        },
+        {
+          "text": "was",
+          "kind": "supplied"
+        },
+        {
+          "text": " one cubit ",
+          "kind": "text"
+        },
+        {
+          "text": "on this side",
+          "kind": "supplied"
+        },
+        {
+          "text": ", and the space ",
+          "kind": "text"
+        },
+        {
+          "text": "was",
+          "kind": "supplied"
+        },
+        {
+          "text": " one cubit on that side: and the little chambers ",
+          "kind": "text"
+        },
+        {
+          "text": "were",
+          "kind": "supplied"
+        },
+        {
+          "text": " six cubits on this side, and six cubits on that side.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.40.13",
+      "edition_verse_id": "KJV1769:EZK.40.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "He measured then the gate from the roof of ",
+          "kind": "text"
+        },
+        {
+          "text": "one",
+          "kind": "supplied"
+        },
+        {
+          "text": " little chamber to the roof of another: the breadth ",
+          "kind": "text"
+        },
+        {
+          "text": "was",
+          "kind": "supplied"
+        },
+        {
+          "text": " five and twenty cubits, door against door.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.40.14",
+      "edition_verse_id": "KJV1769:EZK.40.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "He made also posts of threescore cubits, even unto the post of the court round about the gate.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.40.15",
+      "edition_verse_id": "KJV1769:EZK.40.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "And from the face of the gate of the entrance unto the face of the porch of the inner gate ",
+          "kind": "text"
+        },
+        {
+          "text": "were",
+          "kind": "supplied"
+        },
+        {
+          "text": " fifty cubits.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.40.16",
+      "edition_verse_id": "KJV1769:EZK.40.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "And ",
+          "kind": "text"
+        },
+        {
+          "text": "there were",
+          "kind": "supplied"
+        },
+        {
+          "text": " narrow windows to the little chambers, and to their posts within the gate round about, and likewise to the arches: and windows ",
+          "kind": "text"
+        },
+        {
+          "text": "were",
+          "kind": "supplied"
+        },
+        {
+          "text": " round about inward: and upon ",
+          "kind": "text"
+        },
+        {
+          "text": "each",
+          "kind": "supplied"
+        },
+        {
+          "text": " post ",
+          "kind": "text"
+        },
+        {
+          "text": "were",
+          "kind": "supplied"
+        },
+        {
+          "text": " palm trees.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.40.17",
+      "edition_verse_id": "KJV1769:EZK.40.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "Then brought he me into the outward court, and, lo, ",
+          "kind": "text"
+        },
+        {
+          "text": "there were",
+          "kind": "supplied"
+        },
+        {
+          "text": " chambers, and a pavement made for the court round about: thirty chambers ",
+          "kind": "text"
+        },
+        {
+          "text": "were",
+          "kind": "supplied"
+        },
+        {
+          "text": " upon the pavement.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.40.18",
+      "edition_verse_id": "KJV1769:EZK.40.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "And the pavement by the side of the gates over against the length of the gates ",
+          "kind": "text"
+        },
+        {
+          "text": "was",
+          "kind": "supplied"
+        },
+        {
+          "text": " the lower pavement.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.40.19",
+      "edition_verse_id": "KJV1769:EZK.40.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "Then he measured the breadth from the forefront of the lower gate unto the forefront of the inner court without, an hundred cubits eastward and northward.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.40.20",
+      "edition_verse_id": "KJV1769:EZK.40.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "¶ And the gate of the outward court that looked toward the north, he measured the length thereof, and the breadth thereof.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EZK.40.21",
+      "edition_verse_id": "KJV1769:EZK.40.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "And the little chambers thereof ",
+          "kind": "text"
+        },
+        {
+          "text": "were",
+          "kind": "supplied"
+        },
+        {
+          "text": " three on this side and three on that side; and the posts thereof and the arches thereof were after the measure of the first gate: the length thereof ",
+          "kind": "text"
+        },
+        {
+          "text": "was",
+          "kind": "supplied"
+        },
+        {
+          "text": " fifty cubits, and the breadth five and twenty cubits.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.40.22",
+      "edition_verse_id": "KJV1769:EZK.40.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "And their windows, and their arches, and their palm trees, ",
+          "kind": "text"
+        },
+        {
+          "text": "were",
+          "kind": "supplied"
+        },
+        {
+          "text": " after the measure of the gate that looketh toward the east; and they went up unto it by seven steps; and the arches thereof ",
+          "kind": "text"
+        },
+        {
+          "text": "were",
+          "kind": "supplied"
+        },
+        {
+          "text": " before them.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.40.23",
+      "edition_verse_id": "KJV1769:EZK.40.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "And the gate of the inner court ",
+          "kind": "text"
+        },
+        {
+          "text": "was",
+          "kind": "supplied"
+        },
+        {
+          "text": " over against the gate toward the north, and toward the east; and he measured from gate to gate an hundred cubits.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.40.24",
+      "edition_verse_id": "KJV1769:EZK.40.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "¶ After that he brought me toward the south, and behold a gate toward the south: and he measured the posts thereof and the arches thereof according to these measures.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EZK.40.25",
+      "edition_verse_id": "KJV1769:EZK.40.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "And ",
+          "kind": "text"
+        },
+        {
+          "text": "there were",
+          "kind": "supplied"
+        },
+        {
+          "text": " windows in it and in the arches thereof round about, like those windows: the length ",
+          "kind": "text"
+        },
+        {
+          "text": "was",
+          "kind": "supplied"
+        },
+        {
+          "text": " fifty cubits, and the breadth five and twenty cubits.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.40.26",
+      "edition_verse_id": "KJV1769:EZK.40.26",
+      "verse": 26,
+      "spans": [
+        {
+          "text": "And ",
+          "kind": "text"
+        },
+        {
+          "text": "there were",
+          "kind": "supplied"
+        },
+        {
+          "text": " seven steps to go up to it, and the arches thereof ",
+          "kind": "text"
+        },
+        {
+          "text": "were",
+          "kind": "supplied"
+        },
+        {
+          "text": " before them: and it had palm trees, one on this side, and another on that side, upon the posts thereof.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.40.27",
+      "edition_verse_id": "KJV1769:EZK.40.27",
+      "verse": 27,
+      "spans": [
+        {
+          "text": "And ",
+          "kind": "text"
+        },
+        {
+          "text": "there was",
+          "kind": "supplied"
+        },
+        {
+          "text": " a gate in the inner court toward the south: and he measured from gate to gate toward the south an hundred cubits.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EZK.40.28",
+      "edition_verse_id": "KJV1769:EZK.40.28",
+      "verse": 28,
+      "spans": [
+        {
+          "text": "And he brought me to the inner court by the south gate: and he measured the south gate according to these measures;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.40.29",
+      "edition_verse_id": "KJV1769:EZK.40.29",
+      "verse": 29,
+      "spans": [
+        {
+          "text": "And the little chambers thereof, and the posts thereof, and the arches thereof, according to these measures: and ",
+          "kind": "text"
+        },
+        {
+          "text": "there were",
+          "kind": "supplied"
+        },
+        {
+          "text": " windows in it and in the arches thereof round about: ",
+          "kind": "text"
+        },
+        {
+          "text": "it was",
+          "kind": "supplied"
+        },
+        {
+          "text": " fifty cubits long, and five and twenty cubits broad.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.40.30",
+      "edition_verse_id": "KJV1769:EZK.40.30",
+      "verse": 30,
+      "spans": [
+        {
+          "text": "And the arches round about ",
+          "kind": "text"
+        },
+        {
+          "text": "were",
+          "kind": "supplied"
+        },
+        {
+          "text": " five and twenty cubits long, and five cubits broad.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.40.31",
+      "edition_verse_id": "KJV1769:EZK.40.31",
+      "verse": 31,
+      "spans": [
+        {
+          "text": "And the arches thereof ",
+          "kind": "text"
+        },
+        {
+          "text": "were",
+          "kind": "supplied"
+        },
+        {
+          "text": " toward the utter court; and palm trees ",
+          "kind": "text"
+        },
+        {
+          "text": "were",
+          "kind": "supplied"
+        },
+        {
+          "text": " upon the posts thereof: and the going up to it ",
+          "kind": "text"
+        },
+        {
+          "text": "had",
+          "kind": "supplied"
+        },
+        {
+          "text": " eight steps.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.40.32",
+      "edition_verse_id": "KJV1769:EZK.40.32",
+      "verse": 32,
+      "spans": [
+        {
+          "text": "¶ And he brought me into the inner court toward the east: and he measured the gate according to these measures.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EZK.40.33",
+      "edition_verse_id": "KJV1769:EZK.40.33",
+      "verse": 33,
+      "spans": [
+        {
+          "text": "And the little chambers thereof, and the posts thereof, and the arches thereof, ",
+          "kind": "text"
+        },
+        {
+          "text": "were",
+          "kind": "supplied"
+        },
+        {
+          "text": " according to these measures: and ",
+          "kind": "text"
+        },
+        {
+          "text": "there were",
+          "kind": "supplied"
+        },
+        {
+          "text": " windows therein and in the arches thereof round about: ",
+          "kind": "text"
+        },
+        {
+          "text": "it was",
+          "kind": "supplied"
+        },
+        {
+          "text": " fifty cubits long, and five and twenty cubits broad.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.40.34",
+      "edition_verse_id": "KJV1769:EZK.40.34",
+      "verse": 34,
+      "spans": [
+        {
+          "text": "And the arches thereof ",
+          "kind": "text"
+        },
+        {
+          "text": "were",
+          "kind": "supplied"
+        },
+        {
+          "text": " toward the outward court; and palm trees ",
+          "kind": "text"
+        },
+        {
+          "text": "were",
+          "kind": "supplied"
+        },
+        {
+          "text": " upon the posts thereof, on this side, and on that side: and the going up to it ",
+          "kind": "text"
+        },
+        {
+          "text": "had",
+          "kind": "supplied"
+        },
+        {
+          "text": " eight steps.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.40.35",
+      "edition_verse_id": "KJV1769:EZK.40.35",
+      "verse": 35,
+      "spans": [
+        {
+          "text": "¶ And he brought me to the north gate, and measured ",
+          "kind": "text"
+        },
+        {
+          "text": "it",
+          "kind": "supplied"
+        },
+        {
+          "text": " according to these measures;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EZK.40.36",
+      "edition_verse_id": "KJV1769:EZK.40.36",
+      "verse": 36,
+      "spans": [
+        {
+          "text": "The little chambers thereof, the posts thereof, and the arches thereof, and the windows to it round about: the length ",
+          "kind": "text"
+        },
+        {
+          "text": "was",
+          "kind": "supplied"
+        },
+        {
+          "text": " fifty cubits, and the breadth five and twenty cubits.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.40.37",
+      "edition_verse_id": "KJV1769:EZK.40.37",
+      "verse": 37,
+      "spans": [
+        {
+          "text": "And the posts thereof ",
+          "kind": "text"
+        },
+        {
+          "text": "were",
+          "kind": "supplied"
+        },
+        {
+          "text": " toward the utter court; and palm trees ",
+          "kind": "text"
+        },
+        {
+          "text": "were",
+          "kind": "supplied"
+        },
+        {
+          "text": " upon the posts thereof, on this side, and on that side: and the going up to it ",
+          "kind": "text"
+        },
+        {
+          "text": "had",
+          "kind": "supplied"
+        },
+        {
+          "text": " eight steps.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.40.38",
+      "edition_verse_id": "KJV1769:EZK.40.38",
+      "verse": 38,
+      "spans": [
+        {
+          "text": "And the chambers and the entries thereof ",
+          "kind": "text"
+        },
+        {
+          "text": "were",
+          "kind": "supplied"
+        },
+        {
+          "text": " by the posts of the gates, where they washed the burnt offering.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.40.39",
+      "edition_verse_id": "KJV1769:EZK.40.39",
+      "verse": 39,
+      "spans": [
+        {
+          "text": "¶ And in the porch of the gate ",
+          "kind": "text"
+        },
+        {
+          "text": "were",
+          "kind": "supplied"
+        },
+        {
+          "text": " two tables on this side, and two tables on that side, to slay thereon the burnt offering and the sin offering and the trespass offering.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EZK.40.40",
+      "edition_verse_id": "KJV1769:EZK.40.40",
+      "verse": 40,
+      "spans": [
+        {
+          "text": "And at the side without, as one goeth up to the entry of the north gate, ",
+          "kind": "text"
+        },
+        {
+          "text": "were",
+          "kind": "supplied"
+        },
+        {
+          "text": " two tables; and on the other side, which ",
+          "kind": "text"
+        },
+        {
+          "text": "was",
+          "kind": "supplied"
+        },
+        {
+          "text": " at the porch of the gate, ",
+          "kind": "text"
+        },
+        {
+          "text": "were",
+          "kind": "supplied"
+        },
+        {
+          "text": " two tables.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.40.41",
+      "edition_verse_id": "KJV1769:EZK.40.41",
+      "verse": 41,
+      "spans": [
+        {
+          "text": "Four tables ",
+          "kind": "text"
+        },
+        {
+          "text": "were",
+          "kind": "supplied"
+        },
+        {
+          "text": " on this side, and four tables on that side, by the side of the gate; eight tables, whereupon they slew ",
+          "kind": "text"
+        },
+        {
+          "text": "their sacrifices",
+          "kind": "supplied"
+        },
+        {
+          "text": ".",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.40.42",
+      "edition_verse_id": "KJV1769:EZK.40.42",
+      "verse": 42,
+      "spans": [
+        {
+          "text": "And the four tables ",
+          "kind": "text"
+        },
+        {
+          "text": "were",
+          "kind": "supplied"
+        },
+        {
+          "text": " of hewn stone for the burnt offering, of a cubit and an half long, and a cubit and an half broad, and one cubit high: whereupon also they laid the instruments wherewith they slew the burnt offering and the sacrifice.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.40.43",
+      "edition_verse_id": "KJV1769:EZK.40.43",
+      "verse": 43,
+      "spans": [
+        {
+          "text": "And within ",
+          "kind": "text"
+        },
+        {
+          "text": "were",
+          "kind": "supplied"
+        },
+        {
+          "text": " hooks, an hand broad, fastened round about: and upon the tables ",
+          "kind": "text"
+        },
+        {
+          "text": "was",
+          "kind": "supplied"
+        },
+        {
+          "text": " the flesh of the offering.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.40.44",
+      "edition_verse_id": "KJV1769:EZK.40.44",
+      "verse": 44,
+      "spans": [
+        {
+          "text": "¶ And without the inner gate ",
+          "kind": "text"
+        },
+        {
+          "text": "were",
+          "kind": "supplied"
+        },
+        {
+          "text": " the chambers of the singers in the inner court, which ",
+          "kind": "text"
+        },
+        {
+          "text": "was",
+          "kind": "supplied"
+        },
+        {
+          "text": " at the side of the north gate; and their prospect ",
+          "kind": "text"
+        },
+        {
+          "text": "was",
+          "kind": "supplied"
+        },
+        {
+          "text": " toward the south: one at the side of the east gate ",
+          "kind": "text"
+        },
+        {
+          "text": "having",
+          "kind": "supplied"
+        },
+        {
+          "text": " the prospect toward the north.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EZK.40.45",
+      "edition_verse_id": "KJV1769:EZK.40.45",
+      "verse": 45,
+      "spans": [
+        {
+          "text": "And he said unto me, This chamber, whose prospect ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " toward the south, ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " for the priests, the keepers of the charge of the house.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.40.46",
+      "edition_verse_id": "KJV1769:EZK.40.46",
+      "verse": 46,
+      "spans": [
+        {
+          "text": "And the chamber whose prospect ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " toward the north ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " for the priests, the keepers of the charge of the altar: these ",
+          "kind": "text"
+        },
+        {
+          "text": "are",
+          "kind": "supplied"
+        },
+        {
+          "text": " the sons of Zadok among the sons of Levi, which come near to the LORD to minister unto him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.40.47",
+      "edition_verse_id": "KJV1769:EZK.40.47",
+      "verse": 47,
+      "spans": [
+        {
+          "text": "So he measured the court, an hundred cubits long, and an hundred cubits broad, foursquare; and the altar ",
+          "kind": "text"
+        },
+        {
+          "text": "that was",
+          "kind": "supplied"
+        },
+        {
+          "text": " before the house.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.40.48",
+      "edition_verse_id": "KJV1769:EZK.40.48",
+      "verse": 48,
+      "spans": [
+        {
+          "text": "¶ And he brought me to the porch of the house, and measured ",
+          "kind": "text"
+        },
+        {
+          "text": "each",
+          "kind": "supplied"
+        },
+        {
+          "text": " post of the porch, five cubits on this side, and five cubits on that side: and the breadth of the gate ",
+          "kind": "text"
+        },
+        {
+          "text": "was",
+          "kind": "supplied"
+        },
+        {
+          "text": " three cubits on this side, and three cubits on that side.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EZK.40.49",
+      "edition_verse_id": "KJV1769:EZK.40.49",
+      "verse": 49,
+      "spans": [
+        {
+          "text": "The length of the porch ",
+          "kind": "text"
+        },
+        {
+          "text": "was",
+          "kind": "supplied"
+        },
+        {
+          "text": " twenty cubits, and the breadth eleven cubits; and ",
+          "kind": "text"
+        },
+        {
+          "text": "he brought me",
+          "kind": "supplied"
+        },
+        {
+          "text": " by the steps whereby they went up to it: and ",
+          "kind": "text"
+        },
+        {
+          "text": "there were",
+          "kind": "supplied"
+        },
+        {
+          "text": " pillars by the posts, one on this side, and another on that side.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

@@ -1,0 +1,984 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "KJV1769",
+  "book_code": "EZR",
+  "chapter": 2,
+  "verses": [
+    {
+      "id": "EZR.2.1",
+      "edition_verse_id": "KJV1769:EZR.2.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "Now these ",
+          "kind": "text"
+        },
+        {
+          "text": "are",
+          "kind": "supplied"
+        },
+        {
+          "text": " the children of the province that went up out of the captivity, of those which had been carried away, whom Nebuchadnezzar the king of Babylon had carried away unto Babylon, and came again unto Jerusalem and Judah, every one unto his city;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EZR.2.2",
+      "edition_verse_id": "KJV1769:EZR.2.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "Which came with Zerubbabel: Jeshua, Nehemiah, Seraiah, Reelaiah, Mordecai, Bilshan, Mispar, Bigvai, Rehum, Baanah. The number of the men of the people of Israel:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZR.2.3",
+      "edition_verse_id": "KJV1769:EZR.2.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "The children of Parosh, two thousand an hundred seventy and two.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZR.2.4",
+      "edition_verse_id": "KJV1769:EZR.2.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "The children of Shephatiah, three hundred seventy and two.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZR.2.5",
+      "edition_verse_id": "KJV1769:EZR.2.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "The children of Arah, seven hundred seventy and five.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZR.2.6",
+      "edition_verse_id": "KJV1769:EZR.2.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "The children of Pahath-moab, of the children of Jeshua ",
+          "kind": "text"
+        },
+        {
+          "text": "and",
+          "kind": "supplied"
+        },
+        {
+          "text": " Joab, two thousand eight hundred and twelve.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZR.2.7",
+      "edition_verse_id": "KJV1769:EZR.2.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "The children of Elam, a thousand two hundred fifty and four.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZR.2.8",
+      "edition_verse_id": "KJV1769:EZR.2.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "The children of Zattu, nine hundred forty and five.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZR.2.9",
+      "edition_verse_id": "KJV1769:EZR.2.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "The children of Zaccai, seven hundred and threescore.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZR.2.10",
+      "edition_verse_id": "KJV1769:EZR.2.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "The children of Bani, six hundred forty and two.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZR.2.11",
+      "edition_verse_id": "KJV1769:EZR.2.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "The children of Bebai, six hundred twenty and three.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZR.2.12",
+      "edition_verse_id": "KJV1769:EZR.2.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "The children of Azgad, a thousand two hundred twenty and two.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZR.2.13",
+      "edition_verse_id": "KJV1769:EZR.2.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "The children of Adonikam, six hundred sixty and six.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZR.2.14",
+      "edition_verse_id": "KJV1769:EZR.2.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "The children of Bigvai, two thousand fifty and six.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZR.2.15",
+      "edition_verse_id": "KJV1769:EZR.2.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "The children of Adin, four hundred fifty and four.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZR.2.16",
+      "edition_verse_id": "KJV1769:EZR.2.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "The children of Ater of Hezekiah, ninety and eight.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZR.2.17",
+      "edition_verse_id": "KJV1769:EZR.2.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "The children of Bezai, three hundred twenty and three.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZR.2.18",
+      "edition_verse_id": "KJV1769:EZR.2.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "The children of Jorah, an hundred and twelve.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZR.2.19",
+      "edition_verse_id": "KJV1769:EZR.2.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "The children of Hashum, two hundred twenty and three.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZR.2.20",
+      "edition_verse_id": "KJV1769:EZR.2.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "The children of Gibbar, ninety and five.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZR.2.21",
+      "edition_verse_id": "KJV1769:EZR.2.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "The children of Beth-lehem, an hundred twenty and three.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZR.2.22",
+      "edition_verse_id": "KJV1769:EZR.2.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "The men of Netophah, fifty and six.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZR.2.23",
+      "edition_verse_id": "KJV1769:EZR.2.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "The men of Anathoth, an hundred twenty and eight.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZR.2.24",
+      "edition_verse_id": "KJV1769:EZR.2.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "The children of Azmaveth, forty and two.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZR.2.25",
+      "edition_verse_id": "KJV1769:EZR.2.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "The children of Kirjath-arim, Chephirah, and Beeroth, seven hundred and forty and three.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZR.2.26",
+      "edition_verse_id": "KJV1769:EZR.2.26",
+      "verse": 26,
+      "spans": [
+        {
+          "text": "The children of Ramah and Gaba, six hundred twenty and one.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZR.2.27",
+      "edition_verse_id": "KJV1769:EZR.2.27",
+      "verse": 27,
+      "spans": [
+        {
+          "text": "The men of Michmas, an hundred twenty and two.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZR.2.28",
+      "edition_verse_id": "KJV1769:EZR.2.28",
+      "verse": 28,
+      "spans": [
+        {
+          "text": "The men of Beth-el and Ai, two hundred twenty and three.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZR.2.29",
+      "edition_verse_id": "KJV1769:EZR.2.29",
+      "verse": 29,
+      "spans": [
+        {
+          "text": "The children of Nebo, fifty and two.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZR.2.30",
+      "edition_verse_id": "KJV1769:EZR.2.30",
+      "verse": 30,
+      "spans": [
+        {
+          "text": "The children of Magbish, an hundred fifty and six.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZR.2.31",
+      "edition_verse_id": "KJV1769:EZR.2.31",
+      "verse": 31,
+      "spans": [
+        {
+          "text": "The children of the other Elam, a thousand two hundred fifty and four.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZR.2.32",
+      "edition_verse_id": "KJV1769:EZR.2.32",
+      "verse": 32,
+      "spans": [
+        {
+          "text": "The children of Harim, three hundred and twenty.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZR.2.33",
+      "edition_verse_id": "KJV1769:EZR.2.33",
+      "verse": 33,
+      "spans": [
+        {
+          "text": "The children of Lod, Hadid, and Ono, seven hundred twenty and five.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZR.2.34",
+      "edition_verse_id": "KJV1769:EZR.2.34",
+      "verse": 34,
+      "spans": [
+        {
+          "text": "The children of Jericho, three hundred forty and five.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZR.2.35",
+      "edition_verse_id": "KJV1769:EZR.2.35",
+      "verse": 35,
+      "spans": [
+        {
+          "text": "The children of Senaah, three thousand and six hundred and thirty.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZR.2.36",
+      "edition_verse_id": "KJV1769:EZR.2.36",
+      "verse": 36,
+      "spans": [
+        {
+          "text": "¶ The priests: the children of Jedaiah, of the house of Jeshua, nine hundred seventy and three.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EZR.2.37",
+      "edition_verse_id": "KJV1769:EZR.2.37",
+      "verse": 37,
+      "spans": [
+        {
+          "text": "The children of Immer, a thousand fifty and two.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZR.2.38",
+      "edition_verse_id": "KJV1769:EZR.2.38",
+      "verse": 38,
+      "spans": [
+        {
+          "text": "The children of Pashur, a thousand two hundred forty and seven.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZR.2.39",
+      "edition_verse_id": "KJV1769:EZR.2.39",
+      "verse": 39,
+      "spans": [
+        {
+          "text": "The children of Harim, a thousand and seventeen.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZR.2.40",
+      "edition_verse_id": "KJV1769:EZR.2.40",
+      "verse": 40,
+      "spans": [
+        {
+          "text": "¶ The Levites: the children of Jeshua and Kadmiel, of the children of Hodaviah, seventy and four.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EZR.2.41",
+      "edition_verse_id": "KJV1769:EZR.2.41",
+      "verse": 41,
+      "spans": [
+        {
+          "text": "¶ The singers: the children of Asaph, an hundred twenty and eight.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EZR.2.42",
+      "edition_verse_id": "KJV1769:EZR.2.42",
+      "verse": 42,
+      "spans": [
+        {
+          "text": "¶ The children of the porters: the children of Shallum, the children of Ater, the children of Talmon, the children of Akkub, the children of Hatita, the children of Shobai, ",
+          "kind": "text"
+        },
+        {
+          "text": "in",
+          "kind": "supplied"
+        },
+        {
+          "text": " all an hundred thirty and nine.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EZR.2.43",
+      "edition_verse_id": "KJV1769:EZR.2.43",
+      "verse": 43,
+      "spans": [
+        {
+          "text": "¶ The Nethinims: the children of Ziha, the children of Hasupha, the children of Tabbaoth,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EZR.2.44",
+      "edition_verse_id": "KJV1769:EZR.2.44",
+      "verse": 44,
+      "spans": [
+        {
+          "text": "The children of Keros, the children of Siaha, the children of Padon,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZR.2.45",
+      "edition_verse_id": "KJV1769:EZR.2.45",
+      "verse": 45,
+      "spans": [
+        {
+          "text": "The children of Lebanah, the children of Hagabah, the children of Akkub,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZR.2.46",
+      "edition_verse_id": "KJV1769:EZR.2.46",
+      "verse": 46,
+      "spans": [
+        {
+          "text": "The children of Hagab, the children of Shalmai, the children of Hanan,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZR.2.47",
+      "edition_verse_id": "KJV1769:EZR.2.47",
+      "verse": 47,
+      "spans": [
+        {
+          "text": "The children of Giddel, the children of Gahar, the children of Reaiah,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZR.2.48",
+      "edition_verse_id": "KJV1769:EZR.2.48",
+      "verse": 48,
+      "spans": [
+        {
+          "text": "The children of Rezin, the children of Nekoda, the children of Gazzam,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZR.2.49",
+      "edition_verse_id": "KJV1769:EZR.2.49",
+      "verse": 49,
+      "spans": [
+        {
+          "text": "The children of Uzza, the children of Paseah, the children of Besai,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZR.2.50",
+      "edition_verse_id": "KJV1769:EZR.2.50",
+      "verse": 50,
+      "spans": [
+        {
+          "text": "The children of Asnah, the children of Mehunim, the children of Nephusim,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZR.2.51",
+      "edition_verse_id": "KJV1769:EZR.2.51",
+      "verse": 51,
+      "spans": [
+        {
+          "text": "The children of Bakbuk, the children of Hakupha, the children of Harhur,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZR.2.52",
+      "edition_verse_id": "KJV1769:EZR.2.52",
+      "verse": 52,
+      "spans": [
+        {
+          "text": "The children of Bazluth, the children of Mehida, the children of Harsha,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZR.2.53",
+      "edition_verse_id": "KJV1769:EZR.2.53",
+      "verse": 53,
+      "spans": [
+        {
+          "text": "The children of Barkos, the children of Sisera, the children of Thamah,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZR.2.54",
+      "edition_verse_id": "KJV1769:EZR.2.54",
+      "verse": 54,
+      "spans": [
+        {
+          "text": "The children of Neziah, the children of Hatipha.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZR.2.55",
+      "edition_verse_id": "KJV1769:EZR.2.55",
+      "verse": 55,
+      "spans": [
+        {
+          "text": "¶ The children of Solomon’s servants: the children of Sotai, the children of Sophereth, the children of Peruda,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EZR.2.56",
+      "edition_verse_id": "KJV1769:EZR.2.56",
+      "verse": 56,
+      "spans": [
+        {
+          "text": "The children of Jaalah, the children of Darkon, the children of Giddel,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZR.2.57",
+      "edition_verse_id": "KJV1769:EZR.2.57",
+      "verse": 57,
+      "spans": [
+        {
+          "text": "The children of Shephatiah, the children of Hattil, the children of Pochereth of Zebaim, the children of Ami.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZR.2.58",
+      "edition_verse_id": "KJV1769:EZR.2.58",
+      "verse": 58,
+      "spans": [
+        {
+          "text": "All the Nethinims, and the children of Solomon’s servants, ",
+          "kind": "text"
+        },
+        {
+          "text": "were",
+          "kind": "supplied"
+        },
+        {
+          "text": " three hundred ninety and two.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZR.2.59",
+      "edition_verse_id": "KJV1769:EZR.2.59",
+      "verse": 59,
+      "spans": [
+        {
+          "text": "And these ",
+          "kind": "text"
+        },
+        {
+          "text": "were",
+          "kind": "supplied"
+        },
+        {
+          "text": " they which went up from Tel-melah, Tel-harsa, Cherub, Addan, ",
+          "kind": "text"
+        },
+        {
+          "text": "and",
+          "kind": "supplied"
+        },
+        {
+          "text": " Immer: but they could not shew their father’s house, and their seed, whether they ",
+          "kind": "text"
+        },
+        {
+          "text": "were",
+          "kind": "supplied"
+        },
+        {
+          "text": " of Israel:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZR.2.60",
+      "edition_verse_id": "KJV1769:EZR.2.60",
+      "verse": 60,
+      "spans": [
+        {
+          "text": "The children of Delaiah, the children of Tobiah, the children of Nekoda, six hundred fifty and two.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZR.2.61",
+      "edition_verse_id": "KJV1769:EZR.2.61",
+      "verse": 61,
+      "spans": [
+        {
+          "text": "¶ And of the children of the priests: the children of Habaiah, the children of Koz, the children of Barzillai; which took a wife of the daughters of Barzillai the Gileadite, and was called after their name:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EZR.2.62",
+      "edition_verse_id": "KJV1769:EZR.2.62",
+      "verse": 62,
+      "spans": [
+        {
+          "text": "These sought their register ",
+          "kind": "text"
+        },
+        {
+          "text": "among",
+          "kind": "supplied"
+        },
+        {
+          "text": " those that were reckoned by genealogy, but they were not found: therefore were they, as polluted, put from the priesthood.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZR.2.63",
+      "edition_verse_id": "KJV1769:EZR.2.63",
+      "verse": 63,
+      "spans": [
+        {
+          "text": "And the Tirshatha said unto them, that they should not eat of the most holy things, till there stood up a priest with Urim and with Thummim.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZR.2.64",
+      "edition_verse_id": "KJV1769:EZR.2.64",
+      "verse": 64,
+      "spans": [
+        {
+          "text": "¶ The whole congregation together ",
+          "kind": "text"
+        },
+        {
+          "text": "was",
+          "kind": "supplied"
+        },
+        {
+          "text": " forty and two thousand three hundred ",
+          "kind": "text"
+        },
+        {
+          "text": "and",
+          "kind": "supplied"
+        },
+        {
+          "text": " threescore,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EZR.2.65",
+      "edition_verse_id": "KJV1769:EZR.2.65",
+      "verse": 65,
+      "spans": [
+        {
+          "text": "Beside their servants and their maids, of whom ",
+          "kind": "text"
+        },
+        {
+          "text": "there were",
+          "kind": "supplied"
+        },
+        {
+          "text": " seven thousand three hundred thirty and seven: and ",
+          "kind": "text"
+        },
+        {
+          "text": "there were",
+          "kind": "supplied"
+        },
+        {
+          "text": " among them two hundred singing men and singing women.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZR.2.66",
+      "edition_verse_id": "KJV1769:EZR.2.66",
+      "verse": 66,
+      "spans": [
+        {
+          "text": "Their horses ",
+          "kind": "text"
+        },
+        {
+          "text": "were",
+          "kind": "supplied"
+        },
+        {
+          "text": " seven hundred thirty and six; their mules, two hundred forty and five;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZR.2.67",
+      "edition_verse_id": "KJV1769:EZR.2.67",
+      "verse": 67,
+      "spans": [
+        {
+          "text": "Their camels, four hundred thirty and five; ",
+          "kind": "text"
+        },
+        {
+          "text": "their",
+          "kind": "supplied"
+        },
+        {
+          "text": " asses, six thousand seven hundred and twenty.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZR.2.68",
+      "edition_verse_id": "KJV1769:EZR.2.68",
+      "verse": 68,
+      "spans": [
+        {
+          "text": "¶ And ",
+          "kind": "text"
+        },
+        {
+          "text": "some",
+          "kind": "supplied"
+        },
+        {
+          "text": " of the chief of the fathers, when they came to the house of the LORD which ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " at Jerusalem, offered freely for the house of God to set it up in his place:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EZR.2.69",
+      "edition_verse_id": "KJV1769:EZR.2.69",
+      "verse": 69,
+      "spans": [
+        {
+          "text": "They gave after their ability unto the treasure of the work threescore and one thousand drams of gold, and five thousand pound of silver, and one hundred priests’ garments.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZR.2.70",
+      "edition_verse_id": "KJV1769:EZR.2.70",
+      "verse": 70,
+      "spans": [
+        {
+          "text": "So the priests, and the Levites, and ",
+          "kind": "text"
+        },
+        {
+          "text": "some",
+          "kind": "supplied"
+        },
+        {
+          "text": " of the people, and the singers, and the porters, and the Nethinims, dwelt in their cities, and all Israel in their cities.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

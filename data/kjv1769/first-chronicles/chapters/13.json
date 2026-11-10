@@ -1,0 +1,288 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "KJV1769",
+  "book_code": "1CH",
+  "chapter": 13,
+  "verses": [
+    {
+      "id": "1CH.13.1",
+      "edition_verse_id": "KJV1769:1CH.13.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "And David consulted with the captains of thousands and hundreds, ",
+          "kind": "text"
+        },
+        {
+          "text": "and",
+          "kind": "supplied"
+        },
+        {
+          "text": " with every leader.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1CH.13.2",
+      "edition_verse_id": "KJV1769:1CH.13.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "And David said unto all the congregation of Israel, If ",
+          "kind": "text"
+        },
+        {
+          "text": "it seem",
+          "kind": "supplied"
+        },
+        {
+          "text": " good unto you, and ",
+          "kind": "text"
+        },
+        {
+          "text": "that it be",
+          "kind": "supplied"
+        },
+        {
+          "text": " of the LORD our God, let us send abroad unto our brethren every where, ",
+          "kind": "text"
+        },
+        {
+          "text": "that are",
+          "kind": "supplied"
+        },
+        {
+          "text": " left in all the land of Israel, and with them ",
+          "kind": "text"
+        },
+        {
+          "text": "also",
+          "kind": "supplied"
+        },
+        {
+          "text": " to the priests and Levites ",
+          "kind": "text"
+        },
+        {
+          "text": "which are",
+          "kind": "supplied"
+        },
+        {
+          "text": " in their cities ",
+          "kind": "text"
+        },
+        {
+          "text": "and",
+          "kind": "supplied"
+        },
+        {
+          "text": " suburbs, that they may gather themselves unto us:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.13.3",
+      "edition_verse_id": "KJV1769:1CH.13.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "And let us bring again the ark of our God to us: for we enquired not at it in the days of Saul.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.13.4",
+      "edition_verse_id": "KJV1769:1CH.13.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "And all the congregation said that they would do so: for the thing was right in the eyes of all the people.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.13.5",
+      "edition_verse_id": "KJV1769:1CH.13.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "So David gathered all Israel together, from Shihor of Egypt even unto the entering of Hemath, to bring the ark of God from Kirjath-jearim.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.13.6",
+      "edition_verse_id": "KJV1769:1CH.13.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "And David went up, and all Israel, to Baalah, ",
+          "kind": "text"
+        },
+        {
+          "text": "that is",
+          "kind": "supplied"
+        },
+        {
+          "text": ", to Kirjath-jearim, which ",
+          "kind": "text"
+        },
+        {
+          "text": "belonged",
+          "kind": "supplied"
+        },
+        {
+          "text": " to Judah, to bring up thence the ark of God the LORD, that dwelleth ",
+          "kind": "text"
+        },
+        {
+          "text": "between",
+          "kind": "supplied"
+        },
+        {
+          "text": " the cherubims, whose name is called ",
+          "kind": "text"
+        },
+        {
+          "text": "on it",
+          "kind": "supplied"
+        },
+        {
+          "text": ".",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.13.7",
+      "edition_verse_id": "KJV1769:1CH.13.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "And they carried the ark of God in a new cart out of the house of Abinadab: and Uzza and Ahio drave the cart.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.13.8",
+      "edition_verse_id": "KJV1769:1CH.13.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "And David and all Israel played before God with all ",
+          "kind": "text"
+        },
+        {
+          "text": "their",
+          "kind": "supplied"
+        },
+        {
+          "text": " might, and with singing, and with harps, and with psalteries, and with timbrels, and with cymbals, and with trumpets.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.13.9",
+      "edition_verse_id": "KJV1769:1CH.13.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "¶ And when they came unto the threshingfloor of Chidon, Uzza put forth his hand to hold the ark; for the oxen stumbled.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1CH.13.10",
+      "edition_verse_id": "KJV1769:1CH.13.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "And the anger of the LORD was kindled against Uzza, and he smote him, because he put his hand to the ark: and there he died before God.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.13.11",
+      "edition_verse_id": "KJV1769:1CH.13.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "And David was displeased, because the LORD had made a breach upon Uzza: wherefore that place is called Perez-uzza to this day.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.13.12",
+      "edition_verse_id": "KJV1769:1CH.13.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "And David was afraid of God that day, saying, How shall I bring the ark of God ",
+          "kind": "text"
+        },
+        {
+          "text": "home",
+          "kind": "supplied"
+        },
+        {
+          "text": " to me?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.13.13",
+      "edition_verse_id": "KJV1769:1CH.13.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "So David brought not the ark ",
+          "kind": "text"
+        },
+        {
+          "text": "home",
+          "kind": "supplied"
+        },
+        {
+          "text": " to himself to the city of David, but carried it aside into the house of Obed-edom the Gittite.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.13.14",
+      "edition_verse_id": "KJV1769:1CH.13.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "And the ark of God remained with the family of Obed-edom in his house three months. And the LORD blessed the house of Obed-edom, and all that he had.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

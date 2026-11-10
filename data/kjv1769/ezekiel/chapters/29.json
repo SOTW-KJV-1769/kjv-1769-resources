@@ -1,0 +1,444 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "KJV1769",
+  "book_code": "EZK",
+  "chapter": 29,
+  "verses": [
+    {
+      "id": "EZK.29.1",
+      "edition_verse_id": "KJV1769:EZK.29.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "In the tenth year, in the tenth ",
+          "kind": "text"
+        },
+        {
+          "text": "month",
+          "kind": "supplied"
+        },
+        {
+          "text": ", in the twelfth ",
+          "kind": "text"
+        },
+        {
+          "text": "day",
+          "kind": "supplied"
+        },
+        {
+          "text": " of the month, the word of the LORD came unto me, saying,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EZK.29.2",
+      "edition_verse_id": "KJV1769:EZK.29.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "Son of man, set thy face against Pharaoh king of Egypt, and prophesy against him, and against all Egypt:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.29.3",
+      "edition_verse_id": "KJV1769:EZK.29.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "Speak, and say, Thus saith the Lord GOD; Behold, I ",
+          "kind": "text"
+        },
+        {
+          "text": "am",
+          "kind": "supplied"
+        },
+        {
+          "text": " against thee, Pharaoh king of Egypt, the great dragon that lieth in the midst of his rivers, which hath said, My river ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " mine own, and I have made ",
+          "kind": "text"
+        },
+        {
+          "text": "it",
+          "kind": "supplied"
+        },
+        {
+          "text": " for myself.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.29.4",
+      "edition_verse_id": "KJV1769:EZK.29.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "But I will put hooks in thy jaws, and I will cause the fish of thy rivers to stick unto thy scales, and I will bring thee up out of the midst of thy rivers, and all the fish of thy rivers shall stick unto thy scales.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.29.5",
+      "edition_verse_id": "KJV1769:EZK.29.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "And I will leave thee ",
+          "kind": "text"
+        },
+        {
+          "text": "thrown",
+          "kind": "supplied"
+        },
+        {
+          "text": " into the wilderness, thee and all the fish of thy rivers: thou shalt fall upon the open fields; thou shalt not be brought together, nor gathered: I have given thee for meat to the beasts of the field and to the fowls of the heaven.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.29.6",
+      "edition_verse_id": "KJV1769:EZK.29.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "And all the inhabitants of Egypt shall know that I ",
+          "kind": "text"
+        },
+        {
+          "text": "am",
+          "kind": "supplied"
+        },
+        {
+          "text": " the LORD, because they have been a staff of reed to the house of Israel.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.29.7",
+      "edition_verse_id": "KJV1769:EZK.29.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "When they took hold of thee by thy hand, thou didst break, and rend all their shoulder: and when they leaned upon thee, thou brakest, and madest all their loins to be at a stand.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.29.8",
+      "edition_verse_id": "KJV1769:EZK.29.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "¶ Therefore thus saith the Lord GOD; Behold, I will bring a sword upon thee, and cut off man and beast out of thee.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EZK.29.9",
+      "edition_verse_id": "KJV1769:EZK.29.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "And the land of Egypt shall be desolate and waste; and they shall know that I ",
+          "kind": "text"
+        },
+        {
+          "text": "am",
+          "kind": "supplied"
+        },
+        {
+          "text": " the LORD: because he hath said, The river ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " mine, and I have made ",
+          "kind": "text"
+        },
+        {
+          "text": "it",
+          "kind": "supplied"
+        },
+        {
+          "text": ".",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.29.10",
+      "edition_verse_id": "KJV1769:EZK.29.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "Behold, therefore I ",
+          "kind": "text"
+        },
+        {
+          "text": "am",
+          "kind": "supplied"
+        },
+        {
+          "text": " against thee, and against thy rivers, and I will make the land of Egypt utterly waste ",
+          "kind": "text"
+        },
+        {
+          "text": "and",
+          "kind": "supplied"
+        },
+        {
+          "text": " desolate, from the tower of Syene even unto the border of Ethiopia.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.29.11",
+      "edition_verse_id": "KJV1769:EZK.29.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "No foot of man shall pass through it, nor foot of beast shall pass through it, neither shall it be inhabited forty years.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.29.12",
+      "edition_verse_id": "KJV1769:EZK.29.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "And I will make the land of Egypt desolate in the midst of the countries ",
+          "kind": "text"
+        },
+        {
+          "text": "that are",
+          "kind": "supplied"
+        },
+        {
+          "text": " desolate, and her cities among the cities ",
+          "kind": "text"
+        },
+        {
+          "text": "that are",
+          "kind": "supplied"
+        },
+        {
+          "text": " laid waste shall be desolate forty years: and I will scatter the Egyptians among the nations, and will disperse them through the countries.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.29.13",
+      "edition_verse_id": "KJV1769:EZK.29.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "¶ Yet thus saith the Lord GOD; At the end of forty years will I gather the Egyptians from the people whither they were scattered:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EZK.29.14",
+      "edition_verse_id": "KJV1769:EZK.29.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "And I will bring again the captivity of Egypt, and will cause them to return ",
+          "kind": "text"
+        },
+        {
+          "text": "into",
+          "kind": "supplied"
+        },
+        {
+          "text": " the land of Pathros, into the land of their habitation; and they shall be there a base kingdom.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.29.15",
+      "edition_verse_id": "KJV1769:EZK.29.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "It shall be the basest of the kingdoms; neither shall it exalt itself any more above the nations: for I will diminish them, that they shall no more rule over the nations.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.29.16",
+      "edition_verse_id": "KJV1769:EZK.29.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "And it shall be no more the confidence of the house of Israel, which bringeth ",
+          "kind": "text"
+        },
+        {
+          "text": "their",
+          "kind": "supplied"
+        },
+        {
+          "text": " iniquity to remembrance, when they shall look after them: but they shall know that I ",
+          "kind": "text"
+        },
+        {
+          "text": "am",
+          "kind": "supplied"
+        },
+        {
+          "text": " the Lord GOD.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.29.17",
+      "edition_verse_id": "KJV1769:EZK.29.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "¶ And it came to pass in the seven and twentieth year, in the first ",
+          "kind": "text"
+        },
+        {
+          "text": "month",
+          "kind": "supplied"
+        },
+        {
+          "text": ", in the first ",
+          "kind": "text"
+        },
+        {
+          "text": "day",
+          "kind": "supplied"
+        },
+        {
+          "text": " of the month, the word of the LORD came unto me, saying,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EZK.29.18",
+      "edition_verse_id": "KJV1769:EZK.29.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "Son of man, Nebuchadrezzar king of Babylon caused his army to serve a great service against Tyrus: every head ",
+          "kind": "text"
+        },
+        {
+          "text": "was",
+          "kind": "supplied"
+        },
+        {
+          "text": " made bald, and every shoulder ",
+          "kind": "text"
+        },
+        {
+          "text": "was",
+          "kind": "supplied"
+        },
+        {
+          "text": " peeled: yet had he no wages, nor his army, for Tyrus, for the service that he had served against it:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.29.19",
+      "edition_verse_id": "KJV1769:EZK.29.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "Therefore thus saith the Lord GOD; Behold, I will give the land of Egypt unto Nebuchadrezzar king of Babylon; and he shall take her multitude, and take her spoil, and take her prey; and it shall be the wages for his army.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.29.20",
+      "edition_verse_id": "KJV1769:EZK.29.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "I have given him the land of Egypt ",
+          "kind": "text"
+        },
+        {
+          "text": "for",
+          "kind": "supplied"
+        },
+        {
+          "text": " his labour wherewith he served against it, because they wrought for me, saith the Lord GOD.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.29.21",
+      "edition_verse_id": "KJV1769:EZK.29.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "¶ In that day will I cause the horn of the house of Israel to bud forth, and I will give thee the opening of the mouth in the midst of them; and they shall know that I ",
+          "kind": "text"
+        },
+        {
+          "text": "am",
+          "kind": "supplied"
+        },
+        {
+          "text": " the LORD.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    }
+  ]
+}

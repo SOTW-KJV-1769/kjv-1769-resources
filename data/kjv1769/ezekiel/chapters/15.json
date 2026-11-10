@@ -1,0 +1,160 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "KJV1769",
+  "book_code": "EZK",
+  "chapter": 15,
+  "verses": [
+    {
+      "id": "EZK.15.1",
+      "edition_verse_id": "KJV1769:EZK.15.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "And the word of the LORD came unto me, saying,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EZK.15.2",
+      "edition_verse_id": "KJV1769:EZK.15.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "Son of man, What is the vine tree more than any tree, ",
+          "kind": "text"
+        },
+        {
+          "text": "or than",
+          "kind": "supplied"
+        },
+        {
+          "text": " a branch which is among the trees of the forest?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.15.3",
+      "edition_verse_id": "KJV1769:EZK.15.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "Shall wood be taken thereof to do any work? or will ",
+          "kind": "text"
+        },
+        {
+          "text": "men",
+          "kind": "supplied"
+        },
+        {
+          "text": " take a pin of it to hang any vessel thereon?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.15.4",
+      "edition_verse_id": "KJV1769:EZK.15.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "Behold, it is cast into the fire for fuel; the fire devoureth both the ends of it, and the midst of it is burned. Is it meet for ",
+          "kind": "text"
+        },
+        {
+          "text": "any",
+          "kind": "supplied"
+        },
+        {
+          "text": " work?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.15.5",
+      "edition_verse_id": "KJV1769:EZK.15.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "Behold, when it was whole, it was meet for no work: how much less shall it be meet yet for ",
+          "kind": "text"
+        },
+        {
+          "text": "any",
+          "kind": "supplied"
+        },
+        {
+          "text": " work, when the fire hath devoured it, and it is burned?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.15.6",
+      "edition_verse_id": "KJV1769:EZK.15.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "¶ Therefore thus saith the Lord GOD; As the vine tree among the trees of the forest, which I have given to the fire for fuel, so will I give the inhabitants of Jerusalem.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EZK.15.7",
+      "edition_verse_id": "KJV1769:EZK.15.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "And I will set my face against them; they shall go out from ",
+          "kind": "text"
+        },
+        {
+          "text": "one",
+          "kind": "supplied"
+        },
+        {
+          "text": " fire, and ",
+          "kind": "text"
+        },
+        {
+          "text": "another",
+          "kind": "supplied"
+        },
+        {
+          "text": " fire shall devour them; and ye shall know that I ",
+          "kind": "text"
+        },
+        {
+          "text": "am",
+          "kind": "supplied"
+        },
+        {
+          "text": " the LORD, when I set my face against them.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.15.8",
+      "edition_verse_id": "KJV1769:EZK.15.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "And I will make the land desolate, because they have committed a trespass, saith the Lord GOD.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

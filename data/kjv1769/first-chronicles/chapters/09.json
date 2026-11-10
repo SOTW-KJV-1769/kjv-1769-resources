@@ -1,0 +1,888 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "KJV1769",
+  "book_code": "1CH",
+  "chapter": 9,
+  "verses": [
+    {
+      "id": "1CH.9.1",
+      "edition_verse_id": "KJV1769:1CH.9.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "So all Israel were reckoned by genealogies; and, behold, they ",
+          "kind": "text"
+        },
+        {
+          "text": "were",
+          "kind": "supplied"
+        },
+        {
+          "text": " written in the book of the kings of Israel and Judah, ",
+          "kind": "text"
+        },
+        {
+          "text": "who",
+          "kind": "supplied"
+        },
+        {
+          "text": " were carried away to Babylon for their transgression.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1CH.9.2",
+      "edition_verse_id": "KJV1769:1CH.9.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "¶ Now the first inhabitants that ",
+          "kind": "text"
+        },
+        {
+          "text": "dwelt",
+          "kind": "supplied"
+        },
+        {
+          "text": " in their possessions in their cities ",
+          "kind": "text"
+        },
+        {
+          "text": "were",
+          "kind": "supplied"
+        },
+        {
+          "text": ", the Israelites, the priests, Levites, and the Nethinims.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1CH.9.3",
+      "edition_verse_id": "KJV1769:1CH.9.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "And in Jerusalem dwelt of the children of Judah, and of the children of Benjamin, and of the children of Ephraim, and Manasseh;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.9.4",
+      "edition_verse_id": "KJV1769:1CH.9.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "Uthai the son of Ammihud, the son of Omri, the son of Imri, the son of Bani, of the children of Pharez the son of Judah.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.9.5",
+      "edition_verse_id": "KJV1769:1CH.9.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "And of the Shilonites; Asaiah the firstborn, and his sons.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.9.6",
+      "edition_verse_id": "KJV1769:1CH.9.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "And of the sons of Zerah; Jeuel, and their brethren, six hundred and ninety.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.9.7",
+      "edition_verse_id": "KJV1769:1CH.9.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "And of the sons of Benjamin; Sallu the son of Meshullam, the son of Hodaviah, the son of Hasenuah,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.9.8",
+      "edition_verse_id": "KJV1769:1CH.9.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "And Ibneiah the son of Jeroham, and Elah the son of Uzzi, the son of Michri, and Meshullam the son of Shephathiah, the son of Reuel, the son of Ibnijah;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.9.9",
+      "edition_verse_id": "KJV1769:1CH.9.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "And their brethren, according to their generations, nine hundred and fifty and six. All these men ",
+          "kind": "text"
+        },
+        {
+          "text": "were",
+          "kind": "supplied"
+        },
+        {
+          "text": " chief of the fathers in the house of their fathers.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.9.10",
+      "edition_verse_id": "KJV1769:1CH.9.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "¶ And of the priests; Jedaiah, and Jehoiarib, and Jachin,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1CH.9.11",
+      "edition_verse_id": "KJV1769:1CH.9.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "And Azariah the son of Hilkiah, the son of Meshullam, the son of Zadok, the son of Meraioth, the son of Ahitub, the ruler of the house of God;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.9.12",
+      "edition_verse_id": "KJV1769:1CH.9.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "And Adaiah the son of Jeroham, the son of Pashur, the son of Malchijah, and Maasiai the son of Adiel, the son of Jahzerah, the son of Meshullam, the son of Meshillemith, the son of Immer;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.9.13",
+      "edition_verse_id": "KJV1769:1CH.9.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "And their brethren, heads of the house of their fathers, a thousand and seven hundred and threescore; very able men for the work of the service of the house of God.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.9.14",
+      "edition_verse_id": "KJV1769:1CH.9.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "And of the Levites; Shemaiah the son of Hasshub, the son of Azrikam, the son of Hashabiah, of the sons of Merari;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1CH.9.15",
+      "edition_verse_id": "KJV1769:1CH.9.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "And Bakbakkar, Heresh, and Galal, and Mattaniah the son of Micah, the son of Zichri, the son of Asaph;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.9.16",
+      "edition_verse_id": "KJV1769:1CH.9.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "And Obadiah the son of Shemaiah, the son of Galal, the son of Jeduthun, and Berechiah the son of Asa, the son of Elkanah, that dwelt in the villages of the Netophathites.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.9.17",
+      "edition_verse_id": "KJV1769:1CH.9.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "And the porters ",
+          "kind": "text"
+        },
+        {
+          "text": "were",
+          "kind": "supplied"
+        },
+        {
+          "text": ", Shallum, and Akkub, and Talmon, and Ahiman, and their brethren: Shallum ",
+          "kind": "text"
+        },
+        {
+          "text": "was",
+          "kind": "supplied"
+        },
+        {
+          "text": " the chief;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.9.18",
+      "edition_verse_id": "KJV1769:1CH.9.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "Who hitherto ",
+          "kind": "text"
+        },
+        {
+          "text": "waited",
+          "kind": "supplied"
+        },
+        {
+          "text": " in the king’s gate eastward: they ",
+          "kind": "text"
+        },
+        {
+          "text": "were",
+          "kind": "supplied"
+        },
+        {
+          "text": " porters in the companies of the children of Levi.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.9.19",
+      "edition_verse_id": "KJV1769:1CH.9.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "And Shallum the son of Kore, the son of Ebiasaph, the son of Korah, and his brethren, of the house of his father, the Korahites, ",
+          "kind": "text"
+        },
+        {
+          "text": "were",
+          "kind": "supplied"
+        },
+        {
+          "text": " over the work of the service, keepers of the gates of the tabernacle: and their fathers, ",
+          "kind": "text"
+        },
+        {
+          "text": "being",
+          "kind": "supplied"
+        },
+        {
+          "text": " over the host of the LORD, ",
+          "kind": "text"
+        },
+        {
+          "text": "were",
+          "kind": "supplied"
+        },
+        {
+          "text": " keepers of the entry.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.9.20",
+      "edition_verse_id": "KJV1769:1CH.9.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "And Phinehas the son of Eleazar was the ruler over them in time past, ",
+          "kind": "text"
+        },
+        {
+          "text": "and",
+          "kind": "supplied"
+        },
+        {
+          "text": " the LORD ",
+          "kind": "text"
+        },
+        {
+          "text": "was",
+          "kind": "supplied"
+        },
+        {
+          "text": " with him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.9.21",
+      "edition_verse_id": "KJV1769:1CH.9.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "And",
+          "kind": "supplied"
+        },
+        {
+          "text": " Zechariah the son of Meshelemiah ",
+          "kind": "text"
+        },
+        {
+          "text": "was",
+          "kind": "supplied"
+        },
+        {
+          "text": " porter of the door of the tabernacle of the congregation.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.9.22",
+      "edition_verse_id": "KJV1769:1CH.9.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "All these ",
+          "kind": "text"
+        },
+        {
+          "text": "which were",
+          "kind": "supplied"
+        },
+        {
+          "text": " chosen to be porters in the gates ",
+          "kind": "text"
+        },
+        {
+          "text": "were",
+          "kind": "supplied"
+        },
+        {
+          "text": " two hundred and twelve. These were reckoned by their genealogy in their villages, whom David and Samuel the seer did ordain in their set office.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.9.23",
+      "edition_verse_id": "KJV1769:1CH.9.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "So they and their children ",
+          "kind": "text"
+        },
+        {
+          "text": "had",
+          "kind": "supplied"
+        },
+        {
+          "text": " the oversight of the gates of the house of the LORD, ",
+          "kind": "text"
+        },
+        {
+          "text": "namely",
+          "kind": "supplied"
+        },
+        {
+          "text": ", the house of the tabernacle, by wards.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.9.24",
+      "edition_verse_id": "KJV1769:1CH.9.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "In four quarters were the porters, toward the east, west, north, and south.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.9.25",
+      "edition_verse_id": "KJV1769:1CH.9.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "And their brethren, ",
+          "kind": "text"
+        },
+        {
+          "text": "which were",
+          "kind": "supplied"
+        },
+        {
+          "text": " in their villages, ",
+          "kind": "text"
+        },
+        {
+          "text": "were",
+          "kind": "supplied"
+        },
+        {
+          "text": " to come after seven days from time to time with them.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.9.26",
+      "edition_verse_id": "KJV1769:1CH.9.26",
+      "verse": 26,
+      "spans": [
+        {
+          "text": "For these Levites, the four chief porters, were in ",
+          "kind": "text"
+        },
+        {
+          "text": "their",
+          "kind": "supplied"
+        },
+        {
+          "text": " set office, and were over the chambers and treasuries of the house of God.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.9.27",
+      "edition_verse_id": "KJV1769:1CH.9.27",
+      "verse": 27,
+      "spans": [
+        {
+          "text": "¶ And they lodged round about the house of God, because the charge ",
+          "kind": "text"
+        },
+        {
+          "text": "was",
+          "kind": "supplied"
+        },
+        {
+          "text": " upon them, and the opening thereof every morning ",
+          "kind": "text"
+        },
+        {
+          "text": "pertained",
+          "kind": "supplied"
+        },
+        {
+          "text": " to them.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1CH.9.28",
+      "edition_verse_id": "KJV1769:1CH.9.28",
+      "verse": 28,
+      "spans": [
+        {
+          "text": "And ",
+          "kind": "text"
+        },
+        {
+          "text": "certain",
+          "kind": "supplied"
+        },
+        {
+          "text": " of them had the charge of the ministering vessels, that they should bring them in and out by tale.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.9.29",
+      "edition_verse_id": "KJV1769:1CH.9.29",
+      "verse": 29,
+      "spans": [
+        {
+          "text": "Some",
+          "kind": "supplied"
+        },
+        {
+          "text": " of them also ",
+          "kind": "text"
+        },
+        {
+          "text": "were",
+          "kind": "supplied"
+        },
+        {
+          "text": " appointed to oversee the vessels, and all the instruments of the sanctuary, and the fine flour, and the wine, and the oil, and the frankincense, and the spices.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.9.30",
+      "edition_verse_id": "KJV1769:1CH.9.30",
+      "verse": 30,
+      "spans": [
+        {
+          "text": "And ",
+          "kind": "text"
+        },
+        {
+          "text": "some",
+          "kind": "supplied"
+        },
+        {
+          "text": " of the sons of the priests made the ointment of the spices.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.9.31",
+      "edition_verse_id": "KJV1769:1CH.9.31",
+      "verse": 31,
+      "spans": [
+        {
+          "text": "And Mattithiah, ",
+          "kind": "text"
+        },
+        {
+          "text": "one",
+          "kind": "supplied"
+        },
+        {
+          "text": " of the Levites, who ",
+          "kind": "text"
+        },
+        {
+          "text": "was",
+          "kind": "supplied"
+        },
+        {
+          "text": " the firstborn of Shallum the Korahite, had the set office over the things that were made in the pans.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.9.32",
+      "edition_verse_id": "KJV1769:1CH.9.32",
+      "verse": 32,
+      "spans": [
+        {
+          "text": "And ",
+          "kind": "text"
+        },
+        {
+          "text": "other",
+          "kind": "supplied"
+        },
+        {
+          "text": " of their brethren, of the sons of the Kohathites, ",
+          "kind": "text"
+        },
+        {
+          "text": "were",
+          "kind": "supplied"
+        },
+        {
+          "text": " over the shewbread, to prepare ",
+          "kind": "text"
+        },
+        {
+          "text": "it",
+          "kind": "supplied"
+        },
+        {
+          "text": " every sabbath.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.9.33",
+      "edition_verse_id": "KJV1769:1CH.9.33",
+      "verse": 33,
+      "spans": [
+        {
+          "text": "And these ",
+          "kind": "text"
+        },
+        {
+          "text": "are",
+          "kind": "supplied"
+        },
+        {
+          "text": " the singers, chief of the fathers of the Levites, ",
+          "kind": "text"
+        },
+        {
+          "text": "who remaining",
+          "kind": "supplied"
+        },
+        {
+          "text": " in the chambers ",
+          "kind": "text"
+        },
+        {
+          "text": "were",
+          "kind": "supplied"
+        },
+        {
+          "text": " free: for they were employed in ",
+          "kind": "text"
+        },
+        {
+          "text": "that",
+          "kind": "supplied"
+        },
+        {
+          "text": " work day and night.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.9.34",
+      "edition_verse_id": "KJV1769:1CH.9.34",
+      "verse": 34,
+      "spans": [
+        {
+          "text": "These chief fathers of the Levites ",
+          "kind": "text"
+        },
+        {
+          "text": "were",
+          "kind": "supplied"
+        },
+        {
+          "text": " chief throughout their generations; these dwelt at Jerusalem.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.9.35",
+      "edition_verse_id": "KJV1769:1CH.9.35",
+      "verse": 35,
+      "spans": [
+        {
+          "text": "¶ And in Gibeon dwelt the father of Gibeon, Jehiel, whose wife’s name ",
+          "kind": "text"
+        },
+        {
+          "text": "was",
+          "kind": "supplied"
+        },
+        {
+          "text": " Maachah:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1CH.9.36",
+      "edition_verse_id": "KJV1769:1CH.9.36",
+      "verse": 36,
+      "spans": [
+        {
+          "text": "And his firstborn son Abdon, then Zur, and Kish, and Baal, and Ner, and Nadab,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.9.37",
+      "edition_verse_id": "KJV1769:1CH.9.37",
+      "verse": 37,
+      "spans": [
+        {
+          "text": "And Gedor, and Ahio, and Zechariah, and Mikloth.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.9.38",
+      "edition_verse_id": "KJV1769:1CH.9.38",
+      "verse": 38,
+      "spans": [
+        {
+          "text": "And Mikloth begat Shimeam. And they also dwelt with their brethren at Jerusalem, over against their brethren.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.9.39",
+      "edition_verse_id": "KJV1769:1CH.9.39",
+      "verse": 39,
+      "spans": [
+        {
+          "text": "And Ner begat Kish; and Kish begat Saul; and Saul begat Jonathan, and Malchi-shua, and Abinadab, and Esh-baal.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.9.40",
+      "edition_verse_id": "KJV1769:1CH.9.40",
+      "verse": 40,
+      "spans": [
+        {
+          "text": "And the son of Jonathan ",
+          "kind": "text"
+        },
+        {
+          "text": "was",
+          "kind": "supplied"
+        },
+        {
+          "text": " Merib-baal: and Merib-baal begat Micah.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.9.41",
+      "edition_verse_id": "KJV1769:1CH.9.41",
+      "verse": 41,
+      "spans": [
+        {
+          "text": "And the sons of Micah ",
+          "kind": "text"
+        },
+        {
+          "text": "were",
+          "kind": "supplied"
+        },
+        {
+          "text": ", Pithon, and Melech, and Tahrea, ",
+          "kind": "text"
+        },
+        {
+          "text": "and Ahaz",
+          "kind": "supplied"
+        },
+        {
+          "text": ".",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.9.42",
+      "edition_verse_id": "KJV1769:1CH.9.42",
+      "verse": 42,
+      "spans": [
+        {
+          "text": "And Ahaz begat Jarah; and Jarah begat Alemeth, and Azmaveth, and Zimri; and Zimri begat Moza;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.9.43",
+      "edition_verse_id": "KJV1769:1CH.9.43",
+      "verse": 43,
+      "spans": [
+        {
+          "text": "And Moza begat Binea; and Rephaiah his son, Eleasah his son, Azel his son.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.9.44",
+      "edition_verse_id": "KJV1769:1CH.9.44",
+      "verse": 44,
+      "spans": [
+        {
+          "text": "And Azel had six sons, whose names ",
+          "kind": "text"
+        },
+        {
+          "text": "are",
+          "kind": "supplied"
+        },
+        {
+          "text": " these, Azrikam, Bocheru, and Ishmael, and Sheariah, and Obadiah, and Hanan: these ",
+          "kind": "text"
+        },
+        {
+          "text": "were",
+          "kind": "supplied"
+        },
+        {
+          "text": " the sons of Azel.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

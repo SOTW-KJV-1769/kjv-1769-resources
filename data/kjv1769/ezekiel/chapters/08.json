@@ -1,0 +1,336 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "KJV1769",
+  "book_code": "EZK",
+  "chapter": 8,
+  "verses": [
+    {
+      "id": "EZK.8.1",
+      "edition_verse_id": "KJV1769:EZK.8.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "And it came to pass in the sixth year, in the sixth ",
+          "kind": "text"
+        },
+        {
+          "text": "month",
+          "kind": "supplied"
+        },
+        {
+          "text": ", in the fifth ",
+          "kind": "text"
+        },
+        {
+          "text": "day",
+          "kind": "supplied"
+        },
+        {
+          "text": " of the month, ",
+          "kind": "text"
+        },
+        {
+          "text": "as",
+          "kind": "supplied"
+        },
+        {
+          "text": " I sat in mine house, and the elders of Judah sat before me, that the hand of the Lord GOD fell there upon me.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EZK.8.2",
+      "edition_verse_id": "KJV1769:EZK.8.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "Then I beheld, and lo a likeness as the appearance of fire: from the appearance of his loins even downward, fire; and from his loins even upward, as the appearance of brightness, as the colour of amber.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.8.3",
+      "edition_verse_id": "KJV1769:EZK.8.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "And he put forth the form of an hand, and took me by a lock of mine head; and the spirit lifted me up between the earth and the heaven, and brought me in the visions of God to Jerusalem, to the door of the inner gate that looketh toward the north; where ",
+          "kind": "text"
+        },
+        {
+          "text": "was",
+          "kind": "supplied"
+        },
+        {
+          "text": " the seat of the image of jealousy, which provoketh to jealousy.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.8.4",
+      "edition_verse_id": "KJV1769:EZK.8.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "And, behold, the glory of the God of Israel ",
+          "kind": "text"
+        },
+        {
+          "text": "was",
+          "kind": "supplied"
+        },
+        {
+          "text": " there, according to the vision that I saw in the plain.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.8.5",
+      "edition_verse_id": "KJV1769:EZK.8.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "¶ Then said he unto me, Son of man, lift up thine eyes now the way toward the north. So I lifted up mine eyes the way toward the north, and behold northward at the gate of the altar this image of jealousy in the entry.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EZK.8.6",
+      "edition_verse_id": "KJV1769:EZK.8.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "He said furthermore unto me, Son of man, seest thou what they do? ",
+          "kind": "text"
+        },
+        {
+          "text": "even",
+          "kind": "supplied"
+        },
+        {
+          "text": " the great abominations that the house of Israel committeth here, that I should go far off from my sanctuary? but turn thee yet again, ",
+          "kind": "text"
+        },
+        {
+          "text": "and",
+          "kind": "supplied"
+        },
+        {
+          "text": " thou shalt see greater abominations.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.8.7",
+      "edition_verse_id": "KJV1769:EZK.8.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "¶ And he brought me to the door of the court; and when I looked, behold a hole in the wall.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EZK.8.8",
+      "edition_verse_id": "KJV1769:EZK.8.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "Then said he unto me, Son of man, dig now in the wall: and when I had digged in the wall, behold a door.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.8.9",
+      "edition_verse_id": "KJV1769:EZK.8.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "And he said unto me, Go in, and behold the wicked abominations that they do here.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.8.10",
+      "edition_verse_id": "KJV1769:EZK.8.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "So I went in and saw; and behold every form of creeping things, and abominable beasts, and all the idols of the house of Israel, pourtrayed upon the wall round about.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.8.11",
+      "edition_verse_id": "KJV1769:EZK.8.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "And there stood before them seventy men of the ancients of the house of Israel, and in the midst of them stood Jaazaniah the son of Shaphan, with every man his censer in his hand; and a thick cloud of incense went up.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.8.12",
+      "edition_verse_id": "KJV1769:EZK.8.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "Then said he unto me, Son of man, hast thou seen what the ancients of the house of Israel do in the dark, every man in the chambers of his imagery? for they say, The LORD seeth us not; the LORD hath forsaken the earth.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.8.13",
+      "edition_verse_id": "KJV1769:EZK.8.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "¶ He said also unto me, Turn thee yet again, ",
+          "kind": "text"
+        },
+        {
+          "text": "and",
+          "kind": "supplied"
+        },
+        {
+          "text": " thou shalt see greater abominations that they do.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EZK.8.14",
+      "edition_verse_id": "KJV1769:EZK.8.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "Then he brought me to the door of the gate of the LORD’s house which ",
+          "kind": "text"
+        },
+        {
+          "text": "was",
+          "kind": "supplied"
+        },
+        {
+          "text": " toward the north; and, behold, there sat women weeping for Tammuz.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.8.15",
+      "edition_verse_id": "KJV1769:EZK.8.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "¶ Then said he unto me, Hast thou seen ",
+          "kind": "text"
+        },
+        {
+          "text": "this",
+          "kind": "supplied"
+        },
+        {
+          "text": ", O son of man? turn thee yet again, ",
+          "kind": "text"
+        },
+        {
+          "text": "and",
+          "kind": "supplied"
+        },
+        {
+          "text": " thou shalt see greater abominations than these.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EZK.8.16",
+      "edition_verse_id": "KJV1769:EZK.8.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "And he brought me into the inner court of the LORD’s house, and, behold, at the door of the temple of the LORD, between the porch and the altar, ",
+          "kind": "text"
+        },
+        {
+          "text": "were",
+          "kind": "supplied"
+        },
+        {
+          "text": " about five and twenty men, with their backs toward the temple of the LORD, and their faces toward the east; and they worshipped the sun toward the east.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.8.17",
+      "edition_verse_id": "KJV1769:EZK.8.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "¶ Then he said unto me, Hast thou seen ",
+          "kind": "text"
+        },
+        {
+          "text": "this",
+          "kind": "supplied"
+        },
+        {
+          "text": ", O son of man? Is it a light thing to the house of Judah that they commit the abominations which they commit here? for they have filled the land with violence, and have returned to provoke me to anger: and, lo, they put the branch to their nose.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EZK.8.18",
+      "edition_verse_id": "KJV1769:EZK.8.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "Therefore will I also deal in fury: mine eye shall not spare, neither will I have pity: and though they cry in mine ears with a loud voice, ",
+          "kind": "text"
+        },
+        {
+          "text": "yet",
+          "kind": "supplied"
+        },
+        {
+          "text": " will I not hear them.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

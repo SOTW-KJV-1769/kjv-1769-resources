@@ -1,0 +1,760 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "KJV1769",
+  "book_code": "1CH",
+  "chapter": 7,
+  "verses": [
+    {
+      "id": "1CH.7.1",
+      "edition_verse_id": "KJV1769:1CH.7.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "Now the sons of Issachar ",
+          "kind": "text"
+        },
+        {
+          "text": "were",
+          "kind": "supplied"
+        },
+        {
+          "text": ", Tola, and Puah, Jashub, and Shimron, four.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1CH.7.2",
+      "edition_verse_id": "KJV1769:1CH.7.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "And the sons of Tola; Uzzi, and Rephaiah, and Jeriel, and Jahmai, and Jibsam, and Shemuel, heads of their father’s house, ",
+          "kind": "text"
+        },
+        {
+          "text": "to wit",
+          "kind": "supplied"
+        },
+        {
+          "text": ", of Tola: ",
+          "kind": "text"
+        },
+        {
+          "text": "they were",
+          "kind": "supplied"
+        },
+        {
+          "text": " valiant men of might in their generations; whose number ",
+          "kind": "text"
+        },
+        {
+          "text": "was",
+          "kind": "supplied"
+        },
+        {
+          "text": " in the days of David two and twenty thousand and six hundred.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.7.3",
+      "edition_verse_id": "KJV1769:1CH.7.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "And the sons of Uzzi; Izrahiah: and the sons of Izrahiah; Michael, and Obadiah, and Joel, Ishiah, five: all of them chief men.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.7.4",
+      "edition_verse_id": "KJV1769:1CH.7.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "And with them, by their generations, after the house of their fathers, ",
+          "kind": "text"
+        },
+        {
+          "text": "were",
+          "kind": "supplied"
+        },
+        {
+          "text": " bands of soldiers for war, six and thirty thousand ",
+          "kind": "text"
+        },
+        {
+          "text": "men:",
+          "kind": "supplied"
+        },
+        {
+          "text": " for they had many wives and sons.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.7.5",
+      "edition_verse_id": "KJV1769:1CH.7.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "And their brethren among all the families of Issachar ",
+          "kind": "text"
+        },
+        {
+          "text": "were",
+          "kind": "supplied"
+        },
+        {
+          "text": " valiant men of might, reckoned in all by their genealogies fourscore and seven thousand.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.7.6",
+      "edition_verse_id": "KJV1769:1CH.7.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "¶ ",
+          "kind": "text"
+        },
+        {
+          "text": "The sons",
+          "kind": "supplied"
+        },
+        {
+          "text": " of Benjamin; Bela, and Becher, and Jediael, three.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1CH.7.7",
+      "edition_verse_id": "KJV1769:1CH.7.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "And the sons of Bela; Ezbon, and Uzzi, and Uzziel, and Jerimoth, and Iri, five; heads of the house of ",
+          "kind": "text"
+        },
+        {
+          "text": "their",
+          "kind": "supplied"
+        },
+        {
+          "text": " fathers, mighty men of valour; and were reckoned by their genealogies twenty and two thousand and thirty and four.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.7.8",
+      "edition_verse_id": "KJV1769:1CH.7.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "And the sons of Becher; Zemira, and Joash, and Eliezer, and Elioenai, and Omri, and Jerimoth, and Abiah, and Anathoth, and Alameth. All these ",
+          "kind": "text"
+        },
+        {
+          "text": "are",
+          "kind": "supplied"
+        },
+        {
+          "text": " the sons of Becher.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.7.9",
+      "edition_verse_id": "KJV1769:1CH.7.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "And the number of them, after their genealogy by their generations, heads of the house of their fathers, mighty men of valour, ",
+          "kind": "text"
+        },
+        {
+          "text": "was",
+          "kind": "supplied"
+        },
+        {
+          "text": " twenty thousand and two hundred.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.7.10",
+      "edition_verse_id": "KJV1769:1CH.7.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "The sons also of Jediael; Bilhan: and the sons of Bilhan; Jeush, and Benjamin, and Ehud, and Chenaanah, and Zethan, and Tharshish, and Ahishahar.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.7.11",
+      "edition_verse_id": "KJV1769:1CH.7.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "All these the sons of Jediael, by the heads of their fathers, mighty men of valour, ",
+          "kind": "text"
+        },
+        {
+          "text": "were",
+          "kind": "supplied"
+        },
+        {
+          "text": " seventeen thousand and two hundred ",
+          "kind": "text"
+        },
+        {
+          "text": "soldiers",
+          "kind": "supplied"
+        },
+        {
+          "text": ", fit to go out for war ",
+          "kind": "text"
+        },
+        {
+          "text": "and",
+          "kind": "supplied"
+        },
+        {
+          "text": " battle.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.7.12",
+      "edition_verse_id": "KJV1769:1CH.7.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "Shuppim also, and Huppim, the children of Ir, ",
+          "kind": "text"
+        },
+        {
+          "text": "and",
+          "kind": "supplied"
+        },
+        {
+          "text": " Hushim, the sons of Aher.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.7.13",
+      "edition_verse_id": "KJV1769:1CH.7.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "¶ The sons of Naphtali; Jahziel, and Guni, and Jezer, and Shallum, the sons of Bilhah.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1CH.7.14",
+      "edition_verse_id": "KJV1769:1CH.7.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "¶ The sons of Manasseh; Ashriel, whom she bare: (",
+          "kind": "text"
+        },
+        {
+          "text": " but",
+          "kind": "supplied"
+        },
+        {
+          "text": " his concubine the Aramitess bare Machir the father of Gilead:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1CH.7.15",
+      "edition_verse_id": "KJV1769:1CH.7.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "And Machir took to wife ",
+          "kind": "text"
+        },
+        {
+          "text": "the sister",
+          "kind": "supplied"
+        },
+        {
+          "text": " of Huppim and Shuppim, whose sister’s name ",
+          "kind": "text"
+        },
+        {
+          "text": "was",
+          "kind": "supplied"
+        },
+        {
+          "text": " Maachah;) and the name of the second ",
+          "kind": "text"
+        },
+        {
+          "text": "was",
+          "kind": "supplied"
+        },
+        {
+          "text": " Zelophehad: and Zelophehad had daughters.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.7.16",
+      "edition_verse_id": "KJV1769:1CH.7.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "And Maachah the wife of Machir bare a son, and she called his name Peresh; and the name of his brother ",
+          "kind": "text"
+        },
+        {
+          "text": "was",
+          "kind": "supplied"
+        },
+        {
+          "text": " Sheresh; and his sons ",
+          "kind": "text"
+        },
+        {
+          "text": "were",
+          "kind": "supplied"
+        },
+        {
+          "text": " Ulam and Rakem.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.7.17",
+      "edition_verse_id": "KJV1769:1CH.7.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "And the sons of Ulam; Bedan. These ",
+          "kind": "text"
+        },
+        {
+          "text": "were",
+          "kind": "supplied"
+        },
+        {
+          "text": " the sons of Gilead, the son of Machir, the son of Manasseh.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.7.18",
+      "edition_verse_id": "KJV1769:1CH.7.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "And his sister Hammoleketh bare Ishod, and Abiezer, and Mahalah.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.7.19",
+      "edition_verse_id": "KJV1769:1CH.7.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "And the sons of Shemida were, Ahian, and Shechem, and Likhi, and Aniam.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.7.20",
+      "edition_verse_id": "KJV1769:1CH.7.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "¶ And the sons of Ephraim; Shuthelah, and Bered his son, and Tahath his son, and Eladah his son, and Tahath his son,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1CH.7.21",
+      "edition_verse_id": "KJV1769:1CH.7.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "¶ And Zabad his son, and Shuthelah his son, and Ezer, and Elead, whom the men of Gath ",
+          "kind": "text"
+        },
+        {
+          "text": "that were",
+          "kind": "supplied"
+        },
+        {
+          "text": " born in ",
+          "kind": "text"
+        },
+        {
+          "text": "that",
+          "kind": "supplied"
+        },
+        {
+          "text": " land slew, because they came down to take away their cattle.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1CH.7.22",
+      "edition_verse_id": "KJV1769:1CH.7.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "And Ephraim their father mourned many days, and his brethren came to comfort him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.7.23",
+      "edition_verse_id": "KJV1769:1CH.7.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "¶ And when he went in to his wife, she conceived, and bare a son, and he called his name Beriah, because it went evil with his house.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1CH.7.24",
+      "edition_verse_id": "KJV1769:1CH.7.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "(And his daughter ",
+          "kind": "text"
+        },
+        {
+          "text": "was",
+          "kind": "supplied"
+        },
+        {
+          "text": " Sherah, who built Beth-horon the nether, and the upper, and Uzzen-sherah.)",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.7.25",
+      "edition_verse_id": "KJV1769:1CH.7.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "And Rephah ",
+          "kind": "text"
+        },
+        {
+          "text": "was",
+          "kind": "supplied"
+        },
+        {
+          "text": " his son, also Resheph, and Telah his son, and Tahan his son,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.7.26",
+      "edition_verse_id": "KJV1769:1CH.7.26",
+      "verse": 26,
+      "spans": [
+        {
+          "text": "Laadan his son, Ammihud his son, Elishama his son,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.7.27",
+      "edition_verse_id": "KJV1769:1CH.7.27",
+      "verse": 27,
+      "spans": [
+        {
+          "text": "Non his son, Jehoshua his son.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.7.28",
+      "edition_verse_id": "KJV1769:1CH.7.28",
+      "verse": 28,
+      "spans": [
+        {
+          "text": "¶ And their possessions and habitations ",
+          "kind": "text"
+        },
+        {
+          "text": "were",
+          "kind": "supplied"
+        },
+        {
+          "text": ", Beth-el and the towns thereof, and eastward Naaran, and westward Gezer, with the towns thereof; Shechem also and the towns thereof, unto Gaza and the towns thereof:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1CH.7.29",
+      "edition_verse_id": "KJV1769:1CH.7.29",
+      "verse": 29,
+      "spans": [
+        {
+          "text": "And by the borders of the children of Manasseh, Beth-shean and her towns, Taanach and her towns, Megiddo and her towns, Dor and her towns. In these dwelt the children of Joseph the son of Israel.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.7.30",
+      "edition_verse_id": "KJV1769:1CH.7.30",
+      "verse": 30,
+      "spans": [
+        {
+          "text": "¶ The sons of Asher; Imnah, and Isuah, and Ishuai, and Beriah, and Serah their sister.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1CH.7.31",
+      "edition_verse_id": "KJV1769:1CH.7.31",
+      "verse": 31,
+      "spans": [
+        {
+          "text": "And the sons of Beriah; Heber, and Malchiel, who ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " the father of Birzavith.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.7.32",
+      "edition_verse_id": "KJV1769:1CH.7.32",
+      "verse": 32,
+      "spans": [
+        {
+          "text": "And Heber begat Japhlet, and Shomer, and Hotham, and Shua their sister.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.7.33",
+      "edition_verse_id": "KJV1769:1CH.7.33",
+      "verse": 33,
+      "spans": [
+        {
+          "text": "And the sons of Japhlet; Pasach, and Bimhal, and Ashvath. These ",
+          "kind": "text"
+        },
+        {
+          "text": "are",
+          "kind": "supplied"
+        },
+        {
+          "text": " the children of Japhlet.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.7.34",
+      "edition_verse_id": "KJV1769:1CH.7.34",
+      "verse": 34,
+      "spans": [
+        {
+          "text": "And the sons of Shamer; Ahi, and Rohgah, Jehubbah, and Aram.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.7.35",
+      "edition_verse_id": "KJV1769:1CH.7.35",
+      "verse": 35,
+      "spans": [
+        {
+          "text": "And the sons of his brother Helem; Zophah, and Imna, and Shelesh, and Amal.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.7.36",
+      "edition_verse_id": "KJV1769:1CH.7.36",
+      "verse": 36,
+      "spans": [
+        {
+          "text": "The sons of Zophah; Suah, and Harnepher, and Shual, and Beri, and Imrah,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.7.37",
+      "edition_verse_id": "KJV1769:1CH.7.37",
+      "verse": 37,
+      "spans": [
+        {
+          "text": "Bezer, and Hod, and Shamma, and Shilshah, and Ithran, and Beera.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.7.38",
+      "edition_verse_id": "KJV1769:1CH.7.38",
+      "verse": 38,
+      "spans": [
+        {
+          "text": "And the sons of Jether; Jephunneh, and Pispah, and Ara.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.7.39",
+      "edition_verse_id": "KJV1769:1CH.7.39",
+      "verse": 39,
+      "spans": [
+        {
+          "text": "And the sons of Ulla; Arah, and Haniel, and Rezia.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.7.40",
+      "edition_verse_id": "KJV1769:1CH.7.40",
+      "verse": 40,
+      "spans": [
+        {
+          "text": "All these ",
+          "kind": "text"
+        },
+        {
+          "text": "were",
+          "kind": "supplied"
+        },
+        {
+          "text": " the children of Asher, heads of ",
+          "kind": "text"
+        },
+        {
+          "text": "their",
+          "kind": "supplied"
+        },
+        {
+          "text": " father’s house, choice ",
+          "kind": "text"
+        },
+        {
+          "text": "and",
+          "kind": "supplied"
+        },
+        {
+          "text": " mighty men of valour, chief of the princes. And the number throughout the genealogy of them that were apt to the war ",
+          "kind": "text"
+        },
+        {
+          "text": "and",
+          "kind": "supplied"
+        },
+        {
+          "text": " to battle ",
+          "kind": "text"
+        },
+        {
+          "text": "was",
+          "kind": "supplied"
+        },
+        {
+          "text": " twenty and six thousand men.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

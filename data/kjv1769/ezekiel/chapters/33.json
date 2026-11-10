@@ -1,0 +1,560 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "KJV1769",
+  "book_code": "EZK",
+  "chapter": 33,
+  "verses": [
+    {
+      "id": "EZK.33.1",
+      "edition_verse_id": "KJV1769:EZK.33.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "Again the word of the LORD came unto me, saying,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EZK.33.2",
+      "edition_verse_id": "KJV1769:EZK.33.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "Son of man, speak to the children of thy people, and say unto them, When I bring the sword upon a land, if the people of the land take a man of their coasts, and set him for their watchman:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.33.3",
+      "edition_verse_id": "KJV1769:EZK.33.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "If when he seeth the sword come upon the land, he blow the trumpet, and warn the people;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.33.4",
+      "edition_verse_id": "KJV1769:EZK.33.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "Then whosoever heareth the sound of the trumpet, and taketh not warning; if the sword come, and take him away, his blood shall be upon his own head.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.33.5",
+      "edition_verse_id": "KJV1769:EZK.33.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "He heard the sound of the trumpet, and took not warning; his blood shall be upon him. But he that taketh warning shall deliver his soul.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.33.6",
+      "edition_verse_id": "KJV1769:EZK.33.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "But if the watchman see the sword come, and blow not the trumpet, and the people be not warned; if the sword come, and take ",
+          "kind": "text"
+        },
+        {
+          "text": "any",
+          "kind": "supplied"
+        },
+        {
+          "text": " person from among them, he is taken away in his iniquity; but his blood will I require at the watchman’s hand.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.33.7",
+      "edition_verse_id": "KJV1769:EZK.33.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "¶ So thou, O son of man, I have set thee a watchman unto the house of Israel; therefore thou shalt hear the word at my mouth, and warn them from me.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EZK.33.8",
+      "edition_verse_id": "KJV1769:EZK.33.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "When I say unto the wicked, O wicked ",
+          "kind": "text"
+        },
+        {
+          "text": "man",
+          "kind": "supplied"
+        },
+        {
+          "text": ", thou shalt surely die; if thou dost not speak to warn the wicked from his way, that wicked ",
+          "kind": "text"
+        },
+        {
+          "text": "man",
+          "kind": "supplied"
+        },
+        {
+          "text": " shall die in his iniquity; but his blood will I require at thine hand.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.33.9",
+      "edition_verse_id": "KJV1769:EZK.33.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "Nevertheless, if thou warn the wicked of his way to turn from it; if he do not turn from his way, he shall die in his iniquity; but thou hast delivered thy soul.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.33.10",
+      "edition_verse_id": "KJV1769:EZK.33.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "Therefore, O thou son of man, speak unto the house of Israel; Thus ye speak, saying, If our transgressions and our sins ",
+          "kind": "text"
+        },
+        {
+          "text": "be",
+          "kind": "supplied"
+        },
+        {
+          "text": " upon us, and we pine away in them, how should we then live?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EZK.33.11",
+      "edition_verse_id": "KJV1769:EZK.33.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "Say unto them, ",
+          "kind": "text"
+        },
+        {
+          "text": "As",
+          "kind": "supplied"
+        },
+        {
+          "text": " I live, saith the Lord GOD, I have no pleasure in the death of the wicked; but that the wicked turn from his way and live: turn ye, turn ye from your evil ways; for why will ye die, O house of Israel?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.33.12",
+      "edition_verse_id": "KJV1769:EZK.33.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "Therefore, thou son of man, say unto the children of thy people, The righteousness of the righteous shall not deliver him in the day of his transgression: as for the wickedness of the wicked, he shall not fall thereby in the day that he turneth from his wickedness; neither shall the righteous be able to live for his ",
+          "kind": "text"
+        },
+        {
+          "text": "righteousness",
+          "kind": "supplied"
+        },
+        {
+          "text": " in the day that he sinneth.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.33.13",
+      "edition_verse_id": "KJV1769:EZK.33.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "When I shall say to the righteous, ",
+          "kind": "text"
+        },
+        {
+          "text": "that",
+          "kind": "supplied"
+        },
+        {
+          "text": " he shall surely live; if he trust to his own righteousness, and commit iniquity, all his righteousnesses shall not be remembered; but for his iniquity that he hath committed, he shall die for it.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.33.14",
+      "edition_verse_id": "KJV1769:EZK.33.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "Again, when I say unto the wicked, Thou shalt surely die; if he turn from his sin, and do that which is lawful and right;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.33.15",
+      "edition_verse_id": "KJV1769:EZK.33.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "If",
+          "kind": "supplied"
+        },
+        {
+          "text": " the wicked restore the pledge, give again that he had robbed, walk in the statutes of life, without committing iniquity; he shall surely live, he shall not die.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.33.16",
+      "edition_verse_id": "KJV1769:EZK.33.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "None of his sins that he hath committed shall be mentioned unto him: he hath done that which is lawful and right; he shall surely live.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.33.17",
+      "edition_verse_id": "KJV1769:EZK.33.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "¶ Yet the children of thy people say, The way of the Lord is not equal: but as for them, their way is not equal.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EZK.33.18",
+      "edition_verse_id": "KJV1769:EZK.33.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "When the righteous turneth from his righteousness, and committeth iniquity, he shall even die thereby.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.33.19",
+      "edition_verse_id": "KJV1769:EZK.33.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "But if the wicked turn from his wickedness, and do that which is lawful and right, he shall live thereby.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.33.20",
+      "edition_verse_id": "KJV1769:EZK.33.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "¶ Yet ye say, The way of the Lord is not equal. O ye house of Israel, I will judge you every one after his ways.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EZK.33.21",
+      "edition_verse_id": "KJV1769:EZK.33.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "¶ And it came to pass in the twelfth year of our captivity, in the tenth ",
+          "kind": "text"
+        },
+        {
+          "text": "month",
+          "kind": "supplied"
+        },
+        {
+          "text": ", in the fifth ",
+          "kind": "text"
+        },
+        {
+          "text": "day",
+          "kind": "supplied"
+        },
+        {
+          "text": " of the month, ",
+          "kind": "text"
+        },
+        {
+          "text": "that",
+          "kind": "supplied"
+        },
+        {
+          "text": " one that had escaped out of Jerusalem came unto me, saying, The city is smitten.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EZK.33.22",
+      "edition_verse_id": "KJV1769:EZK.33.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "Now the hand of the LORD was upon me in the evening, afore he that was escaped came; and had opened my mouth, until he came to me in the morning; and my mouth was opened, and I was no more dumb.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.33.23",
+      "edition_verse_id": "KJV1769:EZK.33.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "Then the word of the LORD came unto me, saying,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.33.24",
+      "edition_verse_id": "KJV1769:EZK.33.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "Son of man, they that inhabit those wastes of the land of Israel speak, saying, Abraham was one, and he inherited the land: but we ",
+          "kind": "text"
+        },
+        {
+          "text": "are",
+          "kind": "supplied"
+        },
+        {
+          "text": " many; the land is given us for inheritance.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.33.25",
+      "edition_verse_id": "KJV1769:EZK.33.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "Wherefore say unto them, Thus saith the Lord GOD; Ye eat with the blood, and lift up your eyes toward your idols, and shed blood: and shall ye possess the land?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.33.26",
+      "edition_verse_id": "KJV1769:EZK.33.26",
+      "verse": 26,
+      "spans": [
+        {
+          "text": "Ye stand upon your sword, ye work abomination, and ye defile every one his neighbour’s wife: and shall ye possess the land?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.33.27",
+      "edition_verse_id": "KJV1769:EZK.33.27",
+      "verse": 27,
+      "spans": [
+        {
+          "text": "Say thou thus unto them, Thus saith the Lord GOD; ",
+          "kind": "text"
+        },
+        {
+          "text": "As",
+          "kind": "supplied"
+        },
+        {
+          "text": " I live, surely they that ",
+          "kind": "text"
+        },
+        {
+          "text": "are",
+          "kind": "supplied"
+        },
+        {
+          "text": " in the wastes shall fall by the sword, and him that ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " in the open field will I give to the beasts to be devoured, and they that ",
+          "kind": "text"
+        },
+        {
+          "text": "be",
+          "kind": "supplied"
+        },
+        {
+          "text": " in the forts and in the caves shall die of the pestilence.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.33.28",
+      "edition_verse_id": "KJV1769:EZK.33.28",
+      "verse": 28,
+      "spans": [
+        {
+          "text": "For I will lay the land most desolate, and the pomp of her strength shall cease; and the mountains of Israel shall be desolate, that none shall pass through.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.33.29",
+      "edition_verse_id": "KJV1769:EZK.33.29",
+      "verse": 29,
+      "spans": [
+        {
+          "text": "Then shall they know that I ",
+          "kind": "text"
+        },
+        {
+          "text": "am",
+          "kind": "supplied"
+        },
+        {
+          "text": " the LORD, when I have laid the land most desolate because of all their abominations which they have committed.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.33.30",
+      "edition_verse_id": "KJV1769:EZK.33.30",
+      "verse": 30,
+      "spans": [
+        {
+          "text": "¶ Also, thou son of man, the children of thy people still are talking against thee by the walls and in the doors of the houses, and speak one to another, every one to his brother, saying, Come, I pray you, and hear what is the word that cometh forth from the LORD.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EZK.33.31",
+      "edition_verse_id": "KJV1769:EZK.33.31",
+      "verse": 31,
+      "spans": [
+        {
+          "text": "And they come unto thee as the people cometh, and they sit before thee ",
+          "kind": "text"
+        },
+        {
+          "text": "as",
+          "kind": "supplied"
+        },
+        {
+          "text": " my people, and they hear thy words, but they will not do them: for with their mouth they shew much love, ",
+          "kind": "text"
+        },
+        {
+          "text": "but",
+          "kind": "supplied"
+        },
+        {
+          "text": " their heart goeth after their covetousness.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.33.32",
+      "edition_verse_id": "KJV1769:EZK.33.32",
+      "verse": 32,
+      "spans": [
+        {
+          "text": "And, lo, thou ",
+          "kind": "text"
+        },
+        {
+          "text": "art",
+          "kind": "supplied"
+        },
+        {
+          "text": " unto them as a very lovely song of one that hath a pleasant voice, and can play well on an instrument: for they hear thy words, but they do them not.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.33.33",
+      "edition_verse_id": "KJV1769:EZK.33.33",
+      "verse": 33,
+      "spans": [
+        {
+          "text": "And when this cometh to pass, (lo, it will come,) then shall they know that a prophet hath been among them.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

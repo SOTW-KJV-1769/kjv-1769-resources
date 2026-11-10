@@ -1,0 +1,560 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "KJV1769",
+  "book_code": "EZR",
+  "chapter": 7,
+  "verses": [
+    {
+      "id": "EZR.7.1",
+      "edition_verse_id": "KJV1769:EZR.7.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "Now after these things, in the reign of Artaxerxes king of Persia, Ezra the son of Seraiah, the son of Azariah, the son of Hilkiah,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EZR.7.2",
+      "edition_verse_id": "KJV1769:EZR.7.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "The son of Shallum, the son of Zadok, the son of Ahitub,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZR.7.3",
+      "edition_verse_id": "KJV1769:EZR.7.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "The son of Amariah, the son of Azariah, the son of Meraioth,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZR.7.4",
+      "edition_verse_id": "KJV1769:EZR.7.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "The son of Zerahiah, the son of Uzzi, the son of Bukki,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZR.7.5",
+      "edition_verse_id": "KJV1769:EZR.7.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "The son of Abishua, the son of Phinehas, the son of Eleazar, the son of Aaron the chief priest:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZR.7.6",
+      "edition_verse_id": "KJV1769:EZR.7.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "This Ezra went up from Babylon; and he ",
+          "kind": "text"
+        },
+        {
+          "text": "was",
+          "kind": "supplied"
+        },
+        {
+          "text": " a ready scribe in the law of Moses, which the LORD God of Israel had given: and the king granted him all his request, according to the hand of the LORD his God upon him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZR.7.7",
+      "edition_verse_id": "KJV1769:EZR.7.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "And there went up ",
+          "kind": "text"
+        },
+        {
+          "text": "some",
+          "kind": "supplied"
+        },
+        {
+          "text": " of the children of Israel, and of the priests, and the Levites, and the singers, and the porters, and the Nethinims, unto Jerusalem, in the seventh year of Artaxerxes the king.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZR.7.8",
+      "edition_verse_id": "KJV1769:EZR.7.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "And he came to Jerusalem in the fifth month, which ",
+          "kind": "text"
+        },
+        {
+          "text": "was",
+          "kind": "supplied"
+        },
+        {
+          "text": " in the seventh year of the king.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZR.7.9",
+      "edition_verse_id": "KJV1769:EZR.7.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "For upon the first ",
+          "kind": "text"
+        },
+        {
+          "text": "day",
+          "kind": "supplied"
+        },
+        {
+          "text": " of the first month began he to go up from Babylon, and on the first ",
+          "kind": "text"
+        },
+        {
+          "text": "day",
+          "kind": "supplied"
+        },
+        {
+          "text": " of the fifth month came he to Jerusalem, according to the good hand of his God upon him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZR.7.10",
+      "edition_verse_id": "KJV1769:EZR.7.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "For Ezra had prepared his heart to seek the law of the LORD, and to do ",
+          "kind": "text"
+        },
+        {
+          "text": "it",
+          "kind": "supplied"
+        },
+        {
+          "text": ", and to teach in Israel statutes and judgments.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZR.7.11",
+      "edition_verse_id": "KJV1769:EZR.7.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "¶ Now this ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " the copy of the letter that the king Artaxerxes gave unto Ezra the priest, the scribe, ",
+          "kind": "text"
+        },
+        {
+          "text": "even",
+          "kind": "supplied"
+        },
+        {
+          "text": " a scribe of the words of the commandments of the LORD, and of his statutes to Israel.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EZR.7.12",
+      "edition_verse_id": "KJV1769:EZR.7.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "Artaxerxes, king of kings, unto Ezra the priest, a scribe of the law of the God of heaven, perfect ",
+          "kind": "text"
+        },
+        {
+          "text": "peace",
+          "kind": "supplied"
+        },
+        {
+          "text": ", and at such a time.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZR.7.13",
+      "edition_verse_id": "KJV1769:EZR.7.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "I make a decree, that all they of the people of Israel, and ",
+          "kind": "text"
+        },
+        {
+          "text": "of",
+          "kind": "supplied"
+        },
+        {
+          "text": " his priests and Levites, in my realm, which are minded of their own freewill to go up to Jerusalem, go with thee.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZR.7.14",
+      "edition_verse_id": "KJV1769:EZR.7.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "Forasmuch as thou art sent of the king, and of his seven counsellors, to enquire concerning Judah and Jerusalem, according to the law of thy God which ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " in thine hand;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZR.7.15",
+      "edition_verse_id": "KJV1769:EZR.7.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "And to carry the silver and gold, which the king and his counsellors have freely offered unto the God of Israel, whose habitation ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " in Jerusalem,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZR.7.16",
+      "edition_verse_id": "KJV1769:EZR.7.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "And all the silver and gold that thou canst find in all the province of Babylon, with the freewill offering of the people, and of the priests, offering willingly for the house of their God which ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " in Jerusalem:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZR.7.17",
+      "edition_verse_id": "KJV1769:EZR.7.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "That thou mayest buy speedily with this money bullocks, rams, lambs, with their meat offerings and their drink offerings, and offer them upon the altar of the house of your God which ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " in Jerusalem.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZR.7.18",
+      "edition_verse_id": "KJV1769:EZR.7.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "And whatsoever shall seem good to thee, and to thy brethren, to do with the rest of the silver and the gold, that do after the will of your God.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZR.7.19",
+      "edition_verse_id": "KJV1769:EZR.7.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "The vessels also that are given thee for the service of the house of thy God, ",
+          "kind": "text"
+        },
+        {
+          "text": "those",
+          "kind": "supplied"
+        },
+        {
+          "text": " deliver thou before the God of Jerusalem.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZR.7.20",
+      "edition_verse_id": "KJV1769:EZR.7.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "And whatsoever more shall be needful for the house of thy God, which thou shalt have occasion to bestow, bestow ",
+          "kind": "text"
+        },
+        {
+          "text": "it",
+          "kind": "supplied"
+        },
+        {
+          "text": " out of the king’s treasure house.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZR.7.21",
+      "edition_verse_id": "KJV1769:EZR.7.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "And I, ",
+          "kind": "text"
+        },
+        {
+          "text": "even",
+          "kind": "supplied"
+        },
+        {
+          "text": " I Artaxerxes the king, do make a decree to all the treasurers which ",
+          "kind": "text"
+        },
+        {
+          "text": "are",
+          "kind": "supplied"
+        },
+        {
+          "text": " beyond the river, that whatsoever Ezra the priest, the scribe of the law of the God of heaven, shall require of you, it be done speedily,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZR.7.22",
+      "edition_verse_id": "KJV1769:EZR.7.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "Unto an hundred talents of silver, and to an hundred measures of wheat, and to an hundred baths of wine, and to an hundred baths of oil, and salt without prescribing ",
+          "kind": "text"
+        },
+        {
+          "text": "how much",
+          "kind": "supplied"
+        },
+        {
+          "text": ".",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZR.7.23",
+      "edition_verse_id": "KJV1769:EZR.7.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "Whatsoever is commanded by the God of heaven, let it be diligently done for the house of the God of heaven: for why should there be wrath against the realm of the king and his sons?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZR.7.24",
+      "edition_verse_id": "KJV1769:EZR.7.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "Also we certify you, that touching any of the priests and Levites, singers, porters, Nethinims, or ministers of this house of God, it shall not be lawful to impose toll, tribute, or custom, upon them.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZR.7.25",
+      "edition_verse_id": "KJV1769:EZR.7.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "And thou, Ezra, after the wisdom of thy God, that ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " in thine hand, set magistrates and judges, which may judge all the people that ",
+          "kind": "text"
+        },
+        {
+          "text": "are",
+          "kind": "supplied"
+        },
+        {
+          "text": " beyond the river, all such as know the laws of thy God; and teach ye them that know ",
+          "kind": "text"
+        },
+        {
+          "text": "them",
+          "kind": "supplied"
+        },
+        {
+          "text": " not.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZR.7.26",
+      "edition_verse_id": "KJV1769:EZR.7.26",
+      "verse": 26,
+      "spans": [
+        {
+          "text": "And whosoever will not do the law of thy God, and the law of the king, let judgment be executed speedily upon him, whether ",
+          "kind": "text"
+        },
+        {
+          "text": "it be",
+          "kind": "supplied"
+        },
+        {
+          "text": " unto death, or to banishment, or to confiscation of goods, or to imprisonment.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZR.7.27",
+      "edition_verse_id": "KJV1769:EZR.7.27",
+      "verse": 27,
+      "spans": [
+        {
+          "text": "¶ Blessed ",
+          "kind": "text"
+        },
+        {
+          "text": "be",
+          "kind": "supplied"
+        },
+        {
+          "text": " the LORD God of our fathers, which hath put ",
+          "kind": "text"
+        },
+        {
+          "text": "such a thing",
+          "kind": "supplied"
+        },
+        {
+          "text": " as this in the king’s heart, to beautify the house of the LORD which ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " in Jerusalem:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EZR.7.28",
+      "edition_verse_id": "KJV1769:EZR.7.28",
+      "verse": 28,
+      "spans": [
+        {
+          "text": "And hath extended mercy unto me before the king, and his counsellors, and before all the king’s mighty princes. And I was strengthened as the hand of the LORD my God ",
+          "kind": "text"
+        },
+        {
+          "text": "was",
+          "kind": "supplied"
+        },
+        {
+          "text": " upon me, and I gathered together out of Israel chief men to go up with me.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

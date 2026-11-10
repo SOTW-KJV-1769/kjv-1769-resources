@@ -1,0 +1,852 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "KJV1769",
+  "book_code": "1CH",
+  "chapter": 2,
+  "verses": [
+    {
+      "id": "1CH.2.1",
+      "edition_verse_id": "KJV1769:1CH.2.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "These ",
+          "kind": "text"
+        },
+        {
+          "text": "are",
+          "kind": "supplied"
+        },
+        {
+          "text": " the sons of Israel; Reuben, Simeon, Levi, and Judah, Issachar, and Zebulun,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1CH.2.2",
+      "edition_verse_id": "KJV1769:1CH.2.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "Dan, Joseph, and Benjamin, Naphtali, Gad, and Asher.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.2.3",
+      "edition_verse_id": "KJV1769:1CH.2.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "¶ The sons of Judah; Er, and Onan, and Shelah: ",
+          "kind": "text"
+        },
+        {
+          "text": "which",
+          "kind": "supplied"
+        },
+        {
+          "text": " three were born unto him of the daughter of Shua the Canaanitess. And Er, the firstborn of Judah, was evil in the sight of the LORD; and he slew him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1CH.2.4",
+      "edition_verse_id": "KJV1769:1CH.2.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "And Tamar his daughter in law bare him Pharez and Zerah. All the sons of Judah ",
+          "kind": "text"
+        },
+        {
+          "text": "were",
+          "kind": "supplied"
+        },
+        {
+          "text": " five.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.2.5",
+      "edition_verse_id": "KJV1769:1CH.2.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "The sons of Pharez; Hezron, and Hamul.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.2.6",
+      "edition_verse_id": "KJV1769:1CH.2.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "And the sons of Zerah; Zimri, and Ethan, and Heman, and Calcol, and Dara: five of them in all.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.2.7",
+      "edition_verse_id": "KJV1769:1CH.2.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "And the sons of Carmi; Achar, the troubler of Israel, who transgressed in the thing accursed.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.2.8",
+      "edition_verse_id": "KJV1769:1CH.2.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "And the sons of Ethan; Azariah.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.2.9",
+      "edition_verse_id": "KJV1769:1CH.2.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "The sons also of Hezron, that were born unto him; Jerahmeel, and Ram, and Chelubai.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.2.10",
+      "edition_verse_id": "KJV1769:1CH.2.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "And Ram begat Amminadab; and Amminadab begat Nahshon, prince of the children of Judah;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.2.11",
+      "edition_verse_id": "KJV1769:1CH.2.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "And Nahshon begat Salma, and Salma begat Boaz,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.2.12",
+      "edition_verse_id": "KJV1769:1CH.2.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "And Boaz begat Obed, and Obed begat Jesse,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.2.13",
+      "edition_verse_id": "KJV1769:1CH.2.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "¶ And Jesse begat his firstborn Eliab, and Abinadab the second, and Shimma the third,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1CH.2.14",
+      "edition_verse_id": "KJV1769:1CH.2.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "Nethaneel the fourth, Raddai the fifth,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.2.15",
+      "edition_verse_id": "KJV1769:1CH.2.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "Ozem the sixth, David the seventh:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.2.16",
+      "edition_verse_id": "KJV1769:1CH.2.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "Whose sisters ",
+          "kind": "text"
+        },
+        {
+          "text": "were",
+          "kind": "supplied"
+        },
+        {
+          "text": " Zeruiah, and Abigail. And the sons of Zeruiah; Abishai, and Joab, and Asahel, three.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.2.17",
+      "edition_verse_id": "KJV1769:1CH.2.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "And Abigail bare Amasa: and the father of Amasa ",
+          "kind": "text"
+        },
+        {
+          "text": "was",
+          "kind": "supplied"
+        },
+        {
+          "text": " Jether the Ishmeelite.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.2.18",
+      "edition_verse_id": "KJV1769:1CH.2.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "¶ And Caleb the son of Hezron begat ",
+          "kind": "text"
+        },
+        {
+          "text": "children",
+          "kind": "supplied"
+        },
+        {
+          "text": " of Azubah ",
+          "kind": "text"
+        },
+        {
+          "text": "his",
+          "kind": "supplied"
+        },
+        {
+          "text": " wife, and of Jerioth: her sons ",
+          "kind": "text"
+        },
+        {
+          "text": "are",
+          "kind": "supplied"
+        },
+        {
+          "text": " these; Jesher, and Shobab, and Ardon.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1CH.2.19",
+      "edition_verse_id": "KJV1769:1CH.2.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "And when Azubah was dead, Caleb took unto him Ephrath, which bare him Hur.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.2.20",
+      "edition_verse_id": "KJV1769:1CH.2.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "And Hur begat Uri, and Uri begat Bezaleel.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.2.21",
+      "edition_verse_id": "KJV1769:1CH.2.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "¶ And afterward Hezron went in to the daughter of Machir the father of Gilead, whom he married when he ",
+          "kind": "text"
+        },
+        {
+          "text": "was",
+          "kind": "supplied"
+        },
+        {
+          "text": " threescore years old; and she bare him Segub.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1CH.2.22",
+      "edition_verse_id": "KJV1769:1CH.2.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "And Segub begat Jair, who had three and twenty cities in the land of Gilead.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.2.23",
+      "edition_verse_id": "KJV1769:1CH.2.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "And he took Geshur, and Aram, with the towns of Jair, from them, with Kenath, and the towns thereof, ",
+          "kind": "text"
+        },
+        {
+          "text": "even",
+          "kind": "supplied"
+        },
+        {
+          "text": " threescore cities. All these ",
+          "kind": "text"
+        },
+        {
+          "text": "belonged to",
+          "kind": "supplied"
+        },
+        {
+          "text": " the sons of Machir the father of Gilead.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.2.24",
+      "edition_verse_id": "KJV1769:1CH.2.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "And after that Hezron was dead in Caleb-ephratah, then Abiah Hezron’s wife bare him Ashur the father of Tekoa.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.2.25",
+      "edition_verse_id": "KJV1769:1CH.2.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "¶ And the sons of Jerahmeel the firstborn of Hezron were, Ram the firstborn, and Bunah, and Oren, and Ozem, ",
+          "kind": "text"
+        },
+        {
+          "text": "and",
+          "kind": "supplied"
+        },
+        {
+          "text": " Ahijah.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1CH.2.26",
+      "edition_verse_id": "KJV1769:1CH.2.26",
+      "verse": 26,
+      "spans": [
+        {
+          "text": "Jerahmeel had also another wife, whose name ",
+          "kind": "text"
+        },
+        {
+          "text": "was",
+          "kind": "supplied"
+        },
+        {
+          "text": " Atarah; she ",
+          "kind": "text"
+        },
+        {
+          "text": "was",
+          "kind": "supplied"
+        },
+        {
+          "text": " the mother of Onam.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.2.27",
+      "edition_verse_id": "KJV1769:1CH.2.27",
+      "verse": 27,
+      "spans": [
+        {
+          "text": "And the sons of Ram the firstborn of Jerahmeel were, Maaz, and Jamin, and Eker.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.2.28",
+      "edition_verse_id": "KJV1769:1CH.2.28",
+      "verse": 28,
+      "spans": [
+        {
+          "text": "And the sons of Onam were, Shammai, and Jada. And the sons of Shammai; Nadab, and Abishur.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.2.29",
+      "edition_verse_id": "KJV1769:1CH.2.29",
+      "verse": 29,
+      "spans": [
+        {
+          "text": "And the name of the wife of Abishur ",
+          "kind": "text"
+        },
+        {
+          "text": "was",
+          "kind": "supplied"
+        },
+        {
+          "text": " Abihail, and she bare him Ahban, and Molid.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.2.30",
+      "edition_verse_id": "KJV1769:1CH.2.30",
+      "verse": 30,
+      "spans": [
+        {
+          "text": "And the sons of Nadab; Seled, and Appaim: but Seled died without children.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.2.31",
+      "edition_verse_id": "KJV1769:1CH.2.31",
+      "verse": 31,
+      "spans": [
+        {
+          "text": "And the sons of Appaim; Ishi. And the sons of Ishi; Sheshan. And the children of Sheshan; Ahlai.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.2.32",
+      "edition_verse_id": "KJV1769:1CH.2.32",
+      "verse": 32,
+      "spans": [
+        {
+          "text": "And the sons of Jada the brother of Shammai; Jether, and Jonathan: and Jether died without children.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.2.33",
+      "edition_verse_id": "KJV1769:1CH.2.33",
+      "verse": 33,
+      "spans": [
+        {
+          "text": "And the sons of Jonathan; Peleth, and Zaza. These were the sons of Jerahmeel.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.2.34",
+      "edition_verse_id": "KJV1769:1CH.2.34",
+      "verse": 34,
+      "spans": [
+        {
+          "text": "¶ Now Sheshan had no sons, but daughters. And Sheshan had a servant, an Egyptian, whose name ",
+          "kind": "text"
+        },
+        {
+          "text": "was",
+          "kind": "supplied"
+        },
+        {
+          "text": " Jarha.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1CH.2.35",
+      "edition_verse_id": "KJV1769:1CH.2.35",
+      "verse": 35,
+      "spans": [
+        {
+          "text": "And Sheshan gave his daughter to Jarha his servant to wife; and she bare him Attai.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.2.36",
+      "edition_verse_id": "KJV1769:1CH.2.36",
+      "verse": 36,
+      "spans": [
+        {
+          "text": "And Attai begat Nathan, and Nathan begat Zabad,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.2.37",
+      "edition_verse_id": "KJV1769:1CH.2.37",
+      "verse": 37,
+      "spans": [
+        {
+          "text": "And Zabad begat Ephlal, and Ephlal begat Obed,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.2.38",
+      "edition_verse_id": "KJV1769:1CH.2.38",
+      "verse": 38,
+      "spans": [
+        {
+          "text": "And Obed begat Jehu, and Jehu begat Azariah,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.2.39",
+      "edition_verse_id": "KJV1769:1CH.2.39",
+      "verse": 39,
+      "spans": [
+        {
+          "text": "And Azariah begat Helez, and Helez begat Eleasah,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.2.40",
+      "edition_verse_id": "KJV1769:1CH.2.40",
+      "verse": 40,
+      "spans": [
+        {
+          "text": "And Eleasah begat Sisamai, and Sisamai begat Shallum,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.2.41",
+      "edition_verse_id": "KJV1769:1CH.2.41",
+      "verse": 41,
+      "spans": [
+        {
+          "text": "And Shallum begat Jekamiah, and Jekamiah begat Elishama.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.2.42",
+      "edition_verse_id": "KJV1769:1CH.2.42",
+      "verse": 42,
+      "spans": [
+        {
+          "text": "¶ Now the sons of Caleb the brother of Jerahmeel ",
+          "kind": "text"
+        },
+        {
+          "text": "were",
+          "kind": "supplied"
+        },
+        {
+          "text": ", Mesha his firstborn, which was the father of Ziph; and the sons of Mareshah the father of Hebron.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1CH.2.43",
+      "edition_verse_id": "KJV1769:1CH.2.43",
+      "verse": 43,
+      "spans": [
+        {
+          "text": "And the sons of Hebron; Korah, and Tappuah, and Rekem, and Shema.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.2.44",
+      "edition_verse_id": "KJV1769:1CH.2.44",
+      "verse": 44,
+      "spans": [
+        {
+          "text": "And Shema begat Raham, the father of Jorkoam: and Rekem begat Shammai.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.2.45",
+      "edition_verse_id": "KJV1769:1CH.2.45",
+      "verse": 45,
+      "spans": [
+        {
+          "text": "And the son of Shammai ",
+          "kind": "text"
+        },
+        {
+          "text": "was",
+          "kind": "supplied"
+        },
+        {
+          "text": " Maon: and Maon ",
+          "kind": "text"
+        },
+        {
+          "text": "was",
+          "kind": "supplied"
+        },
+        {
+          "text": " the father of Beth-zur.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.2.46",
+      "edition_verse_id": "KJV1769:1CH.2.46",
+      "verse": 46,
+      "spans": [
+        {
+          "text": "And Ephah, Caleb’s concubine, bare Haran, and Moza, and Gazez: and Haran begat Gazez.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.2.47",
+      "edition_verse_id": "KJV1769:1CH.2.47",
+      "verse": 47,
+      "spans": [
+        {
+          "text": "And the sons of Jahdai; Regem, and Jotham, and Geshan, and Pelet, and Ephah, and Shaaph.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.2.48",
+      "edition_verse_id": "KJV1769:1CH.2.48",
+      "verse": 48,
+      "spans": [
+        {
+          "text": "Maachah, Caleb’s concubine, bare Sheber, and Tirhanah.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.2.49",
+      "edition_verse_id": "KJV1769:1CH.2.49",
+      "verse": 49,
+      "spans": [
+        {
+          "text": "She bare also Shaaph the father of Madmannah, Sheva the father of Machbenah, and the father of Gibea: and the daughter of Caleb ",
+          "kind": "text"
+        },
+        {
+          "text": "was",
+          "kind": "supplied"
+        },
+        {
+          "text": " Achsah.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.2.50",
+      "edition_verse_id": "KJV1769:1CH.2.50",
+      "verse": 50,
+      "spans": [
+        {
+          "text": "¶ These were the sons of Caleb the son of Hur, the firstborn of Ephratah; Shobal the father of Kirjath-jearim,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1CH.2.51",
+      "edition_verse_id": "KJV1769:1CH.2.51",
+      "verse": 51,
+      "spans": [
+        {
+          "text": "Salma the father of Beth-lehem, Hareph the father of Beth-gader.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.2.52",
+      "edition_verse_id": "KJV1769:1CH.2.52",
+      "verse": 52,
+      "spans": [
+        {
+          "text": "And Shobal the father of Kirjath-jearim had sons; Haroeh, ",
+          "kind": "text"
+        },
+        {
+          "text": "and",
+          "kind": "supplied"
+        },
+        {
+          "text": " half of the Manahethites.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.2.53",
+      "edition_verse_id": "KJV1769:1CH.2.53",
+      "verse": 53,
+      "spans": [
+        {
+          "text": "And the families of Kirjath-jearim; the Ithrites, and the Puhites, and the Shumathites, and the Mishraites; of them came the Zareathites, and the Eshtaulites.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.2.54",
+      "edition_verse_id": "KJV1769:1CH.2.54",
+      "verse": 54,
+      "spans": [
+        {
+          "text": "The sons of Salma; Beth-lehem, and the Netophathites, Ataroth, the house of Joab, and half of the Manahethites, the Zorites.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.2.55",
+      "edition_verse_id": "KJV1769:1CH.2.55",
+      "verse": 55,
+      "spans": [
+        {
+          "text": "And the families of the scribes which dwelt at Jabez; the Tirathites, the Shimeathites, ",
+          "kind": "text"
+        },
+        {
+          "text": "and",
+          "kind": "supplied"
+        },
+        {
+          "text": " Suchathites. These ",
+          "kind": "text"
+        },
+        {
+          "text": "are",
+          "kind": "supplied"
+        },
+        {
+          "text": " the Kenites that came of Hemath, the father of the house of Rechab.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

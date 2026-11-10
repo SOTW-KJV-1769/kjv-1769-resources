@@ -1,0 +1,612 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "KJV1769",
+  "book_code": "EZR",
+  "chapter": 8,
+  "verses": [
+    {
+      "id": "EZR.8.1",
+      "edition_verse_id": "KJV1769:EZR.8.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "These ",
+          "kind": "text"
+        },
+        {
+          "text": "are",
+          "kind": "supplied"
+        },
+        {
+          "text": " now the chief of their fathers, and ",
+          "kind": "text"
+        },
+        {
+          "text": "this is",
+          "kind": "supplied"
+        },
+        {
+          "text": " the genealogy of them that went up with me from Babylon, in the reign of Artaxerxes the king.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EZR.8.2",
+      "edition_verse_id": "KJV1769:EZR.8.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "Of the sons of Phinehas; Gershom: of the sons of Ithamar; Daniel: of the sons of David; Hattush.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZR.8.3",
+      "edition_verse_id": "KJV1769:EZR.8.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "Of the sons of Shechaniah, of the sons of Pharosh; Zechariah: and with him were reckoned by genealogy of the males an hundred and fifty.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZR.8.4",
+      "edition_verse_id": "KJV1769:EZR.8.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "Of the sons of Pahath-moab; Elihoenai the son of Zerahiah, and with him two hundred males.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZR.8.5",
+      "edition_verse_id": "KJV1769:EZR.8.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "Of the sons of Shechaniah; the son of Jahaziel, and with him three hundred males.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZR.8.6",
+      "edition_verse_id": "KJV1769:EZR.8.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "Of the sons also of Adin; Ebed the son of Jonathan, and with him fifty males.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZR.8.7",
+      "edition_verse_id": "KJV1769:EZR.8.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "And of the sons of Elam; Jeshaiah the son of Athaliah, and with him seventy males.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZR.8.8",
+      "edition_verse_id": "KJV1769:EZR.8.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "And of the sons of Shephatiah; Zebadiah the son of Michael, and with him fourscore males.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZR.8.9",
+      "edition_verse_id": "KJV1769:EZR.8.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "Of the sons of Joab; Obadiah the son of Jehiel, and with him two hundred and eighteen males.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZR.8.10",
+      "edition_verse_id": "KJV1769:EZR.8.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "And of the sons of Shelomith; the son of Josiphiah, and with him an hundred and threescore males.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZR.8.11",
+      "edition_verse_id": "KJV1769:EZR.8.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "And of the sons of Bebai; Zechariah the son of Bebai, and with him twenty and eight males.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZR.8.12",
+      "edition_verse_id": "KJV1769:EZR.8.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "And of the sons of Azgad; Johanan the son of Hakkatan, and with him an hundred and ten males.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZR.8.13",
+      "edition_verse_id": "KJV1769:EZR.8.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "And of the last sons of Adonikam, whose names ",
+          "kind": "text"
+        },
+        {
+          "text": "are",
+          "kind": "supplied"
+        },
+        {
+          "text": " these, Eliphelet, Jeiel, and Shemaiah, and with them threescore males.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZR.8.14",
+      "edition_verse_id": "KJV1769:EZR.8.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "Of the sons also of Bigvai; Uthai, and Zabbud, and with them seventy males.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZR.8.15",
+      "edition_verse_id": "KJV1769:EZR.8.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "¶ And I gathered them together to the river that runneth to Ahava; and there abode we in tents three days: and I viewed the people, and the priests, and found there none of the sons of Levi.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EZR.8.16",
+      "edition_verse_id": "KJV1769:EZR.8.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "Then sent I for Eliezer, for Ariel, for Shemaiah, and for Elnathan, and for Jarib, and for Elnathan, and for Nathan, and for Zechariah, and for Meshullam, chief men; also for Joiarib, and for Elnathan, men of understanding.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZR.8.17",
+      "edition_verse_id": "KJV1769:EZR.8.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "And I sent them with commandment unto Iddo the chief at the place Casiphia, and I told them what they should say unto Iddo, ",
+          "kind": "text"
+        },
+        {
+          "text": "and",
+          "kind": "supplied"
+        },
+        {
+          "text": " to his brethren the Nethinims, at the place Casiphia, that they should bring unto us ministers for the house of our God.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZR.8.18",
+      "edition_verse_id": "KJV1769:EZR.8.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "And by the good hand of our God upon us they brought us a man of understanding, of the sons of Mahli, the son of Levi, the son of Israel; and Sherebiah, with his sons and his brethren, eighteen;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZR.8.19",
+      "edition_verse_id": "KJV1769:EZR.8.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "And Hashabiah, and with him Jeshaiah of the sons of Merari, his brethren and their sons, twenty;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZR.8.20",
+      "edition_verse_id": "KJV1769:EZR.8.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "Also of the Nethinims, whom David and the princes had appointed for the service of the Levites, two hundred and twenty Nethinims: all of them were expressed by name.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZR.8.21",
+      "edition_verse_id": "KJV1769:EZR.8.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "¶ Then I proclaimed a fast there, at the river of Ahava, that we might afflict ourselves before our God, to seek of him a right way for us, and for our little ones, and for all our substance.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EZR.8.22",
+      "edition_verse_id": "KJV1769:EZR.8.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "For I was ashamed to require of the king a band of soldiers and horsemen to help us against the enemy in the way: because we had spoken unto the king, saying, The hand of our God ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " upon all them for good that seek him; but his power and his wrath ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " against all them that forsake him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZR.8.23",
+      "edition_verse_id": "KJV1769:EZR.8.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "So we fasted and besought our God for this: and he was intreated of us.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZR.8.24",
+      "edition_verse_id": "KJV1769:EZR.8.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "¶ Then I separated twelve of the chief of the priests, Sherebiah, Hashabiah, and ten of their brethren with them,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EZR.8.25",
+      "edition_verse_id": "KJV1769:EZR.8.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "And weighed unto them the silver, and the gold, and the vessels, ",
+          "kind": "text"
+        },
+        {
+          "text": "even",
+          "kind": "supplied"
+        },
+        {
+          "text": " the offering of the house of our God, which the king, and his counsellors, and his lords, and all Israel ",
+          "kind": "text"
+        },
+        {
+          "text": "there",
+          "kind": "supplied"
+        },
+        {
+          "text": " present, had offered:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZR.8.26",
+      "edition_verse_id": "KJV1769:EZR.8.26",
+      "verse": 26,
+      "spans": [
+        {
+          "text": "I even weighed unto their hand six hundred and fifty talents of silver, and silver vessels an hundred talents, ",
+          "kind": "text"
+        },
+        {
+          "text": "and",
+          "kind": "supplied"
+        },
+        {
+          "text": " of gold an hundred talents;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZR.8.27",
+      "edition_verse_id": "KJV1769:EZR.8.27",
+      "verse": 27,
+      "spans": [
+        {
+          "text": "Also twenty basons of gold, of a thousand drams; and two vessels of fine copper, precious as gold.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZR.8.28",
+      "edition_verse_id": "KJV1769:EZR.8.28",
+      "verse": 28,
+      "spans": [
+        {
+          "text": "And I said unto them, Ye ",
+          "kind": "text"
+        },
+        {
+          "text": "are",
+          "kind": "supplied"
+        },
+        {
+          "text": " holy unto the LORD; the vessels ",
+          "kind": "text"
+        },
+        {
+          "text": "are",
+          "kind": "supplied"
+        },
+        {
+          "text": " holy also; and the silver and the gold ",
+          "kind": "text"
+        },
+        {
+          "text": "are",
+          "kind": "supplied"
+        },
+        {
+          "text": " a freewill offering unto the LORD God of your fathers.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZR.8.29",
+      "edition_verse_id": "KJV1769:EZR.8.29",
+      "verse": 29,
+      "spans": [
+        {
+          "text": "Watch ye, and keep ",
+          "kind": "text"
+        },
+        {
+          "text": "them",
+          "kind": "supplied"
+        },
+        {
+          "text": ", until ye weigh ",
+          "kind": "text"
+        },
+        {
+          "text": "them",
+          "kind": "supplied"
+        },
+        {
+          "text": " before the chief of the priests and the Levites, and chief of the fathers of Israel, at Jerusalem, in the chambers of the house of the LORD.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZR.8.30",
+      "edition_verse_id": "KJV1769:EZR.8.30",
+      "verse": 30,
+      "spans": [
+        {
+          "text": "So took the priests and the Levites the weight of the silver, and the gold, and the vessels, to bring ",
+          "kind": "text"
+        },
+        {
+          "text": "them",
+          "kind": "supplied"
+        },
+        {
+          "text": " to Jerusalem unto the house of our God.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZR.8.31",
+      "edition_verse_id": "KJV1769:EZR.8.31",
+      "verse": 31,
+      "spans": [
+        {
+          "text": "¶ Then we departed from the river of Ahava on the twelfth ",
+          "kind": "text"
+        },
+        {
+          "text": "day",
+          "kind": "supplied"
+        },
+        {
+          "text": " of the first month, to go unto Jerusalem: and the hand of our God was upon us, and he delivered us from the hand of the enemy, and of such as lay in wait by the way.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EZR.8.32",
+      "edition_verse_id": "KJV1769:EZR.8.32",
+      "verse": 32,
+      "spans": [
+        {
+          "text": "And we came to Jerusalem, and abode there three days.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZR.8.33",
+      "edition_verse_id": "KJV1769:EZR.8.33",
+      "verse": 33,
+      "spans": [
+        {
+          "text": "¶ Now on the fourth day was the silver and the gold and the vessels weighed in the house of our God by the hand of Meremoth the son of Uriah the priest; and with him ",
+          "kind": "text"
+        },
+        {
+          "text": "was",
+          "kind": "supplied"
+        },
+        {
+          "text": " Eleazar the son of Phinehas; and with them ",
+          "kind": "text"
+        },
+        {
+          "text": "was",
+          "kind": "supplied"
+        },
+        {
+          "text": " Jozabad the son of Jeshua, and Noadiah the son of Binnui, Levites;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EZR.8.34",
+      "edition_verse_id": "KJV1769:EZR.8.34",
+      "verse": 34,
+      "spans": [
+        {
+          "text": "By number ",
+          "kind": "text"
+        },
+        {
+          "text": "and",
+          "kind": "supplied"
+        },
+        {
+          "text": " by weight of every one: and all the weight was written at that time.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZR.8.35",
+      "edition_verse_id": "KJV1769:EZR.8.35",
+      "verse": 35,
+      "spans": [
+        {
+          "text": "Also",
+          "kind": "supplied"
+        },
+        {
+          "text": " the children of those that had been carried away, which were come out of the captivity, offered burnt offerings unto the God of Israel, twelve bullocks for all Israel, ninety and six rams, seventy and seven lambs, twelve he goats ",
+          "kind": "text"
+        },
+        {
+          "text": "for",
+          "kind": "supplied"
+        },
+        {
+          "text": " a sin offering: all ",
+          "kind": "text"
+        },
+        {
+          "text": "this was",
+          "kind": "supplied"
+        },
+        {
+          "text": " a burnt offering unto the LORD.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZR.8.36",
+      "edition_verse_id": "KJV1769:EZR.8.36",
+      "verse": 36,
+      "spans": [
+        {
+          "text": "¶ And they delivered the king’s commissions unto the king’s lieutenants, and to the governors on this side the river: and they furthered the people, and the house of God.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    }
+  ]
+}

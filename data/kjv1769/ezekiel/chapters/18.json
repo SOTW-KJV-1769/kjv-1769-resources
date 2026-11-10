@@ -1,0 +1,596 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "KJV1769",
+  "book_code": "EZK",
+  "chapter": 18,
+  "verses": [
+    {
+      "id": "EZK.18.1",
+      "edition_verse_id": "KJV1769:EZK.18.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "The word of the LORD came unto me again, saying,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EZK.18.2",
+      "edition_verse_id": "KJV1769:EZK.18.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "What mean ye, that ye use this proverb concerning the land of Israel, saying, The fathers have eaten sour grapes, and the children’s teeth are set on edge?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.18.3",
+      "edition_verse_id": "KJV1769:EZK.18.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "As",
+          "kind": "supplied"
+        },
+        {
+          "text": " I live, saith the Lord GOD, ye shall not have ",
+          "kind": "text"
+        },
+        {
+          "text": "occasion",
+          "kind": "supplied"
+        },
+        {
+          "text": " any more to use this proverb in Israel.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.18.4",
+      "edition_verse_id": "KJV1769:EZK.18.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "Behold, all souls are mine; as the soul of the father, so also the soul of the son is mine: the soul that sinneth, it shall die.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.18.5",
+      "edition_verse_id": "KJV1769:EZK.18.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "¶ But if a man be just, and do that which is lawful and right,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EZK.18.6",
+      "edition_verse_id": "KJV1769:EZK.18.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "And",
+          "kind": "supplied"
+        },
+        {
+          "text": " hath not eaten upon the mountains, neither hath lifted up his eyes to the idols of the house of Israel, neither hath defiled his neighbour’s wife, neither hath come near to a menstruous woman,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.18.7",
+      "edition_verse_id": "KJV1769:EZK.18.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "And hath not oppressed any, ",
+          "kind": "text"
+        },
+        {
+          "text": "but",
+          "kind": "supplied"
+        },
+        {
+          "text": " hath restored to the debtor his pledge, hath spoiled none by violence, hath given his bread to the hungry, and hath covered the naked with a garment;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.18.8",
+      "edition_verse_id": "KJV1769:EZK.18.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "He ",
+          "kind": "text"
+        },
+        {
+          "text": "that",
+          "kind": "supplied"
+        },
+        {
+          "text": " hath not given forth upon usury, neither hath taken any increase, ",
+          "kind": "text"
+        },
+        {
+          "text": "that",
+          "kind": "supplied"
+        },
+        {
+          "text": " hath withdrawn his hand from iniquity, hath executed true judgment between man and man,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.18.9",
+      "edition_verse_id": "KJV1769:EZK.18.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "Hath walked in my statutes, and hath kept my judgments, to deal truly; he ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " just, he shall surely live, saith the Lord GOD.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.18.10",
+      "edition_verse_id": "KJV1769:EZK.18.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "¶ If he beget a son ",
+          "kind": "text"
+        },
+        {
+          "text": "that is",
+          "kind": "supplied"
+        },
+        {
+          "text": " a robber, a shedder of blood, and ",
+          "kind": "text"
+        },
+        {
+          "text": "that",
+          "kind": "supplied"
+        },
+        {
+          "text": " doeth the like to ",
+          "kind": "text"
+        },
+        {
+          "text": "any",
+          "kind": "supplied"
+        },
+        {
+          "text": " one of these ",
+          "kind": "text"
+        },
+        {
+          "text": "things",
+          "kind": "supplied"
+        },
+        {
+          "text": ",",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EZK.18.11",
+      "edition_verse_id": "KJV1769:EZK.18.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "And that doeth not any of those ",
+          "kind": "text"
+        },
+        {
+          "text": "duties",
+          "kind": "supplied"
+        },
+        {
+          "text": ", but even hath eaten upon the mountains, and defiled his neighbour’s wife,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.18.12",
+      "edition_verse_id": "KJV1769:EZK.18.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "Hath oppressed the poor and needy, hath spoiled by violence, hath not restored the pledge, and hath lifted up his eyes to the idols, hath committed abomination,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.18.13",
+      "edition_verse_id": "KJV1769:EZK.18.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "Hath given forth upon usury, and hath taken increase: shall he then live? he shall not live: he hath done all these abominations; he shall surely die; his blood shall be upon him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.18.14",
+      "edition_verse_id": "KJV1769:EZK.18.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "¶ Now, lo, ",
+          "kind": "text"
+        },
+        {
+          "text": "if",
+          "kind": "supplied"
+        },
+        {
+          "text": " he beget a son, that seeth all his father’s sins which he hath done, and considereth, and doeth not such like,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EZK.18.15",
+      "edition_verse_id": "KJV1769:EZK.18.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "That",
+          "kind": "supplied"
+        },
+        {
+          "text": " hath not eaten upon the mountains, neither hath lifted up his eyes to the idols of the house of Israel, hath not defiled his neighbour’s wife,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.18.16",
+      "edition_verse_id": "KJV1769:EZK.18.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "Neither hath oppressed any, hath not withholden the pledge, neither hath spoiled by violence, ",
+          "kind": "text"
+        },
+        {
+          "text": "but",
+          "kind": "supplied"
+        },
+        {
+          "text": " hath given his bread to the hungry, and hath covered the naked with a garment,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.18.17",
+      "edition_verse_id": "KJV1769:EZK.18.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "That",
+          "kind": "supplied"
+        },
+        {
+          "text": " hath taken off his hand from the poor, ",
+          "kind": "text"
+        },
+        {
+          "text": "that",
+          "kind": "supplied"
+        },
+        {
+          "text": " hath not received usury nor increase, hath executed my judgments, hath walked in my statutes; he shall not die for the iniquity of his father, he shall surely live.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.18.18",
+      "edition_verse_id": "KJV1769:EZK.18.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "As for",
+          "kind": "supplied"
+        },
+        {
+          "text": " his father, because he cruelly oppressed, spoiled his brother by violence, and did ",
+          "kind": "text"
+        },
+        {
+          "text": "that",
+          "kind": "supplied"
+        },
+        {
+          "text": " which ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " not good among his people, lo, even he shall die in his iniquity.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.18.19",
+      "edition_verse_id": "KJV1769:EZK.18.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "¶ Yet say ye, Why? doth not the son bear the iniquity of the father? When the son hath done that which is lawful and right, ",
+          "kind": "text"
+        },
+        {
+          "text": "and",
+          "kind": "supplied"
+        },
+        {
+          "text": " hath kept all my statutes, and hath done them, he shall surely live.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EZK.18.20",
+      "edition_verse_id": "KJV1769:EZK.18.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "The soul that sinneth, it shall die. The son shall not bear the iniquity of the father, neither shall the father bear the iniquity of the son: the righteousness of the righteous shall be upon him, and the wickedness of the wicked shall be upon him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.18.21",
+      "edition_verse_id": "KJV1769:EZK.18.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "But if the wicked will turn from all his sins that he hath committed, and keep all my statutes, and do that which is lawful and right, he shall surely live, he shall not die.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EZK.18.22",
+      "edition_verse_id": "KJV1769:EZK.18.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "All his transgressions that he hath committed, they shall not be mentioned unto him: in his righteousness that he hath done he shall live.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.18.23",
+      "edition_verse_id": "KJV1769:EZK.18.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "Have I any pleasure at all that the wicked should die? saith the Lord GOD: ",
+          "kind": "text"
+        },
+        {
+          "text": "and",
+          "kind": "supplied"
+        },
+        {
+          "text": " not that he should return from his ways, and live?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.18.24",
+      "edition_verse_id": "KJV1769:EZK.18.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "¶ But when the righteous turneth away from his righteousness, and committeth iniquity, ",
+          "kind": "text"
+        },
+        {
+          "text": "and",
+          "kind": "supplied"
+        },
+        {
+          "text": " doeth according to all the abominations that the wicked ",
+          "kind": "text"
+        },
+        {
+          "text": "man",
+          "kind": "supplied"
+        },
+        {
+          "text": " doeth, shall he live? All his righteousness that he hath done shall not be mentioned: in his trespass that he hath trespassed, and in his sin that he hath sinned, in them shall he die.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EZK.18.25",
+      "edition_verse_id": "KJV1769:EZK.18.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "¶ Yet ye say, The way of the Lord is not equal. Hear now, O house of Israel; Is not my way equal? are not your ways unequal?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EZK.18.26",
+      "edition_verse_id": "KJV1769:EZK.18.26",
+      "verse": 26,
+      "spans": [
+        {
+          "text": "When a righteous ",
+          "kind": "text"
+        },
+        {
+          "text": "man",
+          "kind": "supplied"
+        },
+        {
+          "text": " turneth away from his righteousness, and committeth iniquity, and dieth in them; for his iniquity that he hath done shall he die.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.18.27",
+      "edition_verse_id": "KJV1769:EZK.18.27",
+      "verse": 27,
+      "spans": [
+        {
+          "text": "Again, when the wicked ",
+          "kind": "text"
+        },
+        {
+          "text": "man",
+          "kind": "supplied"
+        },
+        {
+          "text": " turneth away from his wickedness that he hath committed, and doeth that which is lawful and right, he shall save his soul alive.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.18.28",
+      "edition_verse_id": "KJV1769:EZK.18.28",
+      "verse": 28,
+      "spans": [
+        {
+          "text": "Because he considereth, and turneth away from all his transgressions that he hath committed, he shall surely live, he shall not die.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.18.29",
+      "edition_verse_id": "KJV1769:EZK.18.29",
+      "verse": 29,
+      "spans": [
+        {
+          "text": "Yet saith the house of Israel, The way of the Lord is not equal. O house of Israel, are not my ways equal? are not your ways unequal?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.18.30",
+      "edition_verse_id": "KJV1769:EZK.18.30",
+      "verse": 30,
+      "spans": [
+        {
+          "text": "Therefore I will judge you, O house of Israel, every one according to his ways, saith the Lord GOD. Repent, and turn ",
+          "kind": "text"
+        },
+        {
+          "text": "yourselves",
+          "kind": "supplied"
+        },
+        {
+          "text": " from all your transgressions; so iniquity shall not be your ruin.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EZK.18.31",
+      "edition_verse_id": "KJV1769:EZK.18.31",
+      "verse": 31,
+      "spans": [
+        {
+          "text": "¶ Cast away from you all your transgressions, whereby ye have transgressed; and make you a new heart and a new spirit: for why will ye die, O house of Israel?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EZK.18.32",
+      "edition_verse_id": "KJV1769:EZK.18.32",
+      "verse": 32,
+      "spans": [
+        {
+          "text": "For I have no pleasure in the death of him that dieth, saith the Lord GOD: wherefore turn ",
+          "kind": "text"
+        },
+        {
+          "text": "yourselves",
+          "kind": "supplied"
+        },
+        {
+          "text": ", and live ye.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

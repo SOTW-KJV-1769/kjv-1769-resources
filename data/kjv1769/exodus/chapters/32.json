@@ -1,0 +1,736 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "KJV1769",
+  "book_code": "EXO",
+  "chapter": 32,
+  "verses": [
+    {
+      "id": "EXO.32.1",
+      "edition_verse_id": "KJV1769:EXO.32.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "And when the people saw that Moses delayed to come down out of the mount, the people gathered themselves together unto Aaron, and said unto him, Up, make us gods, which shall go before us; for ",
+          "kind": "text"
+        },
+        {
+          "text": "as for",
+          "kind": "supplied"
+        },
+        {
+          "text": " this Moses, the man that brought us up out of the land of Egypt, we wot not what is become of him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EXO.32.2",
+      "edition_verse_id": "KJV1769:EXO.32.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "And Aaron said unto them, Break off the golden earrings, which ",
+          "kind": "text"
+        },
+        {
+          "text": "are",
+          "kind": "supplied"
+        },
+        {
+          "text": " in the ears of your wives, of your sons, and of your daughters, and bring ",
+          "kind": "text"
+        },
+        {
+          "text": "them",
+          "kind": "supplied"
+        },
+        {
+          "text": " unto me.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.32.3",
+      "edition_verse_id": "KJV1769:EXO.32.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "And all the people brake off the golden earrings which ",
+          "kind": "text"
+        },
+        {
+          "text": "were",
+          "kind": "supplied"
+        },
+        {
+          "text": " in their ears, and brought ",
+          "kind": "text"
+        },
+        {
+          "text": "them",
+          "kind": "supplied"
+        },
+        {
+          "text": " unto Aaron.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.32.4",
+      "edition_verse_id": "KJV1769:EXO.32.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "And he received ",
+          "kind": "text"
+        },
+        {
+          "text": "them",
+          "kind": "supplied"
+        },
+        {
+          "text": " at their hand, and fashioned it with a graving tool, after he had made it a molten calf: and they said, These ",
+          "kind": "text"
+        },
+        {
+          "text": "be",
+          "kind": "supplied"
+        },
+        {
+          "text": " thy gods, O Israel, which brought thee up out of the land of Egypt.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.32.5",
+      "edition_verse_id": "KJV1769:EXO.32.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "And when Aaron saw ",
+          "kind": "text"
+        },
+        {
+          "text": "it",
+          "kind": "supplied"
+        },
+        {
+          "text": ", he built an altar before it; and Aaron made proclamation, and said, To morrow ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " a feast to the LORD.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.32.6",
+      "edition_verse_id": "KJV1769:EXO.32.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "And they rose up early on the morrow, and offered burnt offerings, and brought peace offerings; and the people sat down to eat and to drink, and rose up to play.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.32.7",
+      "edition_verse_id": "KJV1769:EXO.32.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "¶ And the LORD said unto Moses, Go, get thee down; for thy people, which thou broughtest out of the land of Egypt, have corrupted ",
+          "kind": "text"
+        },
+        {
+          "text": "themselves:",
+          "kind": "supplied"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EXO.32.8",
+      "edition_verse_id": "KJV1769:EXO.32.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "They have turned aside quickly out of the way which I commanded them: they have made them a molten calf, and have worshipped it, and have sacrificed thereunto, and said, These ",
+          "kind": "text"
+        },
+        {
+          "text": "be",
+          "kind": "supplied"
+        },
+        {
+          "text": " thy gods, O Israel, which have brought thee up out of the land of Egypt.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.32.9",
+      "edition_verse_id": "KJV1769:EXO.32.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "And the LORD said unto Moses, I have seen this people, and, behold, it ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " a stiffnecked people:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.32.10",
+      "edition_verse_id": "KJV1769:EXO.32.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "Now therefore let me alone, that my wrath may wax hot against them, and that I may consume them: and I will make of thee a great nation.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.32.11",
+      "edition_verse_id": "KJV1769:EXO.32.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "And Moses besought the LORD his God, and said, LORD, why doth thy wrath wax hot against thy people, which thou hast brought forth out of the land of Egypt with great power, and with a mighty hand?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.32.12",
+      "edition_verse_id": "KJV1769:EXO.32.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "Wherefore should the Egyptians speak, and say, For mischief did he bring them out, to slay them in the mountains, and to consume them from the face of the earth? Turn from thy fierce wrath, and repent of this evil against thy people.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.32.13",
+      "edition_verse_id": "KJV1769:EXO.32.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "Remember Abraham, Isaac, and Israel, thy servants, to whom thou swarest by thine own self, and saidst unto them, I will multiply your seed as the stars of heaven, and all this land that I have spoken of will I give unto your seed, and they shall inherit ",
+          "kind": "text"
+        },
+        {
+          "text": "it",
+          "kind": "supplied"
+        },
+        {
+          "text": " for ever.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.32.14",
+      "edition_verse_id": "KJV1769:EXO.32.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "And the LORD repented of the evil which he thought to do unto his people.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.32.15",
+      "edition_verse_id": "KJV1769:EXO.32.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "¶ And Moses turned, and went down from the mount, and the two tables of the testimony ",
+          "kind": "text"
+        },
+        {
+          "text": "were",
+          "kind": "supplied"
+        },
+        {
+          "text": " in his hand: the tables ",
+          "kind": "text"
+        },
+        {
+          "text": "were",
+          "kind": "supplied"
+        },
+        {
+          "text": " written on both their sides; on the one side and on the other ",
+          "kind": "text"
+        },
+        {
+          "text": "were",
+          "kind": "supplied"
+        },
+        {
+          "text": " they written.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EXO.32.16",
+      "edition_verse_id": "KJV1769:EXO.32.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "And the tables ",
+          "kind": "text"
+        },
+        {
+          "text": "were",
+          "kind": "supplied"
+        },
+        {
+          "text": " the work of God, and the writing ",
+          "kind": "text"
+        },
+        {
+          "text": "was",
+          "kind": "supplied"
+        },
+        {
+          "text": " the writing of God, graven upon the tables.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.32.17",
+      "edition_verse_id": "KJV1769:EXO.32.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "And when Joshua heard the noise of the people as they shouted, he said unto Moses, ",
+          "kind": "text"
+        },
+        {
+          "text": "There is",
+          "kind": "supplied"
+        },
+        {
+          "text": " a noise of war in the camp.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.32.18",
+      "edition_verse_id": "KJV1769:EXO.32.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "And he said, ",
+          "kind": "text"
+        },
+        {
+          "text": "It is",
+          "kind": "supplied"
+        },
+        {
+          "text": " not the voice of ",
+          "kind": "text"
+        },
+        {
+          "text": "them that",
+          "kind": "supplied"
+        },
+        {
+          "text": " shout for mastery, neither ",
+          "kind": "text"
+        },
+        {
+          "text": "is it",
+          "kind": "supplied"
+        },
+        {
+          "text": " the voice of ",
+          "kind": "text"
+        },
+        {
+          "text": "them that",
+          "kind": "supplied"
+        },
+        {
+          "text": " cry for being overcome: ",
+          "kind": "text"
+        },
+        {
+          "text": "but",
+          "kind": "supplied"
+        },
+        {
+          "text": " the noise of ",
+          "kind": "text"
+        },
+        {
+          "text": "them that",
+          "kind": "supplied"
+        },
+        {
+          "text": " sing do I hear.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.32.19",
+      "edition_verse_id": "KJV1769:EXO.32.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "¶ And it came to pass, as soon as he came nigh unto the camp, that he saw the calf, and the dancing: and Moses’ anger waxed hot, and he cast the tables out of his hands, and brake them beneath the mount.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EXO.32.20",
+      "edition_verse_id": "KJV1769:EXO.32.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "And he took the calf which they had made, and burnt ",
+          "kind": "text"
+        },
+        {
+          "text": "it",
+          "kind": "supplied"
+        },
+        {
+          "text": " in the fire, and ground ",
+          "kind": "text"
+        },
+        {
+          "text": "it",
+          "kind": "supplied"
+        },
+        {
+          "text": " to powder, and strawed ",
+          "kind": "text"
+        },
+        {
+          "text": "it",
+          "kind": "supplied"
+        },
+        {
+          "text": " upon the water, and made the children of Israel drink ",
+          "kind": "text"
+        },
+        {
+          "text": "of it",
+          "kind": "supplied"
+        },
+        {
+          "text": ".",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.32.21",
+      "edition_verse_id": "KJV1769:EXO.32.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "And Moses said unto Aaron, What did this people unto thee, that thou hast brought so great a sin upon them?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EXO.32.22",
+      "edition_verse_id": "KJV1769:EXO.32.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "And Aaron said, Let not the anger of my lord wax hot: thou knowest the people, that they ",
+          "kind": "text"
+        },
+        {
+          "text": "are set",
+          "kind": "supplied"
+        },
+        {
+          "text": " on mischief.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.32.23",
+      "edition_verse_id": "KJV1769:EXO.32.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "For they said unto me, Make us gods, which shall go before us: for ",
+          "kind": "text"
+        },
+        {
+          "text": "as for",
+          "kind": "supplied"
+        },
+        {
+          "text": " this Moses, the man that brought us up out of the land of Egypt, we wot not what is become of him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.32.24",
+      "edition_verse_id": "KJV1769:EXO.32.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "And I said unto them, Whosoever hath any gold, let them break ",
+          "kind": "text"
+        },
+        {
+          "text": "it",
+          "kind": "supplied"
+        },
+        {
+          "text": " off. So they gave ",
+          "kind": "text"
+        },
+        {
+          "text": "it",
+          "kind": "supplied"
+        },
+        {
+          "text": " me: then I cast it into the fire, and there came out this calf.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.32.25",
+      "edition_verse_id": "KJV1769:EXO.32.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "¶ And when Moses saw that the people ",
+          "kind": "text"
+        },
+        {
+          "text": "were",
+          "kind": "supplied"
+        },
+        {
+          "text": " naked; (for Aaron had made them naked unto ",
+          "kind": "text"
+        },
+        {
+          "text": "their",
+          "kind": "supplied"
+        },
+        {
+          "text": " shame among their enemies:)",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EXO.32.26",
+      "edition_verse_id": "KJV1769:EXO.32.26",
+      "verse": 26,
+      "spans": [
+        {
+          "text": "Then Moses stood in the gate of the camp, and said, Who ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " on the LORD’s side? ",
+          "kind": "text"
+        },
+        {
+          "text": "let him come",
+          "kind": "supplied"
+        },
+        {
+          "text": " unto me. And all the sons of Levi gathered themselves together unto him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.32.27",
+      "edition_verse_id": "KJV1769:EXO.32.27",
+      "verse": 27,
+      "spans": [
+        {
+          "text": "And he said unto them, Thus saith the LORD God of Israel, Put every man his sword by his side, ",
+          "kind": "text"
+        },
+        {
+          "text": "and",
+          "kind": "supplied"
+        },
+        {
+          "text": " go in and out from gate to gate throughout the camp, and slay every man his brother, and every man his companion, and every man his neighbour.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.32.28",
+      "edition_verse_id": "KJV1769:EXO.32.28",
+      "verse": 28,
+      "spans": [
+        {
+          "text": "And the children of Levi did according to the word of Moses: and there fell of the people that day about three thousand men.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.32.29",
+      "edition_verse_id": "KJV1769:EXO.32.29",
+      "verse": 29,
+      "spans": [
+        {
+          "text": "For Moses had said, Consecrate yourselves to day to the LORD, even every man upon his son, and upon his brother; that he may bestow upon you a blessing this day.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.32.30",
+      "edition_verse_id": "KJV1769:EXO.32.30",
+      "verse": 30,
+      "spans": [
+        {
+          "text": "¶ And it came to pass on the morrow, that Moses said unto the people, Ye have sinned a great sin: and now I will go up unto the LORD; peradventure I shall make an atonement for your sin.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EXO.32.31",
+      "edition_verse_id": "KJV1769:EXO.32.31",
+      "verse": 31,
+      "spans": [
+        {
+          "text": "And Moses returned unto the LORD, and said, Oh, this people have sinned a great sin, and have made them gods of gold.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.32.32",
+      "edition_verse_id": "KJV1769:EXO.32.32",
+      "verse": 32,
+      "spans": [
+        {
+          "text": "Yet now, if thou wilt forgive their sin—; and if not, blot me, I pray thee, out of thy book which thou hast written.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.32.33",
+      "edition_verse_id": "KJV1769:EXO.32.33",
+      "verse": 33,
+      "spans": [
+        {
+          "text": "And the LORD said unto Moses, Whosoever hath sinned against me, him will I blot out of my book.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.32.34",
+      "edition_verse_id": "KJV1769:EXO.32.34",
+      "verse": 34,
+      "spans": [
+        {
+          "text": "Therefore now go, lead the people unto ",
+          "kind": "text"
+        },
+        {
+          "text": "the place",
+          "kind": "supplied"
+        },
+        {
+          "text": " of which I have spoken unto thee: behold, mine Angel shall go before thee: nevertheless in the day when I visit I will visit their sin upon them.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.32.35",
+      "edition_verse_id": "KJV1769:EXO.32.35",
+      "verse": 35,
+      "spans": [
+        {
+          "text": "And the LORD plagued the people, because they made the calf, which Aaron made.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

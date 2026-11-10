@@ -1,0 +1,464 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "KJV1769",
+  "book_code": "EZK",
+  "chapter": 30,
+  "verses": [
+    {
+      "id": "EZK.30.1",
+      "edition_verse_id": "KJV1769:EZK.30.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "The word of the LORD came again unto me, saying,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EZK.30.2",
+      "edition_verse_id": "KJV1769:EZK.30.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "Son of man, prophesy and say, Thus saith the Lord GOD; Howl ye, Woe worth the day!",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.30.3",
+      "edition_verse_id": "KJV1769:EZK.30.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "For the day ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " near, even the day of the LORD ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " near, a cloudy day; it shall be the time of the heathen.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.30.4",
+      "edition_verse_id": "KJV1769:EZK.30.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "And the sword shall come upon Egypt, and great pain shall be in Ethiopia, when the slain shall fall in Egypt, and they shall take away her multitude, and her foundations shall be broken down.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.30.5",
+      "edition_verse_id": "KJV1769:EZK.30.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "Ethiopia, and Libya, and Lydia, and all the mingled people, and Chub, and the men of the land that is in league, shall fall with them by the sword.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.30.6",
+      "edition_verse_id": "KJV1769:EZK.30.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "Thus saith the LORD; They also that uphold Egypt shall fall; and the pride of her power shall come down: from the tower of Syene shall they fall in it by the sword, saith the Lord GOD.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.30.7",
+      "edition_verse_id": "KJV1769:EZK.30.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "And they shall be desolate in the midst of the countries ",
+          "kind": "text"
+        },
+        {
+          "text": "that are",
+          "kind": "supplied"
+        },
+        {
+          "text": " desolate, and her cities shall be in the midst of the cities ",
+          "kind": "text"
+        },
+        {
+          "text": "that are",
+          "kind": "supplied"
+        },
+        {
+          "text": " wasted.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.30.8",
+      "edition_verse_id": "KJV1769:EZK.30.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "And they shall know that I ",
+          "kind": "text"
+        },
+        {
+          "text": "am",
+          "kind": "supplied"
+        },
+        {
+          "text": " the LORD, when I have set a fire in Egypt, and ",
+          "kind": "text"
+        },
+        {
+          "text": "when",
+          "kind": "supplied"
+        },
+        {
+          "text": " all her helpers shall be destroyed.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.30.9",
+      "edition_verse_id": "KJV1769:EZK.30.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "In that day shall messengers go forth from me in ships to make the careless Ethiopians afraid, and great pain shall come upon them, as in the day of Egypt: for, lo, it cometh.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.30.10",
+      "edition_verse_id": "KJV1769:EZK.30.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "Thus saith the Lord GOD; I will also make the multitude of Egypt to cease by the hand of Nebuchadrezzar king of Babylon.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.30.11",
+      "edition_verse_id": "KJV1769:EZK.30.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "He and his people with him, the terrible of the nations, shall be brought to destroy the land: and they shall draw their swords against Egypt, and fill the land with the slain.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.30.12",
+      "edition_verse_id": "KJV1769:EZK.30.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "And I will make the rivers dry, and sell the land into the hand of the wicked: and I will make the land waste, and all that is therein, by the hand of strangers: I the LORD have spoken ",
+          "kind": "text"
+        },
+        {
+          "text": "it",
+          "kind": "supplied"
+        },
+        {
+          "text": ".",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.30.13",
+      "edition_verse_id": "KJV1769:EZK.30.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "Thus saith the Lord GOD; I will also destroy the idols, and I will cause ",
+          "kind": "text"
+        },
+        {
+          "text": "their",
+          "kind": "supplied"
+        },
+        {
+          "text": " images to cease out of Noph; and there shall be no more a prince of the land of Egypt: and I will put a fear in the land of Egypt.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.30.14",
+      "edition_verse_id": "KJV1769:EZK.30.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "And I will make Pathros desolate, and will set fire in Zoan, and will execute judgments in No.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.30.15",
+      "edition_verse_id": "KJV1769:EZK.30.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "And I will pour my fury upon Sin, the strength of Egypt; and I will cut off the multitude of No.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.30.16",
+      "edition_verse_id": "KJV1769:EZK.30.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "And I will set fire in Egypt: Sin shall have great pain, and No shall be rent asunder, and Noph ",
+          "kind": "text"
+        },
+        {
+          "text": "shall have",
+          "kind": "supplied"
+        },
+        {
+          "text": " distresses daily.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.30.17",
+      "edition_verse_id": "KJV1769:EZK.30.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "The young men of Aven and of Pi-beseth shall fall by the sword: and these ",
+          "kind": "text"
+        },
+        {
+          "text": "cities",
+          "kind": "supplied"
+        },
+        {
+          "text": " shall go into captivity.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.30.18",
+      "edition_verse_id": "KJV1769:EZK.30.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "At Tehaphnehes also the day shall be darkened, when I shall break there the yokes of Egypt: and the pomp of her strength shall cease in her: as for her, a cloud shall cover her, and her daughters shall go into captivity.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.30.19",
+      "edition_verse_id": "KJV1769:EZK.30.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "Thus will I execute judgments in Egypt: and they shall know that I ",
+          "kind": "text"
+        },
+        {
+          "text": "am",
+          "kind": "supplied"
+        },
+        {
+          "text": " the LORD.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.30.20",
+      "edition_verse_id": "KJV1769:EZK.30.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "¶ And it came to pass in the eleventh year, in the first ",
+          "kind": "text"
+        },
+        {
+          "text": "month",
+          "kind": "supplied"
+        },
+        {
+          "text": ", in the seventh ",
+          "kind": "text"
+        },
+        {
+          "text": "day",
+          "kind": "supplied"
+        },
+        {
+          "text": " of the month, ",
+          "kind": "text"
+        },
+        {
+          "text": "that",
+          "kind": "supplied"
+        },
+        {
+          "text": " the word of the LORD came unto me, saying,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EZK.30.21",
+      "edition_verse_id": "KJV1769:EZK.30.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "Son of man, I have broken the arm of Pharaoh king of Egypt; and, lo, it shall not be bound up to be healed, to put a roller to bind it, to make it strong to hold the sword.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.30.22",
+      "edition_verse_id": "KJV1769:EZK.30.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "Therefore thus saith the Lord GOD; Behold, I ",
+          "kind": "text"
+        },
+        {
+          "text": "am",
+          "kind": "supplied"
+        },
+        {
+          "text": " against Pharaoh king of Egypt, and will break his arms, the strong, and that which was broken; and I will cause the sword to fall out of his hand.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.30.23",
+      "edition_verse_id": "KJV1769:EZK.30.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "And I will scatter the Egyptians among the nations, and will disperse them through the countries.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.30.24",
+      "edition_verse_id": "KJV1769:EZK.30.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "And I will strengthen the arms of the king of Babylon, and put my sword in his hand: but I will break Pharaoh’s arms, and he shall groan before him with the groanings of a deadly wounded ",
+          "kind": "text"
+        },
+        {
+          "text": "man",
+          "kind": "supplied"
+        },
+        {
+          "text": ".",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.30.25",
+      "edition_verse_id": "KJV1769:EZK.30.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "But I will strengthen the arms of the king of Babylon, and the arms of Pharaoh shall fall down; and they shall know that I ",
+          "kind": "text"
+        },
+        {
+          "text": "am",
+          "kind": "supplied"
+        },
+        {
+          "text": " the LORD, when I shall put my sword into the hand of the king of Babylon, and he shall stretch it out upon the land of Egypt.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.30.26",
+      "edition_verse_id": "KJV1769:EZK.30.26",
+      "verse": 26,
+      "spans": [
+        {
+          "text": "And I will scatter the Egyptians among the nations, and disperse them among the countries; and they shall know that I ",
+          "kind": "text"
+        },
+        {
+          "text": "am",
+          "kind": "supplied"
+        },
+        {
+          "text": " the LORD.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

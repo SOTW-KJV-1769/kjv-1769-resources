@@ -1,0 +1,1232 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "KJV1769",
+  "book_code": "1CH",
+  "chapter": 6,
+  "verses": [
+    {
+      "id": "1CH.6.1",
+      "edition_verse_id": "KJV1769:1CH.6.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "The sons of Levi; Gershon, Kohath, and Merari.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1CH.6.2",
+      "edition_verse_id": "KJV1769:1CH.6.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "And the sons of Kohath; Amram, Izhar, and Hebron, and Uzziel.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.6.3",
+      "edition_verse_id": "KJV1769:1CH.6.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "And the children of Amram; Aaron, and Moses, and Miriam. The sons also of Aaron; Nadab, and Abihu, Eleazar, and Ithamar.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.6.4",
+      "edition_verse_id": "KJV1769:1CH.6.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "¶ Eleazar begat Phinehas, Phinehas begat Abishua,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1CH.6.5",
+      "edition_verse_id": "KJV1769:1CH.6.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "And Abishua begat Bukki, and Bukki begat Uzzi,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.6.6",
+      "edition_verse_id": "KJV1769:1CH.6.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "And Uzzi begat Zerahiah, and Zerahiah begat Meraioth,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.6.7",
+      "edition_verse_id": "KJV1769:1CH.6.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "Meraioth begat Amariah, and Amariah begat Ahitub,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.6.8",
+      "edition_verse_id": "KJV1769:1CH.6.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "And Ahitub begat Zadok, and Zadok begat Ahimaaz,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.6.9",
+      "edition_verse_id": "KJV1769:1CH.6.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "And Ahimaaz begat Azariah, and Azariah begat Johanan,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.6.10",
+      "edition_verse_id": "KJV1769:1CH.6.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "And Johanan begat Azariah, (he ",
+          "kind": "text"
+        },
+        {
+          "text": "it is",
+          "kind": "supplied"
+        },
+        {
+          "text": " that executed the priest’s office in the temple that Solomon built in Jerusalem:)",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.6.11",
+      "edition_verse_id": "KJV1769:1CH.6.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "And Azariah begat Amariah, and Amariah begat Ahitub,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.6.12",
+      "edition_verse_id": "KJV1769:1CH.6.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "And Ahitub begat Zadok, and Zadok begat Shallum,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.6.13",
+      "edition_verse_id": "KJV1769:1CH.6.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "And Shallum begat Hilkiah, and Hilkiah begat Azariah,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.6.14",
+      "edition_verse_id": "KJV1769:1CH.6.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "And Azariah begat Seraiah, and Seraiah begat Jehozadak,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.6.15",
+      "edition_verse_id": "KJV1769:1CH.6.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "And Jehozadak went ",
+          "kind": "text"
+        },
+        {
+          "text": "into captivity",
+          "kind": "supplied"
+        },
+        {
+          "text": ", when the LORD carried away Judah and Jerusalem by the hand of Nebuchadnezzar.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.6.16",
+      "edition_verse_id": "KJV1769:1CH.6.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "¶ The sons of Levi; Gershom, Kohath, and Merari.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1CH.6.17",
+      "edition_verse_id": "KJV1769:1CH.6.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "And these ",
+          "kind": "text"
+        },
+        {
+          "text": "be",
+          "kind": "supplied"
+        },
+        {
+          "text": " the names of the sons of Gershom; Libni, and Shimei.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.6.18",
+      "edition_verse_id": "KJV1769:1CH.6.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "And the sons of Kohath ",
+          "kind": "text"
+        },
+        {
+          "text": "were",
+          "kind": "supplied"
+        },
+        {
+          "text": ", Amram, and Izhar, and Hebron, and Uzziel.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.6.19",
+      "edition_verse_id": "KJV1769:1CH.6.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "The sons of Merari; Mahli, and Mushi. And these ",
+          "kind": "text"
+        },
+        {
+          "text": "are",
+          "kind": "supplied"
+        },
+        {
+          "text": " the families of the Levites according to their fathers.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.6.20",
+      "edition_verse_id": "KJV1769:1CH.6.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "Of Gershom; Libni his son, Jahath his son, Zimmah his son,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.6.21",
+      "edition_verse_id": "KJV1769:1CH.6.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "Joah his son, Iddo his son, Zerah his son, Jeaterai his son.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.6.22",
+      "edition_verse_id": "KJV1769:1CH.6.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "The sons of Kohath; Amminadab his son, Korah his son, Assir his son,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.6.23",
+      "edition_verse_id": "KJV1769:1CH.6.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "Elkanah his son, and Ebiasaph his son, and Assir his son,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.6.24",
+      "edition_verse_id": "KJV1769:1CH.6.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "Tahath his son, Uriel his son, Uzziah his son, and Shaul his son.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.6.25",
+      "edition_verse_id": "KJV1769:1CH.6.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "And the sons of Elkanah; Amasai, and Ahimoth.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.6.26",
+      "edition_verse_id": "KJV1769:1CH.6.26",
+      "verse": 26,
+      "spans": [
+        {
+          "text": "As for",
+          "kind": "supplied"
+        },
+        {
+          "text": " Elkanah: the sons of Elkanah; Zophai his son, and Nahath his son,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.6.27",
+      "edition_verse_id": "KJV1769:1CH.6.27",
+      "verse": 27,
+      "spans": [
+        {
+          "text": "Eliab his son, Jeroham his son, Elkanah his son.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.6.28",
+      "edition_verse_id": "KJV1769:1CH.6.28",
+      "verse": 28,
+      "spans": [
+        {
+          "text": "And the sons of Samuel; the firstborn Vashni, and Abiah.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.6.29",
+      "edition_verse_id": "KJV1769:1CH.6.29",
+      "verse": 29,
+      "spans": [
+        {
+          "text": "The sons of Merari; Mahli, Libni his son, Shimei his son, Uzza his son,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.6.30",
+      "edition_verse_id": "KJV1769:1CH.6.30",
+      "verse": 30,
+      "spans": [
+        {
+          "text": "Shimea his son, Haggiah his son, Asaiah his son.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.6.31",
+      "edition_verse_id": "KJV1769:1CH.6.31",
+      "verse": 31,
+      "spans": [
+        {
+          "text": "And these ",
+          "kind": "text"
+        },
+        {
+          "text": "are they",
+          "kind": "supplied"
+        },
+        {
+          "text": " whom David set over the service of song in the house of the LORD, after that the ark had rest.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1CH.6.32",
+      "edition_verse_id": "KJV1769:1CH.6.32",
+      "verse": 32,
+      "spans": [
+        {
+          "text": "And they ministered before the dwelling place of the tabernacle of the congregation with singing, until Solomon had built the house of the LORD in Jerusalem: and ",
+          "kind": "text"
+        },
+        {
+          "text": "then",
+          "kind": "supplied"
+        },
+        {
+          "text": " they waited on their office according to their order.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.6.33",
+      "edition_verse_id": "KJV1769:1CH.6.33",
+      "verse": 33,
+      "spans": [
+        {
+          "text": "And these ",
+          "kind": "text"
+        },
+        {
+          "text": "are",
+          "kind": "supplied"
+        },
+        {
+          "text": " they that waited with their children. Of the sons of the Kohathites: Heman a singer, the son of Joel, the son of Shemuel,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.6.34",
+      "edition_verse_id": "KJV1769:1CH.6.34",
+      "verse": 34,
+      "spans": [
+        {
+          "text": "The son of Elkanah, the son of Jeroham, the son of Eliel, the son of Toah,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.6.35",
+      "edition_verse_id": "KJV1769:1CH.6.35",
+      "verse": 35,
+      "spans": [
+        {
+          "text": "The son of Zuph, the son of Elkanah, the son of Mahath, the son of Amasai,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.6.36",
+      "edition_verse_id": "KJV1769:1CH.6.36",
+      "verse": 36,
+      "spans": [
+        {
+          "text": "The son of Elkanah, the son of Joel, the son of Azariah, the son of Zephaniah,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.6.37",
+      "edition_verse_id": "KJV1769:1CH.6.37",
+      "verse": 37,
+      "spans": [
+        {
+          "text": "The son of Tahath, the son of Assir, the son of Ebiasaph, the son of Korah,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.6.38",
+      "edition_verse_id": "KJV1769:1CH.6.38",
+      "verse": 38,
+      "spans": [
+        {
+          "text": "The son of Izhar, the son of Kohath, the son of Levi, the son of Israel.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.6.39",
+      "edition_verse_id": "KJV1769:1CH.6.39",
+      "verse": 39,
+      "spans": [
+        {
+          "text": "And his brother Asaph, who stood on his right hand, ",
+          "kind": "text"
+        },
+        {
+          "text": "even",
+          "kind": "supplied"
+        },
+        {
+          "text": " Asaph the son of Berachiah, the son of Shimea,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.6.40",
+      "edition_verse_id": "KJV1769:1CH.6.40",
+      "verse": 40,
+      "spans": [
+        {
+          "text": "The son of Michael, the son of Baaseiah, the son of Malchiah,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.6.41",
+      "edition_verse_id": "KJV1769:1CH.6.41",
+      "verse": 41,
+      "spans": [
+        {
+          "text": "The son of Ethni, the son of Zerah, the son of Adaiah,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.6.42",
+      "edition_verse_id": "KJV1769:1CH.6.42",
+      "verse": 42,
+      "spans": [
+        {
+          "text": "The son of Ethan, the son of Zimmah, the son of Shimei,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.6.43",
+      "edition_verse_id": "KJV1769:1CH.6.43",
+      "verse": 43,
+      "spans": [
+        {
+          "text": "The son of Jahath, the son of Gershom, the son of Levi.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.6.44",
+      "edition_verse_id": "KJV1769:1CH.6.44",
+      "verse": 44,
+      "spans": [
+        {
+          "text": "And their brethren the sons of Merari ",
+          "kind": "text"
+        },
+        {
+          "text": "stood",
+          "kind": "supplied"
+        },
+        {
+          "text": " on the left hand: Ethan the son of Kishi, the son of Abdi, the son of Malluch,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.6.45",
+      "edition_verse_id": "KJV1769:1CH.6.45",
+      "verse": 45,
+      "spans": [
+        {
+          "text": "The son of Hashabiah, the son of Amaziah, the son of Hilkiah,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.6.46",
+      "edition_verse_id": "KJV1769:1CH.6.46",
+      "verse": 46,
+      "spans": [
+        {
+          "text": "The son of Amzi, the son of Bani, the son of Shamer,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.6.47",
+      "edition_verse_id": "KJV1769:1CH.6.47",
+      "verse": 47,
+      "spans": [
+        {
+          "text": "The son of Mahli, the son of Mushi, the son of Merari, the son of Levi.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.6.48",
+      "edition_verse_id": "KJV1769:1CH.6.48",
+      "verse": 48,
+      "spans": [
+        {
+          "text": "Their brethren also the Levites ",
+          "kind": "text"
+        },
+        {
+          "text": "were",
+          "kind": "supplied"
+        },
+        {
+          "text": " appointed unto all manner of service of the tabernacle of the house of God.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.6.49",
+      "edition_verse_id": "KJV1769:1CH.6.49",
+      "verse": 49,
+      "spans": [
+        {
+          "text": "¶ But Aaron and his sons offered upon the altar of the burnt offering, and on the altar of incense, ",
+          "kind": "text"
+        },
+        {
+          "text": "and were appointed",
+          "kind": "supplied"
+        },
+        {
+          "text": " for all the work of the ",
+          "kind": "text"
+        },
+        {
+          "text": "place",
+          "kind": "supplied"
+        },
+        {
+          "text": " most holy, and to make an atonement for Israel, according to all that Moses the servant of God had commanded.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1CH.6.50",
+      "edition_verse_id": "KJV1769:1CH.6.50",
+      "verse": 50,
+      "spans": [
+        {
+          "text": "And these ",
+          "kind": "text"
+        },
+        {
+          "text": "are",
+          "kind": "supplied"
+        },
+        {
+          "text": " the sons of Aaron; Eleazar his son, Phinehas his son, Abishua his son,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.6.51",
+      "edition_verse_id": "KJV1769:1CH.6.51",
+      "verse": 51,
+      "spans": [
+        {
+          "text": "Bukki his son, Uzzi his son, Zerahiah his son,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.6.52",
+      "edition_verse_id": "KJV1769:1CH.6.52",
+      "verse": 52,
+      "spans": [
+        {
+          "text": "Meraioth his son, Amariah his son, Ahitub his son,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.6.53",
+      "edition_verse_id": "KJV1769:1CH.6.53",
+      "verse": 53,
+      "spans": [
+        {
+          "text": "Zadok his son, Ahimaaz his son.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.6.54",
+      "edition_verse_id": "KJV1769:1CH.6.54",
+      "verse": 54,
+      "spans": [
+        {
+          "text": "¶ Now these ",
+          "kind": "text"
+        },
+        {
+          "text": "are",
+          "kind": "supplied"
+        },
+        {
+          "text": " their dwelling places throughout their castles in their coasts, of the sons of Aaron, of the families of the Kohathites: for theirs was the lot.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1CH.6.55",
+      "edition_verse_id": "KJV1769:1CH.6.55",
+      "verse": 55,
+      "spans": [
+        {
+          "text": "And they gave them Hebron in the land of Judah, and the suburbs thereof round about it.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.6.56",
+      "edition_verse_id": "KJV1769:1CH.6.56",
+      "verse": 56,
+      "spans": [
+        {
+          "text": "But the fields of the city, and the villages thereof, they gave to Caleb the son of Jephunneh.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.6.57",
+      "edition_verse_id": "KJV1769:1CH.6.57",
+      "verse": 57,
+      "spans": [
+        {
+          "text": "And to the sons of Aaron they gave the cities of Judah, ",
+          "kind": "text"
+        },
+        {
+          "text": "namely",
+          "kind": "supplied"
+        },
+        {
+          "text": ", Hebron, ",
+          "kind": "text"
+        },
+        {
+          "text": "the city",
+          "kind": "supplied"
+        },
+        {
+          "text": " of refuge, and Libnah with her suburbs, and Jattir, and Eshtemoa, with their suburbs,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.6.58",
+      "edition_verse_id": "KJV1769:1CH.6.58",
+      "verse": 58,
+      "spans": [
+        {
+          "text": "And Hilen with her suburbs, Debir with her suburbs,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.6.59",
+      "edition_verse_id": "KJV1769:1CH.6.59",
+      "verse": 59,
+      "spans": [
+        {
+          "text": "And Ashan with her suburbs, and Beth-shemesh with her suburbs:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.6.60",
+      "edition_verse_id": "KJV1769:1CH.6.60",
+      "verse": 60,
+      "spans": [
+        {
+          "text": "And out of the tribe of Benjamin; Geba with her suburbs, and Alemeth with her suburbs, and Anathoth with her suburbs. All their cities throughout their families ",
+          "kind": "text"
+        },
+        {
+          "text": "were",
+          "kind": "supplied"
+        },
+        {
+          "text": " thirteen cities.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.6.61",
+      "edition_verse_id": "KJV1769:1CH.6.61",
+      "verse": 61,
+      "spans": [
+        {
+          "text": "And unto the sons of Kohath, ",
+          "kind": "text"
+        },
+        {
+          "text": "which were",
+          "kind": "supplied"
+        },
+        {
+          "text": " left of the family of that tribe, ",
+          "kind": "text"
+        },
+        {
+          "text": "were cities given",
+          "kind": "supplied"
+        },
+        {
+          "text": " out of the half tribe, ",
+          "kind": "text"
+        },
+        {
+          "text": "namely, out of",
+          "kind": "supplied"
+        },
+        {
+          "text": " the half ",
+          "kind": "text"
+        },
+        {
+          "text": "tribe",
+          "kind": "supplied"
+        },
+        {
+          "text": " of Manasseh, by lot, ten cities.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.6.62",
+      "edition_verse_id": "KJV1769:1CH.6.62",
+      "verse": 62,
+      "spans": [
+        {
+          "text": "And to the sons of Gershom throughout their families out of the tribe of Issachar, and out of the tribe of Asher, and out of the tribe of Naphtali, and out of the tribe of Manasseh in Bashan, thirteen cities.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.6.63",
+      "edition_verse_id": "KJV1769:1CH.6.63",
+      "verse": 63,
+      "spans": [
+        {
+          "text": "Unto the sons of Merari ",
+          "kind": "text"
+        },
+        {
+          "text": "were given",
+          "kind": "supplied"
+        },
+        {
+          "text": " by lot, throughout their families, out of the tribe of Reuben, and out of the tribe of Gad, and out of the tribe of Zebulun, twelve cities.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.6.64",
+      "edition_verse_id": "KJV1769:1CH.6.64",
+      "verse": 64,
+      "spans": [
+        {
+          "text": "And the children of Israel gave to the Levites ",
+          "kind": "text"
+        },
+        {
+          "text": "these",
+          "kind": "supplied"
+        },
+        {
+          "text": " cities with their suburbs.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.6.65",
+      "edition_verse_id": "KJV1769:1CH.6.65",
+      "verse": 65,
+      "spans": [
+        {
+          "text": "And they gave by lot out of the tribe of the children of Judah, and out of the tribe of the children of Simeon, and out of the tribe of the children of Benjamin, these cities, which are called by ",
+          "kind": "text"
+        },
+        {
+          "text": "their",
+          "kind": "supplied"
+        },
+        {
+          "text": " names.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.6.66",
+      "edition_verse_id": "KJV1769:1CH.6.66",
+      "verse": 66,
+      "spans": [
+        {
+          "text": "And ",
+          "kind": "text"
+        },
+        {
+          "text": "the residue",
+          "kind": "supplied"
+        },
+        {
+          "text": " of the families of the sons of Kohath had cities of their coasts out of the tribe of Ephraim.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.6.67",
+      "edition_verse_id": "KJV1769:1CH.6.67",
+      "verse": 67,
+      "spans": [
+        {
+          "text": "And they gave unto them, ",
+          "kind": "text"
+        },
+        {
+          "text": "of",
+          "kind": "supplied"
+        },
+        {
+          "text": " the cities of refuge, Shechem in mount Ephraim with her suburbs; ",
+          "kind": "text"
+        },
+        {
+          "text": "they gave",
+          "kind": "supplied"
+        },
+        {
+          "text": " also Gezer with her suburbs,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.6.68",
+      "edition_verse_id": "KJV1769:1CH.6.68",
+      "verse": 68,
+      "spans": [
+        {
+          "text": "And Jokmeam with her suburbs, and Beth-horon with her suburbs,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.6.69",
+      "edition_verse_id": "KJV1769:1CH.6.69",
+      "verse": 69,
+      "spans": [
+        {
+          "text": "And Aijalon with her suburbs, and Gath-rimmon with her suburbs:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.6.70",
+      "edition_verse_id": "KJV1769:1CH.6.70",
+      "verse": 70,
+      "spans": [
+        {
+          "text": "And out of the half tribe of Manasseh; Aner with her suburbs, and Bileam with her suburbs, for the family of the remnant of the sons of Kohath.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.6.71",
+      "edition_verse_id": "KJV1769:1CH.6.71",
+      "verse": 71,
+      "spans": [
+        {
+          "text": "Unto the sons of Gershom ",
+          "kind": "text"
+        },
+        {
+          "text": "were given",
+          "kind": "supplied"
+        },
+        {
+          "text": " out of the family of the half tribe of Manasseh, Golan in Bashan with her suburbs, and Ashtaroth with her suburbs:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.6.72",
+      "edition_verse_id": "KJV1769:1CH.6.72",
+      "verse": 72,
+      "spans": [
+        {
+          "text": "And out of the tribe of Issachar; Kedesh with her suburbs, Daberath with her suburbs,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.6.73",
+      "edition_verse_id": "KJV1769:1CH.6.73",
+      "verse": 73,
+      "spans": [
+        {
+          "text": "And Ramoth with her suburbs, and Anem with her suburbs:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.6.74",
+      "edition_verse_id": "KJV1769:1CH.6.74",
+      "verse": 74,
+      "spans": [
+        {
+          "text": "And out of the tribe of Asher; Mashal with her suburbs, and Abdon with her suburbs,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.6.75",
+      "edition_verse_id": "KJV1769:1CH.6.75",
+      "verse": 75,
+      "spans": [
+        {
+          "text": "And Hukok with her suburbs, and Rehob with her suburbs:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.6.76",
+      "edition_verse_id": "KJV1769:1CH.6.76",
+      "verse": 76,
+      "spans": [
+        {
+          "text": "And out of the tribe of Naphtali; Kedesh in Galilee with her suburbs, and Hammon with her suburbs, and Kirjathaim with her suburbs.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.6.77",
+      "edition_verse_id": "KJV1769:1CH.6.77",
+      "verse": 77,
+      "spans": [
+        {
+          "text": "Unto the rest of the children of Merari ",
+          "kind": "text"
+        },
+        {
+          "text": "were given",
+          "kind": "supplied"
+        },
+        {
+          "text": " out of the tribe of Zebulun, Rimmon with her suburbs, Tabor with her suburbs:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.6.78",
+      "edition_verse_id": "KJV1769:1CH.6.78",
+      "verse": 78,
+      "spans": [
+        {
+          "text": "And on the other side Jordan by Jericho, on the east side of Jordan, ",
+          "kind": "text"
+        },
+        {
+          "text": "were given them",
+          "kind": "supplied"
+        },
+        {
+          "text": " out of the tribe of Reuben, Bezer in the wilderness with her suburbs, and Jahzah with her suburbs,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.6.79",
+      "edition_verse_id": "KJV1769:1CH.6.79",
+      "verse": 79,
+      "spans": [
+        {
+          "text": "Kedemoth also with her suburbs, and Mephaath with her suburbs:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.6.80",
+      "edition_verse_id": "KJV1769:1CH.6.80",
+      "verse": 80,
+      "spans": [
+        {
+          "text": "And out of the tribe of Gad; Ramoth in Gilead with her suburbs, and Mahanaim with her suburbs,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.6.81",
+      "edition_verse_id": "KJV1769:1CH.6.81",
+      "verse": 81,
+      "spans": [
+        {
+          "text": "And Heshbon with her suburbs, and Jazer with her suburbs.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

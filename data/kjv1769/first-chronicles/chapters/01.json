@@ -1,0 +1,776 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "KJV1769",
+  "book_code": "1CH",
+  "chapter": 1,
+  "verses": [
+    {
+      "id": "1CH.1.1",
+      "edition_verse_id": "KJV1769:1CH.1.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "Adam, Sheth, Enosh,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1CH.1.2",
+      "edition_verse_id": "KJV1769:1CH.1.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "Kenan, Mahalaleel, Jered,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.1.3",
+      "edition_verse_id": "KJV1769:1CH.1.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "Henoch, Methuselah, Lamech,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.1.4",
+      "edition_verse_id": "KJV1769:1CH.1.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "Noah, Shem, Ham, and Japheth.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.1.5",
+      "edition_verse_id": "KJV1769:1CH.1.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "¶ The sons of Japheth; Gomer, and Magog, and Madai, and Javan, and Tubal, and Meshech, and Tiras.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1CH.1.6",
+      "edition_verse_id": "KJV1769:1CH.1.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "And the sons of Gomer; Ashchenaz, and Riphath, and Togarmah.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.1.7",
+      "edition_verse_id": "KJV1769:1CH.1.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "And the sons of Javan; Elishah, and Tarshish, Kittim, and Dodanim.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.1.8",
+      "edition_verse_id": "KJV1769:1CH.1.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "¶ The sons of Ham; Cush, and Mizraim, Put, and Canaan.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1CH.1.9",
+      "edition_verse_id": "KJV1769:1CH.1.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "And the sons of Cush; Seba, and Havilah, and Sabta, and Raamah, and Sabtecha. And the sons of Raamah; Sheba, and Dedan.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.1.10",
+      "edition_verse_id": "KJV1769:1CH.1.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "And Cush begat Nimrod: he began to be mighty upon the earth.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.1.11",
+      "edition_verse_id": "KJV1769:1CH.1.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "And Mizraim begat Ludim, and Anamim, and Lehabim, and Naphtuhim,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.1.12",
+      "edition_verse_id": "KJV1769:1CH.1.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "And Pathrusim, and Casluhim, (of whom came the Philistines,) and Caphthorim.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.1.13",
+      "edition_verse_id": "KJV1769:1CH.1.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "And Canaan begat Zidon his firstborn, and Heth,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.1.14",
+      "edition_verse_id": "KJV1769:1CH.1.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "The Jebusite also, and the Amorite, and the Girgashite,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.1.15",
+      "edition_verse_id": "KJV1769:1CH.1.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "And the Hivite, and the Arkite, and the Sinite,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.1.16",
+      "edition_verse_id": "KJV1769:1CH.1.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "And the Arvadite, and the Zemarite, and the Hamathite.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.1.17",
+      "edition_verse_id": "KJV1769:1CH.1.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "¶ The sons of Shem; Elam, and Asshur, and Arphaxad, and Lud, and Aram, and Uz, and Hul, and Gether, and Meshech.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1CH.1.18",
+      "edition_verse_id": "KJV1769:1CH.1.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "And Arphaxad begat Shelah, and Shelah begat Eber.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.1.19",
+      "edition_verse_id": "KJV1769:1CH.1.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "And unto Eber were born two sons: the name of the one ",
+          "kind": "text"
+        },
+        {
+          "text": "was",
+          "kind": "supplied"
+        },
+        {
+          "text": " Peleg; because in his days the earth was divided: and his brother’s name ",
+          "kind": "text"
+        },
+        {
+          "text": "was",
+          "kind": "supplied"
+        },
+        {
+          "text": " Joktan.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.1.20",
+      "edition_verse_id": "KJV1769:1CH.1.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "And Joktan begat Almodad, and Sheleph, and Hazarmaveth, and Jerah,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.1.21",
+      "edition_verse_id": "KJV1769:1CH.1.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "Hadoram also, and Uzal, and Diklah,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.1.22",
+      "edition_verse_id": "KJV1769:1CH.1.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "And Ebal, and Abimael, and Sheba,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.1.23",
+      "edition_verse_id": "KJV1769:1CH.1.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "And Ophir, and Havilah, and Jobab. All these ",
+          "kind": "text"
+        },
+        {
+          "text": "were",
+          "kind": "supplied"
+        },
+        {
+          "text": " the sons of Joktan.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.1.24",
+      "edition_verse_id": "KJV1769:1CH.1.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "¶ Shem, Arphaxad, Shelah,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1CH.1.25",
+      "edition_verse_id": "KJV1769:1CH.1.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "Eber, Peleg, Reu,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.1.26",
+      "edition_verse_id": "KJV1769:1CH.1.26",
+      "verse": 26,
+      "spans": [
+        {
+          "text": "Serug, Nahor, Terah,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.1.27",
+      "edition_verse_id": "KJV1769:1CH.1.27",
+      "verse": 27,
+      "spans": [
+        {
+          "text": "Abram; the same ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " Abraham.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.1.28",
+      "edition_verse_id": "KJV1769:1CH.1.28",
+      "verse": 28,
+      "spans": [
+        {
+          "text": "The sons of Abraham; Isaac, and Ishmael.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1CH.1.29",
+      "edition_verse_id": "KJV1769:1CH.1.29",
+      "verse": 29,
+      "spans": [
+        {
+          "text": "¶ These ",
+          "kind": "text"
+        },
+        {
+          "text": "are",
+          "kind": "supplied"
+        },
+        {
+          "text": " their generations: The firstborn of Ishmael, Nebaioth; then Kedar, and Adbeel, and Mibsam,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1CH.1.30",
+      "edition_verse_id": "KJV1769:1CH.1.30",
+      "verse": 30,
+      "spans": [
+        {
+          "text": "Mishma, and Dumah, Massa, Hadad, and Tema,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.1.31",
+      "edition_verse_id": "KJV1769:1CH.1.31",
+      "verse": 31,
+      "spans": [
+        {
+          "text": "Jetur, Naphish, and Kedemah. These are the sons of Ishmael.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.1.32",
+      "edition_verse_id": "KJV1769:1CH.1.32",
+      "verse": 32,
+      "spans": [
+        {
+          "text": "¶ Now the sons of Keturah, Abraham’s concubine: she bare Zimran, and Jokshan, and Medan, and Midian, and Ishbak, and Shuah. And the sons of Jokshan; Sheba, and Dedan.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1CH.1.33",
+      "edition_verse_id": "KJV1769:1CH.1.33",
+      "verse": 33,
+      "spans": [
+        {
+          "text": "And the sons of Midian; Ephah, and Epher, and Henoch, and Abida, and Eldaah. All these ",
+          "kind": "text"
+        },
+        {
+          "text": "are",
+          "kind": "supplied"
+        },
+        {
+          "text": " the sons of Keturah.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.1.34",
+      "edition_verse_id": "KJV1769:1CH.1.34",
+      "verse": 34,
+      "spans": [
+        {
+          "text": "And Abraham begat Isaac. The sons of Isaac; Esau and Israel.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.1.35",
+      "edition_verse_id": "KJV1769:1CH.1.35",
+      "verse": 35,
+      "spans": [
+        {
+          "text": "¶ The sons of Esau; Eliphaz, Reuel, and Jeush, and Jaalam, and Korah.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1CH.1.36",
+      "edition_verse_id": "KJV1769:1CH.1.36",
+      "verse": 36,
+      "spans": [
+        {
+          "text": "The sons of Eliphaz; Teman, and Omar, Zephi, and Gatam, Kenaz, and Timna, and Amalek.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.1.37",
+      "edition_verse_id": "KJV1769:1CH.1.37",
+      "verse": 37,
+      "spans": [
+        {
+          "text": "The sons of Reuel; Nahath, Zerah, Shammah, and Mizzah.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.1.38",
+      "edition_verse_id": "KJV1769:1CH.1.38",
+      "verse": 38,
+      "spans": [
+        {
+          "text": "And the sons of Seir; Lotan, and Shobal, and Zibeon, and Anah, and Dishon, and Ezer, and Dishan.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.1.39",
+      "edition_verse_id": "KJV1769:1CH.1.39",
+      "verse": 39,
+      "spans": [
+        {
+          "text": "And the sons of Lotan; Hori, and Homam: and Timna ",
+          "kind": "text"
+        },
+        {
+          "text": "was",
+          "kind": "supplied"
+        },
+        {
+          "text": " Lotan’s sister.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.1.40",
+      "edition_verse_id": "KJV1769:1CH.1.40",
+      "verse": 40,
+      "spans": [
+        {
+          "text": "The sons of Shobal; Alian, and Manahath, and Ebal, Shephi, and Onam. And the sons of Zibeon; Aiah, and Anah.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.1.41",
+      "edition_verse_id": "KJV1769:1CH.1.41",
+      "verse": 41,
+      "spans": [
+        {
+          "text": "The sons of Anah; Dishon. And the sons of Dishon; Amram, and Eshban, and Ithran, and Cheran.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.1.42",
+      "edition_verse_id": "KJV1769:1CH.1.42",
+      "verse": 42,
+      "spans": [
+        {
+          "text": "The sons of Ezer; Bilhan, and Zavan, ",
+          "kind": "text"
+        },
+        {
+          "text": "and",
+          "kind": "supplied"
+        },
+        {
+          "text": " Jakan. The sons of Dishan; Uz, and Aran.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.1.43",
+      "edition_verse_id": "KJV1769:1CH.1.43",
+      "verse": 43,
+      "spans": [
+        {
+          "text": "¶ Now these ",
+          "kind": "text"
+        },
+        {
+          "text": "are",
+          "kind": "supplied"
+        },
+        {
+          "text": " the kings that reigned in the land of Edom before ",
+          "kind": "text"
+        },
+        {
+          "text": "any",
+          "kind": "supplied"
+        },
+        {
+          "text": " king reigned over the children of Israel; Bela the son of Beor: and the name of his city ",
+          "kind": "text"
+        },
+        {
+          "text": "was",
+          "kind": "supplied"
+        },
+        {
+          "text": " Dinhabah.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1CH.1.44",
+      "edition_verse_id": "KJV1769:1CH.1.44",
+      "verse": 44,
+      "spans": [
+        {
+          "text": "And when Bela was dead, Jobab the son of Zerah of Bozrah reigned in his stead.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.1.45",
+      "edition_verse_id": "KJV1769:1CH.1.45",
+      "verse": 45,
+      "spans": [
+        {
+          "text": "And when Jobab was dead, Husham of the land of the Temanites reigned in his stead.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.1.46",
+      "edition_verse_id": "KJV1769:1CH.1.46",
+      "verse": 46,
+      "spans": [
+        {
+          "text": "And when Husham was dead, Hadad the son of Bedad, which smote Midian in the field of Moab, reigned in his stead: and the name of his city ",
+          "kind": "text"
+        },
+        {
+          "text": "was",
+          "kind": "supplied"
+        },
+        {
+          "text": " Avith.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.1.47",
+      "edition_verse_id": "KJV1769:1CH.1.47",
+      "verse": 47,
+      "spans": [
+        {
+          "text": "And when Hadad was dead, Samlah of Masrekah reigned in his stead.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.1.48",
+      "edition_verse_id": "KJV1769:1CH.1.48",
+      "verse": 48,
+      "spans": [
+        {
+          "text": "And when Samlah was dead, Shaul of Rehoboth by the river reigned in his stead.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.1.49",
+      "edition_verse_id": "KJV1769:1CH.1.49",
+      "verse": 49,
+      "spans": [
+        {
+          "text": "And when Shaul was dead, Baal-hanan the son of Achbor reigned in his stead.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.1.50",
+      "edition_verse_id": "KJV1769:1CH.1.50",
+      "verse": 50,
+      "spans": [
+        {
+          "text": "And when Baal-hanan was dead, Hadad reigned in his stead: and the name of his city ",
+          "kind": "text"
+        },
+        {
+          "text": "was",
+          "kind": "supplied"
+        },
+        {
+          "text": " Pai; and his wife’s name ",
+          "kind": "text"
+        },
+        {
+          "text": "was",
+          "kind": "supplied"
+        },
+        {
+          "text": " Mehetabel, the daughter of Matred, the daughter of Mezahab.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.1.51",
+      "edition_verse_id": "KJV1769:1CH.1.51",
+      "verse": 51,
+      "spans": [
+        {
+          "text": "¶ Hadad died also. And the dukes of Edom were; duke Timnah, duke Aliah, duke Jetheth,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1CH.1.52",
+      "edition_verse_id": "KJV1769:1CH.1.52",
+      "verse": 52,
+      "spans": [
+        {
+          "text": "Duke Aholibamah, duke Elah, duke Pinon,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.1.53",
+      "edition_verse_id": "KJV1769:1CH.1.53",
+      "verse": 53,
+      "spans": [
+        {
+          "text": "Duke Kenaz, duke Teman, duke Mibzar,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.1.54",
+      "edition_verse_id": "KJV1769:1CH.1.54",
+      "verse": 54,
+      "spans": [
+        {
+          "text": "Duke Magdiel, duke Iram. These ",
+          "kind": "text"
+        },
+        {
+          "text": "are",
+          "kind": "supplied"
+        },
+        {
+          "text": " the dukes of Edom.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

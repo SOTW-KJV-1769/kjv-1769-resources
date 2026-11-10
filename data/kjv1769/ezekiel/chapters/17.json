@@ -1,0 +1,444 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "KJV1769",
+  "book_code": "EZK",
+  "chapter": 17,
+  "verses": [
+    {
+      "id": "EZK.17.1",
+      "edition_verse_id": "KJV1769:EZK.17.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "And the word of the LORD came unto me, saying,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EZK.17.2",
+      "edition_verse_id": "KJV1769:EZK.17.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "Son of man, put forth a riddle, and speak a parable unto the house of Israel;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.17.3",
+      "edition_verse_id": "KJV1769:EZK.17.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "And say, Thus saith the Lord GOD; A great eagle with great wings, longwinged, full of feathers, which had divers colours, came unto Lebanon, and took the highest branch of the cedar:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.17.4",
+      "edition_verse_id": "KJV1769:EZK.17.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "He cropped off the top of his young twigs, and carried it into a land of traffick; he set it in a city of merchants.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.17.5",
+      "edition_verse_id": "KJV1769:EZK.17.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "He took also of the seed of the land, and planted it in a fruitful field; he placed ",
+          "kind": "text"
+        },
+        {
+          "text": "it",
+          "kind": "supplied"
+        },
+        {
+          "text": " by great waters, ",
+          "kind": "text"
+        },
+        {
+          "text": "and",
+          "kind": "supplied"
+        },
+        {
+          "text": " set it ",
+          "kind": "text"
+        },
+        {
+          "text": "as",
+          "kind": "supplied"
+        },
+        {
+          "text": " a willow tree.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.17.6",
+      "edition_verse_id": "KJV1769:EZK.17.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "And it grew, and became a spreading vine of low stature, whose branches turned toward him, and the roots thereof were under him: so it became a vine, and brought forth branches, and shot forth sprigs.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.17.7",
+      "edition_verse_id": "KJV1769:EZK.17.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "There was also another great eagle with great wings and many feathers: and, behold, this vine did bend her roots toward him, and shot forth her branches toward him, that he might water it by the furrows of her plantation.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.17.8",
+      "edition_verse_id": "KJV1769:EZK.17.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "It was planted in a good soil by great waters, that it might bring forth branches, and that it might bear fruit, that it might be a goodly vine.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.17.9",
+      "edition_verse_id": "KJV1769:EZK.17.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "Say thou, Thus saith the Lord GOD; Shall it prosper? shall he not pull up the roots thereof, and cut off the fruit thereof, that it wither? it shall wither in all the leaves of her spring, even without great power or many people to pluck it up by the roots thereof.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.17.10",
+      "edition_verse_id": "KJV1769:EZK.17.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "Yea, behold, ",
+          "kind": "text"
+        },
+        {
+          "text": "being",
+          "kind": "supplied"
+        },
+        {
+          "text": " planted, shall it prosper? shall it not utterly wither, when the east wind toucheth it? it shall wither in the furrows where it grew.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.17.11",
+      "edition_verse_id": "KJV1769:EZK.17.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "¶ Moreover the word of the LORD came unto me, saying,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EZK.17.12",
+      "edition_verse_id": "KJV1769:EZK.17.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "Say now to the rebellious house, Know ye not what these ",
+          "kind": "text"
+        },
+        {
+          "text": "things mean",
+          "kind": "supplied"
+        },
+        {
+          "text": "? tell ",
+          "kind": "text"
+        },
+        {
+          "text": "them",
+          "kind": "supplied"
+        },
+        {
+          "text": ", Behold, the king of Babylon is come to Jerusalem, and hath taken the king thereof, and the princes thereof, and led them with him to Babylon;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.17.13",
+      "edition_verse_id": "KJV1769:EZK.17.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "And hath taken of the king’s seed, and made a covenant with him, and hath taken an oath of him: he hath also taken the mighty of the land:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.17.14",
+      "edition_verse_id": "KJV1769:EZK.17.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "That the kingdom might be base, that it might not lift itself up, ",
+          "kind": "text"
+        },
+        {
+          "text": "but",
+          "kind": "supplied"
+        },
+        {
+          "text": " that by keeping of his covenant it might stand.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.17.15",
+      "edition_verse_id": "KJV1769:EZK.17.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "But he rebelled against him in sending his ambassadors into Egypt, that they might give him horses and much people. Shall he prosper? shall he escape that doeth such ",
+          "kind": "text"
+        },
+        {
+          "text": "things",
+          "kind": "supplied"
+        },
+        {
+          "text": "? or shall he break the covenant, and be delivered?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.17.16",
+      "edition_verse_id": "KJV1769:EZK.17.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "As",
+          "kind": "supplied"
+        },
+        {
+          "text": " I live, saith the Lord GOD, surely in the place ",
+          "kind": "text"
+        },
+        {
+          "text": "where",
+          "kind": "supplied"
+        },
+        {
+          "text": " the king ",
+          "kind": "text"
+        },
+        {
+          "text": "dwelleth",
+          "kind": "supplied"
+        },
+        {
+          "text": " that made him king, whose oath he despised, and whose covenant he brake, ",
+          "kind": "text"
+        },
+        {
+          "text": "even",
+          "kind": "supplied"
+        },
+        {
+          "text": " with him in the midst of Babylon he shall die.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.17.17",
+      "edition_verse_id": "KJV1769:EZK.17.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "Neither shall Pharaoh with ",
+          "kind": "text"
+        },
+        {
+          "text": "his",
+          "kind": "supplied"
+        },
+        {
+          "text": " mighty army and great company make for him in the war, by casting up mounts, and building forts, to cut off many persons:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.17.18",
+      "edition_verse_id": "KJV1769:EZK.17.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "Seeing he despised the oath by breaking the covenant, when, lo, he had given his hand, and hath done all these ",
+          "kind": "text"
+        },
+        {
+          "text": "things",
+          "kind": "supplied"
+        },
+        {
+          "text": ", he shall not escape.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.17.19",
+      "edition_verse_id": "KJV1769:EZK.17.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "Therefore thus saith the Lord GOD; ",
+          "kind": "text"
+        },
+        {
+          "text": "As",
+          "kind": "supplied"
+        },
+        {
+          "text": " I live, surely mine oath that he hath despised, and my covenant that he hath broken, even it will I recompense upon his own head.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.17.20",
+      "edition_verse_id": "KJV1769:EZK.17.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "And I will spread my net upon him, and he shall be taken in my snare, and I will bring him to Babylon, and will plead with him there for his trespass that he hath trespassed against me.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.17.21",
+      "edition_verse_id": "KJV1769:EZK.17.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "And all his fugitives with all his bands shall fall by the sword, and they that remain shall be scattered toward all winds: and ye shall know that I the LORD have spoken ",
+          "kind": "text"
+        },
+        {
+          "text": "it",
+          "kind": "supplied"
+        },
+        {
+          "text": ".",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.17.22",
+      "edition_verse_id": "KJV1769:EZK.17.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "¶ Thus saith the Lord GOD; I will also take of the highest branch of the high cedar, and will set ",
+          "kind": "text"
+        },
+        {
+          "text": "it;",
+          "kind": "supplied"
+        },
+        {
+          "text": " I will crop off from the top of his young twigs a tender one, and will plant ",
+          "kind": "text"
+        },
+        {
+          "text": "it",
+          "kind": "supplied"
+        },
+        {
+          "text": " upon an high mountain and eminent:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EZK.17.23",
+      "edition_verse_id": "KJV1769:EZK.17.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "In the mountain of the height of Israel will I plant it: and it shall bring forth boughs, and bear fruit, and be a goodly cedar: and under it shall dwell all fowl of every wing; in the shadow of the branches thereof shall they dwell.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.17.24",
+      "edition_verse_id": "KJV1769:EZK.17.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "And all the trees of the field shall know that I the LORD have brought down the high tree, have exalted the low tree, have dried up the green tree, and have made the dry tree to flourish: I the LORD have spoken and have done ",
+          "kind": "text"
+        },
+        {
+          "text": "it",
+          "kind": "supplied"
+        },
+        {
+          "text": ".",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

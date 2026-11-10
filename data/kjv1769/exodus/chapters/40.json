@@ -1,0 +1,520 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "KJV1769",
+  "book_code": "EXO",
+  "chapter": 40,
+  "verses": [
+    {
+      "id": "EXO.40.1",
+      "edition_verse_id": "KJV1769:EXO.40.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "And the LORD spake unto Moses, saying,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EXO.40.2",
+      "edition_verse_id": "KJV1769:EXO.40.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "On the first day of the first month shalt thou set up the tabernacle of the tent of the congregation.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.40.3",
+      "edition_verse_id": "KJV1769:EXO.40.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "And thou shalt put therein the ark of the testimony, and cover the ark with the vail.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.40.4",
+      "edition_verse_id": "KJV1769:EXO.40.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "And thou shalt bring in the table, and set in order the things that are to be set in order upon it; and thou shalt bring in the candlestick, and light the lamps thereof.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.40.5",
+      "edition_verse_id": "KJV1769:EXO.40.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "And thou shalt set the altar of gold for the incense before the ark of the testimony, and put the hanging of the door to the tabernacle.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.40.6",
+      "edition_verse_id": "KJV1769:EXO.40.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "And thou shalt set the altar of the burnt offering before the door of the tabernacle of the tent of the congregation.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.40.7",
+      "edition_verse_id": "KJV1769:EXO.40.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "And thou shalt set the laver between the tent of the congregation and the altar, and shalt put water therein.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.40.8",
+      "edition_verse_id": "KJV1769:EXO.40.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "And thou shalt set up the court round about, and hang up the hanging at the court gate.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.40.9",
+      "edition_verse_id": "KJV1769:EXO.40.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "And thou shalt take the anointing oil, and anoint the tabernacle, and all that ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " therein, and shalt hallow it, and all the vessels thereof: and it shall be holy.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.40.10",
+      "edition_verse_id": "KJV1769:EXO.40.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "And thou shalt anoint the altar of the burnt offering, and all his vessels, and sanctify the altar: and it shall be an altar most holy.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.40.11",
+      "edition_verse_id": "KJV1769:EXO.40.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "And thou shalt anoint the laver and his foot, and sanctify it.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.40.12",
+      "edition_verse_id": "KJV1769:EXO.40.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "And thou shalt bring Aaron and his sons unto the door of the tabernacle of the congregation, and wash them with water.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.40.13",
+      "edition_verse_id": "KJV1769:EXO.40.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "And thou shalt put upon Aaron the holy garments, and anoint him, and sanctify him; that he may minister unto me in the priest’s office.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.40.14",
+      "edition_verse_id": "KJV1769:EXO.40.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "And thou shalt bring his sons, and clothe them with coats:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.40.15",
+      "edition_verse_id": "KJV1769:EXO.40.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "And thou shalt anoint them, as thou didst anoint their father, that they may minister unto me in the priest’s office: for their anointing shall surely be an everlasting priesthood throughout their generations.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.40.16",
+      "edition_verse_id": "KJV1769:EXO.40.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "Thus did Moses: according to all that the LORD commanded him, so did he.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EXO.40.17",
+      "edition_verse_id": "KJV1769:EXO.40.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "¶ And it came to pass in the first month in the second year, on the first ",
+          "kind": "text"
+        },
+        {
+          "text": "day",
+          "kind": "supplied"
+        },
+        {
+          "text": " of the month, ",
+          "kind": "text"
+        },
+        {
+          "text": "that",
+          "kind": "supplied"
+        },
+        {
+          "text": " the tabernacle was reared up.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EXO.40.18",
+      "edition_verse_id": "KJV1769:EXO.40.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "And Moses reared up the tabernacle, and fastened his sockets, and set up the boards thereof, and put in the bars thereof, and reared up his pillars.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.40.19",
+      "edition_verse_id": "KJV1769:EXO.40.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "And he spread abroad the tent over the tabernacle, and put the covering of the tent above upon it; as the LORD commanded Moses.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.40.20",
+      "edition_verse_id": "KJV1769:EXO.40.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "¶ And he took and put the testimony into the ark, and set the staves on the ark, and put the mercy seat above upon the ark:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EXO.40.21",
+      "edition_verse_id": "KJV1769:EXO.40.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "And he brought the ark into the tabernacle, and set up the vail of the covering, and covered the ark of the testimony; as the LORD commanded Moses.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.40.22",
+      "edition_verse_id": "KJV1769:EXO.40.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "¶ And he put the table in the tent of the congregation, upon the side of the tabernacle northward, without the vail.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EXO.40.23",
+      "edition_verse_id": "KJV1769:EXO.40.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "And he set the bread in order upon it before the LORD; as the LORD had commanded Moses.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.40.24",
+      "edition_verse_id": "KJV1769:EXO.40.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "¶ And he put the candlestick in the tent of the congregation, over against the table, on the side of the tabernacle southward.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EXO.40.25",
+      "edition_verse_id": "KJV1769:EXO.40.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "And he lighted the lamps before the LORD; as the LORD commanded Moses.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.40.26",
+      "edition_verse_id": "KJV1769:EXO.40.26",
+      "verse": 26,
+      "spans": [
+        {
+          "text": "¶ And he put the golden altar in the tent of the congregation before the vail:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EXO.40.27",
+      "edition_verse_id": "KJV1769:EXO.40.27",
+      "verse": 27,
+      "spans": [
+        {
+          "text": "And he burnt sweet incense thereon; as the LORD commanded Moses.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.40.28",
+      "edition_verse_id": "KJV1769:EXO.40.28",
+      "verse": 28,
+      "spans": [
+        {
+          "text": "¶ And he set up the hanging ",
+          "kind": "text"
+        },
+        {
+          "text": "at",
+          "kind": "supplied"
+        },
+        {
+          "text": " the door of the tabernacle.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EXO.40.29",
+      "edition_verse_id": "KJV1769:EXO.40.29",
+      "verse": 29,
+      "spans": [
+        {
+          "text": "And he put the altar of burnt offering ",
+          "kind": "text"
+        },
+        {
+          "text": "by",
+          "kind": "supplied"
+        },
+        {
+          "text": " the door of the tabernacle of the tent of the congregation, and offered upon it the burnt offering and the meat offering; as the LORD commanded Moses.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.40.30",
+      "edition_verse_id": "KJV1769:EXO.40.30",
+      "verse": 30,
+      "spans": [
+        {
+          "text": "¶ And he set the laver between the tent of the congregation and the altar, and put water there, to wash ",
+          "kind": "text"
+        },
+        {
+          "text": "withal",
+          "kind": "supplied"
+        },
+        {
+          "text": ".",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EXO.40.31",
+      "edition_verse_id": "KJV1769:EXO.40.31",
+      "verse": 31,
+      "spans": [
+        {
+          "text": "And Moses and Aaron and his sons washed their hands and their feet thereat:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.40.32",
+      "edition_verse_id": "KJV1769:EXO.40.32",
+      "verse": 32,
+      "spans": [
+        {
+          "text": "When they went into the tent of the congregation, and when they came near unto the altar, they washed; as the LORD commanded Moses.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.40.33",
+      "edition_verse_id": "KJV1769:EXO.40.33",
+      "verse": 33,
+      "spans": [
+        {
+          "text": "And he reared up the court round about the tabernacle and the altar, and set up the hanging of the court gate. So Moses finished the work.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.40.34",
+      "edition_verse_id": "KJV1769:EXO.40.34",
+      "verse": 34,
+      "spans": [
+        {
+          "text": "¶ Then a cloud covered the tent of the congregation, and the glory of the LORD filled the tabernacle.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EXO.40.35",
+      "edition_verse_id": "KJV1769:EXO.40.35",
+      "verse": 35,
+      "spans": [
+        {
+          "text": "And Moses was not able to enter into the tent of the congregation, because the cloud abode thereon, and the glory of the LORD filled the tabernacle.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.40.36",
+      "edition_verse_id": "KJV1769:EXO.40.36",
+      "verse": 36,
+      "spans": [
+        {
+          "text": "And when the cloud was taken up from over the tabernacle, the children of Israel went onward in all their journeys:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.40.37",
+      "edition_verse_id": "KJV1769:EXO.40.37",
+      "verse": 37,
+      "spans": [
+        {
+          "text": "But if the cloud were not taken up, then they journeyed not till the day that it was taken up.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.40.38",
+      "edition_verse_id": "KJV1769:EXO.40.38",
+      "verse": 38,
+      "spans": [
+        {
+          "text": "For the cloud of the LORD ",
+          "kind": "text"
+        },
+        {
+          "text": "was",
+          "kind": "supplied"
+        },
+        {
+          "text": " upon the tabernacle by day, and fire was on it by night, in the sight of all the house of Israel, throughout all their journeys.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

@@ -1,0 +1,644 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "KJV1769",
+  "book_code": "EZK",
+  "chapter": 43,
+  "verses": [
+    {
+      "id": "EZK.43.1",
+      "edition_verse_id": "KJV1769:EZK.43.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "Afterward he brought me to the gate, ",
+          "kind": "text"
+        },
+        {
+          "text": "even",
+          "kind": "supplied"
+        },
+        {
+          "text": " the gate that looketh toward the east:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EZK.43.2",
+      "edition_verse_id": "KJV1769:EZK.43.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "And, behold, the glory of the God of Israel came from the way of the east: and his voice ",
+          "kind": "text"
+        },
+        {
+          "text": "was",
+          "kind": "supplied"
+        },
+        {
+          "text": " like a noise of many waters: and the earth shined with his glory.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.43.3",
+      "edition_verse_id": "KJV1769:EZK.43.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "And ",
+          "kind": "text"
+        },
+        {
+          "text": "it was",
+          "kind": "supplied"
+        },
+        {
+          "text": " according to the appearance of the vision which I saw, ",
+          "kind": "text"
+        },
+        {
+          "text": "even",
+          "kind": "supplied"
+        },
+        {
+          "text": " according to the vision that I saw when I came to destroy the city: and the visions ",
+          "kind": "text"
+        },
+        {
+          "text": "were",
+          "kind": "supplied"
+        },
+        {
+          "text": " like the vision that I saw by the river Chebar; and I fell upon my face.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.43.4",
+      "edition_verse_id": "KJV1769:EZK.43.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "And the glory of the LORD came into the house by the way of the gate whose prospect ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " toward the east.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.43.5",
+      "edition_verse_id": "KJV1769:EZK.43.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "So the spirit took me up, and brought me into the inner court; and, behold, the glory of the LORD filled the house.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.43.6",
+      "edition_verse_id": "KJV1769:EZK.43.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "And I heard ",
+          "kind": "text"
+        },
+        {
+          "text": "him",
+          "kind": "supplied"
+        },
+        {
+          "text": " speaking unto me out of the house; and the man stood by me.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.43.7",
+      "edition_verse_id": "KJV1769:EZK.43.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "¶ And he said unto me, Son of man, the place of my throne, and the place of the soles of my feet, where I will dwell in the midst of the children of Israel for ever, and my holy name, shall the house of Israel no more defile, ",
+          "kind": "text"
+        },
+        {
+          "text": "neither",
+          "kind": "supplied"
+        },
+        {
+          "text": " they, nor their kings, by their whoredom, nor by the carcases of their kings in their high places.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EZK.43.8",
+      "edition_verse_id": "KJV1769:EZK.43.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "In their setting of their threshold by my thresholds, and their post by my posts, and the wall between me and them, they have even defiled my holy name by their abominations that they have committed: wherefore I have consumed them in mine anger.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.43.9",
+      "edition_verse_id": "KJV1769:EZK.43.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "Now let them put away their whoredom, and the carcases of their kings, far from me, and I will dwell in the midst of them for ever.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.43.10",
+      "edition_verse_id": "KJV1769:EZK.43.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "¶ Thou son of man, shew the house to the house of Israel, that they may be ashamed of their iniquities: and let them measure the pattern.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EZK.43.11",
+      "edition_verse_id": "KJV1769:EZK.43.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "And if they be ashamed of all that they have done, shew them the form of the house, and the fashion thereof, and the goings out thereof, and the comings in thereof, and all the forms thereof, and all the ordinances thereof, and all the forms thereof, and all the laws thereof: and write ",
+          "kind": "text"
+        },
+        {
+          "text": "it",
+          "kind": "supplied"
+        },
+        {
+          "text": " in their sight, that they may keep the whole form thereof, and all the ordinances thereof, and do them.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.43.12",
+      "edition_verse_id": "KJV1769:EZK.43.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "This ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " the law of the house; Upon the top of the mountain the whole limit thereof round about ",
+          "kind": "text"
+        },
+        {
+          "text": "shall be",
+          "kind": "supplied"
+        },
+        {
+          "text": " most holy. Behold, this ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " the law of the house.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.43.13",
+      "edition_verse_id": "KJV1769:EZK.43.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "¶ And these ",
+          "kind": "text"
+        },
+        {
+          "text": "are",
+          "kind": "supplied"
+        },
+        {
+          "text": " the measures of the altar after the cubits: The cubit ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " a cubit and an hand breadth; even the bottom ",
+          "kind": "text"
+        },
+        {
+          "text": "shall be",
+          "kind": "supplied"
+        },
+        {
+          "text": " a cubit, and the breadth a cubit, and the border thereof by the edge thereof round about ",
+          "kind": "text"
+        },
+        {
+          "text": "shall be",
+          "kind": "supplied"
+        },
+        {
+          "text": " a span: and this ",
+          "kind": "text"
+        },
+        {
+          "text": "shall be",
+          "kind": "supplied"
+        },
+        {
+          "text": " the higher place of the altar.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EZK.43.14",
+      "edition_verse_id": "KJV1769:EZK.43.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "And from the bottom ",
+          "kind": "text"
+        },
+        {
+          "text": "upon",
+          "kind": "supplied"
+        },
+        {
+          "text": " the ground ",
+          "kind": "text"
+        },
+        {
+          "text": "even",
+          "kind": "supplied"
+        },
+        {
+          "text": " to the lower settle ",
+          "kind": "text"
+        },
+        {
+          "text": "shall be",
+          "kind": "supplied"
+        },
+        {
+          "text": " two cubits, and the breadth one cubit; and from the lesser settle ",
+          "kind": "text"
+        },
+        {
+          "text": "even",
+          "kind": "supplied"
+        },
+        {
+          "text": " to the greater settle ",
+          "kind": "text"
+        },
+        {
+          "text": "shall be",
+          "kind": "supplied"
+        },
+        {
+          "text": " four cubits, and the breadth ",
+          "kind": "text"
+        },
+        {
+          "text": "one",
+          "kind": "supplied"
+        },
+        {
+          "text": " cubit.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.43.15",
+      "edition_verse_id": "KJV1769:EZK.43.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "So the altar ",
+          "kind": "text"
+        },
+        {
+          "text": "shall be",
+          "kind": "supplied"
+        },
+        {
+          "text": " four cubits; and from the altar and upward ",
+          "kind": "text"
+        },
+        {
+          "text": "shall be",
+          "kind": "supplied"
+        },
+        {
+          "text": " four horns.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.43.16",
+      "edition_verse_id": "KJV1769:EZK.43.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "And the altar ",
+          "kind": "text"
+        },
+        {
+          "text": "shall be",
+          "kind": "supplied"
+        },
+        {
+          "text": " twelve ",
+          "kind": "text"
+        },
+        {
+          "text": "cubits",
+          "kind": "supplied"
+        },
+        {
+          "text": " long, twelve broad, square in the four squares thereof.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.43.17",
+      "edition_verse_id": "KJV1769:EZK.43.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "And the settle ",
+          "kind": "text"
+        },
+        {
+          "text": "shall be",
+          "kind": "supplied"
+        },
+        {
+          "text": " fourteen ",
+          "kind": "text"
+        },
+        {
+          "text": "cubits",
+          "kind": "supplied"
+        },
+        {
+          "text": " long and fourteen broad in the four squares thereof; and the border about it ",
+          "kind": "text"
+        },
+        {
+          "text": "shall be",
+          "kind": "supplied"
+        },
+        {
+          "text": " half a cubit; and the bottom thereof ",
+          "kind": "text"
+        },
+        {
+          "text": "shall be",
+          "kind": "supplied"
+        },
+        {
+          "text": " a cubit about; and his stairs shall look toward the east.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.43.18",
+      "edition_verse_id": "KJV1769:EZK.43.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "¶ And he said unto me, Son of man, thus saith the Lord GOD; These ",
+          "kind": "text"
+        },
+        {
+          "text": "are",
+          "kind": "supplied"
+        },
+        {
+          "text": " the ordinances of the altar in the day when they shall make it, to offer burnt offerings thereon, and to sprinkle blood thereon.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EZK.43.19",
+      "edition_verse_id": "KJV1769:EZK.43.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "And thou shalt give to the priests the Levites that be of the seed of Zadok, which approach unto me, to minister unto me, saith the Lord GOD, a young bullock for a sin offering.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.43.20",
+      "edition_verse_id": "KJV1769:EZK.43.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "And thou shalt take of the blood thereof, and put ",
+          "kind": "text"
+        },
+        {
+          "text": "it",
+          "kind": "supplied"
+        },
+        {
+          "text": " on the four horns of it, and on the four corners of the settle, and upon the border round about: thus shalt thou cleanse and purge it.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.43.21",
+      "edition_verse_id": "KJV1769:EZK.43.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "Thou shalt take the bullock also of the sin offering, and he shall burn it in the appointed place of the house, without the sanctuary.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.43.22",
+      "edition_verse_id": "KJV1769:EZK.43.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "And on the second day thou shalt offer a kid of the goats without blemish for a sin offering; and they shall cleanse the altar, as they did cleanse ",
+          "kind": "text"
+        },
+        {
+          "text": "it",
+          "kind": "supplied"
+        },
+        {
+          "text": " with the bullock.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.43.23",
+      "edition_verse_id": "KJV1769:EZK.43.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "When thou hast made an end of cleansing ",
+          "kind": "text"
+        },
+        {
+          "text": "it",
+          "kind": "supplied"
+        },
+        {
+          "text": ", thou shalt offer a young bullock without blemish, and a ram out of the flock without blemish.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.43.24",
+      "edition_verse_id": "KJV1769:EZK.43.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "And thou shalt offer them before the LORD, and the priests shall cast salt upon them, and they shall offer them up ",
+          "kind": "text"
+        },
+        {
+          "text": "for",
+          "kind": "supplied"
+        },
+        {
+          "text": " a burnt offering unto the LORD.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.43.25",
+      "edition_verse_id": "KJV1769:EZK.43.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "Seven days shalt thou prepare every day a goat ",
+          "kind": "text"
+        },
+        {
+          "text": "for",
+          "kind": "supplied"
+        },
+        {
+          "text": " a sin offering: they shall also prepare a young bullock, and a ram out of the flock, without blemish.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.43.26",
+      "edition_verse_id": "KJV1769:EZK.43.26",
+      "verse": 26,
+      "spans": [
+        {
+          "text": "Seven days shall they purge the altar and purify it; and they shall consecrate themselves.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.43.27",
+      "edition_verse_id": "KJV1769:EZK.43.27",
+      "verse": 27,
+      "spans": [
+        {
+          "text": "And when these days are expired, it shall be, ",
+          "kind": "text"
+        },
+        {
+          "text": "that",
+          "kind": "supplied"
+        },
+        {
+          "text": " upon the eighth day, and ",
+          "kind": "text"
+        },
+        {
+          "text": "so",
+          "kind": "supplied"
+        },
+        {
+          "text": " forward, the priests shall make your burnt offerings upon the altar, and your peace offerings; and I will accept you, saith the Lord GOD.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

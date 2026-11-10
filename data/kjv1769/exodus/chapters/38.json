@@ -1,0 +1,732 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "KJV1769",
+  "book_code": "EXO",
+  "chapter": 38,
+  "verses": [
+    {
+      "id": "EXO.38.1",
+      "edition_verse_id": "KJV1769:EXO.38.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "And he made the altar of burnt offering ",
+          "kind": "text"
+        },
+        {
+          "text": "of",
+          "kind": "supplied"
+        },
+        {
+          "text": " shittim wood: five cubits ",
+          "kind": "text"
+        },
+        {
+          "text": "was",
+          "kind": "supplied"
+        },
+        {
+          "text": " the length thereof, and five cubits the breadth thereof; ",
+          "kind": "text"
+        },
+        {
+          "text": "it was",
+          "kind": "supplied"
+        },
+        {
+          "text": " foursquare; and three cubits the height thereof.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EXO.38.2",
+      "edition_verse_id": "KJV1769:EXO.38.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "And he made the horns thereof on the four corners of it; the horns thereof were of the same: and he overlaid it with brass.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.38.3",
+      "edition_verse_id": "KJV1769:EXO.38.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "And he made all the vessels of the altar, the pots, and the shovels, and the basons, ",
+          "kind": "text"
+        },
+        {
+          "text": "and",
+          "kind": "supplied"
+        },
+        {
+          "text": " the fleshhooks, and the firepans: all the vessels thereof made he ",
+          "kind": "text"
+        },
+        {
+          "text": "of",
+          "kind": "supplied"
+        },
+        {
+          "text": " brass.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.38.4",
+      "edition_verse_id": "KJV1769:EXO.38.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "And he made for the altar a brasen grate of network under the compass thereof beneath unto the midst of it.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.38.5",
+      "edition_verse_id": "KJV1769:EXO.38.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "And he cast four rings for the four ends of the grate of brass, ",
+          "kind": "text"
+        },
+        {
+          "text": "to be",
+          "kind": "supplied"
+        },
+        {
+          "text": " places for the staves.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.38.6",
+      "edition_verse_id": "KJV1769:EXO.38.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "And he made the staves ",
+          "kind": "text"
+        },
+        {
+          "text": "of",
+          "kind": "supplied"
+        },
+        {
+          "text": " shittim wood, and overlaid them with brass.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.38.7",
+      "edition_verse_id": "KJV1769:EXO.38.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "And he put the staves into the rings on the sides of the altar, to bear it withal; he made the altar hollow with boards.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.38.8",
+      "edition_verse_id": "KJV1769:EXO.38.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "¶ And he made the laver ",
+          "kind": "text"
+        },
+        {
+          "text": "of",
+          "kind": "supplied"
+        },
+        {
+          "text": " brass, and the foot of it ",
+          "kind": "text"
+        },
+        {
+          "text": "of",
+          "kind": "supplied"
+        },
+        {
+          "text": " brass, of the lookingglasses of ",
+          "kind": "text"
+        },
+        {
+          "text": "the women",
+          "kind": "supplied"
+        },
+        {
+          "text": " assembling, which assembled ",
+          "kind": "text"
+        },
+        {
+          "text": "at",
+          "kind": "supplied"
+        },
+        {
+          "text": " the door of the tabernacle of the congregation.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EXO.38.9",
+      "edition_verse_id": "KJV1769:EXO.38.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "¶ And he made the court: on the south side southward the hangings of the court ",
+          "kind": "text"
+        },
+        {
+          "text": "were of",
+          "kind": "supplied"
+        },
+        {
+          "text": " fine twined linen, an hundred cubits:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EXO.38.10",
+      "edition_verse_id": "KJV1769:EXO.38.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "Their pillars ",
+          "kind": "text"
+        },
+        {
+          "text": "were",
+          "kind": "supplied"
+        },
+        {
+          "text": " twenty, and their brasen sockets twenty; the hooks of the pillars and their fillets ",
+          "kind": "text"
+        },
+        {
+          "text": "were of",
+          "kind": "supplied"
+        },
+        {
+          "text": " silver.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.38.11",
+      "edition_verse_id": "KJV1769:EXO.38.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "And for the north side ",
+          "kind": "text"
+        },
+        {
+          "text": "the hangings were",
+          "kind": "supplied"
+        },
+        {
+          "text": " an hundred cubits, their pillars ",
+          "kind": "text"
+        },
+        {
+          "text": "were",
+          "kind": "supplied"
+        },
+        {
+          "text": " twenty, and their sockets of brass twenty; the hooks of the pillars and their fillets ",
+          "kind": "text"
+        },
+        {
+          "text": "of",
+          "kind": "supplied"
+        },
+        {
+          "text": " silver.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.38.12",
+      "edition_verse_id": "KJV1769:EXO.38.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "And for the west side ",
+          "kind": "text"
+        },
+        {
+          "text": "were",
+          "kind": "supplied"
+        },
+        {
+          "text": " hangings of fifty cubits, their pillars ten, and their sockets ten; the hooks of the pillars and their fillets ",
+          "kind": "text"
+        },
+        {
+          "text": "of",
+          "kind": "supplied"
+        },
+        {
+          "text": " silver.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.38.13",
+      "edition_verse_id": "KJV1769:EXO.38.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "And for the east side eastward fifty cubits.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.38.14",
+      "edition_verse_id": "KJV1769:EXO.38.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "The hangings of the one side ",
+          "kind": "text"
+        },
+        {
+          "text": "of the gate were",
+          "kind": "supplied"
+        },
+        {
+          "text": " fifteen cubits; their pillars three, and their sockets three.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.38.15",
+      "edition_verse_id": "KJV1769:EXO.38.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "And for the other side of the court gate, on this hand and that hand, ",
+          "kind": "text"
+        },
+        {
+          "text": "were",
+          "kind": "supplied"
+        },
+        {
+          "text": " hangings of fifteen cubits; their pillars three, and their sockets three.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.38.16",
+      "edition_verse_id": "KJV1769:EXO.38.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "All the hangings of the court round about ",
+          "kind": "text"
+        },
+        {
+          "text": "were",
+          "kind": "supplied"
+        },
+        {
+          "text": " of fine twined linen.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.38.17",
+      "edition_verse_id": "KJV1769:EXO.38.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "And the sockets for the pillars ",
+          "kind": "text"
+        },
+        {
+          "text": "were of",
+          "kind": "supplied"
+        },
+        {
+          "text": " brass; the hooks of the pillars and their fillets ",
+          "kind": "text"
+        },
+        {
+          "text": "of",
+          "kind": "supplied"
+        },
+        {
+          "text": " silver; and the overlaying of their chapiters ",
+          "kind": "text"
+        },
+        {
+          "text": "of",
+          "kind": "supplied"
+        },
+        {
+          "text": " silver; and all the pillars of the court ",
+          "kind": "text"
+        },
+        {
+          "text": "were",
+          "kind": "supplied"
+        },
+        {
+          "text": " filleted with silver.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.38.18",
+      "edition_verse_id": "KJV1769:EXO.38.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "And the hanging for the gate of the court ",
+          "kind": "text"
+        },
+        {
+          "text": "was",
+          "kind": "supplied"
+        },
+        {
+          "text": " needlework, ",
+          "kind": "text"
+        },
+        {
+          "text": "of",
+          "kind": "supplied"
+        },
+        {
+          "text": " blue, and purple, and scarlet, and fine twined linen: and twenty cubits ",
+          "kind": "text"
+        },
+        {
+          "text": "was",
+          "kind": "supplied"
+        },
+        {
+          "text": " the length, and the height in the breadth ",
+          "kind": "text"
+        },
+        {
+          "text": "was",
+          "kind": "supplied"
+        },
+        {
+          "text": " five cubits, answerable to the hangings of the court.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.38.19",
+      "edition_verse_id": "KJV1769:EXO.38.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "And their pillars ",
+          "kind": "text"
+        },
+        {
+          "text": "were",
+          "kind": "supplied"
+        },
+        {
+          "text": " four, and their sockets ",
+          "kind": "text"
+        },
+        {
+          "text": "of",
+          "kind": "supplied"
+        },
+        {
+          "text": " brass four; their hooks ",
+          "kind": "text"
+        },
+        {
+          "text": "of",
+          "kind": "supplied"
+        },
+        {
+          "text": " silver, and the overlaying of their chapiters and their fillets ",
+          "kind": "text"
+        },
+        {
+          "text": "of",
+          "kind": "supplied"
+        },
+        {
+          "text": " silver.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.38.20",
+      "edition_verse_id": "KJV1769:EXO.38.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "And all the pins of the tabernacle, and of the court round about, ",
+          "kind": "text"
+        },
+        {
+          "text": "were of",
+          "kind": "supplied"
+        },
+        {
+          "text": " brass.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.38.21",
+      "edition_verse_id": "KJV1769:EXO.38.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "¶ This is the sum of the tabernacle, ",
+          "kind": "text"
+        },
+        {
+          "text": "even",
+          "kind": "supplied"
+        },
+        {
+          "text": " of the tabernacle of testimony, as it was counted, according to the commandment of Moses, ",
+          "kind": "text"
+        },
+        {
+          "text": "for",
+          "kind": "supplied"
+        },
+        {
+          "text": " the service of the Levites, by the hand of Ithamar, son to Aaron the priest.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EXO.38.22",
+      "edition_verse_id": "KJV1769:EXO.38.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "And Bezaleel the son of Uri, the son of Hur, of the tribe of Judah, made all that the LORD commanded Moses.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.38.23",
+      "edition_verse_id": "KJV1769:EXO.38.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "And with him ",
+          "kind": "text"
+        },
+        {
+          "text": "was",
+          "kind": "supplied"
+        },
+        {
+          "text": " Aholiab, son of Ahisamach, of the tribe of Dan, an engraver, and a cunning workman, and an embroiderer in blue, and in purple, and in scarlet, and fine linen.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.38.24",
+      "edition_verse_id": "KJV1769:EXO.38.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "All the gold that was occupied for the work in all the work of the holy ",
+          "kind": "text"
+        },
+        {
+          "text": "place",
+          "kind": "supplied"
+        },
+        {
+          "text": ", even the gold of the offering, was twenty and nine talents, and seven hundred and thirty shekels, after the shekel of the sanctuary.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.38.25",
+      "edition_verse_id": "KJV1769:EXO.38.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "And the silver of them that were numbered of the congregation ",
+          "kind": "text"
+        },
+        {
+          "text": "was",
+          "kind": "supplied"
+        },
+        {
+          "text": " an hundred talents, and a thousand seven hundred and threescore and fifteen shekels, after the shekel of the sanctuary:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.38.26",
+      "edition_verse_id": "KJV1769:EXO.38.26",
+      "verse": 26,
+      "spans": [
+        {
+          "text": "A bekah for every man, ",
+          "kind": "text"
+        },
+        {
+          "text": "that is",
+          "kind": "supplied"
+        },
+        {
+          "text": ", half a shekel, after the shekel of the sanctuary, for every one that went to be numbered, from twenty years old and upward, for six hundred thousand and three thousand and five hundred and fifty ",
+          "kind": "text"
+        },
+        {
+          "text": "men",
+          "kind": "supplied"
+        },
+        {
+          "text": ".",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.38.27",
+      "edition_verse_id": "KJV1769:EXO.38.27",
+      "verse": 27,
+      "spans": [
+        {
+          "text": "And of the hundred talents of silver were cast the sockets of the sanctuary, and the sockets of the vail; an hundred sockets of the hundred talents, a talent for a socket.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.38.28",
+      "edition_verse_id": "KJV1769:EXO.38.28",
+      "verse": 28,
+      "spans": [
+        {
+          "text": "And of the thousand seven hundred seventy and five ",
+          "kind": "text"
+        },
+        {
+          "text": "shekels",
+          "kind": "supplied"
+        },
+        {
+          "text": " he made hooks for the pillars, and overlaid their chapiters, and filleted them.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.38.29",
+      "edition_verse_id": "KJV1769:EXO.38.29",
+      "verse": 29,
+      "spans": [
+        {
+          "text": "And the brass of the offering ",
+          "kind": "text"
+        },
+        {
+          "text": "was",
+          "kind": "supplied"
+        },
+        {
+          "text": " seventy talents, and two thousand and four hundred shekels.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.38.30",
+      "edition_verse_id": "KJV1769:EXO.38.30",
+      "verse": 30,
+      "spans": [
+        {
+          "text": "And therewith he made the sockets to the door of the tabernacle of the congregation, and the brasen altar, and the brasen grate for it, and all the vessels of the altar,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.38.31",
+      "edition_verse_id": "KJV1769:EXO.38.31",
+      "verse": 31,
+      "spans": [
+        {
+          "text": "And the sockets of the court round about, and the sockets of the court gate, and all the pins of the tabernacle, and all the pins of the court round about.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

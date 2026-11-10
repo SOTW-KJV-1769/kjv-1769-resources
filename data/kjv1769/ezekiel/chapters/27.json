@@ -1,0 +1,724 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "KJV1769",
+  "book_code": "EZK",
+  "chapter": 27,
+  "verses": [
+    {
+      "id": "EZK.27.1",
+      "edition_verse_id": "KJV1769:EZK.27.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "The word of the LORD came again unto me, saying,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EZK.27.2",
+      "edition_verse_id": "KJV1769:EZK.27.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "Now, thou son of man, take up a lamentation for Tyrus;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.27.3",
+      "edition_verse_id": "KJV1769:EZK.27.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "And say unto Tyrus, O thou that art situate at the entry of the sea, ",
+          "kind": "text"
+        },
+        {
+          "text": "which art",
+          "kind": "supplied"
+        },
+        {
+          "text": " a merchant of the people for many isles, Thus saith the Lord GOD; O Tyrus, thou hast said, I ",
+          "kind": "text"
+        },
+        {
+          "text": "am",
+          "kind": "supplied"
+        },
+        {
+          "text": " of perfect beauty.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.27.4",
+      "edition_verse_id": "KJV1769:EZK.27.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "Thy borders ",
+          "kind": "text"
+        },
+        {
+          "text": "are",
+          "kind": "supplied"
+        },
+        {
+          "text": " in the midst of the seas, thy builders have perfected thy beauty.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.27.5",
+      "edition_verse_id": "KJV1769:EZK.27.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "They have made all thy ",
+          "kind": "text"
+        },
+        {
+          "text": "ship",
+          "kind": "supplied"
+        },
+        {
+          "text": " boards of fir trees of Senir: they have taken cedars from Lebanon to make masts for thee.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.27.6",
+      "edition_verse_id": "KJV1769:EZK.27.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "Of",
+          "kind": "supplied"
+        },
+        {
+          "text": " the oaks of Bashan have they made thine oars; the company of the Ashurites have made thy benches ",
+          "kind": "text"
+        },
+        {
+          "text": "of",
+          "kind": "supplied"
+        },
+        {
+          "text": " ivory, ",
+          "kind": "text"
+        },
+        {
+          "text": "brought",
+          "kind": "supplied"
+        },
+        {
+          "text": " out of the isles of Chittim.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.27.7",
+      "edition_verse_id": "KJV1769:EZK.27.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "Fine linen with broidered work from Egypt was that which thou spreadest forth to be thy sail; blue and purple from the isles of Elishah was that which covered thee.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.27.8",
+      "edition_verse_id": "KJV1769:EZK.27.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "The inhabitants of Zidon and Arvad were thy mariners: thy wise ",
+          "kind": "text"
+        },
+        {
+          "text": "men",
+          "kind": "supplied"
+        },
+        {
+          "text": ", O Tyrus, ",
+          "kind": "text"
+        },
+        {
+          "text": "that",
+          "kind": "supplied"
+        },
+        {
+          "text": " were in thee, were thy pilots.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.27.9",
+      "edition_verse_id": "KJV1769:EZK.27.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "The ancients of Gebal and the wise ",
+          "kind": "text"
+        },
+        {
+          "text": "men",
+          "kind": "supplied"
+        },
+        {
+          "text": " thereof were in thee thy calkers: all the ships of the sea with their mariners were in thee to occupy thy merchandise.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.27.10",
+      "edition_verse_id": "KJV1769:EZK.27.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "They of Persia and of Lud and of Phut were in thine army, thy men of war: they hanged the shield and helmet in thee; they set forth thy comeliness.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.27.11",
+      "edition_verse_id": "KJV1769:EZK.27.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "The men of Arvad with thine army ",
+          "kind": "text"
+        },
+        {
+          "text": "were",
+          "kind": "supplied"
+        },
+        {
+          "text": " upon thy walls round about, and the Gammadims were in thy towers: they hanged their shields upon thy walls round about; they have made thy beauty perfect.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.27.12",
+      "edition_verse_id": "KJV1769:EZK.27.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "Tarshish ",
+          "kind": "text"
+        },
+        {
+          "text": "was",
+          "kind": "supplied"
+        },
+        {
+          "text": " thy merchant by reason of the multitude of all ",
+          "kind": "text"
+        },
+        {
+          "text": "kind of",
+          "kind": "supplied"
+        },
+        {
+          "text": " riches; with silver, iron, tin, and lead, they traded in thy fairs.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.27.13",
+      "edition_verse_id": "KJV1769:EZK.27.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "Javan, Tubal, and Meshech, they ",
+          "kind": "text"
+        },
+        {
+          "text": "were",
+          "kind": "supplied"
+        },
+        {
+          "text": " thy merchants: they traded the persons of men and vessels of brass in thy market.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.27.14",
+      "edition_verse_id": "KJV1769:EZK.27.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "They of the house of Togarmah traded in thy fairs with horses and horsemen and mules.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.27.15",
+      "edition_verse_id": "KJV1769:EZK.27.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "The men of Dedan ",
+          "kind": "text"
+        },
+        {
+          "text": "were",
+          "kind": "supplied"
+        },
+        {
+          "text": " thy merchants; many isles ",
+          "kind": "text"
+        },
+        {
+          "text": "were",
+          "kind": "supplied"
+        },
+        {
+          "text": " the merchandise of thine hand: they brought thee ",
+          "kind": "text"
+        },
+        {
+          "text": "for",
+          "kind": "supplied"
+        },
+        {
+          "text": " a present horns of ivory and ebony.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.27.16",
+      "edition_verse_id": "KJV1769:EZK.27.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "Syria ",
+          "kind": "text"
+        },
+        {
+          "text": "was",
+          "kind": "supplied"
+        },
+        {
+          "text": " thy merchant by reason of the multitude of the wares of thy making: they occupied in thy fairs with emeralds, purple, and broidered work, and fine linen, and coral, and agate.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.27.17",
+      "edition_verse_id": "KJV1769:EZK.27.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "Judah, and the land of Israel, they ",
+          "kind": "text"
+        },
+        {
+          "text": "were",
+          "kind": "supplied"
+        },
+        {
+          "text": " thy merchants: they traded in thy market wheat of Minnith, and Pannag, and honey, and oil, and balm.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.27.18",
+      "edition_verse_id": "KJV1769:EZK.27.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "Damascus ",
+          "kind": "text"
+        },
+        {
+          "text": "was",
+          "kind": "supplied"
+        },
+        {
+          "text": " thy merchant in the multitude of the wares of thy making, for the multitude of all riches; in the wine of Helbon, and white wool.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.27.19",
+      "edition_verse_id": "KJV1769:EZK.27.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "Dan also and Javan going to and fro occupied in thy fairs: bright iron, cassia, and calamus, were in thy market.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.27.20",
+      "edition_verse_id": "KJV1769:EZK.27.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "Dedan ",
+          "kind": "text"
+        },
+        {
+          "text": "was",
+          "kind": "supplied"
+        },
+        {
+          "text": " thy merchant in precious clothes for chariots.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.27.21",
+      "edition_verse_id": "KJV1769:EZK.27.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "Arabia, and all the princes of Kedar, they occupied with thee in lambs, and rams, and goats: in these ",
+          "kind": "text"
+        },
+        {
+          "text": "were they",
+          "kind": "supplied"
+        },
+        {
+          "text": " thy merchants.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.27.22",
+      "edition_verse_id": "KJV1769:EZK.27.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "The merchants of Sheba and Raamah, they ",
+          "kind": "text"
+        },
+        {
+          "text": "were",
+          "kind": "supplied"
+        },
+        {
+          "text": " thy merchants: they occupied in thy fairs with chief of all spices, and with all precious stones, and gold.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.27.23",
+      "edition_verse_id": "KJV1769:EZK.27.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "Haran, and Canneh, and Eden, the merchants of Sheba, Asshur, ",
+          "kind": "text"
+        },
+        {
+          "text": "and",
+          "kind": "supplied"
+        },
+        {
+          "text": " Chilmad, ",
+          "kind": "text"
+        },
+        {
+          "text": "were",
+          "kind": "supplied"
+        },
+        {
+          "text": " thy merchants.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.27.24",
+      "edition_verse_id": "KJV1769:EZK.27.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "These ",
+          "kind": "text"
+        },
+        {
+          "text": "were",
+          "kind": "supplied"
+        },
+        {
+          "text": " thy merchants in all sorts ",
+          "kind": "text"
+        },
+        {
+          "text": "of things",
+          "kind": "supplied"
+        },
+        {
+          "text": ", in blue clothes, and broidered work, and in chests of rich apparel, bound with cords, and made of cedar, among thy merchandise.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.27.25",
+      "edition_verse_id": "KJV1769:EZK.27.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "The ships of Tarshish did sing of thee in thy market: and thou wast replenished, and made very glorious in the midst of the seas.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.27.26",
+      "edition_verse_id": "KJV1769:EZK.27.26",
+      "verse": 26,
+      "spans": [
+        {
+          "text": "¶ Thy rowers have brought thee into great waters: the east wind hath broken thee in the midst of the seas.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EZK.27.27",
+      "edition_verse_id": "KJV1769:EZK.27.27",
+      "verse": 27,
+      "spans": [
+        {
+          "text": "Thy riches, and thy fairs, thy merchandise, thy mariners, and thy pilots, thy calkers, and the occupiers of thy merchandise, and all thy men of war, that ",
+          "kind": "text"
+        },
+        {
+          "text": "are",
+          "kind": "supplied"
+        },
+        {
+          "text": " in thee, and in all thy company which ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " in the midst of thee, shall fall into the midst of the seas in the day of thy ruin.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.27.28",
+      "edition_verse_id": "KJV1769:EZK.27.28",
+      "verse": 28,
+      "spans": [
+        {
+          "text": "The suburbs shall shake at the sound of the cry of thy pilots.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.27.29",
+      "edition_verse_id": "KJV1769:EZK.27.29",
+      "verse": 29,
+      "spans": [
+        {
+          "text": "And all that handle the oar, the mariners, ",
+          "kind": "text"
+        },
+        {
+          "text": "and",
+          "kind": "supplied"
+        },
+        {
+          "text": " all the pilots of the sea, shall come down from their ships, they shall stand upon the land;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.27.30",
+      "edition_verse_id": "KJV1769:EZK.27.30",
+      "verse": 30,
+      "spans": [
+        {
+          "text": "And shall cause their voice to be heard against thee, and shall cry bitterly, and shall cast up dust upon their heads, they shall wallow themselves in the ashes:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.27.31",
+      "edition_verse_id": "KJV1769:EZK.27.31",
+      "verse": 31,
+      "spans": [
+        {
+          "text": "And they shall make themselves utterly bald for thee, and gird them with sackcloth, and they shall weep for thee with bitterness of heart ",
+          "kind": "text"
+        },
+        {
+          "text": "and",
+          "kind": "supplied"
+        },
+        {
+          "text": " bitter wailing.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.27.32",
+      "edition_verse_id": "KJV1769:EZK.27.32",
+      "verse": 32,
+      "spans": [
+        {
+          "text": "And in their wailing they shall take up a lamentation for thee, and lament over thee, ",
+          "kind": "text"
+        },
+        {
+          "text": "saying",
+          "kind": "supplied"
+        },
+        {
+          "text": ", What ",
+          "kind": "text"
+        },
+        {
+          "text": "city is",
+          "kind": "supplied"
+        },
+        {
+          "text": " like Tyrus, like the destroyed in the midst of the sea?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.27.33",
+      "edition_verse_id": "KJV1769:EZK.27.33",
+      "verse": 33,
+      "spans": [
+        {
+          "text": "When thy wares went forth out of the seas, thou filledst many people; thou didst enrich the kings of the earth with the multitude of thy riches and of thy merchandise.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.27.34",
+      "edition_verse_id": "KJV1769:EZK.27.34",
+      "verse": 34,
+      "spans": [
+        {
+          "text": "In the time ",
+          "kind": "text"
+        },
+        {
+          "text": "when",
+          "kind": "supplied"
+        },
+        {
+          "text": " thou shalt be broken by the seas in the depths of the waters thy merchandise and all thy company in the midst of thee shall fall.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.27.35",
+      "edition_verse_id": "KJV1769:EZK.27.35",
+      "verse": 35,
+      "spans": [
+        {
+          "text": "All the inhabitants of the isles shall be astonished at thee, and their kings shall be sore afraid, they shall be troubled in ",
+          "kind": "text"
+        },
+        {
+          "text": "their",
+          "kind": "supplied"
+        },
+        {
+          "text": " countenance.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.27.36",
+      "edition_verse_id": "KJV1769:EZK.27.36",
+      "verse": 36,
+      "spans": [
+        {
+          "text": "The merchants among the people shall hiss at thee; thou shalt be a terror, and never ",
+          "kind": "text"
+        },
+        {
+          "text": "shalt be",
+          "kind": "supplied"
+        },
+        {
+          "text": " any more.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

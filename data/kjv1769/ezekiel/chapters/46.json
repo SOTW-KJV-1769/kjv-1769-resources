@@ -1,0 +1,480 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "KJV1769",
+  "book_code": "EZK",
+  "chapter": 46,
+  "verses": [
+    {
+      "id": "EZK.46.1",
+      "edition_verse_id": "KJV1769:EZK.46.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "Thus saith the Lord GOD; The gate of the inner court that looketh toward the east shall be shut the six working days; but on the sabbath it shall be opened, and in the day of the new moon it shall be opened.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EZK.46.2",
+      "edition_verse_id": "KJV1769:EZK.46.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "And the prince shall enter by the way of the porch of ",
+          "kind": "text"
+        },
+        {
+          "text": "that",
+          "kind": "supplied"
+        },
+        {
+          "text": " gate without, and shall stand by the post of the gate, and the priests shall prepare his burnt offering and his peace offerings, and he shall worship at the threshold of the gate: then he shall go forth; but the gate shall not be shut until the evening.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.46.3",
+      "edition_verse_id": "KJV1769:EZK.46.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "Likewise the people of the land shall worship at the door of this gate before the LORD in the sabbaths and in the new moons.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.46.4",
+      "edition_verse_id": "KJV1769:EZK.46.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "And the burnt offering that the prince shall offer unto the LORD in the sabbath day ",
+          "kind": "text"
+        },
+        {
+          "text": "shall be",
+          "kind": "supplied"
+        },
+        {
+          "text": " six lambs without blemish, and a ram without blemish.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.46.5",
+      "edition_verse_id": "KJV1769:EZK.46.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "And the meat offering ",
+          "kind": "text"
+        },
+        {
+          "text": "shall be",
+          "kind": "supplied"
+        },
+        {
+          "text": " an ephah for a ram, and the meat offering for the lambs as he shall be able to give, and an hin of oil to an ephah.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.46.6",
+      "edition_verse_id": "KJV1769:EZK.46.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "And in the day of the new moon ",
+          "kind": "text"
+        },
+        {
+          "text": "it shall be",
+          "kind": "supplied"
+        },
+        {
+          "text": " a young bullock without blemish, and six lambs, and a ram: they shall be without blemish.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.46.7",
+      "edition_verse_id": "KJV1769:EZK.46.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "And he shall prepare a meat offering, an ephah for a bullock, and an ephah for a ram, and for the lambs according as his hand shall attain unto, and an hin of oil to an ephah.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.46.8",
+      "edition_verse_id": "KJV1769:EZK.46.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "And when the prince shall enter, he shall go in by the way of the porch of ",
+          "kind": "text"
+        },
+        {
+          "text": "that",
+          "kind": "supplied"
+        },
+        {
+          "text": " gate, and he shall go forth by the way thereof.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.46.9",
+      "edition_verse_id": "KJV1769:EZK.46.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "¶ But when the people of the land shall come before the LORD in the solemn feasts, he that entereth in by the way of the north gate to worship shall go out by the way of the south gate; and he that entereth by the way of the south gate shall go forth by the way of the north gate: he shall not return by the way of the gate whereby he came in, but shall go forth over against it.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EZK.46.10",
+      "edition_verse_id": "KJV1769:EZK.46.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "And the prince in the midst of them, when they go in, shall go in; and when they go forth, shall go forth.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.46.11",
+      "edition_verse_id": "KJV1769:EZK.46.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "And in the feasts and in the solemnities the meat offering shall be an ephah to a bullock, and an ephah to a ram, and to the lambs as he is able to give, and an hin of oil to an ephah.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.46.12",
+      "edition_verse_id": "KJV1769:EZK.46.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "Now when the prince shall prepare a voluntary burnt offering or peace offerings voluntarily unto the LORD, ",
+          "kind": "text"
+        },
+        {
+          "text": "one",
+          "kind": "supplied"
+        },
+        {
+          "text": " shall then open him the gate that looketh toward the east, and he shall prepare his burnt offering and his peace offerings, as he did on the sabbath day: then he shall go forth; and after his going forth ",
+          "kind": "text"
+        },
+        {
+          "text": "one",
+          "kind": "supplied"
+        },
+        {
+          "text": " shall shut the gate.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.46.13",
+      "edition_verse_id": "KJV1769:EZK.46.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "Thou shalt daily prepare a burnt offering unto the LORD ",
+          "kind": "text"
+        },
+        {
+          "text": "of",
+          "kind": "supplied"
+        },
+        {
+          "text": " a lamb of the first year without blemish: thou shalt prepare it every morning.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.46.14",
+      "edition_verse_id": "KJV1769:EZK.46.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "And thou shalt prepare a meat offering for it every morning, the sixth part of an ephah, and the third part of an hin of oil, to temper with the fine flour; a meat offering continually by a perpetual ordinance unto the LORD.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.46.15",
+      "edition_verse_id": "KJV1769:EZK.46.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "Thus shall they prepare the lamb, and the meat offering, and the oil, every morning ",
+          "kind": "text"
+        },
+        {
+          "text": "for",
+          "kind": "supplied"
+        },
+        {
+          "text": " a continual burnt offering.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.46.16",
+      "edition_verse_id": "KJV1769:EZK.46.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "¶ Thus saith the Lord GOD; If the prince give a gift unto any of his sons, the inheritance thereof shall be his sons’; it ",
+          "kind": "text"
+        },
+        {
+          "text": "shall be",
+          "kind": "supplied"
+        },
+        {
+          "text": " their possession by inheritance.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EZK.46.17",
+      "edition_verse_id": "KJV1769:EZK.46.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "But if he give a gift of his inheritance to one of his servants, then it shall be his to the year of liberty; after it shall return to the prince: but his inheritance shall be his sons’ for them.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.46.18",
+      "edition_verse_id": "KJV1769:EZK.46.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "Moreover the prince shall not take of the people’s inheritance by oppression, to thrust them out of their possession; ",
+          "kind": "text"
+        },
+        {
+          "text": "but",
+          "kind": "supplied"
+        },
+        {
+          "text": " he shall give his sons inheritance out of his own possession: that my people be not scattered every man from his possession.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.46.19",
+      "edition_verse_id": "KJV1769:EZK.46.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "¶ After he brought me through the entry, which ",
+          "kind": "text"
+        },
+        {
+          "text": "was",
+          "kind": "supplied"
+        },
+        {
+          "text": " at the side of the gate, into the holy chambers of the priests, which looked toward the north: and, behold, there ",
+          "kind": "text"
+        },
+        {
+          "text": "was",
+          "kind": "supplied"
+        },
+        {
+          "text": " a place on the two sides westward.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EZK.46.20",
+      "edition_verse_id": "KJV1769:EZK.46.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "Then said he unto me, This ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " the place where the priests shall boil the trespass offering and the sin offering, where they shall bake the meat offering; that they bear ",
+          "kind": "text"
+        },
+        {
+          "text": "them",
+          "kind": "supplied"
+        },
+        {
+          "text": " not out into the utter court, to sanctify the people.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.46.21",
+      "edition_verse_id": "KJV1769:EZK.46.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "Then he brought me forth into the utter court, and caused me to pass by the four corners of the court; and, behold, in every corner of the court ",
+          "kind": "text"
+        },
+        {
+          "text": "there was",
+          "kind": "supplied"
+        },
+        {
+          "text": " a court.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.46.22",
+      "edition_verse_id": "KJV1769:EZK.46.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "In the four corners of the court ",
+          "kind": "text"
+        },
+        {
+          "text": "there were",
+          "kind": "supplied"
+        },
+        {
+          "text": " courts joined of forty ",
+          "kind": "text"
+        },
+        {
+          "text": "cubits",
+          "kind": "supplied"
+        },
+        {
+          "text": " long and thirty broad: these four corners ",
+          "kind": "text"
+        },
+        {
+          "text": "were",
+          "kind": "supplied"
+        },
+        {
+          "text": " of one measure.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.46.23",
+      "edition_verse_id": "KJV1769:EZK.46.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "And ",
+          "kind": "text"
+        },
+        {
+          "text": "there was",
+          "kind": "supplied"
+        },
+        {
+          "text": " a row ",
+          "kind": "text"
+        },
+        {
+          "text": "of building",
+          "kind": "supplied"
+        },
+        {
+          "text": " round about in them, round about them four, and ",
+          "kind": "text"
+        },
+        {
+          "text": "it was",
+          "kind": "supplied"
+        },
+        {
+          "text": " made with boiling places under the rows round about.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.46.24",
+      "edition_verse_id": "KJV1769:EZK.46.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "Then said he unto me, These ",
+          "kind": "text"
+        },
+        {
+          "text": "are",
+          "kind": "supplied"
+        },
+        {
+          "text": " the places of them that boil, where the ministers of the house shall boil the sacrifice of the people.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}
