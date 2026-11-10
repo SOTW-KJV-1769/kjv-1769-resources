@@ -1,0 +1,464 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "KJV1769",
+  "book_code": "1SA",
+  "chapter": 1,
+  "verses": [
+    {
+      "id": "1SA.1.1",
+      "edition_verse_id": "KJV1769:1SA.1.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "Now there was a certain man of Ramathaim-zophim, of mount Ephraim, and his name ",
+          "kind": "text"
+        },
+        {
+          "text": "was",
+          "kind": "supplied"
+        },
+        {
+          "text": " Elkanah, the son of Jeroham, the son of Elihu, the son of Tohu, the son of Zuph, an Ephrathite:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1SA.1.2",
+      "edition_verse_id": "KJV1769:1SA.1.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "And he had two wives; the name of the one ",
+          "kind": "text"
+        },
+        {
+          "text": "was",
+          "kind": "supplied"
+        },
+        {
+          "text": " Hannah, and the name of the other Peninnah: and Peninnah had children, but Hannah had no children.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1SA.1.3",
+      "edition_verse_id": "KJV1769:1SA.1.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "And this man went up out of his city yearly to worship and to sacrifice unto the LORD of hosts in Shiloh. And the two sons of Eli, Hophni and Phinehas, the priests of the LORD, ",
+          "kind": "text"
+        },
+        {
+          "text": "were",
+          "kind": "supplied"
+        },
+        {
+          "text": " there.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1SA.1.4",
+      "edition_verse_id": "KJV1769:1SA.1.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "¶ And when the time was that Elkanah offered, he gave to Peninnah his wife, and to all her sons and her daughters, portions:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1SA.1.5",
+      "edition_verse_id": "KJV1769:1SA.1.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "But unto Hannah he gave a worthy portion; for he loved Hannah: but the LORD had shut up her womb.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1SA.1.6",
+      "edition_verse_id": "KJV1769:1SA.1.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "And her adversary also provoked her sore, for to make her fret, because the LORD had shut up her womb.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1SA.1.7",
+      "edition_verse_id": "KJV1769:1SA.1.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "And ",
+          "kind": "text"
+        },
+        {
+          "text": "as",
+          "kind": "supplied"
+        },
+        {
+          "text": " he did so year by year, when she went up to the house of the LORD, so she provoked her; therefore she wept, and did not eat.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1SA.1.8",
+      "edition_verse_id": "KJV1769:1SA.1.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "Then said Elkanah her husband to her, Hannah, why weepest thou? and why eatest thou not? and why is thy heart grieved? ",
+          "kind": "text"
+        },
+        {
+          "text": "am",
+          "kind": "supplied"
+        },
+        {
+          "text": " not I better to thee than ten sons?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1SA.1.9",
+      "edition_verse_id": "KJV1769:1SA.1.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "¶ So Hannah rose up after they had eaten in Shiloh, and after they had drunk. Now Eli the priest sat upon a seat by a post of the temple of the LORD.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1SA.1.10",
+      "edition_verse_id": "KJV1769:1SA.1.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "And she ",
+          "kind": "text"
+        },
+        {
+          "text": "was",
+          "kind": "supplied"
+        },
+        {
+          "text": " in bitterness of soul, and prayed unto the LORD, and wept sore.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1SA.1.11",
+      "edition_verse_id": "KJV1769:1SA.1.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "And she vowed a vow, and said, O LORD of hosts, if thou wilt indeed look on the affliction of thine handmaid, and remember me, and not forget thine handmaid, but wilt give unto thine handmaid a man child, then I will give him unto the LORD all the days of his life, and there shall no razor come upon his head.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1SA.1.12",
+      "edition_verse_id": "KJV1769:1SA.1.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "And it came to pass, as she continued praying before the LORD, that Eli marked her mouth.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1SA.1.13",
+      "edition_verse_id": "KJV1769:1SA.1.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "Now Hannah, she spake in her heart; only her lips moved, but her voice was not heard: therefore Eli thought she had been drunken.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1SA.1.14",
+      "edition_verse_id": "KJV1769:1SA.1.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "And Eli said unto her, How long wilt thou be drunken? put away thy wine from thee.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1SA.1.15",
+      "edition_verse_id": "KJV1769:1SA.1.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "And Hannah answered and said, No, my lord, I ",
+          "kind": "text"
+        },
+        {
+          "text": "am",
+          "kind": "supplied"
+        },
+        {
+          "text": " a woman of a sorrowful spirit: I have drunk neither wine nor strong drink, but have poured out my soul before the LORD.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1SA.1.16",
+      "edition_verse_id": "KJV1769:1SA.1.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "Count not thine handmaid for a daughter of Belial: for out of the abundance of my complaint and grief have I spoken hitherto.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1SA.1.17",
+      "edition_verse_id": "KJV1769:1SA.1.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "Then Eli answered and said, Go in peace: and the God of Israel grant ",
+          "kind": "text"
+        },
+        {
+          "text": "thee",
+          "kind": "supplied"
+        },
+        {
+          "text": " thy petition that thou hast asked of him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1SA.1.18",
+      "edition_verse_id": "KJV1769:1SA.1.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "And she said, Let thine handmaid find grace in thy sight. So the woman went her way, and did eat, and her countenance was no more ",
+          "kind": "text"
+        },
+        {
+          "text": "sad",
+          "kind": "supplied"
+        },
+        {
+          "text": ".",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1SA.1.19",
+      "edition_verse_id": "KJV1769:1SA.1.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "¶ And they rose up in the morning early, and worshipped before the LORD, and returned, and came to their house to Ramah: and Elkanah knew Hannah his wife; and the LORD remembered her.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1SA.1.20",
+      "edition_verse_id": "KJV1769:1SA.1.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "Wherefore it came to pass, when the time was come about after Hannah had conceived, that she bare a son, and called his name Samuel, ",
+          "kind": "text"
+        },
+        {
+          "text": "saying",
+          "kind": "supplied"
+        },
+        {
+          "text": ", Because I have asked him of the LORD.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1SA.1.21",
+      "edition_verse_id": "KJV1769:1SA.1.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "And the man Elkanah, and all his house, went up to offer unto the LORD the yearly sacrifice, and his vow.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1SA.1.22",
+      "edition_verse_id": "KJV1769:1SA.1.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "But Hannah went not up; for she said unto her husband, ",
+          "kind": "text"
+        },
+        {
+          "text": "I will not go up",
+          "kind": "supplied"
+        },
+        {
+          "text": " until the child be weaned, and ",
+          "kind": "text"
+        },
+        {
+          "text": "then",
+          "kind": "supplied"
+        },
+        {
+          "text": " I will bring him, that he may appear before the LORD, and there abide for ever.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1SA.1.23",
+      "edition_verse_id": "KJV1769:1SA.1.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "And Elkanah her husband said unto her, Do what seemeth thee good; tarry until thou have weaned him; only the LORD establish his word. So the woman abode, and gave her son suck until she weaned him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1SA.1.24",
+      "edition_verse_id": "KJV1769:1SA.1.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "¶ And when she had weaned him, she took him up with her, with three bullocks, and one ephah of flour, and a bottle of wine, and brought him unto the house of the LORD in Shiloh: and the child ",
+          "kind": "text"
+        },
+        {
+          "text": "was",
+          "kind": "supplied"
+        },
+        {
+          "text": " young.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1SA.1.25",
+      "edition_verse_id": "KJV1769:1SA.1.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "And they slew a bullock, and brought the child to Eli.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1SA.1.26",
+      "edition_verse_id": "KJV1769:1SA.1.26",
+      "verse": 26,
+      "spans": [
+        {
+          "text": "And she said, Oh my lord, ",
+          "kind": "text"
+        },
+        {
+          "text": "as",
+          "kind": "supplied"
+        },
+        {
+          "text": " thy soul liveth, my lord, I ",
+          "kind": "text"
+        },
+        {
+          "text": "am",
+          "kind": "supplied"
+        },
+        {
+          "text": " the woman that stood by thee here, praying unto the LORD.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1SA.1.27",
+      "edition_verse_id": "KJV1769:1SA.1.27",
+      "verse": 27,
+      "spans": [
+        {
+          "text": "For this child I prayed; and the LORD hath given me my petition which I asked of him:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1SA.1.28",
+      "edition_verse_id": "KJV1769:1SA.1.28",
+      "verse": 28,
+      "spans": [
+        {
+          "text": "Therefore also I have lent him to the LORD; as long as he liveth he shall be lent to the LORD. And he worshipped the LORD there.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

@@ -1,0 +1,544 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "KJV1769",
+  "book_code": "1CO",
+  "chapter": 12,
+  "verses": [
+    {
+      "id": "1CO.12.1",
+      "edition_verse_id": "KJV1769:1CO.12.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "Now concerning spiritual ",
+          "kind": "text"
+        },
+        {
+          "text": "gifts",
+          "kind": "supplied"
+        },
+        {
+          "text": ", brethren, I would not have you ignorant.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1CO.12.2",
+      "edition_verse_id": "KJV1769:1CO.12.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "Ye know that ye were Gentiles, carried away unto these dumb idols, even as ye were led.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CO.12.3",
+      "edition_verse_id": "KJV1769:1CO.12.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "Wherefore I give you to understand, that no man speaking by the Spirit of God calleth Jesus accursed: and ",
+          "kind": "text"
+        },
+        {
+          "text": "that",
+          "kind": "supplied"
+        },
+        {
+          "text": " no man can say that Jesus is the Lord, but by the Holy Ghost.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CO.12.4",
+      "edition_verse_id": "KJV1769:1CO.12.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "Now there are diversities of gifts, but the same Spirit.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CO.12.5",
+      "edition_verse_id": "KJV1769:1CO.12.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "And there are differences of administrations, but the same Lord.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CO.12.6",
+      "edition_verse_id": "KJV1769:1CO.12.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "And there are diversities of operations, but it is the same God which worketh all in all.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CO.12.7",
+      "edition_verse_id": "KJV1769:1CO.12.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "But the manifestation of the Spirit is given to every man to profit withal.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CO.12.8",
+      "edition_verse_id": "KJV1769:1CO.12.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "For to one is given by the Spirit the word of wisdom; to another the word of knowledge by the same Spirit;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CO.12.9",
+      "edition_verse_id": "KJV1769:1CO.12.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "To another faith by the same Spirit; to another the gifts of healing by the same Spirit;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CO.12.10",
+      "edition_verse_id": "KJV1769:1CO.12.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "To another the working of miracles; to another prophecy; to another discerning of spirits; to another ",
+          "kind": "text"
+        },
+        {
+          "text": "divers",
+          "kind": "supplied"
+        },
+        {
+          "text": " kinds of tongues; to another the interpretation of tongues:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CO.12.11",
+      "edition_verse_id": "KJV1769:1CO.12.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "But all these worketh that one and the selfsame Spirit, dividing to every man severally as he will.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CO.12.12",
+      "edition_verse_id": "KJV1769:1CO.12.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "For as the body is one, and hath many members, and all the members of that one body, being many, are one body: so also ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " Christ.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CO.12.13",
+      "edition_verse_id": "KJV1769:1CO.12.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "For by one Spirit are we all baptized into one body, whether ",
+          "kind": "text"
+        },
+        {
+          "text": "we be",
+          "kind": "supplied"
+        },
+        {
+          "text": " Jews or Gentiles, whether ",
+          "kind": "text"
+        },
+        {
+          "text": "we be",
+          "kind": "supplied"
+        },
+        {
+          "text": " bond or free; and have been all made to drink into one Spirit.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CO.12.14",
+      "edition_verse_id": "KJV1769:1CO.12.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "For the body is not one member, but many.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CO.12.15",
+      "edition_verse_id": "KJV1769:1CO.12.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "If the foot shall say, Because I am not the hand, I am not of the body; is it therefore not of the body?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CO.12.16",
+      "edition_verse_id": "KJV1769:1CO.12.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "And if the ear shall say, Because I am not the eye, I am not of the body; is it therefore not of the body?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CO.12.17",
+      "edition_verse_id": "KJV1769:1CO.12.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "If the whole body ",
+          "kind": "text"
+        },
+        {
+          "text": "were",
+          "kind": "supplied"
+        },
+        {
+          "text": " an eye, where ",
+          "kind": "text"
+        },
+        {
+          "text": "were",
+          "kind": "supplied"
+        },
+        {
+          "text": " the hearing? If the whole ",
+          "kind": "text"
+        },
+        {
+          "text": "were",
+          "kind": "supplied"
+        },
+        {
+          "text": " hearing, where ",
+          "kind": "text"
+        },
+        {
+          "text": "were",
+          "kind": "supplied"
+        },
+        {
+          "text": " the smelling?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CO.12.18",
+      "edition_verse_id": "KJV1769:1CO.12.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "But now hath God set the members every one of them in the body, as it hath pleased him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CO.12.19",
+      "edition_verse_id": "KJV1769:1CO.12.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "And if they were all one member, where ",
+          "kind": "text"
+        },
+        {
+          "text": "were",
+          "kind": "supplied"
+        },
+        {
+          "text": " the body?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CO.12.20",
+      "edition_verse_id": "KJV1769:1CO.12.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "But now ",
+          "kind": "text"
+        },
+        {
+          "text": "are they",
+          "kind": "supplied"
+        },
+        {
+          "text": " many members, yet but one body.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CO.12.21",
+      "edition_verse_id": "KJV1769:1CO.12.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "And the eye cannot say unto the hand, I have no need of thee: nor again the head to the feet, I have no need of you.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CO.12.22",
+      "edition_verse_id": "KJV1769:1CO.12.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "Nay, much more those members of the body, which seem to be more feeble, are necessary:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CO.12.23",
+      "edition_verse_id": "KJV1769:1CO.12.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "And those ",
+          "kind": "text"
+        },
+        {
+          "text": "members",
+          "kind": "supplied"
+        },
+        {
+          "text": " of the body, which we think to be less honourable, upon these we bestow more abundant honour; and our uncomely ",
+          "kind": "text"
+        },
+        {
+          "text": "parts",
+          "kind": "supplied"
+        },
+        {
+          "text": " have more abundant comeliness.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CO.12.24",
+      "edition_verse_id": "KJV1769:1CO.12.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "For our comely ",
+          "kind": "text"
+        },
+        {
+          "text": "parts",
+          "kind": "supplied"
+        },
+        {
+          "text": " have no need: but God hath tempered the body together, having given more abundant honour to that ",
+          "kind": "text"
+        },
+        {
+          "text": "part",
+          "kind": "supplied"
+        },
+        {
+          "text": " which lacked:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CO.12.25",
+      "edition_verse_id": "KJV1769:1CO.12.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "That there should be no schism in the body; but ",
+          "kind": "text"
+        },
+        {
+          "text": "that",
+          "kind": "supplied"
+        },
+        {
+          "text": " the members should have the same care one for another.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CO.12.26",
+      "edition_verse_id": "KJV1769:1CO.12.26",
+      "verse": 26,
+      "spans": [
+        {
+          "text": "And whether one member suffer, all the members suffer with it; or one member be honoured, all the members rejoice with it.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CO.12.27",
+      "edition_verse_id": "KJV1769:1CO.12.27",
+      "verse": 27,
+      "spans": [
+        {
+          "text": "Now ye are the body of Christ, and members in particular.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CO.12.28",
+      "edition_verse_id": "KJV1769:1CO.12.28",
+      "verse": 28,
+      "spans": [
+        {
+          "text": "And God hath set some in the church, first apostles, secondarily prophets, thirdly teachers, after that miracles, then gifts of healings, helps, governments, diversities of tongues.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CO.12.29",
+      "edition_verse_id": "KJV1769:1CO.12.29",
+      "verse": 29,
+      "spans": [
+        {
+          "text": "Are",
+          "kind": "supplied"
+        },
+        {
+          "text": " all apostles? ",
+          "kind": "text"
+        },
+        {
+          "text": "are",
+          "kind": "supplied"
+        },
+        {
+          "text": " all prophets? ",
+          "kind": "text"
+        },
+        {
+          "text": "are",
+          "kind": "supplied"
+        },
+        {
+          "text": " all teachers? ",
+          "kind": "text"
+        },
+        {
+          "text": "are",
+          "kind": "supplied"
+        },
+        {
+          "text": " all workers of miracles?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CO.12.30",
+      "edition_verse_id": "KJV1769:1CO.12.30",
+      "verse": 30,
+      "spans": [
+        {
+          "text": "Have all the gifts of healing? do all speak with tongues? do all interpret?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CO.12.31",
+      "edition_verse_id": "KJV1769:1CO.12.31",
+      "verse": 31,
+      "spans": [
+        {
+          "text": "But covet earnestly the best gifts: and yet shew I unto you a more excellent way.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

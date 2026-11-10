@@ -1,0 +1,368 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "KJV1769",
+  "book_code": "1SA",
+  "chapter": 8,
+  "verses": [
+    {
+      "id": "1SA.8.1",
+      "edition_verse_id": "KJV1769:1SA.8.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "And it came to pass, when Samuel was old, that he made his sons judges over Israel.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1SA.8.2",
+      "edition_verse_id": "KJV1769:1SA.8.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "Now the name of his firstborn was Joel; and the name of his second, Abiah: ",
+          "kind": "text"
+        },
+        {
+          "text": "they were",
+          "kind": "supplied"
+        },
+        {
+          "text": " judges in Beer-sheba.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1SA.8.3",
+      "edition_verse_id": "KJV1769:1SA.8.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "And his sons walked not in his ways, but turned aside after lucre, and took bribes, and perverted judgment.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1SA.8.4",
+      "edition_verse_id": "KJV1769:1SA.8.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "Then all the elders of Israel gathered themselves together, and came to Samuel unto Ramah,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1SA.8.5",
+      "edition_verse_id": "KJV1769:1SA.8.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "And said unto him, Behold, thou art old, and thy sons walk not in thy ways: now make us a king to judge us like all the nations.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1SA.8.6",
+      "edition_verse_id": "KJV1769:1SA.8.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "¶ But the thing displeased Samuel, when they said, Give us a king to judge us. And Samuel prayed unto the LORD.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1SA.8.7",
+      "edition_verse_id": "KJV1769:1SA.8.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "And the LORD said unto Samuel, Hearken unto the voice of the people in all that they say unto thee: for they have not rejected thee, but they have rejected me, that I should not reign over them.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1SA.8.8",
+      "edition_verse_id": "KJV1769:1SA.8.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "According to all the works which they have done since the day that I brought them up out of Egypt even unto this day, wherewith they have forsaken me, and served other gods, so do they also unto thee.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1SA.8.9",
+      "edition_verse_id": "KJV1769:1SA.8.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "Now therefore hearken unto their voice: howbeit yet protest solemnly unto them, and shew them the manner of the king that shall reign over them.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1SA.8.10",
+      "edition_verse_id": "KJV1769:1SA.8.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "¶ And Samuel told all the words of the LORD unto the people that asked of him a king.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1SA.8.11",
+      "edition_verse_id": "KJV1769:1SA.8.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "And he said, This will be the manner of the king that shall reign over you: He will take your sons, and appoint ",
+          "kind": "text"
+        },
+        {
+          "text": "them",
+          "kind": "supplied"
+        },
+        {
+          "text": " for himself, for his chariots, and ",
+          "kind": "text"
+        },
+        {
+          "text": "to be",
+          "kind": "supplied"
+        },
+        {
+          "text": " his horsemen; and ",
+          "kind": "text"
+        },
+        {
+          "text": "some",
+          "kind": "supplied"
+        },
+        {
+          "text": " shall run before his chariots.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1SA.8.12",
+      "edition_verse_id": "KJV1769:1SA.8.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "And he will appoint him captains over thousands, and captains over fifties; and ",
+          "kind": "text"
+        },
+        {
+          "text": "will set them",
+          "kind": "supplied"
+        },
+        {
+          "text": " to ear his ground, and to reap his harvest, and to make his instruments of war, and instruments of his chariots.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1SA.8.13",
+      "edition_verse_id": "KJV1769:1SA.8.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "And he will take your daughters ",
+          "kind": "text"
+        },
+        {
+          "text": "to be",
+          "kind": "supplied"
+        },
+        {
+          "text": " confectionaries, and ",
+          "kind": "text"
+        },
+        {
+          "text": "to be",
+          "kind": "supplied"
+        },
+        {
+          "text": " cooks, and ",
+          "kind": "text"
+        },
+        {
+          "text": "to be",
+          "kind": "supplied"
+        },
+        {
+          "text": " bakers.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1SA.8.14",
+      "edition_verse_id": "KJV1769:1SA.8.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "And he will take your fields, and your vineyards, and your oliveyards, ",
+          "kind": "text"
+        },
+        {
+          "text": "even",
+          "kind": "supplied"
+        },
+        {
+          "text": " the best ",
+          "kind": "text"
+        },
+        {
+          "text": "of them",
+          "kind": "supplied"
+        },
+        {
+          "text": ", and give ",
+          "kind": "text"
+        },
+        {
+          "text": "them",
+          "kind": "supplied"
+        },
+        {
+          "text": " to his servants.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1SA.8.15",
+      "edition_verse_id": "KJV1769:1SA.8.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "And he will take the tenth of your seed, and of your vineyards, and give to his officers, and to his servants.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1SA.8.16",
+      "edition_verse_id": "KJV1769:1SA.8.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "And he will take your menservants, and your maidservants, and your goodliest young men, and your asses, and put ",
+          "kind": "text"
+        },
+        {
+          "text": "them",
+          "kind": "supplied"
+        },
+        {
+          "text": " to his work.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1SA.8.17",
+      "edition_verse_id": "KJV1769:1SA.8.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "He will take the tenth of your sheep: and ye shall be his servants.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1SA.8.18",
+      "edition_verse_id": "KJV1769:1SA.8.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "And ye shall cry out in that day because of your king which ye shall have chosen you; and the LORD will not hear you in that day.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1SA.8.19",
+      "edition_verse_id": "KJV1769:1SA.8.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "¶ Nevertheless the people refused to obey the voice of Samuel; and they said, Nay; but we will have a king over us;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1SA.8.20",
+      "edition_verse_id": "KJV1769:1SA.8.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "That we also may be like all the nations; and that our king may judge us, and go out before us, and fight our battles.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1SA.8.21",
+      "edition_verse_id": "KJV1769:1SA.8.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "And Samuel heard all the words of the people, and he rehearsed them in the ears of the LORD.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1SA.8.22",
+      "edition_verse_id": "KJV1769:1SA.8.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "And the LORD said to Samuel, Hearken unto their voice, and make them a king. And Samuel said unto the men of Israel, Go ye every man unto his city.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

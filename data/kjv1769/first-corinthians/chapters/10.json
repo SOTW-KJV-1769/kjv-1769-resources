@@ -1,0 +1,520 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "KJV1769",
+  "book_code": "1CO",
+  "chapter": 10,
+  "verses": [
+    {
+      "id": "1CO.10.1",
+      "edition_verse_id": "KJV1769:1CO.10.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "Moreover, brethren, I would not that ye should be ignorant, how that all our fathers were under the cloud, and all passed through the sea;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1CO.10.2",
+      "edition_verse_id": "KJV1769:1CO.10.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "And were all baptized unto Moses in the cloud and in the sea;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CO.10.3",
+      "edition_verse_id": "KJV1769:1CO.10.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "And did all eat the same spiritual meat;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CO.10.4",
+      "edition_verse_id": "KJV1769:1CO.10.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "And did all drink the same spiritual drink: for they drank of that spiritual Rock that followed them: and that Rock was Christ.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CO.10.5",
+      "edition_verse_id": "KJV1769:1CO.10.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "But with many of them God was not well pleased: for they were overthrown in the wilderness.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CO.10.6",
+      "edition_verse_id": "KJV1769:1CO.10.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "Now these things were our examples, to the intent we should not lust after evil things, as they also lusted.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CO.10.7",
+      "edition_verse_id": "KJV1769:1CO.10.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "Neither be ye idolaters, as ",
+          "kind": "text"
+        },
+        {
+          "text": "were",
+          "kind": "supplied"
+        },
+        {
+          "text": " some of them; as it is written, The people sat down to eat and drink, and rose up to play.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CO.10.8",
+      "edition_verse_id": "KJV1769:1CO.10.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "Neither let us commit fornication, as some of them committed, and fell in one day three and twenty thousand.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CO.10.9",
+      "edition_verse_id": "KJV1769:1CO.10.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "Neither let us tempt Christ, as some of them also tempted, and were destroyed of serpents.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CO.10.10",
+      "edition_verse_id": "KJV1769:1CO.10.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "Neither murmur ye, as some of them also murmured, and were destroyed of the destroyer.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CO.10.11",
+      "edition_verse_id": "KJV1769:1CO.10.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "Now all these things happened unto them for ensamples: and they are written for our admonition, upon whom the ends of the world are come.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CO.10.12",
+      "edition_verse_id": "KJV1769:1CO.10.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "Wherefore let him that thinketh he standeth take heed lest he fall.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CO.10.13",
+      "edition_verse_id": "KJV1769:1CO.10.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "There hath no temptation taken you but such as is common to man: but God ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " faithful, who will not suffer you to be tempted above that ye are able; but will with the temptation also make a way to escape, that ye may be able to bear ",
+          "kind": "text"
+        },
+        {
+          "text": "it.",
+          "kind": "supplied"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CO.10.14",
+      "edition_verse_id": "KJV1769:1CO.10.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "Wherefore, my dearly beloved, flee from idolatry.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1CO.10.15",
+      "edition_verse_id": "KJV1769:1CO.10.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "I speak as to wise men; judge ye what I say.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CO.10.16",
+      "edition_verse_id": "KJV1769:1CO.10.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "The cup of blessing which we bless, is it not the communion of the blood of Christ? The bread which we break, is it not the communion of the body of Christ?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CO.10.17",
+      "edition_verse_id": "KJV1769:1CO.10.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "For we ",
+          "kind": "text"
+        },
+        {
+          "text": "being",
+          "kind": "supplied"
+        },
+        {
+          "text": " many are one bread, ",
+          "kind": "text"
+        },
+        {
+          "text": "and",
+          "kind": "supplied"
+        },
+        {
+          "text": " one body: for we are all partakers of that one bread.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CO.10.18",
+      "edition_verse_id": "KJV1769:1CO.10.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "Behold Israel after the flesh: are not they which eat of the sacrifices partakers of the altar?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CO.10.19",
+      "edition_verse_id": "KJV1769:1CO.10.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "What say I then? that the idol is any thing, or that which is offered in sacrifice to idols is any thing?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CO.10.20",
+      "edition_verse_id": "KJV1769:1CO.10.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "But I ",
+          "kind": "text"
+        },
+        {
+          "text": "say",
+          "kind": "supplied"
+        },
+        {
+          "text": ", that the things which the Gentiles sacrifice, they sacrifice to devils, and not to God: and I would not that ye should have fellowship with devils.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CO.10.21",
+      "edition_verse_id": "KJV1769:1CO.10.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "Ye cannot drink the cup of the Lord, and the cup of devils: ye cannot be partakers of the Lord’s table, and of the table of devils.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CO.10.22",
+      "edition_verse_id": "KJV1769:1CO.10.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "Do we provoke the Lord to jealousy? are we stronger than he?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CO.10.23",
+      "edition_verse_id": "KJV1769:1CO.10.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "All things are lawful for me, but all things are not expedient: all things are lawful for me, but all things edify not.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CO.10.24",
+      "edition_verse_id": "KJV1769:1CO.10.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "Let no man seek his own, but every man another’s ",
+          "kind": "text"
+        },
+        {
+          "text": "wealth",
+          "kind": "supplied"
+        },
+        {
+          "text": ".",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CO.10.25",
+      "edition_verse_id": "KJV1769:1CO.10.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "Whatsoever is sold in the shambles, ",
+          "kind": "text"
+        },
+        {
+          "text": "that",
+          "kind": "supplied"
+        },
+        {
+          "text": " eat, asking no question for conscience sake:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CO.10.26",
+      "edition_verse_id": "KJV1769:1CO.10.26",
+      "verse": 26,
+      "spans": [
+        {
+          "text": "For the earth ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " the Lord’s, and the fulness thereof.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CO.10.27",
+      "edition_verse_id": "KJV1769:1CO.10.27",
+      "verse": 27,
+      "spans": [
+        {
+          "text": "If any of them that believe not bid you ",
+          "kind": "text"
+        },
+        {
+          "text": "to a feast",
+          "kind": "supplied"
+        },
+        {
+          "text": ", and ye be disposed to go; whatsoever is set before you, eat, asking no question for conscience sake.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CO.10.28",
+      "edition_verse_id": "KJV1769:1CO.10.28",
+      "verse": 28,
+      "spans": [
+        {
+          "text": "But if any man say unto you, This is offered in sacrifice unto idols, eat not for his sake that shewed it, and for conscience sake: for the earth ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " the Lord’s, and the fulness thereof:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CO.10.29",
+      "edition_verse_id": "KJV1769:1CO.10.29",
+      "verse": 29,
+      "spans": [
+        {
+          "text": "Conscience, I say, not thine own, but of the other: for why is my liberty judged of another ",
+          "kind": "text"
+        },
+        {
+          "text": "man’s",
+          "kind": "supplied"
+        },
+        {
+          "text": " conscience?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CO.10.30",
+      "edition_verse_id": "KJV1769:1CO.10.30",
+      "verse": 30,
+      "spans": [
+        {
+          "text": "For if I by grace be a partaker, why am I evil spoken of for that for which I give thanks?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CO.10.31",
+      "edition_verse_id": "KJV1769:1CO.10.31",
+      "verse": 31,
+      "spans": [
+        {
+          "text": "Whether therefore ye eat, or drink, or whatsoever ye do, do all to the glory of God.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CO.10.32",
+      "edition_verse_id": "KJV1769:1CO.10.32",
+      "verse": 32,
+      "spans": [
+        {
+          "text": "Give none offence, neither to the Jews, nor to the Gentiles, nor to the church of God:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CO.10.33",
+      "edition_verse_id": "KJV1769:1CO.10.33",
+      "verse": 33,
+      "spans": [
+        {
+          "text": "Even as I please all ",
+          "kind": "text"
+        },
+        {
+          "text": "men",
+          "kind": "supplied"
+        },
+        {
+          "text": " in all ",
+          "kind": "text"
+        },
+        {
+          "text": "things",
+          "kind": "supplied"
+        },
+        {
+          "text": ", not seeking mine own profit, but the ",
+          "kind": "text"
+        },
+        {
+          "text": "profit",
+          "kind": "supplied"
+        },
+        {
+          "text": " of many, that they may be saved.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

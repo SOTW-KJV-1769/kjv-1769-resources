@@ -1,0 +1,436 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "KJV1769",
+  "book_code": "1JN",
+  "chapter": 2,
+  "verses": [
+    {
+      "id": "1JN.2.1",
+      "edition_verse_id": "KJV1769:1JN.2.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "My little children, these things write I unto you, that ye sin not. And if any man sin, we have an advocate with the Father, Jesus Christ the righteous:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1JN.2.2",
+      "edition_verse_id": "KJV1769:1JN.2.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "And he is the propitiation for our sins: and not for ours only, but also for ",
+          "kind": "text"
+        },
+        {
+          "text": "the sins of",
+          "kind": "supplied"
+        },
+        {
+          "text": " the whole world.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1JN.2.3",
+      "edition_verse_id": "KJV1769:1JN.2.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "And hereby we do know that we know him, if we keep his commandments.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1JN.2.4",
+      "edition_verse_id": "KJV1769:1JN.2.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "He that saith, I know him, and keepeth not his commandments, is a liar, and the truth is not in him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1JN.2.5",
+      "edition_verse_id": "KJV1769:1JN.2.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "But whoso keepeth his word, in him verily is the love of God perfected: hereby know we that we are in him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1JN.2.6",
+      "edition_verse_id": "KJV1769:1JN.2.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "He that saith he abideth in him ought himself also so to walk, even as he walked.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1JN.2.7",
+      "edition_verse_id": "KJV1769:1JN.2.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "Brethren, I write no new commandment unto you, but an old commandment which ye had from the beginning. The old commandment is the word which ye have heard from the beginning.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1JN.2.8",
+      "edition_verse_id": "KJV1769:1JN.2.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "Again, a new commandment I write unto you, which thing is true in him and in you: because the darkness is past, and the true light now shineth.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1JN.2.9",
+      "edition_verse_id": "KJV1769:1JN.2.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "He that saith he is in the light, and hateth his brother, is in darkness even until now.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1JN.2.10",
+      "edition_verse_id": "KJV1769:1JN.2.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "He that loveth his brother abideth in the light, and there is none occasion of stumbling in him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1JN.2.11",
+      "edition_verse_id": "KJV1769:1JN.2.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "But he that hateth his brother is in darkness, and walketh in darkness, and knoweth not whither he goeth, because that darkness hath blinded his eyes.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1JN.2.12",
+      "edition_verse_id": "KJV1769:1JN.2.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "I write unto you, little children, because your sins are forgiven you for his name’s sake.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1JN.2.13",
+      "edition_verse_id": "KJV1769:1JN.2.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "I write unto you, fathers, because ye have known him ",
+          "kind": "text"
+        },
+        {
+          "text": "that is",
+          "kind": "supplied"
+        },
+        {
+          "text": " from the beginning. I write unto you, young men, because ye have overcome the wicked one. I write unto you, little children, because ye have known the Father.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1JN.2.14",
+      "edition_verse_id": "KJV1769:1JN.2.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "I have written unto you, fathers, because ye have known him ",
+          "kind": "text"
+        },
+        {
+          "text": "that is",
+          "kind": "supplied"
+        },
+        {
+          "text": " from the beginning. I have written unto you, young men, because ye are strong, and the word of God abideth in you, and ye have overcome the wicked one.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1JN.2.15",
+      "edition_verse_id": "KJV1769:1JN.2.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "Love not the world, neither the things ",
+          "kind": "text"
+        },
+        {
+          "text": "that are",
+          "kind": "supplied"
+        },
+        {
+          "text": " in the world. If any man love the world, the love of the Father is not in him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1JN.2.16",
+      "edition_verse_id": "KJV1769:1JN.2.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "For all that ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " in the world, the lust of the flesh, and the lust of the eyes, and the pride of life, is not of the Father, but is of the world.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1JN.2.17",
+      "edition_verse_id": "KJV1769:1JN.2.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "And the world passeth away, and the lust thereof: but he that doeth the will of God abideth for ever.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1JN.2.18",
+      "edition_verse_id": "KJV1769:1JN.2.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "Little children, it is the last time: and as ye have heard that antichrist shall come, even now are there many antichrists; whereby we know that it is the last time.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1JN.2.19",
+      "edition_verse_id": "KJV1769:1JN.2.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "They went out from us, but they were not of us; for if they had been of us, they would ",
+          "kind": "text"
+        },
+        {
+          "text": "no doubt",
+          "kind": "supplied"
+        },
+        {
+          "text": " have continued with us: but ",
+          "kind": "text"
+        },
+        {
+          "text": "they went out",
+          "kind": "supplied"
+        },
+        {
+          "text": ", that they might be made manifest that they were not all of us.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1JN.2.20",
+      "edition_verse_id": "KJV1769:1JN.2.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "But ye have an unction from the Holy One, and ye know all things.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1JN.2.21",
+      "edition_verse_id": "KJV1769:1JN.2.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "I have not written unto you because ye know not the truth, but because ye know it, and that no lie is of the truth.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1JN.2.22",
+      "edition_verse_id": "KJV1769:1JN.2.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "Who is a liar but he that denieth that Jesus is the Christ? He is antichrist, that denieth the Father and the Son.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1JN.2.23",
+      "edition_verse_id": "KJV1769:1JN.2.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "Whosoever denieth the Son, the same hath not the Father: ",
+          "kind": "text"
+        },
+        {
+          "text": "[but] he that acknowledgeth the Son hath the Father also",
+          "kind": "supplied"
+        },
+        {
+          "text": ".",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1JN.2.24",
+      "edition_verse_id": "KJV1769:1JN.2.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "Let that therefore abide in you, which ye have heard from the beginning. If that which ye have heard from the beginning shall remain in you, ye also shall continue in the Son, and in the Father.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1JN.2.25",
+      "edition_verse_id": "KJV1769:1JN.2.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "And this is the promise that he hath promised us, ",
+          "kind": "text"
+        },
+        {
+          "text": "even",
+          "kind": "supplied"
+        },
+        {
+          "text": " eternal life.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1JN.2.26",
+      "edition_verse_id": "KJV1769:1JN.2.26",
+      "verse": 26,
+      "spans": [
+        {
+          "text": "These ",
+          "kind": "text"
+        },
+        {
+          "text": "things",
+          "kind": "supplied"
+        },
+        {
+          "text": " have I written unto you concerning them that seduce you.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1JN.2.27",
+      "edition_verse_id": "KJV1769:1JN.2.27",
+      "verse": 27,
+      "spans": [
+        {
+          "text": "But the anointing which ye have received of him abideth in you, and ye need not that any man teach you: but as the same anointing teacheth you of all things, and is truth, and is no lie, and even as it hath taught you, ye shall abide in him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1JN.2.28",
+      "edition_verse_id": "KJV1769:1JN.2.28",
+      "verse": 28,
+      "spans": [
+        {
+          "text": "And now, little children, abide in him; that, when he shall appear, we may have confidence, and not be ashamed before him at his coming.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1JN.2.29",
+      "edition_verse_id": "KJV1769:1JN.2.29",
+      "verse": 29,
+      "spans": [
+        {
+          "text": "If ye know that he is righteous, ye know that every one that doeth righteousness is born of him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

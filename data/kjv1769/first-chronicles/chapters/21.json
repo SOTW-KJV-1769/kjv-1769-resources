@@ -1,0 +1,544 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "KJV1769",
+  "book_code": "1CH",
+  "chapter": 21,
+  "verses": [
+    {
+      "id": "1CH.21.1",
+      "edition_verse_id": "KJV1769:1CH.21.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "And Satan stood up against Israel, and provoked David to number Israel.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1CH.21.2",
+      "edition_verse_id": "KJV1769:1CH.21.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "And David said to Joab and to the rulers of the people, Go, number Israel from Beer-sheba even to Dan; and bring the number of them to me, that I may know ",
+          "kind": "text"
+        },
+        {
+          "text": "it",
+          "kind": "supplied"
+        },
+        {
+          "text": ".",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.21.3",
+      "edition_verse_id": "KJV1769:1CH.21.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "And Joab answered, The LORD make his people an hundred times so many more as they ",
+          "kind": "text"
+        },
+        {
+          "text": "be:",
+          "kind": "supplied"
+        },
+        {
+          "text": " but, my lord the king, ",
+          "kind": "text"
+        },
+        {
+          "text": "are",
+          "kind": "supplied"
+        },
+        {
+          "text": " they not all my lord’s servants? why then doth my lord require this thing? why will he be a cause of trespass to Israel?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.21.4",
+      "edition_verse_id": "KJV1769:1CH.21.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "Nevertheless the king’s word prevailed against Joab. Wherefore Joab departed, and went throughout all Israel, and came to Jerusalem.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.21.5",
+      "edition_verse_id": "KJV1769:1CH.21.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "¶ And Joab gave the sum of the number of the people unto David. And all ",
+          "kind": "text"
+        },
+        {
+          "text": "they of",
+          "kind": "supplied"
+        },
+        {
+          "text": " Israel were a thousand thousand and an hundred thousand men that drew sword: and Judah ",
+          "kind": "text"
+        },
+        {
+          "text": "was",
+          "kind": "supplied"
+        },
+        {
+          "text": " four hundred threescore and ten thousand men that drew sword.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1CH.21.6",
+      "edition_verse_id": "KJV1769:1CH.21.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "But Levi and Benjamin counted he not among them: for the king’s word was abominable to Joab.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.21.7",
+      "edition_verse_id": "KJV1769:1CH.21.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "And God was displeased with this thing; therefore he smote Israel.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1CH.21.8",
+      "edition_verse_id": "KJV1769:1CH.21.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "And David said unto God, I have sinned greatly, because I have done this thing: but now, I beseech thee, do away the iniquity of thy servant; for I have done very foolishly.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.21.9",
+      "edition_verse_id": "KJV1769:1CH.21.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "¶ And the LORD spake unto Gad, David’s seer, saying,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1CH.21.10",
+      "edition_verse_id": "KJV1769:1CH.21.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "Go and tell David, saying, Thus saith the LORD, I offer thee three ",
+          "kind": "text"
+        },
+        {
+          "text": "things:",
+          "kind": "supplied"
+        },
+        {
+          "text": " choose thee one of them, that I may do ",
+          "kind": "text"
+        },
+        {
+          "text": "it",
+          "kind": "supplied"
+        },
+        {
+          "text": " unto thee.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.21.11",
+      "edition_verse_id": "KJV1769:1CH.21.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "So Gad came to David, and said unto him, Thus saith the LORD, Choose thee",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.21.12",
+      "edition_verse_id": "KJV1769:1CH.21.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "Either three years’ famine; or three months to be destroyed before thy foes, while that the sword of thine enemies overtaketh ",
+          "kind": "text"
+        },
+        {
+          "text": "thee;",
+          "kind": "supplied"
+        },
+        {
+          "text": " or else three days the sword of the LORD, even the pestilence, in the land, and the angel of the LORD destroying throughout all the coasts of Israel. Now therefore advise thyself what word I shall bring again to him that sent me.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.21.13",
+      "edition_verse_id": "KJV1769:1CH.21.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "And David said unto Gad, I am in a great strait: let me fall now into the hand of the LORD; for very great ",
+          "kind": "text"
+        },
+        {
+          "text": "are",
+          "kind": "supplied"
+        },
+        {
+          "text": " his mercies: but let me not fall into the hand of man.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.21.14",
+      "edition_verse_id": "KJV1769:1CH.21.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "¶ So the LORD sent pestilence upon Israel: and there fell of Israel seventy thousand men.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1CH.21.15",
+      "edition_verse_id": "KJV1769:1CH.21.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "And God sent an angel unto Jerusalem to destroy it: and as he was destroying, the LORD beheld, and he repented him of the evil, and said to the angel that destroyed, It is enough, stay now thine hand. And the angel of the LORD stood by the threshingfloor of Ornan the Jebusite.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.21.16",
+      "edition_verse_id": "KJV1769:1CH.21.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "And David lifted up his eyes, and saw the angel of the LORD stand between the earth and the heaven, having a drawn sword in his hand stretched out over Jerusalem. Then David and the elders ",
+          "kind": "text"
+        },
+        {
+          "text": "of Israel, who were",
+          "kind": "supplied"
+        },
+        {
+          "text": " clothed in sackcloth, fell upon their faces.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.21.17",
+      "edition_verse_id": "KJV1769:1CH.21.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "And David said unto God, ",
+          "kind": "text"
+        },
+        {
+          "text": "Is it",
+          "kind": "supplied"
+        },
+        {
+          "text": " not I ",
+          "kind": "text"
+        },
+        {
+          "text": "that",
+          "kind": "supplied"
+        },
+        {
+          "text": " commanded the people to be numbered? even I it is that have sinned and done evil indeed; but ",
+          "kind": "text"
+        },
+        {
+          "text": "as for",
+          "kind": "supplied"
+        },
+        {
+          "text": " these sheep, what have they done? let thine hand, I pray thee, O LORD my God, be on me, and on my father’s house; but not on thy people, that they should be plagued.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.21.18",
+      "edition_verse_id": "KJV1769:1CH.21.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "¶ Then the angel of the LORD commanded Gad to say to David, that David should go up, and set up an altar unto the LORD in the threshingfloor of Ornan the Jebusite.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1CH.21.19",
+      "edition_verse_id": "KJV1769:1CH.21.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "And David went up at the saying of Gad, which he spake in the name of the LORD.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.21.20",
+      "edition_verse_id": "KJV1769:1CH.21.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "And Ornan turned back, and saw the angel; and his four sons with him hid themselves. Now Ornan was threshing wheat.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.21.21",
+      "edition_verse_id": "KJV1769:1CH.21.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "And as David came to Ornan, Ornan looked and saw David, and went out of the threshingfloor, and bowed himself to David with ",
+          "kind": "text"
+        },
+        {
+          "text": "his",
+          "kind": "supplied"
+        },
+        {
+          "text": " face to the ground.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.21.22",
+      "edition_verse_id": "KJV1769:1CH.21.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "Then David said to Ornan, Grant me the place of ",
+          "kind": "text"
+        },
+        {
+          "text": "this",
+          "kind": "supplied"
+        },
+        {
+          "text": " threshingfloor, that I may build an altar therein unto the LORD: thou shalt grant it me for the full price: that the plague may be stayed from the people.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.21.23",
+      "edition_verse_id": "KJV1769:1CH.21.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "And Ornan said unto David, Take ",
+          "kind": "text"
+        },
+        {
+          "text": "it",
+          "kind": "supplied"
+        },
+        {
+          "text": " to thee, and let my lord the king do ",
+          "kind": "text"
+        },
+        {
+          "text": "that which is",
+          "kind": "supplied"
+        },
+        {
+          "text": " good in his eyes: lo, I give ",
+          "kind": "text"
+        },
+        {
+          "text": "thee",
+          "kind": "supplied"
+        },
+        {
+          "text": " the oxen ",
+          "kind": "text"
+        },
+        {
+          "text": "also",
+          "kind": "supplied"
+        },
+        {
+          "text": " for burnt offerings, and the threshing instruments for wood, and the wheat for the meat offering; I give it all.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.21.24",
+      "edition_verse_id": "KJV1769:1CH.21.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "And king David said to Ornan, Nay; but I will verily buy it for the full price: for I will not take ",
+          "kind": "text"
+        },
+        {
+          "text": "that",
+          "kind": "supplied"
+        },
+        {
+          "text": " which ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " thine for the LORD, nor offer burnt offerings without cost.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.21.25",
+      "edition_verse_id": "KJV1769:1CH.21.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "So David gave to Ornan for the place six hundred shekels of gold by weight.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.21.26",
+      "edition_verse_id": "KJV1769:1CH.21.26",
+      "verse": 26,
+      "spans": [
+        {
+          "text": "And David built there an altar unto the LORD, and offered burnt offerings and peace offerings, and called upon the LORD; and he answered him from heaven by fire upon the altar of burnt offering.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.21.27",
+      "edition_verse_id": "KJV1769:1CH.21.27",
+      "verse": 27,
+      "spans": [
+        {
+          "text": "And the LORD commanded the angel; and he put up his sword again into the sheath thereof.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.21.28",
+      "edition_verse_id": "KJV1769:1CH.21.28",
+      "verse": 28,
+      "spans": [
+        {
+          "text": "¶ At that time when David saw that the LORD had answered him in the threshingfloor of Ornan the Jebusite, then he sacrificed there.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1CH.21.29",
+      "edition_verse_id": "KJV1769:1CH.21.29",
+      "verse": 29,
+      "spans": [
+        {
+          "text": "For the tabernacle of the LORD, which Moses made in the wilderness, and the altar of the burnt offering, ",
+          "kind": "text"
+        },
+        {
+          "text": "were",
+          "kind": "supplied"
+        },
+        {
+          "text": " at that season in the high place at Gibeon.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.21.30",
+      "edition_verse_id": "KJV1769:1CH.21.30",
+      "verse": 30,
+      "spans": [
+        {
+          "text": "But David could not go before it to enquire of God: for he was afraid because of the sword of the angel of the LORD.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

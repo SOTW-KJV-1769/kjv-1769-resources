@@ -1,0 +1,556 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "KJV1769",
+  "book_code": "1KI",
+  "chapter": 15,
+  "verses": [
+    {
+      "id": "1KI.15.1",
+      "edition_verse_id": "KJV1769:1KI.15.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "Now in the eighteenth year of king Jeroboam the son of Nebat reigned Abijam over Judah.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1KI.15.2",
+      "edition_verse_id": "KJV1769:1KI.15.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "Three years reigned he in Jerusalem. And his mother’s name ",
+          "kind": "text"
+        },
+        {
+          "text": "was",
+          "kind": "supplied"
+        },
+        {
+          "text": " Maachah, the daughter of Abishalom.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1KI.15.3",
+      "edition_verse_id": "KJV1769:1KI.15.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "And he walked in all the sins of his father, which he had done before him: and his heart was not perfect with the LORD his God, as the heart of David his father.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1KI.15.4",
+      "edition_verse_id": "KJV1769:1KI.15.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "Nevertheless for David’s sake did the LORD his God give him a lamp in Jerusalem, to set up his son after him, and to establish Jerusalem:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1KI.15.5",
+      "edition_verse_id": "KJV1769:1KI.15.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "Because David did ",
+          "kind": "text"
+        },
+        {
+          "text": "that which was",
+          "kind": "supplied"
+        },
+        {
+          "text": " right in the eyes of the LORD, and turned not aside from any ",
+          "kind": "text"
+        },
+        {
+          "text": "thing",
+          "kind": "supplied"
+        },
+        {
+          "text": " that he commanded him all the days of his life, save only in the matter of Uriah the Hittite.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1KI.15.6",
+      "edition_verse_id": "KJV1769:1KI.15.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "And there was war between Rehoboam and Jeroboam all the days of his life.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1KI.15.7",
+      "edition_verse_id": "KJV1769:1KI.15.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "Now the rest of the acts of Abijam, and all that he did, ",
+          "kind": "text"
+        },
+        {
+          "text": "are",
+          "kind": "supplied"
+        },
+        {
+          "text": " they not written in the book of the chronicles of the kings of Judah? And there was war between Abijam and Jeroboam.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1KI.15.8",
+      "edition_verse_id": "KJV1769:1KI.15.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "And Abijam slept with his fathers; and they buried him in the city of David: and Asa his son reigned in his stead.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1KI.15.9",
+      "edition_verse_id": "KJV1769:1KI.15.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "¶ And in the twentieth year of Jeroboam king of Israel reigned Asa over Judah.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1KI.15.10",
+      "edition_verse_id": "KJV1769:1KI.15.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "And forty and one years reigned he in Jerusalem. And his mother’s name ",
+          "kind": "text"
+        },
+        {
+          "text": "was",
+          "kind": "supplied"
+        },
+        {
+          "text": " Maachah, the daughter of Abishalom.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1KI.15.11",
+      "edition_verse_id": "KJV1769:1KI.15.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "And Asa did ",
+          "kind": "text"
+        },
+        {
+          "text": "that which was",
+          "kind": "supplied"
+        },
+        {
+          "text": " right in the eyes of the LORD, as ",
+          "kind": "text"
+        },
+        {
+          "text": "did",
+          "kind": "supplied"
+        },
+        {
+          "text": " David his father.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1KI.15.12",
+      "edition_verse_id": "KJV1769:1KI.15.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "And he took away the sodomites out of the land, and removed all the idols that his fathers had made.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1KI.15.13",
+      "edition_verse_id": "KJV1769:1KI.15.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "And also Maachah his mother, even her he removed from ",
+          "kind": "text"
+        },
+        {
+          "text": "being",
+          "kind": "supplied"
+        },
+        {
+          "text": " queen, because she had made an idol in a grove; and Asa destroyed her idol, and burnt ",
+          "kind": "text"
+        },
+        {
+          "text": "it",
+          "kind": "supplied"
+        },
+        {
+          "text": " by the brook Kidron.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1KI.15.14",
+      "edition_verse_id": "KJV1769:1KI.15.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "But the high places were not removed: nevertheless Asa’s heart was perfect with the LORD all his days.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1KI.15.15",
+      "edition_verse_id": "KJV1769:1KI.15.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "And he brought in the things which his father had dedicated, and the things which himself had dedicated, into the house of the LORD, silver, and gold, and vessels.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1KI.15.16",
+      "edition_verse_id": "KJV1769:1KI.15.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "¶ And there was war between Asa and Baasha king of Israel all their days.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1KI.15.17",
+      "edition_verse_id": "KJV1769:1KI.15.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "And Baasha king of Israel went up against Judah, and built Ramah, that he might not suffer any to go out or come in to Asa king of Judah.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1KI.15.18",
+      "edition_verse_id": "KJV1769:1KI.15.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "Then Asa took all the silver and the gold ",
+          "kind": "text"
+        },
+        {
+          "text": "that were",
+          "kind": "supplied"
+        },
+        {
+          "text": " left in the treasures of the house of the LORD, and the treasures of the king’s house, and delivered them into the hand of his servants: and king Asa sent them to Ben-hadad, the son of Tabrimon, the son of Hezion, king of Syria, that dwelt at Damascus, saying,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1KI.15.19",
+      "edition_verse_id": "KJV1769:1KI.15.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "There is",
+          "kind": "supplied"
+        },
+        {
+          "text": " a league between me and thee, ",
+          "kind": "text"
+        },
+        {
+          "text": "and",
+          "kind": "supplied"
+        },
+        {
+          "text": " between my father and thy father: behold, I have sent unto thee a present of silver and gold; come and break thy league with Baasha king of Israel, that he may depart from me.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1KI.15.20",
+      "edition_verse_id": "KJV1769:1KI.15.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "So Ben-hadad hearkened unto king Asa, and sent the captains of the hosts which he had against the cities of Israel, and smote Ijon, and Dan, and Abel-beth-maachah, and all Cinneroth, with all the land of Naphtali.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1KI.15.21",
+      "edition_verse_id": "KJV1769:1KI.15.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "And it came to pass, when Baasha heard ",
+          "kind": "text"
+        },
+        {
+          "text": "thereof",
+          "kind": "supplied"
+        },
+        {
+          "text": ", that he left off building of Ramah, and dwelt in Tirzah.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1KI.15.22",
+      "edition_verse_id": "KJV1769:1KI.15.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "Then king Asa made a proclamation throughout all Judah; none ",
+          "kind": "text"
+        },
+        {
+          "text": "was",
+          "kind": "supplied"
+        },
+        {
+          "text": " exempted: and they took away the stones of Ramah, and the timber thereof, wherewith Baasha had builded; and king Asa built with them Geba of Benjamin, and Mizpah.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1KI.15.23",
+      "edition_verse_id": "KJV1769:1KI.15.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "The rest of all the acts of Asa, and all his might, and all that he did, and the cities which he built, ",
+          "kind": "text"
+        },
+        {
+          "text": "are",
+          "kind": "supplied"
+        },
+        {
+          "text": " they not written in the book of the chronicles of the kings of Judah? Nevertheless in the time of his old age he was diseased in his feet.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1KI.15.24",
+      "edition_verse_id": "KJV1769:1KI.15.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "And Asa slept with his fathers, and was buried with his fathers in the city of David his father: and Jehoshaphat his son reigned in his stead.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1KI.15.25",
+      "edition_verse_id": "KJV1769:1KI.15.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "¶ And Nadab the son of Jeroboam began to reign over Israel in the second year of Asa king of Judah, and reigned over Israel two years.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1KI.15.26",
+      "edition_verse_id": "KJV1769:1KI.15.26",
+      "verse": 26,
+      "spans": [
+        {
+          "text": "And he did evil in the sight of the LORD, and walked in the way of his father, and in his sin wherewith he made Israel to sin.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1KI.15.27",
+      "edition_verse_id": "KJV1769:1KI.15.27",
+      "verse": 27,
+      "spans": [
+        {
+          "text": "¶ And Baasha the son of Ahijah, of the house of Issachar, conspired against him; and Baasha smote him at Gibbethon, which ",
+          "kind": "text"
+        },
+        {
+          "text": "belonged",
+          "kind": "supplied"
+        },
+        {
+          "text": " to the Philistines; for Nadab and all Israel laid siege to Gibbethon.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1KI.15.28",
+      "edition_verse_id": "KJV1769:1KI.15.28",
+      "verse": 28,
+      "spans": [
+        {
+          "text": "Even in the third year of Asa king of Judah did Baasha slay him, and reigned in his stead.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1KI.15.29",
+      "edition_verse_id": "KJV1769:1KI.15.29",
+      "verse": 29,
+      "spans": [
+        {
+          "text": "And it came to pass, when he reigned, ",
+          "kind": "text"
+        },
+        {
+          "text": "that",
+          "kind": "supplied"
+        },
+        {
+          "text": " he smote all the house of Jeroboam; he left not to Jeroboam any that breathed, until he had destroyed him, according unto the saying of the LORD, which he spake by his servant Ahijah the Shilonite:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1KI.15.30",
+      "edition_verse_id": "KJV1769:1KI.15.30",
+      "verse": 30,
+      "spans": [
+        {
+          "text": "Because of the sins of Jeroboam which he sinned, and which he made Israel sin, by his provocation wherewith he provoked the LORD God of Israel to anger.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1KI.15.31",
+      "edition_verse_id": "KJV1769:1KI.15.31",
+      "verse": 31,
+      "spans": [
+        {
+          "text": "¶ Now the rest of the acts of Nadab, and all that he did, ",
+          "kind": "text"
+        },
+        {
+          "text": "are",
+          "kind": "supplied"
+        },
+        {
+          "text": " they not written in the book of the chronicles of the kings of Israel?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1KI.15.32",
+      "edition_verse_id": "KJV1769:1KI.15.32",
+      "verse": 32,
+      "spans": [
+        {
+          "text": "And there was war between Asa and Baasha king of Israel all their days.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1KI.15.33",
+      "edition_verse_id": "KJV1769:1KI.15.33",
+      "verse": 33,
+      "spans": [
+        {
+          "text": "In the third year of Asa king of Judah began Baasha the son of Ahijah to reign over all Israel in Tirzah, twenty and four years.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1KI.15.34",
+      "edition_verse_id": "KJV1769:1KI.15.34",
+      "verse": 34,
+      "spans": [
+        {
+          "text": "And he did evil in the sight of the LORD, and walked in the way of Jeroboam, and in his sin wherewith he made Israel to sin.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

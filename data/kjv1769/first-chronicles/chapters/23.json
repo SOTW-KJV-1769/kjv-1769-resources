@@ -1,0 +1,576 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "KJV1769",
+  "book_code": "1CH",
+  "chapter": 23,
+  "verses": [
+    {
+      "id": "1CH.23.1",
+      "edition_verse_id": "KJV1769:1CH.23.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "So when David was old and full of days, he made Solomon his son king over Israel.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1CH.23.2",
+      "edition_verse_id": "KJV1769:1CH.23.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "¶ And he gathered together all the princes of Israel, with the priests and the Levites.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1CH.23.3",
+      "edition_verse_id": "KJV1769:1CH.23.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "Now the Levites were numbered from the age of thirty years and upward: and their number by their polls, man by man, was thirty and eight thousand.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.23.4",
+      "edition_verse_id": "KJV1769:1CH.23.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "Of which, twenty and four thousand ",
+          "kind": "text"
+        },
+        {
+          "text": "were",
+          "kind": "supplied"
+        },
+        {
+          "text": " to set forward the work of the house of the LORD; and six thousand ",
+          "kind": "text"
+        },
+        {
+          "text": "were",
+          "kind": "supplied"
+        },
+        {
+          "text": " officers and judges:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.23.5",
+      "edition_verse_id": "KJV1769:1CH.23.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "Moreover four thousand ",
+          "kind": "text"
+        },
+        {
+          "text": "were",
+          "kind": "supplied"
+        },
+        {
+          "text": " porters; and four thousand praised the LORD with the instruments which I made, ",
+          "kind": "text"
+        },
+        {
+          "text": "said David",
+          "kind": "supplied"
+        },
+        {
+          "text": ", to praise ",
+          "kind": "text"
+        },
+        {
+          "text": "therewith",
+          "kind": "supplied"
+        },
+        {
+          "text": ".",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.23.6",
+      "edition_verse_id": "KJV1769:1CH.23.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "And David divided them into courses among the sons of Levi, ",
+          "kind": "text"
+        },
+        {
+          "text": "namely",
+          "kind": "supplied"
+        },
+        {
+          "text": ", Gershon, Kohath, and Merari.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.23.7",
+      "edition_verse_id": "KJV1769:1CH.23.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "¶ Of the Gershonites ",
+          "kind": "text"
+        },
+        {
+          "text": "were",
+          "kind": "supplied"
+        },
+        {
+          "text": ", Laadan, and Shimei.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1CH.23.8",
+      "edition_verse_id": "KJV1769:1CH.23.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "The sons of Laadan; the chief ",
+          "kind": "text"
+        },
+        {
+          "text": "was",
+          "kind": "supplied"
+        },
+        {
+          "text": " Jehiel, and Zetham, and Joel, three.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.23.9",
+      "edition_verse_id": "KJV1769:1CH.23.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "The sons of Shimei; Shelomith, and Haziel, and Haran, three. These ",
+          "kind": "text"
+        },
+        {
+          "text": "were",
+          "kind": "supplied"
+        },
+        {
+          "text": " the chief of the fathers of Laadan.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.23.10",
+      "edition_verse_id": "KJV1769:1CH.23.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "And the sons of Shimei ",
+          "kind": "text"
+        },
+        {
+          "text": "were",
+          "kind": "supplied"
+        },
+        {
+          "text": ", Jahath, Zina, and Jeush, and Beriah. These four ",
+          "kind": "text"
+        },
+        {
+          "text": "were",
+          "kind": "supplied"
+        },
+        {
+          "text": " the sons of Shimei.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.23.11",
+      "edition_verse_id": "KJV1769:1CH.23.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "And Jahath was the chief, and Zizah the second: but Jeush and Beriah had not many sons; therefore they were in one reckoning, according to ",
+          "kind": "text"
+        },
+        {
+          "text": "their",
+          "kind": "supplied"
+        },
+        {
+          "text": " father’s house.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.23.12",
+      "edition_verse_id": "KJV1769:1CH.23.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "¶ The sons of Kohath; Amram, Izhar, Hebron, and Uzziel, four.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1CH.23.13",
+      "edition_verse_id": "KJV1769:1CH.23.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "The sons of Amram; Aaron and Moses: and Aaron was separated, that he should sanctify the most holy things, he and his sons for ever, to burn incense before the LORD, to minister unto him, and to bless in his name for ever.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.23.14",
+      "edition_verse_id": "KJV1769:1CH.23.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "Now ",
+          "kind": "text"
+        },
+        {
+          "text": "concerning",
+          "kind": "supplied"
+        },
+        {
+          "text": " Moses the man of God, his sons were named of the tribe of Levi.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.23.15",
+      "edition_verse_id": "KJV1769:1CH.23.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "The sons of Moses ",
+          "kind": "text"
+        },
+        {
+          "text": "were",
+          "kind": "supplied"
+        },
+        {
+          "text": ", Gershom, and Eliezer.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.23.16",
+      "edition_verse_id": "KJV1769:1CH.23.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "Of the sons of Gershom, Shebuel ",
+          "kind": "text"
+        },
+        {
+          "text": "was",
+          "kind": "supplied"
+        },
+        {
+          "text": " the chief.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.23.17",
+      "edition_verse_id": "KJV1769:1CH.23.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "And the sons of Eliezer ",
+          "kind": "text"
+        },
+        {
+          "text": "were",
+          "kind": "supplied"
+        },
+        {
+          "text": ", Rehabiah the chief. And Eliezer had none other sons; but the sons of Rehabiah were very many.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.23.18",
+      "edition_verse_id": "KJV1769:1CH.23.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "Of the sons of Izhar; Shelomith the chief.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.23.19",
+      "edition_verse_id": "KJV1769:1CH.23.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "Of the sons of Hebron; Jeriah the first, Amariah the second, Jahaziel the third, and Jekameam the fourth.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.23.20",
+      "edition_verse_id": "KJV1769:1CH.23.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "Of the sons of Uzziel; Michah the first, and Jesiah the second.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.23.21",
+      "edition_verse_id": "KJV1769:1CH.23.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "¶ The sons of Merari; Mahli, and Mushi. The sons of Mahli; Eleazar, and Kish.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1CH.23.22",
+      "edition_verse_id": "KJV1769:1CH.23.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "And Eleazar died, and had no sons, but daughters: and their brethren the sons of Kish took them.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.23.23",
+      "edition_verse_id": "KJV1769:1CH.23.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "The sons of Mushi; Mahli, and Eder, and Jeremoth, three.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.23.24",
+      "edition_verse_id": "KJV1769:1CH.23.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "¶ These ",
+          "kind": "text"
+        },
+        {
+          "text": "were",
+          "kind": "supplied"
+        },
+        {
+          "text": " the sons of Levi after the house of their fathers; ",
+          "kind": "text"
+        },
+        {
+          "text": "even",
+          "kind": "supplied"
+        },
+        {
+          "text": " the chief of the fathers, as they were counted by number of names by their polls, that did the work for the service of the house of the LORD, from the age of twenty years and upward.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1CH.23.25",
+      "edition_verse_id": "KJV1769:1CH.23.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "For David said, The LORD God of Israel hath given rest unto his people, that they may dwell in Jerusalem for ever:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.23.26",
+      "edition_verse_id": "KJV1769:1CH.23.26",
+      "verse": 26,
+      "spans": [
+        {
+          "text": "And also unto the Levites; they shall no ",
+          "kind": "text"
+        },
+        {
+          "text": "more",
+          "kind": "supplied"
+        },
+        {
+          "text": " carry the tabernacle, nor any vessels of it for the service thereof.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.23.27",
+      "edition_verse_id": "KJV1769:1CH.23.27",
+      "verse": 27,
+      "spans": [
+        {
+          "text": "For by the last words of David the Levites ",
+          "kind": "text"
+        },
+        {
+          "text": "were",
+          "kind": "supplied"
+        },
+        {
+          "text": " numbered from twenty years old and above:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.23.28",
+      "edition_verse_id": "KJV1769:1CH.23.28",
+      "verse": 28,
+      "spans": [
+        {
+          "text": "Because their office ",
+          "kind": "text"
+        },
+        {
+          "text": "was",
+          "kind": "supplied"
+        },
+        {
+          "text": " to wait on the sons of Aaron for the service of the house of the LORD, in the courts, and in the chambers, and in the purifying of all holy things, and the work of the service of the house of God;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.23.29",
+      "edition_verse_id": "KJV1769:1CH.23.29",
+      "verse": 29,
+      "spans": [
+        {
+          "text": "Both for the shewbread, and for the fine flour for meat offering, and for the unleavened cakes, and for ",
+          "kind": "text"
+        },
+        {
+          "text": "that which is baked in",
+          "kind": "supplied"
+        },
+        {
+          "text": " the pan, and for that which is fried, and for all manner of measure and size;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.23.30",
+      "edition_verse_id": "KJV1769:1CH.23.30",
+      "verse": 30,
+      "spans": [
+        {
+          "text": "And to stand every morning to thank and praise the LORD, and likewise at even;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.23.31",
+      "edition_verse_id": "KJV1769:1CH.23.31",
+      "verse": 31,
+      "spans": [
+        {
+          "text": "And to offer all burnt sacrifices unto the LORD in the sabbaths, in the new moons, and on the set feasts, by number, according to the order commanded unto them, continually before the LORD:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.23.32",
+      "edition_verse_id": "KJV1769:1CH.23.32",
+      "verse": 32,
+      "spans": [
+        {
+          "text": "And that they should keep the charge of the tabernacle of the congregation, and the charge of the holy ",
+          "kind": "text"
+        },
+        {
+          "text": "place",
+          "kind": "supplied"
+        },
+        {
+          "text": ", and the charge of the sons of Aaron their brethren, in the service of the house of the LORD.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

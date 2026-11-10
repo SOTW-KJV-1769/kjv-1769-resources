@@ -1,0 +1,1048 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "KJV1769",
+  "book_code": "1SA",
+  "chapter": 17,
+  "verses": [
+    {
+      "id": "1SA.17.1",
+      "edition_verse_id": "KJV1769:1SA.17.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "Now the Philistines gathered together their armies to battle, and were gathered together at Shochoh, which ",
+          "kind": "text"
+        },
+        {
+          "text": "belongeth",
+          "kind": "supplied"
+        },
+        {
+          "text": " to Judah, and pitched between Shochoh and Azekah, in Ephes-dammim.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1SA.17.2",
+      "edition_verse_id": "KJV1769:1SA.17.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "And Saul and the men of Israel were gathered together, and pitched by the valley of Elah, and set the battle in array against the Philistines.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1SA.17.3",
+      "edition_verse_id": "KJV1769:1SA.17.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "And the Philistines stood on a mountain on the one side, and Israel stood on a mountain on the other side: and ",
+          "kind": "text"
+        },
+        {
+          "text": "there was",
+          "kind": "supplied"
+        },
+        {
+          "text": " a valley between them.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1SA.17.4",
+      "edition_verse_id": "KJV1769:1SA.17.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "¶ And there went out a champion out of the camp of the Philistines, named Goliath, of Gath, whose height ",
+          "kind": "text"
+        },
+        {
+          "text": "was",
+          "kind": "supplied"
+        },
+        {
+          "text": " six cubits and a span.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1SA.17.5",
+      "edition_verse_id": "KJV1769:1SA.17.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "And ",
+          "kind": "text"
+        },
+        {
+          "text": "he had",
+          "kind": "supplied"
+        },
+        {
+          "text": " an helmet of brass upon his head, and he ",
+          "kind": "text"
+        },
+        {
+          "text": "was",
+          "kind": "supplied"
+        },
+        {
+          "text": " armed with a coat of mail; and the weight of the coat ",
+          "kind": "text"
+        },
+        {
+          "text": "was",
+          "kind": "supplied"
+        },
+        {
+          "text": " five thousand shekels of brass.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1SA.17.6",
+      "edition_verse_id": "KJV1769:1SA.17.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "And ",
+          "kind": "text"
+        },
+        {
+          "text": "he had",
+          "kind": "supplied"
+        },
+        {
+          "text": " greaves of brass upon his legs, and a target of brass between his shoulders.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1SA.17.7",
+      "edition_verse_id": "KJV1769:1SA.17.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "And the staff of his spear ",
+          "kind": "text"
+        },
+        {
+          "text": "was",
+          "kind": "supplied"
+        },
+        {
+          "text": " like a weaver’s beam; and his spear’s head ",
+          "kind": "text"
+        },
+        {
+          "text": "weighed",
+          "kind": "supplied"
+        },
+        {
+          "text": " six hundred shekels of iron: and one bearing a shield went before him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1SA.17.8",
+      "edition_verse_id": "KJV1769:1SA.17.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "And he stood and cried unto the armies of Israel, and said unto them, Why are ye come out to set ",
+          "kind": "text"
+        },
+        {
+          "text": "your",
+          "kind": "supplied"
+        },
+        {
+          "text": " battle in array? ",
+          "kind": "text"
+        },
+        {
+          "text": "am",
+          "kind": "supplied"
+        },
+        {
+          "text": " not I a Philistine, and ye servants to Saul? choose you a man for you, and let him come down to me.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1SA.17.9",
+      "edition_verse_id": "KJV1769:1SA.17.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "If he be able to fight with me, and to kill me, then will we be your servants: but if I prevail against him, and kill him, then shall ye be our servants, and serve us.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1SA.17.10",
+      "edition_verse_id": "KJV1769:1SA.17.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "And the Philistine said, I defy the armies of Israel this day; give me a man, that we may fight together.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1SA.17.11",
+      "edition_verse_id": "KJV1769:1SA.17.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "When Saul and all Israel heard those words of the Philistine, they were dismayed, and greatly afraid.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1SA.17.12",
+      "edition_verse_id": "KJV1769:1SA.17.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "¶ Now David ",
+          "kind": "text"
+        },
+        {
+          "text": "was",
+          "kind": "supplied"
+        },
+        {
+          "text": " the son of that Ephrathite of Beth-lehem-judah, whose name ",
+          "kind": "text"
+        },
+        {
+          "text": "was",
+          "kind": "supplied"
+        },
+        {
+          "text": " Jesse; and he had eight sons: and the man went among men ",
+          "kind": "text"
+        },
+        {
+          "text": "for",
+          "kind": "supplied"
+        },
+        {
+          "text": " an old man in the days of Saul.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1SA.17.13",
+      "edition_verse_id": "KJV1769:1SA.17.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "And the three eldest sons of Jesse went ",
+          "kind": "text"
+        },
+        {
+          "text": "and",
+          "kind": "supplied"
+        },
+        {
+          "text": " followed Saul to the battle: and the names of his three sons that went to the battle ",
+          "kind": "text"
+        },
+        {
+          "text": "were",
+          "kind": "supplied"
+        },
+        {
+          "text": " Eliab the firstborn, and next unto him Abinadab, and the third Shammah.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1SA.17.14",
+      "edition_verse_id": "KJV1769:1SA.17.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "And David ",
+          "kind": "text"
+        },
+        {
+          "text": "was",
+          "kind": "supplied"
+        },
+        {
+          "text": " the youngest: and the three eldest followed Saul.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1SA.17.15",
+      "edition_verse_id": "KJV1769:1SA.17.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "But David went and returned from Saul to feed his father’s sheep at Beth-lehem.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1SA.17.16",
+      "edition_verse_id": "KJV1769:1SA.17.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "And the Philistine drew near morning and evening, and presented himself forty days.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1SA.17.17",
+      "edition_verse_id": "KJV1769:1SA.17.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "And Jesse said unto David his son, Take now for thy brethren an ephah of this parched ",
+          "kind": "text"
+        },
+        {
+          "text": "corn",
+          "kind": "supplied"
+        },
+        {
+          "text": ", and these ten loaves, and run to the camp to thy brethren;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1SA.17.18",
+      "edition_verse_id": "KJV1769:1SA.17.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "And carry these ten cheeses unto the captain of ",
+          "kind": "text"
+        },
+        {
+          "text": "their",
+          "kind": "supplied"
+        },
+        {
+          "text": " thousand, and look how thy brethren fare, and take their pledge.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1SA.17.19",
+      "edition_verse_id": "KJV1769:1SA.17.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "Now Saul, and they, and all the men of Israel, ",
+          "kind": "text"
+        },
+        {
+          "text": "were",
+          "kind": "supplied"
+        },
+        {
+          "text": " in the valley of Elah, fighting with the Philistines.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1SA.17.20",
+      "edition_verse_id": "KJV1769:1SA.17.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "¶ And David rose up early in the morning, and left the sheep with a keeper, and took, and went, as Jesse had commanded him; and he came to the trench, as the host was going forth to the fight, and shouted for the battle.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1SA.17.21",
+      "edition_verse_id": "KJV1769:1SA.17.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "For Israel and the Philistines had put the battle in array, army against army.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1SA.17.22",
+      "edition_verse_id": "KJV1769:1SA.17.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "And David left his carriage in the hand of the keeper of the carriage, and ran into the army, and came and saluted his brethren.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1SA.17.23",
+      "edition_verse_id": "KJV1769:1SA.17.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "And as he talked with them, behold, there came up the champion, the Philistine of Gath, Goliath by name, out of the armies of the Philistines, and spake according to the same words: and David heard ",
+          "kind": "text"
+        },
+        {
+          "text": "them",
+          "kind": "supplied"
+        },
+        {
+          "text": ".",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1SA.17.24",
+      "edition_verse_id": "KJV1769:1SA.17.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "And all the men of Israel, when they saw the man, fled from him, and were sore afraid.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1SA.17.25",
+      "edition_verse_id": "KJV1769:1SA.17.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "And the men of Israel said, Have ye seen this man that is come up? surely to defy Israel is he come up: and it shall be, ",
+          "kind": "text"
+        },
+        {
+          "text": "that",
+          "kind": "supplied"
+        },
+        {
+          "text": " the man who killeth him, the king will enrich him with great riches, and will give him his daughter, and make his father’s house free in Israel.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1SA.17.26",
+      "edition_verse_id": "KJV1769:1SA.17.26",
+      "verse": 26,
+      "spans": [
+        {
+          "text": "And David spake to the men that stood by him, saying, What shall be done to the man that killeth this Philistine, and taketh away the reproach from Israel? for who ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " this uncircumcised Philistine, that he should defy the armies of the living God?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1SA.17.27",
+      "edition_verse_id": "KJV1769:1SA.17.27",
+      "verse": 27,
+      "spans": [
+        {
+          "text": "And the people answered him after this manner, saying, So shall it be done to the man that killeth him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1SA.17.28",
+      "edition_verse_id": "KJV1769:1SA.17.28",
+      "verse": 28,
+      "spans": [
+        {
+          "text": "¶ And Eliab his eldest brother heard when he spake unto the men; and Eliab’s anger was kindled against David, and he said, Why camest thou down hither? and with whom hast thou left those few sheep in the wilderness? I know thy pride, and the naughtiness of thine heart; for thou art come down that thou mightest see the battle.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1SA.17.29",
+      "edition_verse_id": "KJV1769:1SA.17.29",
+      "verse": 29,
+      "spans": [
+        {
+          "text": "And David said, What have I now done? ",
+          "kind": "text"
+        },
+        {
+          "text": "Is there",
+          "kind": "supplied"
+        },
+        {
+          "text": " not a cause?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1SA.17.30",
+      "edition_verse_id": "KJV1769:1SA.17.30",
+      "verse": 30,
+      "spans": [
+        {
+          "text": "¶ And he turned from him toward another, and spake after the same manner: and the people answered him again after the former manner.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1SA.17.31",
+      "edition_verse_id": "KJV1769:1SA.17.31",
+      "verse": 31,
+      "spans": [
+        {
+          "text": "And when the words were heard which David spake, they rehearsed ",
+          "kind": "text"
+        },
+        {
+          "text": "them",
+          "kind": "supplied"
+        },
+        {
+          "text": " before Saul: and he sent for him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1SA.17.32",
+      "edition_verse_id": "KJV1769:1SA.17.32",
+      "verse": 32,
+      "spans": [
+        {
+          "text": "¶ And David said to Saul, Let no man’s heart fail because of him; thy servant will go and fight with this Philistine.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1SA.17.33",
+      "edition_verse_id": "KJV1769:1SA.17.33",
+      "verse": 33,
+      "spans": [
+        {
+          "text": "And Saul said to David, Thou art not able to go against this Philistine to fight with him: for thou ",
+          "kind": "text"
+        },
+        {
+          "text": "art but",
+          "kind": "supplied"
+        },
+        {
+          "text": " a youth, and he a man of war from his youth.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1SA.17.34",
+      "edition_verse_id": "KJV1769:1SA.17.34",
+      "verse": 34,
+      "spans": [
+        {
+          "text": "And David said unto Saul, Thy servant kept his father’s sheep, and there came a lion, and a bear, and took a lamb out of the flock:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1SA.17.35",
+      "edition_verse_id": "KJV1769:1SA.17.35",
+      "verse": 35,
+      "spans": [
+        {
+          "text": "And I went out after him, and smote him, and delivered ",
+          "kind": "text"
+        },
+        {
+          "text": "it",
+          "kind": "supplied"
+        },
+        {
+          "text": " out of his mouth: and when he arose against me, I caught ",
+          "kind": "text"
+        },
+        {
+          "text": "him",
+          "kind": "supplied"
+        },
+        {
+          "text": " by his beard, and smote him, and slew him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1SA.17.36",
+      "edition_verse_id": "KJV1769:1SA.17.36",
+      "verse": 36,
+      "spans": [
+        {
+          "text": "Thy servant slew both the lion and the bear: and this uncircumcised Philistine shall be as one of them, seeing he hath defied the armies of the living God.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1SA.17.37",
+      "edition_verse_id": "KJV1769:1SA.17.37",
+      "verse": 37,
+      "spans": [
+        {
+          "text": "David said moreover, The LORD that delivered me out of the paw of the lion, and out of the paw of the bear, he will deliver me out of the hand of this Philistine. And Saul said unto David, Go, and the LORD be with thee.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1SA.17.38",
+      "edition_verse_id": "KJV1769:1SA.17.38",
+      "verse": 38,
+      "spans": [
+        {
+          "text": "¶ And Saul armed David with his armour, and he put an helmet of brass upon his head; also he armed him with a coat of mail.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1SA.17.39",
+      "edition_verse_id": "KJV1769:1SA.17.39",
+      "verse": 39,
+      "spans": [
+        {
+          "text": "And David girded his sword upon his armour, and he assayed to go; for he had not proved ",
+          "kind": "text"
+        },
+        {
+          "text": "it",
+          "kind": "supplied"
+        },
+        {
+          "text": ". And David said unto Saul, I cannot go with these; for I have not proved ",
+          "kind": "text"
+        },
+        {
+          "text": "them",
+          "kind": "supplied"
+        },
+        {
+          "text": ". And David put them off him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1SA.17.40",
+      "edition_verse_id": "KJV1769:1SA.17.40",
+      "verse": 40,
+      "spans": [
+        {
+          "text": "And he took his staff in his hand, and chose him five smooth stones out of the brook, and put them in a shepherd’s bag which he had, even in a scrip; and his sling ",
+          "kind": "text"
+        },
+        {
+          "text": "was",
+          "kind": "supplied"
+        },
+        {
+          "text": " in his hand: and he drew near to the Philistine.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1SA.17.41",
+      "edition_verse_id": "KJV1769:1SA.17.41",
+      "verse": 41,
+      "spans": [
+        {
+          "text": "And the Philistine came on and drew near unto David; and the man that bare the shield ",
+          "kind": "text"
+        },
+        {
+          "text": "went",
+          "kind": "supplied"
+        },
+        {
+          "text": " before him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1SA.17.42",
+      "edition_verse_id": "KJV1769:1SA.17.42",
+      "verse": 42,
+      "spans": [
+        {
+          "text": "And when the Philistine looked about, and saw David, he disdained him: for he was ",
+          "kind": "text"
+        },
+        {
+          "text": "but",
+          "kind": "supplied"
+        },
+        {
+          "text": " a youth, and ruddy, and of a fair countenance.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1SA.17.43",
+      "edition_verse_id": "KJV1769:1SA.17.43",
+      "verse": 43,
+      "spans": [
+        {
+          "text": "And the Philistine said unto David, ",
+          "kind": "text"
+        },
+        {
+          "text": "Am",
+          "kind": "supplied"
+        },
+        {
+          "text": " I a dog, that thou comest to me with staves? And the Philistine cursed David by his gods.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1SA.17.44",
+      "edition_verse_id": "KJV1769:1SA.17.44",
+      "verse": 44,
+      "spans": [
+        {
+          "text": "And the Philistine said to David, Come to me, and I will give thy flesh unto the fowls of the air, and to the beasts of the field.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1SA.17.45",
+      "edition_verse_id": "KJV1769:1SA.17.45",
+      "verse": 45,
+      "spans": [
+        {
+          "text": "Then said David to the Philistine, Thou comest to me with a sword, and with a spear, and with a shield: but I come to thee in the name of the LORD of hosts, the God of the armies of Israel, whom thou hast defied.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1SA.17.46",
+      "edition_verse_id": "KJV1769:1SA.17.46",
+      "verse": 46,
+      "spans": [
+        {
+          "text": "This day will the LORD deliver thee into mine hand; and I will smite thee, and take thine head from thee; and I will give the carcases of the host of the Philistines this day unto the fowls of the air, and to the wild beasts of the earth; that all the earth may know that there is a God in Israel.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1SA.17.47",
+      "edition_verse_id": "KJV1769:1SA.17.47",
+      "verse": 47,
+      "spans": [
+        {
+          "text": "And all this assembly shall know that the LORD saveth not with sword and spear: for the battle ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " the LORD’s, and he will give you into our hands.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1SA.17.48",
+      "edition_verse_id": "KJV1769:1SA.17.48",
+      "verse": 48,
+      "spans": [
+        {
+          "text": "And it came to pass, when the Philistine arose, and came and drew nigh to meet David, that David hasted, and ran toward the army to meet the Philistine.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1SA.17.49",
+      "edition_verse_id": "KJV1769:1SA.17.49",
+      "verse": 49,
+      "spans": [
+        {
+          "text": "And David put his hand in his bag, and took thence a stone, and slang ",
+          "kind": "text"
+        },
+        {
+          "text": "it",
+          "kind": "supplied"
+        },
+        {
+          "text": ", and smote the Philistine in his forehead, that the stone sunk into his forehead; and he fell upon his face to the earth.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1SA.17.50",
+      "edition_verse_id": "KJV1769:1SA.17.50",
+      "verse": 50,
+      "spans": [
+        {
+          "text": "So David prevailed over the Philistine with a sling and with a stone, and smote the Philistine, and slew him; but ",
+          "kind": "text"
+        },
+        {
+          "text": "there was",
+          "kind": "supplied"
+        },
+        {
+          "text": " no sword in the hand of David.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1SA.17.51",
+      "edition_verse_id": "KJV1769:1SA.17.51",
+      "verse": 51,
+      "spans": [
+        {
+          "text": "Therefore David ran, and stood upon the Philistine, and took his sword, and drew it out of the sheath thereof, and slew him, and cut off his head therewith. And when the Philistines saw their champion was dead, they fled.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1SA.17.52",
+      "edition_verse_id": "KJV1769:1SA.17.52",
+      "verse": 52,
+      "spans": [
+        {
+          "text": "And the men of Israel and of Judah arose, and shouted, and pursued the Philistines, until thou come to the valley, and to the gates of Ekron. And the wounded of the Philistines fell down by the way to Shaaraim, even unto Gath, and unto Ekron.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1SA.17.53",
+      "edition_verse_id": "KJV1769:1SA.17.53",
+      "verse": 53,
+      "spans": [
+        {
+          "text": "And the children of Israel returned from chasing after the Philistines, and they spoiled their tents.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1SA.17.54",
+      "edition_verse_id": "KJV1769:1SA.17.54",
+      "verse": 54,
+      "spans": [
+        {
+          "text": "And David took the head of the Philistine, and brought it to Jerusalem; but he put his armour in his tent.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1SA.17.55",
+      "edition_verse_id": "KJV1769:1SA.17.55",
+      "verse": 55,
+      "spans": [
+        {
+          "text": "¶ And when Saul saw David go forth against the Philistine, he said unto Abner, the captain of the host, Abner, whose son ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " this youth? And Abner said, ",
+          "kind": "text"
+        },
+        {
+          "text": "As",
+          "kind": "supplied"
+        },
+        {
+          "text": " thy soul liveth, O king, I cannot tell.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1SA.17.56",
+      "edition_verse_id": "KJV1769:1SA.17.56",
+      "verse": 56,
+      "spans": [
+        {
+          "text": "And the king said, Enquire thou whose son the stripling ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": ".",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1SA.17.57",
+      "edition_verse_id": "KJV1769:1SA.17.57",
+      "verse": 57,
+      "spans": [
+        {
+          "text": "And as David returned from the slaughter of the Philistine, Abner took him, and brought him before Saul with the head of the Philistine in his hand.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1SA.17.58",
+      "edition_verse_id": "KJV1769:1SA.17.58",
+      "verse": 58,
+      "spans": [
+        {
+          "text": "And Saul said to him, Whose son ",
+          "kind": "text"
+        },
+        {
+          "text": "art",
+          "kind": "supplied"
+        },
+        {
+          "text": " thou, ",
+          "kind": "text"
+        },
+        {
+          "text": "thou",
+          "kind": "supplied"
+        },
+        {
+          "text": " young man? And David answered, I ",
+          "kind": "text"
+        },
+        {
+          "text": "am",
+          "kind": "supplied"
+        },
+        {
+          "text": " the son of thy servant Jesse the Beth-lehemite.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

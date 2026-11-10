@@ -1,0 +1,356 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "KJV1769",
+  "book_code": "1CO",
+  "chapter": 3,
+  "verses": [
+    {
+      "id": "1CO.3.1",
+      "edition_verse_id": "KJV1769:1CO.3.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "And I, brethren, could not speak unto you as unto spiritual, but as unto carnal, ",
+          "kind": "text"
+        },
+        {
+          "text": "even",
+          "kind": "supplied"
+        },
+        {
+          "text": " as unto babes in Christ.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1CO.3.2",
+      "edition_verse_id": "KJV1769:1CO.3.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "I have fed you with milk, and not with meat: for hitherto ye were not able ",
+          "kind": "text"
+        },
+        {
+          "text": "to bear it",
+          "kind": "supplied"
+        },
+        {
+          "text": ", neither yet now are ye able.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CO.3.3",
+      "edition_verse_id": "KJV1769:1CO.3.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "For ye are yet carnal: for whereas ",
+          "kind": "text"
+        },
+        {
+          "text": "there is",
+          "kind": "supplied"
+        },
+        {
+          "text": " among you envying, and strife, and divisions, are ye not carnal, and walk as men?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1CO.3.4",
+      "edition_verse_id": "KJV1769:1CO.3.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "For while one saith, I am of Paul; and another, I ",
+          "kind": "text"
+        },
+        {
+          "text": "am",
+          "kind": "supplied"
+        },
+        {
+          "text": " of Apollos; are ye not carnal?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CO.3.5",
+      "edition_verse_id": "KJV1769:1CO.3.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "Who then is Paul, and who ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " Apollos, but ministers by whom ye believed, even as the Lord gave to every man?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CO.3.6",
+      "edition_verse_id": "KJV1769:1CO.3.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "I have planted, Apollos watered; but God gave the increase.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CO.3.7",
+      "edition_verse_id": "KJV1769:1CO.3.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "So then neither is he that planteth any thing, neither he that watereth; but God that giveth the increase.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CO.3.8",
+      "edition_verse_id": "KJV1769:1CO.3.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "Now he that planteth and he that watereth are one: and every man shall receive his own reward according to his own labour.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CO.3.9",
+      "edition_verse_id": "KJV1769:1CO.3.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "For we are labourers together with God: ye are God’s husbandry, ",
+          "kind": "text"
+        },
+        {
+          "text": "ye are",
+          "kind": "supplied"
+        },
+        {
+          "text": " God’s building.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CO.3.10",
+      "edition_verse_id": "KJV1769:1CO.3.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "According to the grace of God which is given unto me, as a wise masterbuilder, I have laid the foundation, and another buildeth thereon. But let every man take heed how he buildeth thereupon.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CO.3.11",
+      "edition_verse_id": "KJV1769:1CO.3.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "For other foundation can no man lay than that is laid, which is Jesus Christ.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CO.3.12",
+      "edition_verse_id": "KJV1769:1CO.3.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "Now if any man build upon this foundation gold, silver, precious stones, wood, hay, stubble;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CO.3.13",
+      "edition_verse_id": "KJV1769:1CO.3.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "Every man’s work shall be made manifest: for the day shall declare it, because it shall be revealed by fire; and the fire shall try every man’s work of what sort it is.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CO.3.14",
+      "edition_verse_id": "KJV1769:1CO.3.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "If any man’s work abide which he hath built thereupon, he shall receive a reward.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CO.3.15",
+      "edition_verse_id": "KJV1769:1CO.3.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "If any man’s work shall be burned, he shall suffer loss: but he himself shall be saved; yet so as by fire.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CO.3.16",
+      "edition_verse_id": "KJV1769:1CO.3.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "Know ye not that ye are the temple of God, and ",
+          "kind": "text"
+        },
+        {
+          "text": "that",
+          "kind": "supplied"
+        },
+        {
+          "text": " the Spirit of God dwelleth in you?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CO.3.17",
+      "edition_verse_id": "KJV1769:1CO.3.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "If any man defile the temple of God, him shall God destroy; for the temple of God is holy, which ",
+          "kind": "text"
+        },
+        {
+          "text": "temple",
+          "kind": "supplied"
+        },
+        {
+          "text": " ye are.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CO.3.18",
+      "edition_verse_id": "KJV1769:1CO.3.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "Let no man deceive himself. If any man among you seemeth to be wise in this world, let him become a fool, that he may be wise.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1CO.3.19",
+      "edition_verse_id": "KJV1769:1CO.3.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "For the wisdom of this world is foolishness with God. For it is written, He taketh the wise in their own craftiness.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CO.3.20",
+      "edition_verse_id": "KJV1769:1CO.3.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "And again, The Lord knoweth the thoughts of the wise, that they are vain.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CO.3.21",
+      "edition_verse_id": "KJV1769:1CO.3.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "Therefore let no man glory in men. For all things are yours;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CO.3.22",
+      "edition_verse_id": "KJV1769:1CO.3.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "Whether Paul, or Apollos, or Cephas, or the world, or life, or death, or things present, or things to come; all are yours;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CO.3.23",
+      "edition_verse_id": "KJV1769:1CO.3.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "And ye are Christ’s; and Christ ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " God’s.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

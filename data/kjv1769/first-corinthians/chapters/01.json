@@ -1,0 +1,508 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "KJV1769",
+  "book_code": "1CO",
+  "chapter": 1,
+  "verses": [
+    {
+      "id": "1CO.1.1",
+      "edition_verse_id": "KJV1769:1CO.1.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "Paul, called ",
+          "kind": "text"
+        },
+        {
+          "text": "to be",
+          "kind": "supplied"
+        },
+        {
+          "text": " an apostle of Jesus Christ through the will of God, and Sosthenes ",
+          "kind": "text"
+        },
+        {
+          "text": "our",
+          "kind": "supplied"
+        },
+        {
+          "text": " brother,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1CO.1.2",
+      "edition_verse_id": "KJV1769:1CO.1.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "Unto the church of God which is at Corinth, to them that are sanctified in Christ Jesus, called ",
+          "kind": "text"
+        },
+        {
+          "text": "to be",
+          "kind": "supplied"
+        },
+        {
+          "text": " saints, with all that in every place call upon the name of Jesus Christ our Lord, both theirs and ours:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CO.1.3",
+      "edition_verse_id": "KJV1769:1CO.1.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "Grace ",
+          "kind": "text"
+        },
+        {
+          "text": "be",
+          "kind": "supplied"
+        },
+        {
+          "text": " unto you, and peace, from God our Father, and ",
+          "kind": "text"
+        },
+        {
+          "text": "from",
+          "kind": "supplied"
+        },
+        {
+          "text": " the Lord Jesus Christ.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CO.1.4",
+      "edition_verse_id": "KJV1769:1CO.1.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "I thank my God always on your behalf, for the grace of God which is given you by Jesus Christ;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1CO.1.5",
+      "edition_verse_id": "KJV1769:1CO.1.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "That in every thing ye are enriched by him, in all utterance, and ",
+          "kind": "text"
+        },
+        {
+          "text": "in",
+          "kind": "supplied"
+        },
+        {
+          "text": " all knowledge;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CO.1.6",
+      "edition_verse_id": "KJV1769:1CO.1.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "Even as the testimony of Christ was confirmed in you:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CO.1.7",
+      "edition_verse_id": "KJV1769:1CO.1.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "So that ye come behind in no gift; waiting for the coming of our Lord Jesus Christ:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CO.1.8",
+      "edition_verse_id": "KJV1769:1CO.1.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "Who shall also confirm you unto the end, ",
+          "kind": "text"
+        },
+        {
+          "text": "that ye may be",
+          "kind": "supplied"
+        },
+        {
+          "text": " blameless in the day of our Lord Jesus Christ.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CO.1.9",
+      "edition_verse_id": "KJV1769:1CO.1.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "God ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " faithful, by whom ye were called unto the fellowship of his Son Jesus Christ our Lord.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CO.1.10",
+      "edition_verse_id": "KJV1769:1CO.1.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "Now I beseech you, brethren, by the name of our Lord Jesus Christ, that ye all speak the same thing, and ",
+          "kind": "text"
+        },
+        {
+          "text": "that",
+          "kind": "supplied"
+        },
+        {
+          "text": " there be no divisions among you; but ",
+          "kind": "text"
+        },
+        {
+          "text": "that",
+          "kind": "supplied"
+        },
+        {
+          "text": " ye be perfectly joined together in the same mind and in the same judgment.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1CO.1.11",
+      "edition_verse_id": "KJV1769:1CO.1.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "For it hath been declared unto me of you, my brethren, by them ",
+          "kind": "text"
+        },
+        {
+          "text": "which are of the house",
+          "kind": "supplied"
+        },
+        {
+          "text": " of Chloe, that there are contentions among you.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CO.1.12",
+      "edition_verse_id": "KJV1769:1CO.1.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "Now this I say, that every one of you saith, I am of Paul; and I of Apollos; and I of Cephas; and I of Christ.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CO.1.13",
+      "edition_verse_id": "KJV1769:1CO.1.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "Is Christ divided? was Paul crucified for you? or were ye baptized in the name of Paul?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CO.1.14",
+      "edition_verse_id": "KJV1769:1CO.1.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "I thank God that I baptized none of you, but Crispus and Gaius;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CO.1.15",
+      "edition_verse_id": "KJV1769:1CO.1.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "Lest any should say that I had baptized in mine own name.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CO.1.16",
+      "edition_verse_id": "KJV1769:1CO.1.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "And I baptized also the household of Stephanas: besides, I know not whether I baptized any other.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CO.1.17",
+      "edition_verse_id": "KJV1769:1CO.1.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "For Christ sent me not to baptize, but to preach the gospel: not with wisdom of words, lest the cross of Christ should be made of none effect.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CO.1.18",
+      "edition_verse_id": "KJV1769:1CO.1.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "For the preaching of the cross is to them that perish foolishness; but unto us which are saved it is the power of God.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1CO.1.19",
+      "edition_verse_id": "KJV1769:1CO.1.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "For it is written, I will destroy the wisdom of the wise, and will bring to nothing the understanding of the prudent.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CO.1.20",
+      "edition_verse_id": "KJV1769:1CO.1.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "Where ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " the wise? where ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " the scribe? where ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " the disputer of this world? hath not God made foolish the wisdom of this world?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CO.1.21",
+      "edition_verse_id": "KJV1769:1CO.1.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "For after that in the wisdom of God the world by wisdom knew not God, it pleased God by the foolishness of preaching to save them that believe.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CO.1.22",
+      "edition_verse_id": "KJV1769:1CO.1.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "For the Jews require a sign, and the Greeks seek after wisdom:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CO.1.23",
+      "edition_verse_id": "KJV1769:1CO.1.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "But we preach Christ crucified, unto the Jews a stumblingblock, and unto the Greeks foolishness;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CO.1.24",
+      "edition_verse_id": "KJV1769:1CO.1.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "But unto them which are called, both Jews and Greeks, Christ the power of God, and the wisdom of God.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CO.1.25",
+      "edition_verse_id": "KJV1769:1CO.1.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "Because the foolishness of God is wiser than men; and the weakness of God is stronger than men.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CO.1.26",
+      "edition_verse_id": "KJV1769:1CO.1.26",
+      "verse": 26,
+      "spans": [
+        {
+          "text": "For ye see your calling, brethren, how that not many wise men after the flesh, not many mighty, not many noble, ",
+          "kind": "text"
+        },
+        {
+          "text": "are called",
+          "kind": "supplied"
+        },
+        {
+          "text": ":",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CO.1.27",
+      "edition_verse_id": "KJV1769:1CO.1.27",
+      "verse": 27,
+      "spans": [
+        {
+          "text": "But God hath chosen the foolish things of the world to confound the wise; and God hath chosen the weak things of the world to confound the things which are mighty;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CO.1.28",
+      "edition_verse_id": "KJV1769:1CO.1.28",
+      "verse": 28,
+      "spans": [
+        {
+          "text": "And base things of the world, and things which are despised, hath God chosen, ",
+          "kind": "text"
+        },
+        {
+          "text": "yea",
+          "kind": "supplied"
+        },
+        {
+          "text": ", and things which are not, to bring to nought things that are:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CO.1.29",
+      "edition_verse_id": "KJV1769:1CO.1.29",
+      "verse": 29,
+      "spans": [
+        {
+          "text": "That no flesh should glory in his presence.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CO.1.30",
+      "edition_verse_id": "KJV1769:1CO.1.30",
+      "verse": 30,
+      "spans": [
+        {
+          "text": "But of him are ye in Christ Jesus, who of God is made unto us wisdom, and righteousness, and sanctification, and redemption:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CO.1.31",
+      "edition_verse_id": "KJV1769:1CO.1.31",
+      "verse": 31,
+      "spans": [
+        {
+          "text": "That, according as it is written, He that glorieth, let him glory in the Lord.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

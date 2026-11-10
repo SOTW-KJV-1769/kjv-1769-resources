@@ -1,0 +1,33 @@
+{
+  "edition_id": "KJV1769",
+  "book_code": "1PE",
+  "chapter_count": 5,
+  "verse_count": 105,
+  "chapters": [
+    {
+      "chapter": 1,
+      "verse_count": 25,
+      "sha256": "4e754738d87ee57a609bce791776300ed91087a7f58e5e9e5e7392a336014014"
+    },
+    {
+      "chapter": 2,
+      "verse_count": 25,
+      "sha256": "0fc073fa75d31662feb9d16a5b45c2e33d0eb38852b2459b21a6dc2224e56c5a"
+    },
+    {
+      "chapter": 3,
+      "verse_count": 22,
+      "sha256": "92bf2c5be6c73f1c146685848c12a3e4c2f51cfba402aed377e6dcb21cfe9a1b"
+    },
+    {
+      "chapter": 4,
+      "verse_count": 19,
+      "sha256": "e8e0bf3fe78a97496e3d953dcda11a6a46647a8a42e6830b114af6743c8a170a"
+    },
+    {
+      "chapter": 5,
+      "verse_count": 14,
+      "sha256": "2b7b3a54ccff55a5202a62d1f27adcaa6eff6f1ecdd9472f654549b45e44bade"
+    }
+  ]
+}

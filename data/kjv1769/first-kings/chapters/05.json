@@ -1,0 +1,328 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "KJV1769",
+  "book_code": "1KI",
+  "chapter": 5,
+  "verses": [
+    {
+      "id": "1KI.5.1",
+      "edition_verse_id": "KJV1769:1KI.5.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "And Hiram king of Tyre sent his servants unto Solomon; for he had heard that they had anointed him king in the room of his father: for Hiram was ever a lover of David.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1KI.5.2",
+      "edition_verse_id": "KJV1769:1KI.5.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "And Solomon sent to Hiram, saying,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1KI.5.3",
+      "edition_verse_id": "KJV1769:1KI.5.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "Thou knowest how that David my father could not build an house unto the name of the LORD his God for the wars which were about him on every side, until the LORD put them under the soles of his feet.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1KI.5.4",
+      "edition_verse_id": "KJV1769:1KI.5.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "But now the LORD my God hath given me rest on every side, ",
+          "kind": "text"
+        },
+        {
+          "text": "so that there is",
+          "kind": "supplied"
+        },
+        {
+          "text": " neither adversary nor evil occurrent.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1KI.5.5",
+      "edition_verse_id": "KJV1769:1KI.5.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "And, behold, I purpose to build an house unto the name of the LORD my God, as the LORD spake unto David my father, saying, Thy son, whom I will set upon thy throne in thy room, he shall build an house unto my name.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1KI.5.6",
+      "edition_verse_id": "KJV1769:1KI.5.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "Now therefore command thou that they hew me cedar trees out of Lebanon; and my servants shall be with thy servants: and unto thee will I give hire for thy servants according to all that thou shalt appoint: for thou knowest that ",
+          "kind": "text"
+        },
+        {
+          "text": "there is",
+          "kind": "supplied"
+        },
+        {
+          "text": " not among us any that can skill to hew timber like unto the Sidonians.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1KI.5.7",
+      "edition_verse_id": "KJV1769:1KI.5.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "¶ And it came to pass, when Hiram heard the words of Solomon, that he rejoiced greatly, and said, Blessed ",
+          "kind": "text"
+        },
+        {
+          "text": "be",
+          "kind": "supplied"
+        },
+        {
+          "text": " the LORD this day, which hath given unto David a wise son over this great people.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1KI.5.8",
+      "edition_verse_id": "KJV1769:1KI.5.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "And Hiram sent to Solomon, saying, I have considered the things which thou sentest to me for: ",
+          "kind": "text"
+        },
+        {
+          "text": "and",
+          "kind": "supplied"
+        },
+        {
+          "text": " I will do all thy desire concerning timber of cedar, and concerning timber of fir.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1KI.5.9",
+      "edition_verse_id": "KJV1769:1KI.5.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "My servants shall bring ",
+          "kind": "text"
+        },
+        {
+          "text": "them",
+          "kind": "supplied"
+        },
+        {
+          "text": " down from Lebanon unto the sea: and I will convey them by sea in floats unto the place that thou shalt appoint me, and will cause them to be discharged there, and thou shalt receive ",
+          "kind": "text"
+        },
+        {
+          "text": "them:",
+          "kind": "supplied"
+        },
+        {
+          "text": " and thou shalt accomplish my desire, in giving food for my household.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1KI.5.10",
+      "edition_verse_id": "KJV1769:1KI.5.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "So Hiram gave Solomon cedar trees and fir trees ",
+          "kind": "text"
+        },
+        {
+          "text": "according to",
+          "kind": "supplied"
+        },
+        {
+          "text": " all his desire.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1KI.5.11",
+      "edition_verse_id": "KJV1769:1KI.5.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "And Solomon gave Hiram twenty thousand measures of wheat ",
+          "kind": "text"
+        },
+        {
+          "text": "for",
+          "kind": "supplied"
+        },
+        {
+          "text": " food to his household, and twenty measures of pure oil: thus gave Solomon to Hiram year by year.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1KI.5.12",
+      "edition_verse_id": "KJV1769:1KI.5.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "And the LORD gave Solomon wisdom, as he promised him: and there was peace between Hiram and Solomon; and they two made a league together.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1KI.5.13",
+      "edition_verse_id": "KJV1769:1KI.5.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "¶ And king Solomon raised a levy out of all Israel; and the levy was thirty thousand men.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1KI.5.14",
+      "edition_verse_id": "KJV1769:1KI.5.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "And he sent them to Lebanon, ten thousand a month by courses: a month they were in Lebanon, ",
+          "kind": "text"
+        },
+        {
+          "text": "and",
+          "kind": "supplied"
+        },
+        {
+          "text": " two months at home: and Adoniram ",
+          "kind": "text"
+        },
+        {
+          "text": "was",
+          "kind": "supplied"
+        },
+        {
+          "text": " over the levy.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1KI.5.15",
+      "edition_verse_id": "KJV1769:1KI.5.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "And Solomon had threescore and ten thousand that bare burdens, and fourscore thousand hewers in the mountains;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1KI.5.16",
+      "edition_verse_id": "KJV1769:1KI.5.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "Beside the chief of Solomon’s officers which ",
+          "kind": "text"
+        },
+        {
+          "text": "were",
+          "kind": "supplied"
+        },
+        {
+          "text": " over the work, three thousand and three hundred, which ruled over the people that wrought in the work.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1KI.5.17",
+      "edition_verse_id": "KJV1769:1KI.5.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "And the king commanded, and they brought great stones, costly stones, ",
+          "kind": "text"
+        },
+        {
+          "text": "and",
+          "kind": "supplied"
+        },
+        {
+          "text": " hewed stones, to lay the foundation of the house.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1KI.5.18",
+      "edition_verse_id": "KJV1769:1KI.5.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "And Solomon’s builders and Hiram’s builders did hew ",
+          "kind": "text"
+        },
+        {
+          "text": "them",
+          "kind": "supplied"
+        },
+        {
+          "text": ", and the stonesquarers: so they prepared timber and stones to build the house.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

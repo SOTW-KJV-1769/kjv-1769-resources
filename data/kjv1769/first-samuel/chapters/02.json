@@ -1,0 +1,736 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "KJV1769",
+  "book_code": "1SA",
+  "chapter": 2,
+  "verses": [
+    {
+      "id": "1SA.2.1",
+      "edition_verse_id": "KJV1769:1SA.2.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "And Hannah prayed, and said, My heart rejoiceth in the LORD, mine horn is exalted in the LORD: my mouth is enlarged over mine enemies; because I rejoice in thy salvation.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1SA.2.2",
+      "edition_verse_id": "KJV1769:1SA.2.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "There is",
+          "kind": "supplied"
+        },
+        {
+          "text": " none holy as the LORD: for ",
+          "kind": "text"
+        },
+        {
+          "text": "there is",
+          "kind": "supplied"
+        },
+        {
+          "text": " none beside thee: neither ",
+          "kind": "text"
+        },
+        {
+          "text": "is there",
+          "kind": "supplied"
+        },
+        {
+          "text": " any rock like our God.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1SA.2.3",
+      "edition_verse_id": "KJV1769:1SA.2.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "Talk no more so exceeding proudly; let ",
+          "kind": "text"
+        },
+        {
+          "text": "not",
+          "kind": "supplied"
+        },
+        {
+          "text": " arrogancy come out of your mouth: for the LORD ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " a God of knowledge, and by him actions are weighed.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1SA.2.4",
+      "edition_verse_id": "KJV1769:1SA.2.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "The bows of the mighty men ",
+          "kind": "text"
+        },
+        {
+          "text": "are",
+          "kind": "supplied"
+        },
+        {
+          "text": " broken, and they that stumbled are girded with strength.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1SA.2.5",
+      "edition_verse_id": "KJV1769:1SA.2.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "They that were",
+          "kind": "supplied"
+        },
+        {
+          "text": " full have hired out themselves for bread; and ",
+          "kind": "text"
+        },
+        {
+          "text": "they that were",
+          "kind": "supplied"
+        },
+        {
+          "text": " hungry ceased: so that the barren hath born seven; and she that hath many children is waxed feeble.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1SA.2.6",
+      "edition_verse_id": "KJV1769:1SA.2.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "The LORD killeth, and maketh alive: he bringeth down to the grave, and bringeth up.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1SA.2.7",
+      "edition_verse_id": "KJV1769:1SA.2.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "The LORD maketh poor, and maketh rich: he bringeth low, and lifteth up.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1SA.2.8",
+      "edition_verse_id": "KJV1769:1SA.2.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "He raiseth up the poor out of the dust, ",
+          "kind": "text"
+        },
+        {
+          "text": "and",
+          "kind": "supplied"
+        },
+        {
+          "text": " lifteth up the beggar from the dunghill, to set ",
+          "kind": "text"
+        },
+        {
+          "text": "them",
+          "kind": "supplied"
+        },
+        {
+          "text": " among princes, and to make them inherit the throne of glory: for the pillars of the earth ",
+          "kind": "text"
+        },
+        {
+          "text": "are",
+          "kind": "supplied"
+        },
+        {
+          "text": " the LORD’s, and he hath set the world upon them.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1SA.2.9",
+      "edition_verse_id": "KJV1769:1SA.2.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "He will keep the feet of his saints, and the wicked shall be silent in darkness; for by strength shall no man prevail.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1SA.2.10",
+      "edition_verse_id": "KJV1769:1SA.2.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "The adversaries of the LORD shall be broken to pieces; out of heaven shall he thunder upon them: the LORD shall judge the ends of the earth; and he shall give strength unto his king, and exalt the horn of his anointed.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1SA.2.11",
+      "edition_verse_id": "KJV1769:1SA.2.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "And Elkanah went to Ramah to his house. And the child did minister unto the LORD before Eli the priest.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1SA.2.12",
+      "edition_verse_id": "KJV1769:1SA.2.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "¶ Now the sons of Eli ",
+          "kind": "text"
+        },
+        {
+          "text": "were",
+          "kind": "supplied"
+        },
+        {
+          "text": " sons of Belial; they knew not the LORD.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1SA.2.13",
+      "edition_verse_id": "KJV1769:1SA.2.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "And the priests’ custom with the people ",
+          "kind": "text"
+        },
+        {
+          "text": "was, that",
+          "kind": "supplied"
+        },
+        {
+          "text": ", when any man offered sacrifice, the priest’s servant came, while the flesh was in seething, with a fleshhook of three teeth in his hand;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1SA.2.14",
+      "edition_verse_id": "KJV1769:1SA.2.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "And he struck ",
+          "kind": "text"
+        },
+        {
+          "text": "it",
+          "kind": "supplied"
+        },
+        {
+          "text": " into the pan, or kettle, or caldron, or pot; all that the fleshhook brought up the priest took for himself. So they did in Shiloh unto all the Israelites that came thither.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1SA.2.15",
+      "edition_verse_id": "KJV1769:1SA.2.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "Also before they burnt the fat, the priest’s servant came, and said to the man that sacrificed, Give flesh to roast for the priest; for he will not have sodden flesh of thee, but raw.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1SA.2.16",
+      "edition_verse_id": "KJV1769:1SA.2.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "And ",
+          "kind": "text"
+        },
+        {
+          "text": "if",
+          "kind": "supplied"
+        },
+        {
+          "text": " any man said unto him, Let them not fail to burn the fat presently, and ",
+          "kind": "text"
+        },
+        {
+          "text": "then",
+          "kind": "supplied"
+        },
+        {
+          "text": " take ",
+          "kind": "text"
+        },
+        {
+          "text": "as much",
+          "kind": "supplied"
+        },
+        {
+          "text": " as thy soul desireth; then he would answer him, ",
+          "kind": "text"
+        },
+        {
+          "text": "Nay;",
+          "kind": "supplied"
+        },
+        {
+          "text": " but thou shalt give ",
+          "kind": "text"
+        },
+        {
+          "text": "it me",
+          "kind": "supplied"
+        },
+        {
+          "text": " now: and if not, I will take ",
+          "kind": "text"
+        },
+        {
+          "text": "it",
+          "kind": "supplied"
+        },
+        {
+          "text": " by force.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1SA.2.17",
+      "edition_verse_id": "KJV1769:1SA.2.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "Wherefore the sin of the young men was very great before the LORD: for men abhorred the offering of the LORD.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1SA.2.18",
+      "edition_verse_id": "KJV1769:1SA.2.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "¶ But Samuel ministered before the LORD, ",
+          "kind": "text"
+        },
+        {
+          "text": "being",
+          "kind": "supplied"
+        },
+        {
+          "text": " a child, girded with a linen ephod.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1SA.2.19",
+      "edition_verse_id": "KJV1769:1SA.2.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "Moreover his mother made him a little coat, and brought ",
+          "kind": "text"
+        },
+        {
+          "text": "it",
+          "kind": "supplied"
+        },
+        {
+          "text": " to him from year to year, when she came up with her husband to offer the yearly sacrifice.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1SA.2.20",
+      "edition_verse_id": "KJV1769:1SA.2.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "¶ And Eli blessed Elkanah and his wife, and said, The LORD give thee seed of this woman for the loan which is lent to the LORD. And they went unto their own home.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1SA.2.21",
+      "edition_verse_id": "KJV1769:1SA.2.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "And the LORD visited Hannah, so that she conceived, and bare three sons and two daughters. And the child Samuel grew before the LORD.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1SA.2.22",
+      "edition_verse_id": "KJV1769:1SA.2.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "¶ Now Eli was very old, and heard all that his sons did unto all Israel; and how they lay with the women that assembled ",
+          "kind": "text"
+        },
+        {
+          "text": "at",
+          "kind": "supplied"
+        },
+        {
+          "text": " the door of the tabernacle of the congregation.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1SA.2.23",
+      "edition_verse_id": "KJV1769:1SA.2.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "And he said unto them, Why do ye such things? for I hear of your evil dealings by all this people.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1SA.2.24",
+      "edition_verse_id": "KJV1769:1SA.2.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "Nay, my sons; for ",
+          "kind": "text"
+        },
+        {
+          "text": "it is",
+          "kind": "supplied"
+        },
+        {
+          "text": " no good report that I hear: ye make the LORD’s people to transgress.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1SA.2.25",
+      "edition_verse_id": "KJV1769:1SA.2.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "If one man sin against another, the judge shall judge him: but if a man sin against the LORD, who shall intreat for him? Notwithstanding they hearkened not unto the voice of their father, because the LORD would slay them.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1SA.2.26",
+      "edition_verse_id": "KJV1769:1SA.2.26",
+      "verse": 26,
+      "spans": [
+        {
+          "text": "And the child Samuel grew on, and was in favour both with the LORD, and also with men.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1SA.2.27",
+      "edition_verse_id": "KJV1769:1SA.2.27",
+      "verse": 27,
+      "spans": [
+        {
+          "text": "¶ And there came a man of God unto Eli, and said unto him, Thus saith the LORD, Did I plainly appear unto the house of thy father, when they were in Egypt in Pharaoh’s house?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1SA.2.28",
+      "edition_verse_id": "KJV1769:1SA.2.28",
+      "verse": 28,
+      "spans": [
+        {
+          "text": "And did I choose him out of all the tribes of Israel ",
+          "kind": "text"
+        },
+        {
+          "text": "to be",
+          "kind": "supplied"
+        },
+        {
+          "text": " my priest, to offer upon mine altar, to burn incense, to wear an ephod before me? and did I give unto the house of thy father all the offerings made by fire of the children of Israel?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1SA.2.29",
+      "edition_verse_id": "KJV1769:1SA.2.29",
+      "verse": 29,
+      "spans": [
+        {
+          "text": "Wherefore kick ye at my sacrifice and at mine offering, which I have commanded ",
+          "kind": "text"
+        },
+        {
+          "text": "in my",
+          "kind": "supplied"
+        },
+        {
+          "text": " habitation; and honourest thy sons above me, to make yourselves fat with the chiefest of all the offerings of Israel my people?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1SA.2.30",
+      "edition_verse_id": "KJV1769:1SA.2.30",
+      "verse": 30,
+      "spans": [
+        {
+          "text": "Wherefore the LORD God of Israel saith, I said indeed ",
+          "kind": "text"
+        },
+        {
+          "text": "that",
+          "kind": "supplied"
+        },
+        {
+          "text": " thy house, and the house of thy father, should walk before me for ever: but now the LORD saith, Be it far from me; for them that honour me I will honour, and they that despise me shall be lightly esteemed.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1SA.2.31",
+      "edition_verse_id": "KJV1769:1SA.2.31",
+      "verse": 31,
+      "spans": [
+        {
+          "text": "Behold, the days come, that I will cut off thine arm, and the arm of thy father’s house, that there shall not be an old man in thine house.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1SA.2.32",
+      "edition_verse_id": "KJV1769:1SA.2.32",
+      "verse": 32,
+      "spans": [
+        {
+          "text": "And thou shalt see an enemy ",
+          "kind": "text"
+        },
+        {
+          "text": "in my",
+          "kind": "supplied"
+        },
+        {
+          "text": " habitation, in all ",
+          "kind": "text"
+        },
+        {
+          "text": "the wealth",
+          "kind": "supplied"
+        },
+        {
+          "text": " which ",
+          "kind": "text"
+        },
+        {
+          "text": "God",
+          "kind": "supplied"
+        },
+        {
+          "text": " shall give Israel: and there shall not be an old man in thine house for ever.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1SA.2.33",
+      "edition_verse_id": "KJV1769:1SA.2.33",
+      "verse": 33,
+      "spans": [
+        {
+          "text": "And the man of thine, ",
+          "kind": "text"
+        },
+        {
+          "text": "whom",
+          "kind": "supplied"
+        },
+        {
+          "text": " I shall not cut off from mine altar, ",
+          "kind": "text"
+        },
+        {
+          "text": "shall be",
+          "kind": "supplied"
+        },
+        {
+          "text": " to consume thine eyes, and to grieve thine heart: and all the increase of thine house shall die in the flower of their age.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1SA.2.34",
+      "edition_verse_id": "KJV1769:1SA.2.34",
+      "verse": 34,
+      "spans": [
+        {
+          "text": "And this ",
+          "kind": "text"
+        },
+        {
+          "text": "shall be",
+          "kind": "supplied"
+        },
+        {
+          "text": " a sign unto thee, that shall come upon thy two sons, on Hophni and Phinehas; in one day they shall die both of them.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1SA.2.35",
+      "edition_verse_id": "KJV1769:1SA.2.35",
+      "verse": 35,
+      "spans": [
+        {
+          "text": "And I will raise me up a faithful priest, ",
+          "kind": "text"
+        },
+        {
+          "text": "that",
+          "kind": "supplied"
+        },
+        {
+          "text": " shall do according to ",
+          "kind": "text"
+        },
+        {
+          "text": "that",
+          "kind": "supplied"
+        },
+        {
+          "text": " which ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " in mine heart and in my mind: and I will build him a sure house; and he shall walk before mine anointed for ever.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1SA.2.36",
+      "edition_verse_id": "KJV1769:1SA.2.36",
+      "verse": 36,
+      "spans": [
+        {
+          "text": "And it shall come to pass, ",
+          "kind": "text"
+        },
+        {
+          "text": "that",
+          "kind": "supplied"
+        },
+        {
+          "text": " every one that is left in thine house shall come ",
+          "kind": "text"
+        },
+        {
+          "text": "and",
+          "kind": "supplied"
+        },
+        {
+          "text": " crouch to him for a piece of silver and a morsel of bread, and shall say, Put me, I pray thee, into one of the priests’ offices, that I may eat a piece of bread.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

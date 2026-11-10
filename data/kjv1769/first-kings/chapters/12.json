@@ -1,0 +1,524 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "KJV1769",
+  "book_code": "1KI",
+  "chapter": 12,
+  "verses": [
+    {
+      "id": "1KI.12.1",
+      "edition_verse_id": "KJV1769:1KI.12.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "And Rehoboam went to Shechem: for all Israel were come to Shechem to make him king.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1KI.12.2",
+      "edition_verse_id": "KJV1769:1KI.12.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "And it came to pass, when Jeroboam the son of Nebat, who was yet in Egypt, heard ",
+          "kind": "text"
+        },
+        {
+          "text": "of it",
+          "kind": "supplied"
+        },
+        {
+          "text": ", (for he was fled from the presence of king Solomon, and Jeroboam dwelt in Egypt;)",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1KI.12.3",
+      "edition_verse_id": "KJV1769:1KI.12.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "That they sent and called him. And Jeroboam and all the congregation of Israel came, and spake unto Rehoboam, saying,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1KI.12.4",
+      "edition_verse_id": "KJV1769:1KI.12.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "Thy father made our yoke grievous: now therefore make thou the grievous service of thy father, and his heavy yoke which he put upon us, lighter, and we will serve thee.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1KI.12.5",
+      "edition_verse_id": "KJV1769:1KI.12.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "And he said unto them, Depart yet ",
+          "kind": "text"
+        },
+        {
+          "text": "for",
+          "kind": "supplied"
+        },
+        {
+          "text": " three days, then come again to me. And the people departed.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1KI.12.6",
+      "edition_verse_id": "KJV1769:1KI.12.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "¶ And king Rehoboam consulted with the old men, that stood before Solomon his father while he yet lived, and said, How do ye advise that I may answer this people?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1KI.12.7",
+      "edition_verse_id": "KJV1769:1KI.12.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "And they spake unto him, saying, If thou wilt be a servant unto this people this day, and wilt serve them, and answer them, and speak good words to them, then they will be thy servants for ever.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1KI.12.8",
+      "edition_verse_id": "KJV1769:1KI.12.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "But he forsook the counsel of the old men, which they had given him, and consulted with the young men that were grown up with him, ",
+          "kind": "text"
+        },
+        {
+          "text": "and",
+          "kind": "supplied"
+        },
+        {
+          "text": " which stood before him:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1KI.12.9",
+      "edition_verse_id": "KJV1769:1KI.12.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "And he said unto them, What counsel give ye that we may answer this people, who have spoken to me, saying, Make the yoke which thy father did put upon us lighter?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1KI.12.10",
+      "edition_verse_id": "KJV1769:1KI.12.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "And the young men that were grown up with him spake unto him, saying, Thus shalt thou speak unto this people that spake unto thee, saying, Thy father made our yoke heavy, but make thou ",
+          "kind": "text"
+        },
+        {
+          "text": "it",
+          "kind": "supplied"
+        },
+        {
+          "text": " lighter unto us; thus shalt thou say unto them, My little ",
+          "kind": "text"
+        },
+        {
+          "text": "finger",
+          "kind": "supplied"
+        },
+        {
+          "text": " shall be thicker than my father’s loins.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1KI.12.11",
+      "edition_verse_id": "KJV1769:1KI.12.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "And now whereas my father did lade you with a heavy yoke, I will add to your yoke: my father hath chastised you with whips, but I will chastise you with scorpions.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1KI.12.12",
+      "edition_verse_id": "KJV1769:1KI.12.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "¶ So Jeroboam and all the people came to Rehoboam the third day, as the king had appointed, saying, Come to me again the third day.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1KI.12.13",
+      "edition_verse_id": "KJV1769:1KI.12.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "And the king answered the people roughly, and forsook the old men’s counsel that they gave him;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1KI.12.14",
+      "edition_verse_id": "KJV1769:1KI.12.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "And spake to them after the counsel of the young men, saying, My father made your yoke heavy, and I will add to your yoke: my father ",
+          "kind": "text"
+        },
+        {
+          "text": "also",
+          "kind": "supplied"
+        },
+        {
+          "text": " chastised you with whips, but I will chastise you with scorpions.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1KI.12.15",
+      "edition_verse_id": "KJV1769:1KI.12.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "Wherefore the king hearkened not unto the people; for the cause was from the LORD, that he might perform his saying, which the LORD spake by Ahijah the Shilonite unto Jeroboam the son of Nebat.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1KI.12.16",
+      "edition_verse_id": "KJV1769:1KI.12.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "¶ So when all Israel saw that the king hearkened not unto them, the people answered the king, saying, What portion have we in David? neither ",
+          "kind": "text"
+        },
+        {
+          "text": "have we",
+          "kind": "supplied"
+        },
+        {
+          "text": " inheritance in the son of Jesse: to your tents, O Israel: now see to thine own house, David. So Israel departed unto their tents.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1KI.12.17",
+      "edition_verse_id": "KJV1769:1KI.12.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "But ",
+          "kind": "text"
+        },
+        {
+          "text": "as for",
+          "kind": "supplied"
+        },
+        {
+          "text": " the children of Israel which dwelt in the cities of Judah, Rehoboam reigned over them.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1KI.12.18",
+      "edition_verse_id": "KJV1769:1KI.12.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "Then king Rehoboam sent Adoram, who ",
+          "kind": "text"
+        },
+        {
+          "text": "was",
+          "kind": "supplied"
+        },
+        {
+          "text": " over the tribute; and all Israel stoned him with stones, that he died. Therefore king Rehoboam made speed to get him up to his chariot, to flee to Jerusalem.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1KI.12.19",
+      "edition_verse_id": "KJV1769:1KI.12.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "So Israel rebelled against the house of David unto this day.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1KI.12.20",
+      "edition_verse_id": "KJV1769:1KI.12.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "And it came to pass, when all Israel heard that Jeroboam was come again, that they sent and called him unto the congregation, and made him king over all Israel: there was none that followed the house of David, but the tribe of Judah only.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1KI.12.21",
+      "edition_verse_id": "KJV1769:1KI.12.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "¶ And when Rehoboam was come to Jerusalem, he assembled all the house of Judah, with the tribe of Benjamin, an hundred and fourscore thousand chosen men, which were warriors, to fight against the house of Israel, to bring the kingdom again to Rehoboam the son of Solomon.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1KI.12.22",
+      "edition_verse_id": "KJV1769:1KI.12.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "But the word of God came unto Shemaiah the man of God, saying,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1KI.12.23",
+      "edition_verse_id": "KJV1769:1KI.12.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "Speak unto Rehoboam, the son of Solomon, king of Judah, and unto all the house of Judah and Benjamin, and to the remnant of the people, saying,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1KI.12.24",
+      "edition_verse_id": "KJV1769:1KI.12.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "Thus saith the LORD, Ye shall not go up, nor fight against your brethren the children of Israel: return every man to his house; for this thing is from me. They hearkened therefore to the word of the LORD, and returned to depart, according to the word of the LORD.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1KI.12.25",
+      "edition_verse_id": "KJV1769:1KI.12.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "¶ Then Jeroboam built Shechem in mount Ephraim, and dwelt therein; and went out from thence, and built Penuel.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1KI.12.26",
+      "edition_verse_id": "KJV1769:1KI.12.26",
+      "verse": 26,
+      "spans": [
+        {
+          "text": "And Jeroboam said in his heart, Now shall the kingdom return to the house of David:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1KI.12.27",
+      "edition_verse_id": "KJV1769:1KI.12.27",
+      "verse": 27,
+      "spans": [
+        {
+          "text": "If this people go up to do sacrifice in the house of the LORD at Jerusalem, then shall the heart of this people turn again unto their lord, ",
+          "kind": "text"
+        },
+        {
+          "text": "even",
+          "kind": "supplied"
+        },
+        {
+          "text": " unto Rehoboam king of Judah, and they shall kill me, and go again to Rehoboam king of Judah.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1KI.12.28",
+      "edition_verse_id": "KJV1769:1KI.12.28",
+      "verse": 28,
+      "spans": [
+        {
+          "text": "Whereupon the king took counsel, and made two calves ",
+          "kind": "text"
+        },
+        {
+          "text": "of",
+          "kind": "supplied"
+        },
+        {
+          "text": " gold, and said unto them, It is too much for you to go up to Jerusalem: behold thy gods, O Israel, which brought thee up out of the land of Egypt.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1KI.12.29",
+      "edition_verse_id": "KJV1769:1KI.12.29",
+      "verse": 29,
+      "spans": [
+        {
+          "text": "And he set the one in Beth-el, and the other put he in Dan.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1KI.12.30",
+      "edition_verse_id": "KJV1769:1KI.12.30",
+      "verse": 30,
+      "spans": [
+        {
+          "text": "And this thing became a sin: for the people went ",
+          "kind": "text"
+        },
+        {
+          "text": "to worship",
+          "kind": "supplied"
+        },
+        {
+          "text": " before the one, ",
+          "kind": "text"
+        },
+        {
+          "text": "even",
+          "kind": "supplied"
+        },
+        {
+          "text": " unto Dan.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1KI.12.31",
+      "edition_verse_id": "KJV1769:1KI.12.31",
+      "verse": 31,
+      "spans": [
+        {
+          "text": "And he made an house of high places, and made priests of the lowest of the people, which were not of the sons of Levi.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1KI.12.32",
+      "edition_verse_id": "KJV1769:1KI.12.32",
+      "verse": 32,
+      "spans": [
+        {
+          "text": "And Jeroboam ordained a feast in the eighth month, on the fifteenth day of the month, like unto the feast that ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " in Judah, and he offered upon the altar. So did he in Beth-el, sacrificing unto the calves that he had made: and he placed in Beth-el the priests of the high places which he had made.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1KI.12.33",
+      "edition_verse_id": "KJV1769:1KI.12.33",
+      "verse": 33,
+      "spans": [
+        {
+          "text": "So he offered upon the altar which he had made in Beth-el the fifteenth day of the eighth month, ",
+          "kind": "text"
+        },
+        {
+          "text": "even",
+          "kind": "supplied"
+        },
+        {
+          "text": " in the month which he had devised of his own heart; and ordained a feast unto the children of Israel: and he offered upon the altar, and burnt incense.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

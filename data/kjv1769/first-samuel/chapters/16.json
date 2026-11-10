@@ -1,0 +1,420 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "KJV1769",
+  "book_code": "1SA",
+  "chapter": 16,
+  "verses": [
+    {
+      "id": "1SA.16.1",
+      "edition_verse_id": "KJV1769:1SA.16.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "And the LORD said unto Samuel, How long wilt thou mourn for Saul, seeing I have rejected him from reigning over Israel? fill thine horn with oil, and go, I will send thee to Jesse the Beth-lehemite: for I have provided me a king among his sons.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1SA.16.2",
+      "edition_verse_id": "KJV1769:1SA.16.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "And Samuel said, How can I go? if Saul hear ",
+          "kind": "text"
+        },
+        {
+          "text": "it",
+          "kind": "supplied"
+        },
+        {
+          "text": ", he will kill me. And the LORD said, Take an heifer with thee, and say, I am come to sacrifice to the LORD.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1SA.16.3",
+      "edition_verse_id": "KJV1769:1SA.16.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "And call Jesse to the sacrifice, and I will shew thee what thou shalt do: and thou shalt anoint unto me ",
+          "kind": "text"
+        },
+        {
+          "text": "him",
+          "kind": "supplied"
+        },
+        {
+          "text": " whom I name unto thee.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1SA.16.4",
+      "edition_verse_id": "KJV1769:1SA.16.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "And Samuel did that which the LORD spake, and came to Beth-lehem. And the elders of the town trembled at his coming, and said, Comest thou peaceably?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1SA.16.5",
+      "edition_verse_id": "KJV1769:1SA.16.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "And he said, Peaceably: I am come to sacrifice unto the LORD: sanctify yourselves, and come with me to the sacrifice. And he sanctified Jesse and his sons, and called them to the sacrifice.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1SA.16.6",
+      "edition_verse_id": "KJV1769:1SA.16.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "¶ And it came to pass, when they were come, that he looked on Eliab, and said, Surely the LORD’s anointed ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " before him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1SA.16.7",
+      "edition_verse_id": "KJV1769:1SA.16.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "But the LORD said unto Samuel, Look not on his countenance, or on the height of his stature; because I have refused him: for ",
+          "kind": "text"
+        },
+        {
+          "text": "the Lord seeth",
+          "kind": "supplied"
+        },
+        {
+          "text": " not as man seeth; for man looketh on the outward appearance, but the LORD looketh on the heart.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1SA.16.8",
+      "edition_verse_id": "KJV1769:1SA.16.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "Then Jesse called Abinadab, and made him pass before Samuel. And he said, Neither hath the LORD chosen this.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1SA.16.9",
+      "edition_verse_id": "KJV1769:1SA.16.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "Then Jesse made Shammah to pass by. And he said, Neither hath the LORD chosen this.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1SA.16.10",
+      "edition_verse_id": "KJV1769:1SA.16.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "Again, Jesse made seven of his sons to pass before Samuel. And Samuel said unto Jesse, The LORD hath not chosen these.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1SA.16.11",
+      "edition_verse_id": "KJV1769:1SA.16.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "And Samuel said unto Jesse, Are here all ",
+          "kind": "text"
+        },
+        {
+          "text": "thy",
+          "kind": "supplied"
+        },
+        {
+          "text": " children? And he said, There remaineth yet the youngest, and, behold, he keepeth the sheep. And Samuel said unto Jesse, Send and fetch him: for we will not sit down till he come hither.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1SA.16.12",
+      "edition_verse_id": "KJV1769:1SA.16.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "And he sent, and brought him in. Now he ",
+          "kind": "text"
+        },
+        {
+          "text": "was",
+          "kind": "supplied"
+        },
+        {
+          "text": " ruddy, ",
+          "kind": "text"
+        },
+        {
+          "text": "and",
+          "kind": "supplied"
+        },
+        {
+          "text": " withal of a beautiful countenance, and goodly to look to. And the LORD said, Arise, anoint him: for this ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " he.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1SA.16.13",
+      "edition_verse_id": "KJV1769:1SA.16.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "Then Samuel took the horn of oil, and anointed him in the midst of his brethren: and the Spirit of the LORD came upon David from that day forward. So Samuel rose up, and went to Ramah.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1SA.16.14",
+      "edition_verse_id": "KJV1769:1SA.16.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "¶ But the Spirit of the LORD departed from Saul, and an evil spirit from the LORD troubled him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1SA.16.15",
+      "edition_verse_id": "KJV1769:1SA.16.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "And Saul’s servants said unto him, Behold now, an evil spirit from God troubleth thee.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1SA.16.16",
+      "edition_verse_id": "KJV1769:1SA.16.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "Let our lord now command thy servants, ",
+          "kind": "text"
+        },
+        {
+          "text": "which are",
+          "kind": "supplied"
+        },
+        {
+          "text": " before thee, to seek out a man, ",
+          "kind": "text"
+        },
+        {
+          "text": "who is",
+          "kind": "supplied"
+        },
+        {
+          "text": " a cunning player on an harp: and it shall come to pass, when the evil spirit from God is upon thee, that he shall play with his hand, and thou shalt be well.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1SA.16.17",
+      "edition_verse_id": "KJV1769:1SA.16.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "And Saul said unto his servants, Provide me now a man that can play well, and bring ",
+          "kind": "text"
+        },
+        {
+          "text": "him",
+          "kind": "supplied"
+        },
+        {
+          "text": " to me.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1SA.16.18",
+      "edition_verse_id": "KJV1769:1SA.16.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "Then answered one of the servants, and said, Behold, I have seen a son of Jesse the Beth-lehemite, ",
+          "kind": "text"
+        },
+        {
+          "text": "that is",
+          "kind": "supplied"
+        },
+        {
+          "text": " cunning in playing, and a mighty valiant man, and a man of war, and prudent in matters, and a comely person, and the LORD ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " with him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1SA.16.19",
+      "edition_verse_id": "KJV1769:1SA.16.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "¶ Wherefore Saul sent messengers unto Jesse, and said, Send me David thy son, which ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " with the sheep.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1SA.16.20",
+      "edition_verse_id": "KJV1769:1SA.16.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "And Jesse took an ass ",
+          "kind": "text"
+        },
+        {
+          "text": "laden",
+          "kind": "supplied"
+        },
+        {
+          "text": " with bread, and a bottle of wine, and a kid, and sent ",
+          "kind": "text"
+        },
+        {
+          "text": "them",
+          "kind": "supplied"
+        },
+        {
+          "text": " by David his son unto Saul.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1SA.16.21",
+      "edition_verse_id": "KJV1769:1SA.16.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "And David came to Saul, and stood before him: and he loved him greatly; and he became his armourbearer.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1SA.16.22",
+      "edition_verse_id": "KJV1769:1SA.16.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "And Saul sent to Jesse, saying, Let David, I pray thee, stand before me; for he hath found favour in my sight.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1SA.16.23",
+      "edition_verse_id": "KJV1769:1SA.16.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "And it came to pass, when the ",
+          "kind": "text"
+        },
+        {
+          "text": "evil",
+          "kind": "supplied"
+        },
+        {
+          "text": " spirit from God was upon Saul, that David took an harp, and played with his hand: so Saul was refreshed, and was well, and the evil spirit departed from him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

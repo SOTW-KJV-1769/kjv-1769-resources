@@ -1,0 +1,688 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "KJV1769",
+  "book_code": "1CO",
+  "chapter": 14,
+  "verses": [
+    {
+      "id": "1CO.14.1",
+      "edition_verse_id": "KJV1769:1CO.14.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "Follow after charity, and desire spiritual ",
+          "kind": "text"
+        },
+        {
+          "text": "gifts",
+          "kind": "supplied"
+        },
+        {
+          "text": ", but rather that ye may prophesy.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1CO.14.2",
+      "edition_verse_id": "KJV1769:1CO.14.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "For he that speaketh in an ",
+          "kind": "text"
+        },
+        {
+          "text": "unknown",
+          "kind": "supplied"
+        },
+        {
+          "text": " tongue speaketh not unto men, but unto God: for no man understandeth ",
+          "kind": "text"
+        },
+        {
+          "text": "him",
+          "kind": "supplied"
+        },
+        {
+          "text": "; howbeit in the spirit he speaketh mysteries.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CO.14.3",
+      "edition_verse_id": "KJV1769:1CO.14.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "But he that prophesieth speaketh unto men ",
+          "kind": "text"
+        },
+        {
+          "text": "to",
+          "kind": "supplied"
+        },
+        {
+          "text": " edification, and exhortation, and comfort.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CO.14.4",
+      "edition_verse_id": "KJV1769:1CO.14.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "He that speaketh in an ",
+          "kind": "text"
+        },
+        {
+          "text": "unknown",
+          "kind": "supplied"
+        },
+        {
+          "text": " tongue edifieth himself; but he that prophesieth edifieth the church.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CO.14.5",
+      "edition_verse_id": "KJV1769:1CO.14.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "I would that ye all spake with tongues, but rather that ye prophesied: for greater ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " he that prophesieth than he that speaketh with tongues, except he interpret, that the church may receive edifying.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CO.14.6",
+      "edition_verse_id": "KJV1769:1CO.14.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "Now, brethren, if I come unto you speaking with tongues, what shall I profit you, except I shall speak to you either by revelation, or by knowledge, or by prophesying, or by doctrine?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CO.14.7",
+      "edition_verse_id": "KJV1769:1CO.14.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "And even things without life giving sound, whether pipe or harp, except they give a distinction in the sounds, how shall it be known what is piped or harped?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CO.14.8",
+      "edition_verse_id": "KJV1769:1CO.14.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "For if the trumpet give an uncertain sound, who shall prepare himself to the battle?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CO.14.9",
+      "edition_verse_id": "KJV1769:1CO.14.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "So likewise ye, except ye utter by the tongue words easy to be understood, how shall it be known what is spoken? for ye shall speak into the air.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CO.14.10",
+      "edition_verse_id": "KJV1769:1CO.14.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "There are, it may be, so many kinds of voices in the world, and none of them ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " without signification.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CO.14.11",
+      "edition_verse_id": "KJV1769:1CO.14.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "Therefore if I know not the meaning of the voice, I shall be unto him that speaketh a barbarian, and he that speaketh ",
+          "kind": "text"
+        },
+        {
+          "text": "shall be",
+          "kind": "supplied"
+        },
+        {
+          "text": " a barbarian unto me.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CO.14.12",
+      "edition_verse_id": "KJV1769:1CO.14.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "Even so ye, forasmuch as ye are zealous of spiritual ",
+          "kind": "text"
+        },
+        {
+          "text": "gifts",
+          "kind": "supplied"
+        },
+        {
+          "text": ", seek that ye may excel to the edifying of the church.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CO.14.13",
+      "edition_verse_id": "KJV1769:1CO.14.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "Wherefore let him that speaketh in an ",
+          "kind": "text"
+        },
+        {
+          "text": "unknown",
+          "kind": "supplied"
+        },
+        {
+          "text": " tongue pray that he may interpret.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CO.14.14",
+      "edition_verse_id": "KJV1769:1CO.14.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "For if I pray in an ",
+          "kind": "text"
+        },
+        {
+          "text": "unknown",
+          "kind": "supplied"
+        },
+        {
+          "text": " tongue, my spirit prayeth, but my understanding is unfruitful.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CO.14.15",
+      "edition_verse_id": "KJV1769:1CO.14.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "What is it then? I will pray with the spirit, and I will pray with the understanding also: I will sing with the spirit, and I will sing with the understanding also.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CO.14.16",
+      "edition_verse_id": "KJV1769:1CO.14.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "Else when thou shalt bless with the spirit, how shall he that occupieth the room of the unlearned say Amen at thy giving of thanks, seeing he understandeth not what thou sayest?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CO.14.17",
+      "edition_verse_id": "KJV1769:1CO.14.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "For thou verily givest thanks well, but the other is not edified.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CO.14.18",
+      "edition_verse_id": "KJV1769:1CO.14.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "I thank my God, I speak with tongues more than ye all:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CO.14.19",
+      "edition_verse_id": "KJV1769:1CO.14.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "Yet in the church I had rather speak five words with my understanding, that ",
+          "kind": "text"
+        },
+        {
+          "text": "by my voice",
+          "kind": "supplied"
+        },
+        {
+          "text": " I might teach others also, than ten thousand words in an ",
+          "kind": "text"
+        },
+        {
+          "text": "unknown",
+          "kind": "supplied"
+        },
+        {
+          "text": " tongue.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CO.14.20",
+      "edition_verse_id": "KJV1769:1CO.14.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "Brethren, be not children in understanding: howbeit in malice be ye children, but in understanding be men.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CO.14.21",
+      "edition_verse_id": "KJV1769:1CO.14.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "In the law it is written, With ",
+          "kind": "text"
+        },
+        {
+          "text": "men of",
+          "kind": "supplied"
+        },
+        {
+          "text": " other tongues and other lips will I speak unto this people; and yet for all that will they not hear me, saith the Lord.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CO.14.22",
+      "edition_verse_id": "KJV1769:1CO.14.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "Wherefore tongues are for a sign, not to them that believe, but to them that believe not: but prophesying ",
+          "kind": "text"
+        },
+        {
+          "text": "serveth",
+          "kind": "supplied"
+        },
+        {
+          "text": " not for them that believe not, but for them which believe.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CO.14.23",
+      "edition_verse_id": "KJV1769:1CO.14.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "If therefore the whole church be come together into one place, and all speak with tongues, and there come in ",
+          "kind": "text"
+        },
+        {
+          "text": "those that are",
+          "kind": "supplied"
+        },
+        {
+          "text": " unlearned, or unbelievers, will they not say that ye are mad?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CO.14.24",
+      "edition_verse_id": "KJV1769:1CO.14.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "But if all prophesy, and there come in one that believeth not, or ",
+          "kind": "text"
+        },
+        {
+          "text": "one",
+          "kind": "supplied"
+        },
+        {
+          "text": " unlearned, he is convinced of all, he is judged of all:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CO.14.25",
+      "edition_verse_id": "KJV1769:1CO.14.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "And thus are the secrets of his heart made manifest; and so falling down on ",
+          "kind": "text"
+        },
+        {
+          "text": "his",
+          "kind": "supplied"
+        },
+        {
+          "text": " face he will worship God, and report that God is in you of a truth.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CO.14.26",
+      "edition_verse_id": "KJV1769:1CO.14.26",
+      "verse": 26,
+      "spans": [
+        {
+          "text": "How is it then, brethren? when ye come together, every one of you hath a psalm, hath a doctrine, hath a tongue, hath a revelation, hath an interpretation. Let all things be done unto edifying.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CO.14.27",
+      "edition_verse_id": "KJV1769:1CO.14.27",
+      "verse": 27,
+      "spans": [
+        {
+          "text": "If any man speak in an ",
+          "kind": "text"
+        },
+        {
+          "text": "unknown",
+          "kind": "supplied"
+        },
+        {
+          "text": " tongue, ",
+          "kind": "text"
+        },
+        {
+          "text": "let it be",
+          "kind": "supplied"
+        },
+        {
+          "text": " by two, or at the most ",
+          "kind": "text"
+        },
+        {
+          "text": "by",
+          "kind": "supplied"
+        },
+        {
+          "text": " three, and ",
+          "kind": "text"
+        },
+        {
+          "text": "that",
+          "kind": "supplied"
+        },
+        {
+          "text": " by course; and let one interpret.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CO.14.28",
+      "edition_verse_id": "KJV1769:1CO.14.28",
+      "verse": 28,
+      "spans": [
+        {
+          "text": "But if there be no interpreter, let him keep silence in the church; and let him speak to himself, and to God.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CO.14.29",
+      "edition_verse_id": "KJV1769:1CO.14.29",
+      "verse": 29,
+      "spans": [
+        {
+          "text": "Let the prophets speak two or three, and let the other judge.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CO.14.30",
+      "edition_verse_id": "KJV1769:1CO.14.30",
+      "verse": 30,
+      "spans": [
+        {
+          "text": "If ",
+          "kind": "text"
+        },
+        {
+          "text": "any thing",
+          "kind": "supplied"
+        },
+        {
+          "text": " be revealed to another that sitteth by, let the first hold his peace.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CO.14.31",
+      "edition_verse_id": "KJV1769:1CO.14.31",
+      "verse": 31,
+      "spans": [
+        {
+          "text": "For ye may all prophesy one by one, that all may learn, and all may be comforted.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CO.14.32",
+      "edition_verse_id": "KJV1769:1CO.14.32",
+      "verse": 32,
+      "spans": [
+        {
+          "text": "And the spirits of the prophets are subject to the prophets.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CO.14.33",
+      "edition_verse_id": "KJV1769:1CO.14.33",
+      "verse": 33,
+      "spans": [
+        {
+          "text": "For God is not ",
+          "kind": "text"
+        },
+        {
+          "text": "the author",
+          "kind": "supplied"
+        },
+        {
+          "text": " of confusion, but of peace, as in all churches of the saints.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CO.14.34",
+      "edition_verse_id": "KJV1769:1CO.14.34",
+      "verse": 34,
+      "spans": [
+        {
+          "text": "Let your women keep silence in the churches: for it is not permitted unto them to speak; but ",
+          "kind": "text"
+        },
+        {
+          "text": "they are commanded",
+          "kind": "supplied"
+        },
+        {
+          "text": " to be under obedience, as also saith the law.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CO.14.35",
+      "edition_verse_id": "KJV1769:1CO.14.35",
+      "verse": 35,
+      "spans": [
+        {
+          "text": "And if they will learn any thing, let them ask their husbands at home: for it is a shame for women to speak in the church.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CO.14.36",
+      "edition_verse_id": "KJV1769:1CO.14.36",
+      "verse": 36,
+      "spans": [
+        {
+          "text": "What? came the word of God out from you? or came it unto you only?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CO.14.37",
+      "edition_verse_id": "KJV1769:1CO.14.37",
+      "verse": 37,
+      "spans": [
+        {
+          "text": "If any man think himself to be a prophet, or spiritual, let him acknowledge that the things that I write unto you are the commandments of the Lord.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CO.14.38",
+      "edition_verse_id": "KJV1769:1CO.14.38",
+      "verse": 38,
+      "spans": [
+        {
+          "text": "But if any man be ignorant, let him be ignorant.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CO.14.39",
+      "edition_verse_id": "KJV1769:1CO.14.39",
+      "verse": 39,
+      "spans": [
+        {
+          "text": "Wherefore, brethren, covet to prophesy, and forbid not to speak with tongues.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CO.14.40",
+      "edition_verse_id": "KJV1769:1CO.14.40",
+      "verse": 40,
+      "spans": [
+        {
+          "text": "Let all things be done decently and in order.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

@@ -1,0 +1,268 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "KJV1769",
+  "book_code": "1SA",
+  "chapter": 11,
+  "verses": [
+    {
+      "id": "1SA.11.1",
+      "edition_verse_id": "KJV1769:1SA.11.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "Then Nahash the Ammonite came up, and encamped against Jabesh-gilead: and all the men of Jabesh said unto Nahash, Make a covenant with us, and we will serve thee.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1SA.11.2",
+      "edition_verse_id": "KJV1769:1SA.11.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "And Nahash the Ammonite answered them, On this ",
+          "kind": "text"
+        },
+        {
+          "text": "condition",
+          "kind": "supplied"
+        },
+        {
+          "text": " will I make ",
+          "kind": "text"
+        },
+        {
+          "text": "a covenant",
+          "kind": "supplied"
+        },
+        {
+          "text": " with you, that I may thrust out all your right eyes, and lay it ",
+          "kind": "text"
+        },
+        {
+          "text": "for",
+          "kind": "supplied"
+        },
+        {
+          "text": " a reproach upon all Israel.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1SA.11.3",
+      "edition_verse_id": "KJV1769:1SA.11.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "And the elders of Jabesh said unto him, Give us seven days’ respite, that we may send messengers unto all the coasts of Israel: and then, if ",
+          "kind": "text"
+        },
+        {
+          "text": "there be",
+          "kind": "supplied"
+        },
+        {
+          "text": " no man to save us, we will come out to thee.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1SA.11.4",
+      "edition_verse_id": "KJV1769:1SA.11.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "¶ Then came the messengers to Gibeah of Saul, and told the tidings in the ears of the people: and all the people lifted up their voices, and wept.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1SA.11.5",
+      "edition_verse_id": "KJV1769:1SA.11.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "And, behold, Saul came after the herd out of the field; and Saul said, What ",
+          "kind": "text"
+        },
+        {
+          "text": "aileth",
+          "kind": "supplied"
+        },
+        {
+          "text": " the people that they weep? And they told him the tidings of the men of Jabesh.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1SA.11.6",
+      "edition_verse_id": "KJV1769:1SA.11.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "And the Spirit of God came upon Saul when he heard those tidings, and his anger was kindled greatly.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1SA.11.7",
+      "edition_verse_id": "KJV1769:1SA.11.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "And he took a yoke of oxen, and hewed them in pieces, and sent ",
+          "kind": "text"
+        },
+        {
+          "text": "them",
+          "kind": "supplied"
+        },
+        {
+          "text": " throughout all the coasts of Israel by the hands of messengers, saying, Whosoever cometh not forth after Saul and after Samuel, so shall it be done unto his oxen. And the fear of the LORD fell on the people, and they came out with one consent.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1SA.11.8",
+      "edition_verse_id": "KJV1769:1SA.11.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "And when he numbered them in Bezek, the children of Israel were three hundred thousand, and the men of Judah thirty thousand.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1SA.11.9",
+      "edition_verse_id": "KJV1769:1SA.11.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "And they said unto the messengers that came, Thus shall ye say unto the men of Jabesh-gilead, To morrow, by ",
+          "kind": "text"
+        },
+        {
+          "text": "that time",
+          "kind": "supplied"
+        },
+        {
+          "text": " the sun be hot, ye shall have help. And the messengers came and shewed ",
+          "kind": "text"
+        },
+        {
+          "text": "it",
+          "kind": "supplied"
+        },
+        {
+          "text": " to the men of Jabesh; and they were glad.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1SA.11.10",
+      "edition_verse_id": "KJV1769:1SA.11.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "Therefore the men of Jabesh said, To morrow we will come out unto you, and ye shall do with us all that seemeth good unto you.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1SA.11.11",
+      "edition_verse_id": "KJV1769:1SA.11.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "And it was ",
+          "kind": "text"
+        },
+        {
+          "text": "so",
+          "kind": "supplied"
+        },
+        {
+          "text": " on the morrow, that Saul put the people in three companies; and they came into the midst of the host in the morning watch, and slew the Ammonites until the heat of the day: and it came to pass, that they which remained were scattered, so that two of them were not left together.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1SA.11.12",
+      "edition_verse_id": "KJV1769:1SA.11.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "¶ And the people said unto Samuel, Who ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " he that said, Shall Saul reign over us? bring the men, that we may put them to death.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1SA.11.13",
+      "edition_verse_id": "KJV1769:1SA.11.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "And Saul said, There shall not a man be put to death this day: for to day the LORD hath wrought salvation in Israel.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1SA.11.14",
+      "edition_verse_id": "KJV1769:1SA.11.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "Then said Samuel to the people, Come, and let us go to Gilgal, and renew the kingdom there.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1SA.11.15",
+      "edition_verse_id": "KJV1769:1SA.11.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "And all the people went to Gilgal; and there they made Saul king before the LORD in Gilgal; and there they sacrificed sacrifices of peace offerings before the LORD; and there Saul and all the men of Israel rejoiced greatly.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

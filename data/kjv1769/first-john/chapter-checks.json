@@ -1,0 +1,33 @@
+{
+  "edition_id": "KJV1769",
+  "book_code": "1JN",
+  "chapter_count": 5,
+  "verse_count": 105,
+  "chapters": [
+    {
+      "chapter": 1,
+      "verse_count": 10,
+      "sha256": "5014b8d8ade0abdfce7289cbec0a73dc471a66450857b4e07693cd9061d8055e"
+    },
+    {
+      "chapter": 2,
+      "verse_count": 29,
+      "sha256": "690759f8dccb93dcb5aaa7e6ecb4b4dadad1e5a9fb3332a180afb284cc7d1e78"
+    },
+    {
+      "chapter": 3,
+      "verse_count": 24,
+      "sha256": "c79a381e010e9622b544a4dde9502532f4a4e4adaa1932c8a3382541a71202fc"
+    },
+    {
+      "chapter": 4,
+      "verse_count": 21,
+      "sha256": "5a33cbfb3fc5d9f3c77cff6046b180badbb5e321fe570ea60f08aab8b9e54a14"
+    },
+    {
+      "chapter": 5,
+      "verse_count": 21,
+      "sha256": "0f49ee3b8a1e670038847e7efb97eb441449ab27f61c5a9cb9669c442749b77a"
+    }
+  ]
+}

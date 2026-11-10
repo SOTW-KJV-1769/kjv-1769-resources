@@ -1,0 +1,664 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "KJV1769",
+  "book_code": "1KI",
+  "chapter": 4,
+  "verses": [
+    {
+      "id": "1KI.4.1",
+      "edition_verse_id": "KJV1769:1KI.4.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "So king Solomon was king over all Israel.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1KI.4.2",
+      "edition_verse_id": "KJV1769:1KI.4.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "And these ",
+          "kind": "text"
+        },
+        {
+          "text": "were",
+          "kind": "supplied"
+        },
+        {
+          "text": " the princes which he had; Azariah the son of Zadok the priest,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1KI.4.3",
+      "edition_verse_id": "KJV1769:1KI.4.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "Elihoreph and Ahiah, the sons of Shisha, scribes; Jehoshaphat the son of Ahilud, the recorder.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1KI.4.4",
+      "edition_verse_id": "KJV1769:1KI.4.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "And Benaiah the son of Jehoiada ",
+          "kind": "text"
+        },
+        {
+          "text": "was",
+          "kind": "supplied"
+        },
+        {
+          "text": " over the host: and Zadok and Abiathar ",
+          "kind": "text"
+        },
+        {
+          "text": "were",
+          "kind": "supplied"
+        },
+        {
+          "text": " the priests:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1KI.4.5",
+      "edition_verse_id": "KJV1769:1KI.4.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "And Azariah the son of Nathan ",
+          "kind": "text"
+        },
+        {
+          "text": "was",
+          "kind": "supplied"
+        },
+        {
+          "text": " over the officers: and Zabud the son of Nathan ",
+          "kind": "text"
+        },
+        {
+          "text": "was",
+          "kind": "supplied"
+        },
+        {
+          "text": " principal officer, ",
+          "kind": "text"
+        },
+        {
+          "text": "and",
+          "kind": "supplied"
+        },
+        {
+          "text": " the king’s friend:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1KI.4.6",
+      "edition_verse_id": "KJV1769:1KI.4.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "And Ahishar ",
+          "kind": "text"
+        },
+        {
+          "text": "was",
+          "kind": "supplied"
+        },
+        {
+          "text": " over the household: and Adoniram the son of Abda ",
+          "kind": "text"
+        },
+        {
+          "text": "was",
+          "kind": "supplied"
+        },
+        {
+          "text": " over the tribute.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1KI.4.7",
+      "edition_verse_id": "KJV1769:1KI.4.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "¶ And Solomon had twelve officers over all Israel, which provided victuals for the king and his household: each man his month in a year made provision.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1KI.4.8",
+      "edition_verse_id": "KJV1769:1KI.4.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "And these ",
+          "kind": "text"
+        },
+        {
+          "text": "are",
+          "kind": "supplied"
+        },
+        {
+          "text": " their names: The son of Hur, in mount Ephraim:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1KI.4.9",
+      "edition_verse_id": "KJV1769:1KI.4.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "The son of Dekar, in Makaz, and in Shaalbim, and Beth-shemesh, and Elon-beth-hanan:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1KI.4.10",
+      "edition_verse_id": "KJV1769:1KI.4.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "The son of Hesed, in Aruboth; to him ",
+          "kind": "text"
+        },
+        {
+          "text": "pertained",
+          "kind": "supplied"
+        },
+        {
+          "text": " Sochoh, and all the land of Hepher:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1KI.4.11",
+      "edition_verse_id": "KJV1769:1KI.4.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "The son of Abinadab, in all the region of Dor; which had Taphath the daughter of Solomon to wife:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1KI.4.12",
+      "edition_verse_id": "KJV1769:1KI.4.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "Baana the son of Ahilud; ",
+          "kind": "text"
+        },
+        {
+          "text": "to him pertained",
+          "kind": "supplied"
+        },
+        {
+          "text": " Taanach and Megiddo, and all Beth-shean, which ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " by Zartanah beneath Jezreel, from Beth-shean to Abel-meholah, ",
+          "kind": "text"
+        },
+        {
+          "text": "even",
+          "kind": "supplied"
+        },
+        {
+          "text": " unto ",
+          "kind": "text"
+        },
+        {
+          "text": "the place that is",
+          "kind": "supplied"
+        },
+        {
+          "text": " beyond Jokneam:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1KI.4.13",
+      "edition_verse_id": "KJV1769:1KI.4.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "The son of Geber, in Ramoth-gilead; to him ",
+          "kind": "text"
+        },
+        {
+          "text": "pertained",
+          "kind": "supplied"
+        },
+        {
+          "text": " the towns of Jair the son of Manasseh, which ",
+          "kind": "text"
+        },
+        {
+          "text": "are",
+          "kind": "supplied"
+        },
+        {
+          "text": " in Gilead; to him ",
+          "kind": "text"
+        },
+        {
+          "text": "also pertained",
+          "kind": "supplied"
+        },
+        {
+          "text": " the region of Argob, which ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " in Bashan, threescore great cities with walls and brasen bars:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1KI.4.14",
+      "edition_verse_id": "KJV1769:1KI.4.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "Ahinadab the son of Iddo ",
+          "kind": "text"
+        },
+        {
+          "text": "had",
+          "kind": "supplied"
+        },
+        {
+          "text": " Mahanaim:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1KI.4.15",
+      "edition_verse_id": "KJV1769:1KI.4.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "Ahimaaz ",
+          "kind": "text"
+        },
+        {
+          "text": "was",
+          "kind": "supplied"
+        },
+        {
+          "text": " in Naphtali; he also took Basmath the daughter of Solomon to wife:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1KI.4.16",
+      "edition_verse_id": "KJV1769:1KI.4.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "Baanah the son of Hushai ",
+          "kind": "text"
+        },
+        {
+          "text": "was",
+          "kind": "supplied"
+        },
+        {
+          "text": " in Asher and in Aloth:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1KI.4.17",
+      "edition_verse_id": "KJV1769:1KI.4.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "Jehoshaphat the son of Paruah, in Issachar:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1KI.4.18",
+      "edition_verse_id": "KJV1769:1KI.4.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "Shimei the son of Elah, in Benjamin:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1KI.4.19",
+      "edition_verse_id": "KJV1769:1KI.4.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "Geber the son of Uri ",
+          "kind": "text"
+        },
+        {
+          "text": "was",
+          "kind": "supplied"
+        },
+        {
+          "text": " in the country of Gilead, ",
+          "kind": "text"
+        },
+        {
+          "text": "in",
+          "kind": "supplied"
+        },
+        {
+          "text": " the country of Sihon king of the Amorites, and of Og king of Bashan; and ",
+          "kind": "text"
+        },
+        {
+          "text": "he was",
+          "kind": "supplied"
+        },
+        {
+          "text": " the only officer which ",
+          "kind": "text"
+        },
+        {
+          "text": "was",
+          "kind": "supplied"
+        },
+        {
+          "text": " in the land.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1KI.4.20",
+      "edition_verse_id": "KJV1769:1KI.4.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "¶ Judah and Israel ",
+          "kind": "text"
+        },
+        {
+          "text": "were",
+          "kind": "supplied"
+        },
+        {
+          "text": " many, as the sand which ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " by the sea in multitude, eating and drinking, and making merry.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1KI.4.21",
+      "edition_verse_id": "KJV1769:1KI.4.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "And Solomon reigned over all kingdoms from the river unto the land of the Philistines, and unto the border of Egypt: they brought presents, and served Solomon all the days of his life.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1KI.4.22",
+      "edition_verse_id": "KJV1769:1KI.4.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "¶ And Solomon’s provision for one day was thirty measures of fine flour, and threescore measures of meal,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1KI.4.23",
+      "edition_verse_id": "KJV1769:1KI.4.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "Ten fat oxen, and twenty oxen out of the pastures, and an hundred sheep, beside harts, and roebucks, and fallowdeer, and fatted fowl.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1KI.4.24",
+      "edition_verse_id": "KJV1769:1KI.4.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "For he had dominion over all ",
+          "kind": "text"
+        },
+        {
+          "text": "the region",
+          "kind": "supplied"
+        },
+        {
+          "text": " on this side the river, from Tiphsah even to Azzah, over all the kings on this side the river: and he had peace on all sides round about him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1KI.4.25",
+      "edition_verse_id": "KJV1769:1KI.4.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "And Judah and Israel dwelt safely, every man under his vine and under his fig tree, from Dan even to Beer-sheba, all the days of Solomon.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1KI.4.26",
+      "edition_verse_id": "KJV1769:1KI.4.26",
+      "verse": 26,
+      "spans": [
+        {
+          "text": "¶ And Solomon had forty thousand stalls of horses for his chariots, and twelve thousand horsemen.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1KI.4.27",
+      "edition_verse_id": "KJV1769:1KI.4.27",
+      "verse": 27,
+      "spans": [
+        {
+          "text": "And those officers provided victual for king Solomon, and for all that came unto king Solomon’s table, every man in his month: they lacked nothing.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1KI.4.28",
+      "edition_verse_id": "KJV1769:1KI.4.28",
+      "verse": 28,
+      "spans": [
+        {
+          "text": "Barley also and straw for the horses and dromedaries brought they unto the place where ",
+          "kind": "text"
+        },
+        {
+          "text": "the officers",
+          "kind": "supplied"
+        },
+        {
+          "text": " were, every man according to his charge.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1KI.4.29",
+      "edition_verse_id": "KJV1769:1KI.4.29",
+      "verse": 29,
+      "spans": [
+        {
+          "text": "¶ And God gave Solomon wisdom and understanding exceeding much, and largeness of heart, even as the sand that ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " on the sea shore.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1KI.4.30",
+      "edition_verse_id": "KJV1769:1KI.4.30",
+      "verse": 30,
+      "spans": [
+        {
+          "text": "And Solomon’s wisdom excelled the wisdom of all the children of the east country, and all the wisdom of Egypt.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1KI.4.31",
+      "edition_verse_id": "KJV1769:1KI.4.31",
+      "verse": 31,
+      "spans": [
+        {
+          "text": "For he was wiser than all men; than Ethan the Ezrahite, and Heman, and Chalcol, and Darda, the sons of Mahol: and his fame was in all nations round about.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1KI.4.32",
+      "edition_verse_id": "KJV1769:1KI.4.32",
+      "verse": 32,
+      "spans": [
+        {
+          "text": "And he spake three thousand proverbs: and his songs were a thousand and five.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1KI.4.33",
+      "edition_verse_id": "KJV1769:1KI.4.33",
+      "verse": 33,
+      "spans": [
+        {
+          "text": "And he spake of trees, from the cedar tree that ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " in Lebanon even unto the hyssop that springeth out of the wall: he spake also of beasts, and of fowl, and of creeping things, and of fishes.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1KI.4.34",
+      "edition_verse_id": "KJV1769:1KI.4.34",
+      "verse": 34,
+      "spans": [
+        {
+          "text": "And there came of all people to hear the wisdom of Solomon, from all kings of the earth, which had heard of his wisdom.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}
